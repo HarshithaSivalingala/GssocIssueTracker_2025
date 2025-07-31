@@ -1,0 +1,2264 @@
+# 🚀 Projects using Go
+
+## 📌 Project: DevElevate
+
+📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
+Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
+An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
+Personalized dashboards for learners, including progress tracking, daily planners, and goals.
+A tech feed offering real-time internship updates, hackathon events, and developer news.
+Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
+Role-based authentication for users and admins, with profile management and admin dashboard.
+Integrated coding practice links (GFG, LeetCode, HackerRank).
+Accessibility features like dark mode,white.
+
+🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
+
+💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 🐞 Issue: Admin Dashboard Displays Only Dummy Data — Needs Full Backend Integration | Easy | [#173](https://github.com/abhisek2004/Dev-Elevate/issues/173) |
+| 🐞 Bug Report: Study Buddy AI Chat Categories Not Working | Easy | [#168](https://github.com/abhisek2004/Dev-Elevate/issues/168) |
+| Feature Request: Build a Full Interactive “Learning Hub Data Structures & Algorithms 6 modules • Interactive learning” 📘📚 | Easy | [#167](https://github.com/abhisek2004/Dev-Elevate/issues/167) |
+| AI Career Roadmap Generator (from Interests) | Medium | [#178](https://github.com/abhisek2004/Dev-Elevate/issues/178) |
+| Improve controller middleware for clarity and correct some typos | Medium | [#147](https://github.com/abhisek2004/Dev-Elevate/issues/147) |
+
+---
+
+## 📌 Project: people hub
+
+📝 **Description:** This project is a comprehensive Employee Management Portal with secure login authentication. It empowers users to efficiently create, update, and delete employee details, along with managing leave requests. Future enhancements include a modernized user interface, notification management, and the integration of other advanced features for a complete people management solution.
+
+🔗 [View Project](https://github.com/abhisek247767/PeopleHub-Frontend)
+
+💻 **Tech Stack:** Angular, Node.js, MongoDB, Docker
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Logo add | Easy | [#55](https://github.com/abhisek247767/PeopleHub-Frontend/issues/55) |
+| Update README.md file | Easy | [#42](https://github.com/abhisek247767/PeopleHub-Frontend/issues/42) |
+| project page ui issue | Easy | [#22](https://github.com/abhisek247767/PeopleHub-Frontend/issues/22) |
+| Frontend - register page | Easy | [#7](https://github.com/abhisek247767/PeopleHub-Frontend/issues/7) |
+| improving UI of Employee and Project Employee Tabs | Medium | [#66](https://github.com/abhisek247767/PeopleHub-Frontend/issues/66) |
+| Adding License to the repository | Medium | [#65](https://github.com/abhisek247767/PeopleHub-Frontend/issues/65) |
+| Update READEM.md file | Medium | [#64](https://github.com/abhisek247767/PeopleHub-Frontend/pull/64) |
+| feat: add responsive PeopleHub logo to header (dark + light theme compatible) | Medium | [#63](https://github.com/abhisek247767/PeopleHub-Frontend/pull/63) |
+| Dashboard Navbar Appears Too Minimal – Suggest UI Enhancements" | Medium | [#58](https://github.com/abhisek247767/PeopleHub-Frontend/issues/58) |
+| Updated README.md | Medium | [#49](https://github.com/abhisek247767/PeopleHub-Frontend/pull/49) |
+| Improved Settings Page UI and Integrated Profile Image Upload | Medium | [#48](https://github.com/abhisek247767/PeopleHub-Frontend/pull/48) |
+| Improved Settings Page UI and Added Profile Photo Upload | Medium | [#38](https://github.com/abhisek247767/PeopleHub-Frontend/pull/38) |
+| settings page ui not good and not matching to main page | Medium | [#13](https://github.com/abhisek247767/PeopleHub-Frontend/issues/13) |
+| #51 Profile Picture frontend updated. At registration+settings page | Hard | [#52](https://github.com/abhisek247767/PeopleHub-Frontend/pull/52) |
+| Profile Picture Frontend Update in registration and settings And making the settings page responsive. | Hard | [#51](https://github.com/abhisek247767/PeopleHub-Frontend/issues/51) |
+
+---
+
+## 📌 Project: JobSync - Inclusive Job Finder Platform
+
+📝 **Description:** JobSync is a job discovery platform designed for underprivileged individuals and daily wage workers. It simplifies access to job opportunities through a clean UI, multilingual support, and voice-enabled search. Contributors will help build core features like user authentication, a job search dashboard with scraping or API integration, and accessibility tools for low-literacy users. The goal is to create a user-friendly and inclusive job-seeking experience for those who need it most.
+
+🔗 [View Project](https://github.com/adityagarwal15/JobSync)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Web Speech API, i18next, Netlify
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding a footer | Medium | [#185](https://github.com/adityagarwal15/JobSync/issues/185) |
+| Adding a new animated cursor | Medium | [#184](https://github.com/adityagarwal15/JobSync/issues/184) |
+| Dashboard – Profile Info + Resume Upload Option (GSSoC’25) | Medium | [#183](https://github.com/adityagarwal15/JobSync/issues/183) |
+| Fix: Re-implement menu close on outside click using latest repo state | Medium | [#182](https://github.com/adityagarwal15/JobSync/pull/182) |
+| New footer message added in the index.ejs | Medium | [#181](https://github.com/adityagarwal15/JobSync/pull/181) |
+| updated contributing.md file | Medium | [#180](https://github.com/adityagarwal15/JobSync/pull/180) |
+| Fixed issue #38: Added hover effect | Medium | [#178](https://github.com/adityagarwal15/JobSync/pull/178) |
+| navbar made responsive | Medium | [#177](https://github.com/adityagarwal15/JobSync/pull/177) |
+| Refactor: Make skip button responsive and adjust z-index | Medium | [#172](https://github.com/adityagarwal15/JobSync/pull/172) |
+| Skip Loading Animation button | Medium | [#166](https://github.com/adityagarwal15/JobSync/pull/166) |
+| Hover effect on service cards | Medium | [#151](https://github.com/adityagarwal15/JobSync/pull/151) |
+| Fix: added blur | Medium | [#138](https://github.com/adityagarwal15/JobSync/pull/138) |
+| Added minimal hover effect on menu-item | Medium | [#137](https://github.com/adityagarwal15/JobSync/pull/137) |
+| updated pr (Clean help section) | Medium | [#136](https://github.com/adityagarwal15/JobSync/pull/136) |
+
+---
+
+## 📌 Project: Aluma
+
+📝 **Description:** With the growing need for mental health support and the lack of accessible or affordable resources , Aluma aims to provide a simple and supportive platform for emotjonal well being, for people of all ages. Aluma combines helpful tools like mood tracking, AI powered chatbots which personalise the response based on the information the user gives and music to support users in their daily mental health journey. The platform features 2 chatbots, Elena for emotional support and Jess for motivation, offering friendly conversations and helpful suggestions. Users can track their daily mood and events in a virtual Journal, take emotional assessments and receive AI generated tips for their specific situation. Aluma also offers relaxing music and meditation video links to help with anxiety and stress. This project has been shaped by feedback from over 60 users and focuses on providing a safe anf welcoming space for emotional care.
+
+🔗 [View Project](https://github.com/AdityaRalhan/Aluma)
+
+💻 **Tech Stack:** Next.js, React.js, Tailwind CSS, Express.js, MongoDB, Mongoose, Gemini API, Spotify API, JWT, Bcrypt
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Self assesment section: questions' options remain hidden until we click on it | Medium | [#42](https://github.com/AdityaRalhan/Aluma/issues/42) |
+| Add password strength indicator | Medium | [#41](https://github.com/AdityaRalhan/Aluma/issues/41) |
+| Adding auth through google | Medium | [#40](https://github.com/AdityaRalhan/Aluma/issues/40) |
+| Old Twitter logo used — needs update to new 'X' logo | Medium | [#39](https://github.com/AdityaRalhan/Aluma/issues/39) |
+| Inconsistent Button Design Across Interface Cards | Medium | [#38](https://github.com/AdityaRalhan/Aluma/issues/38) |
+| Adding Favicon | Medium | [#37](https://github.com/AdityaRalhan/Aluma/issues/37) |
+| Add Signup, Signin, User Profile, Usage Limit & Premium Upgrade Feature | Medium | [#36](https://github.com/AdityaRalhan/Aluma/issues/36) |
+| Routes Not Handled Properly – Login/Signup Pages Displayed Separately Without Layout | Medium | [#35](https://github.com/AdityaRalhan/Aluma/issues/35) |
+| UI is Stuck While Scrolling – No Proper Smooth Scrolling | Medium | [#34](https://github.com/AdityaRalhan/Aluma/issues/34) |
+| UI Inconsistency(About Us page): Shadow Styling on Tabs | Medium | [#33](https://github.com/AdityaRalhan/Aluma/issues/33) |
+| Improve Branding: Add Custom Favicon to Website | Medium | [#32](https://github.com/AdityaRalhan/Aluma/issues/32) |
+| 🖼️ Add Project Screenshots to README.md | Medium | [#31](https://github.com/AdityaRalhan/Aluma/issues/31) |
+| Add Mental Wellness Book Recommendations Section | Medium | [#30](https://github.com/AdityaRalhan/Aluma/pull/30) |
+| Headings are not responsive | Medium | [#28](https://github.com/AdityaRalhan/Aluma/issues/28) |
+| Issue: 404 Error on Python Course Page | Medium | [#25](https://github.com/AdityaRalhan/Aluma/issues/25) |
+| Integrating Chatbot | Medium | [#23](https://github.com/AdityaRalhan/Aluma/issues/23) |
+| Add APIs to delete individual and all user conversation messages | Medium | [#20](https://github.com/AdityaRalhan/Aluma/issues/20) |
+| Enhance Sign-Up Form with Glassmorphism for Modern UI Appeal | Medium | [#19](https://github.com/AdityaRalhan/Aluma/issues/19) |
+| Enhance Password Security UX in Auth Forms | Medium | [#18](https://github.com/AdityaRalhan/Aluma/pull/18) |
+| Optimize Image Delivery and Improve LCP | Medium | [#17](https://github.com/AdityaRalhan/Aluma/issues/17) |
+| Improvement in journal section() | Medium | [#16](https://github.com/AdityaRalhan/Aluma/issues/16) |
+| Bug fixing visibility of text | Medium | [#14](https://github.com/AdityaRalhan/Aluma/issues/14) |
+| 🔐 Add password strength meter to signup page | Medium | [#11](https://github.com/AdityaRalhan/Aluma/pull/11) |
+
+---
+
+## 📌 Project: Trendhora
+
+📝 **Description:** Trendhora – your gateway to a seamless online shopping experience. This full-stack ecommerce application harnesses the power of the MERN stack to bring you a dynamic and interactive marketplace. Whether you're a buyer exploring diverse product categories or an admin managing inventory and customer accounts, Trendhora offers a robust and feature-rich platform for all your ecommerce needs.
+
+🔗 [View Project](https://github.com/agamjotsingh18/trendhora)
+
+💻 **Tech Stack:** MERN, Mongoose, Material UI
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Create Add New Clothing Brand | Medium | [#46](https://github.com/agamjotsingh18/trendhora/pull/46) |
+| Registering new user doesnt work also CORS error is shown + other Ui fixes | Medium | [#44](https://github.com/agamjotsingh18/trendhora/issues/44) |
+| Issue: Search Bar Not Responsive on Small Screens | Medium | [#41](https://github.com/agamjotsingh18/trendhora/issues/41) |
+| 🐞 UI Issue: Delivery Information and Cart Totals Layout Overflow | Medium | [#40](https://github.com/agamjotsingh18/trendhora/issues/40) |
+| Sign-up and login are not working due to a CORS origin error. | Medium | [#38](https://github.com/agamjotsingh18/trendhora/issues/38) |
+| Add toast notifications instead of using alert in the frontend for login/signup pages | Medium | [#33](https://github.com/agamjotsingh18/trendhora/issues/33) |
+| feat: Standardize Header Controls - Login, Wishlist, and Cart Button Consistency | Medium | [#31](https://github.com/agamjotsingh18/trendhora/pull/31) |
+| feat: make entire product card clickable instead of just product title | Medium | [#30](https://github.com/agamjotsingh18/trendhora/pull/30) |
+| SIGNUP AND LOGIN BACKEND IS NOT WORKING | Medium | [#29](https://github.com/agamjotsingh18/trendhora/issues/29) |
+| search feature added | Medium | [#23](https://github.com/agamjotsingh18/trendhora/pull/23) |
+| BUG: images not showing in cart | Medium | [#18](https://github.com/agamjotsingh18/trendhora/issues/18) |
+
+---
+
+## 📌 Project: InfantCareCompass
+
+📝 **Description:** InfantCareCompass is a dedicated platform designed to simplify childcare management for modern parents. Balancing the joys and challenges of parenting, this application empowers users to efficiently track their child’s healthcare needs, particularly focusing on vaccination schedules, educational resources, and more.
+
+🔗 [View Project](https://github.com/Amarjha01/InfantCareCompass)
+
+💻 **Tech Stack:** MERN, Tailwind CSS, ZegoCloud, Cloudinary, JWT, Docker, GitHub Actions, OpenAI API, LangChain, TensorFlow.js, Python, FastAPI
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Updated Twitter icon to new X logo with consistent styling | Medium | [#169](https://github.com/Amarjha01/InfantCareCompass/pull/169) |
+| feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
+| Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
+| modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
+| updated the contributing.md file | Medium | [#152](https://github.com/Amarjha01/InfantCareCompass/pull/152) |
+| Added 404 and global error handling | Medium | [#151](https://github.com/Amarjha01/InfantCareCompass/pull/151) |
+| refactored the controller logic and removed issues | Medium | [#147](https://github.com/Amarjha01/InfantCareCompass/pull/147) |
+| Fixed Newsletter Subscription API Integration | Medium | [#136](https://github.com/Amarjha01/InfantCareCompass/pull/136) |
+
+---
+
+## 📌 Project: OWASP Nest
+
+📝 **Description:** Your gateway to OWASP
+
+🔗 [View Project](https://github.com/owasp/nest)
+
+💻 **Tech Stack:** Python, Django, GraphQL, TypeScript, Next.js, React, Tailwind CSS, Docker
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add tests for <UserMenu> component | Easy | [#1918](https://github.com/OWASP/Nest/issues/1918) |
+| Add tests for <SortBy> component | Easy | [#1915](https://github.com/OWASP/Nest/issues/1915) |
+| Add tests for <SkeletonsBase> component | Easy | [#1913](https://github.com/OWASP/Nest/issues/1913) |
+| Add OrganizationSitemap to OWASP Nest Sitemap Functionality | Medium | [#1931](https://github.com/OWASP/Nest/pull/1931) |
+| added badge model | Medium | [#1929](https://github.com/OWASP/Nest/pull/1929) |
+| Bump @types/node from 22.16.5 to 22.17.0 in /frontend | Medium | [#1923](https://github.com/OWASP/Nest/pull/1923) |
+| Fixed itemcardlist imports | Medium | [#1922](https://github.com/OWASP/Nest/pull/1922) |
+| Test: add unit tests for BarChart component #1801 | Medium | [#1904](https://github.com/OWASP/Nest/pull/1904) |
+| feat(Pagination): accessibility tweaks & add unit tests | Medium | [#1903](https://github.com/OWASP/Nest/pull/1903) |
+| fix: align 'Show more' button in Projects page-#1329 | Medium | [#1894](https://github.com/OWASP/Nest/pull/1894) |
+| Feature Sdk Generation Implemntation | Medium | [#1893](https://github.com/OWASP/Nest/pull/1893) |
+| NestBot AI Assistant Contexts | Medium | [#1891](https://github.com/OWASP/Nest/pull/1891) |
+| Added Unit Tests for LoginPageContent | Medium | [#1890](https://github.com/OWASP/Nest/pull/1890) |
+
+---
+
+## 📌 Project: Drx.MediMate
+
+📝 **Description:** Aditi is a Flask-based web application that serves as your AI-powered pharmaceutical assistant. It provides:
+
+Clinical drug information, including therapeutic uses, dosage guidelines, side effects, contraindications, and drug interactions.
+
+Symptom-based drug recommendations following evidence-based guidelines.
+
+Educational Use: Designed for educational purposes to assist in healthcare decision-making.
+
+
+
+🔗 [View Project](https://github.com/MAVERICK-VF142/Drx.MediMate)
+
+💻 **Tech Stack:** Python, Flask, Google Generative AI, HTML, CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Refactor: Standardized Gemini API responses, logging & documentation | Medium | [#96](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/96) |
+
+---
+
+## 📌 Project: Code A2Z
+
+📝 **Description:** A collaborative platform for developers & learners to explore, build, and contribute to Web Development & AI projects. Features include AI-driven recommendations, role-based access, project tracking, interactive community engagement, and structured learning resources.
+
+🔗 [View Project](https://github.com/Code-A2Z/code-a2z)
+
+💻 **Tech Stack:** React, Vite, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 📃: Adding Music record manager | Easy | [#914](https://github.com/Code-A2Z/code-a2z/issues/914) |
+| 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
+| Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
+| 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
+| 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
+| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
+| 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
+| 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
+| 📃: House Price Prediction | Medium | [#1145](https://github.com/Code-A2Z/code-a2z/issues/1145) |
+| 📃: Daily Habit Tracker | Medium | [#1036](https://github.com/Code-A2Z/code-a2z/issues/1036) |
+| 📃: TextUtils | Medium | [#1032](https://github.com/Code-A2Z/code-a2z/issues/1032) |
+| 📃: Solar System | Medium | [#1027](https://github.com/Code-A2Z/code-a2z/issues/1027) |
+| 📃: Astronomy Picture of the Day Project | Medium | [#1025](https://github.com/Code-A2Z/code-a2z/issues/1025) |
+| 📃: QR code Reader | Medium | [#1023](https://github.com/Code-A2Z/code-a2z/issues/1023) |
+| 📃: Amazon Mini-TV Clone | Medium | [#1022](https://github.com/Code-A2Z/code-a2z/issues/1022) |
+| 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
+| 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
+| 📃: IDE code editor | Medium | [#996](https://github.com/Code-A2Z/code-a2z/issues/996) |
+| 📃: Implement Department Hub for Efficient Department Management | Medium | [#953](https://github.com/Code-A2Z/code-a2z/issues/953) |
+| 📃:  Advanced Crypto Currency Tracking Application | Medium | [#913](https://github.com/Code-A2Z/code-a2z/issues/913) |
+| 📃: Management System App | Medium | [#911](https://github.com/Code-A2Z/code-a2z/issues/911) |
+| 📃: Static Blog Website | Medium | [#902](https://github.com/Code-A2Z/code-a2z/issues/902) |
+
+---
+
+## 📌 Project: Refixly
+
+📝 **Description:** Refixly is a smart DIY repair assistant that uses AI to detect objects through your webcam and suggest repair tutorials. Future updates will include AR overlays and community support for an interactive repair experience.
+
+
+
+🔗 [View Project](https://github.com/Bavanetha27/Refixly.git)
+
+💻 **Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Express.js, Firebase Authentication, MongoDB Atlas, TensorFlow.js, YouTube Data API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding delete account feature | Medium | [#51](https://github.com/Bavanetha27/Refixly/issues/51) |
+| Establish foundational project structure: add README, CI pipeline, linting and testing framework | Medium | [#42](https://github.com/Bavanetha27/Refixly/issues/42) |
+| Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
+| Add the Ai course | Medium | [#36](https://github.com/Bavanetha27/Refixly/pull/36) |
+| Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
+
+---
+
+## 📌 Project: Pouranik - Read. Share. Connect.
+
+📝 **Description:** Pouranik is a community-driven web app that helps readers explore books, join book clubs, track reading goals, and share second-hand books, all in one cozy, open-source platform.
+
+🔗 [View Project](https://github.com/BhaktiMore18/Pouranik)
+
+💻 **Tech Stack:** React, Tailwind CSS, Vite, Node.js, Express, MongoDB, Google Books API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Auto-scroll to top on route change | Easy | [#69](https://github.com/BhaktiMore18/Pouranik/issues/69) |
+| Improvement in the code | Medium | [#114](https://github.com/BhaktiMore18/Pouranik/pull/114) |
+| UI Improvement: Add Testimonials Section to Showcase User Feedback | Medium | [#113](https://github.com/BhaktiMore18/Pouranik/issues/113) |
+| resolved the issue i raised regarding issue in Sign in Page(frontend) | Medium | [#112](https://github.com/BhaktiMore18/Pouranik/pull/112) |
+| Issue: Create User Profile Page | Medium | [#110](https://github.com/BhaktiMore18/Pouranik/issues/110) |
+| Enhancing user navigability during search books. | Medium | [#106](https://github.com/BhaktiMore18/Pouranik/issues/106) |
+| Auto Logout when token expires (Part 1) | Medium | [#105](https://github.com/BhaktiMore18/Pouranik/pull/105) |
+| Suggestion: Setup Global Store for Auth/User State | Medium | [#103](https://github.com/BhaktiMore18/Pouranik/issues/103) |
+| backend for Login/signUp | Medium | [#81](https://github.com/BhaktiMore18/Pouranik/pull/81) |
+| Add AI Summary Generator for Book Details Page | Medium | [#58](https://github.com/BhaktiMore18/Pouranik/pull/58) |
+| ui enhanced overflows prevented | Medium | [#44](https://github.com/BhaktiMore18/Pouranik/pull/44) |
+
+---
+
+## 📌 Project: Clean Breath 
+
+📝 **Description:** Clean Breath is an intuitive web application designed to empower users to actively improve the air quality in their homes, offices, and communities by recommending the most effective air-purifying plants based on real-time pollutant data. By addressing pollutants like SO₂, NO₂, CO, O₃, PM2.5, and PM10, the app connects environmental science with daily living to create cleaner, greener spaces.
+
+🔑 Core Features
+📊 Track Air Quality:
+Monitor real-time air quality data (AQI) and pollutant concentrations in your area to understand the air you breathe.
+
+🪴 Know Your Plant:
+Explore detailed information about various plants, including their air-purifying capabilities, ideal conditions, and aesthetic appeal.
+
+📚 Green Insights:
+Access well-curated articles, care guides, and expert tips on plant maintenance, indoor gardening, and sustainable practices.
+
+🌿 Find Your Plant:
+Get personalized plant recommendations tailored to your location, indoor/outdoor preferences, and the pollutants you wish to target.
+
+🎯 Purpose
+Clean Breath aims to bridge the gap between environmental awareness and actionable solutions. By promoting the use of nature-based strategies for air purification, the app fosters healthier living while encouraging plant adoption and eco-conscious decision-making.
+
+💡 Ideal For
+Urban dwellers seeking cleaner indoor air
+
+Health-conscious individuals and families
+
+Environmental enthusiasts and green lifestyle advocates
+
+Schools, offices, and wellness centers looking to green their spaces
+
+🔗 [View Project](https://github.com/chandannekya/Clean-Breath)
+
+💻 **Tech Stack:** React, Tailwind CSS, Vite, Node.js, Express, MongoDB, Razorpay
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 🎨 Low Contrast Button Text – "No More" and "Buy Plant" | Medium | [#103](https://github.com/chandannekya/Clean-Breath/issues/103) |
+| Code of Conduct for Clean-Breath | GSSoC'25 Open Source Contribution | Medium | [#102](https://github.com/chandannekya/Clean-Breath/issues/102) |
+| There is No error Handling in server/index.js | Medium | [#101](https://github.com/chandannekya/Clean-Breath/issues/101) |
+| Add Password Validation & Toast Notifications for Auth Flows | Medium | [#100](https://github.com/chandannekya/Clean-Breath/issues/100) |
+| using  of <NavLink> | Medium | [#99](https://github.com/chandannekya/Clean-Breath/issues/99) |
+| allow users to upload images in blogs | Medium | [#98](https://github.com/chandannekya/Clean-Breath/issues/98) |
+| enhacing the ui of blogs section | Medium | [#97](https://github.com/chandannekya/Clean-Breath/issues/97) |
+| Add Profile Icon and Fix Inconsistent Button Background Styling | Medium | [#96](https://github.com/chandannekya/Clean-Breath/issues/96) |
+| Add Google Login using Firebase Authentication | Medium | [#95](https://github.com/chandannekya/Clean-Breath/issues/95) |
+| Profile Page | Medium | [#94](https://github.com/chandannekya/Clean-Breath/issues/94) |
+| Improve About Page with Motion Effects and Design Updates | Medium | [#93](https://github.com/chandannekya/Clean-Breath/pull/93) |
+| : Add Prettier Config for Code Consistency | Medium | [#92](https://github.com/chandannekya/Clean-Breath/issues/92) |
+| Add Script to Run Both Frontend and Backend Simultaneously | Medium | [#91](https://github.com/chandannekya/Clean-Breath/issues/91) |
+| Add Project Structure Diagram or Section in README.md | Medium | [#90](https://github.com/chandannekya/Clean-Breath/issues/90) |
+| Improve Accessibility by Adding Alt Text and ARIA Labels | Medium | [#89](https://github.com/chandannekya/Clean-Breath/issues/89) |
+| Rename Folder midelware to middleware | Medium | [#88](https://github.com/chandannekya/Clean-Breath/issues/88) |
+| Add Environment Variable Setup Instructions to README | Medium | [#87](https://github.com/chandannekya/Clean-Breath/issues/87) |
+| Add "Back to Top" Button in README.md for Better Navigation | Medium | [#86](https://github.com/chandannekya/Clean-Breath/issues/86) |
+| Feature Request: Add Favicon to the Website | Medium | [#85](https://github.com/chandannekya/Clean-Breath/issues/85) |
+| Complete Blog Page Redesign (Frontend + Backend) – Closes #74 | Medium | [#84](https://github.com/chandannekya/Clean-Breath/pull/84) |
+| Add search and filter functionality to plant recommendations. | Medium | [#83](https://github.com/chandannekya/Clean-Breath/issues/83) |
+| Scroll Doesn't Reset When Navigating from FAQ Links | Medium | [#82](https://github.com/chandannekya/Clean-Breath/issues/82) |
+| Bug: Mongoose Connection Uses Wrong Environment Variable | Medium | [#81](https://github.com/chandannekya/Clean-Breath/issues/81) |
+| Missing Forgot Password option while sign in | Medium | [#80](https://github.com/chandannekya/Clean-Breath/issues/80) |
+| refactored code to use utility | Medium | [#78](https://github.com/chandannekya/Clean-Breath/pull/78) |
+| Created backed for the User Profile section | Medium | [#77](https://github.com/chandannekya/Clean-Breath/pull/77) |
+| Fixing the data error | Medium | [#76](https://github.com/chandannekya/Clean-Breath/issues/76) |
+| Adding Contributing.md | Medium | [#75](https://github.com/chandannekya/Clean-Breath/issues/75) |
+| UI enhancement for login and sign up page and provide real time aqi data | Medium | [#72](https://github.com/chandannekya/Clean-Breath/issues/72) |
+
+---
+
+## 📌 Project: SheSync
+
+📝 **Description:** SheSync is a comprehensive women's health and wellness platform built with modern web technologies. The platform aims to provide a supportive environment for women to access health resources, connect with healthcare professionals, and engage with a community of like-minded individuals.
+
+🔗 [View Project](https://github.com/divi-24/SheSync)
+
+💻 **Tech Stack:** React 18, Vite, Tailwind CSS, Framer Motion, React Router DOM, Google Maps API, Google Generative AI, Clerk Authentication, Headless UI, Radix UI, React Icons, Lucide React, React Feather, ESLint, PostCSS, Autoprefixer, TypeScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Product Filters Located Below Items | Medium | [#341](https://github.com/divi-24/SheSync/issues/341) |
+| Fix dark mode consistency and security headers implementation | Medium | [#338](https://github.com/divi-24/SheSync/pull/338) |
+
+---
+
+## 📌 Project: Splitwiser
+
+📝 **Description:** Splitwiser is an open-source application designed to simplify expense sharing among groups. It aims to provide a robust and user-friendly platform for tracking and settling shared expenses, similar to popular expense-splitting apps, but completely open source and community-driven.
+
+🔗 [View Project](https://github.com/Devasy23/splitwiser)
+
+💻 **Tech Stack:** FastAPI, Python, MongoDB, React Native, Expo
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Missing Dependency in package.json | Easy | [#85](https://github.com/Devasy23/splitwiser/issues/85) |
+| feat: Add create and join group functionality | Medium | [#93](https://github.com/Devasy23/splitwiser/pull/93) |
+| fix: standardize timestamp fields to camelCase in API responses | Medium | [#91](https://github.com/Devasy23/splitwiser/pull/91) |
+| cleanup debug code, TODOs, and hardcoded values (Issue #59) | Medium | [#88](https://github.com/Devasy23/splitwiser/pull/88) |
+| Update package.json | Medium | [#87](https://github.com/Devasy23/splitwiser/pull/87) |
+| Update package.json | Medium | [#86](https://github.com/Devasy23/splitwiser/pull/86) |
+| Remove frontend codebase and add comprehensive documentation | Medium | [#47](https://github.com/Devasy23/splitwiser/pull/47) |
+| Docs: Align API documentation with implementation | Medium | [#27](https://github.com/Devasy23/splitwiser/pull/27) |
+| 📱 Frontend Implementation - Major Components Missing | Medium | [#21](https://github.com/Devasy23/splitwiser/issues/21) |
+| 🎯 Epic: Groups Service Implementation & Test Coverage Analysis | Hard | [#22](https://github.com/Devasy23/splitwiser/issues/22) |
+
+---
+
+## 📌 Project: ClassSync
+
+📝 **Description:** ClassSync is an advanced, multi-tenant school scheduling and substitution management system that streamlines weekly timetable creation, automates teacher substitutions during absences, and ensures conflict-free allocations through intelligent load-balancing logic; built with a scalable MERN stack architecture, it features role-based access for admins and teachers, real-time email notifications, a visually intuitive timetable UI, and future-ready support for audit trails and class-wise views.
+
+🔗 [View Project](https://github.com/dhananjay6561/ClassSync-GSSOC)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Vite, Node.js, Express.js, MongoDB, Mongoose, JWT, Nodemailer, Node Cron, Vercel, Render, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Testimonial Section to the UI | Medium | [#55](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/55) |
+| Willing to contribute(HTML/CSS and Docs Enhancement) | Medium | [#54](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/54) |
+| feat: Added Notification Service | Medium | [#53](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/53) |
+| Making the heading dynamic | Medium | [#52](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/52) |
+| Feat/student apis | Medium | [#51](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/51) |
+| UI/UX enhancements to the landing page | Medium | [#50](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/50) |
+| Add Student Portal to the application | Medium | [#33](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/33) |
+| Add dark mode feature | Medium | [#31](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/31) |
+| UI/UX Improvements for Admin Dashboard | Medium | [#5](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/5) |
+
+---
+
+## 📌 Project: Advanced Discord Bots - VAISH 
+
+📝 **Description:** VAISH — Ultra-Modern AI Discord Bot Framework is an open-source, next-generation Discord bot solution designed for modern communities, gaming servers, and large-scale deployments. It combines powerful automation, AI-driven features, and complete code ownership — all with zero subscription fees or vendor lock-in. Built using Discord.js v14, Node.js 18+, MongoDB Atlas, Google Gemini AI, and Mongoose, VAISH delivers intelligent conversations, advanced moderation, community rewards, and a beautiful, responsive user interface. The framework offers developer-friendly architecture, scalable database integration, and seamless cloud deployment to platforms like Render, Railway, or private servers.
+
+As an open-source project, VAISH welcomes contributors to build their own custom bots, develop new AI features, enhance performance, and improve documentation. Our mission is to empower Discord communities with secure, AI-powered automation tools while fostering global collaboration. Developers passionate about Discord, AI, or open-source innovation are invited to join VAISH and help shape the future of intelligent, community-driven Discord bots.
+
+🔗 [View Project](https://github.com/harshendram/Advanced-Discord-Bot)
+
+💻 **Tech Stack:** JavaScript, Node.js, Discord.js, MongoDB Atlas, Mongoose, Google Gemini AI, TypeScript, dotenv, ESLint, Prettier, Render, Redis
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Website added (#35) | Medium | [#44](https://github.com/harshendram/Advanced-Discord-Bot/pull/44) |
+| [Improvement] : Complete Economy Update | Medium | [#43](https://github.com/harshendram/Advanced-Discord-Bot/pull/43) |
+| Create a zip file downloadable link in the readme | Hard | [#36](https://github.com/harshendram/Advanced-Discord-Bot/issues/36) |
+
+---
+
+## 📌 Project: Zip Tales
+
+📝 **Description:** AI-powered news verification platform that filters misinformation and provides community-verified credibility scores for authentic journalism.
+
+🔗 [View Project](https://github.com/HimanshuHeda/Zip_Tales)
+
+💻 **Tech Stack:** React 18.3.1, TypeScript 5.5.3, Tailwind CSS 3.4.1, Vite 5.4.2, React Router DOM 6.8.1, Supabase, Google Gemini AI, News API, SerpAPI, ESLint, PostCSS, Lucide React, Netlify
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Footer "Connect" section links are non-functional | Medium | [#32](https://github.com/HimanshuHeda/Zip_Tales/issues/32) |
+| UI Enhanced with user interface and with hover animation and more dynamic | Medium | [#31](https://github.com/HimanshuHeda/Zip_Tales/pull/31) |
+| Fix of login state loss on page refresh | Medium | [#14](https://github.com/HimanshuHeda/Zip_Tales/pull/14) |
+
+---
+
+## 📌 Project: FrostIQ
+
+📝 **Description:** FrostIQ is an open-source platform designed to make it easier for users to generate and customize bakery items according to their preferences. The project aims to simplify the process of finding, creating, and sharing bakery recipes and products, allowing users to explore a variety of options and contribute their own creations. By fostering collaboration and contribution, FrostIQ empowers a community of baking enthusiasts and developers to innovate together.
+
+🔗 [View Project](https://github.com/indra7777/frostiq)
+
+💻 **Tech Stack:** Python, Django, Flask, JavaScript, React.js, Vue.js, HTML, CSS, SQLite, MySQL, Docker, Git, GitHub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add CONTRIBUTORS.md File to Recognize Project Contributors | Medium | [#23](https://github.com/indra7777/frostiq/issues/23) |
+| Add code_of_conduct.md file | Medium | [#22](https://github.com/indra7777/frostiq/issues/22) |
+| Implement Global Exception Handling for the Backend API | Medium | [#21](https://github.com/indra7777/frostiq/issues/21) |
+| Create Templates for Issues , pull Request | Medium | [#20](https://github.com/indra7777/frostiq/issues/20) |
+| Improvements in main.py in bakerybackend | Medium | [#19](https://github.com/indra7777/frostiq/issues/19) |
+| 🌐 Deploy FrostIQ and Add Live Demo Link to README | Medium | [#16](https://github.com/indra7777/frostiq/issues/16) |
+
+---
+
+## 📌 Project: City Pulse
+
+📝 **Description:** City Pulse is a sleek, real-time dashboard built with **Streamlit** that provides everything you need to know about any city — from live weather updates and air quality to crime news, tourist recommendations, Google Trends analysis, and even an AI-powered chatbot that lets you search through Google.
+
+
+🔗 [View Project](https://github.com/Jotthecode/CITY-PULSE)
+
+💻 **Tech Stack:** Streamlit, OpenWeatherMap API, Google Places API, Google Trends, Pytrends, News API, Pandas, Requests, Python, HTML, CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Can Add Visual Metric Cards and City Map Embed to Improve City Overview UI | Medium | [#34](https://github.com/Jotthecode/CITY-PULSE/issues/34) |
+| Finalize City Pulse animation with tested improvements (Closes #31) | Medium | [#33](https://github.com/Jotthecode/CITY-PULSE/pull/33) |
+| Add Safety Routes with Geo-Location + Nearby Stay Options | Medium | [#32](https://github.com/Jotthecode/CITY-PULSE/issues/32) |
+| Fix/realtime pulse anim | Medium | [#31](https://github.com/Jotthecode/CITY-PULSE/pull/31) |
+| Missing CONTRIBUTING.md File | Medium | [#30](https://github.com/Jotthecode/CITY-PULSE/issues/30) |
+| Added Contribution.md file(Level 2) | Medium | [#29](https://github.com/Jotthecode/CITY-PULSE/pull/29) |
+| Fixed [Issue #24] : Added Wind Speed to Current Weather Details. | Medium | [#28](https://github.com/Jotthecode/CITY-PULSE/pull/28) |
+| Created .gitignore file | Medium | [#27](https://github.com/Jotthecode/CITY-PULSE/pull/27) |
+| “Last Viewed City” Memory Using Local Storage | Medium | [#26](https://github.com/Jotthecode/CITY-PULSE/issues/26) |
+| Add Contribution.md file(Level 2) | Medium | [#21](https://github.com/Jotthecode/CITY-PULSE/issues/21) |
+| 🚫 License Missing from Repository | Medium | [#20](https://github.com/Jotthecode/CITY-PULSE/issues/20) |
+| Improve Responsiveness Across Devices | Medium | [#19](https://github.com/Jotthecode/CITY-PULSE/issues/19) |
+| AI-Powered Smart Trip Planner (ML + Route Optimization) | Medium | [#18](https://github.com/Jotthecode/CITY-PULSE/issues/18) |
+| 🌍 Enhancement: Display friendly placeholder message when no city is selected | Medium | [#17](https://github.com/Jotthecode/CITY-PULSE/issues/17) |
+| Add License and Update README | Medium | [#16](https://github.com/Jotthecode/CITY-PULSE/pull/16) |
+| add loading indicators and better error handling for all tabs | Medium | [#15](https://github.com/Jotthecode/CITY-PULSE/issues/15) |
+| City list enhancement via text input and sorted dropdown | Medium | [#11](https://github.com/Jotthecode/CITY-PULSE/pull/11) |
+| Fix: Changed to a more subtle theme [Issue #3] | Medium | [#9](https://github.com/Jotthecode/CITY-PULSE/pull/9) |
+| Feature: Dynamic City Autocomplete via OpenWeatherMap API | Medium | [#8](https://github.com/Jotthecode/CITY-PULSE/pull/8) |
+| Added missing libraries in requirements.txt for extended functionality + added a gitignore file | Medium | [#7](https://github.com/Jotthecode/CITY-PULSE/pull/7) |
+
+---
+
+## 📌 Project: VisionMate
+
+📝 **Description:** VisionMate is a smart assistive solution designed to support visually impaired people in navigating their surroundings more independently. It uses computer vision and speech technologies to identify objects, read text, and give real time voice feedback through a user friendly interface. I have uploaded the initial code and concept to GitHub to give an idea of the project’s vision, but not the full implementation yet. The project is currently in the development phase, with plans to expand its capabilities to include environment detection and safe navigation features.
+
+🔗 [View Project](https://www.github.com/kaushav07/VisionMate)
+
+💻 **Tech Stack:** Python, OpenCV, Flask, Django, Flutter, MySQL, Google Cloud Vision API, Text to Speech API, Speech to Text API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Improve README.md | Medium | [#28](https://github.com/kaushav07/VisionMate/issues/28) |
+| Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
+| Implementing Voice Commands via Speech-to-Text | Medium | [#26](https://github.com/kaushav07/VisionMate/issues/26) |
+| Create Updated Readme | Medium | [#25](https://github.com/kaushav07/VisionMate/pull/25) |
+| Detect and possibly recognize faces of known people. | Medium | [#24](https://github.com/kaushav07/VisionMate/issues/24) |
+| Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
+| Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [#21](https://github.com/kaushav07/VisionMate/issues/21) |
+| contributors.md file is missing | Medium | [#20](https://github.com/kaushav07/VisionMate/issues/20) |
+| Add scan_logger utility for logging scans | Medium | [#19](https://github.com/kaushav07/VisionMate/pull/19) |
+| Add YOLOv8-based Object Detection with TTS Announcements | Medium | [#18](https://github.com/kaushav07/VisionMate/issues/18) |
+| Updated Readme | Medium | [#17](https://github.com/kaushav07/VisionMate/issues/17) |
+| 🚫 License Missing from Repository | Medium | [#14](https://github.com/kaushav07/VisionMate/issues/14) |
+| Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [#12](https://github.com/kaushav07/VisionMate/issues/12) |
+| Integrate LangChain for Modular Prompt Handling and Output Parsing | Medium | [#11](https://github.com/kaushav07/VisionMate/issues/11) |
+| Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
+| Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
+| Smart Scene Narration | Medium | [#8](https://github.com/kaushav07/VisionMate/issues/8) |
+| Improve prompt to ensure concise descriptions from Gemini | Medium | [#6](https://github.com/kaushav07/VisionMate/issues/6) |
+| Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
+| contributors.md file is missing | Medium | [#4](https://github.com/kaushav07/VisionMate/issues/4) |
+| Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
+| Missing requirements.txt file for environment setup | Medium | [#1](https://github.com/kaushav07/VisionMate/issues/1) |
+| Improve Object Detection Accuracy & Add Environment Awareness Features | Hard | [#13](https://github.com/kaushav07/VisionMate/issues/13) |
+
+---
+
+## 📌 Project: foodBridge
+
+📝 **Description:** Its a food Donation website 
+
+🔗 [View Project](https://github.com/Khushbudaswani/Foodbridge.git)
+
+💻 **Tech Stack:** Python, Django, SQLite
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Website Demo Link or Screenshots to README | Medium | [#26](https://github.com/Khushbudaswani/Foodbridge/issues/26) |
+| Footer does not stick to the bottom of the page because of short content | Medium | [#25](https://github.com/Khushbudaswani/Foodbridge/issues/25) |
+| Form submits with too-short input values | Medium | [#24](https://github.com/Khushbudaswani/Foodbridge/issues/24) |
+| Login does not redirect to homepage after successful authentication | Medium | [#23](https://github.com/Khushbudaswani/Foodbridge/issues/23) |
+| Added docstrings and comments to improve code readability (GSSoC '25) | Medium | [#22](https://github.com/Khushbudaswani/Foodbridge/pull/22) |
+
+---
+
+## 📌 Project: DreamJobs-Job Portal 
+
+📝 **Description:** this project aims to bridge the gap between job seekers and employers 
+
+🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| add animations to the index page | Medium | [#86](https://github.com/Khushi-Nigam/jobportal/issues/86) |
+| Bug: Not able to Start the server | Medium | [#84](https://github.com/Khushi-Nigam/jobportal/issues/84) |
+| Issue 5 resolved | Medium | [#80](https://github.com/Khushi-Nigam/jobportal/pull/80) |
+| Enable Email Notification System for Job Updates | Medium | [#69](https://github.com/Khushi-Nigam/jobportal/issues/69) |
+| fix: Adding font styles in headings | Medium | [#57](https://github.com/Khushi-Nigam/jobportal/pull/57) |
+| Systemic Infosec Vulnerabilities and Codebase Anti-Patterns in Django | Medium | [#56](https://github.com/Khushi-Nigam/jobportal/issues/56) |
+| AI Powered Job Search Feature | Medium | [#55](https://github.com/Khushi-Nigam/jobportal/pull/55) |
+| updated the views | Medium | [#54](https://github.com/Khushi-Nigam/jobportal/pull/54) |
+
+---
+
+## 📌 Project: Github Tracker
+
+📝 **Description:** Tracks activity of guthub user
+
+🔗 [View Project](https://github.com/mehul-m-prajapati/github_tracker)
+
+💻 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Centralized Error Handling in Express.js | Medium | [#160](https://github.com/GitMetricsLab/github_tracker/pull/160) |
+| Feature: Implement Error Handling for Backend APIs | Medium | [#159](https://github.com/GitMetricsLab/github_tracker/pull/159) |
+| Improved the feature of Contributor's page | Medium | [#147](https://github.com/GitMetricsLab/github_tracker/pull/147) |
+| Profile Page Added in Frontend | Medium | [#146](https://github.com/GitMetricsLab/github_tracker/pull/146) |
+| Improving UIUX of a About page | Medium | [#144](https://github.com/GitMetricsLab/github_tracker/pull/144) |
+| Moving data fetching to backend -Security | Medium | [#143](https://github.com/GitMetricsLab/github_tracker/pull/143) |
+| Feature: Use v0, claude or bolt to create a landing page like codolio | Medium | [#66](https://github.com/GitMetricsLab/github_tracker/issues/66) |
+| Feature: Add a landing page similar to codolio.com | Medium | [#51](https://github.com/GitMetricsLab/github_tracker/issues/51) |
+
+---
+
+## 📌 Project: Placify : "Smarter Placements. Sharper Talent."
+
+📝 **Description:** Placify is an AI-driven recruitment and skill-assessment platform designed to transform campus placements and early-career hiring. It streamlines over 60–70% of the traditional recruitment process by automating resume screening, conducting adaptive assessments, and generating actionable feedback for students, colleges, and companies.
+
+Placify serves three primary stakeholders — students, colleges, and recruiters — by bridging the gap between industry expectations and candidate readiness.
+
+🔗 [View Project](https://github.com/MonishRaman/Placify-Smarter-Placements.-Sharper-Talent.-.git)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Node.js, Express, Python, Flask, FastAPI, OpenAI, HuggingFace Transformers, spaCy, NLTK, MongoDB, Netlify, Render, Railway, JWT, Helmet.js, Recharts, Chart.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix Auto-Scroll Behavior in Interview Chat Section | Medium | [#150](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/150) |
+| Feature: Add a section of how it works | Medium | [#148](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/148) |
+| Institution dashboard | Medium | [#147](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/147) |
+| After new user registration ,couldn't login | Medium | [#142](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/142) |
+| Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
+
+---
+
+## 📌 Project: Housify
+
+📝 **Description:** Housify is a full-stack property rental web application where users can list, search, and book properties. It features secure session-based authentication, dynamic filtering (by location, price, and guest count), and supports CRUD operations for listings, bookings, and reviews. Built with Node.js, Express, MongoDB, and MySQL, Housify uses RESTful APIs and a responsive, SEO-friendly UI powered by EJS and Tailwind CSS. Relational data is structured using MySQL schemas for users, properties, and reservations
+
+🔗 [View Project](https://github.com/Naveenkumar30838/Housify)
+
+💻 **Tech Stack:** Node.js, Express.js, MongoDB, MySQL, EJS, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Missing a CodeOfConduct.md file | Medium | [#20](https://github.com/Naveenkumar30838/Housify/issues/20) |
+| REFRACTOR: Add controllers and router | Medium | [#19](https://github.com/Naveenkumar30838/Housify/issues/19) |
+| FEATURE REQUEST: Add a CONTRIBUTING.md to guide new contributors | Medium | [#18](https://github.com/Naveenkumar30838/Housify/issues/18) |
+| Enhancement: Make Navbar Sticky on Scroll | Medium | [#17](https://github.com/Naveenkumar30838/Housify/issues/17) |
+| There is no error handling for backend | Medium | [#16](https://github.com/Naveenkumar30838/Housify/issues/16) |
+| Added wishlist feature | Medium | [#15](https://github.com/Naveenkumar30838/Housify/pull/15) |
+| Add CONTRIBUTING.md file with contribution guidelines | Medium | [#14](https://github.com/Naveenkumar30838/Housify/pull/14) |
+| added a new feature of filter by price | Medium | [#12](https://github.com/Naveenkumar30838/Housify/pull/12) |
+| Add product catalog data integration and search interface with dynamic filtering | Medium | [#11](https://github.com/Naveenkumar30838/Housify/issues/11) |
+| Add a License File to the Project | Medium | [#8](https://github.com/Naveenkumar30838/Housify/issues/8) |
+
+---
+
+## 📌 Project: W3nity
+
+📝 **Description:** W3nity is a unified, Web3-enabled collaboration platform that brings together:
+
+Freelancing Marketplace,  Event Management, & Real-Time Community Chat.
+W3nity lets startups, developers, and communities connect, collaborate, and transact seamlessly — on-chain or off-chain.
+
+
+
+🔗 [View Project](https://github.com/nishantharkut/W3nity)
+
+💻 **Tech Stack:** React, Vite, Tailwind CSS, Framer Motion, Node.js, Express, MongoDB, Mongoose, Socket.IO, Solidity, Hardhat, Alchemy, Ethers.js, MetaMask, Cloudinary, Vercel, Render
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| ✨ To improve the site rendering speed and optimize the website | Medium | [#42](https://github.com/nishantharkut/W3nity/issues/42) |
+| scrolling effect | Medium | [#41](https://github.com/nishantharkut/W3nity/issues/41) |
+| fix: Scroll To Top on Route Change | Medium | [#40](https://github.com/nishantharkut/W3nity/pull/40) |
+| Increase Test Coverage: Cover EventTicketNFT.sol and Escrow.sol Contracts, Lock.sol | Medium | [#36](https://github.com/nishantharkut/W3nity/pull/36) |
+
+---
+
+## 📌 Project: HR Roadways
+
+📝 **Description:** this is the project in which we are adding govt buses info (haryana one is added) of all the stated of india so that it will be easier to travel with public transportation, and it will also help to save the environment.
+
+🔗 [View Project](https://github.com/NishantRana07/HrRoadways)
+
+💻 **Tech Stack:** React, Vite, MongoDB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| ✨ To improve the site rendering speed and optimize the website | Medium | [#440](https://github.com/NishantRana07/HrRoadways/issues/440) |
+| Selection Text Readability in blog page | Medium | [#439](https://github.com/NishantRana07/HrRoadways/issues/439) |
+| Text Readability Issue in Services Page | Medium | [#438](https://github.com/NishantRana07/HrRoadways/issues/438) |
+| Fixes the spelling error of name and registser | Medium | [#437](https://github.com/NishantRana07/HrRoadways/pull/437) |
+| Added form validations, loading state, and limit homepage results | Medium | [#436](https://github.com/NishantRana07/HrRoadways/pull/436) |
+| Added Dark/light mode toggle | Medium | [#435](https://github.com/NishantRana07/HrRoadways/pull/435) |
+| Background color of About page is changed. Now it matches the overall… | Medium | [#434](https://github.com/NishantRana07/HrRoadways/pull/434) |
+| Improved Plan Journey UI with filters and redesigned hotel cards. | Medium | [#432](https://github.com/NishantRana07/HrRoadways/pull/432) |
+| added eye icon to toggle password visibility | Medium | [#428](https://github.com/NishantRana07/HrRoadways/pull/428) |
+| Fix: Critical ESLint errors, bundle optimization & dependency cleanup | Medium | [#427](https://github.com/NishantRana07/HrRoadways/pull/427) |
+| Fix: Timetable UI improvements on Service Page (#424) | Medium | [#426](https://github.com/NishantRana07/HrRoadways/pull/426) |
+| UI: Updated Complete Home page - redesigned Footer, redesigned Form, minor tweaks to Navbar and other components | Medium | [#411](https://github.com/NishantRana07/HrRoadways/pull/411) |
+| Add Prettier for Consistent Code Formatting | Medium | [#400](https://github.com/NishantRana07/HrRoadways/issues/400) |
+| Fix: Scroll to top on route change using ScrollTop.jsx component | Hard | [#406](https://github.com/NishantRana07/HrRoadways/pull/406) |
+
+---
+
+## 📌 Project: NBG (NEET Battleground)
+
+📝 **Description:** NEET Battleground (NBG) is a real-time, multiplayer web app that gamifies NEET exam practice with timed MCQ quizzes and a Skribbl.io-style drawing game. It features private room creation, live chat, custom usernames, and round-based gameplay with scoring. The app is built using React 18 with TypeScript, Tailwind CSS, Socket.IO, Zustand for state management, and React Router for navigation. Designed with a responsive, mobile-first layout and a medical/educational theme, NBG aims to make learning competitive, fun, and interactive.
+
+🔗 [View Project](https://github.com/Piyush-t24/NBG)
+
+💻 **Tech Stack:** React 18, TypeScript, Tailwind CSS, React Router, Socket.IO, Node.js, Express.js, MongoDB, JWT
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding a CodeOfConduct.md file | Medium | [#7](https://github.com/Piyush-t24/NBG/issues/7) |
+| NEET Syllabus-Based Question Categorization | Medium | [#6](https://github.com/Piyush-t24/NBG/issues/6) |
+| Add mit license file to the project | Medium | [#5](https://github.com/Piyush-t24/NBG/pull/5) |
+| Enhance Game Room UX & Homepage Interaction Flow 📌 | Medium | [#4](https://github.com/Piyush-t24/NBG/issues/4) |
+| 🚫 License Missing from Repository | Medium | [#3](https://github.com/Piyush-t24/NBG/issues/3) |
+| Improve Quiz Section UI – Add Navbar, Game Room, and Enhance UI | Medium | [#2](https://github.com/Piyush-t24/NBG/issues/2) |
+| Add Clerk Authentication for Student Login (Google, Microsoft, Email/Password) | Medium | [#1](https://github.com/Piyush-t24/NBG/issues/1) |
+
+---
+
+## 📌 Project: FoodIO
+
+📝 **Description:** FoodIO – Collaborative Recipe Sharing Platform - FoodIO is a full-fledged, MERN stack–based recipe-sharing web application designed to foster a collaborative cooking community. It enables users to upload, manage, and explore a diverse collection of recipes tailored to their personal preferences. With a responsive UI and robust backend, FoodIO ensures an engaging and seamless user experience.
+
+🔗 [View Project](https://github.com/Prashanti-Hebbar/FoodIO)
+
+💻 **Tech Stack:** MongoDB, Express.js, React.js, Node.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Refactor food item cards for depth and style | Easy | [#92](https://github.com/Prashanti-Hebbar/FoodIO/issues/92) |
+| Upgrade button and input components with interactive effects | Easy | [#91](https://github.com/Prashanti-Hebbar/FoodIO/issues/91) |
+| Redesign landing page | Easy | [#90](https://github.com/Prashanti-Hebbar/FoodIO/issues/90) |
+| Add Framer Motion or AOS animations to UI components | Easy | [#89](https://github.com/Prashanti-Hebbar/FoodIO/issues/89) |
+| GSSOC'25: Keep Navbar Fixed on Scroll for Better Navigation | Medium | [#98](https://github.com/Prashanti-Hebbar/FoodIO/issues/98) |
+| Adjusted footer links | Medium | [#97](https://github.com/Prashanti-Hebbar/FoodIO/pull/97) |
+| 🐛 Fix: Make Navbar Fixed on Scroll for Better Navigation UX | Medium | [#96](https://github.com/Prashanti-Hebbar/FoodIO/pull/96) |
+| Add Comments Section Under Recipes making Foodio more interactive and community-driven | Medium | [#95](https://github.com/Prashanti-Hebbar/FoodIO/issues/95) |
+| Add “Recently Viewed Recipes” Section for Logged-In Users | Medium | [#94](https://github.com/Prashanti-Hebbar/FoodIO/issues/94) |
+| Enhance Hero Section with Modern UI & Animations | Medium | [#93](https://github.com/Prashanti-Hebbar/FoodIO/issues/93) |
+| Added Favorites Feature in backend | Medium | [#88](https://github.com/Prashanti-Hebbar/FoodIO/pull/88) |
+| 👤 Show Logged-In User’s Name & Avatar After Login | Medium | [#87](https://github.com/Prashanti-Hebbar/FoodIO/issues/87) |
+| Fix: Card Hover Padding and Layout Shift | Medium | [#82](https://github.com/Prashanti-Hebbar/FoodIO/pull/82) |
+| Wrong folder structure and it does not match with the readme md. | Medium | [#79](https://github.com/Prashanti-Hebbar/FoodIO/issues/79) |
+| The name and avatar of the user should change after login | Medium | [#78](https://github.com/Prashanti-Hebbar/FoodIO/issues/78) |
+| "My Profile" Accessible Without Login – Should Be a Protected Route | Medium | [#77](https://github.com/Prashanti-Hebbar/FoodIO/issues/77) |
+| Enhanced UI: Navbar improvements, footer alignment, and overall UI enhancements | Medium | [#75](https://github.com/Prashanti-Hebbar/FoodIO/pull/75) |
+| Converted Navbar.js to Navbar with proper toggle & search behavior | Medium | [#68](https://github.com/Prashanti-Hebbar/FoodIO/pull/68) |
+| Fix: Recipe Save & Display Logic in AddRecipe and Profile ( issue#23) | Medium | [#67](https://github.com/Prashanti-Hebbar/FoodIO/pull/67) |
+| Move Password Hashing After User Existence Check in Registration Route | Medium | [#64](https://github.com/Prashanti-Hebbar/FoodIO/issues/64) |
+| Implement Middleware for JWT Authentication | Medium | [#63](https://github.com/Prashanti-Hebbar/FoodIO/issues/63) |
+| Fix: Delete Recipe Now Persists in Database | Medium | [#57](https://github.com/Prashanti-Hebbar/FoodIO/pull/57) |
+| Potential Issues & Improvements in backend | Medium | [#55](https://github.com/Prashanti-Hebbar/FoodIO/issues/55) |
+
+---
+
+## 📌 Project: Honor Box
+
+📝 **Description:** HonorBox , is a free and open-source web-based application that allows users to generate and verify certificates effortlessly. It provides a seamless and secure way to issue digital certificates and validate their authenticity
+
+🔗 [View Project](https://github.com/RamakrushnaBiswal/HonorBox)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Vercel, Nodemailer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: Add website visitor counter(issue#63) | Medium | [#66](https://github.com/RamakrushnaBiswal/HonorBox/pull/66) |
+| Initial commit: Backend for certificate generator with QR + email | Medium | [#65](https://github.com/RamakrushnaBiswal/HonorBox/pull/65) |
+| Add Terms & Conditions Modal and Connect It in Footer | Medium | [#64](https://github.com/RamakrushnaBiswal/HonorBox/pull/64) |
+| Add Contact Form with Backend Integration [Closes #35] | Medium | [#60](https://github.com/RamakrushnaBiswal/HonorBox/pull/60) |
+| Add Light/Dark Mode Toggle | Medium | [#19](https://github.com/RamakrushnaBiswal/HonorBox/issues/19) |
+| Many UI improvements | Medium | [#5](https://github.com/RamakrushnaBiswal/HonorBox/pull/5) |
+
+---
+
+## 📌 Project: Travel-Book
+
+📝 **Description:** The project is about storing the travel story virtually.
+
+🔗 [View Project](https://github.com/Sahilll94/Travel-Book)
+
+💻 **Tech Stack:** MongoDB, React.js, Express.js, Node.js, AWS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| OTP Email Not Received During Sign-Up | Medium | [#23](https://github.com/Sahilll94/Travel-Book/issues/23) |
+| Fix Alignment on Landing, Login, and Signup Pages | Medium | [#18](https://github.com/Sahilll94/Travel-Book/issues/18) |
+| Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
+
+---
+
+## 📌 Project: Sneaker Price Prediction using Machine Learning
+
+📝 **Description:** A Django-based web application that predicts sneaker prices using machine learning. It leverages historical sneaker data, performs preprocessing, model training, and allows users to input features like brand, color, and release year to get an estimated price.
+
+🔗 [View Project](https://github.com/sahithinandikula/Sneaker-price-prediction)
+
+💻 **Tech Stack:** Python, Django, Scikit-learn, Pandas, Matplotlib, HTML, CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Linear Regression for price [GSSoC 25] | Medium | [#21](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/21) |
+| Implement Secure Authentication & Improve View Structure | Medium | [#20](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/20) |
+| Enhanced Admin Views with Secure Authentication & Better Practices | Medium | [#19](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/19) |
+| Enhanced Django Views with Better Security, Structure & User Experience | Medium | [#18](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/18) |
+| Update README.md | Medium | [#17](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/17) |
+| Update ml.html | Medium | [#16](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/16) |
+| Update views.py | Medium | [#15](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/15) |
+| Create utils.py | Medium | [#14](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/14) |
+| Update models.py | Medium | [#13](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/13) |
+| Update apps.py | Medium | [#12](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/12) |
+| Add Data Dashboard, Model Explainability, and API Layer for Sneaker Price Prediction | Medium | [#10](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/10) |
+| Added LSTM Model for Sneaker Price Prediction | Medium | [#7](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/7) |
+| Add CSV Format Validation & Error Handling for Sneaker Dataset Upload | Medium | [#5](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/5) |
+| Improved frontend and fixed error 400 | Medium | [#2](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/2) |
+
+---
+
+## 📌 Project: Hospital Management Website 
+
+📝 **Description:** A full-featured hospital management platform where patients can seamlessly book surgeries, schedule doctor appointments, order medicines, upload prescriptions, and book lab test slots online. Built using MongoDB, Express.js, React, and Node.js for a secure, responsive, and user-friendly experience, the system streamlines healthcare services and improves patient engagement through digital convenience.
+
+🔗 [View Project](https://github.com/samarsajad/Hospital_Management_Website)
+
+💻 **Tech Stack:** React, CSS Modules, Node.js, MongoDB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Bug: “Could not send” error shown when clicking “Send Message” button | Medium | [#101](https://github.com/samarsajad/Hospital_Management_Website/issues/101) |
+| added Not Found page | Medium | [#89](https://github.com/samarsajad/Hospital_Management_Website/pull/89) |
+| navbar links issue fix, added id's to section, navbar global in App.js | Medium | [#78](https://github.com/samarsajad/Hospital_Management_Website/pull/78) |
+| Footer enhancement | Medium | [#76](https://github.com/samarsajad/Hospital_Management_Website/pull/76) |
+| Improve health checkup booking form UI and validation | Medium | [#71](https://github.com/samarsajad/Hospital_Management_Website/pull/71) |
+| Added more Specialties with Images to About Section | Medium | [#63](https://github.com/samarsajad/Hospital_Management_Website/pull/63) |
+| Issue 51, task done | Medium | [#60](https://github.com/samarsajad/Hospital_Management_Website/pull/60) |
+| Refactor Backend: Separate Route , controller , Logic and Add Config-Based DB Connection | Medium | [#56](https://github.com/samarsajad/Hospital_Management_Website/issues/56) |
+| feat: enhance UI for Services, Doctors, and About sections with consistent gradient headings and animations | Hard | [#100](https://github.com/samarsajad/Hospital_Management_Website/pull/100) |
+| Added a  Modern FAQ Section to Homepage for Improved User Support | Hard | [#96](https://github.com/samarsajad/Hospital_Management_Website/pull/96) |
+
+---
+
+## 📌 Project: Brevity
+
+📝 **Description:** Brevity is an AI-powered news curation app that delivers seamless and concise news built with Flutter, Firebase, and upcoming with Chatbot and nodejs backend support. It aims to simplify how users consume news—through clean UI, fast performance, and future-ready AI features like summarization and myth-busting chatbot.
+
+🔗 [View Project](https://github.com/Yash159357/BREVITY)
+
+💻 **Tech Stack:** Flutter, Dart, Firebase, Node.js, Express.js, MongoDB, REST API, Shared Preferences
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Issue: Move API Calls to Backend for Better Security & Performance | Medium | [#107](https://github.com/Yash159357/BREVITY/issues/107) |
+| fix: Changed the page size to 3 | Medium | [#104](https://github.com/Yash159357/BREVITY/pull/104) |
+| Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
+| Integrated FCM notification setup | Medium | [#67](https://github.com/Yash159357/BREVITY/pull/67) |
+| Migrate from firebase to node js | Medium | [#66](https://github.com/Yash159357/BREVITY/pull/66) |
+
+---
+
+## 📌 Project: MediGuide
+
+📝 **Description:** Personalized Medicine Recommendation System 
+
+🔗 [View Project](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/blob/main/README.md)
+
+💻 **Tech Stack:** Google Colab, Python
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add templates for pull request , issues | Medium | [#33](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/33) |
+| Add Code of conduct | Medium | [#32](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/32) |
+| MediGuide README | Medium | [#29](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/pull/29) |
+| Connect Speech Recognition to Symptom Input | Medium | [#24](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/24) |
+| Improve Disease Prediction Output | Medium | [#20](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/pull/20) |
+| Add License and Update README | Medium | [#18](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/pull/18) |
+| Issue: Model Predicts Incorrect Diseases for Common Symptoms | Medium | [#17](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/17) |
+| 🚫 License Missing from Repository | Medium | [#14](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/14) |
+| Implement ANN (Artificial Neural Network) for Robust Disease Prediction | Medium | [#5](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/5) |
+| Deploy MediGuide: Global Cross-Platform Launch! 🌍 | Medium | [#4](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/4) |
+| Improve README File for Better Clarity and Engagement | Medium | [#1](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/1) |
+
+---
+
+## 📌 Project: bodhika
+
+📝 **Description:** Bodhika is a web platform designed to empower students & job seekers with a centralized hub for curated resource for career preparation.
+
+🔗 [View Project](https://github.com/singodiyashubham87/bodhika)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, MongoDB, Auth0
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Migration of Static data to Mongodb | Medium | [#22](https://github.com/singodiyashubham87/bodhika/issues/22) |
+| feat: add Dockerfile, Docker Compose, and update README for container… | Medium | [#16](https://github.com/singodiyashubham87/bodhika/pull/16) |
+| Unknown Text Displayed During Signup ("dev-z6ufyjihwgbb5spo") | Medium | [#14](https://github.com/singodiyashubham87/bodhika/issues/14) |
+
+---
+
+## 📌 Project: ClassMgmtSys
+
+📝 **Description:** Class Management System is a comprehensive MERN stack web application designed to streamline classroom operations and enhance communication between students, class representatives (CRs), class Advisors (CAs). Built with a decoupled architecture using Node.js/Express.js backend and React.js frontend, the system features Firebase authentication integrated with MongoDB for user management, providing role-based access control for different user types. The platform offers a centralized noticeboard for announcements, student roster management, subject-wise material uploads via Cloudinary integration, and planned features including voting systems, attendance tracking, push notifications, exam schedules, and event management. With Material-UI for consistent design, Tailwind CSS for styling, and Progressive Web App (PWA) capabilities for offline functionality, the system ensures a responsive, scalable, and user-friendly experience while maintaining security through Firebase token verification and data filtering via DTOs, making it an ideal solution for educational institutions seeking to digitize and organize their classroom management processes.
+
+🔗 [View Project](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-)
+
+💻 **Tech Stack:** React, Node.js, Express, MongoDB, Firebase, Material-UI, Tailwind CSS, Cloudinary, Vite, Axios
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding CodeOfConduct.md file | Medium | [#13](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/13) |
+| Add Live Preview Link (e.g., Vercel Deployment) in README | Medium | [#12](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/12) |
+| Fix: Hide Login and Register buttons after user signs in | Medium | [#11](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/11) |
+| 📘 Documentation Code of Conduct — ClassMgmtSysOS | GSSoC'25 | Medium | [#9](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/9) |
+| Fixed the issue | Medium | [#4](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/4) |
+| Feature: Class Historical Timeline UI Component (Phase 1) | Medium | [#1](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/1) |
+
+---
+
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Subtopic quiz fails to load – API returns HTML instead of expected JSON | Easy | [#86](https://github.com/SurajSG23/PrepBuddy/issues/86) |
+| "Question of the Day" lacks visibility & engagement | Medium | [#87](https://github.com/SurajSG23/PrepBuddy/issues/87) |
+
+---
+
+## 📌 Project: Syed Imtiyaz Ali 
+
+📝 **Description:** Swapify is a secure, add-free, and community-driven platform designed to revolutionize how Indians buy and sell pre-owned products.
+
+🔗 [View Project](https://github.com/SyedImtiyaz-1/Swapify)
+
+💻 **Tech Stack:** Next.js, React.js, React Native, Tailwind CSS, Google Maps, OpenStreetMap, Node.js, Express.js, MongoDB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding a CodeOfConduct.md file | Medium | [#14](https://github.com/SyedImtiyaz-1/Swapify/issues/14) |
+| Make Category and Distance Filter Buttons Responsive | Medium | [#6](https://github.com/SyedImtiyaz-1/Swapify/issues/6) |
+| Improve Product Card UI | Medium | [#5](https://github.com/SyedImtiyaz-1/Swapify/issues/5) |
+| Bug:  button glow effect | Medium | [#3](https://github.com/SyedImtiyaz-1/Swapify/issues/3) |
+
+---
+
+## 📌 Project: Ardh Naari Shakti
+
+📝 **Description:** It is a web app, which is a warm hug to all the trangender community people out there. It contains various pages like a chatbot named Taara, Blogs page, shelter page and jobs page. 
+
+🔗 [View Project](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend)
+
+💻 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Suggestion to add a CONTRIBUTING.md file | Easy | [#52](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/52) |
+| 🛠  Replace the current Favicon with the logo of the website | Easy | [#42](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/42) |
+| fix: nav-links in small screens | Medium | [#79](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/79) |
+| Feature Request: Add Google Sign-In with Firebase | Medium | [#78](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/78) |
+| Add a CodeOfConduct.md file | Medium | [#76](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/76) |
+| Added create blog page | Medium | [#74](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/74) |
+| ⚠️error⚠️ in console window | Medium | [#73](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/73) |
+| Add Guided Meditation / Soundscapes Section | Medium | [#72](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/72) |
+| Add Social Media Link to Logo | Medium | [#71](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/71) |
+| landing page enhancement | Medium | [#70](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/70) |
+| Improve UI for login and registration pages | Medium | [#67](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/67) |
+| Enhancement: Add Profile View and Edit Functionality to "My Account" Section | Medium | [#65](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/65) |
+| Enhancement of the "My Account" Section | Medium | [#64](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/64) |
+| Fix login and regsiter page ,navbar visibility on scroll and add hove… | Medium | [#63](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/63) |
+| Add Language Toggle | Medium | [#34](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/34) |
+| Navbar Scroll Issue & Add Hover Animations | Medium | [#32](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/32) |
+
+---
+
+## 📌 Project: SentiLog AI
+
+📝 **Description:** SentiLog AI is an open-source platform that helps users track their personal emotions through mood journaling while simultaneously analyzing global news sentiment to reveal how external events might influence their inner world. Combining the power of machine learning and a modern MERN stack architecture, SentiLog offers intelligent insights by visualizing the emotional tone of daily journal entries alongside real-time sentiment analysis of news articles and tweets. Users can explore patterns, compare their moods with global trends, and gain a deeper understanding of the connection between internal feelings and external narratives. Built for accessibility, scalability, and community collaboration, SentiLog AI is a unique intersection of emotion, analytics, and technology — empowering individuals to stay emotionally aware in an ever-changing world.
+
+🔗 [View Project](https://github.com/openml-stack/SentiLog-AI)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, React Router, Axios, Node.js, Express.js, Mongoose, MongoDB Atlas, Flask, Hugging Face Transformers, BERT, VADER Sentiment
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Updated Middleware with Standard token format and improved Structure | Medium | [#135](https://github.com/openml-stack/SentiLog-AI/pull/135) |
+| No Authentication — Users Can Submit Data Anonymously | Medium | [#133](https://github.com/openml-stack/SentiLog-AI/issues/133) |
+| Create "About" Page for the Website | Medium | [#131](https://github.com/openml-stack/SentiLog-AI/issues/131) |
+| There is no global error handler in backend | Medium | [#129](https://github.com/openml-stack/SentiLog-AI/issues/129) |
+| Enable users to update profile details and profile photo | Medium | [#117](https://github.com/openml-stack/SentiLog-AI/pull/117) |
+| Change of Colour of button Log of button & Analyze Button | Medium | [#114](https://github.com/openml-stack/SentiLog-AI/pull/114) |
+| About Section Not Displayed – Add Missing About Section Component | Medium | [#113](https://github.com/openml-stack/SentiLog-AI/issues/113) |
+| Geological Sentiment Visualization | Medium | [#112](https://github.com/openml-stack/SentiLog-AI/issues/112) |
+| missing header  while  clicking on news and want to add clear  ui of news section | Medium | [#92](https://github.com/openml-stack/SentiLog-AI/issues/92) |
+| Designed the Dashboard Page for website from scratch | Medium | [#85](https://github.com/openml-stack/SentiLog-AI/pull/85) |
+| Google oauth added in both login and signup pages | Medium | [#84](https://github.com/openml-stack/SentiLog-AI/pull/84) |
+| Made the about  section for SentiLog-AI | Medium | [#76](https://github.com/openml-stack/SentiLog-AI/pull/76) |
+| Feature Request : Creating UI for Auth & News Pages | Medium | [#62](https://github.com/openml-stack/SentiLog-AI/issues/62) |
+
+---
+
+## 📌 Project: Brevity 
+
+📝 **Description:** Brevity is a smart news app that cuts through the noise, delivering crisp, trustworthy stories with a clean, modern interface—designed to make staying informed effortless and engaging.
+
+🔗 [View Project](https://github.com/Yash159357/BREVITY)
+
+💻 **Tech Stack:** Flutter, Firebase, REST API, Node.js, MongoDB, Express.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Issue: Move API Calls to Backend for Better Security & Performance | Medium | [#107](https://github.com/Yash159357/BREVITY/issues/107) |
+| fix: Changed the page size to 3 | Medium | [#104](https://github.com/Yash159357/BREVITY/pull/104) |
+| Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
+| Integrated FCM notification setup | Medium | [#67](https://github.com/Yash159357/BREVITY/pull/67) |
+| Migrate from firebase to node js | Medium | [#66](https://github.com/Yash159357/BREVITY/pull/66) |
+
+---
+
+## 📌 Project: White Paper
+
+📝 **Description:** The White Paper project is a simple notepad app built with Python Django. It allows users to create, save, and manage notes with a secure authentication system to keep their data private. Users can sign up, log in, and access their notes, offering a seamless and secure note-taking experience.
+
+🔗 [View Project](https://github.com/ygowthamr/WhitePaper)
+
+💻 **Tech Stack:** Python, Django, HTML, CSS, JavaScript, SQLite
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Real-Time Autosave Feature for Notes | Medium | [#184](https://github.com/ygowthamr/WhitePaper/pull/184) |
+| Enhancement Refactor & Consolidate Core UI JavaScript | Medium | [#183](https://github.com/ygowthamr/WhitePaper/issues/183) |
+| refactor: Standardize Static File References & Consolidate JS | Medium | [#182](https://github.com/ygowthamr/WhitePaper/pull/182) |
+| Want to add contributors section | Medium | [#181](https://github.com/ygowthamr/WhitePaper/issues/181) |
+| feat: implement secure environment variable configuration | Medium | [#180](https://github.com/ygowthamr/WhitePaper/pull/180) |
+| Add dedicated license page | Medium | [#179](https://github.com/ygowthamr/WhitePaper/pull/179) |
+| ADD PRIVACY POLICY PAGE | Medium | [#178](https://github.com/ygowthamr/WhitePaper/issues/178) |
+| to add a toggle button | Medium | [#177](https://github.com/ygowthamr/WhitePaper/issues/177) |
+| Fix: Exposed GitHub OAuth Credentials and Hardcoded Secret Key | Medium | [#176](https://github.com/ygowthamr/WhitePaper/pull/176) |
+| Addaboutuspage | Medium | [#170](https://github.com/ygowthamr/WhitePaper/pull/170) |
+| Final improvements across all pages | Medium | [#169](https://github.com/ygowthamr/WhitePaper/pull/169) |
+| Contributions - Support Pages | Medium | [#166](https://github.com/ygowthamr/WhitePaper/pull/166) |
+| Enhance <head> Section with Meta Tags for Mobile Responsiveness and Accessibility | Medium | [#161](https://github.com/ygowthamr/WhitePaper/issues/161) |
+| Fix Non-Working Sign Up & Login Buttons | Medium | [#147](https://github.com/ygowthamr/WhitePaper/issues/147) |
+| Enhancing Frontend UI & Functionality with Clean, Scalable Code | Medium | [#146](https://github.com/ygowthamr/WhitePaper/issues/146) |
+
+---
+
+## 📌 Project: PrepEdge AI
+
+📝 **Description:** PrepEdge AI is an interview preparation platform, that helps people hone their interview skills by giving mock interviews powered by AI on our platform. PrepEdge AI uses AI to generate personalized questions for users based on the job description and their resume. It provides instant feedback of your interview, which can even be downloaded in form of pdf.
+
+🔗 [View Project](https://www.github.com/coderuzumaki/prepedge-ai)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Express.js, MongoDB Atlas, HuggingFace API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 404 errors | Medium | [#27](https://github.com/CoderUzumaki/PrepEdge-AI/issues/27) |
+| Add Smooth Scroll Transitions & Navbar Effects for Enhanced UX | Medium | [#26](https://github.com/CoderUzumaki/PrepEdge-AI/issues/26) |
+| 404 Error on "Start Interview" Click | Medium | [#25](https://github.com/CoderUzumaki/PrepEdge-AI/issues/25) |
+| Description  Introduce an AI-powered system that analyzes user performance and dynamically generates a personalized learning path. This system should detect topic-wise weaknesses and adjust the roadmap to help users improve efficiently. | Medium | [#24](https://github.com/CoderUzumaki/PrepEdge-AI/issues/24) |
+| Sign-Up Modal Remains Stuck and Auto-Login Lacks Confirmation on PrepEdge AI | Medium | [#23](https://github.com/CoderUzumaki/PrepEdge-AI/issues/23) |
+
+---
+
+## 📌 Project: NeoNest
+
+📝 **Description:** Babycare for new borns specially in the first year of birth is crucial as it lays the foundation for further growth and development. However, it often leads to stress, confusion, burnout and becomes overwhelming for parents specially nothers who are already dealing with postpartum recovery. Neonest, addressing this issue blends technology, love and care to create a holistic platform for parents where they can track their baby's development during the first year. From tracking feedings, sleep, essentials, growth, vaccines and emergency contacts, along with providing faqs, resources, to a Memory Vault, AI chatbot assistant and Lullabies NeoNest is a full fledged combination of technology and emotions. Apart from that, the website is built via cutting edge technology and provides contributors a vast scope for creative inputs, from beginners looking to start via bug fixes, documentation and ui enhancements to advanced developers bringing unique features, all can contribute to the project.
+
+🔗 [View Project](https://github.com/AditiGupta-tech/neonest)
+
+💻 **Tech Stack:** Next.js, JavaScript, Tailwind CSS, MongoDB, bcryptjs, JWT, Gemini API, Vercel, GitHub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Enhancement: Make Medical Page Fully Responsive | Easy | [#46](https://github.com/AditiGupta-tech/neonest/issues/46) |
+| Improve readability of "Baby Sleep Tips by Age" | Medium | [#82](https://github.com/AditiGupta-tech/neonest/issues/82) |
+| Chaitanyaemani/homepage | Medium | [#79](https://github.com/AditiGupta-tech/neonest/pull/79) |
+| Enhancement: Footer Correction – Typos, Alignment, and Design Improvement #28 | Medium | [#69](https://github.com/AditiGupta-tech/neonest/pull/69) |
+| feat: Add email existence check in Signup form | Medium | [#66](https://github.com/AditiGupta-tech/neonest/pull/66) |
+| Zoxilsi/issue 9 | Medium | [#58](https://github.com/AditiGupta-tech/neonest/pull/58) |
+
+---
+
+## 📌 Project: VIDEOMEET
+
+📝 **Description:** A video conferencing app with calls, screen sharing, and messaging using React, TypeScript, and WebRTC.
+ real-time, low-latency communication via WebSockets for seamless user interaction.
+  JWT authentication, meeting scheduling, and deployed the app on Railway for public use
+
+🔗 [View Project](https://github.com/Ananta025/VIDEO_MEET)
+
+💻 **Tech Stack:** React.js, TypeScript, WebRTC, Socket.io, MongoDB, Node.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| create a footer for the website | Medium | [#10](https://github.com/Ananta025/VIDEO_MEET/issues/10) |
+| to add forgort password page to reset the password | Medium | [#9](https://github.com/Ananta025/VIDEO_MEET/issues/9) |
+| 🚫 License Missing from Repository | Medium | [#8](https://github.com/Ananta025/VIDEO_MEET/issues/8) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#7](https://github.com/Ananta025/VIDEO_MEET/issues/7) |
+| Suggestion: Add Code Of Conduct File to project | Medium | [#6](https://github.com/Ananta025/VIDEO_MEET/issues/6) |
+| Add mit license file to the project | Medium | [#5](https://github.com/Ananta025/VIDEO_MEET/issues/5) |
+| Add “About Us” Page to Introduce Platform's Purpose | Medium | [#4](https://github.com/Ananta025/VIDEO_MEET/issues/4) |
+| FEATURE: Theme Toggle (Light/Dark Mode) | Medium | [#3](https://github.com/Ananta025/VIDEO_MEET/issues/3) |
+| Add meeting recording feature with automated transcript generation | Medium | [#2](https://github.com/Ananta025/VIDEO_MEET/issues/2) |
+| ## 🚀 Feature Request: Add PWA (Progressive Web App) Support | Medium | [#1](https://github.com/Ananta025/VIDEO_MEET/issues/1) |
+
+---
+
+## 📌 Project: ScheduleX
+
+📝 **Description:** ScheduleX: Your Smart Timetable, Attendance Markings and Task Reminders App
+ ScheduleX is a sleek, cross-platform application built with React Native, designed to simplify your academic and personal scheduling. From generating intelligent timetables to tracking attendance, ScheduleX is the only tool you need to stay organized and on top of your commitments. Of course, here is a project description for your ScheduleX app, based on the details you provided.
+ 
+ Key Features
+ AI Timetable Generation: Say goodbye to manual scheduling! Instantly generate a perfectly optimized timetable based on your custom inputs or by simply uploading a CSV file.
+ 
+ Effortless Attendance Tracking: Easily monitor and manage your attendance for any class or event. Set custom alerts to notify you when your attendance drops below a certain threshold.
+ 
+ Seamless Schedule Sharing: Share your timetable with friends or colleagues effortlessly. They can import your entire schedule into their app in seconds, no manual entry required.
+ 
+ Integrated Task Management: Keep track of your assignments and to-dos with our built-in task manager. Add, manage, and check off tasks to stay productive and accountable.
+ 
+ Dynamic Timetable Management: Life changes, and so should your schedule. Create, edit, and organize multiple timetables with an intuitive and flexible interface.
+ 
+ Real-Time Cloud Sync: Your schedule, always with you. Keep your data seamlessly synchronized across all your devices.
+ 
+ Task Chat: A Chat like interface to provide you one safe location to save all your shopping list, academic reminders, assignments and more removing the clutter we make on whatsapp
+
+🔗 [View Project](https://github.com/Loop-Hive/ScheduleX)
+
+💻 **Tech Stack:** React Native, TypeScript, CSS, Firebase, Zustand, Google Genai, Figma
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/Loop-Hive/ScheduleX/issues/95) |
+| Update the welcome workflow to stop auto adding active label | Easy | [#92](https://github.com/Loop-Hive/ScheduleX/issues/92) |
+| Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
+| Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
+| Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
+| Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
+| Create New App Icon Design for ScheduleX on Figma | Medium | [#89](https://github.com/Loop-Hive/ScheduleX/issues/89) |
+| Add CI/CD Pipeline to Automatically Create a Release APK on PR Merge | Medium | [#84](https://github.com/Loop-Hive/ScheduleX/issues/84) |
+| Add Time Slot Error on Specific days | Medium | [#82](https://github.com/Loop-Hive/ScheduleX/issues/82) |
+| Export tasks as pdf | Medium | [#10](https://github.com/Loop-Hive/ScheduleX/issues/10) |
+| QR Code Integrations | Hard | [#81](https://github.com/Loop-Hive/ScheduleX/issues/81) |
+| Notification And Alerts | Hard | [#6](https://github.com/Loop-Hive/ScheduleX/issues/6) |
+
+---
+
+## 📌 Project: Retail with purpose: Building a sustainable and responsible future
+
+📝 **Description:** Sustainability is no longer an optionit a necessity. As consumers demand more eco-conscious choices, retailers must reimagine their operations to reduce waste, lower carbon footprints and create a more responsible supply chain. From sustainable sourcing and eco-friendly packaging to energy-efficient store designs and AI-driven waste reduction, innovation is transforming how businesses operate while ensuring long-term environmental and economic benefits.
+ 
+ Walmart is at the forefront of this shift, leveraging AI to optimize supply chains and minimize waste. Their collaboration with GreenPod Labs is revolutionizing the way fresh produce is stored and transported, extending shelf life and significantly reducing food waste. These AI-powered strategies are ensuring fresher products, less spoilage and a more efficient distribution process, setting a new standard for sustainability in retail. Read more here.
+ 
+ Beyond food sustainability, retailers are embracing circular economy models, closed-loop recycling systems and smart energy management to reduce emissions and drive impact at scale. The future of retail is not just about selling productsit about creating a positive, lasting impact on the planet and society.
+ 
+ Think of solutions that retail businesses can leverage to push the boundaries of sustainability. Can your ideas lead to innovations in green logistics, zero-waste supply chains, ethical sourcing or carbon-neutral retail operations? Think beyond today solutions and help shape a smarter, greener and more responsible future for retail.
+
+🔗 [View Project](https://github.com/Gssoc-2025/co-supply-ai/tree/main)
+
+💻 **Tech Stack:** Python 3.11, FastAPI, PostgreSQL, PostGIS, Hyperledger Fabric, PyTorch, Prophet, Google OR-Tools, YOLOv8, Kafka, MQTT, Redis, TypeScript, Next.js 14, Tailwind CSS, Recharts, Docker Compose, GitHub Actions, AWS EKS, Terraform
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Work on ML Model for GreenScore | Medium | [#4](https://github.com/Gssoc-2025/co-supply-ai/issues/4) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/Gssoc-2025/co-supply-ai/issues/3) |
+| Suggestion: Add Code Of Conduct File to project | Medium | [#2](https://github.com/Gssoc-2025/co-supply-ai/issues/2) |
+| 🚫 License Missing from Repository | Medium | [#1](https://github.com/Gssoc-2025/co-supply-ai/issues/1) |
+
+---
+
+## 📌 Project: DevSync
+
+📝 **Description:** DevSync is an open-source developer productivity dashboard that aggregates coding activity from platforms like GitHub, LeetCode, and Codeforces. It helps developers track their growth, visualize progress with heatmaps and streaks, and stay consistent  all in one unified interface
+
+🔗 [View Project](https://github.com/DevSyncx/DevSync.git)
+
+💻 **Tech Stack:** React, Tailwind CSS, ShadCN UI, Node.js, Express.js, MongoDB, JWT, OAuth, Vercel, Render
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Setup Initial MongoDB Database Schema and Integration for Backend  Body | Medium | [#33](https://github.com/DevSyncx/DevSync/issues/33) |
+| feat: Add Login and Signup pages with authentication UI | Medium | [#32](https://github.com/DevSyncx/DevSync/pull/32) |
+| Add Time Management Tools for Developer Activity Tracking | Medium | [#31](https://github.com/DevSyncx/DevSync/issues/31) |
+| Implement Community Collaboration Module for Developer Interaction | Medium | [#30](https://github.com/DevSyncx/DevSync/issues/30) |
+| Add Interactive Visualizations for Productivity Metrics | Medium | [#29](https://github.com/DevSyncx/DevSync/issues/29) |
+| Add DSA Progress Tracking Section for Multi-Platform Problem Solving | Medium | [#28](https://github.com/DevSyncx/DevSync/issues/28) |
+| Implement Auto GitHub Sync for Commits, Contributions & Streaks | Medium | [#27](https://github.com/DevSyncx/DevSync/issues/27) |
+| Add Live Pomodoro Timer with Break Cycle Integration | Medium | [#26](https://github.com/DevSyncx/DevSync/issues/26) |
+| Implement Smart Productivity Logs with Daily Summary Tracking | Medium | [#25](https://github.com/DevSyncx/DevSync/issues/25) |
+| Implement Full Features Section with Unified Developer Dashboard and More | Medium | [#24](https://github.com/DevSyncx/DevSync/issues/24) |
+| Home Button Redirects to 404 Page Instead of Rendering Homepage | Medium | [#23](https://github.com/DevSyncx/DevSync/issues/23) |
+| Add authentication and profile management system | Medium | [#16](https://github.com/DevSyncx/DevSync/pull/16) |
+| Adding Dark mode feature. | Medium | [#15](https://github.com/DevSyncx/DevSync/issues/15) |
+| Add Authentication and Profile Management System | Medium | [#14](https://github.com/DevSyncx/DevSync/issues/14) |
+| feat: Implement client-side page navigation | Medium | [#10](https://github.com/DevSyncx/DevSync/pull/10) |
+
+---
+
+## 📌 Project: Javaistic
+
+📝 **Description:** Javaistic is an open source, comprehensive website for learning Java programming, packed with detailed information and programs covering everything from basics to advanced topics, including arrays, strings, 2D arrays, recursion, matrices, and more.
+
+🔗 [View Project](https://github.com/javaistic/javaistic)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, MDX, MongoDB, BetterAuth, ShadCN UI, Algolia
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Java OOPS Concepts | Easy | [#712](https://github.com/javaistic/javaistic/issues/712) |
+| Java Array Docs | Easy | [#582](https://github.com/javaistic/javaistic/issues/582) |
+| Java Basic Programs | Easy | [#201](https://github.com/javaistic/javaistic/issues/201) |
+| Add Hover Lift & Transition Styling to Cards Under “Why learn Java with Javaistic?” | Medium | [#731](https://github.com/javaistic/javaistic/issues/731) |
+| Enhancing ui of the website | Medium | [#729](https://github.com/javaistic/javaistic/issues/729) |
+
+---
+
+## 📌 Project: ThinkDSA Extension
+
+📝 **Description:** AI-powered LeetCode companion that provides intelligent hints, scores your understanding, and helps you learn DSA concepts step-by-step
+
+🔗 [View Project](https://github.com/itsaryanchauhan/ThinkDSA-Extension)
+
+💻 **Tech Stack:** JavaScript ES6+, Chrome Extension API, Google Gemini AI, HTML5, CSS3
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Suggestion: Add Code Of Conduct File to project | Medium | [#1](https://github.com/itsaryanchauhan/ThinkDSA-Extension/issues/1) |
+
+---
+
+## 📌 Project: Eco-Store
+
+📝 **Description:** This project is a user-friendly platform dedicated to promoting sustainable living by offering a cursted selection of eco-friendly products. Beyond shopping, the website empowers users to make informed environmental choices with an integrated carbon footprint calculator that estimates the carbon impact of everyday items and activities. By combining green shopping with actionable insights, the site encourages conscious consumption and helps users contribute to a healthier planet.
+
+🔗 [View Project](https://github.com/Devaki01/Eco)
+
+💻 **Tech Stack:** React, Express.js, Node.js, MongoDB, Firebase
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Code of Conduct for GSSoC'25 | Medium | [#14](https://github.com/Devaki01/EcoStore/pull/14) |
+| Ui enhancement + Imperfect font heirarchy | Medium | [#13](https://github.com/Devaki01/EcoStore/issues/13) |
+| Add Readme.md | Medium | [#12](https://github.com/Devaki01/EcoStore/issues/12) |
+| Add Dark/Light Theme Toggle Button | Medium | [#11](https://github.com/Devaki01/EcoStore/issues/11) |
+| 🔐 Feature Request: Implement Login & Sign Up using Firebase Authentication | Medium | [#6](https://github.com/Devaki01/EcoStore/issues/6) |
+| 🧭 Feature Request: Create a Navbar Component for the Website | Medium | [#4](https://github.com/Devaki01/EcoStore/issues/4) |
+| feat- Add Favicon + Website Name. | Medium | [#2](https://github.com/Devaki01/EcoStore/issues/2) |
+
+---
+
+## 📌 Project: LegalHuB AI-Powered Legal Help Platform
+
+📝 **Description:** LegalHuB is an AI-powered legal assistance platform designed to help users access legal information quickly and easily. It features a smart legal search engine, a legal dictionary, and state-specific document templates. Integrated with Chatbase AI, the platform enables intelligent responses to user queries while ensuring fast, reliable document retrieval.
+
+🔗 [View Project](https://github.com/dipexplorer/LegalHuB)
+
+💻 **Tech Stack:** Node.js, Express.js, MongoDB, Chatbase AI, React.js, JWT, RBAC, Git, GitHub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Polish Code of Conduct for formatting, accessibility, and clarity | Easy | [#92](https://github.com/dipexplorer/LegalHuB/issues/92) |
+| Improve login/register form with frontend validation, error handling, and form toggle script | Medium | [#94](https://github.com/dipexplorer/LegalHuB/issues/94) |
+| Add "Forgot Password" functionality to login form | Hard | [#96](https://github.com/dipexplorer/LegalHuB/issues/96) |
+| Enforce minimum password length validation in login and registration | Hard | [#95](https://github.com/dipexplorer/LegalHuB/issues/95) |
+
+---
+
+## 📌 Project: rescuegrid - AI powered disaster management platform
+
+📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
+
+🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
+
+💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, GitHub, Google Maps API, Postman
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: One-stop-Guide
+
+📝 **Description:** One-Stop Guide ek city-exploration website hai jisme user city select karta hai, fir options milte hain jaise: Tourism, Shopping, Jobs, Restaurants, Pharmacy. Har option pe click karne se relevant info, image, aur Google Maps link dikhai deta hai.
+
+🔗 [View Project](https://github.com/komalkhatod1105/One-Stop-Guide)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL, PHP MySQLi, Google Maps
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| "share your experience/ add a review about this place" option for the users. | Easy | [#23](https://github.com/komalkhatod1105/One-Stop-Guide/issues/23) |
+| Add more cities, enhance the UI , Add more information and photos for each city | Easy | [#22](https://github.com/komalkhatod1105/One-Stop-Guide/issues/22) |
+| The description of each city can be more in detail and add few more cities to the website | Easy | [#20](https://github.com/komalkhatod1105/One-Stop-Guide/issues/20) |
+| Add "Back to Top" Links in README for Better Navigation | Easy | [#19](https://github.com/komalkhatod1105/One-Stop-Guide/issues/19) |
+| To add Dark and light modes | Easy | [#18](https://github.com/komalkhatod1105/One-Stop-Guide/issues/18) |
+| Improve README Structure, Grammar, and Clarity for Better Professionalism and Accessibility | Easy | [#17](https://github.com/komalkhatod1105/One-Stop-Guide/issues/17) |
+| 🚫 License Missing from Repository | Easy | [#14](https://github.com/komalkhatod1105/One-Stop-Guide/issues/14) |
+| The current navbar and footer design is quite basic and does not look visually appealing. Also, the Kota section lacks a representative image to make the page more informative and attractive. | Easy | [#11](https://github.com/komalkhatod1105/One-Stop-Guide/issues/11) |
+| Page where local tourist guides contacts are there | Easy | [#10](https://github.com/komalkhatod1105/One-Stop-Guide/issues/10) |
+| Not a proper alignment of explore button in some cities,explore option navigating to maps another explore option giving information | Easy | [#9](https://github.com/komalkhatod1105/One-Stop-Guide/issues/9) |
+| Improper functioning of the Navigation Tabs and Additional Details can be added in the 'Explore' button of the cities | Easy | [#8](https://github.com/komalkhatod1105/One-Stop-Guide/issues/8) |
+| Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
+| Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
+| Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
+| fixed the issue | Medium | [#25](https://github.com/komalkhatod1105/One-Stop-Guide/pull/25) |
+| Enhance "One Stop Guide" with Advanced Features, City-wise PHP Structure, and UI/UX Upgrades | Medium | [#24](https://github.com/komalkhatod1105/One-Stop-Guide/issues/24) |
+| Fix Missing City Info Display and Add Basic Validation in city.php | Medium | [#15](https://github.com/komalkhatod1105/One-Stop-Guide/issues/15) |
+| Erroneous Navbar Highlighting and inconsistent Menu Behavior | Medium | [#3](https://github.com/komalkhatod1105/One-Stop-Guide/issues/3) |
+| "HOME" Navigation Fails When Accessing via Non-Index State Files | Medium | [#2](https://github.com/komalkhatod1105/One-Stop-Guide/issues/2) |
+
+---
+
+## 📌 Project: CKsEdu
+
+📝 **Description:** CKsEdu is a smart university platform that bridges students and faculty through real-time mentoring, academic collaboration, and AI-powered productivity tools. It creates a connected and supportive learning ecosystem tailored for university life.
+ 
+ Key Features
+ For Students:
+1:1 Video Mentoring with professors (live & scheduled)
+ AI Assist for smart scheduling, notes, and grading
+Student Chat & Group Collaboration
+E-Library & Study Resources
+Mental Wellness & Counseling
+Leaderboards, Quizzes, and Achievements
+Event Calendar & Announcements
+Academic Progress Dashboard
+ 
+ 
+For Faculty:
+Smart Document Organizer
+Analytics Dashboard
+AI Agent Integration
+ 
+Fast Workflow Tools
+ Save time with AI-based grading, content suggestions, and calendar integration
+
+🔗 [View Project](https://github.com/KrishChothani/CKsEdu)
+
+💻 **Tech Stack:** React, JavaScript, TypeScript, Vite, Tailwind CSS, Node.js, Express.js, Flask, MongoDB, Cloudinary, AWS, Vercel
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| ui for login/signup | Medium | [#30](https://github.com/KrishChothani/CKsEdu/issues/30) |
+| Add vercel Analysis | Medium | [#29](https://github.com/KrishChothani/CKsEdu/issues/29) |
+| Improved Signup/Login UX with Loader and React-Hot-Toast | Medium | [#23](https://github.com/KrishChothani/CKsEdu/pull/23) |
+
+---
+
+## 📌 Project: SQL ChatBot: Query Any Database Using Natural Language
+
+📝 **Description:** The SQL ChatBot is an intelligent assistant that allows users to interact with structured databases using natural language. Users can upload a CSV file or connect to an SQL/MongoDB database and ask questions like Show total sales in January, and the bot generates the SQL/Mongo query, executes it, and returns results with an explanation.
+ 
+ This project is ideal for beginners and intermediate contributors interested in AI, databases, and full-stack development.
+
+🔗 [View Project](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot)
+
+💻 **Tech Stack:** Python, Streamlit, LangChain, OpenAI API, SQLite, PostgreSQL, MySQL, MongoDB, Pandas, SQLAlchemy, PyMongo, Git, GitHub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Contributing.md | Medium | [#4](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/4) |
+| update README.md | Medium | [#3](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/3) |
+| Enhance chatbot with query logging, result caching, and user authentication | Medium | [#2](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/2) |
+
+---
+
+## 📌 Project: Doctrinix
+
+📝 **Description:** Doctrix - Doctor Appointment Booking App Doctrix is a smart and user-friendly doctor appointment booking app designed to simplify healthcare access for everyone. The app allows users to sign up and sign in securely, providing personalized access to healthcare services. With features ranging from doctor selection and medicine ordering to profile management, Doctrix offers a seamless digital healthcare experience.
+
+🔗 [View Project](https://github.com/lalitsingh789/doctor-app)
+
+💻 **Tech Stack:** React Native, MongoDB, Node.js
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: studymate
+
+📝 **Description:** StudyMate is an open-source platform built to support college students during their semester exam preparations. The idea behind creating this platform originated from a common observation many students begin studying only when exams are near, often leading to confusion, stress, and wasted time searching for study materials. To address this issue, StudyMate offers a centralized and reliable hub where students can access syllabus content, previous year question papers (PYQs), peer-shared exam feedback, and seek guidance from seniors. By bringing all essential academic resources into one accessible platform, StudyMate aims to help students save time, study more effectively, and feel more confident during exams. Additionally, it provides a great opportunity for beginner-friendly contributors to collaborate and grow in the open-source community.
+
+🔗 [View Project](https://github.com/lovelymahor/StudyMate)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, Mongoose, JWT, Multer, Cloudinary, Firebase Storage, Vercel, Render, Railway, MongoDB Atlas, Postman, Git, GitHub
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: RescueGrid AI-Powered Disaster Management Platform. etc.
+
+📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
+
+🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
+
+💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, Express.js, GitHub, Google Maps API, AI/ML, Postman
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: GroqTales
+
+📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
+
+🔗 [View Project](https://github.com/Drago-03/GroqTales)
+
+💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Feature: Theme toggle | Medium | [#8](https://github.com/Drago-03/GroqTales/issues/8) |
+| IPFS corrupted | Medium | [#1](https://github.com/Drago-03/GroqTales/issues/1) |
+
+---
+
+## 📌 Project: Project Management System
+
+📝 **Description:** Advanced Project Management System is a real-time, collaborative platform to manage projects, tasks, and teams efficiently.
+ It features dashboards, kanban boards, analytics, chat, and notifications with role-based access.
+ Built with React, Node.js, MongoDB, and Socket.IO, it designed for seamless teamwork.
+
+🔗 [View Project](https://github.com/MitulSonagara/project-management-system)
+
+💻 **Tech Stack:** React, Vite, Redux Toolkit, Tailwind CSS, Material Tailwind, Node.js, Express.js, MongoDB, Socket.IO, JWT, Role-Based Access Control
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add a delete functionality to tasks page | Medium | [#2](https://github.com/MitulSonagara/project-management-system/issues/2) |
+
+---
+
+## 📌 Project: YuktiBot
+
+📝 **Description:** Its a combo of interview preparation anad code editor application
+
+🔗 [View Project](https://github.com/Neha-Singh-j/YuktiBot)
+
+💻 **Tech Stack:** MongoDB, React, Node.js, Express.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| implementation of signup page | Medium | [#4](https://github.com/Neha-Singh-j/YuktiBot/issues/4) |
+| implementation of contact page | Medium | [#3](https://github.com/Neha-Singh-j/YuktiBot/issues/3) |
+| about page implementation | Medium | [#2](https://github.com/Neha-Singh-j/YuktiBot/issues/2) |
+| login page implementation | Medium | [#1](https://github.com/Neha-Singh-j/YuktiBot/issues/1) |
+
+---
+
+## 📌 Project: ClipLi
+
+📝 **Description:** URL Shortener is a modern, production-ready full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) that allows users to shorten long URLs into compact, shareable links.
+ 
+ The platform supports custom aliases, user authentication, click analytics, and follows a modular, scalable architecture with a clean separation of concerns. The backend is structured using Controller-Service-DAO patterns, JWT-based authentication, and centralized error handling, while the frontend is built with React 19, Redux Toolkit, TanStack Router & Query, and styled using Tailwind CSS.
+ 
+ Designed with a mobile-first responsive UI, it ensures accessibility across devices and includes secure, RESTful API endpoints for seamless integration.
+
+🔗 [View Project](https://github.com/anothercoder-nik/URLshortner)
+
+💻 **Tech Stack:** React 19, Tailwind CSS, TanStack Router, TanStack Query, Redux Toolkit, Axios, Vite, Node.js, Express.js, MongoDB Atlas, Mongoose, dotenv, cookie-parser, jsonwebtoken, JWT, Render, Postman, MongoDB Compass
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: SapneSeSafar
+
+📝 **Description:** A comprehensive, AI-powered analytics platform for Shark Tank India, providing deep insights, predictions, and analysis of deals, sharks, and startups with real-time data visualization and machine learning capabilities.
+
+🔗 [View Project](https://github.com/Ojas-Arora/SapneSeSafar)
+
+💻 **Tech Stack:** TypeScript, JavaScript, Go, Supabase, Excel, Machine Learning
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Bump framer-motion from 11.18.2 to 12.23.12 | Medium | [#51](https://github.com/Ojas-Arora/SapneSeSafar/pull/51) |
+| DOC:add mit license file to the project | Medium | [#50](https://github.com/Ojas-Arora/SapneSeSafar/issues/50) |
+| ML Model for Deal Success Prediction | Medium | [#49](https://github.com/Ojas-Arora/SapneSeSafar/issues/49) |
+| Bump react-dom and @types/react-dom | Medium | [#47](https://github.com/Ojas-Arora/SapneSeSafar/pull/47) |
+| Bump react and @types/react | Medium | [#46](https://github.com/Ojas-Arora/SapneSeSafar/pull/46) |
+| Bump lucide-react from 0.344.0 to 0.534.0 | Medium | [#45](https://github.com/Ojas-Arora/SapneSeSafar/pull/45) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.53.0 | Medium | [#44](https://github.com/Ojas-Arora/SapneSeSafar/pull/44) |
+| Bump eslint from 9.12.0 to 9.32.0 | Medium | [#43](https://github.com/Ojas-Arora/SapneSeSafar/pull/43) |
+| Bump vite from 5.4.17 to 7.0.6 | Medium | [#42](https://github.com/Ojas-Arora/SapneSeSafar/pull/42) |
+| Bump react-router-dom from 6.28.2 to 7.7.1 | Medium | [#40](https://github.com/Ojas-Arora/SapneSeSafar/pull/40) |
+| Bump axios from 1.7.9 to 1.11.0 | Medium | [#39](https://github.com/Ojas-Arora/SapneSeSafar/pull/39) |
+| Bump @vitejs/plugin-react from 4.3.2 to 4.7.0 | Medium | [#36](https://github.com/Ojas-Arora/SapneSeSafar/pull/36) |
+| Bump @libsql/client from 0.5.6 to 0.15.10 | Medium | [#32](https://github.com/Ojas-Arora/SapneSeSafar/pull/32) |
+| Bump recharts from 2.15.0 to 3.1.0 | Medium | [#21](https://github.com/Ojas-Arora/SapneSeSafar/pull/21) |
+| Bump three and @types/three | Medium | [#17](https://github.com/Ojas-Arora/SapneSeSafar/pull/17) |
+| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.20 | Medium | [#15](https://github.com/Ojas-Arora/SapneSeSafar/pull/15) |
+| Bump react, react-dom and @types/react | Medium | [#14](https://github.com/Ojas-Arora/SapneSeSafar/pull/14) |
+| Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 5.2.0 | Medium | [#13](https://github.com/Ojas-Arora/SapneSeSafar/pull/13) |
+| Bump tailwindcss from 3.4.17 to 4.1.11 | Medium | [#9](https://github.com/Ojas-Arora/SapneSeSafar/pull/9) |
+| Bump autoprefixer from 10.4.20 to 10.4.21 | Medium | [#6](https://github.com/Ojas-Arora/SapneSeSafar/pull/6) |
+| Bump zustand from 4.5.6 to 5.0.6 | Medium | [#5](https://github.com/Ojas-Arora/SapneSeSafar/pull/5) |
+| Bump postcss from 8.4.47 to 8.5.6 | Medium | [#2](https://github.com/Ojas-Arora/SapneSeSafar/pull/2) |
+| Bump typescript from 5.6.3 to 5.8.3 | Medium | [#1](https://github.com/Ojas-Arora/SapneSeSafar/pull/1) |
+
+---
+
+## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
+
+📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
+
+🔗 [View Project](https://github.com/Promptzy/Zenjira)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI, Material UI, Redux Toolkit, React Query, Node.js, Express, Django, DRF, REST, GraphQL, Apollo, Atlassian OAuth2, JWT, BullMQ, Celery, Redis, PostgreSQL, OpenAI GPT4, LangChain, Hugging Face Transformers, n8n, Jira REST API, GitHub, GitLab, Bitbucket, Slack, Microsoft Teams, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes, EKS, GKE, Docker Swarm, Nginx, Traefik, Prometheus, Grafana, Sentry, ELK Stack, Jest, PyTest, Cypress, Playwright, Figma, Notion, Confluence, Swagger, OpenAPI, Mixpanel, Google Analytics
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: Animate-Hub
+
+📝 **Description:** Animate Hub is your go-to resource for all things animation in web development. Discover a wide range of code snippets for animations, hovers, and effects, designed to streamline your workflow. Just copy, paste, and watch your projects come to life!
+
+🔗 [View Project](https://github.com/Premkolte/AnimateHub)
+
+💻 **Tech Stack:** MongoDB, Express.js, React.js, Node.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Icons on the Home page can navigate to official documentation, for more information. | Medium | [#224](https://github.com/Premkolte/AnimateHub/issues/224) |
+| Dark mode only in home page | Medium | [#214](https://github.com/Premkolte/AnimateHub/issues/214) |
+| more snippets | Medium | [#202](https://github.com/Premkolte/AnimateHub/issues/202) |
+| chat box not working | Medium | [#201](https://github.com/Premkolte/AnimateHub/issues/201) |
+| hover effect on become contributor button | Medium | [#200](https://github.com/Premkolte/AnimateHub/issues/200) |
+
+---
+
+## 📌 Project: Doc@Home
+
+📝 **Description:** Doc@Home is an innovative web-based platform designed to connect patients with verified doctors and nursing professionals for in-home medical consultations. It addresses the dual challenge of underutilized medical talent and the growing need for personalized, home-based healthcare in India. The platform ensures strict provider verification, transparent pricing, and quality control through real-time booking, robust feedback systems, and an admin-led authentication process.
+
+🔗 [View Project](https://github.com/shandilya-rajnandini/DocAtHome.git)
+
+💻 **Tech Stack:** HTML5, CSS3, JavaScript, React.js, Node.js, Express, MongoDB, Firebase Auth, JWT
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Smart Stock System (Medicine Refill Reminder) | Medium | [#59](https://github.com/shandilya-rajnandini/DocAtHome/issues/59) |
+| Add Theme Toggle to Support Both Light and Dark Modes | Medium | [#58](https://github.com/shandilya-rajnandini/DocAtHome/pull/58) |
+| Ai-summary of patient for doctor's reference | Medium | [#57](https://github.com/shandilya-rajnandini/DocAtHome/pull/57) |
+| Implement an anonymous peer-to-peer case review system | Medium | [#54](https://github.com/shandilya-rajnandini/DocAtHome/issues/54) |
+| Add "Cultural Competency" and language badges to profiles | Medium | [#49](https://github.com/shandilya-rajnandini/DocAtHome/issues/49) |
+| Implement a "Privacy Vault" with granular data sharing permissions | Medium | [#48](https://github.com/shandilya-rajnandini/DocAtHome/issues/48) |
+| Allow doctors to record a short, reassuring voice note for patients | Medium | [#46](https://github.com/shandilya-rajnandini/DocAtHome/issues/46) |
+| Added AI Chatbot Integration for Health Assistance & User Support | Medium | [#44](https://github.com/shandilya-rajnandini/DocAtHome/pull/44) |
+| Implement a "Consultation Relay" note for professionals | Medium | [#39](https://github.com/shandilya-rajnandini/DocAtHome/issues/39) |
+| Create a marketplace for medical equipment rental | Hard | [#55](https://github.com/shandilya-rajnandini/DocAtHome/issues/55) |
+| Build a "Care Pathway Navigator" to guide patient choices | Hard | [#53](https://github.com/shandilya-rajnandini/DocAtHome/issues/53) |
+| Design a "Smart Visit Kit" checklist for professionals | Hard | [#52](https://github.com/shandilya-rajnandini/DocAtHome/issues/52) |
+| Implement a "Community Care Fund" for patients in need | Hard | [#50](https://github.com/shandilya-rajnandini/DocAtHome/issues/50) |
+| Design a "Smart Stock" system for automatic medicine refill reminders | Hard | [#47](https://github.com/shandilya-rajnandini/DocAtHome/issues/47) |
+| Implement AI-powered audio transcription and summary for video calls | Hard | [#40](https://github.com/shandilya-rajnandini/DocAtHome/issues/40) |
+| Create an "Earnings & Payouts" Page | Hard | [#37](https://github.com/shandilya-rajnandini/DocAtHome/issues/37) |
+
+---
+
+## 📌 Project: AuraHire.ai
+
+📝 **Description:** A smart platform that helps users track job applications, improve their resumes with AI-powered analysis, and discover or post job opportunities  all in one place. It simplifies job hunting with actionable insights, real-time tracking, and intelligent resume feedback.
+
+🔗 [View Project](https://github.com/Ryadav0654/AuraHire)
+
+💻 **Tech Stack:** Next.js, React.js, Chart.js, Express, Node.js, React, TypeScript, Tailwind CSS, MongoDB, Cloudinary, Clerk Auth
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Implement the core interface for creating, reading, updating, and deleting job applications in api(Backend) and Dashboard. | Easy | [#6](https://github.com/Ryadav0654/AuraHire/issues/6) |
+| 🚫 License Missing from Repository | Medium | [#9](https://github.com/Ryadav0654/AuraHire/issues/9) |
+| 🤝 Contribute Ideas, Improvements, and Feedback | Medium | [#7](https://github.com/Ryadav0654/AuraHire/issues/7) |
+
+---
+
+## 📌 Project: DevConnect
+
+📝 **Description:** A platform for developers to: Showcase their profiles, projects, and skills Connect with other developers Post updates, blogs, and achievements Follow, endorse, and message others
+
+🔗 [View Project](https://github.com/mr-rishikesh/DevConnect)
+
+💻 **Tech Stack:** React, Tailwind CSS, Node.js, Express, Firebase Functions, MongoDB, Mongoose, Firestore, GitHub OAuth, Firebase Auth, Vercel, Render, Railway, GitHub Actions, ESLint, Prettier
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added Fully Responsive Messaging UI with Sidebar & Chat Interface (Tailwind Only) | Medium | [#8](https://github.com/mr-rishikesh/DevConnect/pull/8) |
+| Added Server-Side Pagination for Developers and Projects API | Medium | [#6](https://github.com/mr-rishikesh/DevConnect/pull/6) |
+| Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
+| Implement JWT-Based Authentication Middleware | Medium | [#2](https://github.com/mr-rishikesh/DevConnect/issues/2) |
+
+---
+
+## 📌 Project: GitHubber
+
+📝 **Description:** GitHubber is Git Simplified. GitHubber enables and helps newcomers and beginners at Version Control to effeciently use git commands without memorising them through a simple menu driven cli approach. Tackles all commands ranging from simple push pull to complex rebases and cherry picks all through a menu driven interface and simple option clicking. Alternate branch of the projects explores a redesigned version of the Git ecosystem with more robust functionalities.
+
+🔗 [View Project](https://github.com/ritankarsaha/GitHubber)
+
+💻 **Tech Stack:** Golang
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat-version 2.0.1 updates | Medium | [#10](https://github.com/ritankarsaha/GitHubber/pull/10) |
+| version 2.0 refactor and remodelling | Medium | [#8](https://github.com/ritankarsaha/GitHubber/pull/8) |
+
+---
+
+## 📌 Project: PriGPT Studio
+
+📝 **Description:** PrivGPT Studio Your Private AI Workspace: A privacyfirst AI platform that lets you run local and cloud AIML models side by side. Features include multichat management with crossreferences, PDF/image/audio/video analysis, voice input with transcription, offline fallback, latency tracking, session rename/export/delete, and privacyfocused design. Future scope †’ add generative AI for image/video/audio, enable multiuser support with authentication, build pages like About/Contact, enhance UI/UX with dashboards, add realtime collaboration, internationalization, and plugin support.
+
+🔗 [View Project](https://github.com/Rucha-Ambaliya/PrivGPT-Studio.git)
+
+💻 **Tech Stack:** Next.js, React, Tailwind CSS, Flask, Python, MongoDB, Ollama, Google Gemini API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| FEATURE: Chat Memory for LLM | Medium | [#22](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/22) |
+| Update EnvVarSetUpGuideline.md with environment variable setup | Medium | [#14](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/14) |
+
+---
+
+## 📌 Project: Factshare
+
+📝 **Description:** Engineered an AI-powered fact-checking platform that achieved 92% accuracy in misinformation detection using
+ 
+ Gemini APIs for claim analysis and image text extraction. Integrated Google Fact Check API for real-time news validation
+ 
+ and a version-controlled credibility tracking system. Enhanced engagement with a chatbot delivering live, verifiable news links.
+ 
+ Enabled a 30% boost in verification participation through a community-driven voting system.
+
+🔗 [View Project](https://github.com/Saathviga9605/Factshare)
+
+💻 **Tech Stack:** React, Flask, MongoDB, Gemini API, Google Search Fact Check API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/Saathviga9605/FactShare/issues/3) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#2](https://github.com/Saathviga9605/FactShare/issues/2) |
+| 🚫 License Missing from Repository | Medium | [#1](https://github.com/Saathviga9605/FactShare/issues/1) |
+
+---
+
+## 📌 Project: Compassion Connect
+
+📝 **Description:** Compassion-Connect is a web-based Charity and Fundraising Platform designed to simplify the donation process and connect donors with meaningful causes. Built using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB, ReactJS , the platform allows users to create and manage fundraising campaigns, set goals, and track real-time progress.
+
+🔗 [View Project](https://github.com/SrijaVuppala295/Compassion_Connect/)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, React.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding Dark Mode | Medium | [#3](https://github.com/SrijaVuppala295/Compassion_Connect/issues/3) |
+| 🚫 License Missing from Repository | Medium | [#2](https://github.com/SrijaVuppala295/Compassion_Connect/issues/2) |
+| Contact Page is Unfinished – Needs Styling and Final Touch | Medium | [#1](https://github.com/SrijaVuppala295/Compassion_Connect/issues/1) |
+
+---
+
+## 📌 Project: Quiz portal
+
+📝 **Description:** A full-stack interactive quiz application built with React and Node.js, enabling users to register, log in, take quizzes, receive instant feedback, and track their performance through detailed statistics and attempt history. Users can manage their profiles, while administrators access a comprehensive dashboard to create, edit, and delete quizzes, manage questions and users, view analytics, and monitor quiz activity in real time.
+
+🔗 [View Project](https://github.com/SaishGhatol/quiz-portal)
+
+💻 **Tech Stack:** MongoDB, Express.js, React.js, Node.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Feature: Home Page Design and Responsive Layout Completed | Medium | [#6](https://github.com/SaishGhatol/quiz-portal/pull/6) |
+| Filters Not Applied on Quiz List | Medium | [#5](https://github.com/SaishGhatol/quiz-portal/issues/5) |
+
+---
+
+## 📌 Project: NPMChat
+
+📝 **Description:** NPMChat is an open source, real-time chat platform for developers and teams. Built with the MENN stack (MongoDB, Express, Next.js, Node.js), it features collaborative code editing, live interview mode, file sharing, code execution, and moreall in a beautiful, modern UI. Perfect for learning, collaboration, and building together.
+
+🔗 [View Project](https://github.com/ThePlator/NPMChat)
+
+💻 **Tech Stack:** Next.js, Express.js, Node.js, MongoDB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added features page | Medium | [#17](https://github.com/ThePlator/NPMChat/pull/17) |
+| feat: add custom 404 Not Found page with neo-brutalist design | Medium | [#15](https://github.com/ThePlator/NPMChat/pull/15) |
+| Create License | Medium | [#5](https://github.com/ThePlator/NPMChat/pull/5) |
+
+---
+
+## 📌 Project: IPURanker Placement, Cut-off Visualizer, College Predictor
+
+📝 **Description:** IPURanker is a web-based application that helps students explore historical admission rank lists and cut-offs for Guru Gobind Singh Indraprastha University (GGSIPU) from 2015 to 2025. The platform allows filtering by course, college, and year, making it easier for students to analyze trends and make informed admission choices. It is built as an open-source tool with clean UI and accessible data visualization.
+
+🔗 [View Project](https://github.com/imshashi365/IPURanker)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Next.js, React.js, Tailwind CSS, Node.js, MongoDB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add mit license file to the project | Medium | [#18](https://github.com/imshashi365/IPURanker/issues/18) |
+| Added glassy card component | Medium | [#17](https://github.com/imshashi365/IPURanker/pull/17) |
+| Issue: Fix Hamburger Menu Overlap & Homepage Visibility on Small Screens | Medium | [#16](https://github.com/imshashi365/IPURanker/issues/16) |
+| bug | Medium | [#15](https://github.com/imshashi365/IPURanker/issues/15) |
+| I will create the readme file | Medium | [#13](https://github.com/imshashi365/IPURanker/issues/13) |
+| Create a sample env file for development process | Medium | [#12](https://github.com/imshashi365/IPURanker/issues/12) |
+| PDF Result Card Generation & Downloadable Certificates | Medium | [#10](https://github.com/imshashi365/IPURanker/issues/10) |
+| Feature/real time news integration | Medium | [#8](https://github.com/imshashi365/IPURanker/pull/8) |
+| Feature/modern readme update | Medium | [#7](https://github.com/imshashi365/IPURanker/pull/7) |
+| Implement a real time news instead of nothing | Medium | [#6](https://github.com/imshashi365/IPURanker/issues/6) |
+| added the dark mode functionality | Medium | [#5](https://github.com/imshashi365/IPURanker/pull/5) |
+| Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
+| Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
+| 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
+
+---
+
+## 📌 Project: eventify
+
+📝 **Description:** Full-stack event management platform with AI integration and payment processing
+
+🔗 [View Project](https://github.com/DeepDive-Dev/eventify)
+
+💻 **Tech Stack:** Next.js, TypeScript, ShadCN UI, Tailwind CSS, MongoDB, Stripe, Google Gemini API, Clerk, Vercel
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: Boutique to box
+
+📝 **Description:** Hybrid AI Architecture: GPT-4 (Style Analysis) + StyleGAN2 (Fabric Patterns) + RunwayML (Text-to-Image)
+Global Scalability: 10K+ concurrent users handled via Appwrite Cloud Functions
+Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful API) in <5 minutes
+
+🔗 [View Project](https://github.com/x0lg0n/Boutique-To-Box)
+
+💻 **Tech Stack:** React, Three.js, WebGL, Node.js, Express, Appwrite, RunwayML, StyleGAN2, GPT-4, Mapbox, Printful API, Google Trends, AWS Forecast
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add mit license file to the project | Medium | [#6](https://github.com/x0lg0n/Boutique-To-Box/issues/6) |
+| Google login and UI design changes | Medium | [#5](https://github.com/x0lg0n/Boutique-To-Box/issues/5) |
+| Bump form-data from 4.0.2 to 4.0.4 | Medium | [#4](https://github.com/x0lg0n/Boutique-To-Box/pull/4) |
+
+---
+
+## 📌 Project: Synapse
+
+📝 **Description:** Synapse is an AI-powered development assistant designed to help developers plan, generate, and manage code for software projects. It leverages advanced AI models to automate requirement analysis, task planning, code generation, and integrates with GitHub for seamless project management. The platform features a modern, responsive UI, in-browser code editing, and real-time collaboration tools, making it ideal for contributors of all skill levels.
+
+🔗 [View Project](https://github.com/skdas20/Synapse)
+
+💻 **Tech Stack:** HTML5, CSS3, JavaScript, Python, FastAPI, MongoDB, Google Gemini API, Render, GitHub Actions, PyGithub, python-dotenv, requests, httpx
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 🎨 Add Theme Customization and Dark Mode | Easy | [#11](https://github.com/skdas20/Synapse/issues/11) |
+| 🌍 Add Multi-Language Support (i18n) | Easy | [#9](https://github.com/skdas20/Synapse/issues/9) |
+| 🧪 Add Comprehensive Testing Suite | Easy | [#8](https://github.com/skdas20/Synapse/issues/8) |
+| 📚 Improve API Documentation with Examples | Easy | [#5](https://github.com/skdas20/Synapse/issues/5) |
+| 🎨 Improve Mobile Responsiveness | Easy | [#1](https://github.com/skdas20/Synapse/issues/1) |
+| Missing of favicon in browser | Medium | [#14](https://github.com/skdas20/Synapse/issues/14) |
+| Fix: Sidebar collapse on mobile, responsive modals, improved spacing | Medium | [#13](https://github.com/skdas20/Synapse/pull/13) |
+| API Key and DB Exposed in .env File | Medium | [#12](https://github.com/skdas20/Synapse/issues/12) |
+| 📱 Create Progressive Web App (PWA) | Medium | [#10](https://github.com/skdas20/Synapse/issues/10) |
+| ⚡ Optimize Performance and Add Caching | Hard | [#7](https://github.com/skdas20/Synapse/issues/7) |
+| 🔒 Add Authentication and User Management | Hard | [#6](https://github.com/skdas20/Synapse/issues/6) |
+| 🤖 Improve AI Response Quality and Consistency | Hard | [#4](https://github.com/skdas20/Synapse/issues/4) |
+| 📝 Add In-Browser Code Editor | Hard | [#3](https://github.com/skdas20/Synapse/issues/3) |
+| Add Input Validation and Error Handling | Hard | [#2](https://github.com/skdas20/Synapse/issues/2) |
+
+---
+
+## 📌 Project: Used car price prediction
+
+📝 **Description:** Developed a machine learning model to predict used car prices using Random Forest Regressor and Linear Regression. Leveraged scikit-learn for model implementation and Matplotlib for data visualization. Analyzed the model's performance to improve prediction accuracy .The system utilizes Python with Pandas and NumPy for data processing, Matplotlib and Seaborn for visualization, and Scikit-learn for machine learning model training. It predicts car prices based on factors like brand, model, mileage, and year.
+
+🔗 [View Project](https://github.com/Tanyagambhir/UsedCarPricePridiction)
+
+💻 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Flask, MongoDB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add mit license file to the project | Medium | [#2](https://github.com/Tanyagambhir/UsedCarPricePridiction/pull/2) |
+
+---
+
+## 📌 Project: SchoolApp
+
+📝 **Description:** Welcome to the School CRM System project! This system is designed to provide a smooth and intuitive experience for parents, students, and staff, focusing on student management and engagement. With our CRM, schools can enhance communication, ensure timely updates, and foster a better learning environment.
+
+🔗 [View Project](https://github.com/jayanththalla/School-CRM)
+
+💻 **Tech Stack:** Next.js, MongoDB, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: Blabber
+
+📝 **Description:** Blabber is a modern full-stack social media web application built using the MERN stack. It allows users to register, log in, post updates, follow other users, receive notifications, and maintain profiles. It uses JWT authentication with secure HttpOnly cookies and Cloudinary for profile image uploads.
+
+🔗 [View Project](https://github.com/Vijayaa21/Blabber)
+
+💻 **Tech Stack:** React, React Router DOM, Tailwind CSS, React Query, React Hot Toast, Node.js, Express.js, MongoDB, JWT, Cloudinary, Render
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Confirmation for deletion and logout | Medium | [#4](https://github.com/Vijayaa21/Blabber/issues/4) |
+| Editable Transcript with Smart Highlights | Medium | [#1](https://github.com/Vijayaa21/Blabber/issues/1) |
+
+---
+
+## 📌 Project: ideaVault
+
+📝 **Description:** IdeaVault is a SaaS-based licensing platform that enables registration of original software project ideas. It operates under a modified MIT-style license which includes a binding attribution clause. Upon registration, verified unique ideas are granted protected status. Any developer using a registered idea in a commercial product must, under the license terms, remit 1% of gross revenue to the registered idea owner. This obligation is contractual and enforceable. IdeaVault does not confer ownership but facilitates limited rights and revenue-sharing tied to ideation, ensuring recognition and compensation for original contributors.
+
+🔗 [View Project](https://github.com/vinit105/ideaVault)
+
+💻 **Tech Stack:** React, Node.js, TypeScript, MongoDB, Redis, Vercel, Railway
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 🌐 Feature Request: Public Idea Registry with Filters and Tags | Medium | [#1](https://github.com/vinit105/ideaVault/issues/1) |
+
+---
+
+## 📌 Project: Rupeefi - E-rupee Digital payment platform
+
+📝 **Description:** RupeeFi is an innovative digital payment platform designed to convert UPI balance into e-Rupee balance, aiming to promote the adoption of e-Rupee in everyday transactions. To encourage user engagement, RupeeFi introduces gamified reward features such as daily spin wheels, scratch cards, and bonuses. Users can manage their profiles, view transaction history, and make secure payments via UPI or e-Rupee. For merchants, RupeeFi provides a robust dashboard with analytics, employee access control, and QR-based payment collection. Built with modern technologies and secure practices, the platform balances functionality, fun, and finance.
+
+🔗 [View Project](https://github.com/Vishv04/RupeeFi)
+
+💻 **Tech Stack:** React, Vite, Tailwind CSS, Framer Motion, Node.js, Express.js, MongoDB, Google OAuth 2.0, JWT, Razorpay, UPI
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Create License | Medium | [#8](https://github.com/Vishv04/RupeeFi/pull/8) |
+| scroll resets when routing from one page to another | Medium | [#6](https://github.com/Vishv04/RupeeFi/pull/6) |
+| Add Dark/Light Mode Toggle Button | Medium | [#5](https://github.com/Vishv04/RupeeFi/issues/5) |
+
+---
+
+## 📌 Project: wharf
+
+📝 **Description:** Wharf is a full stack web application designed to simplify Docker management.
+
+🔗 [View Project](https://github.com/fordevio/wharf)
+
+💻 **Tech Stack:** Go, Docker, React.js, TypeScript, HTML, CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Write comments on the go handlers which should generate api docs | Easy | [#84](https://github.com/fordevio/wharf/issues/84) |
+| Write local set up for macos, in DEVELOPMENT.md | Easy | [#14](https://github.com/fordevio/wharf/issues/14) |
+| Write unit tests for pkg/cache/lrucache.go | Easy | [#10](https://github.com/fordevio/wharf/issues/10) |
+| Write tests for pkg/store | Easy | [#5](https://github.com/fordevio/wharf/issues/5) |
+| Write  tests for pkg/volume | Easy | [#4](https://github.com/fordevio/wharf/issues/4) |
+| Pr preview | Medium | [#121](https://github.com/fordevio/wharf/pull/121) |
+| fix(login): Prevent layout shift of header on login page | Medium | [#120](https://github.com/fordevio/wharf/pull/120) |
+| Redesigned Images page as per Figma design - Issue #116 | Medium | [#119](https://github.com/fordevio/wharf/pull/119) |
+| New Layout is not Responsive | Medium | [#111](https://github.com/fordevio/wharf/issues/111) |
+| Edit labels of a  volume | Medium | [#81](https://github.com/fordevio/wharf/issues/81) |
+| Proposal for integrating ai agent into wharf | Medium | [#76](https://github.com/fordevio/wharf/issues/76) |
+| Propsal for multinode/swarm support | Medium | [#75](https://github.com/fordevio/wharf/issues/75) |
+| Proposal for uptade in RBAC features | Medium | [#72](https://github.com/fordevio/wharf/issues/72) |
+| Design container details, like other details page | Medium | [#65](https://github.com/fordevio/wharf/issues/65) |
+| feat: Added /assign feature | Medium | [#61](https://github.com/fordevio/wharf/pull/61) |
+| Add /assign feature | Medium | [#60](https://github.com/fordevio/wharf/issues/60) |
+| Feature in backend, any post or put or delete, operation should not be allowed for the container using wharf:latest image, also the wharf image can also not be deleted | Medium | [#59](https://github.com/fordevio/wharf/issues/59) |
+| During container creation, if the image is not present, pull it from docker hub | Medium | [#57](https://github.com/fordevio/wharf/issues/57) |
+| SSH into container | Medium | [#43](https://github.com/fordevio/wharf/issues/43) |
+| Dashboards to show container stats | Medium | [#42](https://github.com/fordevio/wharf/issues/42) |
+| status of server, example total ram, ram used, cpu , disk available, disk usage | Medium | [#40](https://github.com/fordevio/wharf/issues/40) |
+| current docker logs are not streamed, make it streaming | Medium | [#39](https://github.com/fordevio/wharf/issues/39) |
+| we want docker events section | Medium | [#38](https://github.com/fordevio/wharf/issues/38) |
+| activity log  like aws have | Medium | [#37](https://github.com/fordevio/wharf/issues/37) |
+
+---
+
+## 📌 Project: AlchEmaiLyst
+
+📝 **Description:** A 3 agent system powered by AI to automate emails. Summarise, Compose, Send and stay away from spam at automated in a beautiful UI
+
+🔗 [View Project](https://github.com/Coden-inja/alchEmaiLyst)
+
+💻 **Tech Stack:** React, Vite, Tailwind CSS, ShadCN, Express.js, Axios, Google OAuth2.0, Gemini API, Alchemyst API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Errors in index.css file regarding imports | Medium | [#12](https://github.com/Coden-inja/alchEmaiLyst/issues/12) |
+| TypeScript Type Issues and Improvements | Medium | [#11](https://github.com/Coden-inja/alchEmaiLyst/issues/11) |
+
+---
+
+## 📌 Project: Intellicash
+
+📝 **Description:** Intellicash is a next-gen personal finance platform powered by Google Cloud services including Firebase, Vertex Al, and Fi Money's MCP server, delivering enterprise-grade financial intelligence with consumer simplicity
+
+🔗 [View Project](https://github.com/Sudoerz/IntelliCash)
+
+💻 **Tech Stack:** Flutter, Python, Golang, GCP
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
