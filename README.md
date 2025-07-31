@@ -46,7 +46,7 @@ We welcome contributions to this repo! Here’s how you can help:
 
 ## 👨‍💻 Creator
 
-Made with ❤️ by **[Sai Harshitha Sivalingala](https://github.com/HarshithaSivalingala)**  
+Made with ❤️ by **[Sai Harshitha Sivalingala](https://github.com/HarshithaSivalingala)** **[Balu Chander](https://github.com/BaluDeshamoni)** 
 Feel free to reach out or connect!
 
 ---
