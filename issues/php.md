@@ -1,0 +1,56 @@
+# 🚀 Projects using Php
+
+## 📌 Project: Attendance Tracker
+
+📝 **Description:** This Attendance Tracker is designed to monitor and manage student attendance across various subjects. It helps track attendance, ensures classes meet required attendance criteria, and provides a clear overview of attendance statistics. Additionally, it presents attendance data in an intuitive calendar format for easy reference.
+
+🔗 [View Project](https://github.com/sachiikrish/AttendanceTracker.git)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Home Page is not responsive | Medium | [#6](https://github.com/sachiikrish/AttendanceTracker/issues/6) |
+
+---
+
+## 📌 Project: One-stop-Guide
+
+📝 **Description:** One-Stop Guide ek city-exploration website hai jisme user city select karta hai, fir options milte hain jaise: Tourism, Shopping, Jobs, Restaurants, Pharmacy. Har option pe click karne se relevant info, image, aur Google Maps link dikhai deta hai.
+
+🔗 [View Project](https://github.com/komalkhatod1105/One-Stop-Guide)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL, PHP MySQLi, Google Maps
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| "share your experience/ add a review about this place" option for the users. | Easy | [#23](https://github.com/komalkhatod1105/One-Stop-Guide/issues/23) |
+| Add more cities, enhance the UI , Add more information and photos for each city | Easy | [#22](https://github.com/komalkhatod1105/One-Stop-Guide/issues/22) |
+| The description of each city can be more in detail and add few more cities to the website | Easy | [#20](https://github.com/komalkhatod1105/One-Stop-Guide/issues/20) |
+| Add "Back to Top" Links in README for Better Navigation | Easy | [#19](https://github.com/komalkhatod1105/One-Stop-Guide/issues/19) |
+| To add Dark and light modes | Easy | [#18](https://github.com/komalkhatod1105/One-Stop-Guide/issues/18) |
+| Improve README Structure, Grammar, and Clarity for Better Professionalism and Accessibility | Easy | [#17](https://github.com/komalkhatod1105/One-Stop-Guide/issues/17) |
+| 🚫 License Missing from Repository | Easy | [#14](https://github.com/komalkhatod1105/One-Stop-Guide/issues/14) |
+| The current navbar and footer design is quite basic and does not look visually appealing. Also, the Kota section lacks a representative image to make the page more informative and attractive. | Easy | [#11](https://github.com/komalkhatod1105/One-Stop-Guide/issues/11) |
+| Page where local tourist guides contacts are there | Easy | [#10](https://github.com/komalkhatod1105/One-Stop-Guide/issues/10) |
+| Not a proper alignment of explore button in some cities,explore option navigating to maps another explore option giving information | Easy | [#9](https://github.com/komalkhatod1105/One-Stop-Guide/issues/9) |
+| Improper functioning of the Navigation Tabs and Additional Details can be added in the 'Explore' button of the cities | Easy | [#8](https://github.com/komalkhatod1105/One-Stop-Guide/issues/8) |
+| Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
+| Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
+| Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
+| fixed the issue | Medium | [#25](https://github.com/komalkhatod1105/One-Stop-Guide/pull/25) |
+| Enhance "One Stop Guide" with Advanced Features, City-wise PHP Structure, and UI/UX Upgrades | Medium | [#24](https://github.com/komalkhatod1105/One-Stop-Guide/issues/24) |
+| Fix Missing City Info Display and Add Basic Validation in city.php | Medium | [#15](https://github.com/komalkhatod1105/One-Stop-Guide/issues/15) |
+| Erroneous Navbar Highlighting and inconsistent Menu Behavior | Medium | [#3](https://github.com/komalkhatod1105/One-Stop-Guide/issues/3) |
+| "HOME" Navigation Fails When Accessing via Non-Index State Files | Medium | [#2](https://github.com/komalkhatod1105/One-Stop-Guide/issues/2) |
+
+---
+
