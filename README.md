@@ -6,21 +6,19 @@ Welcome to the **GSSoC 2025 Issues Tracker**! This repository helps participants
 
 ---
 
+## 🧭 Explore by Tech Stack
+
+Navigate projects by your favorite technologies:
+
+📂 [Browse Projects by Tech →](issues/index.md)
+
+---
 
 ## 🖥️ Try the Web UI
 
 We've also built a modern UI to help you explore issues interactively:
 
 🔗 **[👉 Open the UI here](https://gssoc2025.vercel.app/)**
-
----
-
-
-## 🧭 Explore by Tech Stack
-
-Navigate projects by your favorite technologies:
-
-📂 [Browse Projects by Tech →](issues/index.md)
 
 ---
 
@@ -46,7 +44,7 @@ We welcome contributions to this repo! Here’s how you can help:
 
 ## 👨‍💻 Creator
 
-Made with ❤️ by **[Sai Harshitha Sivalingala](https://github.com/HarshithaSivalingala)** **[Balu Chander](https://github.com/BaluDeshamoni)** 
+Made with ❤️ by **[Sai Harshitha Sivalingala](https://github.com/HarshithaSivalingala)** & **[Balu Chander](https://github.com/BaluDeshamoni)** 
 Feel free to reach out or connect!
 
 ---
