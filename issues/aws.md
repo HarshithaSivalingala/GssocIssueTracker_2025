@@ -110,7 +110,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve issue #33 where 'Choose Your Plan' heading was not visible | Medium | [#38](https://github.com/KrishChothani/CKsEdu/pull/38) |
 | Create a Backend for Contact Us Page and Fronted Integration | Medium | [#37](https://github.com/KrishChothani/CKsEdu/issues/37) |
 
 ---
