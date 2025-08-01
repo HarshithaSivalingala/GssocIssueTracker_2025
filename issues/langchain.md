@@ -14,12 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated Twitter icon to new X logo with consistent styling | Medium | [#169](https://github.com/Amarjha01/InfantCareCompass/pull/169) |
+| Added demo section | Medium | [#171](https://github.com/Amarjha01/InfantCareCompass/pull/171) |
+| Made the alignment of the text correct | Medium | [#170](https://github.com/Amarjha01/InfantCareCompass/pull/170) |
 | feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
 | Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
 | modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
 | updated the contributing.md file | Medium | [#152](https://github.com/Amarjha01/InfantCareCompass/pull/152) |
-| Added 404 and global error handling | Medium | [#151](https://github.com/Amarjha01/InfantCareCompass/pull/151) |
 | refactored the controller logic and removed issues | Medium | [#147](https://github.com/Amarjha01/InfantCareCompass/pull/147) |
 | Fixed Newsletter Subscription API Integration | Medium | [#136](https://github.com/Amarjha01/InfantCareCompass/pull/136) |
 
@@ -55,6 +55,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix the footer section in mobile view | Medium | [#152](https://github.com/harsh3dev/DevMatchups/issues/152) |
+| Add mode of hackathon and location if offline | Medium | [#151](https://github.com/harsh3dev/DevMatchups/issues/151) |
 | Design of a scroll bar. | Medium | [#145](https://github.com/harsh3dev/DevMatchups/issues/145) |
 | Integrate DB save in Edit Profile | Medium | [#138](https://github.com/harsh3dev/DevMatchups/issues/138) |
 | Add custom data to chatbot and customize it according to our website | Medium | [#136](https://github.com/harsh3dev/DevMatchups/issues/136) |
@@ -79,6 +81,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🚫 License Missing from Repository | Medium | [#5](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/5) |
 | Add Contributing.md | Medium | [#4](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/4) |
 | update README.md | Medium | [#3](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/3) |
 | Enhance chatbot with query logging, result caching, and user authentication | Medium | [#2](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/2) |
@@ -97,7 +100,10 @@ _No unassigned issues._
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Implement Husky with pre-commit hooks in both the frontend and backend codebases | Easy | [#37](https://github.com/Promptzy/Zenjira/issues/37) |
+| feat: Complete production-ready authentication system with comprehens… | Medium | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
 
 ---
 
