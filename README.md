@@ -6,11 +6,9 @@ Welcome to the **GSSoC 2025 Issues Tracker**! This repository helps participants
 
 ---
 
-## 🧭 Explore by Tech Stack
+## 🧭 [Explore by Tech Stack →](issues/index.md)
 
 Navigate projects by your favorite technologies:
-
-📂 [Browse Projects by Tech →](issues/index.md)
 
 
 | Tech Stack        | Link                          | Tech Stack         | Link                            |
