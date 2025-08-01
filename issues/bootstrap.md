@@ -14,8 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance Tutorial Cards with 3D Hover Transition Effect for Better UI Feedback | Medium | [#1303](https://github.com/vishanurag/Canvas-Editor/issues/1303) |
-| Update contributors.html | Medium | [#1302](https://github.com/vishanurag/Canvas-Editor/pull/1302) |
+| 🧑‍💻: UI Enhancement for contributer page | Medium | [#1308](https://github.com/vishanurag/Canvas-Editor/issues/1308) |
+| UI successfully improved | Medium | [#1306](https://github.com/vishanurag/Canvas-Editor/pull/1306) |
 | Feat:  Adding "remember me" to the signup and signin page connecting it to the local storage database for user authentication. | Medium | [#1190](https://github.com/vishanurag/Canvas-Editor/issues/1190) |
 | 🧑‍💻:  change  layout of the website | Medium | [#1132](https://github.com/vishanurag/Canvas-Editor/issues/1132) |
 
@@ -39,8 +39,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhanced Footer #39 | Medium | [#52](https://github.com/gyanshankar1708/GrowCraft/pull/52) |
-| Seperating logic from framework | Medium | [#51](https://github.com/gyanshankar1708/GrowCraft/issues/51) |
+| Seperated the files #51 | Medium | [#69](https://github.com/gyanshankar1708/GrowCraft/pull/69) |
+| Contact Us page | Medium | [#68](https://github.com/gyanshankar1708/GrowCraft/issues/68) |
+| Darkmode Button Alignment | Medium | [#67](https://github.com/gyanshankar1708/GrowCraft/pull/67) |
+| The lazy loading | Medium | [#66](https://github.com/gyanshankar1708/GrowCraft/issues/66) |
+| Hover effect smoothness | Medium | [#65](https://github.com/gyanshankar1708/GrowCraft/issues/65) |
 | Enhanced contact us section #28 issue | Medium | [#48](https://github.com/gyanshankar1708/GrowCraft/pull/48) |
 | Adding a CONTRIBUTING.md file to project | Medium | [#42](https://github.com/gyanshankar1708/GrowCraft/issues/42) |
 | UI Improvement | Medium | [#37](https://github.com/gyanshankar1708/GrowCraft/issues/37) |
@@ -64,10 +67,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Improvements: FAQ Scroll, Review Hover Effect, Side Scroll for Reviews, and Contact Section | Medium | [#24](https://github.com/Pujan-sarkar/FARMLOC/issues/24) |
+| Add a Back to Top icon | Medium | [#20](https://github.com/Pujan-sarkar/FARMLOC/issues/20) |
 | Add Favicon to Website | Medium | [#19](https://github.com/Pujan-sarkar/FARMLOC/issues/19) |
-| Feature Request: Admin Dashboard for FARMLOC | Medium | [#18](https://github.com/Pujan-sarkar/FARMLOC/issues/18) |
-| Feature Request: Add Multilingual Support (Language Selector) | Medium | [#17](https://github.com/Pujan-sarkar/FARMLOC/issues/17) |
-| Add mit license file to the project | Medium | [#14](https://github.com/Pujan-sarkar/FARMLOC/pull/14) |
 
 ---
 
@@ -85,8 +87,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed the footer bug issue | Medium | [#50](https://github.com/sachiva1/sachiva/pull/50) |
-| Fix: Dark mode functionality missing from Services page (#35). | Medium | [#46](https://github.com/sachiva1/sachiva/pull/46) |
+| Enhanced dark mode support for all components and improved theme transitions | Medium | [#68](https://github.com/sachiva1/sachiva/pull/68) |
 
 ---
 
