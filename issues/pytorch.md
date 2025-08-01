@@ -20,6 +20,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Work on ML model , and Python contribution | Medium | [#6](https://github.com/Gssoc-2025/co-supply-ai/issues/6) |
+| Add contributing.md in the repo | Medium | [#5](https://github.com/Gssoc-2025/co-supply-ai/issues/5) |
 | Work on ML Model for GreenScore | Medium | [#4](https://github.com/Gssoc-2025/co-supply-ai/issues/4) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/Gssoc-2025/co-supply-ai/issues/3) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#2](https://github.com/Gssoc-2025/co-supply-ai/issues/2) |
