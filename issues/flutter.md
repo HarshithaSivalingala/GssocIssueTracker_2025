@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding CODE_OF_CONDUCT.md file | Medium | [#29](https://github.com/kaushav07/VisionMate/issues/29) |
 | Improve README.md | Medium | [#28](https://github.com/kaushav07/VisionMate/issues/28) |
 | Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
 | Implementing Voice Commands via Speech-to-Text | Medium | [#26](https://github.com/kaushav07/VisionMate/issues/26) |
@@ -77,10 +78,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance UI of discussion forum | Easy | [#123](https://github.com/Prateek9876/NagarVikas/issues/123) |
+| Show Preview of Uploaded Image before Submission. | Medium | [#191](https://github.com/Prateek9876/NagarVikas/pull/191) |
+| Enhance empty state UI with illustration and fade-in animation (#153) | Medium | [#190](https://github.com/Prateek9876/NagarVikas/pull/190) |
+| MERGE FIX: LOCALIZATION | Medium | [#189](https://github.com/Prateek9876/NagarVikas/pull/189) |
+| Lib folder restructured and import issue fixed | Medium | [#187](https://github.com/Prateek9876/NagarVikas/pull/187) |
 | Improved ui in Contact us and Feedback Page #181 Level 2 | Medium | [#182](https://github.com/Prateek9876/NagarVikas/pull/182) |
-| Improve UI of Admin Dashboard | Medium | [#137](https://github.com/Prateek9876/NagarVikas/issues/137) |
-| Add Animation on Complaint Submission Success | Medium | [#6](https://github.com/Prateek9876/NagarVikas/issues/6) |
 | Added Star/Favorite to Complaints (Admin) #64 Level 3 | Hard | [#186](https://github.com/Prateek9876/NagarVikas/pull/186) |
 | Add push notification feature to admin dashboard whenever new complaint is filed by user | Hard | [#127](https://github.com/Prateek9876/NagarVikas/issues/127) |
 
@@ -100,8 +102,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue: Move API Calls to Backend for Better Security & Performance | Medium | [#107](https://github.com/Yash159357/BREVITY/issues/107) |
-| fix: Changed the page size to 3 | Medium | [#104](https://github.com/Yash159357/BREVITY/pull/104) |
+| Backend Support for Custom In-App Rating Feature | Medium | [#117](https://github.com/Yash159357/BREVITY/issues/117) |
+| Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
 | Integrated FCM notification setup | Medium | [#67](https://github.com/Yash159357/BREVITY/pull/67) |
 | Migrate from firebase to node js | Medium | [#66](https://github.com/Yash159357/BREVITY/pull/66) |
@@ -122,7 +124,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request | Medium | [#49](https://github.com/may-tas/TextEditingApp/issues/49) |
 | Bug Report : Delete Key Removes All Text Elements Instead of Only the Selected One | Medium | [#4](https://github.com/may-tas/TextEditingApp/issues/4) |
+| Feature Request : Option to save pages | Hard | [#50](https://github.com/may-tas/TextEditingApp/issues/50) |
 
 ---
 
@@ -140,6 +144,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Documentation: README.md + CONTRIBUTING.md Enhancements | Medium | [#65](https://github.com/VJLIVE/Athletix/issues/65) |
+| Add Filter & Search Functionality for Tournaments and Logs | Medium | [#64](https://github.com/VJLIVE/Athletix/issues/64) |
+| Add Empty State UI for No Performance Records | Medium | [#63](https://github.com/VJLIVE/Athletix/issues/63) |
 | Auth ui improved and responsiveness added | Medium | [#62](https://github.com/VJLIVE/Athletix/pull/62) |
 | Optimize Splash Screen Performance with Authentication Check in Parallel with Animation | Medium | [#60](https://github.com/VJLIVE/Athletix/issues/60) |
 | Solved issues in performance tracking | Medium | [#55](https://github.com/VJLIVE/Athletix/pull/55) |
@@ -161,8 +168,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue: Move API Calls to Backend for Better Security & Performance | Medium | [#107](https://github.com/Yash159357/BREVITY/issues/107) |
-| fix: Changed the page size to 3 | Medium | [#104](https://github.com/Yash159357/BREVITY/pull/104) |
+| Backend Support for Custom In-App Rating Feature | Medium | [#117](https://github.com/Yash159357/BREVITY/issues/117) |
+| Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
 | Integrated FCM notification setup | Medium | [#67](https://github.com/Yash159357/BREVITY/pull/67) |
 | Migrate from firebase to node js | Medium | [#66](https://github.com/Yash159357/BREVITY/pull/66) |
