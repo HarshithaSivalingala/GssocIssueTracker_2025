@@ -103,10 +103,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added home page navigation functionality on logo click | Medium | [#163](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/163) |
-| Redirect all undefined routes to the dashboard (or customizable fallback route) | Medium | [#162](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/162) |
-| Job portfolio at student dashboard | Medium | [#161](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/161) |
+| Fixed missing registration flow | Medium | [#171](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/171) |
+| creating a aptitude preparation page | Medium | [#166](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/166) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
+| Comprehensive interview flow issues report | Hard | [#170](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/170) |
 
 ---
 
@@ -170,6 +170,7 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Suggestion: Add Code Of Conduct File to project | Medium | [#6](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/6) |
 | 🚫 License Missing from Repository | Medium | [#5](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/5) |
 | Add Contributing.md | Medium | [#4](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/4) |
 | update README.md | Medium | [#3](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/3) |
@@ -189,7 +190,11 @@ Why Jeanne?
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/kunal0297/Nexus_dawn/issues/3) |
+| Suggestion: Add Code Of Conduct File to project | Medium | [#2](https://github.com/kunal0297/Nexus_dawn/issues/2) |
+| 🚫 License Missing from Repository | Medium | [#1](https://github.com/kunal0297/Nexus_dawn/issues/1) |
 
 ---
 
@@ -207,6 +212,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Documentation : Add Code Of Conduct File to project | Medium | [#4](https://github.com/Anasmalik57/Dev-Resume-AI/issues/4) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/Anasmalik57/Dev-Resume-AI/issues/3) |
 | 🚫 License Missing from Repository | Medium | [#2](https://github.com/Anasmalik57/Dev-Resume-AI/issues/2) |
 | Dev-Resume-AI: Code of Conduct for GSSoC'25 Contributors | Medium | [#1](https://github.com/Anasmalik57/Dev-Resume-AI/issues/1) |
