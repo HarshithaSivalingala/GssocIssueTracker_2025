@@ -12,7 +12,10 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Feature Request: Add a Custom 404 Page | Medium | [#89](https://github.com/ShishuCard/Vaccination_Portal/issues/89) |
+| Add a Contact / Feedback Form | Medium | [#88](https://github.com/ShishuCard/Vaccination_Portal/issues/88) |
 
 ---
 
@@ -70,10 +73,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Tutorial Page + Improved Scan & Detection UX | Medium | [#52](https://github.com/Bavanetha27/Refixly/pull/52) |
 | Establish foundational project structure: add README, CI pipeline, linting and testing framework | Medium | [#42](https://github.com/Bavanetha27/Refixly/issues/42) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
-| Add the Ai course | Medium | [#36](https://github.com/Bavanetha27/Refixly/pull/36) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
 
 ---
@@ -221,6 +222,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added backend for bookmarks -- Node.js | Medium | [#118](https://github.com/Yash159357/BREVITY/pull/118) |
 | Backend Support for Custom In-App Rating Feature | Medium | [#117](https://github.com/Yash159357/BREVITY/issues/117) |
 | Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
@@ -280,7 +282,11 @@ _No unassigned issues._
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add UI Screenshots to README for Better Visual Understanding | Easy | [#96](https://github.com/SurajSG23/PrepBuddy/issues/96) |
+| Change CommonJS export to ES Module in testRouter.js | Medium | [#95](https://github.com/SurajSG23/PrepBuddy/pull/95) |
+| update theme-toggle and added progressBar | Medium | [#94](https://github.com/SurajSG23/PrepBuddy/pull/94) |
 
 ---
 
@@ -298,6 +304,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Underline in the Privacy Policy & Terms | Medium | [#67](https://github.com/VJLIVE/Athletix/issues/67) |
+| Forgot password feature in login screen | Medium | [#66](https://github.com/VJLIVE/Athletix/issues/66) |
 | Improve Documentation: README.md + CONTRIBUTING.md Enhancements | Medium | [#65](https://github.com/VJLIVE/Athletix/issues/65) |
 | Add Filter & Search Functionality for Tournaments and Logs | Medium | [#64](https://github.com/VJLIVE/Athletix/issues/64) |
 | Add Empty State UI for No Performance Records | Medium | [#63](https://github.com/VJLIVE/Athletix/issues/63) |
@@ -322,6 +330,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added backend for bookmarks -- Node.js | Medium | [#118](https://github.com/Yash159357/BREVITY/pull/118) |
 | Backend Support for Custom In-App Rating Feature | Medium | [#117](https://github.com/Yash159357/BREVITY/issues/117) |
 | Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
@@ -344,11 +353,11 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| There is no license in the readme file | Medium | [#32](https://github.com/Skrache/crisisboard/issues/32) |
 | 🤖 Add AI-Powered Chatbot for Enhanced User Support | Medium | [#31](https://github.com/Skrache/crisisboard/issues/31) |
 | 🔍 Add Advanced Search and Filter System | Medium | [#30](https://github.com/Skrache/crisisboard/issues/30) |
 | 📎 Add File Upload Support for Complaints | Medium | [#29](https://github.com/Skrache/crisisboard/issues/29) |
 | ⬆️ Add Smooth Scroll-to-Top Button | Medium | [#28](https://github.com/Skrache/crisisboard/issues/28) |
-| Modified the UI/UX for removing unwanted spaces | Medium | [#27](https://github.com/Skrache/crisisboard/pull/27) |
 | Deployed website | Medium | [#26](https://github.com/Skrache/crisisboard/pull/26) |
 | Implement Firebase Authentication for College Email-Based Login/Signup | Medium | [#17](https://github.com/Skrache/crisisboard/issues/17) |
 | README file update | Medium | [#16](https://github.com/Skrache/crisisboard/issues/16) |
@@ -407,8 +416,9 @@ _No unassigned issues._
 | Update the welcome workflow to stop auto adding active label | Easy | [#92](https://github.com/Loop-Hive/ScheduleX/issues/92) |
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
-| Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Added Code of Conduct | Medium | [#101](https://github.com/Loop-Hive/ScheduleX/pull/101) |
+| Add UI Design Preview Folder README.md for Card Theme | Medium | [#100](https://github.com/Loop-Hive/ScheduleX/pull/100) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/Loop-Hive/ScheduleX/issues/98) |
 | Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
 | Create New App Icon Design for ScheduleX on Figma | Medium | [#89](https://github.com/Loop-Hive/ScheduleX/issues/89) |
@@ -433,6 +443,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| BUG : Not responsive for devices with small display | Medium | [#21](https://github.com/Devaki01/EcoStore/issues/21) |
 | Create a chatbot | Medium | [#20](https://github.com/Devaki01/EcoStore/issues/20) |
 | Responsiveness is missing | Medium | [#19](https://github.com/Devaki01/EcoStore/issues/19) |
 | Update README.md with project details | Medium | [#18](https://github.com/Devaki01/EcoStore/pull/18) |
@@ -459,7 +470,10 @@ _No unassigned issues._
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#5](https://github.com/powerstone666/MelodyMind/issues/5) |
+| Suggestion: Add Code Of Conduct File to project | Medium | [#4](https://github.com/powerstone666/MelodyMind/issues/4) |
 
 ---
 
@@ -509,6 +523,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#40](https://github.com/Varshitha713/CodeCanvas/issues/40) |
 | Title: 🚧 Navbar Links Not Fully Functional | Medium | [#39](https://github.com/Varshitha713/CodeCanvas/issues/39) |
 | 🚫 License Missing from Repository | Medium | [#38](https://github.com/Varshitha713/CodeCanvas/issues/38) |
 | Add Hamburger Menu for Navbar on Small Screens | Medium | [#37](https://github.com/Varshitha713/CodeCanvas/issues/37) |
@@ -527,7 +542,6 @@ _No unassigned issues._
 | Add Previews for current Featured Projects | Medium | [#11](https://github.com/Varshitha713/CodeCanvas/issues/11) |
 | Navbar section not working | Medium | [#7](https://github.com/Varshitha713/CodeCanvas/issues/7) |
 | Set up project structure and initial documentation | Medium | [#3](https://github.com/Varshitha713/CodeCanvas/issues/3) |
-| Add upvoting system for projects | Medium | [#2](https://github.com/Varshitha713/CodeCanvas/issues/2) |
 
 ---
 
@@ -561,6 +575,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Documentation : Add Code Of Conduct File to project | Medium | [#7](https://github.com/Nayanika1402/WildQuest/issues/7) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#6](https://github.com/Nayanika1402/WildQuest/issues/6) |
 | 🚫 License Missing from Repository | Medium | [#5](https://github.com/Nayanika1402/WildQuest/issues/5) |
 
@@ -610,6 +625,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Contribute page is blank | Medium | [#23](https://github.com/mr-rishikesh/DevConnect/issues/23) |
 | Fix Home Navigation Redirect and Navbar Logo Scroll-to-Top Behavior | Medium | [#22](https://github.com/mr-rishikesh/DevConnect/issues/22) |
 | Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
 | Implement JWT-Based Authentication Middleware | Medium | [#2](https://github.com/mr-rishikesh/DevConnect/issues/2) |
@@ -630,6 +646,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| issue template | Medium | [#77](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/77) |
+| typing effect on landing page | Medium | [#76](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/76) |
 | Enhance the Navbar | Medium | [#75](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/75) |
 | Missing of favicon logo in browser tab. | Medium | [#68](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/68) |
 
