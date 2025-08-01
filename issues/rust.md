@@ -60,7 +60,20 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Enhancement: Add Build Verification GitHub Action for Pull Requests | Easy | [#15](https://github.com/thedevyashsaini/rusticle/issues/15) |
+| Enhancement: Add Repository Templates for Better Open Source Workflow | Easy | [#5](https://github.com/thedevyashsaini/rusticle/issues/5) |
+| ci: add commitlint github action to validate commit messages | Medium | [#17](https://github.com/thedevyashsaini/rusticle/pull/17) |
+| Add ISSUE_TEMPLATE Directory with Bug Report, Feature Request & Question Templates | Medium | [#16](https://github.com/thedevyashsaini/rusticle/issues/16) |
+| Enhancement: Add Support for Arrays/Lists Data Type | Medium | [#12](https://github.com/thedevyashsaini/rusticle/issues/12) |
+| Enhancement: Implement Variable Scoping and Block Scope | Medium | [#7](https://github.com/thedevyashsaini/rusticle/issues/7) |
+| Added LICENSE | Medium | [#6](https://github.com/thedevyashsaini/rusticle/pull/6) |
+| Enhancement: Implement Closures and Lexical Scoping | Hard | [#11](https://github.com/thedevyashsaini/rusticle/issues/11) |
+| Enhancement: Add Garbage Collection for Memory Management | Hard | [#10](https://github.com/thedevyashsaini/rusticle/issues/10) |
+| Enhancement: Implement a Module System with Import Resolution | Hard | [#9](https://github.com/thedevyashsaini/rusticle/issues/9) |
+| Enhancement: Add String Interpolation Support | Hard | [#8](https://github.com/thedevyashsaini/rusticle/issues/8) |
+| Bug Report: While Loop (`jabtak`) Parsing Error | Hard | [#4](https://github.com/thedevyashsaini/rusticle/issues/4) |
 
 ---
 
