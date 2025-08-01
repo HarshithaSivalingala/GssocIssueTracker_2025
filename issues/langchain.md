@@ -37,7 +37,11 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#4](https://github.com/hardik1712/hinglish-voice-ai/issues/4) |
+| Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/hardik1712/hinglish-voice-ai/issues/3) |
+| 🚫 License Missing from Repository | Medium | [#2](https://github.com/hardik1712/hinglish-voice-ai/issues/2) |
 
 ---
 
@@ -55,6 +59,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🚫 License Missing from Repository | Medium | [#153](https://github.com/harsh3dev/DevMatchups/issues/153) |
 | Fix the footer section in mobile view | Medium | [#152](https://github.com/harsh3dev/DevMatchups/issues/152) |
 | Add mode of hackathon and location if offline | Medium | [#151](https://github.com/harsh3dev/DevMatchups/issues/151) |
 | Design of a scroll bar. | Medium | [#145](https://github.com/harsh3dev/DevMatchups/issues/145) |
@@ -81,6 +86,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Suggestion: Add Code Of Conduct File to project | Medium | [#6](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/6) |
 | 🚫 License Missing from Repository | Medium | [#5](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/5) |
 | Add Contributing.md | Medium | [#4](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/4) |
 | update README.md | Medium | [#3](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/3) |
