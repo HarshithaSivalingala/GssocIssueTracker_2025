@@ -68,6 +68,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
 | Adding CODE_OF_CONDUCT.md file | Medium | [#29](https://github.com/kaushav07/VisionMate/issues/29) |
 | Improve README.md | Medium | [#28](https://github.com/kaushav07/VisionMate/issues/28) |
 | Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
@@ -109,6 +110,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🐞 Bug Report: Upload Fails for Unsupported Image Formats | Medium | [#31](https://github.com/Khushbudaswani/Foodbridge/issues/31) |
 | Adding CONTRIBUTING.md file | Medium | [#30](https://github.com/Khushbudaswani/Foodbridge/issues/30) |
 | Adding a CodeOfConduct.md file | Medium | [#29](https://github.com/Khushbudaswani/Foodbridge/issues/29) |
 | Add Background Image Slideshow to Landing Page | Medium | [#28](https://github.com/Khushbudaswani/Foodbridge/issues/28) |
@@ -135,6 +137,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Hover Effects to Service Cards for Improved UI Interactivity | Medium | [#93](https://github.com/Khushi-Nigam/jobportal/issues/93) |
 | Adding CONTRIBUTE.md file | Medium | [#90](https://github.com/Khushi-Nigam/jobportal/issues/90) |
 | Adding CODE_OF_CONDUCT.md file | Medium | [#89](https://github.com/Khushi-Nigam/jobportal/issues/89) |
 | add animations to the index page | Medium | [#86](https://github.com/Khushi-Nigam/jobportal/issues/86) |
