@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
 | Adding CODE_OF_CONDUCT.md file | Medium | [#29](https://github.com/kaushav07/VisionMate/issues/29) |
 | Improve README.md | Medium | [#28](https://github.com/kaushav07/VisionMate/issues/28) |
 | Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
@@ -102,6 +103,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added backend for bookmarks -- Node.js | Medium | [#118](https://github.com/Yash159357/BREVITY/pull/118) |
 | Backend Support for Custom In-App Rating Feature | Medium | [#117](https://github.com/Yash159357/BREVITY/issues/117) |
 | Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
@@ -124,6 +126,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add more color options issue 🎨 | Medium | [#53](https://github.com/may-tas/TextEditingApp/pull/53) |
 | Feature Request | Medium | [#49](https://github.com/may-tas/TextEditingApp/issues/49) |
 | Bug Report : Delete Key Removes All Text Elements Instead of Only the Selected One | Medium | [#4](https://github.com/may-tas/TextEditingApp/issues/4) |
 | Feature Request : Option to save pages | Hard | [#50](https://github.com/may-tas/TextEditingApp/issues/50) |
@@ -144,6 +147,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Underline in the Privacy Policy & Terms | Medium | [#67](https://github.com/VJLIVE/Athletix/issues/67) |
+| Forgot password feature in login screen | Medium | [#66](https://github.com/VJLIVE/Athletix/issues/66) |
 | Improve Documentation: README.md + CONTRIBUTING.md Enhancements | Medium | [#65](https://github.com/VJLIVE/Athletix/issues/65) |
 | Add Filter & Search Functionality for Tournaments and Logs | Medium | [#64](https://github.com/VJLIVE/Athletix/issues/64) |
 | Add Empty State UI for No Performance Records | Medium | [#63](https://github.com/VJLIVE/Athletix/issues/63) |
@@ -168,6 +173,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added backend for bookmarks -- Node.js | Medium | [#118](https://github.com/Yash159357/BREVITY/pull/118) |
 | Backend Support for Custom In-App Rating Feature | Medium | [#117](https://github.com/Yash159357/BREVITY/issues/117) |
 | Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
