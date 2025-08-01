@@ -14,12 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated Twitter icon to new X logo with consistent styling | Medium | [#169](https://github.com/Amarjha01/InfantCareCompass/pull/169) |
+| Added demo section | Medium | [#171](https://github.com/Amarjha01/InfantCareCompass/pull/171) |
+| Made the alignment of the text correct | Medium | [#170](https://github.com/Amarjha01/InfantCareCompass/pull/170) |
 | feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
 | Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
 | modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
 | updated the contributing.md file | Medium | [#152](https://github.com/Amarjha01/InfantCareCompass/pull/152) |
-| Added 404 and global error handling | Medium | [#151](https://github.com/Amarjha01/InfantCareCompass/pull/151) |
 | refactored the controller logic and removed issues | Medium | [#147](https://github.com/Amarjha01/InfantCareCompass/pull/147) |
 | Fixed Newsletter Subscription API Integration | Medium | [#136](https://github.com/Amarjha01/InfantCareCompass/pull/136) |
 
@@ -41,7 +41,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding delete account feature | Medium | [#51](https://github.com/Bavanetha27/Refixly/issues/51) |
+| Added Tutorial Page + Improved Scan & Detection UX | Medium | [#52](https://github.com/Bavanetha27/Refixly/pull/52) |
 | Establish foundational project structure: add README, CI pipeline, linting and testing framework | Medium | [#42](https://github.com/Bavanetha27/Refixly/issues/42) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Add the Ai course | Medium | [#36](https://github.com/Bavanetha27/Refixly/pull/36) |
@@ -63,8 +63,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create a Code of Conduct file | Medium | [#15](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/15) |
-| Create a Frequently Asked Questions (FAQ) Section for Contributors | Medium | [#14](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/14) |
+| Create CODE_OF_CONDUCT.md | Medium | [#16](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/16) |
 | Detailed and Proper API Documentation | Medium | [#10](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/10) |
 | Deep Technical Documentation & Architecture Diagrams | Medium | [#7](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/7) |
 
@@ -86,6 +85,11 @@
 |----------|----------------|---------|
 | Fix footer spacing issue - add bottom padding to prevent content overlap | Easy | [#42](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) |
 | Improve UI Theme of Streamlit App | Easy | [#27](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/27) |
+| Added youtube search option for emotion | Medium | [#67](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/67) |
+| New Feature : Build Emotion Tracker Dashboard | Medium | [#66](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/66) |
+| Feature Request: Add Logging Support Across the Project | Medium | [#65](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/65) |
+| Issue: Add a Tutorial Notebook for Model Inference and Music Recommendation | Medium | [#64](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/64) |
+| to add little video or image upload to get song recommendation | Medium | [#63](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/63) |
 | Contribution to UI | Medium | [#62](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/62) |
 | Feature Request: UI Enhancement for making the page more appealing and user friendly | Medium | [#61](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/61) |
 | added ml based yt recommendation system for yt songs | Medium | [#56](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/56) |
@@ -97,7 +101,6 @@
 | feat(playlists): add emotion-based playlist creation functionality | Hard | [#60](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/60) |
 | Added print statement to log when video streaming starts | Hard | [#50](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) |
 | Streamlit WebRTC Fails to Capture Video on Deployment (STUN Not Working) | Hard | [#23](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/23) |
-| Change Computer Vision Libraries | Hard | [#8](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/8) |
 
 ---
 
@@ -115,7 +118,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Garbage Classification Model | Medium | [#18](https://github.com/AditixAnand/Garbage_Classification/issues/18) |
+| Added real-time waste classification with webcam using streamlit and Flask | Medium | [#24](https://github.com/AditixAnand/Garbage_Classification/pull/24) |
+| Modularize code from notebooks into Python scripts | Medium | [#23](https://github.com/AditixAnand/Garbage_Classification/issues/23) |
+| Integrate MediaPipe for Real-Time Hand Detection and Gesture-Based Input | Medium | [#22](https://github.com/AditixAnand/Garbage_Classification/issues/22) |
+| Add .gitignore file for ML project cleanup | Medium | [#21](https://github.com/AditixAnand/Garbage_Classification/pull/21) |
+| Multiple contributors can work on this — the best, cleanest, or most optimized solution will be merged. | Medium | [#20](https://github.com/AditixAnand/Garbage_Classification/issues/20) |
+| added code showing how k-fold cross validation will increase accuracy | Medium | [#19](https://github.com/AditixAnand/Garbage_Classification/pull/19) |
 | Feature: Missing UI | Medium | [#15](https://github.com/AditixAnand/Garbage_Classification/issues/15) |
 | Add requirements.txt for project dependency management | Medium | [#12](https://github.com/AditixAnand/Garbage_Classification/pull/12) |
 | Full Readme Update | Medium | [#11](https://github.com/AditixAnand/Garbage_Classification/issues/11) |
@@ -139,6 +147,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Templates of  pull requests, issues | Medium | [#4](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/4) |
 | Adding a CodeOfConduct.md file to the project | Medium | [#3](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/3) |
 | Update README.md | Medium | [#2](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/2) |
 | Add CONTRIBUTING.md file | Medium | [#1](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/1) |
