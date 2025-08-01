@@ -89,10 +89,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | remove bug from report issue | Medium | [#392](https://github.com/HarshS16/Civix/pull/392) |
-| UI Enhancement of About Page | Medium | [#387](https://github.com/HarshS16/Civix/pull/387) |
 | "Sign in with Google" Missing on Login Page | Medium | [#379](https://github.com/HarshS16/Civix/issues/379) |
 | Improve FAQ UI and Smoothness with Animated Expand/Collapse | Medium | [#374](https://github.com/HarshS16/Civix/pull/374) |
-| Two theme-changing buttons on Community Voting Dashboard | Medium | [#362](https://github.com/HarshS16/Civix/issues/362) |
 | Quick Profile Access from Navbar | Medium | [#353](https://github.com/HarshS16/Civix/issues/353) |
 | Mobile Responsiveness for Complaint Cards | Medium | [#341](https://github.com/HarshS16/Civix/issues/341) |
 |  | Medium | [#340](https://github.com/HarshS16/Civix/issues/340) |
@@ -116,8 +114,9 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced the features section at home page and made it engaging | Medium | [#279](https://github.com/Muneerali199/DocMagic/pull/279) |
+| Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Added responsive footer with light and dark theme support | Medium | [#276](https://github.com/Muneerali199/DocMagic/pull/276) |
-| Crash when navigating from Pricing to Settings | Medium | [#275](https://github.com/Muneerali199/DocMagic/issues/275) |
 | Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
 | Added 10 Templates for Resume, Cover Letter, and Presentations | Medium | [#261](https://github.com/Muneerali199/DocMagic/pull/261) |
 | chore(deps): bump bcryptjs and @types/bcryptjs | Medium | [#258](https://github.com/Muneerali199/DocMagic/pull/258) |
@@ -127,7 +126,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | chore(deps-dev): bump @types/node from 20.19.9 to 24.1.0 | Medium | [#254](https://github.com/Muneerali199/DocMagic/pull/254) |
 | chore(deps): bump docx from 8.5.0 to 9.5.1 | Medium | [#253](https://github.com/Muneerali199/DocMagic/pull/253) |
 | chore(deps): bump vaul from 0.9.9 to 1.1.2 | Medium | [#252](https://github.com/Muneerali199/DocMagic/pull/252) |
-| CV Template Content Not Visible in Dark Mode | Medium | [#246](https://github.com/Muneerali199/DocMagic/issues/246) |
 | feat: refactored code to fully center main tabs | Medium | [#243](https://github.com/Muneerali199/DocMagic/pull/243) |
 | Added Supabase .env and updates | Medium | [#242](https://github.com/Muneerali199/DocMagic/pull/242) |
 
@@ -265,6 +263,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🚫 License Missing from Repository | Medium | [#153](https://github.com/harsh3dev/DevMatchups/issues/153) |
 | Fix the footer section in mobile view | Medium | [#152](https://github.com/harsh3dev/DevMatchups/issues/152) |
 | Add mode of hackathon and location if offline | Medium | [#151](https://github.com/harsh3dev/DevMatchups/issues/151) |
 | Design of a scroll bar. | Medium | [#145](https://github.com/harsh3dev/DevMatchups/issues/145) |
@@ -290,11 +289,9 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Skeleton Loaders to Dashboard Pages | Medium | [#25](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/25) |
-| Update Agent List to Show Last Call Status | Medium | [#21](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/21) |
 | Update README.md | Medium | [#14](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/14) |
 | Add Support for Asterisk as a Telephony Backend | Hard | [#24](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/24) |
 | Allow Users to Select a TTS Voice for Each Agent | Hard | [#23](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/23) |
-| Create a Live Call Monitoring Dashboard | Hard | [#22](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/22) |
 | Build UI for Call Campaign Management (MVP) | Hard | [#20](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/20) |
 | Create API Endpoints for Call Campaign Management (MVP) | Hard | [#19](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/19) |
 | Bug: Live Twilio calls drop immediately after connecting; webhook not being triggered | Hard | [#18](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/18) |
@@ -317,6 +314,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Suggestion: Add Code Of Conduct File to project | Medium | [#6](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/6) |
 | 🚫 License Missing from Repository | Medium | [#5](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/5) |
 | Add Contributing.md | Medium | [#4](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/4) |
 | update README.md | Medium | [#3](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/3) |
@@ -376,11 +374,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed a cursor ui issue [#55] | Medium | [#57](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/57) |
-| Back to Login button on Forgot Password page leads to 404 - Page Not Found | Medium | [#56](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/56) |
-| Added Chatbot Feature | Medium | [#51](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/51) |
 | feat(ui): Implement Interactive Bubble Background with Scroll & Mouse Effects (#22) | Medium | [#49](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/49) |
-| Feature Request: Display Recently Added Resources on Homepage | Medium | [#45](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/45) |
 | Added pull request template(#33) | Medium | [#43](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/43) |
 | Feat/add pr template | Medium | [#35](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/35) |
 | 📌 Issue Title: Add Toast Notification for Successful User Login | Medium | [#31](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/31) |
@@ -403,11 +397,9 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Smooth Scroll Animation for Anchor Links | Easy | [#12](https://github.com/vatsal-bhakodia/smriti-ai/issues/12) |
-| Improve Hover Styling for “Smriti AI” Feature Cards with 3D Transition #15 | Medium | [#16](https://github.com/vatsal-bhakodia/smriti-ai/pull/16) |
+| implemented changes | Medium | [#19](https://github.com/vatsal-bhakodia/smriti-ai/pull/19) |
 | Upload mp4 | Medium | [#2](https://github.com/vatsal-bhakodia/smriti-ai/issues/2) |
 | Create a Feature to Track User Logins to plot the Consistency Graph in dashboard | Hard | [#10](https://github.com/vatsal-bhakodia/smriti-ai/issues/10) |
-| Create a Feature to Assign Levels Based on User Performance | Hard | [#9](https://github.com/vatsal-bhakodia/smriti-ai/issues/9) |
 
 ---
 
