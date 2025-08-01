@@ -41,7 +41,6 @@
 | Create pull_request_template.md | Medium | [#31](https://github.com/VaibhavCodeClub/term/pull/31) |
 | clickable links | Medium | [#29](https://github.com/VaibhavCodeClub/term/issues/29) |
 | ci: add GitHub Actions for commitlint and DCO checks | Medium | [#25](https://github.com/VaibhavCodeClub/term/pull/25) |
-| Autocomplete uses current working directory instead of root for relative paths | Medium | [#24](https://github.com/VaibhavCodeClub/term/pull/24) |
 | Feature : Added support of `ls` and 'la` command | Medium | [#20](https://github.com/VaibhavCodeClub/term/pull/20) |
 | Issue template config | Medium | [#11](https://github.com/VaibhavCodeClub/term/pull/11) |
 | Create bug_report.yml | Medium | [#10](https://github.com/VaibhavCodeClub/term/pull/10) |
