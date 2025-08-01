@@ -12,7 +12,9 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Documentation : Add Code Of Conduct File to project | Medium | [#14](https://github.com/CharithaReddy18/AI-health-chatbot/issues/14) |
 
 ---
 
