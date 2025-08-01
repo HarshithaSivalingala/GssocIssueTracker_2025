@@ -11,6 +11,35 @@ Welcome to the **GSSoC 2025 Issues Tracker**! This repository helps participants
 Navigate projects by your favorite technologies:
 
 📂 [Browse Projects by Tech →](issues/index.md)
+## 🧭 Explore Projects by Tech Stack
+
+| Tech Stack        | Link                          | Tech Stack         | Link                            |
+|------------------|-------------------------------|--------------------|---------------------------------|
+| Ai               | [Ai Projects](ai.md)          | Angular            | [Angular Projects](angular.md) |
+| Aws              | [Aws Projects](aws.md)        | Blockchain         | [Blockchain Projects](blockchain.md) |
+| Bootstrap        | [Bootstrap Projects](bootstrap.md) | C++           | [C++ Projects](c++.md)         |
+| Computer Vision  | [Computer Vision](computer_vision.md) | Data Science     | [Data Science](data_science.md) |
+| Django           | [Django Projects](django.md)  | Express            | [Express Projects](express.md) |
+| Fastapi          | [Fastapi Projects](fastapi.md) | Firebase           | [Firebase Projects](firebase.md) |
+| Flask            | [Flask Projects](flask.md)    | Flutter            | [Flutter Projects](flutter.md) |
+| Gcp              | [Gcp Projects](gcp.md)        | Git                | [Git Projects](git.md)         |
+| Go               | [Go Projects](go.md)          | Graphql            | [Graphql Projects](graphql.md) |
+| Java             | [Java Projects](java.md)      | Javascript         | [Javascript Projects](javascript.md) |
+| Kotlin           | [Kotlin Projects](kotlin.md)  | Kubernetes         | [Kubernetes Projects](kubernetes.md) |
+| Langchain        | [Langchain Projects](langchain.md) | Ml            | [Ml Projects](ml.md)           |
+| Mongodb          | [Mongodb Projects](mongodb.md) | Mysql              | [Mysql Projects](mysql.md)     |
+| Next.js          | [Next.Js Projects](next.js.md) | Nlp                | [Nlp Projects](nlp.md)         |
+| Node.js          | [Node.Js Projects](node.js.md) | Openai             | [Openai Projects](openai.md)   |
+| Php              | [Php Projects](php.md)        | Postgresql         | [Postgresql Projects](postgresql.md) |
+| Python           | [Python Projects](python.md)  | Pytorch            | [Pytorch Projects](pytorch.md) |
+| React            | [React Projects](react.md)    | React Native       | [React Native Projects](react_native.md) |
+| Redis            | [Redis Projects](redis.md)    | Ruby               | [Ruby Projects](ruby.md)       |
+| Rust             | [Rust Projects](rust.md)      | Selenium           | [Selenium Projects](selenium.md) |
+| Solidity         | [Solidity Projects](solidity.md) | Spring Boot     | [Spring Boot Projects](spring_boot.md) |
+| Supabase         | [Supabase Projects](supabase.md) | Tailwind CSS     | [Tailwind CSS Projects](tailwind_css.md) |
+| Tensorflow       | [Tensorflow Projects](tensorflow.md) | Typescript     | [Typescript Projects](typescript.md) |
+| Vue.js           | [Vue.Js Projects](vue.js.md)  |                    |                                 |
+
 
 ---
 
