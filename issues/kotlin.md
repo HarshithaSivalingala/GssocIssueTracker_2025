@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| Improved Navigation between fragments | Medium | [#59](https://github.com/A-Akhil/Astra-Ai/issues/59) |
 | Add a contributing.md  file | Medium | [#58](https://github.com/A-Akhil/Astra-Ai/issues/58) |
 | To-Do List from Natural Language | Medium | [#57](https://github.com/A-Akhil/Astra-Ai/issues/57) |
 | 🔒 Enhance Trust & Transparency: Add Documentation for Memory/RAG + User Profiles | Medium | [#56](https://github.com/A-Akhil/Astra-Ai/issues/56) |
@@ -55,6 +56,11 @@ User Profile: BMI calculator and fitness analytics.
 | 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
 | Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
 | Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
+| Add LICENSE.md file | Medium | [#24](https://github.com/akshtshrma/KinetiX/issues/24) |
+| Add a CONTRIBUTING.md file | Medium | [#23](https://github.com/akshtshrma/KinetiX/issues/23) |
+| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#22](https://github.com/akshtshrma/KinetiX/issues/22) |
+| Add CODE_OF_CONDUCT.md file | Medium | [#21](https://github.com/akshtshrma/KinetiX/issues/21) |
+| Add README.md file | Medium | [#20](https://github.com/akshtshrma/KinetiX/issues/20) |
 | AI-Enhanced Form Analysis & Comprehensive App Improvements | Medium | [#18](https://github.com/akshtshrma/KinetiX/pull/18) |
 | Feature Request: Add Personalized AI Coach for Dynamic Workout Suggestions | Medium | [#17](https://github.com/akshtshrma/KinetiX/issues/17) |
 | docs: add comprehensive README with project overview, features, and contribution guidelines ( closes #1 ) | Medium | [#16](https://github.com/akshtshrma/KinetiX/pull/16) |
@@ -136,14 +142,9 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactored ProductDetails Screen | Medium | [#332](https://github.com/yuvrajsinghgmx/ShopSmart/pull/332) |
-| Products Addition | Medium | [#331](https://github.com/yuvrajsinghgmx/ShopSmart/pull/331) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
-| Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | Saved Products Screen | Medium | [#284](https://github.com/yuvrajsinghgmx/ShopSmart/issues/284) |
 | Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
-| Add Shop Screen | Medium | [#278](https://github.com/yuvrajsinghgmx/ShopSmart/issues/278) |
-| Onboarding Screen | Medium | [#274](https://github.com/yuvrajsinghgmx/ShopSmart/issues/274) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
@@ -162,9 +163,10 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add clear search button to text field | Medium | [#12](https://github.com/Ajay-patidar0/GitSearch/pull/12) |
+| There is no license in the readme | Medium | [#11](https://github.com/Ajay-patidar0/GitSearch/issues/11) |
 | Docs: Update README with detailed setup instructions for GSSoC'25 | Medium | [#10](https://github.com/Ajay-patidar0/GitSearch/pull/10) |
 | Added : Code of Conduct | Medium | [#9](https://github.com/Ajay-patidar0/GitSearch/pull/9) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#6](https://github.com/Ajay-patidar0/GitSearch/issues/6) |
 
 ---
 
