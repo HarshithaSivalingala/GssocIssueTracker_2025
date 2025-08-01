@@ -15,6 +15,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| Add a contributing.md  file | Medium | [#58](https://github.com/A-Akhil/Astra-Ai/issues/58) |
+| To-Do List from Natural Language | Medium | [#57](https://github.com/A-Akhil/Astra-Ai/issues/57) |
 | 🔒 Enhance Trust & Transparency: Add Documentation for Memory/RAG + User Profiles | Medium | [#56](https://github.com/A-Akhil/Astra-Ai/issues/56) |
 | Feature/ci pipeline | Medium | [#55](https://github.com/A-Akhil/Astra-Ai/pull/55) |
 | Add GitHub Actions workflow for Android build | Medium | [#54](https://github.com/A-Akhil/Astra-Ai/pull/54) |
@@ -30,7 +32,6 @@
 | Update Llama Client.kt | Medium | [#29](https://github.com/A-Akhil/Astra-Ai/pull/29) |
 | Suggested Advanced Additions to Scale Astra-AI to a Full-Fledged Assistant | Medium | [#26](https://github.com/A-Akhil/Astra-Ai/issues/26) |
 | Add support for running LLMs fully on device with Ollama (for low-RAM systems) | Medium | [#25](https://github.com/A-Akhil/Astra-Ai/issues/25) |
-| Implement Foreground Service for Always-On AI Assistant with Wake Word Detection | Hard | [#15](https://github.com/A-Akhil/Astra-Ai/issues/15) |
 
 ---
 
@@ -51,12 +52,12 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Show Celebration Popup on Goal Completion (Calorie, Water, Workout) | Easy | [#14](https://github.com/akshtshrma/KinetiX/issues/14) |
 | 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
 | Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
 | Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
+| AI-Enhanced Form Analysis & Comprehensive App Improvements | Medium | [#18](https://github.com/akshtshrma/KinetiX/pull/18) |
+| Feature Request: Add Personalized AI Coach for Dynamic Workout Suggestions | Medium | [#17](https://github.com/akshtshrma/KinetiX/issues/17) |
 | docs: add comprehensive README with project overview, features, and contribution guidelines ( closes #1 ) | Medium | [#16](https://github.com/akshtshrma/KinetiX/pull/16) |
-| Redesign Profile Screen to Match App Theme | Medium | [#15](https://github.com/akshtshrma/KinetiX/issues/15) |
 | Add Dynamic Images in the "Login/SignUp" screen | Medium | [#13](https://github.com/akshtshrma/KinetiX/issues/13) |
 | Improve Steps Counter Functionality | Medium | [#8](https://github.com/akshtshrma/KinetiX/issues/8) |
 | Contributor Covenant Code of Conduct - GSSoC 2025 | Medium | [#7](https://github.com/akshtshrma/KinetiX/pull/7) |
@@ -80,8 +81,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated DrawingCanvas and ShapeSelector with shapes support | Medium | [#20](https://github.com/Rajkumarbhakta/Canvas/pull/20) |
 | feat: Replace preferences with SQLite database for drawing storage ( closes #3) | Medium | [#17](https://github.com/Rajkumarbhakta/Canvas/pull/17) |
-| Add Shape Drawing Tools (Line, Rectangle, Circle, Ellipse) | Medium | [#14](https://github.com/Rajkumarbhakta/Canvas/issues/14) |
 | Make Drawing Screen Mobile friendly | Medium | [#10](https://github.com/Rajkumarbhakta/Canvas/issues/10) |
 | UPDATE ON: feat: Implement Search Functionality and Improve Home Screen UI #1 | Medium | [#5](https://github.com/Rajkumarbhakta/Canvas/pull/5) |
 
@@ -135,9 +136,14 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-|  | Medium | [#324](https://github.com/yuvrajsinghgmx/ShopSmart/issues/324) |
-|  | Medium | [#323](https://github.com/yuvrajsinghgmx/ShopSmart/issues/323) |
-| Update Add Screen Page. | Medium | [#307](https://github.com/yuvrajsinghgmx/ShopSmart/pull/307) |
+| Refactored ProductDetails Screen | Medium | [#332](https://github.com/yuvrajsinghgmx/ShopSmart/pull/332) |
+| Products Addition | Medium | [#331](https://github.com/yuvrajsinghgmx/ShopSmart/pull/331) |
+| Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
+| Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
+| Saved Products Screen | Medium | [#284](https://github.com/yuvrajsinghgmx/ShopSmart/issues/284) |
+| Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
+| Add Shop Screen | Medium | [#278](https://github.com/yuvrajsinghgmx/ShopSmart/issues/278) |
+| Onboarding Screen | Medium | [#274](https://github.com/yuvrajsinghgmx/ShopSmart/issues/274) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
@@ -156,13 +162,9 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add MIT License file to the project | Medium | [#7](https://github.com/Ajay-patidar0/GitSearch/pull/7) |
+| Docs: Update README with detailed setup instructions for GSSoC'25 | Medium | [#10](https://github.com/Ajay-patidar0/GitSearch/pull/10) |
+| Added : Code of Conduct | Medium | [#9](https://github.com/Ajay-patidar0/GitSearch/pull/9) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#6](https://github.com/Ajay-patidar0/GitSearch/issues/6) |
-| Suggestion: Add Code Of Conduct File to project | Medium | [#5](https://github.com/Ajay-patidar0/GitSearch/issues/5) |
-| 🚫 License Missing from Repository | Medium | [#4](https://github.com/Ajay-patidar0/GitSearch/issues/4) |
-| Update README with more detailed setup instructions | Medium | [#3](https://github.com/Ajay-patidar0/GitSearch/issues/3) |
-| Add a "Clear Search" Button | Medium | [#2](https://github.com/Ajay-patidar0/GitSearch/issues/2) |
-| Enhance UI/UX. | Medium | [#1](https://github.com/Ajay-patidar0/GitSearch/issues/1) |
 
 ---
 
