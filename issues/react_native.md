@@ -15,15 +15,15 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Missing Dependency in package.json | Easy | [#85](https://github.com/Devasy23/splitwiser/issues/85) |
-| feat: Add create and join group functionality | Medium | [#93](https://github.com/Devasy23/splitwiser/pull/93) |
+| Visibility and Styling of  Onboarding Screen ;Bug in verify acess_toke logic | Medium | [#100](https://github.com/Devasy23/splitwiser/issues/100) |
+| Feat/new material 3 branch | Medium | [#99](https://github.com/Devasy23/splitwiser/pull/99) |
+| Add rate limiting with user and endpoint-specific limits | Medium | [#98](https://github.com/Devasy23/splitwiser/pull/98) |
 | fix: standardize timestamp fields to camelCase in API responses | Medium | [#91](https://github.com/Devasy23/splitwiser/pull/91) |
 | cleanup debug code, TODOs, and hardcoded values (Issue #59) | Medium | [#88](https://github.com/Devasy23/splitwiser/pull/88) |
 | Update package.json | Medium | [#87](https://github.com/Devasy23/splitwiser/pull/87) |
 | Update package.json | Medium | [#86](https://github.com/Devasy23/splitwiser/pull/86) |
 | Remove frontend codebase and add comprehensive documentation | Medium | [#47](https://github.com/Devasy23/splitwiser/pull/47) |
 | Docs: Align API documentation with implementation | Medium | [#27](https://github.com/Devasy23/splitwiser/pull/27) |
-| 📱 Frontend Implementation - Major Components Missing | Medium | [#21](https://github.com/Devasy23/splitwiser/issues/21) |
-| 🎯 Epic: Groups Service Implementation & Test Coverage Analysis | Hard | [#22](https://github.com/Devasy23/splitwiser/issues/22) |
 
 ---
 
@@ -62,7 +62,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve the readme file for Outside viewers | Easy | [#17](https://github.com/LarytheLord/Adventurers-Guild/issues/17) |
+| 📘 Feature : Add a Dedicated FAQ Section | Medium | [#22](https://github.com/LarytheLord/Adventurers-Guild/issues/22) |
+| UI Enhancement: Add "Go to Top" Button & Replace Theme Buttons with a Toggle Switch | Medium | [#21](https://github.com/LarytheLord/Adventurers-Guild/issues/21) |
+| Implement Developer Skill Tree and Progression System | Medium | [#20](https://github.com/LarytheLord/Adventurers-Guild/issues/20) |
 | Homepage layout and styling inconsistencies need refinement | Medium | [#18](https://github.com/LarytheLord/Adventurers-Guild/issues/18) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#11](https://github.com/LarytheLord/Adventurers-Guild/issues/11) |
 
@@ -104,13 +106,13 @@
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/Loop-Hive/ScheduleX/issues/98) |
 | Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
 | Create New App Icon Design for ScheduleX on Figma | Medium | [#89](https://github.com/Loop-Hive/ScheduleX/issues/89) |
 | Add CI/CD Pipeline to Automatically Create a Release APK on PR Merge | Medium | [#84](https://github.com/Loop-Hive/ScheduleX/issues/84) |
 | Add Time Slot Error on Specific days | Medium | [#82](https://github.com/Loop-Hive/ScheduleX/issues/82) |
 | Export tasks as pdf | Medium | [#10](https://github.com/Loop-Hive/ScheduleX/issues/10) |
 | QR Code Integrations | Hard | [#81](https://github.com/Loop-Hive/ScheduleX/issues/81) |
-| Notification And Alerts | Hard | [#6](https://github.com/Loop-Hive/ScheduleX/issues/6) |
 
 ---
 
@@ -145,7 +147,9 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Update README.md | Medium | [#4](https://github.com/lalitsingh789/doctor-app/pull/4) |
 
 ---
 
@@ -161,9 +165,7 @@ _No unassigned issues._
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added onboarding screen with dark mode and navigation | Medium | [#2](https://github.com/07CalC/noir/pull/2) |
+_No unassigned issues._
 
 ---
 
