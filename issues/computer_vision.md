@@ -16,6 +16,11 @@
 |----------|----------------|---------|
 | Fix footer spacing issue - add bottom padding to prevent content overlap | Easy | [#42](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) |
 | Improve UI Theme of Streamlit App | Easy | [#27](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/27) |
+| Added youtube search option for emotion | Medium | [#67](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/67) |
+| New Feature : Build Emotion Tracker Dashboard | Medium | [#66](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/66) |
+| Feature Request: Add Logging Support Across the Project | Medium | [#65](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/65) |
+| Issue: Add a Tutorial Notebook for Model Inference and Music Recommendation | Medium | [#64](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/64) |
+| to add little video or image upload to get song recommendation | Medium | [#63](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/63) |
 | Contribution to UI | Medium | [#62](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/62) |
 | Feature Request: UI Enhancement for making the page more appealing and user friendly | Medium | [#61](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/61) |
 | added ml based yt recommendation system for yt songs | Medium | [#56](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/56) |
@@ -27,7 +32,6 @@
 | feat(playlists): add emotion-based playlist creation functionality | Hard | [#60](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/60) |
 | Added print statement to log when video streaming starts | Hard | [#50](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) |
 | Streamlit WebRTC Fails to Capture Video on Deployment (STUN Not Working) | Hard | [#23](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/23) |
-| Change Computer Vision Libraries | Hard | [#8](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/8) |
 
 ---
 
