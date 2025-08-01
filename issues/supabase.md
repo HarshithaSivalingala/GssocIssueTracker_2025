@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Footer "Connect" section links are non-functional | Medium | [#32](https://github.com/HimanshuHeda/Zip_Tales/issues/32) |
+| Page doesn't scroll to top when navigating via footer links | Medium | [#33](https://github.com/HimanshuHeda/Zip_Tales/issues/33) |
 | UI Enhanced with user interface and with hover animation and more dynamic | Medium | [#31](https://github.com/HimanshuHeda/Zip_Tales/pull/31) |
 | Fix of login state loss on page refresh | Medium | [#14](https://github.com/HimanshuHeda/Zip_Tales/pull/14) |
 
@@ -34,6 +34,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding CODE_OF_CONDUCT.md file | Medium | [#70](https://github.com/Priyanka-28-BM/HealthVault/issues/70) |
 | Create data.sql | Medium | [#69](https://github.com/Priyanka-28-BM/HealthVault/pull/69) |
 | Create passwordStrength.js | Medium | [#68](https://github.com/Priyanka-28-BM/HealthVault/pull/68) |
 | Create appointmentbook | Medium | [#67](https://github.com/Priyanka-28-BM/HealthVault/pull/67) |
@@ -71,9 +72,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📄 Added API.md with complete backend documentation | Medium | [#266](https://github.com/Muneerali199/DocMagic/pull/266) |
-| Fixed the Misalignment in Pages #263 | Medium | [#264](https://github.com/Muneerali199/DocMagic/pull/264) |
-| add animated star SVG and theme-consistent background | Medium | [#262](https://github.com/Muneerali199/DocMagic/pull/262) |
+| Added responsive footer with light and dark theme support | Medium | [#276](https://github.com/Muneerali199/DocMagic/pull/276) |
+| Crash when navigating from Pricing to Settings | Medium | [#275](https://github.com/Muneerali199/DocMagic/issues/275) |
+| Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
 | Added 10 Templates for Resume, Cover Letter, and Presentations | Medium | [#261](https://github.com/Muneerali199/DocMagic/pull/261) |
 | chore(deps): bump bcryptjs and @types/bcryptjs | Medium | [#258](https://github.com/Muneerali199/DocMagic/pull/258) |
 | chore(deps): bump tailwind-merge from 2.6.0 to 3.3.1 | Medium | [#257](https://github.com/Muneerali199/DocMagic/pull/257) |
@@ -83,10 +84,8 @@
 | chore(deps): bump docx from 8.5.0 to 9.5.1 | Medium | [#253](https://github.com/Muneerali199/DocMagic/pull/253) |
 | chore(deps): bump vaul from 0.9.9 to 1.1.2 | Medium | [#252](https://github.com/Muneerali199/DocMagic/pull/252) |
 | CV Template Content Not Visible in Dark Mode | Medium | [#246](https://github.com/Muneerali199/DocMagic/issues/246) |
-| Duplicate Close Icons on Resume Template Modal | Medium | [#245](https://github.com/Muneerali199/DocMagic/issues/245) |
 | feat: refactored code to fully center main tabs | Medium | [#243](https://github.com/Muneerali199/DocMagic/pull/243) |
 | Added Supabase .env and updates | Medium | [#242](https://github.com/Muneerali199/DocMagic/pull/242) |
-| fixes: #208 | Medium | [#221](https://github.com/Muneerali199/DocMagic/pull/221) |
 
 ---
 
@@ -104,6 +103,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| AI-Powered Interview Summary Generator 🧠 | Medium | [#9](https://github.com/byteom/Interview01/issues/9) |
 | Applied color change, underline on hover, smooth transitions while en… | Medium | [#8](https://github.com/byteom/Interview01/pull/8) |
 | UI Design Bug Report: Inconsistent Box Colors, Misaligned Cards, and Messy Icons | Medium | [#7](https://github.com/byteom/Interview01/issues/7) |
 | To smoothen the hover effect | Medium | [#6](https://github.com/byteom/Interview01/issues/6) |
@@ -127,8 +127,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Section content becomes invisible on click — should stay visible with dimmed style | Medium | [#57](https://github.com/sristy17/next-payroll/issues/57) |
-| Implement custom auth with Supabase and JWT | Medium | [#56](https://github.com/sristy17/next-payroll/pull/56) |
+| Added Google login and dark mode toggle | Medium | [#59](https://github.com/sristy17/next-payroll/pull/59) |
 | Create Add Payment system | Medium | [#50](https://github.com/sristy17/next-payroll/pull/50) |
 | Added Help page with FAQ dropdown and custom card UI component | Medium | [#36](https://github.com/sristy17/next-payroll/pull/36) |
 | feat: Build GST Return Filing Page - Fixes #27 | Medium | [#33](https://github.com/sristy17/next-payroll/pull/33) |
@@ -149,7 +148,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve the readme file for Outside viewers | Easy | [#17](https://github.com/LarytheLord/Adventurers-Guild/issues/17) |
+| 📘 Feature : Add a Dedicated FAQ Section | Medium | [#22](https://github.com/LarytheLord/Adventurers-Guild/issues/22) |
+| UI Enhancement: Add "Go to Top" Button & Replace Theme Buttons with a Toggle Switch | Medium | [#21](https://github.com/LarytheLord/Adventurers-Guild/issues/21) |
+| Implement Developer Skill Tree and Progression System | Medium | [#20](https://github.com/LarytheLord/Adventurers-Guild/issues/20) |
 | Homepage layout and styling inconsistencies need refinement | Medium | [#18](https://github.com/LarytheLord/Adventurers-Guild/issues/18) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#11](https://github.com/LarytheLord/Adventurers-Guild/issues/11) |
 
@@ -185,12 +186,14 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump zustand from 4.5.6 to 5.0.7 | Medium | [#54](https://github.com/Ojas-Arora/SapneSeSafar/pull/54) |
+| Bump typescript from 5.6.3 to 5.9.2 | Medium | [#53](https://github.com/Ojas-Arora/SapneSeSafar/pull/53) |
+| Bump lucide-react from 0.344.0 to 0.535.0 | Medium | [#52](https://github.com/Ojas-Arora/SapneSeSafar/pull/52) |
 | Bump framer-motion from 11.18.2 to 12.23.12 | Medium | [#51](https://github.com/Ojas-Arora/SapneSeSafar/pull/51) |
 | DOC:add mit license file to the project | Medium | [#50](https://github.com/Ojas-Arora/SapneSeSafar/issues/50) |
 | ML Model for Deal Success Prediction | Medium | [#49](https://github.com/Ojas-Arora/SapneSeSafar/issues/49) |
 | Bump react-dom and @types/react-dom | Medium | [#47](https://github.com/Ojas-Arora/SapneSeSafar/pull/47) |
 | Bump react and @types/react | Medium | [#46](https://github.com/Ojas-Arora/SapneSeSafar/pull/46) |
-| Bump lucide-react from 0.344.0 to 0.534.0 | Medium | [#45](https://github.com/Ojas-Arora/SapneSeSafar/pull/45) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.53.0 | Medium | [#44](https://github.com/Ojas-Arora/SapneSeSafar/pull/44) |
 | Bump eslint from 9.12.0 to 9.32.0 | Medium | [#43](https://github.com/Ojas-Arora/SapneSeSafar/pull/43) |
 | Bump vite from 5.4.17 to 7.0.6 | Medium | [#42](https://github.com/Ojas-Arora/SapneSeSafar/pull/42) |
@@ -205,9 +208,7 @@ _No unassigned issues._
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 5.2.0 | Medium | [#13](https://github.com/Ojas-Arora/SapneSeSafar/pull/13) |
 | Bump tailwindcss from 3.4.17 to 4.1.11 | Medium | [#9](https://github.com/Ojas-Arora/SapneSeSafar/pull/9) |
 | Bump autoprefixer from 10.4.20 to 10.4.21 | Medium | [#6](https://github.com/Ojas-Arora/SapneSeSafar/pull/6) |
-| Bump zustand from 4.5.6 to 5.0.6 | Medium | [#5](https://github.com/Ojas-Arora/SapneSeSafar/pull/5) |
 | Bump postcss from 8.4.47 to 8.5.6 | Medium | [#2](https://github.com/Ojas-Arora/SapneSeSafar/pull/2) |
-| Bump typescript from 5.6.3 to 5.8.3 | Medium | [#1](https://github.com/Ojas-Arora/SapneSeSafar/pull/1) |
 
 ---
 
@@ -225,14 +226,11 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🖼️ Add Social Media Preview Images | Easy | [#101](https://github.com/Rohit-Dnath/LOL-URL/issues/101) |
 | ♿ Accessibility Improvements | Easy | [#100](https://github.com/Rohit-Dnath/LOL-URL/issues/100) |
 | 🧪 Add More Unit & Integration Tests | Easy | [#99](https://github.com/Rohit-Dnath/LOL-URL/issues/99) |
 | 📦 Export Analytics Data as CSV | Easy | [#98](https://github.com/Rohit-Dnath/LOL-URL/issues/98) |
-| 📧 Add Email Verification on Signup | Easy | [#93](https://github.com/Rohit-Dnath/LOL-URL/issues/93) |
 | 🔑 Add GitHub Login (OAuth2) Support | Easy | [#87](https://github.com/Rohit-Dnath/LOL-URL/issues/87) |
 | 🔑 Add Google Login (OAuth2) Support | Easy | [#86](https://github.com/Rohit-Dnath/LOL-URL/issues/86) |
-| Favicon & Footer Enhancement" | Medium | [#110](https://github.com/Rohit-Dnath/LOL-URL/issues/110) |
 | feat: Improve Search Functionality in Dashboard #50 | Medium | [#109](https://github.com/Rohit-Dnath/LOL-URL/pull/109) |
 | Bump vite from 6.0.7 to 6.3.5 in the npm_and_yarn group across 1 directory | Medium | [#108](https://github.com/Rohit-Dnath/LOL-URL/pull/108) |
 | Bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#107](https://github.com/Rohit-Dnath/LOL-URL/pull/107) |
