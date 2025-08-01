@@ -41,7 +41,13 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Missing Dependencies, Security Risks & Architecture Conflicts | Medium | [#5](https://github.com/JoannaSharon06/WaveFarerFin/issues/5) |
+| Add a Comprehensive `README.md` File for Better Project Documentation | Medium | [#4](https://github.com/JoannaSharon06/WaveFarerFin/issues/4) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/JoannaSharon06/WaveFarerFin/issues/3) |
+| Suggestion: Add Code Of Conduct File to project | Medium | [#2](https://github.com/JoannaSharon06/WaveFarerFin/issues/2) |
+| 🚫 License Missing from Repository | Medium | [#1](https://github.com/JoannaSharon06/WaveFarerFin/issues/1) |
 
 ---
 
