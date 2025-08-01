@@ -19,9 +19,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| ✨ To improve the site rendering speed and optimize the website | Medium | [#42](https://github.com/nishantharkut/W3nity/issues/42) |
-| scrolling effect | Medium | [#41](https://github.com/nishantharkut/W3nity/issues/41) |
-| fix: Scroll To Top on Route Change | Medium | [#40](https://github.com/nishantharkut/W3nity/pull/40) |
+| Counter Added | Medium | [#48](https://github.com/nishantharkut/W3nity/pull/48) |
+| Release Fund Button Triggers Multiple Transactions | Medium | [#46](https://github.com/nishantharkut/W3nity/issues/46) |
+| No back button for Sign In page | Medium | [#44](https://github.com/nishantharkut/W3nity/issues/44) |
 | Increase Test Coverage: Cover EventTicketNFT.sol and Escrow.sol Contracts, Lock.sol | Medium | [#36](https://github.com/nishantharkut/W3nity/pull/36) |
 
 ---
@@ -40,6 +40,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| theme switcher to toggle | Medium | [#10](https://github.com/Drago-03/GroqTales/issues/10) |
 | Feature: Theme toggle | Medium | [#8](https://github.com/Drago-03/GroqTales/issues/8) |
 | IPFS corrupted | Medium | [#1](https://github.com/Drago-03/GroqTales/issues/1) |
 
