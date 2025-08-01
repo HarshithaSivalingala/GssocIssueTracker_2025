@@ -41,10 +41,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Tutorial Page + Improved Scan & Detection UX | Medium | [#52](https://github.com/Bavanetha27/Refixly/pull/52) |
 | Establish foundational project structure: add README, CI pipeline, linting and testing framework | Medium | [#42](https://github.com/Bavanetha27/Refixly/issues/42) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
-| Add the Ai course | Medium | [#36](https://github.com/Bavanetha27/Refixly/pull/36) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
 
 ---
@@ -63,6 +61,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added FAQ section with setup and troubleshooting guide | Medium | [#17](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/17) |
 | Create CODE_OF_CONDUCT.md | Medium | [#16](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/16) |
 | Detailed and Proper API Documentation | Medium | [#10](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/10) |
 | Deep Technical Documentation & Architecture Diagrams | Medium | [#7](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/7) |
@@ -118,6 +117,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| There is no license in the code | Medium | [#25](https://github.com/AditixAnand/Garbage_Classification/issues/25) |
 | Added real-time waste classification with webcam using streamlit and Flask | Medium | [#24](https://github.com/AditixAnand/Garbage_Classification/pull/24) |
 | Modularize code from notebooks into Python scripts | Medium | [#23](https://github.com/AditixAnand/Garbage_Classification/issues/23) |
 | Integrate MediaPipe for Real-Time Hand Detection and Gesture-Based Input | Medium | [#22](https://github.com/AditixAnand/Garbage_Classification/issues/22) |
@@ -147,6 +147,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🚫 License Missing from Repository | Medium | [#5](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/5) |
 | Add Templates of  pull requests, issues | Medium | [#4](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/4) |
 | Adding a CodeOfConduct.md file to the project | Medium | [#3](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/3) |
 | Update README.md | Medium | [#2](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/2) |
