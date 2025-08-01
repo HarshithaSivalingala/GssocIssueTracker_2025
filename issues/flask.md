@@ -106,6 +106,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
 | Adding CODE_OF_CONDUCT.md file | Medium | [#29](https://github.com/kaushav07/VisionMate/issues/29) |
 | Improve README.md | Medium | [#28](https://github.com/kaushav07/VisionMate/issues/28) |
 | Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
@@ -171,10 +172,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added home page navigation functionality on logo click | Medium | [#163](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/163) |
-| Redirect all undefined routes to the dashboard (or customizable fallback route) | Medium | [#162](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/162) |
-| Job portfolio at student dashboard | Medium | [#161](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/161) |
+| Fixed missing registration flow | Medium | [#171](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/171) |
+| creating a aptitude preparation page | Medium | [#166](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/166) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
+| Comprehensive interview flow issues report | Hard | [#170](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/170) |
 
 ---
 
@@ -192,6 +193,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add mit license file to the project | Medium | [#73](https://github.com/omroy07/AgriTech/issues/73) |
 | Enhance Footer with Contact Details and Useful Information | Medium | [#72](https://github.com/omroy07/AgriTech/issues/72) |
 | Image-Based Crop Disease Detection | Medium | [#71](https://github.com/omroy07/AgriTech/issues/71) |
 | The back button is not working on chatbot page | Medium | [#70](https://github.com/omroy07/AgriTech/issues/70) |
@@ -264,6 +266,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add export option (CSV/JSON) for analysis results | Medium | [#145](https://github.com/openml-stack/SentiLog-AI/issues/145) |
 | Issue  #133: Implement authentication checks for journal entry creation and retrie… | Medium | [#144](https://github.com/openml-stack/SentiLog-AI/pull/144) |
 | Created a new logo | Medium | [#143](https://github.com/openml-stack/SentiLog-AI/pull/143) |
 | Add Loading State to Login Button | Medium | [#140](https://github.com/openml-stack/SentiLog-AI/issues/140) |
@@ -296,6 +299,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Chat Input Box with Placeholder and Icons for Better UX | Medium | [#30](https://github.com/aayushraj1010/med-genie/issues/30) |
+| Add avatar to bot messages in chat UI | Medium | [#29](https://github.com/aayushraj1010/med-genie/issues/29) |
+| There is no license in the readme | Medium | [#28](https://github.com/aayushraj1010/med-genie/issues/28) |
 | Add Input Validation to Personalization Form Fields (Medical History, Lifestyle, Symptoms) | Medium | [#27](https://github.com/aayushraj1010/med-genie/issues/27) |
 | Add Light/Dark Theme Toggle to Improve User Experience | Medium | [#26](https://github.com/aayushraj1010/med-genie/issues/26) |
 | Lack of Navigation or Menu | Medium | [#25](https://github.com/aayushraj1010/med-genie/issues/25) |
@@ -380,7 +386,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve issue #33 where 'Choose Your Plan' heading was not visible | Medium | [#38](https://github.com/KrishChothani/CKsEdu/pull/38) |
 | Create a Backend for Contact Us Page and Fronted Integration | Medium | [#37](https://github.com/KrishChothani/CKsEdu/issues/37) |
 
 ---
@@ -397,7 +402,12 @@ Fast Workflow Tools
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#13](https://github.com/madegowda11/online-voting-system/issues/13) |
+| Suggestion: Add Code Of Conduct File to project | Medium | [#12](https://github.com/madegowda11/online-voting-system/issues/12) |
+| 🚫 License Missing from Repository | Medium | [#11](https://github.com/madegowda11/online-voting-system/issues/11) |
+| Add a Comprehensive `README.md` File for Better Project Documentation | Medium | [#10](https://github.com/madegowda11/online-voting-system/issues/10) |
 
 ---
 
@@ -415,6 +425,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Code of Conduct | Medium | [#12](https://github.com/AKing-283/Rewear/pull/12) |
 | 🛠️ UI Enhancement: Revamp and Polish Website Footer Section | Medium | [#11](https://github.com/AKing-283/Rewear/pull/11) |
 | Add "About Us" Section with UI Design | Medium | [#10](https://github.com/AKing-283/Rewear/issues/10) |
 
@@ -434,7 +445,6 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update EnvVarSetUpGuideline.md with environment variable setup | Medium | [#14](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/14) |
 | Refactor backend into modular folder structure (Flask Blueprint Setup) | Medium | [#8](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/8) |
 
 ---
@@ -520,6 +530,9 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add animation | Medium | [#13](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/13) |
+| adding issue template | Medium | [#12](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/12) |
+| alignment fix | Medium | [#11](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/11) |
 | Code Structure Fix - Separate JavaScript into an External File | Medium | [#10](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/10) |
 | Missing Error Handling: File Read | Medium | [#9](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/9) |
 | Code Structure Issue: HTML and CSS combined in a single file | Medium | [#8](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/8) |
