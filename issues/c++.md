@@ -39,6 +39,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update README.md | Medium | [#111](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/111) |
 | delete function | Medium | [#110](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/110) |
 | list message logs function | Medium | [#109](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/109) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
@@ -63,6 +64,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Code of Conduct | Medium | [#15](https://github.com/SharonIV0x86/CinderPeak/pull/15) |
 | Added Contributor Covenant Code of Conduct for community standards | Medium | [#14](https://github.com/SharonIV0x86/CinderPeak/pull/14) |
 | feat(docs): Write documentation and working for Hybrid CSR-COO storage format. | Medium | [#13](https://github.com/SharonIV0x86/CinderPeak/issues/13) |
 | Create License | Medium | [#12](https://github.com/SharonIV0x86/CinderPeak/pull/12) |
