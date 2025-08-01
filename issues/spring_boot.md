@@ -14,15 +14,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Containerize entire project using Docker. | Medium | [#62](https://github.com/Ayush0316/KnockoutZone/issues/62) |
+| Tournament Progress Visualization Dashboard (Interactive Tree) | Medium | [#60](https://github.com/Ayush0316/KnockoutZone/issues/60) |
 | Create User Entity (Player/Admin Support) | Medium | [#59](https://github.com/Ayush0316/KnockoutZone/issues/59) |
 | Backend Logic Implementation | Medium | [#58](https://github.com/Ayush0316/KnockoutZone/issues/58) |
 | Added Organizer Dashboard View | Medium | [#56](https://github.com/Ayush0316/KnockoutZone/pull/56) |
 | Added Admin Dashboard view | Medium | [#55](https://github.com/Ayush0316/KnockoutZone/pull/55) |
 | Add Player Dashboard UI | Medium | [#54](https://github.com/Ayush0316/KnockoutZone/pull/54) |
-| Frontend: Design Background for Light Mode (Glassmorphism Theme) | Medium | [#45](https://github.com/Ayush0316/KnockoutZone/issues/45) |
 | Landing clean | Medium | [#34](https://github.com/Ayush0316/KnockoutZone/pull/34) |
 | Add Register page with routing and navigation button | Medium | [#24](https://github.com/Ayush0316/KnockoutZone/pull/24) |
 | fix #7 Loader | Medium | [#11](https://github.com/Ayush0316/KnockoutZone/pull/11) |
+| Backend:  Create User Login & Registration Backend with JWT (Spring Boot) | Hard | [#61](https://github.com/Ayush0316/KnockoutZone/issues/61) |
 
 ---
 
@@ -40,9 +42,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-|  | Medium | [#324](https://github.com/yuvrajsinghgmx/ShopSmart/issues/324) |
-|  | Medium | [#323](https://github.com/yuvrajsinghgmx/ShopSmart/issues/323) |
-| Update Add Screen Page. | Medium | [#307](https://github.com/yuvrajsinghgmx/ShopSmart/pull/307) |
+| Refactored ProductDetails Screen | Medium | [#332](https://github.com/yuvrajsinghgmx/ShopSmart/pull/332) |
+| Products Addition | Medium | [#331](https://github.com/yuvrajsinghgmx/ShopSmart/pull/331) |
+| Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
+| Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
+| Saved Products Screen | Medium | [#284](https://github.com/yuvrajsinghgmx/ShopSmart/issues/284) |
+| Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
+| Add Shop Screen | Medium | [#278](https://github.com/yuvrajsinghgmx/ShopSmart/issues/278) |
+| Onboarding Screen | Medium | [#274](https://github.com/yuvrajsinghgmx/ShopSmart/issues/274) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
@@ -82,7 +89,11 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add a chatbot to it | Medium | [#38](https://github.com/aashut0xhkr/HMS_PRJCT/issues/38) |
+| Suggestion: Update project name | Medium | [#37](https://github.com/aashut0xhkr/HMS_PRJCT/issues/37) |
+| Suggestion: Update Spring-Boot folder structure | Medium | [#36](https://github.com/aashut0xhkr/HMS_PRJCT/issues/36) |
 
 ---
 
@@ -102,7 +113,6 @@ _No unassigned issues._
 |----------|----------------|---------|
 | implemented cookie based jwt and spring security for authentication | Medium | [#24](https://github.com/SandeepVashishtha/Eventra/pull/24) |
 | Add backend error handling and validation | Medium | [#14](https://github.com/SandeepVashishtha/Eventra/issues/14) |
-| Implement basic backend API endpoints | Medium | [#13](https://github.com/SandeepVashishtha/Eventra/issues/13) |
 
 ---
 
