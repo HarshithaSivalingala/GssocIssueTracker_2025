@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a Frequently Asked Questions (FAQ) section | Medium | [#48](https://github.com/Dipanita45/HEALCONNECT/issues/48) |
+| Readme Update | Medium | [#47](https://github.com/Dipanita45/HEALCONNECT/issues/47) |
+| update code_of_conduct.md file | Medium | [#46](https://github.com/Dipanita45/HEALCONNECT/pull/46) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
 | Add navigation menu, routing and update footer color | Medium | [#44](https://github.com/Dipanita45/HEALCONNECT/pull/44) |
 | fixed typos and added location feature | Medium | [#42](https://github.com/Dipanita45/HEALCONNECT/pull/42) |
@@ -36,10 +39,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| delete function | Medium | [#110](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/110) |
+| list message logs function | Medium | [#109](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/109) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
-| deleteMessage | Medium | [#103](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/103) |
-| feat: updatePush | Medium | [#102](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/102) |
-| listMessageLogs | Medium | [#98](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/98) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
 | How to write APIs for C++ SDK Appwrite? | Medium | [#85](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/85) |
 | Interested in Contributing as contributor. | Medium | [#83](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/83) |
@@ -59,7 +61,12 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added Contributor Covenant Code of Conduct for community standards | Medium | [#14](https://github.com/SharonIV0x86/CinderPeak/pull/14) |
+| feat(docs): Write documentation and working for Hybrid CSR-COO storage format. | Medium | [#13](https://github.com/SharonIV0x86/CinderPeak/issues/13) |
+| Create License | Medium | [#12](https://github.com/SharonIV0x86/CinderPeak/pull/12) |
+| feat(repo): Add README, CI pipeline, linting & test coverage to CinderPeak (#6) | Medium | [#11](https://github.com/SharonIV0x86/CinderPeak/pull/11) |
 
 ---
 
@@ -78,11 +85,12 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding Chatbot for movie Reccomendations | Easy | [#4](https://github.com/Aqsa4066/netflixclone/issues/4) |
+| Fixed sign in button | Medium | [#40](https://github.com/Aqsa4066/netflixclone/pull/40) |
+| Fix: Adjusted button text layout and padding in style.css | Medium | [#37](https://github.com/Aqsa4066/netflixclone/pull/37) |
+| Add Alternative Text (alt) to Images for Accessibility | Medium | [#32](https://github.com/Aqsa4066/netflixclone/issues/32) |
 | Website Layout Broken- Please review Recent Changes | Medium | [#31](https://github.com/Aqsa4066/netflixclone/issues/31) |
-| Adding shadow to buttons and enhancing their size on every hover | Medium | [#30](https://github.com/Aqsa4066/netflixclone/pull/30) |
 | Create sticky, responsive navbar with layout, spacing, and hover effect. | Medium | [#29](https://github.com/Aqsa4066/netflixclone/pull/29) |
 | Website Ruined | Medium | [#26](https://github.com/Aqsa4066/netflixclone/issues/26) |
-| Changed the styling | Medium | [#24](https://github.com/Aqsa4066/netflixclone/pull/24) |
 | Enhance Navbar Design and Functionality in Netflix Clone | Medium | [#23](https://github.com/Aqsa4066/netflixclone/issues/23) |
 | feature: UI/UX Improvement Suggestions for Netflix Clone (GSSoC'25) | Medium | [#19](https://github.com/Aqsa4066/netflixclone/issues/19) |
 | Changed the styling | Medium | [#18](https://github.com/Aqsa4066/netflixclone/pull/18) |
