@@ -69,7 +69,7 @@ Accessibility features like dark mode,white.
 | 🐞 Issue: Admin Dashboard Displays Only Dummy Data — Needs Full Backend Integration | Easy | [#173](https://github.com/abhisek2004/Dev-Elevate/issues/173) |
 | 🐞 Bug Report: Study Buddy AI Chat Categories Not Working | Easy | [#168](https://github.com/abhisek2004/Dev-Elevate/issues/168) |
 | Feature Request: Build a Full Interactive “Learning Hub Data Structures & Algorithms 6 modules • Interactive learning” 📘📚 | Easy | [#167](https://github.com/abhisek2004/Dev-Elevate/issues/167) |
-| Issue #38 fixed: Chatbot backend fixed rag+langchain | Medium | [#191](https://github.com/abhisek2004/Dev-Elevate/pull/191) |
+| Issue 38 fix | Medium | [#192](https://github.com/abhisek2004/Dev-Elevate/pull/192) |
 | Added email OTP verification feature | Medium | [#190](https://github.com/abhisek2004/Dev-Elevate/pull/190) |
 | AI Career Roadmap Generator (from Interests) | Medium | [#178](https://github.com/abhisek2004/Dev-Elevate/issues/178) |
 
@@ -121,7 +121,6 @@ Accessibility features like dark mode,white.
 | Feature: Add Motivational Blogs with Like & Comment Functionality | Medium | [#115](https://github.com/BaraniVA/Habitheat/pull/115) |
 | Fixed the edit profile section | Medium | [#114](https://github.com/BaraniVA/Habitheat/pull/114) |
 | Immediate email validation feedback is missing on Sign-Up/Sign-In form | Medium | [#113](https://github.com/BaraniVA/Habitheat/issues/113) |
-| 🐞 Bug: Login Page Not Working | Medium | [#112](https://github.com/BaraniVA/Habitheat/issues/112) |
 | Create tailwind.js | Medium | [#111](https://github.com/BaraniVA/Habitheat/pull/111) |
 | Add update profile picture and username functionality (fixes #86, bug, level 1, gssoc25) | Medium | [#102](https://github.com/BaraniVA/Habitheat/pull/102) |
 | Expand Contribution Guidelines | Medium | [#101](https://github.com/BaraniVA/Habitheat/issues/101) |
@@ -347,6 +346,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |  | Easy | [#26](https://github.com/rahulkhandait-sde/cineverse/issues/26) |
 |  | Easy | [#22](https://github.com/rahulkhandait-sde/cineverse/issues/22) |
 | add contributing.md | Easy | [#19](https://github.com/rahulkhandait-sde/cineverse/issues/19) |
+| Add Watchlist | Medium | [#33](https://github.com/rahulkhandait-sde/cineverse/pull/33) |
 | Add A chatbot for the entire Website | Medium | [#32](https://github.com/rahulkhandait-sde/cineverse/issues/32) |
 | Fix and enhance "Sort By" filter on Movies page | Medium | [#30](https://github.com/rahulkhandait-sde/cineverse/issues/30) |
 | Comparing Movie and Tv show meta data | Medium | [#27](https://github.com/rahulkhandait-sde/cineverse/pull/27) |
@@ -430,10 +430,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add blog pages | Easy | [#31](https://github.com/SamXop123/RigCrafter/issues/31) |
-| Fix/components of page | Medium | [#33](https://github.com/SamXop123/RigCrafter/pull/33) |
+_No unassigned issues._
 
 ---
 
@@ -455,7 +452,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add a Pull Request Template to the Project | Medium | [#34](https://github.com/karmveershubham/CodeStreak/issues/34) |
 | To added your Github link in navbar section | Medium | [#33](https://github.com/karmveershubham/CodeStreak/issues/33) |
 | Add tooltip on "Settings" icon in dashboard | Medium | [#24](https://github.com/karmveershubham/CodeStreak/issues/24) |
-| API Documentation using Swagger | Medium | [#16](https://github.com/karmveershubham/CodeStreak/issues/16) |
 | Favicon missing and layout hydration error during app load | Medium | [#12](https://github.com/karmveershubham/CodeStreak/issues/12) |
 | Feature: Add Streak Reset Reminder Notification | Medium | [#1](https://github.com/karmveershubham/CodeStreak/issues/1) |
 
@@ -515,6 +511,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Add SECURITY.md file | Medium | [#61](https://github.com/sristy17/next-payroll/issues/61) |
 | Added Google login and dark mode toggle | Medium | [#59](https://github.com/sristy17/next-payroll/pull/59) |
 | Create Add Payment system | Medium | [#50](https://github.com/sristy17/next-payroll/pull/50) |
 | Added Help page with FAQ dropdown and custom card UI component | Medium | [#36](https://github.com/sristy17/next-payroll/pull/36) |
@@ -534,7 +531,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add UI Screenshots to README for Better Visual Understanding | Easy | [#96](https://github.com/SurajSG23/PrepBuddy/issues/96) |
+| Change CommonJS export to ES Module in testRouter.js | Medium | [#95](https://github.com/SurajSG23/PrepBuddy/pull/95) |
+| update theme-toggle and added progressBar | Medium | [#94](https://github.com/SurajSG23/PrepBuddy/pull/94) |
 
 ---
 
@@ -588,9 +589,9 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📘 Feature : Add a Dedicated FAQ Section | Medium | [#22](https://github.com/LarytheLord/Adventurers-Guild/issues/22) |
-| UI Enhancement: Add "Go to Top" Button & Replace Theme Buttons with a Toggle Switch | Medium | [#21](https://github.com/LarytheLord/Adventurers-Guild/issues/21) |
-| Implement Developer Skill Tree and Progression System | Medium | [#20](https://github.com/LarytheLord/Adventurers-Guild/issues/20) |
+| Rolling section of trusted and helping orgnaization | Medium | [#26](https://github.com/LarytheLord/Adventurers-Guild/issues/26) |
+| In the readme section there is no link in the license | Medium | [#24](https://github.com/LarytheLord/Adventurers-Guild/issues/24) |
+| Add "Quest" Page Menu to Homepage & Create Quest Page | Medium | [#23](https://github.com/LarytheLord/Adventurers-Guild/issues/23) |
 | Homepage layout and styling inconsistencies need refinement | Medium | [#18](https://github.com/LarytheLord/Adventurers-Guild/issues/18) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#11](https://github.com/LarytheLord/Adventurers-Guild/issues/11) |
 
@@ -613,6 +614,9 @@ _No unassigned issues._
 | Improve the Home Page Design | Easy | [#51](https://github.com/ajaynegi45/Old-School-Game/issues/51) |
 | Implement New UI Based on Figma Design Using Pure CSS (No TailwindCSS) | Easy | [#17](https://github.com/ajaynegi45/Old-School-Game/issues/17) |
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| Add Hangman Game | Medium | [#71](https://github.com/ajaynegi45/Old-School-Game/issues/71) |
+| There is no license in the readme | Medium | [#70](https://github.com/ajaynegi45/Old-School-Game/issues/70) |
+| Added Code of Conduct | Medium | [#69](https://github.com/ajaynegi45/Old-School-Game/pull/69) |
 | Schulte table game | Medium | [#68](https://github.com/ajaynegi45/Old-School-Game/pull/68) |
 | Memory Game: Clean Rules UI + Cognitive Benefits Documentation (Closes #37) | Medium | [#67](https://github.com/ajaynegi45/Old-School-Game/pull/67) |
 
@@ -653,6 +657,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| There must be a link in the license | Medium | [#196](https://github.com/deskree-inc/blok/issues/196) |
 | Workflow Visualization Testing Results | Medium | [#195](https://github.com/deskree-inc/blok/pull/195) |
 | # 🔧 Blok Framework UI Enhancement Proposal | Medium | [#194](https://github.com/deskree-inc/blok/issues/194) |
 | Updated Table of Contents | Medium | [#192](https://github.com/deskree-inc/blok/pull/192) |
@@ -734,8 +739,9 @@ _No unassigned issues._
 | Update the welcome workflow to stop auto adding active label | Easy | [#92](https://github.com/Loop-Hive/ScheduleX/issues/92) |
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
-| Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Added Code of Conduct | Medium | [#101](https://github.com/Loop-Hive/ScheduleX/pull/101) |
+| Add UI Design Preview Folder README.md for Card Theme | Medium | [#100](https://github.com/Loop-Hive/ScheduleX/pull/100) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/Loop-Hive/ScheduleX/issues/98) |
 | Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
 | Create New App Icon Design for ScheduleX on Figma | Medium | [#89](https://github.com/Loop-Hive/ScheduleX/issues/89) |
@@ -821,6 +827,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🚫 License Missing from Repository | Medium | [#153](https://github.com/harsh3dev/DevMatchups/issues/153) |
 | Fix the footer section in mobile view | Medium | [#152](https://github.com/harsh3dev/DevMatchups/issues/152) |
 | Add mode of hackathon and location if offline | Medium | [#151](https://github.com/harsh3dev/DevMatchups/issues/151) |
 | Design of a scroll bar. | Medium | [#145](https://github.com/harsh3dev/DevMatchups/issues/145) |
@@ -846,11 +853,9 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Skeleton Loaders to Dashboard Pages | Medium | [#25](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/25) |
-| Update Agent List to Show Last Call Status | Medium | [#21](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/21) |
 | Update README.md | Medium | [#14](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/14) |
 | Add Support for Asterisk as a Telephony Backend | Hard | [#24](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/24) |
 | Allow Users to Select a TTS Voice for Each Agent | Hard | [#23](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/23) |
-| Create a Live Call Monitoring Dashboard | Hard | [#22](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/22) |
 | Build UI for Call Campaign Management (MVP) | Hard | [#20](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/20) |
 | Create API Endpoints for Call Campaign Management (MVP) | Hard | [#19](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/19) |
 | Bug: Live Twilio calls drop immediately after connecting; webhook not being triggered | Hard | [#18](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/18) |
@@ -891,7 +896,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve issue #33 where 'Choose Your Plan' heading was not visible | Medium | [#38](https://github.com/KrishChothani/CKsEdu/pull/38) |
 | Create a Backend for Contact Us Page and Fronted Integration | Medium | [#37](https://github.com/KrishChothani/CKsEdu/issues/37) |
 
 ---
@@ -908,7 +912,11 @@ Fast Workflow Tools
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/kunal0297/Nexus_dawn/issues/3) |
+| Suggestion: Add Code Of Conduct File to project | Medium | [#2](https://github.com/kunal0297/Nexus_dawn/issues/2) |
+| 🚫 License Missing from Repository | Medium | [#1](https://github.com/kunal0297/Nexus_dawn/issues/1) |
 
 ---
 
@@ -946,11 +954,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create License | Medium | [#6](https://github.com/OpenVoiceX/Web-Voice-marketing-Agent/pull/6) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#5](https://github.com/OpenVoiceX/Web-Voice-marketing-Agent/issues/5) |
-| Readme.md | Medium | [#3](https://github.com/OpenVoiceX/Web-Voice-marketing-Agent/pull/3) |
-| feat: Add README.md for the project | Medium | [#2](https://github.com/OpenVoiceX/Web-Voice-marketing-Agent/pull/2) |
-| Create Readme | Medium | [#1](https://github.com/OpenVoiceX/Web-Voice-marketing-Agent/issues/1) |
+| Documentation : Add Code Of Conduct File to project | Medium | [#7](https://github.com/OpenVoiceX/Web-Voice-marketing-Agent/issues/7) |
 
 ---
 
@@ -968,6 +972,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Documentation : Add Code Of Conduct File to project | Medium | [#15](https://github.com/muskan-fatim/Tech_event/issues/15) |
+| pasteventsAdded | Medium | [#14](https://github.com/muskan-fatim/Tech_event/pull/14) |
 | Created A Login/Signup Feature issue #4 | Medium | [#13](https://github.com/muskan-fatim/Tech_event/pull/13) |
 | Implementation of dark mode feature #issue 3 | Medium | [#12](https://github.com/muskan-fatim/Tech_event/pull/12) |
 | BUG: Overlapping of Components | Medium | [#6](https://github.com/muskan-fatim/Tech_event/issues/6) |
@@ -988,6 +994,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#4](https://github.com/nikhilsingh10-r/GameStore/issues/4) |
+| Documentation : Add Code Of Conduct File to project | Medium | [#3](https://github.com/nikhilsingh10-r/GameStore/issues/3) |
 | Fix: Added applyHighlight param to resolve false row highlighting issue | Medium | [#2](https://github.com/nikhilsingh10-r/GameStore/pull/2) |
 | Bug: Button Text Not Visible on Hover in Light Mode | Medium | [#1](https://github.com/nikhilsingh10-r/GameStore/issues/1) |
 
@@ -1007,6 +1015,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Documentation : Add Code Of Conduct File to project | Medium | [#48](https://github.com/EasyGoDocs/easygodocs/issues/48) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#47](https://github.com/EasyGoDocs/easygodocs/issues/47) |
 | 🚫 License Missing from Repository | Medium | [#46](https://github.com/EasyGoDocs/easygodocs/issues/46) |
 | Update the Favicon with the Original Logo of the website for better branding and to look professional | Medium | [#45](https://github.com/EasyGoDocs/easygodocs/issues/45) |
@@ -1027,6 +1036,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| DOC: Add Code Of Conduct File to project | Medium | [#55](https://github.com/Ojas-Arora/SapneSeSafar/issues/55) |
 | Bump zustand from 4.5.6 to 5.0.7 | Medium | [#54](https://github.com/Ojas-Arora/SapneSeSafar/pull/54) |
 | Bump typescript from 5.6.3 to 5.9.2 | Medium | [#53](https://github.com/Ojas-Arora/SapneSeSafar/pull/53) |
 | Bump lucide-react from 0.344.0 to 0.535.0 | Medium | [#52](https://github.com/Ojas-Arora/SapneSeSafar/pull/52) |
@@ -1141,11 +1151,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed a cursor ui issue [#55] | Medium | [#57](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/57) |
-| Back to Login button on Forgot Password page leads to 404 - Page Not Found | Medium | [#56](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/56) |
-| Added Chatbot Feature | Medium | [#51](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/51) |
 | feat(ui): Implement Interactive Bubble Background with Scroll & Mouse Effects (#22) | Medium | [#49](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/49) |
-| Feature Request: Display Recently Added Resources on Homepage | Medium | [#45](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/45) |
 | Added pull request template(#33) | Medium | [#43](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/43) |
 | Feat/add pr template | Medium | [#35](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/35) |
 | 📌 Issue Title: Add Toast Notification for Successful User Login | Medium | [#31](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/31) |
