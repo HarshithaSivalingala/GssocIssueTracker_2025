@@ -17,7 +17,6 @@
 | Logo add | Easy | [#55](https://github.com/abhisek247767/PeopleHub-Frontend/issues/55) |
 | Update README.md file | Easy | [#42](https://github.com/abhisek247767/PeopleHub-Frontend/issues/42) |
 | Frontend - register page | Easy | [#7](https://github.com/abhisek247767/PeopleHub-Frontend/issues/7) |
-| Admin Function Changed and projects tab changed | Medium | [#73](https://github.com/abhisek247767/PeopleHub-Frontend/pull/73) |
 | Frontend update for new schema and permissions. | Medium | [#72](https://github.com/abhisek247767/PeopleHub-Frontend/issues/72) |
 | Update README.md file | Medium | [#70](https://github.com/abhisek247767/PeopleHub-Frontend/pull/70) |
 | Improved UI and improved dark mode | Medium | [#68](https://github.com/abhisek247767/PeopleHub-Frontend/pull/68) |
