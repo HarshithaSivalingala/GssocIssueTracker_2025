@@ -12,11 +12,7 @@
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Missing README.md File | Medium | [#4](https://github.com/CharithaReddy18/AI-health-chatbot/issues/4) |
-| Using an Inappropriate Model (distilgpt2) | Medium | [#2](https://github.com/CharithaReddy18/AI-health-chatbot/issues/2) |
-| Missing MIT License in Repository | Medium | [#1](https://github.com/CharithaReddy18/AI-health-chatbot/issues/1) |
+_No unassigned issues._
 
 ---
 
