@@ -42,14 +42,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactored ProductDetails Screen | Medium | [#332](https://github.com/yuvrajsinghgmx/ShopSmart/pull/332) |
-| Products Addition | Medium | [#331](https://github.com/yuvrajsinghgmx/ShopSmart/pull/331) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
-| Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | Saved Products Screen | Medium | [#284](https://github.com/yuvrajsinghgmx/ShopSmart/issues/284) |
 | Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
-| Add Shop Screen | Medium | [#278](https://github.com/yuvrajsinghgmx/ShopSmart/issues/278) |
-| Onboarding Screen | Medium | [#274](https://github.com/yuvrajsinghgmx/ShopSmart/issues/274) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
@@ -91,6 +86,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Code of Conduct | Medium | [#39](https://github.com/aashut0xhkr/HMS_PRJCT/pull/39) |
 | Add a chatbot to it | Medium | [#38](https://github.com/aashut0xhkr/HMS_PRJCT/issues/38) |
 | Suggestion: Update project name | Medium | [#37](https://github.com/aashut0xhkr/HMS_PRJCT/issues/37) |
 | Suggestion: Update Spring-Boot folder structure | Medium | [#36](https://github.com/aashut0xhkr/HMS_PRJCT/issues/36) |
