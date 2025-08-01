@@ -14,12 +14,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add CONTRIBUTORS.md File to Recognize Project Contributors | Medium | [#23](https://github.com/indra7777/frostiq/issues/23) |
-| Add code_of_conduct.md file | Medium | [#22](https://github.com/indra7777/frostiq/issues/22) |
-| Implement Global Exception Handling for the Backend API | Medium | [#21](https://github.com/indra7777/frostiq/issues/21) |
-| Create Templates for Issues , pull Request | Medium | [#20](https://github.com/indra7777/frostiq/issues/20) |
-| Improvements in main.py in bakerybackend | Medium | [#19](https://github.com/indra7777/frostiq/issues/19) |
-| 🌐 Deploy FrostIQ and Add Live Demo Link to README | Medium | [#16](https://github.com/indra7777/frostiq/issues/16) |
+| Update main.py | Medium | [#32](https://github.com/indra7777/frostiq/pull/32) |
+| docs: add deployed backend link to README | Medium | [#31](https://github.com/indra7777/frostiq/pull/31) |
+| Add CONTRIBUTORS.md | Medium | [#30](https://github.com/indra7777/frostiq/pull/30) |
+| Add code_of_conduct.md | Medium | [#28](https://github.com/indra7777/frostiq/pull/28) |
+| Enhancement :  Error Handling & Validation                   (level 3) | Medium | [#27](https://github.com/indra7777/frostiq/issues/27) |
+| Create a test suite (level 3) | Medium | [#26](https://github.com/indra7777/frostiq/issues/26) |
+| Enhancement: Implement CRUD Operations,pricing , description , etc (level 3) | Medium | [#25](https://github.com/indra7777/frostiq/issues/25) |
+| Updated issue , pull request templates | Medium | [#24](https://github.com/indra7777/frostiq/pull/24) |
 
 ---
 
@@ -37,6 +39,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding CODE_OF_CONDUCT.md file | Medium | [#29](https://github.com/kaushav07/VisionMate/issues/29) |
 | Improve README.md | Medium | [#28](https://github.com/kaushav07/VisionMate/issues/28) |
 | Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
 | Implementing Voice Commands via Speech-to-Text | Medium | [#26](https://github.com/kaushav07/VisionMate/issues/26) |
@@ -77,6 +80,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Hover Effects and Color Change to Available Cards | Medium | [#24](https://github.com/Naveenkumar30838/Housify/issues/24) |
+| Add User Profile Section to View and Manage Bookings, Saved Properties, and Account Details | Medium | [#23](https://github.com/Naveenkumar30838/Housify/issues/23) |
+| Add Footer Section with Contact Information, Social Media Links, and Location | Medium | [#22](https://github.com/Naveenkumar30838/Housify/issues/22) |
+| Add Favicon to Housify Rental Property Website | Medium | [#21](https://github.com/Naveenkumar30838/Housify/issues/21) |
 | Missing a CodeOfConduct.md file | Medium | [#20](https://github.com/Naveenkumar30838/Housify/issues/20) |
 | REFRACTOR: Add controllers and router | Medium | [#19](https://github.com/Naveenkumar30838/Housify/issues/19) |
 | FEATURE REQUEST: Add a CONTRIBUTING.md to guide new contributors | Medium | [#18](https://github.com/Naveenkumar30838/Housify/issues/18) |
@@ -123,7 +130,11 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add a chatbot to it | Medium | [#38](https://github.com/aashut0xhkr/HMS_PRJCT/issues/38) |
+| Suggestion: Update project name | Medium | [#37](https://github.com/aashut0xhkr/HMS_PRJCT/issues/37) |
+| Suggestion: Update Spring-Boot folder structure | Medium | [#36](https://github.com/aashut0xhkr/HMS_PRJCT/issues/36) |
 
 ---
 
@@ -141,6 +152,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ADDING MORE INFO TO HOME PAGE | Medium | [#18](https://github.com/sachiikrish/AttendanceTracker/issues/18) |
 | Home Page is not responsive | Medium | [#6](https://github.com/sachiikrish/AttendanceTracker/issues/6) |
 
 ---
@@ -159,6 +171,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Add User Authentication and Product Feedback System | Medium | [#14](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/14) |
+| Frontend | Medium | [#13](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/13) |
 | Add more skin conditions | Medium | [#12](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/12) |
 | Add Option to Display Top-N Recommended Products | Medium | [#10](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/10) |
 | SkynCare.AI Streamlit app with quiz, webcam, and UI | Medium | [#9](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/9) |
@@ -197,6 +211,8 @@ _No unassigned issues._
 | Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
+| Feature Request: Add Login/Register Functionality | Medium | [#27](https://github.com/komalkhatod1105/One-Stop-Guide/issues/27) |
+| Add Search Bar for City Filter & Implement Sticky Navbar | Medium | [#26](https://github.com/komalkhatod1105/One-Stop-Guide/issues/26) |
 | fixed the issue | Medium | [#25](https://github.com/komalkhatod1105/One-Stop-Guide/pull/25) |
 | Enhance "One Stop Guide" with Advanced Features, City-wise PHP Structure, and UI/UX Upgrades | Medium | [#24](https://github.com/komalkhatod1105/One-Stop-Guide/issues/24) |
 | Fix Missing City Info Display and Add Basic Validation in city.php | Medium | [#15](https://github.com/komalkhatod1105/One-Stop-Guide/issues/15) |
@@ -221,6 +237,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🚫 License Missing from Repository | Medium | [#5](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/5) |
 | Add Contributing.md | Medium | [#4](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/4) |
 | update README.md | Medium | [#3](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/3) |
 | Enhance chatbot with query logging, result caching, and user authentication | Medium | [#2](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/2) |
@@ -248,10 +265,6 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add mit license file to the project | Medium | [#15](https://github.com/SvJalmi/DBMS_Project/issues/15) |
-| docs: Enhance README with detailed setup and run instructions | Medium | [#14](https://github.com/SvJalmi/DBMS_Project/pull/14) |
-| Enhance README with Clearer Setup/Run Instructions | Medium | [#13](https://github.com/SvJalmi/DBMS_Project/issues/13) |
-| feat: Add confirmation dialog for seat booking | Medium | [#12](https://github.com/SvJalmi/DBMS_Project/pull/12) |
-| Add a Confirmation Dialog for Seat Booking | Medium | [#11](https://github.com/SvJalmi/DBMS_Project/issues/11) |
 
 ---
 
@@ -269,6 +282,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Code Structure Fix - Separate JavaScript into an External File | Medium | [#10](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/10) |
 | Missing Error Handling: File Read | Medium | [#9](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/9) |
 | Code Structure Issue: HTML and CSS combined in a single file | Medium | [#8](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/8) |
 | Fix Responsivness | Medium | [#7](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/7) |
