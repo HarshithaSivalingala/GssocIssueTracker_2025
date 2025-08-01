@@ -39,6 +39,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🚫 License Missing from Repository | Medium | [#71](https://github.com/gyanshankar1708/GrowCraft/issues/71) |
+| Make Carousel Caption Static Across All Slides | Medium | [#70](https://github.com/gyanshankar1708/GrowCraft/issues/70) |
 | Seperated the files #51 | Medium | [#69](https://github.com/gyanshankar1708/GrowCraft/pull/69) |
 | Contact Us page | Medium | [#68](https://github.com/gyanshankar1708/GrowCraft/issues/68) |
 | Darkmode Button Alignment | Medium | [#67](https://github.com/gyanshankar1708/GrowCraft/pull/67) |
@@ -67,6 +69,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesign Navbar UI & Fix Non-functional Theme Toggle Button | Medium | [#25](https://github.com/Pujan-sarkar/FARMLOC/issues/25) |
 | UI Improvements: FAQ Scroll, Review Hover Effect, Side Scroll for Reviews, and Contact Section | Medium | [#24](https://github.com/Pujan-sarkar/FARMLOC/issues/24) |
 | Add a Back to Top icon | Medium | [#20](https://github.com/Pujan-sarkar/FARMLOC/issues/20) |
 | Add Favicon to Website | Medium | [#19](https://github.com/Pujan-sarkar/FARMLOC/issues/19) |
@@ -87,6 +90,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixing visibility | Medium | [#73](https://github.com/sachiva1/sachiva/issues/73) |
+| adding issue template | Medium | [#72](https://github.com/sachiva1/sachiva/issues/72) |
+| adding scroll to top button | Medium | [#71](https://github.com/sachiva1/sachiva/issues/71) |
 | Enhanced dark mode support for all components and improved theme transitions | Medium | [#68](https://github.com/sachiva1/sachiva/pull/68) |
 
 ---
