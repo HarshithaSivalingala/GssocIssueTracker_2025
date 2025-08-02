@@ -25,6 +25,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add MIT License | Easy | [#3](https://github.com/Menthub-GSSoC/Menthub/issues/3) |
 | Update README.md | Easy | [#2](https://github.com/Menthub-GSSoC/Menthub/pull/2) |
+| FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | docs: improve onboarding by adding contributing guide, templates, and code of conduct | Medium | [#38](https://github.com/Menthub-GSSoC/Menthub/pull/38) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
@@ -62,6 +63,12 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create output.json | Medium | [#122](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/122) |
+| Create backend.py | Medium | [#121](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/121) |
+| Create frontview.js | Medium | [#120](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/120) |
+| Pharmacist Verification Workflow Broken | Medium | [#118](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/118) |
+| PDF Uploads Not Validated | Medium | [#117](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/117) |
+| Created a new feature of user feedback | Medium | [#114](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/114) |
 | Drug Comparison Tool | Medium | [#113](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/113) |
 | Quick Update on Contribution Start | Medium | [#110](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/110) |
 
@@ -81,6 +88,13 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
+| Create admins.py | Medium | [#42](https://github.com/indra7777/frostiq/pull/42) |
+| Create analytics.py | Medium | [#41](https://github.com/indra7777/frostiq/pull/41) |
+| Create search.py | Medium | [#40](https://github.com/indra7777/frostiq/pull/40) |
+| Create favorites.py | Medium | [#39](https://github.com/indra7777/frostiq/pull/39) |
+| Create models.py | Medium | [#38](https://github.com/indra7777/frostiq/pull/38) |
+| Create schemas.py | Medium | [#37](https://github.com/indra7777/frostiq/pull/37) |
 | Update main.py | Medium | [#32](https://github.com/indra7777/frostiq/pull/32) |
 | docs: add deployed backend link to README | Medium | [#31](https://github.com/indra7777/frostiq/pull/31) |
 | Add CONTRIBUTORS.md | Medium | [#30](https://github.com/indra7777/frostiq/pull/30) |
@@ -106,6 +120,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
 | Adding CODE_OF_CONDUCT.md file | Medium | [#29](https://github.com/kaushav07/VisionMate/issues/29) |
 | Improve README.md | Medium | [#28](https://github.com/kaushav07/VisionMate/issues/28) |
@@ -172,10 +187,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed missing registration flow | Medium | [#171](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/171) |
-| creating a aptitude preparation page | Medium | [#166](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/166) |
+| Removed footer from all pages except home page | Medium | [#175](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/175) |
+| Make Overall Performance Score Dynamic on Result Page | Medium | [#174](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/174) |
+| Route unknown paths to dashboard | Medium | [#173](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/173) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
-| Comprehensive interview flow issues report | Hard | [#170](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/170) |
 
 ---
 
@@ -193,9 +208,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement: Add CSS Styling to Crop Planner AI Section | Medium | [#76](https://github.com/omroy07/AgriTech/issues/76) |
+| Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#75](https://github.com/omroy07/AgriTech/issues/75) |
 | Add mit license file to the project | Medium | [#73](https://github.com/omroy07/AgriTech/issues/73) |
 | Enhance Footer with Contact Details and Useful Information | Medium | [#72](https://github.com/omroy07/AgriTech/issues/72) |
-| Image-Based Crop Disease Detection | Medium | [#71](https://github.com/omroy07/AgriTech/issues/71) |
 | The back button is not working on chatbot page | Medium | [#70](https://github.com/omroy07/AgriTech/issues/70) |
 | Improve README.md with setup instructions and project details | Medium | [#68](https://github.com/omroy07/AgriTech/issues/68) |
 | Feat: Updated for adding Labour Scheduling feature | Medium | [#67](https://github.com/omroy07/AgriTech/pull/67) |
@@ -217,7 +233,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | fix: correct route and folder name for crop recommendation | Medium | [#17](https://github.com/omroy07/AgriTech/pull/17) |
 | Nav bar | Medium | [#15](https://github.com/omroy07/AgriTech/issues/15) |
 | Crop Recommendation feature opens a blank page when clicked | Medium | [#11](https://github.com/omroy07/AgriTech/issues/11) |
-| Setup fails due to requirements.txt being nested inside subfolder. | Medium | [#10](https://github.com/omroy07/AgriTech/issues/10) |
 
 ---
 
@@ -266,16 +281,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Renew README.md and Add Api Documentation markdown. | Medium | [#153](https://github.com/openml-stack/SentiLog-AI/issues/153) |
+| feat: add password visibility toggle to auth pages | Medium | [#149](https://github.com/openml-stack/SentiLog-AI/pull/149) |
 | Add export option (CSV/JSON) for analysis results | Medium | [#145](https://github.com/openml-stack/SentiLog-AI/issues/145) |
 | Issue  #133: Implement authentication checks for journal entry creation and retrie… | Medium | [#144](https://github.com/openml-stack/SentiLog-AI/pull/144) |
-| Created a new logo | Medium | [#143](https://github.com/openml-stack/SentiLog-AI/pull/143) |
-| Add Loading State to Login Button | Medium | [#140](https://github.com/openml-stack/SentiLog-AI/issues/140) |
 | adding scroll to top button | Medium | [#137](https://github.com/openml-stack/SentiLog-AI/pull/137) |
 | Random Motivational Quote" API Integration | Medium | [#136](https://github.com/openml-stack/SentiLog-AI/issues/136) |
 | Updated Middleware with Standard token format and improved Structure | Medium | [#135](https://github.com/openml-stack/SentiLog-AI/pull/135) |
-| Create "About" Page for the Website | Medium | [#131](https://github.com/openml-stack/SentiLog-AI/issues/131) |
 | Enable users to update profile details and profile photo | Medium | [#117](https://github.com/openml-stack/SentiLog-AI/pull/117) |
-| About Section Not Displayed – Add Missing About Section Component | Medium | [#113](https://github.com/openml-stack/SentiLog-AI/issues/113) |
 | Geological Sentiment Visualization | Medium | [#112](https://github.com/openml-stack/SentiLog-AI/issues/112) |
 | missing header  while  clicking on news and want to add clear  ui of news section | Medium | [#92](https://github.com/openml-stack/SentiLog-AI/issues/92) |
 | Designed the Dashboard Page for website from scratch | Medium | [#85](https://github.com/openml-stack/SentiLog-AI/pull/85) |
@@ -386,7 +399,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create a Backend for Contact Us Page and Fronted Integration | Medium | [#37](https://github.com/KrishChothani/CKsEdu/issues/37) |
+| {Feature] Add Downloadable pdf Notes section! | Medium | [#42](https://github.com/KrishChothani/CKsEdu/issues/42) |
 
 ---
 
@@ -402,12 +415,7 @@ Fast Workflow Tools
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#13](https://github.com/madegowda11/online-voting-system/issues/13) |
-| Suggestion: Add Code Of Conduct File to project | Medium | [#12](https://github.com/madegowda11/online-voting-system/issues/12) |
-| 🚫 License Missing from Repository | Medium | [#11](https://github.com/madegowda11/online-voting-system/issues/11) |
-| Add a Comprehensive `README.md` File for Better Project Documentation | Medium | [#10](https://github.com/madegowda11/online-voting-system/issues/10) |
+_No unassigned issues._
 
 ---
 
@@ -423,11 +431,7 @@ Fast Workflow Tools
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Code of Conduct | Medium | [#12](https://github.com/AKing-283/Rewear/pull/12) |
-| 🛠️ UI Enhancement: Revamp and Polish Website Footer Section | Medium | [#11](https://github.com/AKing-283/Rewear/pull/11) |
-| Add "About Us" Section with UI Design | Medium | [#10](https://github.com/AKing-283/Rewear/issues/10) |
+_No unassigned issues._
 
 ---
 
@@ -469,6 +473,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Documentation : Updating README.md File for Better Project Documentation | Medium | [#4](https://github.com/Saathviga9605/FactShare/issues/4) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/Saathviga9605/FactShare/issues/3) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#2](https://github.com/Saathviga9605/FactShare/issues/2) |
 | 🚫 License Missing from Repository | Medium | [#1](https://github.com/Saathviga9605/FactShare/issues/1) |
