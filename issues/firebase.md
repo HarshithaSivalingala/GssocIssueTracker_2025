@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixes the QR code visibility | Medium | [#92](https://github.com/ShishuCard/Vaccination_Portal/pull/92) |
+| 🌓 Bug: Night Mode Not Working | Medium | [#91](https://github.com/ShishuCard/Vaccination_Portal/issues/91) |
+| Adding CODE_OF_CONDUCT.md file | Medium | [#90](https://github.com/ShishuCard/Vaccination_Portal/issues/90) |
 | Feature Request: Add a Custom 404 Page | Medium | [#89](https://github.com/ShishuCard/Vaccination_Portal/issues/89) |
 | Add a Contact / Feedback Form | Medium | [#88](https://github.com/ShishuCard/Vaccination_Portal/issues/88) |
 
@@ -73,6 +76,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Password Strength Validation Logic Flaw | Medium | [#54](https://github.com/Bavanetha27/Refixly/issues/54) |
 | Establish foundational project structure: add README, CI pipeline, linting and testing framework | Medium | [#42](https://github.com/Bavanetha27/Refixly/issues/42) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
@@ -91,7 +95,9 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix Auth Error UI | Medium | [#29](https://github.com/Dhruvi-tech/firebase-chat-app/pull/29) |
 
 ---
 
@@ -112,7 +118,6 @@ _No unassigned issues._
 | Deployment Error on Vercel ( Firebase + Next.js App Not Deploying ) | Medium | [#109](https://github.com/mansiruhil/fail-u-forward/issues/109) |
 | Add feature to signup page | Medium | [#107](https://github.com/mansiruhil/fail-u-forward/pull/107) |
 | Fix Post Fetching Error & Improve Post Sharing UX | Medium | [#100](https://github.com/mansiruhil/fail-u-forward/issues/100) |
-| Enhance Welcome Page Design for Better UX | Medium | [#87](https://github.com/mansiruhil/fail-u-forward/issues/87) |
 | 1: Add Backend to Post and Fix Fetch Error | Medium | [#81](https://github.com/mansiruhil/fail-u-forward/issues/81) |
 | Implement Edit Profile Functionality | Medium | [#73](https://github.com/mansiruhil/fail-u-forward/issues/73) |
 | UI Navigation Enhancement | Medium | [#55](https://github.com/mansiruhil/fail-u-forward/issues/55) |
@@ -153,7 +158,6 @@ _No unassigned issues._
 |----------|----------------|---------|
 | Show Preview of Uploaded Image before Submission. | Medium | [#191](https://github.com/Prateek9876/NagarVikas/pull/191) |
 | Enhance empty state UI with illustration and fade-in animation (#153) | Medium | [#190](https://github.com/Prateek9876/NagarVikas/pull/190) |
-| MERGE FIX: LOCALIZATION | Medium | [#189](https://github.com/Prateek9876/NagarVikas/pull/189) |
 | Lib folder restructured and import issue fixed | Medium | [#187](https://github.com/Prateek9876/NagarVikas/pull/187) |
 | Improved ui in Contact us and Feedback Page #181 Level 2 | Medium | [#182](https://github.com/Prateek9876/NagarVikas/pull/182) |
 | Added Star/Favorite to Complaints (Admin) #64 Level 3 | Hard | [#186](https://github.com/Prateek9876/NagarVikas/pull/186) |
@@ -178,6 +182,8 @@ _No unassigned issues._
 | Phone number input bar issue | Easy | [#28](https://github.com/Richajaishwal0/Trip_assistant/issues/28) |
 | Help Centre Button Not Working | Easy | [#6](https://github.com/Richajaishwal0/Trip_assistant/issues/6) |
 | I want to add UI in it | Easy | [#3](https://github.com/Richajaishwal0/Trip_assistant/issues/3) |
+| ADDITIONAL FEATURE :  Smart Packing List Generator | Medium | [#56](https://github.com/Richajaishwal0/Trip_assistant/issues/56) |
+| ADDITIONAL FEATURE : Currency Converter & Tipping Guide | Medium | [#55](https://github.com/Richajaishwal0/Trip_assistant/issues/55) |
 | 📌 Feature Request: Add an "About Us" Page to the Website | Medium | [#52](https://github.com/Richajaishwal0/Trip_assistant/issues/52) |
 | Contribution in UI and others | Medium | [#50](https://github.com/Richajaishwal0/Trip_assistant/issues/50) |
 | feature : migrate mysql to mongoDB. | Medium | [#48](https://github.com/Richajaishwal0/Trip_assistant/pull/48) |
@@ -222,12 +228,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added backend for bookmarks -- Node.js | Medium | [#118](https://github.com/Yash159357/BREVITY/pull/118) |
-| Backend Support for Custom In-App Rating Feature | Medium | [#117](https://github.com/Yash159357/BREVITY/issues/117) |
 | Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
-| Integrated FCM notification setup | Medium | [#67](https://github.com/Yash159357/BREVITY/pull/67) |
-| Migrate from firebase to node js | Medium | [#66](https://github.com/Yash159357/BREVITY/pull/66) |
 
 ---
 
@@ -284,8 +286,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add UI Screenshots to README for Better Visual Understanding | Easy | [#96](https://github.com/SurajSG23/PrepBuddy/issues/96) |
-| Change CommonJS export to ES Module in testRouter.js | Medium | [#95](https://github.com/SurajSG23/PrepBuddy/pull/95) |
+| Feature: Login and id fetch using jwt token | Easy | [#103](https://github.com/SurajSG23/PrepBuddy/issues/103) |
+| Add Contact Page to Help Users with Any Issues. | Easy | [#102](https://github.com/SurajSG23/PrepBuddy/issues/102) |
 | update theme-toggle and added progressBar | Medium | [#94](https://github.com/SurajSG23/PrepBuddy/pull/94) |
 
 ---
@@ -309,7 +311,6 @@ _No unassigned issues._
 | Improve Documentation: README.md + CONTRIBUTING.md Enhancements | Medium | [#65](https://github.com/VJLIVE/Athletix/issues/65) |
 | Add Filter & Search Functionality for Tournaments and Logs | Medium | [#64](https://github.com/VJLIVE/Athletix/issues/64) |
 | Add Empty State UI for No Performance Records | Medium | [#63](https://github.com/VJLIVE/Athletix/issues/63) |
-| Auth ui improved and responsiveness added | Medium | [#62](https://github.com/VJLIVE/Athletix/pull/62) |
 | Optimize Splash Screen Performance with Authentication Check in Parallel with Animation | Medium | [#60](https://github.com/VJLIVE/Athletix/issues/60) |
 | Solved issues in performance tracking | Medium | [#55](https://github.com/VJLIVE/Athletix/pull/55) |
 | fixed add players for organizations . | Medium | [#50](https://github.com/VJLIVE/Athletix/pull/50) |
@@ -330,12 +331,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added backend for bookmarks -- Node.js | Medium | [#118](https://github.com/Yash159357/BREVITY/pull/118) |
-| Backend Support for Custom In-App Rating Feature | Medium | [#117](https://github.com/Yash159357/BREVITY/issues/117) |
 | Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
-| Integrated FCM notification setup | Medium | [#67](https://github.com/Yash159357/BREVITY/pull/67) |
-| Migrate from firebase to node js | Medium | [#66](https://github.com/Yash159357/BREVITY/pull/66) |
 
 ---
 
@@ -353,6 +350,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Password Strength Checker to User Input Form | Medium | [#34](https://github.com/Skrache/crisisboard/issues/34) |
 | There is no license in the readme file | Medium | [#32](https://github.com/Skrache/crisisboard/issues/32) |
 | 🤖 Add AI-Powered Chatbot for Enhanced User Support | Medium | [#31](https://github.com/Skrache/crisisboard/issues/31) |
 | 🔍 Add Advanced Search and Filter System | Medium | [#30](https://github.com/Skrache/crisisboard/issues/30) |
@@ -446,10 +444,8 @@ _No unassigned issues._
 | BUG : Not responsive for devices with small display | Medium | [#21](https://github.com/Devaki01/EcoStore/issues/21) |
 | Create a chatbot | Medium | [#20](https://github.com/Devaki01/EcoStore/issues/20) |
 | Responsiveness is missing | Medium | [#19](https://github.com/Devaki01/EcoStore/issues/19) |
-| Update README.md with project details | Medium | [#18](https://github.com/Devaki01/EcoStore/pull/18) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#17](https://github.com/Devaki01/EcoStore/issues/17) |
 | Add Count-Up Animation to Stats Section on About Us Page | Medium | [#16](https://github.com/Devaki01/EcoStore/issues/16) |
-| Add Code of Conduct for GSSoC'25 | Medium | [#14](https://github.com/Devaki01/EcoStore/pull/14) |
 | Ui enhancement + Imperfect font heirarchy | Medium | [#13](https://github.com/Devaki01/EcoStore/issues/13) |
 | Add Readme.md | Medium | [#12](https://github.com/Devaki01/EcoStore/issues/12) |
 | Add Dark/Light Theme Toggle Button | Medium | [#11](https://github.com/Devaki01/EcoStore/issues/11) |
@@ -523,25 +519,18 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#40](https://github.com/Varshitha713/CodeCanvas/issues/40) |
+| Improving the Font Consistency, Sizing, and Styling | Medium | [#42](https://github.com/Varshitha713/CodeCanvas/issues/42) |
 | Title: 🚧 Navbar Links Not Fully Functional | Medium | [#39](https://github.com/Varshitha713/CodeCanvas/issues/39) |
-| 🚫 License Missing from Repository | Medium | [#38](https://github.com/Varshitha713/CodeCanvas/issues/38) |
 | Add Hamburger Menu for Navbar on Small Screens | Medium | [#37](https://github.com/Varshitha713/CodeCanvas/issues/37) |
-| Add "Analog Clock Web App" Project with Functional Repo & Preview Link | Medium | [#36](https://github.com/Varshitha713/CodeCanvas/issues/36) |
 | feat:Implemented responsive navbar design with animated hamburger menu | Medium | [#35](https://github.com/Varshitha713/CodeCanvas/pull/35) |
 | Social links in footer | Medium | [#34](https://github.com/Varshitha713/CodeCanvas/pull/34) |
-| Add Search Functionality for Projects | Medium | [#33](https://github.com/Varshitha713/CodeCanvas/issues/33) |
 | Enhancement: Implement Glassy/Frosted Navigation Bar UI | Medium | [#32](https://github.com/Varshitha713/CodeCanvas/issues/32) |
 | Scroll-to-top button feature | Medium | [#31](https://github.com/Varshitha713/CodeCanvas/pull/31) |
-| Create "About Us" Page | Medium | [#30](https://github.com/Varshitha713/CodeCanvas/issues/30) |
 | Make the navbar links to navigate to the particular sectionNew | Medium | [#29](https://github.com/Varshitha713/CodeCanvas/pull/29) |
-| seperated logic from framework | Medium | [#28](https://github.com/Varshitha713/CodeCanvas/pull/28) |
-| Adding the reviews page | Medium | [#27](https://github.com/Varshitha713/CodeCanvas/issues/27) |
 | about me page | Medium | [#25](https://github.com/Varshitha713/CodeCanvas/issues/25) |
 | Enhancing Footer | Medium | [#22](https://github.com/Varshitha713/CodeCanvas/issues/22) |
 | Add Previews for current Featured Projects | Medium | [#11](https://github.com/Varshitha713/CodeCanvas/issues/11) |
 | Navbar section not working | Medium | [#7](https://github.com/Varshitha713/CodeCanvas/issues/7) |
-| Set up project structure and initial documentation | Medium | [#3](https://github.com/Varshitha713/CodeCanvas/issues/3) |
 
 ---
 
@@ -573,11 +562,7 @@ _No unassigned issues._
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Documentation : Add Code Of Conduct File to project | Medium | [#7](https://github.com/Nayanika1402/WildQuest/issues/7) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#6](https://github.com/Nayanika1402/WildQuest/issues/6) |
-| 🚫 License Missing from Repository | Medium | [#5](https://github.com/Nayanika1402/WildQuest/issues/5) |
+_No unassigned issues._
 
 ---
 
@@ -596,18 +581,15 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Need improvement in About  us section. | Easy | [#69](https://github.com/shandilya-rajnandini/DocAtHome/issues/69) |
-| Added CareCircle | Medium | [#63](https://github.com/shandilya-rajnandini/DocAtHome/pull/63) |
-| Centralized Error Handling for Express + Socket.IO Server | Medium | [#62](https://github.com/shandilya-rajnandini/DocAtHome/issues/62) |
+| Fix: Links not working in Footer. | Medium | [#72](https://github.com/shandilya-rajnandini/DocAtHome/issues/72) |
+| Refactor Error Handling: Add Centralized Middleware & Clean Up Controllers | Medium | [#71](https://github.com/shandilya-rajnandini/DocAtHome/pull/71) |
+| Fix: UI Inconsistencies on Ambulance Page | Medium | [#70](https://github.com/shandilya-rajnandini/DocAtHome/issues/70) |
 | Implement an anonymous peer-to-peer case review system | Medium | [#54](https://github.com/shandilya-rajnandini/DocAtHome/issues/54) |
-| Add "Cultural Competency" and language badges to profiles | Medium | [#49](https://github.com/shandilya-rajnandini/DocAtHome/issues/49) |
-| Implement a "Privacy Vault" with granular data sharing permissions | Medium | [#48](https://github.com/shandilya-rajnandini/DocAtHome/issues/48) |
 | Allow doctors to record a short, reassuring voice note for patients | Medium | [#46](https://github.com/shandilya-rajnandini/DocAtHome/issues/46) |
+| Create a visual, icon-based medication schedule | Medium | [#41](https://github.com/shandilya-rajnandini/DocAtHome/issues/41) |
 | Implement a "Consultation Relay" note for professionals | Medium | [#39](https://github.com/shandilya-rajnandini/DocAtHome/issues/39) |
-| Build a "Care Pathway Navigator" to guide patient choices | Hard | [#53](https://github.com/shandilya-rajnandini/DocAtHome/issues/53) |
 | Design a "Smart Visit Kit" checklist for professionals | Hard | [#52](https://github.com/shandilya-rajnandini/DocAtHome/issues/52) |
-| Implement a "Community Care Fund" for patients in need | Hard | [#50](https://github.com/shandilya-rajnandini/DocAtHome/issues/50) |
-| Implement AI-powered audio transcription and summary for video calls | Hard | [#40](https://github.com/shandilya-rajnandini/DocAtHome/issues/40) |
-| Create an "Earnings & Payouts" Page | Hard | [#37](https://github.com/shandilya-rajnandini/DocAtHome/issues/37) |
+| Design and implement a "Post-Discharge Concierge" booking flow | Hard | [#42](https://github.com/shandilya-rajnandini/DocAtHome/issues/42) |
 
 ---
 
@@ -625,6 +607,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Landing Page Enhancement and Design | Medium | [#25](https://github.com/mr-rishikesh/DevConnect/issues/25) |
 | Contribute page is blank | Medium | [#23](https://github.com/mr-rishikesh/DevConnect/issues/23) |
 | Fix Home Navigation Redirect and Navbar Logo Scroll-to-Top Behavior | Medium | [#22](https://github.com/mr-rishikesh/DevConnect/issues/22) |
 | Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
@@ -646,10 +629,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| issue template | Medium | [#77](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/77) |
-| typing effect on landing page | Medium | [#76](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/76) |
-| Enhance the Navbar | Medium | [#75](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/75) |
-| Missing of favicon logo in browser tab. | Medium | [#68](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/68) |
+| Enhance the Navbar | Medium | [#84](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/84) |
+| Fix the File Structure | Medium | [#81](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/81) |
 
 ---
 
