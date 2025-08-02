@@ -124,6 +124,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| [Feature]: Enhance Search & Filter UI with Bottom Sheet, Suggestion Chips & Location Input | Medium | [#166](https://github.com/sourabhkumar47/ResQFood/issues/166) |
+| FeedBack Form | Medium | [#165](https://github.com/sourabhkumar47/ResQFood/pull/165) |
 | Feature/android 15 support | Medium | [#160](https://github.com/sourabhkumar47/ResQFood/pull/160) |
 
 ---
@@ -142,6 +144,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Search Screen Implemented | Medium | [#333](https://github.com/yuvrajsinghgmx/ShopSmart/pull/333) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
 | Saved Products Screen | Medium | [#284](https://github.com/yuvrajsinghgmx/ShopSmart/issues/284) |
 | Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
