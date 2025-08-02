@@ -15,7 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Husky with pre-commit hooks in both the frontend and backend codebases | Easy | [#37](https://github.com/Promptzy/Zenjira/issues/37) |
-| feat: Complete production-ready authentication system with comprehens… | Medium | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
+| feat: Complete production-ready authentication system with comprehens… | Hard | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
 
 ---
 
@@ -33,6 +33,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/3) |
+| Documentation : Add Code Of Conduct File to project | Medium | [#2](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/2) |
 | 🚫 License Missing from Repository | Medium | [#1](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/1) |
 
 ---
