@@ -14,14 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Contributor Documentation and Add Responsive Landing Page Enhancements | Medium | [#43](https://github.com/Abhinavhaldiya/FinPilot/issues/43) |
 | Setup folder structure for modular features: users, expenses, approvals | Medium | [#42](https://github.com/Abhinavhaldiya/FinPilot/issues/42) |
 | Feature Request: Complete Approval Workflow System | Medium | [#40](https://github.com/Abhinavhaldiya/FinPilot/issues/40) |
 | ⚠️ Show Proper Error Feedback on API Failures | Medium | [#39](https://github.com/Abhinavhaldiya/FinPilot/issues/39) |
 | UI is not responsive for smaller devices | Medium | [#37](https://github.com/Abhinavhaldiya/FinPilot/issues/37) |
 | Show Error Feedback When API Fails | Medium | [#36](https://github.com/Abhinavhaldiya/FinPilot/issues/36) |
 | Add prisma schema definition and seed data | Medium | [#35](https://github.com/Abhinavhaldiya/FinPilot/pull/35) |
-| Fix #31 :footer change | Medium | [#34](https://github.com/Abhinavhaldiya/FinPilot/pull/34) |
-| Fix #30 :added fields managerId and hrId in employee registration form | Medium | [#33](https://github.com/Abhinavhaldiya/FinPilot/pull/33) |
 | Schema Definition using Prisma | Medium | [#32](https://github.com/Abhinavhaldiya/FinPilot/issues/32) |
 | fix: documentation updated along with .env.example | Medium | [#27](https://github.com/Abhinavhaldiya/FinPilot/pull/27) |
 | Responsive Sidebar & Dashboard UI Redesign | Medium | [#23](https://github.com/Abhinavhaldiya/FinPilot/issues/23) |
@@ -56,6 +55,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add MIT License | Easy | [#3](https://github.com/Menthub-GSSoC/Menthub/issues/3) |
 | Update README.md | Easy | [#2](https://github.com/Menthub-GSSoC/Menthub/pull/2) |
+| FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | docs: improve onboarding by adding contributing guide, templates, and code of conduct | Medium | [#38](https://github.com/Menthub-GSSoC/Menthub/pull/38) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
@@ -88,12 +88,12 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| implement comprehensive security headers for XSS and clickjacking protection | Medium | [#398](https://github.com/HarshS16/Civix/pull/398) |
 | remove bug from report issue | Medium | [#392](https://github.com/HarshS16/Civix/pull/392) |
 | "Sign in with Google" Missing on Login Page | Medium | [#379](https://github.com/HarshS16/Civix/issues/379) |
 | Improve FAQ UI and Smoothness with Animated Expand/Collapse | Medium | [#374](https://github.com/HarshS16/Civix/pull/374) |
 | Quick Profile Access from Navbar | Medium | [#353](https://github.com/HarshS16/Civix/issues/353) |
 | Mobile Responsiveness for Complaint Cards | Medium | [#341](https://github.com/HarshS16/Civix/issues/341) |
-|  | Medium | [#340](https://github.com/HarshS16/Civix/issues/340) |
 | Add dynamic current year to footer | Medium | [#328](https://github.com/HarshS16/Civix/issues/328) |
 
 ---
@@ -114,6 +114,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| gssoc/added testimonials-slider | Medium | [#281](https://github.com/Muneerali199/DocMagic/pull/281) |
+| fix: This PR resolves a crash that occurred when navigating back to the /settings page. | Medium | [#280](https://github.com/Muneerali199/DocMagic/pull/280) |
 | Enhanced the features section at home page and made it engaging | Medium | [#279](https://github.com/Muneerali199/DocMagic/pull/279) |
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Added responsive footer with light and dark theme support | Medium | [#276](https://github.com/Muneerali199/DocMagic/pull/276) |
@@ -146,6 +148,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Add Keyboard Navigation Support (← / → Arrow Keys) | Medium | [#63](https://github.com/Er-luffy-D/SimplifAI/pull/63) |
 | Add Profile View and Update Functionality for Users | Medium | [#61](https://github.com/Er-luffy-D/SimplifAI/issues/61) |
 | Add Docker Compose setup and update README | Medium | [#31](https://github.com/Er-luffy-D/SimplifAI/pull/31) |
 
@@ -263,9 +266,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🚫 License Missing from Repository | Medium | [#153](https://github.com/harsh3dev/DevMatchups/issues/153) |
-| Fix the footer section in mobile view | Medium | [#152](https://github.com/harsh3dev/DevMatchups/issues/152) |
-| Add mode of hackathon and location if offline | Medium | [#151](https://github.com/harsh3dev/DevMatchups/issues/151) |
+| Updated footer UI for better layout and mobile responsiveness | Medium | [#156](https://github.com/harsh3dev/DevMatchups/pull/156) |
+| Fix the API for Profile Update | Medium | [#155](https://github.com/harsh3dev/DevMatchups/issues/155) |
 | Design of a scroll bar. | Medium | [#145](https://github.com/harsh3dev/DevMatchups/issues/145) |
 | Integrate DB save in Edit Profile | Medium | [#138](https://github.com/harsh3dev/DevMatchups/issues/138) |
 | Add custom data to chatbot and customize it according to our website | Medium | [#136](https://github.com/harsh3dev/DevMatchups/issues/136) |
@@ -288,6 +290,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update README.md | Medium | [#27](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/27) |
 | Add Skeleton Loaders to Dashboard Pages | Medium | [#25](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/25) |
 | Update README.md | Medium | [#14](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/14) |
 | Add Support for Asterisk as a Telephony Backend | Hard | [#24](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/24) |
@@ -337,7 +340,7 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Husky with pre-commit hooks in both the frontend and backend codebases | Easy | [#37](https://github.com/Promptzy/Zenjira/issues/37) |
-| feat: Complete production-ready authentication system with comprehens… | Medium | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
+| feat: Complete production-ready authentication system with comprehens… | Hard | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
 
 ---
 
@@ -355,6 +358,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: updated footer with accurate and consistent social icons | Medium | [#26](https://github.com/SandeepVashishtha/Eventra/pull/26) |
 | implemented cookie based jwt and spring security for authentication | Medium | [#24](https://github.com/SandeepVashishtha/Eventra/pull/24) |
 | Add backend error handling and validation | Medium | [#14](https://github.com/SandeepVashishtha/Eventra/issues/14) |
 
@@ -374,6 +378,11 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(AI): Massively Enhance Context for AskNerd AI Assistant | Easy | [#62](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/62) |
+| Made to do list for task management | Medium | [#66](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/66) |
+| Seo Improved | Medium | [#65](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/65) |
+| feat: Enhanced AskNerd context as per issue #62 | Medium | [#64](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/64) |
+| fix : updated hover color and removed legacyBehavior | Medium | [#61](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/61) |
 | feat(ui): Implement Interactive Bubble Background with Scroll & Mouse Effects (#22) | Medium | [#49](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/49) |
 | Added pull request template(#33) | Medium | [#43](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/43) |
 | Feat/add pr template | Medium | [#35](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/35) |
@@ -397,7 +406,13 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| implemented changes | Medium | [#19](https://github.com/vatsal-bhakodia/smriti-ai/pull/19) |
+| Add "Privacy Policy" and "Terms of Use" Pages | Easy | [#25](https://github.com/vatsal-bhakodia/smriti-ai/issues/25) |
+| Add an "About Us" Page to Smriti AI | Easy | [#24](https://github.com/vatsal-bhakodia/smriti-ai/issues/24) |
+| `create-user` API Does Not Handle Duplicate Usernames and Validate Phone Numbers | Easy | [#23](https://github.com/vatsal-bhakodia/smriti-ai/issues/23) |
+| Phone Input Dropdown Not Fully Visible | Easy | [#21](https://github.com/vatsal-bhakodia/smriti-ai/issues/21) |
+| Add a "Blogs" Page to Smriti AI | Medium | [#27](https://github.com/vatsal-bhakodia/smriti-ai/issues/27) |
+| Add a "Contact Us" Page with Form Submission | Medium | [#26](https://github.com/vatsal-bhakodia/smriti-ai/issues/26) |
+| Dashboard Performance Graph Uses Dummy Data | Medium | [#20](https://github.com/vatsal-bhakodia/smriti-ai/issues/20) |
 | Upload mp4 | Medium | [#2](https://github.com/vatsal-bhakodia/smriti-ai/issues/2) |
 | Create a Feature to Track User Logins to plot the Consistency Graph in dashboard | Hard | [#10](https://github.com/vatsal-bhakodia/smriti-ai/issues/10) |
 
