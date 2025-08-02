@@ -14,6 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
+| Create admins.py | Medium | [#42](https://github.com/indra7777/frostiq/pull/42) |
+| Create analytics.py | Medium | [#41](https://github.com/indra7777/frostiq/pull/41) |
+| Create search.py | Medium | [#40](https://github.com/indra7777/frostiq/pull/40) |
+| Create favorites.py | Medium | [#39](https://github.com/indra7777/frostiq/pull/39) |
+| Create models.py | Medium | [#38](https://github.com/indra7777/frostiq/pull/38) |
+| Create schemas.py | Medium | [#37](https://github.com/indra7777/frostiq/pull/37) |
 | Update main.py | Medium | [#32](https://github.com/indra7777/frostiq/pull/32) |
 | docs: add deployed backend link to README | Medium | [#31](https://github.com/indra7777/frostiq/pull/31) |
 | Add CONTRIBUTORS.md | Medium | [#30](https://github.com/indra7777/frostiq/pull/30) |
