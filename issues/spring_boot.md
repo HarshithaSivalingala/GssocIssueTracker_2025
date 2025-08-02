@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a LEARN.md file to provide learning resources for new contributors | Medium | [#63](https://github.com/Ayush0316/KnockoutZone/issues/63) |
 | Containerize entire project using Docker. | Medium | [#62](https://github.com/Ayush0316/KnockoutZone/issues/62) |
 | Tournament Progress Visualization Dashboard (Interactive Tree) | Medium | [#60](https://github.com/Ayush0316/KnockoutZone/issues/60) |
 | Create User Entity (Player/Admin Support) | Medium | [#59](https://github.com/Ayush0316/KnockoutZone/issues/59) |
@@ -42,6 +43,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Search Screen Implemented | Medium | [#333](https://github.com/yuvrajsinghgmx/ShopSmart/pull/333) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
 | Saved Products Screen | Medium | [#284](https://github.com/yuvrajsinghgmx/ShopSmart/issues/284) |
 | Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
@@ -107,6 +109,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: updated footer with accurate and consistent social icons | Medium | [#26](https://github.com/SandeepVashishtha/Eventra/pull/26) |
 | implemented cookie based jwt and spring security for authentication | Medium | [#24](https://github.com/SandeepVashishtha/Eventra/pull/24) |
 | Add backend error handling and validation | Medium | [#14](https://github.com/SandeepVashishtha/Eventra/issues/14) |
 
