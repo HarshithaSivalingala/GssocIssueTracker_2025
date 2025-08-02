@@ -14,8 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added demo section | Medium | [#171](https://github.com/Amarjha01/InfantCareCompass/pull/171) |
-| Made the alignment of the text correct | Medium | [#170](https://github.com/Amarjha01/InfantCareCompass/pull/170) |
+| Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
+| Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 | feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
 | Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
 | modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
@@ -37,11 +37,7 @@
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#4](https://github.com/hardik1712/hinglish-voice-ai/issues/4) |
-| Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/hardik1712/hinglish-voice-ai/issues/3) |
-| 🚫 License Missing from Repository | Medium | [#2](https://github.com/hardik1712/hinglish-voice-ai/issues/2) |
+_No unassigned issues._
 
 ---
 
@@ -59,9 +55,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🚫 License Missing from Repository | Medium | [#153](https://github.com/harsh3dev/DevMatchups/issues/153) |
-| Fix the footer section in mobile view | Medium | [#152](https://github.com/harsh3dev/DevMatchups/issues/152) |
-| Add mode of hackathon and location if offline | Medium | [#151](https://github.com/harsh3dev/DevMatchups/issues/151) |
+| Updated footer UI for better layout and mobile responsiveness | Medium | [#156](https://github.com/harsh3dev/DevMatchups/pull/156) |
+| Fix the API for Profile Update | Medium | [#155](https://github.com/harsh3dev/DevMatchups/issues/155) |
 | Design of a scroll bar. | Medium | [#145](https://github.com/harsh3dev/DevMatchups/issues/145) |
 | Integrate DB save in Edit Profile | Medium | [#138](https://github.com/harsh3dev/DevMatchups/issues/138) |
 | Add custom data to chatbot and customize it according to our website | Medium | [#136](https://github.com/harsh3dev/DevMatchups/issues/136) |
@@ -109,7 +104,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Husky with pre-commit hooks in both the frontend and backend codebases | Easy | [#37](https://github.com/Promptzy/Zenjira/issues/37) |
-| feat: Complete production-ready authentication system with comprehens… | Medium | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
+| feat: Complete production-ready authentication system with comprehens… | Hard | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
 
 ---
 
@@ -125,7 +120,11 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| LICENSE not visible | Easy | [#5](https://github.com/rajibsalui/Trojan-AI/issues/5) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Easy | [#4](https://github.com/rajibsalui/Trojan-AI/issues/4) |
+| Documentation : Add Code Of Conduct File to project | Easy | [#3](https://github.com/rajibsalui/Trojan-AI/issues/3) |
 
 ---
 
