@@ -14,8 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Page doesn't scroll to top when navigating via footer links | Medium | [#33](https://github.com/HimanshuHeda/Zip_Tales/issues/33) |
-| UI Enhanced with user interface and with hover animation and more dynamic | Medium | [#31](https://github.com/HimanshuHeda/Zip_Tales/pull/31) |
+| Feature Request: Light/Dark Mode Toggle | Medium | [#34](https://github.com/HimanshuHeda/Zip_Tales/issues/34) |
 | Fix of login state loss on page refresh | Medium | [#14](https://github.com/HimanshuHeda/Zip_Tales/pull/14) |
 
 ---
@@ -72,6 +71,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| gssoc/added testimonials-slider | Medium | [#281](https://github.com/Muneerali199/DocMagic/pull/281) |
+| fix: This PR resolves a crash that occurred when navigating back to the /settings page. | Medium | [#280](https://github.com/Muneerali199/DocMagic/pull/280) |
 | Enhanced the features section at home page and made it engaging | Medium | [#279](https://github.com/Muneerali199/DocMagic/pull/279) |
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Added responsive footer with light and dark theme support | Medium | [#276](https://github.com/Muneerali199/DocMagic/pull/276) |
@@ -127,8 +128,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Add SECURITY.md file | Medium | [#61](https://github.com/sristy17/next-payroll/issues/61) |
-| Added Google login and dark mode toggle | Medium | [#59](https://github.com/sristy17/next-payroll/pull/59) |
+| Adding payment page | Medium | [#62](https://github.com/sristy17/next-payroll/pull/62) |
 | Create Add Payment system | Medium | [#50](https://github.com/sristy17/next-payroll/pull/50) |
 | Added Help page with FAQ dropdown and custom card UI component | Medium | [#36](https://github.com/sristy17/next-payroll/pull/36) |
 | feat: Build GST Return Filing Page - Fixes #27 | Medium | [#33](https://github.com/sristy17/next-payroll/pull/33) |
@@ -149,9 +149,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Rolling section of trusted and helping orgnaization | Medium | [#26](https://github.com/LarytheLord/Adventurers-Guild/issues/26) |
-| In the readme section there is no link in the license | Medium | [#24](https://github.com/LarytheLord/Adventurers-Guild/issues/24) |
-| Add "Quest" Page Menu to Homepage & Create Quest Page | Medium | [#23](https://github.com/LarytheLord/Adventurers-Guild/issues/23) |
+| Added clickable MIT License link in README | Medium | [#30](https://github.com/LarytheLord/Adventurers-Guild/pull/30) |
+| Making Navigation Bar Responsive and Adding Home Button in NavBar | Medium | [#29](https://github.com/LarytheLord/Adventurers-Guild/issues/29) |
+| Developed Skill Development Tree and Complete Quest | Medium | [#28](https://github.com/LarytheLord/Adventurers-Guild/pull/28) |
+| feat: add email enrollment system with nodemailer | Medium | [#27](https://github.com/LarytheLord/Adventurers-Guild/pull/27) |
 | Homepage layout and styling inconsistencies need refinement | Medium | [#18](https://github.com/LarytheLord/Adventurers-Guild/issues/18) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#11](https://github.com/LarytheLord/Adventurers-Guild/issues/11) |
 
@@ -169,7 +170,9 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add `.env.example` file and clarify environment variable setup in README | Medium | [#8](https://github.com/Jyotibrat/AI-Flow/issues/8) |
 
 ---
 
@@ -187,10 +190,11 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump three from 0.161.0 to 0.179.0 | Medium | [#57](https://github.com/Ojas-Arora/SapneSeSafar/pull/57) |
+| Bump lucide-react from 0.344.0 to 0.536.0 | Medium | [#56](https://github.com/Ojas-Arora/SapneSeSafar/pull/56) |
 | DOC: Add Code Of Conduct File to project | Medium | [#55](https://github.com/Ojas-Arora/SapneSeSafar/issues/55) |
 | Bump zustand from 4.5.6 to 5.0.7 | Medium | [#54](https://github.com/Ojas-Arora/SapneSeSafar/pull/54) |
 | Bump typescript from 5.6.3 to 5.9.2 | Medium | [#53](https://github.com/Ojas-Arora/SapneSeSafar/pull/53) |
-| Bump lucide-react from 0.344.0 to 0.535.0 | Medium | [#52](https://github.com/Ojas-Arora/SapneSeSafar/pull/52) |
 | Bump framer-motion from 11.18.2 to 12.23.12 | Medium | [#51](https://github.com/Ojas-Arora/SapneSeSafar/pull/51) |
 | DOC:add mit license file to the project | Medium | [#50](https://github.com/Ojas-Arora/SapneSeSafar/issues/50) |
 | ML Model for Deal Success Prediction | Medium | [#49](https://github.com/Ojas-Arora/SapneSeSafar/issues/49) |
@@ -234,7 +238,6 @@ _No unassigned issues._
 | 🔑 Add GitHub Login (OAuth2) Support | Easy | [#87](https://github.com/Rohit-Dnath/LOL-URL/issues/87) |
 | 🔑 Add Google Login (OAuth2) Support | Easy | [#86](https://github.com/Rohit-Dnath/LOL-URL/issues/86) |
 | implemented requested changes | Medium | [#111](https://github.com/Rohit-Dnath/LOL-URL/pull/111) |
-| feat: Improve Search Functionality in Dashboard #50 | Medium | [#109](https://github.com/Rohit-Dnath/LOL-URL/pull/109) |
 | Bump vite from 6.0.7 to 6.3.5 in the npm_and_yarn group across 1 directory | Medium | [#108](https://github.com/Rohit-Dnath/LOL-URL/pull/108) |
 | Bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#107](https://github.com/Rohit-Dnath/LOL-URL/pull/107) |
 | Bump @babel/runtime from 7.26.0 to 7.27.6 in the npm_and_yarn group across 1 directory | Medium | [#106](https://github.com/Rohit-Dnath/LOL-URL/pull/106) |
@@ -255,6 +258,7 @@ _No unassigned issues._
 | 📦 Serverless Function Marketplace Integration | Hard | [#84](https://github.com/Rohit-Dnath/LOL-URL/issues/84) |
 | 🛡️ Advanced DDoS Protection Layer | Hard | [#83](https://github.com/Rohit-Dnath/LOL-URL/issues/83) |
 | 🌐 Multi-Tenancy with Isolated Analytics | Hard | [#82](https://github.com/Rohit-Dnath/LOL-URL/issues/82) |
+| 🧠 AI-based Personalized Link Recommendations | Hard | [#81](https://github.com/Rohit-Dnath/LOL-URL/issues/81) |
 
 ---
 
@@ -272,6 +276,9 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Documentation : Updating README.md File for Better Project Documentation | Medium | [#4](https://github.com/Shantanu-Tiwari/TLDRify/issues/4) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/Shantanu-Tiwari/TLDRify/issues/3) |
+| Documentation : Add Code Of Conduct File to project | Medium | [#2](https://github.com/Shantanu-Tiwari/TLDRify/issues/2) |
 | 🚫 License Missing from Repository | Medium | [#1](https://github.com/Shantanu-Tiwari/TLDRify/issues/1) |
 
 ---
