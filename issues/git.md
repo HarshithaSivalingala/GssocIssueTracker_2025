@@ -14,8 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added demo section | Medium | [#171](https://github.com/Amarjha01/InfantCareCompass/pull/171) |
-| Made the alignment of the text correct | Medium | [#170](https://github.com/Amarjha01/InfantCareCompass/pull/170) |
+| Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
+| Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 | feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
 | Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
 | modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
@@ -96,6 +96,13 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
+| Create admins.py | Medium | [#42](https://github.com/indra7777/frostiq/pull/42) |
+| Create analytics.py | Medium | [#41](https://github.com/indra7777/frostiq/pull/41) |
+| Create search.py | Medium | [#40](https://github.com/indra7777/frostiq/pull/40) |
+| Create favorites.py | Medium | [#39](https://github.com/indra7777/frostiq/pull/39) |
+| Create models.py | Medium | [#38](https://github.com/indra7777/frostiq/pull/38) |
+| Create schemas.py | Medium | [#37](https://github.com/indra7777/frostiq/pull/37) |
 | Update main.py | Medium | [#32](https://github.com/indra7777/frostiq/pull/32) |
 | docs: add deployed backend link to README | Medium | [#31](https://github.com/indra7777/frostiq/pull/31) |
 | Add CONTRIBUTORS.md | Medium | [#30](https://github.com/indra7777/frostiq/pull/30) |
@@ -158,9 +165,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add hover animation effect to weather card | Medium | [#52](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/52) |
 | Add loading spinner to show progress while fetching weather data | Medium | [#48](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/48) |
 | Add input validation for city name | Medium | [#47](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/47) |
-| Improved background readability with opacity overlay | Medium | [#40](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/40) |
-| Fixed XSS vulnerabilities and enhance input validation | Medium | [#39](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/39) |
 | Code of Conduct – VerveBridge Task 1: Weather App | GSSoC'25 Documentation | Medium | [#37](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/37) |
+| Enhance UI | Medium | [#35](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/35) |
+| ADD MIT LICENCE | Medium | [#34](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/34) |
 
 ---
 
@@ -178,7 +185,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Improve UI Design of EV Cost Prediction Form | Medium | [#41](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/41) |
+| Login/SignUp Page Designed From Scratch | Medium | [#42](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/pull/42) |
 | Added feature engineering | Medium | [#40](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/pull/40) |
 | Missing Code of Conduct File in Repository | Medium | [#39](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/39) |
 | feat: Implement RandomizedSearchCV for XGBoost hyperparameter tuning | Medium | [#37](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/pull/37) |
@@ -247,10 +254,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| enhancement:made memories page responsive issue#48 | Medium | [#118](https://github.com/AditiGupta-tech/neonest/pull/118) |
+| feat: Make Growth Page Fully Responsive using Tailwind classes | Medium | [#128](https://github.com/AditiGupta-tech/neonest/pull/128) |
+| fix: stop logout progress when user clicks login and redirect immediately && fix: signup error | Medium | [#127](https://github.com/AditiGupta-tech/neonest/pull/127) |
+| Implementing auto resource and notification management while talking to NeonestAI | Medium | [#119](https://github.com/AditiGupta-tech/neonest/issues/119) |
 | Implements #64 - Feature request: "Smart Care" Tab with Real-Time AI Baby Care Suggestions | Medium | [#104](https://github.com/AditiGupta-tech/neonest/pull/104) |
-| Chaitanyaemani/homepage | Medium | [#79](https://github.com/AditiGupta-tech/neonest/pull/79) |
 | Zoxilsi/issue 9 | Medium | [#58](https://github.com/AditiGupta-tech/neonest/pull/58) |
+| Feature Request: Baby Cry Detector | Hard | [#122](https://github.com/AditiGupta-tech/neonest/issues/122) |
 
 ---
 
@@ -268,6 +277,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📚 Feature Request: Add DevOps Section | Medium | [#31](https://github.com/Amarjha01/DevNotes/issues/31) |
+| 📚 Feature Request: Add DSA and System Design Sections | Medium | [#30](https://github.com/Amarjha01/DevNotes/issues/30) |
 | Add Advanced JavaScript Topics to Enhance Learning Resources | Medium | [#29](https://github.com/Amarjha01/DevNotes/issues/29) |
 | Fix  the size of all elements in home page in mobile view | Medium | [#28](https://github.com/Amarjha01/DevNotes/issues/28) |
 | feat: Add Contact form and FAQ sections to Home page | Medium | [#27](https://github.com/Amarjha01/DevNotes/pull/27) |
@@ -355,9 +366,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding Chatbot for movie Reccomendations | Easy | [#4](https://github.com/Aqsa4066/netflixclone/issues/4) |
+| UI Improvements: Header Alignment & FAQ Background Styling | Medium | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
+| UI Improvements: Header Alignment & FAQ Background Styling | Medium | [#44](https://github.com/Aqsa4066/netflixclone/pull/44) |
+| Improve FAQ Section with Expandable Answers | Medium | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
+| Enhance the Design and Navigation of the Page Footer Section | Medium | [#42](https://github.com/Aqsa4066/netflixclone/issues/42) |
 | Fixed sign in button | Medium | [#40](https://github.com/Aqsa4066/netflixclone/pull/40) |
-| Fix: Adjusted button text layout and padding in style.css | Medium | [#37](https://github.com/Aqsa4066/netflixclone/pull/37) |
-| Add Alternative Text (alt) to Images for Accessibility | Medium | [#32](https://github.com/Aqsa4066/netflixclone/issues/32) |
 | Website Layout Broken- Please review Recent Changes | Medium | [#31](https://github.com/Aqsa4066/netflixclone/issues/31) |
 | Create sticky, responsive navbar with layout, spacing, and hover effect. | Medium | [#29](https://github.com/Aqsa4066/netflixclone/pull/29) |
 | Website Ruined | Medium | [#26](https://github.com/Aqsa4066/netflixclone/issues/26) |
@@ -429,7 +442,6 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Document Page UI/UX | Medium | [#99](https://github.com/dipexplorer/LegalHuB/issues/99) |
 | 🚫 Improve 404 Page with Custom Design and Graphics | Medium | [#98](https://github.com/dipexplorer/LegalHuB/issues/98) |
 
 ---
@@ -448,6 +460,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update README.md | Medium | [#27](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/27) |
 | Add Skeleton Loaders to Dashboard Pages | Medium | [#25](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/25) |
 | Update README.md | Medium | [#14](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/14) |
 | Add Support for Asterisk as a Telephony Backend | Hard | [#24](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/24) |
@@ -563,7 +576,7 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Husky with pre-commit hooks in both the frontend and backend codebases | Easy | [#37](https://github.com/Promptzy/Zenjira/issues/37) |
-| feat: Complete production-ready authentication system with comprehens… | Medium | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
+| feat: Complete production-ready authentication system with comprehens… | Hard | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
 
 ---
 
@@ -581,6 +594,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Landing Page Enhancement and Design | Medium | [#25](https://github.com/mr-rishikesh/DevConnect/issues/25) |
 | Contribute page is blank | Medium | [#23](https://github.com/mr-rishikesh/DevConnect/issues/23) |
 | Fix Home Navigation Redirect and Navbar Logo Scroll-to-Top Behavior | Medium | [#22](https://github.com/mr-rishikesh/DevConnect/issues/22) |
 | Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
@@ -602,6 +616,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: updated footer with accurate and consistent social icons | Medium | [#26](https://github.com/SandeepVashishtha/Eventra/pull/26) |
 | implemented cookie based jwt and spring security for authentication | Medium | [#24](https://github.com/SandeepVashishtha/Eventra/pull/24) |
 | Add backend error handling and validation | Medium | [#14](https://github.com/SandeepVashishtha/Eventra/issues/14) |
 
