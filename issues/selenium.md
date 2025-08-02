@@ -18,6 +18,7 @@ This project is perfect for beginners and intermediate contributors who want han
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add "About Us" section and button to the website | Medium | [#18](https://github.com/Yash22222/BMC-Product-Reviews-Web-Scrapping-Sentiment-Analysis/issues/18) |
 | Want to Contirbute on NLP Preprocessing | Medium | [#17](https://github.com/Yash22222/BMC-Product-Reviews-Web-Scrapping-Sentiment-Analysis/issues/17) |
 | Cleaned and Preprocessed Text Data with Lemmatization | Medium | [#16](https://github.com/Yash22222/BMC-Product-Reviews-Web-Scrapping-Sentiment-Analysis/pull/16) |
 | Interested in Contributing to Visualization Module | Medium | [#15](https://github.com/Yash22222/BMC-Product-Reviews-Web-Scrapping-Sentiment-Analysis/issues/15) |
