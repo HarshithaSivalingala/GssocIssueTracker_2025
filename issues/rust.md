@@ -14,10 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create a FEATURE.md | Easy | [#58](https://github.com/0xsambit/winix/issues/58) |
 | Add GitHub Actions CI for macOS & Linux | Easy | [#47](https://github.com/0xsambit/winix/issues/47) |
 | Create macOS Homebrew Formula | Easy | [#46](https://github.com/0xsambit/winix/issues/46) |
 | Create more commands from the Linux core library | Easy | [#9](https://github.com/0xsambit/winix/issues/9) |
+| Create a FEATURE.md | Medium | [#58](https://github.com/0xsambit/winix/issues/58) |
 
 ---
 
@@ -35,15 +35,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Context in the terminal | Medium | [#35](https://github.com/VaibhavCodeClub/term/issues/35) |
+| Update the Welcome screen when there isn't any API key set | Easy | [#36](https://github.com/VaibhavCodeClub/term/issues/36) |
 | feat: Add basic markdown rendering for AI responses #21 | Medium | [#34](https://github.com/VaibhavCodeClub/term/pull/34) |
-| docs: add CONTRIBUTING.md with contribution guidelines | Medium | [#32](https://github.com/VaibhavCodeClub/term/pull/32) |
 | Create pull_request_template.md | Medium | [#31](https://github.com/VaibhavCodeClub/term/pull/31) |
 | clickable links | Medium | [#29](https://github.com/VaibhavCodeClub/term/issues/29) |
 | ci: add GitHub Actions for commitlint and DCO checks | Medium | [#25](https://github.com/VaibhavCodeClub/term/pull/25) |
 | Feature : Added support of `ls` and 'la` command | Medium | [#20](https://github.com/VaibhavCodeClub/term/pull/20) |
-| Issue template config | Medium | [#11](https://github.com/VaibhavCodeClub/term/pull/11) |
-| Create bug_report.yml | Medium | [#10](https://github.com/VaibhavCodeClub/term/pull/10) |
 
 ---
 
