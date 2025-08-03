@@ -14,18 +14,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add tests for <UserMenu> component | Easy | [#1918](https://github.com/OWASP/Nest/issues/1918) |
-| Add tests for <SearchPageLayout> component (#1887) | Medium | [#1944](https://github.com/OWASP/Nest/pull/1944) |
+| Implement automated OWASP schema publishing (PoC) | Easy | [#1949](https://github.com/OWASP/Nest/pull/1949) |
+| Add test : RecentRelease component unit test | Medium | [#1946](https://github.com/OWASP/Nest/pull/1946) |
 | Create snapshots.py | Medium | [#1941](https://github.com/OWASP/Nest/pull/1941) |
 | Add structured data to Organization pages | Medium | [#1940](https://github.com/OWASP/Nest/pull/1940) |
-| Fix #1786 Refactor slack app admin.py into separate files | Medium | [#1935](https://github.com/OWASP/Nest/pull/1935) |
 | Improve user details UX on member page (#1889) | Medium | [#1934](https://github.com/OWASP/Nest/pull/1934) |
 | added badge model | Medium | [#1929](https://github.com/OWASP/Nest/pull/1929) |
 | Test: add unit tests for BarChart component #1801 | Medium | [#1904](https://github.com/OWASP/Nest/pull/1904) |
 | Feature Sdk Generation Implemntation | Medium | [#1893](https://github.com/OWASP/Nest/pull/1893) |
 | NestBot AI Assistant Contexts | Medium | [#1891](https://github.com/OWASP/Nest/pull/1891) |
-| Header Component | Medium | [#1881](https://github.com/OWASP/Nest/pull/1881) |
-| feat: Add unit tests for MetricsCard component | Medium | [#1880](https://github.com/OWASP/Nest/pull/1880) |
 
 ---
 
@@ -43,6 +40,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Authentication & Authorization | Medium | [#44](https://github.com/indra7777/frostiq/issues/44) |
 | Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
 | Create admins.py | Medium | [#42](https://github.com/indra7777/frostiq/pull/42) |
 | Create analytics.py | Medium | [#41](https://github.com/indra7777/frostiq/pull/41) |
@@ -56,7 +54,6 @@
 | Add code_of_conduct.md | Medium | [#28](https://github.com/indra7777/frostiq/pull/28) |
 | Enhancement :  Error Handling & Validation                   (level 3) | Medium | [#27](https://github.com/indra7777/frostiq/issues/27) |
 | Create a test suite (level 3) | Medium | [#26](https://github.com/indra7777/frostiq/issues/26) |
-| Enhancement: Implement CRUD Operations,pricing , description , etc (level 3) | Medium | [#25](https://github.com/indra7777/frostiq/issues/25) |
 | Updated issue , pull request templates | Medium | [#24](https://github.com/indra7777/frostiq/pull/24) |
 
 ---
@@ -86,7 +83,6 @@
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
 | Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [#21](https://github.com/kaushav07/VisionMate/issues/21) |
 | contributors.md file is missing | Medium | [#20](https://github.com/kaushav07/VisionMate/issues/20) |
-| Add scan_logger utility for logging scans | Medium | [#19](https://github.com/kaushav07/VisionMate/pull/19) |
 | Add YOLOv8-based Object Detection with TTS Announcements | Medium | [#18](https://github.com/kaushav07/VisionMate/issues/18) |
 | Updated Readme | Medium | [#17](https://github.com/kaushav07/VisionMate/issues/17) |
 | 🚫 License Missing from Repository | Medium | [#14](https://github.com/kaushav07/VisionMate/issues/14) |
@@ -118,6 +114,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance SEO: Add meta tags, Open Graph & Twitter Cards to all pages #20 | Medium | [#34](https://github.com/Khushbudaswani/Foodbridge/pull/34) |
 | Feature Request: Login/Signup Page | Medium | [#33](https://github.com/Khushbudaswani/Foodbridge/issues/33) |
 | Feature Request: Light/Dark Mode Toggle | Medium | [#32](https://github.com/Khushbudaswani/Foodbridge/issues/32) |
 | 🐞 Bug Report: Upload Fails for Unsupported Image Formats | Medium | [#31](https://github.com/Khushbudaswani/Foodbridge/issues/31) |
@@ -147,15 +144,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Overlapping text and image in employer page and also improper alignment  of continue with google and linkedIn  in login page and also improper text visibility | Medium | [#97](https://github.com/Khushi-Nigam/jobportal/issues/97) |
-| Make Copyright Year Dynamic Across All Pages | Medium | [#96](https://github.com/Khushi-Nigam/jobportal/issues/96) |
+| while registering i can use 4 characters but while login i cant | Medium | [#102](https://github.com/Khushi-Nigam/jobportal/issues/102) |
 | Rearranged YouTube Videos Using Grid Layout | Medium | [#95](https://github.com/Khushi-Nigam/jobportal/pull/95) |
-| Add Hover Effects to Service Cards for Improved UI Interactivity | Medium | [#93](https://github.com/Khushi-Nigam/jobportal/issues/93) |
-| Adding CONTRIBUTE.md file | Medium | [#90](https://github.com/Khushi-Nigam/jobportal/issues/90) |
-| Adding CODE_OF_CONDUCT.md file | Medium | [#89](https://github.com/Khushi-Nigam/jobportal/issues/89) |
-| add animations to the index page | Medium | [#86](https://github.com/Khushi-Nigam/jobportal/issues/86) |
 | Issue 5 resolved | Medium | [#80](https://github.com/Khushi-Nigam/jobportal/pull/80) |
-| Enable Email Notification System for Job Updates | Medium | [#69](https://github.com/Khushi-Nigam/jobportal/issues/69) |
 | fix: Adding font styles in headings | Medium | [#57](https://github.com/Khushi-Nigam/jobportal/pull/57) |
 | Systemic Infosec Vulnerabilities and Codebase Anti-Patterns in Django | Medium | [#56](https://github.com/Khushi-Nigam/jobportal/issues/56) |
 | AI Powered Job Search Feature | Medium | [#55](https://github.com/Khushi-Nigam/jobportal/pull/55) |
@@ -209,6 +200,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Live Vercel deployment returns 404 - not accessible | Medium | [#189](https://github.com/ygowthamr/WhitePaper/issues/189) |
+| Duplicate "© 2025" text appears in the website footer | Medium | [#188](https://github.com/ygowthamr/WhitePaper/issues/188) |
 | Update models issue (#186) | Medium | [#187](https://github.com/ygowthamr/WhitePaper/pull/187) |
 | Issue: Remove Redundant Import of models | Medium | [#186](https://github.com/ygowthamr/WhitePaper/issues/186) |
 | Created CONTRIBUTORS.md | Medium | [#185](https://github.com/ygowthamr/WhitePaper/pull/185) |
@@ -225,8 +218,6 @@
 | Final improvements across all pages | Medium | [#169](https://github.com/ygowthamr/WhitePaper/pull/169) |
 | Contributions - Support Pages | Medium | [#166](https://github.com/ygowthamr/WhitePaper/pull/166) |
 | Enhance <head> Section with Meta Tags for Mobile Responsiveness and Accessibility | Medium | [#161](https://github.com/ygowthamr/WhitePaper/issues/161) |
-| Fix Non-Working Sign Up & Login Buttons | Medium | [#147](https://github.com/ygowthamr/WhitePaper/issues/147) |
-| Enhancing Frontend UI & Functionality with Clean, Scalable Code | Medium | [#146](https://github.com/ygowthamr/WhitePaper/issues/146) |
 
 ---
 
@@ -244,8 +235,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Husky with pre-commit hooks in both the frontend and backend codebases | Easy | [#37](https://github.com/Promptzy/Zenjira/issues/37) |
-| feat: Complete production-ready authentication system with comprehens… | Hard | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
+| Landing Page Implementation and Refactor | Easy | [#45](https://github.com/Promptzy/Zenjira/pull/45) |
 
 ---
 
