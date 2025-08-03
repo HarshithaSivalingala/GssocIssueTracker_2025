@@ -14,7 +14,6 @@
 - [Firebase Projects](firebase.md)
 - [Flask Projects](flask.md)
 - [Flutter Projects](flutter.md)
-- [Gcp Projects](gcp.md)
 - [Git Projects](git.md)
 - [Go Projects](go.md)
 - [Graphql Projects](graphql.md)
