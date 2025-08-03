@@ -16,6 +16,8 @@
 |----------|----------------|---------|
 | Fix footer spacing issue - add bottom padding to prevent content overlap | Easy | [#42](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) |
 | Improve UI Theme of Streamlit App | Easy | [#27](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/27) |
+| Integrate Gemini API for giving suggestions based on the detected mood | Medium | [#69](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/69) |
+| Enhance Camera Robustness: Add Error Handling and Shutter/Low-Light Detection | Medium | [#68](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/68) |
 | Added youtube search option for emotion | Medium | [#67](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/67) |
 | New Feature : Build Emotion Tracker Dashboard | Medium | [#66](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/66) |
 | Feature Request: Add Logging Support Across the Project | Medium | [#65](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/65) |
@@ -28,10 +30,8 @@
 | Refactored app structure, added helpers and model training script | Medium | [#54](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/54) |
 | feat(ui): Add Gradio Frontend for Emotion-Based Music Recommendation | Medium | [#48](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/48) |
 | Fixes:#2 Add DeepFace-based emotion detection with YouTube music recommendation | Medium | [#39](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/39) |
-| 🛠️ Troubleshooting / Bug Reports: Post Your Errors Here | Medium | [#22](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/22) |
 | feat(playlists): add emotion-based playlist creation functionality | Hard | [#60](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/60) |
 | Added print statement to log when video streaming starts | Hard | [#50](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) |
-| Streamlit WebRTC Fails to Capture Video on Deployment (STUN Not Working) | Hard | [#23](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/23) |
 
 ---
 
