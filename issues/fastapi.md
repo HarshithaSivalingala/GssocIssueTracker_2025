@@ -14,6 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| remove duplicate Passward Eye | Medium | [#187](https://github.com/Amarjha01/InfantCareCompass/pull/187) |
+| Removed Unnecessary white line | Medium | [#186](https://github.com/Amarjha01/InfantCareCompass/pull/186) |
+| Bug:fixed footer alignment | Medium | [#184](https://github.com/Amarjha01/InfantCareCompass/pull/184) |
+| Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
+| Changed the alignment of text at contributors page | Medium | [#177](https://github.com/Amarjha01/InfantCareCompass/pull/177) |
 | Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
 | Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 | feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
@@ -21,7 +26,6 @@
 | modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
 | updated the contributing.md file | Medium | [#152](https://github.com/Amarjha01/InfantCareCompass/pull/152) |
 | refactored the controller logic and removed issues | Medium | [#147](https://github.com/Amarjha01/InfantCareCompass/pull/147) |
-| Fixed Newsletter Subscription API Integration | Medium | [#136](https://github.com/Amarjha01/InfantCareCompass/pull/136) |
 
 ---
 
@@ -41,13 +45,11 @@
 |----------|----------------|---------|
 | Create GitHub Discussion for Known Issues and Limitations | Easy | [#106](https://github.com/Devasy23/splitwiser/issues/106) |
 | Missing Dependency in package.json | Easy | [#85](https://github.com/Devasy23/splitwiser/issues/85) |
-| Fix Web UI Functionality for npx expo start --web | Medium | [#110](https://github.com/Devasy23/splitwiser/issues/110) |
 | Implement UI Consistency and Design System Standards | Medium | [#109](https://github.com/Devasy23/splitwiser/issues/109) |
 | Add Google Sign-Up Integration to feat/group-creation Branch | Medium | [#108](https://github.com/Devasy23/splitwiser/issues/108) |
 | Migrate Icon Assets from test-frontend to feat/group-creation Branch | Medium | [#107](https://github.com/Devasy23/splitwiser/issues/107) |
 | Support Multiple Payers for Single Expense | Medium | [#104](https://github.com/Devasy23/splitwiser/issues/104) |
 | Implement Native Unequal Split Options in API | Medium | [#103](https://github.com/Devasy23/splitwiser/issues/103) |
-| Migrate Image Storage from Base64 to Firebase Cloud Storage | Medium | [#102](https://github.com/Devasy23/splitwiser/issues/102) |
 | update on : Enhance Authentication Security with Rate Limiting and Input Validation #61 | Medium | [#101](https://github.com/Devasy23/splitwiser/pull/101) |
 | Visibility and Styling of  Onboarding Screen ;Bug in verify acess_toke logic | Medium | [#100](https://github.com/Devasy23/splitwiser/issues/100) |
 | Feat/new material 3 branch | Medium | [#99](https://github.com/Devasy23/splitwiser/pull/99) |
@@ -56,38 +58,6 @@
 | cleanup debug code, TODOs, and hardcoded values (Issue #59) | Medium | [#88](https://github.com/Devasy23/splitwiser/pull/88) |
 | Update package.json | Medium | [#87](https://github.com/Devasy23/splitwiser/pull/87) |
 | Update package.json | Medium | [#86](https://github.com/Devasy23/splitwiser/pull/86) |
-
----
-
-## 📌 Project: otp authentication 
-
-📝 **Description:** an otp authentication frontend app built using fastapi and twilo and jwt tokens 
-
-🔗 [View Project](https://github.com/Harish-2003/otpauthentication)
-
-💻 **Tech Stack:** FastAPI
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
-## 📌 Project: Real-Time Disaster Dashboard 
-
-📝 **Description:** A real-time disaster management dashboard that fetches and displays live disaster data from APIs like NASA and NDMA. It helps authorities and the public stay informed through alerts, analytics, and visualizations.
-
-🔗 [View Project](https://github.com/Himanshi150/real-time-daister-project)
-
-💻 **Tech Stack:** FastAPI, Python, Streamlit, JavaScript, HTML, CSS, NASA API, NDMA API
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
@@ -105,6 +75,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Interactive Hyperparameter Tuning, Dataset Preprocessing & Performance Comparison | Medium | [#37](https://github.com/manasvi-0/AlgoLab/pull/37) |
 | Adding a CodeOfConduct.md file | Medium | [#35](https://github.com/manasvi-0/AlgoLab/issues/35) |
 | There in no link in the license | Medium | [#34](https://github.com/manasvi-0/AlgoLab/issues/34) |
 | created unsupervised_module, updated requirements.txt, integrated with app.py | Medium | [#32](https://github.com/manasvi-0/AlgoLab/pull/32) |
@@ -132,9 +103,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Removed footer from all pages except home page | Medium | [#175](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/175) |
-| Make Overall Performance Score Dynamic on Result Page | Medium | [#174](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/174) |
-| Route unknown paths to dashboard | Medium | [#173](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/173) |
+| Enhanced the sidebar for  InstitutionDashboard | Medium | [#183](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/183) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
@@ -182,13 +151,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add comprehensive unit tests for core components | Easy | [#43](https://github.com/solve-ease/OptiBlogAi/issues/43) |
-| Add "Smart Improve" Button for AI-Powered Refinement of Low-Quality Blogs | Medium | [#50](https://github.com/solve-ease/OptiBlogAi/issues/50) |
-| There is no link in the license | Medium | [#49](https://github.com/solve-ease/OptiBlogAi/issues/49) |
-| Add "Back to Top" Button | Medium | [#48](https://github.com/solve-ease/OptiBlogAi/issues/48) |
-| Hidden content and texts (UI error) | Medium | [#47](https://github.com/solve-ease/OptiBlogAi/issues/47) |
-| Add AI Chatbot for Content, SEO, and Storytelling Assistance | Medium | [#46](https://github.com/solve-ease/OptiBlogAi/issues/46) |
-| Add Dark/Light Theme Toggle Functionality | Medium | [#45](https://github.com/solve-ease/OptiBlogAi/issues/45) |
+| Added link to license in README | Medium | [#51](https://github.com/solve-ease/OptiBlogAi/pull/51) |
 | Reolved the issue of the redirection of the links | Medium | [#44](https://github.com/solve-ease/OptiBlogAi/pull/44) |
 | Automated FAQ/Q&A Generation for Blog Posts | Medium | [#40](https://github.com/solve-ease/OptiBlogAi/issues/40) |
 | Automated FAQ/Q&A Generation for Blog Posts | Medium | [#38](https://github.com/solve-ease/OptiBlogAi/issues/38) |
@@ -250,9 +213,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update README.md | Medium | [#27](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/27) |
+| test issue | Medium | [#31](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/31) |
+| Added The test suite | Medium | [#30](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/30) |
+| 📌 Feature Request: Add a Gallery Section to the Website | Medium | [#29](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/29) |
 | Add Skeleton Loaders to Dashboard Pages | Medium | [#25](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/25) |
-| Update README.md | Medium | [#14](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/14) |
 | Add Support for Asterisk as a Telephony Backend | Hard | [#24](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/24) |
 | Allow Users to Select a TTS Voice for Each Agent | Hard | [#23](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/23) |
 | Build UI for Call Campaign Management (MVP) | Hard | [#20](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/20) |
@@ -300,6 +264,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🧪 Add Comprehensive Testing Suite | Easy | [#8](https://github.com/skdas20/Synapse/issues/8) |
 | 📚 Improve API Documentation with Examples | Easy | [#5](https://github.com/skdas20/Synapse/issues/5) |
 | 🎨 Improve Mobile Responsiveness | Easy | [#1](https://github.com/skdas20/Synapse/issues/1) |
+| Documentation : Add Code Of Conduct File to project | Medium | [#16](https://github.com/skdas20/Synapse/issues/16) |
 | Fix Sidebar Closing Animation & State Toggle | Medium | [#15](https://github.com/skdas20/Synapse/issues/15) |
 | Missing of favicon in browser | Medium | [#14](https://github.com/skdas20/Synapse/issues/14) |
 | Fix: Sidebar collapse on mobile, responsive modals, improved spacing | Medium | [#13](https://github.com/skdas20/Synapse/pull/13) |
@@ -327,6 +292,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Smooth Animations and Transitions to UI | Medium | [#6](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/6) |
+| Documentation : Add Code Of Conduct File to project | Medium | [#5](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/5) |
 | Modern UI/UX Enhancements for DORA – Smarter Design for a Smarter Assistant | Medium | [#4](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/4) |
 | Add ai  bot | Medium | [#3](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/3) |
 | Build a Proper Homepage, Navbar & Footer for DORA | Medium | [#2](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/2) |
