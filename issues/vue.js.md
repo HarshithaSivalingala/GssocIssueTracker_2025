@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Authentication & Authorization | Medium | [#44](https://github.com/indra7777/frostiq/issues/44) |
 | Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
 | Create admins.py | Medium | [#42](https://github.com/indra7777/frostiq/pull/42) |
 | Create analytics.py | Medium | [#41](https://github.com/indra7777/frostiq/pull/41) |
@@ -27,7 +28,6 @@
 | Add code_of_conduct.md | Medium | [#28](https://github.com/indra7777/frostiq/pull/28) |
 | Enhancement :  Error Handling & Validation                   (level 3) | Medium | [#27](https://github.com/indra7777/frostiq/issues/27) |
 | Create a test suite (level 3) | Medium | [#26](https://github.com/indra7777/frostiq/issues/26) |
-| Enhancement: Implement CRUD Operations,pricing , description , etc (level 3) | Medium | [#25](https://github.com/indra7777/frostiq/issues/25) |
 | Updated issue , pull request templates | Medium | [#24](https://github.com/indra7777/frostiq/pull/24) |
 
 ---
