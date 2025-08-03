@@ -14,12 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🧑‍💻: Navbar icons not visible in tutorial section. | Medium | [#1314](https://github.com/vishanurag/Canvas-Editor/issues/1314) |
-| changes font color | Medium | [#1313](https://github.com/vishanurag/Canvas-Editor/pull/1313) |
-| 🧑‍💻: [Enhancement] improve footer section in about page | Medium | [#1311](https://github.com/vishanurag/Canvas-Editor/issues/1311) |
-| 🧑‍💻: UI Enhancement for contributer page | Medium | [#1308](https://github.com/vishanurag/Canvas-Editor/issues/1308) |
-| UI successfully improved | Medium | [#1306](https://github.com/vishanurag/Canvas-Editor/pull/1306) |
 | Feat:  Adding "remember me" to the signup and signin page connecting it to the local storage database for user authentication. | Medium | [#1190](https://github.com/vishanurag/Canvas-Editor/issues/1190) |
+| 🧑‍💻:  change  layout of the website | Medium | [#1132](https://github.com/vishanurag/Canvas-Editor/issues/1132) |
 
 ---
 
@@ -41,15 +37,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding Testimonial Section | Medium | [#90](https://github.com/gyanshankar1708/GrowCraft/issues/90) |
-| Feature Request: Add Search Functionality & Trending Blogs Section | Medium | [#89](https://github.com/gyanshankar1708/GrowCraft/issues/89) |
-| Restructuring *Service* and *Our Work* Sections , Header Navigation for Better Clarity | Medium | [#88](https://github.com/gyanshankar1708/GrowCraft/issues/88) |
-| Fixed Graphic Design Component-box  Size | Medium | [#87](https://github.com/gyanshankar1708/GrowCraft/pull/87) |
-| Adding FAQS Section | Medium | [#86](https://github.com/gyanshankar1708/GrowCraft/issues/86) |
+| Remove unnecessary checkbox from navbar on Home page | Medium | [#105](https://github.com/gyanshankar1708/GrowCraft/issues/105) |
+| Add spacing between buttons on the service page for better UI clarity | Medium | [#104](https://github.com/gyanshankar1708/GrowCraft/issues/104) |
+| Refactor: static buttons in carousel for better UX and cleaner markup with improved background overlay. | Medium | [#100](https://github.com/gyanshankar1708/GrowCraft/pull/100) |
+| Our Work section's , the Graphic Design section is now properly aligned with the other two sections span tags | Medium | [#98](https://github.com/gyanshankar1708/GrowCraft/pull/98) |
 | Fixed : Section card layout and hovering | Medium | [#85](https://github.com/gyanshankar1708/GrowCraft/pull/85) |
-| Seperated the files #51 | Medium | [#69](https://github.com/gyanshankar1708/GrowCraft/pull/69) |
-| Enhanced contact us section #28 issue | Medium | [#48](https://github.com/gyanshankar1708/GrowCraft/pull/48) |
-| Adding a CONTRIBUTING.md file to project | Medium | [#42](https://github.com/gyanshankar1708/GrowCraft/issues/42) |
 
 ---
 
@@ -68,9 +60,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding hover effect in the Reviews section | Medium | [#31](https://github.com/Pujan-sarkar/FARMLOC/issues/31) |
+| Enhancing hover effect in footer | Medium | [#28](https://github.com/Pujan-sarkar/FARMLOC/issues/28) |
 | UI Improvements: FAQ Scroll, Review Hover Effect, Side Scroll for Reviews, and Contact Section | Medium | [#24](https://github.com/Pujan-sarkar/FARMLOC/issues/24) |
 | Add a Back to Top icon | Medium | [#20](https://github.com/Pujan-sarkar/FARMLOC/issues/20) |
-| Add Favicon to Website | Medium | [#19](https://github.com/Pujan-sarkar/FARMLOC/issues/19) |
 
 ---
 
@@ -88,15 +81,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Code of Conduct file | Medium | [#99](https://github.com/sachiva1/sachiva/pull/99) |
+| Modified Client Section | Medium | [#98](https://github.com/sachiva1/sachiva/pull/98) |
+| Refactor CSS Architecture and Remove Code Duplication (#42) | Medium | [#97](https://github.com/sachiva1/sachiva/pull/97) |
+| Accessibility/wcag 2.1 compliance issue 38 updated | Medium | [#84](https://github.com/sachiva1/sachiva/pull/84) |
 | Issue 42 css refactor architecture | Medium | [#82](https://github.com/sachiva1/sachiva/pull/82) |
-| Issue 41 mobile responsiveness | Medium | [#81](https://github.com/sachiva1/sachiva/pull/81) |
-| Issue 39 performance optimization | Medium | [#80](https://github.com/sachiva1/sachiva/pull/80) |
 | Issue #40 dark mode enhancement | Medium | [#79](https://github.com/sachiva1/sachiva/pull/79) |
 | Issue 38 accessibility wcag | Medium | [#78](https://github.com/sachiva1/sachiva/pull/78) |
-| Dark mode in all tabs | Medium | [#77](https://github.com/sachiva1/sachiva/issues/77) |
 | Quicklinks #57 | Medium | [#75](https://github.com/sachiva1/sachiva/pull/75) |
 | adding scroll to top button | Medium | [#71](https://github.com/sachiva1/sachiva/issues/71) |
-| Enhanced dark mode support for all components and improved theme transitions | Medium | [#68](https://github.com/sachiva1/sachiva/pull/68) |
 
 ---
 
