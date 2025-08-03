@@ -25,7 +25,6 @@
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
 | Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [#21](https://github.com/kaushav07/VisionMate/issues/21) |
 | contributors.md file is missing | Medium | [#20](https://github.com/kaushav07/VisionMate/issues/20) |
-| Add scan_logger utility for logging scans | Medium | [#19](https://github.com/kaushav07/VisionMate/pull/19) |
 | Add YOLOv8-based Object Detection with TTS Announcements | Medium | [#18](https://github.com/kaushav07/VisionMate/issues/18) |
 | Updated Readme | Medium | [#17](https://github.com/kaushav07/VisionMate/issues/17) |
 | 🚫 License Missing from Repository | Medium | [#14](https://github.com/kaushav07/VisionMate/issues/14) |
@@ -80,10 +79,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Show Preview of Uploaded Image before Submission. | Medium | [#191](https://github.com/Prateek9876/NagarVikas/pull/191) |
-| Enhance empty state UI with illustration and fade-in animation (#153) | Medium | [#190](https://github.com/Prateek9876/NagarVikas/pull/190) |
 | Lib folder restructured and import issue fixed | Medium | [#187](https://github.com/Prateek9876/NagarVikas/pull/187) |
 | Improved ui in Contact us and Feedback Page #181 Level 2 | Medium | [#182](https://github.com/Prateek9876/NagarVikas/pull/182) |
+| Show Preview of Uploaded Image before Submission. | Hard | [#191](https://github.com/Prateek9876/NagarVikas/pull/191) |
 | Added Star/Favorite to Complaints (Admin) #64 Level 3 | Hard | [#186](https://github.com/Prateek9876/NagarVikas/pull/186) |
 | Add push notification feature to admin dashboard whenever new complaint is filed by user | Hard | [#127](https://github.com/Prateek9876/NagarVikas/issues/127) |
 
@@ -103,7 +101,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
 
 ---
@@ -142,14 +139,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Underline in the Privacy Policy & Terms | Medium | [#67](https://github.com/VJLIVE/Athletix/issues/67) |
-| Forgot password feature in login screen | Medium | [#66](https://github.com/VJLIVE/Athletix/issues/66) |
-| Improve Documentation: README.md + CONTRIBUTING.md Enhancements | Medium | [#65](https://github.com/VJLIVE/Athletix/issues/65) |
-| Add Filter & Search Functionality for Tournaments and Logs | Medium | [#64](https://github.com/VJLIVE/Athletix/issues/64) |
-| Add Empty State UI for No Performance Records | Medium | [#63](https://github.com/VJLIVE/Athletix/issues/63) |
 | Optimize Splash Screen Performance with Authentication Check in Parallel with Animation | Medium | [#60](https://github.com/VJLIVE/Athletix/issues/60) |
 | Solved issues in performance tracking | Medium | [#55](https://github.com/VJLIVE/Athletix/pull/55) |
 | fixed add players for organizations . | Medium | [#50](https://github.com/VJLIVE/Athletix/pull/50) |
+| feature : Implement Profile Picture Upload | Hard | [#7](https://github.com/VJLIVE/Athletix/issues/7) |
 
 ---
 
@@ -167,7 +160,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added a status field to the schema to track account status | Medium | [#116](https://github.com/Yash159357/BREVITY/pull/116) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
 
 ---
@@ -190,25 +182,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Theme setup (Material 3 - dark/light toggle) | Easy | [#2](https://github.com/GDSC-Kanpur-Institiute-of-Technolgy/FieldTrace/issues/2) |
+| Add dark/light switch ✅ | Medium | [#9](https://github.com/GDSC-Kanpur-Institiute-of-Technolgy/FieldTrace/pull/9) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#8](https://github.com/GDSC-Kanpur-Institiute-of-Technolgy/FieldTrace/issues/8) |
 | Add mit license file to the project | Medium | [#7](https://github.com/GDSC-Kanpur-Institiute-of-Technolgy/FieldTrace/issues/7) |
-
----
-
-## 📌 Project: Intellicash
-
-📝 **Description:** Intellicash is a next-gen personal finance platform powered by Google Cloud services including Firebase, Vertex Al, and Fi Money's MCP server, delivering enterprise-grade financial intelligence with consumer simplicity
-
-🔗 [View Project](https://github.com/Sudoerz/IntelliCash)
-
-💻 **Tech Stack:** Flutter, Python, Golang, GCP
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
