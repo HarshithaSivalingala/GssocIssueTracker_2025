@@ -71,11 +71,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| gssoc/added testimonials-slider | Medium | [#281](https://github.com/Muneerali199/DocMagic/pull/281) |
-| fix: This PR resolves a crash that occurred when navigating back to the /settings page. | Medium | [#280](https://github.com/Muneerali199/DocMagic/pull/280) |
-| Enhanced the features section at home page and made it engaging | Medium | [#279](https://github.com/Muneerali199/DocMagic/pull/279) |
+| Add Testimonials Section to Homepage | Medium | [#283](https://github.com/Muneerali199/DocMagic/pull/283) |
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
-| Added responsive footer with light and dark theme support | Medium | [#276](https://github.com/Muneerali199/DocMagic/pull/276) |
 | Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
 | Added 10 Templates for Resume, Cover Letter, and Presentations | Medium | [#261](https://github.com/Muneerali199/DocMagic/pull/261) |
 | chore(deps): bump bcryptjs and @types/bcryptjs | Medium | [#258](https://github.com/Muneerali199/DocMagic/pull/258) |
@@ -105,7 +102,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | AI-Powered Interview Summary Generator 🧠 | Medium | [#9](https://github.com/byteom/Interview01/issues/9) |
-| Applied color change, underline on hover, smooth transitions while en… | Medium | [#8](https://github.com/byteom/Interview01/pull/8) |
 | UI Design Bug Report: Inconsistent Box Colors, Misaligned Cards, and Messy Icons | Medium | [#7](https://github.com/byteom/Interview01/issues/7) |
 | To smoothen the hover effect | Medium | [#6](https://github.com/byteom/Interview01/issues/6) |
 | Add Advanced "Company + Topic Wise Dashboard" with Filters, Progress Tracking, and Daily Planner | Medium | [#5](https://github.com/byteom/Interview01/issues/5) |
@@ -127,6 +123,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Double password fields | Easy | [#65](https://github.com/sristy17/next-payroll/issues/65) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
 | Adding payment page | Medium | [#62](https://github.com/sristy17/next-payroll/pull/62) |
 | Create Add Payment system | Medium | [#50](https://github.com/sristy17/next-payroll/pull/50) |
@@ -149,10 +146,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added clickable MIT License link in README | Medium | [#30](https://github.com/LarytheLord/Adventurers-Guild/pull/30) |
-| Making Navigation Bar Responsive and Adding Home Button in NavBar | Medium | [#29](https://github.com/LarytheLord/Adventurers-Guild/issues/29) |
+| Added go to top and dark mode toggle button | Medium | [#39](https://github.com/LarytheLord/Adventurers-Guild/pull/39) |
+| Add Trusted Partners and Organizations section to Home page and Main page | Medium | [#38](https://github.com/LarytheLord/Adventurers-Guild/pull/38) |
+| UI Enhancement: Revamp and Polish Website Footer Section | Medium | [#37](https://github.com/LarytheLord/Adventurers-Guild/issues/37) |
+| First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
+| Moved the Skill Development tree from Main Page to Home Page and Pull request to Home Branch | Medium | [#32](https://github.com/LarytheLord/Adventurers-Guild/pull/32) |
 | Developed Skill Development Tree and Complete Quest | Medium | [#28](https://github.com/LarytheLord/Adventurers-Guild/pull/28) |
-| feat: add email enrollment system with nodemailer | Medium | [#27](https://github.com/LarytheLord/Adventurers-Guild/pull/27) |
 | Homepage layout and styling inconsistencies need refinement | Medium | [#18](https://github.com/LarytheLord/Adventurers-Guild/issues/18) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#11](https://github.com/LarytheLord/Adventurers-Guild/issues/11) |
 
@@ -172,7 +171,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add `.env.example` file and clarify environment variable setup in README | Medium | [#8](https://github.com/Jyotibrat/AI-Flow/issues/8) |
+| Added Image Generation feature | Medium | [#13](https://github.com/Jyotibrat/AI-Flow/pull/13) |
+| No feedback message shown when AI tool search returns no results | Medium | [#12](https://github.com/Jyotibrat/AI-Flow/issues/12) |
+| Output editor does not reset when switching between AI tools | Medium | [#11](https://github.com/Jyotibrat/AI-Flow/issues/11) |
+| Updated README with environment setup instructions | Medium | [#10](https://github.com/Jyotibrat/AI-Flow/pull/10) |
+| Enhance FormattedOutput styling and add buttons; update AITools integ… | Medium | [#9](https://github.com/Jyotibrat/AI-Flow/pull/9) |
 
 ---
 
@@ -190,14 +193,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
+| Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
+| Feat: Connecting All Sharks CSV file with all Features | Medium | [#59](https://github.com/Ojas-Arora/SapneSeSafar/issues/59) |
+| add MIT License file to the project | Medium | [#58](https://github.com/Ojas-Arora/SapneSeSafar/pull/58) |
 | Bump three from 0.161.0 to 0.179.0 | Medium | [#57](https://github.com/Ojas-Arora/SapneSeSafar/pull/57) |
 | Bump lucide-react from 0.344.0 to 0.536.0 | Medium | [#56](https://github.com/Ojas-Arora/SapneSeSafar/pull/56) |
-| DOC: Add Code Of Conduct File to project | Medium | [#55](https://github.com/Ojas-Arora/SapneSeSafar/issues/55) |
 | Bump zustand from 4.5.6 to 5.0.7 | Medium | [#54](https://github.com/Ojas-Arora/SapneSeSafar/pull/54) |
 | Bump typescript from 5.6.3 to 5.9.2 | Medium | [#53](https://github.com/Ojas-Arora/SapneSeSafar/pull/53) |
 | Bump framer-motion from 11.18.2 to 12.23.12 | Medium | [#51](https://github.com/Ojas-Arora/SapneSeSafar/pull/51) |
-| DOC:add mit license file to the project | Medium | [#50](https://github.com/Ojas-Arora/SapneSeSafar/issues/50) |
-| ML Model for Deal Success Prediction | Medium | [#49](https://github.com/Ojas-Arora/SapneSeSafar/issues/49) |
 | Bump react-dom and @types/react-dom | Medium | [#47](https://github.com/Ojas-Arora/SapneSeSafar/pull/47) |
 | Bump react and @types/react | Medium | [#46](https://github.com/Ojas-Arora/SapneSeSafar/pull/46) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.53.0 | Medium | [#44](https://github.com/Ojas-Arora/SapneSeSafar/pull/44) |
@@ -276,6 +280,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Functional Navigation in Navbar | Medium | [#5](https://github.com/Shantanu-Tiwari/TLDRify/issues/5) |
 | Documentation : Updating README.md File for Better Project Documentation | Medium | [#4](https://github.com/Shantanu-Tiwari/TLDRify/issues/4) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/Shantanu-Tiwari/TLDRify/issues/3) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#2](https://github.com/Shantanu-Tiwari/TLDRify/issues/2) |
