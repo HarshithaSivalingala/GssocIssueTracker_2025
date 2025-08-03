@@ -39,6 +39,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| adjusted Delete Message function | Medium | [#114](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/114) |
+| feat/add GitHub Actions for auto-Doxygen on merge | Medium | [#113](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/113) |
 | delete function | Medium | [#110](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/110) |
 | list message logs function | Medium | [#109](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/109) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
@@ -63,9 +65,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Iterator Support for Modern C++ | Medium | [#17](https://github.com/SharonIV0x86/CinderPeak/issues/17) |
+| feat(graph): Add Iterator Support for Graphs traversal. | Medium | [#17](https://github.com/SharonIV0x86/CinderPeak/issues/17) |
 | Added Contributor Covenant Code of Conduct for community standards | Medium | [#14](https://github.com/SharonIV0x86/CinderPeak/pull/14) |
-| feat(docs): Write documentation and working for Hybrid CSR-COO storage format. | Medium | [#13](https://github.com/SharonIV0x86/CinderPeak/issues/13) |
 
 ---
 
@@ -83,12 +84,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
+| Improve FAQ Section with Expandable Answers | Easy | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
 | Adding Chatbot for movie Reccomendations | Easy | [#4](https://github.com/Aqsa4066/netflixclone/issues/4) |
-| UI Improvements: Header Alignment & FAQ Background Styling | Medium | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
-| UI Improvements: Header Alignment & FAQ Background Styling | Medium | [#44](https://github.com/Aqsa4066/netflixclone/pull/44) |
-| Improve FAQ Section with Expandable Answers | Medium | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
-| Enhance the Design and Navigation of the Page Footer Section | Medium | [#42](https://github.com/Aqsa4066/netflixclone/issues/42) |
-| Fixed sign in button | Medium | [#40](https://github.com/Aqsa4066/netflixclone/pull/40) |
+| Added Code of conduct file | Medium | [#52](https://github.com/Aqsa4066/netflixclone/pull/52) |
+| Feature: Add Functional Language Support / Translation Toggle (English-Hindi) | Medium | [#51](https://github.com/Aqsa4066/netflixclone/issues/51) |
+| Improve overall UI of the website for a better user experience | Medium | [#50](https://github.com/Aqsa4066/netflixclone/issues/50) |
+| Enhanced FAQ section [ Issue - #43 ] | Medium | [#49](https://github.com/Aqsa4066/netflixclone/pull/49) |
+| Improve Alt Text, Add Image Placeholders & Fix Broken Screenshot | Medium | [#48](https://github.com/Aqsa4066/netflixclone/issues/48) |
+| Added alt text for all the images | Medium | [#47](https://github.com/Aqsa4066/netflixclone/pull/47) |
+| Fix: Improve Hero Section Readability (Issue #36) | Medium | [#46](https://github.com/Aqsa4066/netflixclone/pull/46) |
 | Website Layout Broken- Please review Recent Changes | Medium | [#31](https://github.com/Aqsa4066/netflixclone/issues/31) |
 | Create sticky, responsive navbar with layout, spacing, and hover effect. | Medium | [#29](https://github.com/Aqsa4066/netflixclone/pull/29) |
 | Website Ruined | Medium | [#26](https://github.com/Aqsa4066/netflixclone/issues/26) |
@@ -104,8 +109,6 @@
 | Improved Navbar | Medium | [#6](https://github.com/Aqsa4066/netflixclone/issues/6) |
 | Improve Header and Footer Structure for Accessibility & SEO | Medium | [#5](https://github.com/Aqsa4066/netflixclone/issues/5) |
 | Add a Responsive Header Section to the Netflix Clone | Medium | [#3](https://github.com/Aqsa4066/netflixclone/issues/3) |
-| for creating or improving the README.md file | Medium | [#2](https://github.com/Aqsa4066/netflixclone/issues/2) |
-| Improve the readme of this project | Medium | [#1](https://github.com/Aqsa4066/netflixclone/issues/1) |
 
 ---
 
