@@ -229,7 +229,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Navigation is not correct for view all services button. | Medium | [#101](https://github.com/AyushSharma72/Skill_Trade/issues/101) |
 | animations and bg color fixed | Medium | [#88](https://github.com/AyushSharma72/Skill_Trade/pull/88) |
 
 ---
