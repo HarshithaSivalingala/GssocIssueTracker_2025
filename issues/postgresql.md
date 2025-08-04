@@ -241,22 +241,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
-## 📌 Project: Project Xangoes
-
-📝 **Description:** A comprehensive full-stack system for managing college fests and events, designed to centralize event management, registration handling, and transaction tracking for educational institutions.
-
-🔗 [View Project](https://github.com/dscnitrourkela/project-xangoes)
-
-💻 **Tech Stack:** Next.js, React, React DOM, TypeScript, Bun, Tailwind CSS, PostCSS, ESLint, Turbopack, Hono, PostgreSQL, Drizzle ORM, Drizzle Kit, Zod, dotenv, TSX, Git, Node.js, pg
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: DevMatchups
 
 📝 **Description:** DevMatchups is a fullstack web platform which enables developes to connect together and form teams for hackathons. It solves the core problem of finding team or team mates for any hackathon. Users can explore all the hackathons from various websites at one place. Users can create dynamic profiles based on their resume.
