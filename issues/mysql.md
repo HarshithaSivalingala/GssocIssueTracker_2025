@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement comprehensive global exception handling system for FastAPI backend #21 | Medium | [#45](https://github.com/indra7777/frostiq/pull/45) |
 | Add Authentication & Authorization | Medium | [#44](https://github.com/indra7777/frostiq/issues/44) |
 | Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
 | Create admins.py | Medium | [#42](https://github.com/indra7777/frostiq/pull/42) |
@@ -88,18 +89,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Hover Effects and Color Change to Available Cards | Medium | [#24](https://github.com/Naveenkumar30838/Housify/issues/24) |
-| Add User Profile Section to View and Manage Bookings, Saved Properties, and Account Details | Medium | [#23](https://github.com/Naveenkumar30838/Housify/issues/23) |
-| Add Footer Section with Contact Information, Social Media Links, and Location | Medium | [#22](https://github.com/Naveenkumar30838/Housify/issues/22) |
-| Add Favicon to Housify Rental Property Website | Medium | [#21](https://github.com/Naveenkumar30838/Housify/issues/21) |
+| Improve Mobile Responsiveness of the Rental Property Web App Using TailwindCSS | Medium | [#27](https://github.com/Naveenkumar30838/Housify/issues/27) |
 | Missing a CodeOfConduct.md file | Medium | [#20](https://github.com/Naveenkumar30838/Housify/issues/20) |
 | REFRACTOR: Add controllers and router | Medium | [#19](https://github.com/Naveenkumar30838/Housify/issues/19) |
 | FEATURE REQUEST: Add a CONTRIBUTING.md to guide new contributors | Medium | [#18](https://github.com/Naveenkumar30838/Housify/issues/18) |
-| Enhancement: Make Navbar Sticky on Scroll | Medium | [#17](https://github.com/Naveenkumar30838/Housify/issues/17) |
-| There is no error handling for backend | Medium | [#16](https://github.com/Naveenkumar30838/Housify/issues/16) |
 | Added wishlist feature | Medium | [#15](https://github.com/Naveenkumar30838/Housify/pull/15) |
-| Add product catalog data integration and search interface with dynamic filtering | Medium | [#11](https://github.com/Naveenkumar30838/Housify/issues/11) |
-| Add a License File to the Project | Medium | [#8](https://github.com/Naveenkumar30838/Housify/issues/8) |
 
 ---
 
@@ -159,10 +153,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| There is no link in the mit license and in the code also there is no license present. | Medium | [#26](https://github.com/sachiikrish/AttendanceTracker/issues/26) |
+| Typo in placeholder text of the email input field on the Sign-Up form | Medium | [#25](https://github.com/sachiikrish/AttendanceTracker/issues/25) |
 | Updated dashboard and index UI | Medium | [#24](https://github.com/sachiikrish/AttendanceTracker/pull/24) |
 | Want to make no.of subjects dynamic. | Medium | [#23](https://github.com/sachiikrish/AttendanceTracker/issues/23) |
 | UI/Improve: Redesign and Enhance Overall Homepage Layout for Better First Impression | Medium | [#22](https://github.com/sachiikrish/AttendanceTracker/issues/22) |
-| Feature/password reveal | Medium | [#21](https://github.com/sachiikrish/AttendanceTracker/pull/21) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#20](https://github.com/sachiikrish/AttendanceTracker/issues/20) |
 | 🚫 License Missing from Repository | Medium | [#19](https://github.com/sachiikrish/AttendanceTracker/issues/19) |
 | ADDING MORE INFO TO HOME PAGE | Medium | [#18](https://github.com/sachiikrish/AttendanceTracker/issues/18) |
