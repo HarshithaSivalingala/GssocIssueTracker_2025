@@ -74,6 +74,7 @@ Accessibility features like dark mode,white.
 | AI Career Roadmap Generator (from Interests) | Easy | [#178](https://github.com/abhisek2004/Dev-Elevate/issues/178) |
 | 🐞 Bug Report: Study Buddy AI Chat Categories Not Working | Easy | [#168](https://github.com/abhisek2004/Dev-Elevate/issues/168) |
 | Feature Request: Build a Full Interactive “Learning Hub Data Structures & Algorithms 6 modules • Interactive learning” 📘📚 | Easy | [#167](https://github.com/abhisek2004/Dev-Elevate/issues/167) |
+| Update axios instance to use dynamic base URL from config | Medium | [#226](https://github.com/abhisek2004/Dev-Elevate/pull/226) |
 | Recovered pr branch | Medium | [#224](https://github.com/abhisek2004/Dev-Elevate/pull/224) |
 | Jwt newsletter | Medium | [#221](https://github.com/abhisek2004/Dev-Elevate/pull/221) |
 | 🌟 [Feature Proposal] Add Community Forum / Q&A Section for Learner Support | Medium | [#218](https://github.com/abhisek2004/Dev-Elevate/issues/218) |
@@ -780,22 +781,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/Gssoc-2025/co-supply-ai/issues/3) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#2](https://github.com/Gssoc-2025/co-supply-ai/issues/2) |
 | 🚫 License Missing from Repository | Medium | [#1](https://github.com/Gssoc-2025/co-supply-ai/issues/1) |
-
----
-
-## 📌 Project: Project Xangoes
-
-📝 **Description:** A comprehensive full-stack system for managing college fests and events, designed to centralize event management, registration handling, and transaction tracking for educational institutions.
-
-🔗 [View Project](https://github.com/dscnitrourkela/project-xangoes)
-
-💻 **Tech Stack:** Next.js, React, React DOM, TypeScript, Bun, Tailwind CSS, PostCSS, ESLint, Turbopack, Hono, PostgreSQL, Drizzle ORM, Drizzle Kit, Zod, dotenv, TSX, Git, Node.js, pg
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
