@@ -12,10 +12,7 @@
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Code of Conduct file | Medium | [#17](https://github.com/CharithaReddy18/AI-health-chatbot/pull/17) |
-| Create CONTRIBUTING.md | Medium | [#16](https://github.com/CharithaReddy18/AI-health-chatbot/pull/16) |
+_No unassigned issues._
 
 ---
 
