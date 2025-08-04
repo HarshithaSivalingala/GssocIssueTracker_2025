@@ -14,9 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: fixed the rotating star above the hero section text and changed the UI of the hero section for a smoother UI. | Medium | [#198](https://github.com/Amarjha01/InfantCareCompass/pull/198) |
+| loader added | Medium | [#196](https://github.com/Amarjha01/InfantCareCompass/pull/196) |
+| Added favicon | Medium | [#194](https://github.com/Amarjha01/InfantCareCompass/pull/194) |
+| Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 | remove duplicate Passward Eye | Medium | [#187](https://github.com/Amarjha01/InfantCareCompass/pull/187) |
-| Removed Unnecessary white line | Medium | [#186](https://github.com/Amarjha01/InfantCareCompass/pull/186) |
-| Bug:fixed footer alignment | Medium | [#184](https://github.com/Amarjha01/InfantCareCompass/pull/184) |
 | Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
 | Changed the alignment of text at contributors page | Medium | [#177](https://github.com/Amarjha01/InfantCareCompass/pull/177) |
 | Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
@@ -25,7 +27,6 @@
 | Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
 | modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
 | updated the contributing.md file | Medium | [#152](https://github.com/Amarjha01/InfantCareCompass/pull/152) |
-| refactored the controller logic and removed issues | Medium | [#147](https://github.com/Amarjha01/InfantCareCompass/pull/147) |
 
 ---
 
@@ -66,6 +67,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding Global Error Handling and 404 Route Handler to Express Server | Medium | [#22](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/22) |
 | This file consists of all the required versions of tech that has been used in the project | Medium | [#18](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/18) |
 
 ---
@@ -119,14 +121,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| There is no license in the code | Medium | [#25](https://github.com/AditixAnand/Garbage_Classification/issues/25) |
-| Added real-time waste classification with webcam using streamlit and Flask | Medium | [#24](https://github.com/AditixAnand/Garbage_Classification/pull/24) |
-| Modularize code from notebooks into Python scripts | Medium | [#23](https://github.com/AditixAnand/Garbage_Classification/issues/23) |
-| added code showing how k-fold cross validation will increase accuracy | Medium | [#19](https://github.com/AditixAnand/Garbage_Classification/pull/19) |
-| Feature: Missing UI | Medium | [#15](https://github.com/AditixAnand/Garbage_Classification/issues/15) |
-| Add requirements.txt for project dependency management | Medium | [#12](https://github.com/AditixAnand/Garbage_Classification/pull/12) |
-| Add LICENSE File | Medium | [#10](https://github.com/AditixAnand/Garbage_Classification/issues/10) |
-| Request for Dataset Link | Medium | [#9](https://github.com/AditixAnand/Garbage_Classification/issues/9) |
+| Readme Fully Completed Issue # 11 | Medium | [#34](https://github.com/AditixAnand/Garbage_Classification/pull/34) |
 
 ---
 
