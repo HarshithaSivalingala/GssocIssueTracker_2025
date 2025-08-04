@@ -373,22 +373,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: Project Xangoes
-
-📝 **Description:** A comprehensive full-stack system for managing college fests and events, designed to centralize event management, registration handling, and transaction tracking for educational institutions.
-
-🔗 [View Project](https://github.com/dscnitrourkela/project-xangoes)
-
-💻 **Tech Stack:** Next.js, React, React DOM, TypeScript, Bun, Tailwind CSS, PostCSS, ESLint, Turbopack, Hono, PostgreSQL, Drizzle ORM, Drizzle Kit, Zod, dotenv, TSX, Git, Node.js, pg
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: LegalHuB AI-Powered Legal Help Platform
 
 📝 **Description:** LegalHuB is an AI-powered legal assistance platform designed to help users access legal information quickly and easily. It features a smart legal search engine, a legal dictionary, and state-specific document templates. Integrated with Chatbase AI, the platform enables intelligent responses to user queries while ensuring fast, reliable document retrieval.
@@ -433,22 +417,6 @@ _No unassigned issues._
 
 ---
 
-## 📌 Project: rescuegrid - AI powered disaster management platform
-
-📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
-
-🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
-
-💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, GitHub, Google Maps API, Postman
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: SQL ChatBot: Query Any Database Using Natural Language
 
 📝 **Description:** The SQL ChatBot is an intelligent assistant that allows users to interact with structured databases using natural language. Users can upload a CSV file or connect to an SQL/MongoDB database and ask questions like Show total sales in January, and the bot generates the SQL/Mongo query, executes it, and returns results with an explanation.
@@ -489,23 +457,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added About Us Section | Medium | [#8](https://github.com/lovelymahor/StudyMatePlus/pull/8) |
 | Add syllabus page with the mock data | Medium | [#6](https://github.com/lovelymahor/StudyMatePlus/issues/6) |
-
----
-
-## 📌 Project: RescueGrid AI-Powered Disaster Management Platform. etc.
-
-📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
-
-🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
-
-💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, Express.js, GitHub, Google Maps API, AI/ML, Postman
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
