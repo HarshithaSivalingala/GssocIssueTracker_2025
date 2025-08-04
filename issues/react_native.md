@@ -140,22 +140,6 @@
 
 ---
 
-## 📌 Project: Doctrinix
-
-📝 **Description:** Doctrix - Doctor Appointment Booking App Doctrix is a smart and user-friendly doctor appointment booking app designed to simplify healthcare access for everyone. The app allows users to sign up and sign in securely, providing personalized access to healthcare services. With features ranging from doctor selection and medicine ordering to profile management, Doctrix offers a seamless digital healthcare experience.
-
-🔗 [View Project](https://github.com/lalitsingh789/doctor-app)
-
-💻 **Tech Stack:** React Native, MongoDB, Node.js
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: noir
 
 📝 **Description:** a GitHub powered notes app
