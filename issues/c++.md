@@ -39,10 +39,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| adjusted Delete Message function | Medium | [#114](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/114) |
-| feat/add GitHub Actions for auto-Doxygen on merge | Medium | [#113](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/113) |
-| delete function | Medium | [#110](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/110) |
-| list message logs function | Medium | [#109](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/109) |
+| list message logs function | Medium | [#118](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/118) |
+| Delete message function | Medium | [#117](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/117) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
 | How to write APIs for C++ SDK Appwrite? | Medium | [#85](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/85) |
@@ -86,12 +84,11 @@
 |----------|----------------|---------|
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
 | Improve FAQ Section with Expandable Answers | Easy | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
-| Adding Chatbot for movie Reccomendations | Easy | [#4](https://github.com/Aqsa4066/netflixclone/issues/4) |
-| Added Code of conduct file | Medium | [#52](https://github.com/Aqsa4066/netflixclone/pull/52) |
-| Feature: Add Functional Language Support / Translation Toggle (English-Hindi) | Medium | [#51](https://github.com/Aqsa4066/netflixclone/issues/51) |
-| Improve overall UI of the website for a better user experience | Medium | [#50](https://github.com/Aqsa4066/netflixclone/issues/50) |
+| enhance ui | Medium | [#56](https://github.com/Aqsa4066/netflixclone/pull/56) |
+| Updated Contributing.md | Medium | [#55](https://github.com/Aqsa4066/netflixclone/pull/55) |
+| Enhanced the footer section and added a  "back to top" button | Medium | [#54](https://github.com/Aqsa4066/netflixclone/pull/54) |
+| Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Medium | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | Enhanced FAQ section [ Issue - #43 ] | Medium | [#49](https://github.com/Aqsa4066/netflixclone/pull/49) |
-| Improve Alt Text, Add Image Placeholders & Fix Broken Screenshot | Medium | [#48](https://github.com/Aqsa4066/netflixclone/issues/48) |
 | Added alt text for all the images | Medium | [#47](https://github.com/Aqsa4066/netflixclone/pull/47) |
 | Fix: Improve Hero Section Readability (Issue #36) | Medium | [#46](https://github.com/Aqsa4066/netflixclone/pull/46) |
 | Website Layout Broken- Please review Recent Changes | Medium | [#31](https://github.com/Aqsa4066/netflixclone/issues/31) |
@@ -108,7 +105,6 @@
 | Curve Design | Medium | [#7](https://github.com/Aqsa4066/netflixclone/issues/7) |
 | Improved Navbar | Medium | [#6](https://github.com/Aqsa4066/netflixclone/issues/6) |
 | Improve Header and Footer Structure for Accessibility & SEO | Medium | [#5](https://github.com/Aqsa4066/netflixclone/issues/5) |
-| Add a Responsive Header Section to the Netflix Clone | Medium | [#3](https://github.com/Aqsa4066/netflixclone/issues/3) |
 
 ---
 
