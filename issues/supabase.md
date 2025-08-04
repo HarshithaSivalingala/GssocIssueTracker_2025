@@ -14,8 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Made all neccesarry chages required for Proposed Filters | Medium | [#36](https://github.com/HimanshuHeda/Zip_Tales/pull/36) |
+| Enhancement: Add text animation (letter-by-letter popup), UI animations, and dark mode toggle | Medium | [#35](https://github.com/HimanshuHeda/Zip_Tales/issues/35) |
 | Feature Request: Light/Dark Mode Toggle | Medium | [#34](https://github.com/HimanshuHeda/Zip_Tales/issues/34) |
-| Fix of login state loss on page refresh | Medium | [#14](https://github.com/HimanshuHeda/Zip_Tales/pull/14) |
 
 ---
 
@@ -71,7 +72,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Testimonials Section to Homepage | Medium | [#283](https://github.com/Muneerali199/DocMagic/pull/283) |
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
 | Added 10 Templates for Resume, Cover Letter, and Presentations | Medium | [#261](https://github.com/Muneerali199/DocMagic/pull/261) |
@@ -123,12 +123,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Double password fields | Easy | [#65](https://github.com/sristy17/next-payroll/issues/65) |
+| Logout Button | Easy | [#69](https://github.com/sristy17/next-payroll/issues/69) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Added Help page with FAQ dropdown and custom card UI component | Medium | [#71](https://github.com/sristy17/next-payroll/pull/71) |
+| Scroll issue in GST return page & Add Business Page | Medium | [#67](https://github.com/sristy17/next-payroll/issues/67) |
 | Adding payment page | Medium | [#62](https://github.com/sristy17/next-payroll/pull/62) |
 | Create Add Payment system | Medium | [#50](https://github.com/sristy17/next-payroll/pull/50) |
-| Added Help page with FAQ dropdown and custom card UI component | Medium | [#36](https://github.com/sristy17/next-payroll/pull/36) |
-| feat: Build GST Return Filing Page - Fixes #27 | Medium | [#33](https://github.com/sristy17/next-payroll/pull/33) |
 
 ---
 
@@ -146,14 +146,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added go to top and dark mode toggle button | Medium | [#39](https://github.com/LarytheLord/Adventurers-Guild/pull/39) |
-| Add Trusted Partners and Organizations section to Home page and Main page | Medium | [#38](https://github.com/LarytheLord/Adventurers-Guild/pull/38) |
-| UI Enhancement: Revamp and Polish Website Footer Section | Medium | [#37](https://github.com/LarytheLord/Adventurers-Guild/issues/37) |
+| Enhance the Skill tree docs | Medium | [#44](https://github.com/LarytheLord/Adventurers-Guild/issues/44) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
-| Moved the Skill Development tree from Main Page to Home Page and Pull request to Home Branch | Medium | [#32](https://github.com/LarytheLord/Adventurers-Guild/pull/32) |
-| Developed Skill Development Tree and Complete Quest | Medium | [#28](https://github.com/LarytheLord/Adventurers-Guild/pull/28) |
-| Homepage layout and styling inconsistencies need refinement | Medium | [#18](https://github.com/LarytheLord/Adventurers-Guild/issues/18) |
-| Suggestion: Add Code Of Conduct File to project | Medium | [#11](https://github.com/LarytheLord/Adventurers-Guild/issues/11) |
 
 ---
 
@@ -171,11 +165,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Image Generation feature | Medium | [#13](https://github.com/Jyotibrat/AI-Flow/pull/13) |
-| No feedback message shown when AI tool search returns no results | Medium | [#12](https://github.com/Jyotibrat/AI-Flow/issues/12) |
-| Output editor does not reset when switching between AI tools | Medium | [#11](https://github.com/Jyotibrat/AI-Flow/issues/11) |
-| Updated README with environment setup instructions | Medium | [#10](https://github.com/Jyotibrat/AI-Flow/pull/10) |
-| Enhance FormattedOutput styling and add buttons; update AITools integ… | Medium | [#9](https://github.com/Jyotibrat/AI-Flow/pull/9) |
+| fix: enable Google login redirect and add AI Tools page (#5) | Medium | [#14](https://github.com/Jyotibrat/AI-Flow/pull/14) |
 
 ---
 
@@ -193,6 +183,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
 | Feat: Connecting All Sharks CSV file with all Features | Medium | [#59](https://github.com/Ojas-Arora/SapneSeSafar/issues/59) |
@@ -241,11 +232,8 @@
 | 📦 Export Analytics Data as CSV | Easy | [#98](https://github.com/Rohit-Dnath/LOL-URL/issues/98) |
 | 🔑 Add GitHub Login (OAuth2) Support | Easy | [#87](https://github.com/Rohit-Dnath/LOL-URL/issues/87) |
 | 🔑 Add Google Login (OAuth2) Support | Easy | [#86](https://github.com/Rohit-Dnath/LOL-URL/issues/86) |
+| Added email verification with OTP handling | Medium | [#112](https://github.com/Rohit-Dnath/LOL-URL/pull/112) |
 | implemented requested changes | Medium | [#111](https://github.com/Rohit-Dnath/LOL-URL/pull/111) |
-| Bump vite from 6.0.7 to 6.3.5 in the npm_and_yarn group across 1 directory | Medium | [#108](https://github.com/Rohit-Dnath/LOL-URL/pull/108) |
-| Bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#107](https://github.com/Rohit-Dnath/LOL-URL/pull/107) |
-| Bump @babel/runtime from 7.26.0 to 7.27.6 in the npm_and_yarn group across 1 directory | Medium | [#106](https://github.com/Rohit-Dnath/LOL-URL/pull/106) |
-| Bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#105](https://github.com/Rohit-Dnath/LOL-URL/pull/105) |
 | Bump axios from 1.7.9 to 1.8.2 in the npm_and_yarn group across 1 directory | Medium | [#104](https://github.com/Rohit-Dnath/LOL-URL/pull/104) |
 | feat(auth): added Google OAuth2 login with Supabase | Medium | [#103](https://github.com/Rohit-Dnath/LOL-URL/pull/103) |
 | 📅 Add Calendar View for Link Activity | Medium | [#102](https://github.com/Rohit-Dnath/LOL-URL/issues/102) |
@@ -263,6 +251,9 @@
 | 🛡️ Advanced DDoS Protection Layer | Hard | [#83](https://github.com/Rohit-Dnath/LOL-URL/issues/83) |
 | 🌐 Multi-Tenancy with Isolated Analytics | Hard | [#82](https://github.com/Rohit-Dnath/LOL-URL/issues/82) |
 | 🧠 AI-based Personalized Link Recommendations | Hard | [#81](https://github.com/Rohit-Dnath/LOL-URL/issues/81) |
+| 🔒 Hardware Security Module (HSM) Integration | Hard | [#80](https://github.com/Rohit-Dnath/LOL-URL/issues/80) |
+| 🧬 Zero-Downtime Database Migrations | Hard | [#79](https://github.com/Rohit-Dnath/LOL-URL/issues/79) |
+| 📊 Real-time Analytics Streaming with WebSockets | Hard | [#78](https://github.com/Rohit-Dnath/LOL-URL/issues/78) |
 
 ---
 
