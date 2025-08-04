@@ -100,51 +100,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed Interview Flow issues | Medium | [#190](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/190) |
-| Optimize-UI-animation | Medium | [#189](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/189) |
-| Css issue in mobile view | Medium | [#188](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/188) |
-| Implement Static Sidebar for Company Dashboard | Medium | [#187](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/187) |
-| Implement Static Sidebar for Employee Dashboard | Medium | [#186](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/186) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
-
----
-
-## 📌 Project: Jeanne AI chatbot Project
-
-📝 **Description:** Jeanne AI A Full-Stack Conversational Chatbot
- 
- Jeanne AI is an intelligent, interactive chatbot built with the power of OpenAI's GPT model, designed to mimic human-like conversation. It supports natural language understanding, typing animation, chat history, and optional voice input/output features making it feel alive, helpful, and personal.
- 
- This project uses a Node.js + Express backend and a React (Vite) frontend, structured in a scalable client/ and server/ folder architecture. The backend handles secure API calls to OpenAI, while the frontend provides a smooth and responsive chat interface. It's deployed using Render (backend) and Vercel (frontend) for production.
- 
-Features
- 
- Chat interface powered by GPT (via OpenAI API)
- 
- Typing animation for realistic feel
- 
- Chat history retention
- 
- Switchable roles/personalities (friendly, formal, etc.)
- 
- Optional speech-to-text and text-to-speech
- 
- Responsive, mobile-friendly UI
- 
- 
-Why Jeanne?
- 
- Jeanne is imagined as a gentle, thoughtful AI companion someone who listens, helps, and responds with care. The name gives the bot a human-like identity, making the experience more cozy and personal.
-
-🔗 [View Project](https://github.com/revxi/Jeanne-AI-Chatbot-Project)
-
-💻 **Tech Stack:** React.js, Vite, Tailwind CSS, Framer Motion, React Speech Recognition, Text-to-Speech API, Axios, Fetch API, Node.js, Express.js, OpenAI API, dotenv, CORS, body-parser, Vercel, Render
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
