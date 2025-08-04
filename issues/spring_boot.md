@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Closes #29 -feat- custom annotation LogRequest added | Medium | [#67](https://github.com/Ayush0316/KnockoutZone/pull/67) |
 | Add foul tracking and warning system for players | Medium | [#65](https://github.com/Ayush0316/KnockoutZone/issues/65) |
 | Tournament Progress Visualization Dashboard (Interactive Tree) | Medium | [#60](https://github.com/Ayush0316/KnockoutZone/issues/60) |
 | Landing clean | Medium | [#34](https://github.com/Ayush0316/KnockoutZone/pull/34) |
@@ -39,7 +40,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 |  | Easy | [#337](https://github.com/yuvrajsinghgmx/ShopSmart/issues/337) |
-| Add Dark mode to Search Screen and User Profile Screen | Medium | [#339](https://github.com/yuvrajsinghgmx/ShopSmart/issues/339) |
+| Added Dark mode to User Profile Screen and Search Screen UI | Medium | [#342](https://github.com/yuvrajsinghgmx/ShopSmart/pull/342) |
 | 🖼️ Feature Request: Add Image Attachments for Specific Items | Medium | [#338](https://github.com/yuvrajsinghgmx/ShopSmart/issues/338) |
 | LogOut API Route | Medium | [#336](https://github.com/yuvrajsinghgmx/ShopSmart/issues/336) |
 | "Onboarding API Route" | Medium | [#335](https://github.com/yuvrajsinghgmx/ShopSmart/issues/335) |
@@ -108,15 +109,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve README and documentation – Installation, environment configuration, contribution guidelines, screenshots | Easy | [#31](https://github.com/SandeepVashishtha/Eventra/issues/31) |
-| Add 404 Not Found Page | Medium | [#36](https://github.com/SandeepVashishtha/Eventra/issues/36) |
-| Create a Global Theme / Design System | Medium | [#35](https://github.com/SandeepVashishtha/Eventra/issues/35) |
 | Add Responsive Design for Mobile View | Medium | [#34](https://github.com/SandeepVashishtha/Eventra/issues/34) |
 | Add Placeholder Image for Events Without Image | Medium | [#33](https://github.com/SandeepVashishtha/Eventra/issues/33) |
-| Improve Event Card Design | Medium | [#32](https://github.com/SandeepVashishtha/Eventra/issues/32) |
 | Form UI/UX improvements – Enhanced date pickers and inline validation | Medium | [#30](https://github.com/SandeepVashishtha/Eventra/issues/30) |
 | Implement user authentication and role-based access control | Medium | [#29](https://github.com/SandeepVashishtha/Eventra/issues/29) |
-| Redesign Home/Landing Page | Medium | [#28](https://github.com/SandeepVashishtha/Eventra/issues/28) |
 | Add backend error handling and validation | Medium | [#14](https://github.com/SandeepVashishtha/Eventra/issues/14) |
 
 ---
