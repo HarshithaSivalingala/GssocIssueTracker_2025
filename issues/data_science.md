@@ -16,8 +16,7 @@
 |----------|----------------|---------|
 | [Text file conversion] Create PYQs text files for any of the directed colleges with links given (YMCA, NIT-kurukshetra, IGDTUW, vit-bhopal) | Easy | [#762](https://github.com/Saumy1905/PYQFort/issues/762) |
 | [Text file conversion] Create PYQs text files for any of the directed colleges with links given (YMCA, NIT-kurukshetra, IGDTUW, vit-bhopal) | Easy | [#756](https://github.com/Saumy1905/PYQFort/issues/756) |
-| Add 24 PYQs for BBA SEM 5 | Medium | [#835](https://github.com/Saumy1905/PYQFort/issues/835) |
-| Added BBA SEM 4 PYQs | Medium | [#834](https://github.com/Saumy1905/PYQFort/pull/834) |
+| Added all remaining PYQs for BBA | Medium | [#842](https://github.com/Saumy1905/PYQFort/pull/842) |
 | Academic Rules - 1.4 | Medium | [#819](https://github.com/Saumy1905/PYQFort/issues/819) |
 | Academic Rules - 1.3 | Medium | [#818](https://github.com/Saumy1905/PYQFort/issues/818) |
 | Academic Rules - 1.2 | Medium | [#817](https://github.com/Saumy1905/PYQFort/issues/817) |
