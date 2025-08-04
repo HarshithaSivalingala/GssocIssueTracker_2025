@@ -35,8 +35,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update the Welcome screen when there isn't any API key set | Easy | [#36](https://github.com/VaibhavCodeClub/term/issues/36) |
-| Adding a back to top button in the README.md | Medium | [#37](https://github.com/VaibhavCodeClub/term/issues/37) |
+| Added back to top button in the README.md | Medium | [#38](https://github.com/VaibhavCodeClub/term/pull/38) |
 | feat: Add basic markdown rendering for AI responses #21 | Medium | [#34](https://github.com/VaibhavCodeClub/term/pull/34) |
 | Create pull_request_template.md | Medium | [#31](https://github.com/VaibhavCodeClub/term/pull/31) |
 | clickable links | Medium | [#29](https://github.com/VaibhavCodeClub/term/issues/29) |
@@ -62,6 +61,8 @@
 |----------|----------------|---------|
 | Enhancement: Add Build Verification GitHub Action for Pull Requests | Easy | [#15](https://github.com/thedevyashsaini/rusticle/issues/15) |
 | Enhancement: Add Repository Templates for Better Open Source Workflow | Easy | [#5](https://github.com/thedevyashsaini/rusticle/issues/5) |
+| Documentation : Updating README.md File for Better Project Documentation | Medium | [#21](https://github.com/thedevyashsaini/rusticle/issues/21) |
+| Added Contributing.md | Medium | [#20](https://github.com/thedevyashsaini/rusticle/pull/20) |
 | Added Code of Conduct file | Medium | [#19](https://github.com/thedevyashsaini/rusticle/pull/19) |
 | Added License | Medium | [#18](https://github.com/thedevyashsaini/rusticle/pull/18) |
 | ci: add commitlint github action to validate commit messages | Medium | [#17](https://github.com/thedevyashsaini/rusticle/pull/17) |
