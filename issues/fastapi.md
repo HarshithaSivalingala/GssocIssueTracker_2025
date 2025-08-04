@@ -62,38 +62,6 @@
 
 ---
 
-## 📌 Project: otp authentication 
-
-📝 **Description:** an otp authentication frontend app built using fastapi and twilo and jwt tokens 
-
-🔗 [View Project](https://github.com/Harish-2003/otpauthentication)
-
-💻 **Tech Stack:** FastAPI
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
-## 📌 Project: Real-Time Disaster Dashboard 
-
-📝 **Description:** A real-time disaster management dashboard that fetches and displays live disaster data from APIs like NASA and NDMA. It helps authorities and the public stay informed through alerts, analytics, and visualizations.
-
-🔗 [View Project](https://github.com/Himanshi150/real-time-daister-project)
-
-💻 **Tech Stack:** FastAPI, Python, Streamlit, JavaScript, HTML, CSS, NASA API, NDMA API
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: AlgoLab-Learn Ml algos Visually 
 
 📝 **Description:** AlgoLab is an open-source project built to help students, developers, and enthusiasts understand Machine Learning algorithms through visual and interactive demonstrations.  Whether you're a beginner curious about how KNN or Decision Trees work, or someone who learns better by seeing algorithms in action, AlgoLab is for you.
@@ -133,11 +101,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed Interview Flow issues | Medium | [#190](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/190) |
-| Optimize-UI-animation | Medium | [#189](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/189) |
-| Css issue in mobile view | Medium | [#188](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/188) |
-| Implement Static Sidebar for Company Dashboard | Medium | [#187](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/187) |
-| Implement Static Sidebar for Employee Dashboard | Medium | [#186](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/186) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
