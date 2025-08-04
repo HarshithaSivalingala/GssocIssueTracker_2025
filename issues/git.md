@@ -14,9 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: fixed the rotating star above the hero section text and changed the UI of the hero section for a smoother UI. | Medium | [#198](https://github.com/Amarjha01/InfantCareCompass/pull/198) |
+| loader added | Medium | [#196](https://github.com/Amarjha01/InfantCareCompass/pull/196) |
+| Added favicon | Medium | [#194](https://github.com/Amarjha01/InfantCareCompass/pull/194) |
+| Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 | remove duplicate Passward Eye | Medium | [#187](https://github.com/Amarjha01/InfantCareCompass/pull/187) |
-| Removed Unnecessary white line | Medium | [#186](https://github.com/Amarjha01/InfantCareCompass/pull/186) |
-| Bug:fixed footer alignment | Medium | [#184](https://github.com/Amarjha01/InfantCareCompass/pull/184) |
 | Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
 | Changed the alignment of text at contributors page | Medium | [#177](https://github.com/Amarjha01/InfantCareCompass/pull/177) |
 | Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
@@ -25,7 +27,6 @@
 | Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
 | modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
 | updated the contributing.md file | Medium | [#152](https://github.com/Amarjha01/InfantCareCompass/pull/152) |
-| refactored the controller logic and removed issues | Medium | [#147](https://github.com/Amarjha01/InfantCareCompass/pull/147) |
 
 ---
 
@@ -48,10 +49,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Side alignment and button alignment distorted | Medium | [#320](https://github.com/Bhavya1352/eventmappr/issues/320) |
-| Continue with google button is not working in signup/login page | Medium | [#319](https://github.com/Bhavya1352/eventmappr/issues/319) |
-| added a top arrow in a readme.md | Medium | [#318](https://github.com/Bhavya1352/eventmappr/pull/318) |
-| The ContactUs form is not changing with the theme | Medium | [#317](https://github.com/Bhavya1352/eventmappr/issues/317) |
+| Implement User Backend | Medium | [#332](https://github.com/Bhavya1352/eventmappr/issues/332) |
+| Set Up Backend | Medium | [#331](https://github.com/Bhavya1352/eventmappr/issues/331) |
+| Enhancement of Privacy Policy, Terms & Conditions and Cookies Page. | Medium | [#329](https://github.com/Bhavya1352/eventmappr/issues/329) |
+| Lack of Background Contrast Between Homepage Sections (Light Mode) | Medium | [#323](https://github.com/Bhavya1352/eventmappr/issues/323) |
 | Intelligent Chatbot Integration for EventMappr – Enhancing User Support & Interaction | Medium | [#300](https://github.com/Bhavya1352/eventmappr/issues/300) |
 | Responsive issues for event cards and footer on small devices | Medium | [#267](https://github.com/Bhavya1352/eventmappr/pull/267) |
 | Improve Scroll Performance in Event Map List on Mobile Devices | Medium | [#261](https://github.com/Bhavya1352/eventmappr/issues/261) |
@@ -72,7 +73,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feat/student apis | Medium | [#51](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/51) |
+| Add typewriter effect to Smart School Management System header | Medium | [#59](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/59) |
+| Curriculum-Aware Substitution Planner for teacher | Medium | [#58](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/58) |
 | UI/UX enhancements to the landing page | Medium | [#50](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/50) |
 | Add Student Portal to the application | Medium | [#33](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/33) |
 | Add dark mode feature | Medium | [#31](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/31) |
@@ -94,6 +96,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement comprehensive global exception handling system for FastAPI backend #21 | Medium | [#45](https://github.com/indra7777/frostiq/pull/45) |
 | Add Authentication & Authorization | Medium | [#44](https://github.com/indra7777/frostiq/issues/44) |
 | Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
 | Create admins.py | Medium | [#42](https://github.com/indra7777/frostiq/pull/42) |
@@ -145,6 +148,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Loading Indicator While Fetching Weather Data | Medium | [#78](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/78) |
+| fixed the Dublicate fetch calls | Medium | [#77](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/77) |
 | Fix: integrated API (#21) | Medium | [#76](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/76) |
 | Fix: made the background dynamic, shows rain whenever the weather is … | Medium | [#75](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/75) |
 | Missing: Live Server | Medium | [#74](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/74) |
@@ -205,16 +210,13 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve the readme of this project | Easy | [#9](https://github.com/aayushraj1010/med-genie/issues/9) |
-| Added license section to README | Medium | [#41](https://github.com/aayushraj1010/med-genie/pull/41) |
-| Add Footer Component, Update README.md, and Add Contributors Tab (if needed) | Medium | [#40](https://github.com/aayushraj1010/med-genie/issues/40) |
-| Added About and Contact pages with EmailJS integration | Medium | [#39](https://github.com/aayushraj1010/med-genie/pull/39) |
-| Revamp Logo for a Visually Captivating User Experience ✨ | Medium | [#34](https://github.com/aayushraj1010/med-genie/issues/34) |
+| 📘 Issue Title: Transform the README into a Robust and Contributor-Friendly Onboarding Guide | Medium | [#55](https://github.com/aayushraj1010/med-genie/issues/55) |
+| Feature/redesigned UI | Medium | [#46](https://github.com/aayushraj1010/med-genie/pull/46) |
+| Enhance Med Genie UI: Custom Robot Avatar, Typing Indicator, and Branding Improvements | Medium | [#45](https://github.com/aayushraj1010/med-genie/pull/45) |
 | Enhancement to the pop up | Medium | [#20](https://github.com/aayushraj1010/med-genie/issues/20) |
 | feat: add a good and readable readme.md file | Medium | [#19](https://github.com/aayushraj1010/med-genie/issues/19) |
 | 🚫 License Missing from Repository | Medium | [#14](https://github.com/aayushraj1010/med-genie/issues/14) |
 | Add a Comprehensive `README.md` File for Better Project Documentation | Medium | [#13](https://github.com/aayushraj1010/med-genie/issues/13) |
-| 🚫 License Missing from Repository | Medium | [#8](https://github.com/aayushraj1010/med-genie/issues/8) |
 
 ---
 
@@ -232,6 +234,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add favicon | Medium | [#148](https://github.com/AditiGupta-tech/neonest/pull/148) |
 | Implementing auto resource and notification management while talking to NeonestAI | Medium | [#119](https://github.com/AditiGupta-tech/neonest/issues/119) |
 | Zoxilsi/issue 9 | Medium | [#58](https://github.com/AditiGupta-tech/neonest/pull/58) |
 
@@ -251,27 +254,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📚 Feature Request: Add DevOps Section | Medium | [#31](https://github.com/Amarjha01/DevNotes/issues/31) |
-| 📚 Feature Request: Add DSA and System Design Sections | Medium | [#30](https://github.com/Amarjha01/DevNotes/issues/30) |
-| Add Advanced JavaScript Topics to Enhance Learning Resources | Medium | [#29](https://github.com/Amarjha01/DevNotes/issues/29) |
-| Fix  the size of all elements in home page in mobile view | Medium | [#28](https://github.com/Amarjha01/DevNotes/issues/28) |
-| feat: Add Contact form and FAQ sections to Home page | Medium | [#27](https://github.com/Amarjha01/DevNotes/pull/27) |
-| Add Login and Signup Buttons with Frontend UI Implementation | Medium | [#26](https://github.com/Amarjha01/DevNotes/issues/26) |
-| Missing MongoDB Page | Medium | [#25](https://github.com/Amarjha01/DevNotes/issues/25) |
-| Adding code editor feature | Medium | [#23](https://github.com/Amarjha01/DevNotes/issues/23) |
-| Add information for backend topics | Medium | [#22](https://github.com/Amarjha01/DevNotes/issues/22) |
-| Add Light Mode and Theme Toggle (Dark ↔ Light) | Medium | [#21](https://github.com/Amarjha01/DevNotes/issues/21) |
-| FEATURE REQUEST: Add User Dashboard along with authentication | Medium | [#20](https://github.com/Amarjha01/DevNotes/issues/20) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#19](https://github.com/Amarjha01/DevNotes/issues/19) |
-| Suggestion: Add Code Of Conduct File to project | Medium | [#18](https://github.com/Amarjha01/DevNotes/issues/18) |
-| 🚫 License Missing from Repository | Medium | [#17](https://github.com/Amarjha01/DevNotes/issues/17) |
-| added the feature of projects | Medium | [#16](https://github.com/Amarjha01/DevNotes/pull/16) |
-| Dropdown UI looks inconsistent with current theme (light/dark mode) | Medium | [#15](https://github.com/Amarjha01/DevNotes/issues/15) |
-| Add topics in backend | Medium | [#14](https://github.com/Amarjha01/DevNotes/issues/14) |
-| Addition of a back to top button for notes area and it is very long. | Medium | [#13](https://github.com/Amarjha01/DevNotes/issues/13) |
-| Removed the max-width to let the content capture full screen | Medium | [#12](https://github.com/Amarjha01/DevNotes/pull/12) |
-| Add Learning Sections for AI/ML Development and Android Development | Medium | [#10](https://github.com/Amarjha01/DevNotes/issues/10) |
-| Added learning content for backend | Medium | [#9](https://github.com/Amarjha01/DevNotes/pull/9) |
+| UI enhancement adding a dynamic animated background | Medium | [#40](https://github.com/Amarjha01/DevNotes/issues/40) |
+| Added back to top button | Medium | [#39](https://github.com/Amarjha01/DevNotes/pull/39) |
 
 ---
 
@@ -290,6 +274,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Walls/Colliders to Prevent Map Escape | Medium | [#11](https://github.com/Amna-Hassan04/Cat-Sanctuary/issues/11) |
+| Disscussion tab | Medium | [#10](https://github.com/Amna-Hassan04/Cat-Sanctuary/issues/10) |
+| Added LICENSE | Medium | [#9](https://github.com/Amna-Hassan04/Cat-Sanctuary/pull/9) |
 | Added Code of Conduct | Medium | [#8](https://github.com/Amna-Hassan04/Cat-Sanctuary/pull/8) |
 | 📝 Updated README with GitHub stats, contributors, and GSSoC badge | Medium | [#7](https://github.com/Amna-Hassan04/Cat-Sanctuary/pull/7) |
 | Game issues GSSOC | Medium | [#5](https://github.com/Amna-Hassan04/Cat-Sanctuary/issues/5) |
@@ -341,12 +328,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
 | Improve FAQ Section with Expandable Answers | Easy | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
-| Adding Chatbot for movie Reccomendations | Easy | [#4](https://github.com/Aqsa4066/netflixclone/issues/4) |
-| Added Code of conduct file | Medium | [#52](https://github.com/Aqsa4066/netflixclone/pull/52) |
-| Feature: Add Functional Language Support / Translation Toggle (English-Hindi) | Medium | [#51](https://github.com/Aqsa4066/netflixclone/issues/51) |
-| Improve overall UI of the website for a better user experience | Medium | [#50](https://github.com/Aqsa4066/netflixclone/issues/50) |
+| enhance ui | Medium | [#56](https://github.com/Aqsa4066/netflixclone/pull/56) |
+| Updated Contributing.md | Medium | [#55](https://github.com/Aqsa4066/netflixclone/pull/55) |
+| Enhanced the footer section and added a  "back to top" button | Medium | [#54](https://github.com/Aqsa4066/netflixclone/pull/54) |
+| Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Medium | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | Enhanced FAQ section [ Issue - #43 ] | Medium | [#49](https://github.com/Aqsa4066/netflixclone/pull/49) |
-| Improve Alt Text, Add Image Placeholders & Fix Broken Screenshot | Medium | [#48](https://github.com/Aqsa4066/netflixclone/issues/48) |
 | Added alt text for all the images | Medium | [#47](https://github.com/Aqsa4066/netflixclone/pull/47) |
 | Fix: Improve Hero Section Readability (Issue #36) | Medium | [#46](https://github.com/Aqsa4066/netflixclone/pull/46) |
 | Website Layout Broken- Please review Recent Changes | Medium | [#31](https://github.com/Aqsa4066/netflixclone/issues/31) |
@@ -363,7 +349,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Curve Design | Medium | [#7](https://github.com/Aqsa4066/netflixclone/issues/7) |
 | Improved Navbar | Medium | [#6](https://github.com/Aqsa4066/netflixclone/issues/6) |
 | Improve Header and Footer Structure for Accessibility & SEO | Medium | [#5](https://github.com/Aqsa4066/netflixclone/issues/5) |
-| Add a Responsive Header Section to the Netflix Clone | Medium | [#3](https://github.com/Aqsa4066/netflixclone/issues/3) |
 
 ---
 
@@ -388,6 +373,22 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: Project Xangoes
+
+📝 **Description:** A comprehensive full-stack system for managing college fests and events, designed to centralize event management, registration handling, and transaction tracking for educational institutions.
+
+🔗 [View Project](https://github.com/dscnitrourkela/project-xangoes)
+
+💻 **Tech Stack:** Next.js, React, React DOM, TypeScript, Bun, Tailwind CSS, PostCSS, ESLint, Turbopack, Hono, PostgreSQL, Drizzle ORM, Drizzle Kit, Zod, dotenv, TSX, Git, Node.js, pg
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
 ## 📌 Project: LegalHuB AI-Powered Legal Help Platform
 
 📝 **Description:** LegalHuB is an AI-powered legal assistance platform designed to help users access legal information quickly and easily. It features a smart legal search engine, a legal dictionary, and state-specific document templates. Integrated with Chatbase AI, the platform enables intelligent responses to user queries while ensuring fast, reliable document retrieval.
@@ -402,8 +403,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: enhance document listing UI with modern design and improved UX | Easy | [#106](https://github.com/dipexplorer/LegalHuB/pull/106) |
-| Improve UI/UX of the Fundamental Rights Page 🇮🇳 | Medium | [#105](https://github.com/dipexplorer/LegalHuB/issues/105) |
 | 🚫 Improve 404 Page with Custom Design and Graphics | Medium | [#98](https://github.com/dipexplorer/LegalHuB/issues/98) |
 
 ---
@@ -431,6 +430,22 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Build UI for Call Campaign Management (MVP) | Hard | [#20](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/20) |
 | Create API Endpoints for Call Campaign Management (MVP) | Hard | [#19](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/19) |
 | Bug: Live Twilio calls drop immediately after connecting; webhook not being triggered | Hard | [#18](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/18) |
+
+---
+
+## 📌 Project: rescuegrid - AI powered disaster management platform
+
+📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
+
+🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
+
+💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, GitHub, Google Maps API, Postman
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
 
 ---
 
@@ -474,7 +489,23 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Landing Page | Medium | [#4](https://github.com/lovelymahor/StudyMatePlus/pull/4) |
+| Add syllabus page with the mock data | Medium | [#6](https://github.com/lovelymahor/StudyMatePlus/issues/6) |
+
+---
+
+## 📌 Project: RescueGrid AI-Powered Disaster Management Platform. etc.
+
+📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
+
+🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
+
+💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, Express.js, GitHub, Google Maps API, AI/ML, Postman
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
 
 ---
 
@@ -512,7 +543,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Landing Page Implementation and Refactor | Easy | [#45](https://github.com/Promptzy/Zenjira/pull/45) |
+| feat: Implement comprehensive logo design system for Zenjira | Hard | [#47](https://github.com/Promptzy/Zenjira/pull/47) |
 
 ---
 
@@ -535,7 +566,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Fix Home Navigation Redirect and Navbar Logo Scroll-to-Top Behavior | Medium | [#22](https://github.com/mr-rishikesh/DevConnect/issues/22) |
 | Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
 | Implement JWT-Based Authentication Middleware | Medium | [#2](https://github.com/mr-rishikesh/DevConnect/issues/2) |
-| Build Job Section Page with Filters for Jobs and Internships | Hard | [#28](https://github.com/mr-rishikesh/DevConnect/issues/28) |
 | Implement Message Logic with WebSocket (Frontend + Backend Integration) | Hard | [#27](https://github.com/mr-rishikesh/DevConnect/issues/27) |
 
 ---
@@ -554,15 +584,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve README and documentation – Installation, environment configuration, contribution guidelines, screenshots | Easy | [#31](https://github.com/SandeepVashishtha/Eventra/issues/31) |
-| Add 404 Not Found Page | Medium | [#36](https://github.com/SandeepVashishtha/Eventra/issues/36) |
-| Create a Global Theme / Design System | Medium | [#35](https://github.com/SandeepVashishtha/Eventra/issues/35) |
 | Add Responsive Design for Mobile View | Medium | [#34](https://github.com/SandeepVashishtha/Eventra/issues/34) |
 | Add Placeholder Image for Events Without Image | Medium | [#33](https://github.com/SandeepVashishtha/Eventra/issues/33) |
-| Improve Event Card Design | Medium | [#32](https://github.com/SandeepVashishtha/Eventra/issues/32) |
 | Form UI/UX improvements – Enhanced date pickers and inline validation | Medium | [#30](https://github.com/SandeepVashishtha/Eventra/issues/30) |
 | Implement user authentication and role-based access control | Medium | [#29](https://github.com/SandeepVashishtha/Eventra/issues/29) |
-| Redesign Home/Landing Page | Medium | [#28](https://github.com/SandeepVashishtha/Eventra/issues/28) |
 | Add backend error handling and validation | Medium | [#14](https://github.com/SandeepVashishtha/Eventra/issues/14) |
 
 ---
