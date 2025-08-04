@@ -227,7 +227,6 @@
 | Enhance "One Stop Guide" with Advanced Features, City-wise PHP Structure, and UI/UX Upgrades | Medium | [#24](https://github.com/komalkhatod1105/One-Stop-Guide/issues/24) |
 | Fix Missing City Info Display and Add Basic Validation in city.php | Medium | [#15](https://github.com/komalkhatod1105/One-Stop-Guide/issues/15) |
 | Erroneous Navbar Highlighting and inconsistent Menu Behavior | Medium | [#3](https://github.com/komalkhatod1105/One-Stop-Guide/issues/3) |
-| "HOME" Navigation Fails When Accessing via Non-Index State Files | Medium | [#2](https://github.com/komalkhatod1105/One-Stop-Guide/issues/2) |
 
 ---
 
