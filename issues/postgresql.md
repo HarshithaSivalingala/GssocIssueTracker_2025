@@ -57,6 +57,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add MIT License | Easy | [#3](https://github.com/Menthub-GSSoC/Menthub/issues/3) |
 | Update README.md | Easy | [#2](https://github.com/Menthub-GSSoC/Menthub/pull/2) |
+| Signup page form Validation added. | Medium | [#46](https://github.com/Menthub-GSSoC/Menthub/pull/46) |
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | docs: improve onboarding by adding contributing guide, templates, and code of conduct | Medium | [#38](https://github.com/Menthub-GSSoC/Menthub/pull/38) |
@@ -89,9 +90,12 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-|  | Medium | [#412](https://github.com/HarshS16/Civix/issues/412) |
-| Enhancement of Profile UI | Medium | [#411](https://github.com/HarshS16/Civix/pull/411) |
-| remove bug from report issue | Medium | [#392](https://github.com/HarshS16/Civix/pull/392) |
+| Added black mode for resources page | Medium | [#437](https://github.com/HarshS16/Civix/pull/437) |
+| Privacy page heading letter y clipping | Medium | [#436](https://github.com/HarshS16/Civix/issues/436) |
+| Improvement in the UI of Resources Page and Dark Mode Implementation. | Medium | [#435](https://github.com/HarshS16/Civix/issues/435) |
+| Improve Faq ui | Medium | [#426](https://github.com/HarshS16/Civix/issues/426) |
+| Newsletter subscription Mail | Medium | [#425](https://github.com/HarshS16/Civix/issues/425) |
+| Enhancement of main page in dark mode UI | Medium | [#421](https://github.com/HarshS16/Civix/issues/421) |
 | "Sign in with Google" Missing on Login Page | Medium | [#379](https://github.com/HarshS16/Civix/issues/379) |
 | Improve FAQ UI and Smoothness with Animated Expand/Collapse | Medium | [#374](https://github.com/HarshS16/Civix/pull/374) |
 | Quick Profile Access from Navbar | Medium | [#353](https://github.com/HarshS16/Civix/issues/353) |
@@ -116,7 +120,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Testimonials Section to Homepage | Medium | [#283](https://github.com/Muneerali199/DocMagic/pull/283) |
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
 | Added 10 Templates for Resume, Cover Letter, and Presentations | Medium | [#261](https://github.com/Muneerali199/DocMagic/pull/261) |
@@ -147,6 +150,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Twitter icon to new X logo | Medium | [#71](https://github.com/Er-luffy-D/SimplifAI/issues/71) |
 | added dark and light toggle button | Medium | [#68](https://github.com/Er-luffy-D/SimplifAI/pull/68) |
 | Vmpranav/rag implementation | Medium | [#67](https://github.com/Er-luffy-D/SimplifAI/pull/67) |
 | Add Profile View and Update Functionality for Users | Medium | [#61](https://github.com/Er-luffy-D/SimplifAI/issues/61) |
@@ -168,6 +172,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add testimonial , hero, about section | Medium | [#17](https://github.com/sailaja-adapa/GuruShish/issues/17) |
 | Adding a CodeOfConduct.md file | Medium | [#16](https://github.com/sailaja-adapa/GuruShish/issues/16) |
 | Add mit license file to the project | Medium | [#15](https://github.com/sailaja-adapa/GuruShish/issues/15) |
 | Add mit license file to the project | Medium | [#14](https://github.com/sailaja-adapa/GuruShish/pull/14) |
@@ -236,6 +241,22 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: Project Xangoes
+
+📝 **Description:** A comprehensive full-stack system for managing college fests and events, designed to centralize event management, registration handling, and transaction tracking for educational institutions.
+
+🔗 [View Project](https://github.com/dscnitrourkela/project-xangoes)
+
+💻 **Tech Stack:** Next.js, React, React DOM, TypeScript, Bun, Tailwind CSS, PostCSS, ESLint, Turbopack, Hono, PostgreSQL, Drizzle ORM, Drizzle Kit, Zod, dotenv, TSX, Git, Node.js, pg
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
 ## 📌 Project: DevMatchups
 
 📝 **Description:** DevMatchups is a fullstack web platform which enables developes to connect together and form teams for hackathons. It solves the core problem of finding team or team mates for any hackathon. Users can explore all the hackathons from various websites at one place. Users can create dynamic profiles based on their resume.
@@ -250,8 +271,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added License | Medium | [#158](https://github.com/harsh3dev/DevMatchups/pull/158) |
-| Updated README.md | Medium | [#157](https://github.com/harsh3dev/DevMatchups/pull/157) |
 | Design of a scroll bar. | Medium | [#145](https://github.com/harsh3dev/DevMatchups/issues/145) |
 | Add validation for No. of team members field | Medium | [#134](https://github.com/harsh3dev/DevMatchups/issues/134) |
 
@@ -323,7 +342,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Landing Page Implementation and Refactor | Easy | [#45](https://github.com/Promptzy/Zenjira/pull/45) |
+| feat: Implement comprehensive logo design system for Zenjira | Hard | [#47](https://github.com/Promptzy/Zenjira/pull/47) |
 
 ---
 
@@ -341,15 +360,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve README and documentation – Installation, environment configuration, contribution guidelines, screenshots | Easy | [#31](https://github.com/SandeepVashishtha/Eventra/issues/31) |
-| Add 404 Not Found Page | Medium | [#36](https://github.com/SandeepVashishtha/Eventra/issues/36) |
-| Create a Global Theme / Design System | Medium | [#35](https://github.com/SandeepVashishtha/Eventra/issues/35) |
 | Add Responsive Design for Mobile View | Medium | [#34](https://github.com/SandeepVashishtha/Eventra/issues/34) |
 | Add Placeholder Image for Events Without Image | Medium | [#33](https://github.com/SandeepVashishtha/Eventra/issues/33) |
-| Improve Event Card Design | Medium | [#32](https://github.com/SandeepVashishtha/Eventra/issues/32) |
 | Form UI/UX improvements – Enhanced date pickers and inline validation | Medium | [#30](https://github.com/SandeepVashishtha/Eventra/issues/30) |
 | Implement user authentication and role-based access control | Medium | [#29](https://github.com/SandeepVashishtha/Eventra/issues/29) |
-| Redesign Home/Landing Page | Medium | [#28](https://github.com/SandeepVashishtha/Eventra/issues/28) |
 | Add backend error handling and validation | Medium | [#14](https://github.com/SandeepVashishtha/Eventra/issues/14) |
 
 ---
@@ -368,8 +382,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adjust Spacing Between “Send Message” | Medium | [#78](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/78) |
-| Replace Informal “Thanks for Visiting” Text with Polished Footer Message | Medium | [#77](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/77) |
+| Typography improvements | Medium | [#85](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/85) |
 | Made some typography enhancements | Medium | [#76](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/76) |
 | Twitter/X OAuth2 Authentication | Medium | [#75](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/75) |
 | feat(ui): Implement Interactive Bubble Background with Scroll & Mouse Effects (#22) | Medium | [#49](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/49) |
@@ -395,8 +408,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement robust PDF text extraction with Python parser | Medium | [#43](https://github.com/vatsal-bhakodia/smriti-ai/pull/43) |
+| feat: add responsive Privacy Policy and Terms of Use pages (#25) | Medium | [#42](https://github.com/vatsal-bhakodia/smriti-ai/pull/42) |
+| implemented heatmap and country code dropdown | Medium | [#41](https://github.com/vatsal-bhakodia/smriti-ai/pull/41) |
+| implemented Contact page and saved to DB | Medium | [#40](https://github.com/vatsal-bhakodia/smriti-ai/pull/40) |
 | feat: improve ui for sign-in and sign-up pages | Medium | [#35](https://github.com/vatsal-bhakodia/smriti-ai/pull/35) |
-| added: CONTRIBUTING.md | Medium | [#29](https://github.com/vatsal-bhakodia/smriti-ai/pull/29) |
 | Upload mp4 | Medium | [#2](https://github.com/vatsal-bhakodia/smriti-ai/issues/2) |
 | Activate and Schedule Inactive Reminder API | Hard | [#30](https://github.com/vatsal-bhakodia/smriti-ai/issues/30) |
 
