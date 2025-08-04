@@ -120,6 +120,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improved the UI of features page in notesvault | Medium | [#597](https://github.com/opensource-society/notesvault/pull/597) |
 | Signup/Login Page Doesn't Store User Data or Redirect Properly | Medium | [#594](https://github.com/opensource-society/notesvault/issues/594) |
 | Fixed path errors and added links to social media icons | Medium | [#593](https://github.com/opensource-society/notesvault/pull/593) |
 | FEAT: Add light/dark mode toggle button | Medium | [#583](https://github.com/opensource-society/notesvault/issues/583) |
@@ -145,7 +146,6 @@
 | Remove Redundant Redirections to Upload Documents Page & UI Enhancement | Medium | [#556](https://github.com/opensource-society/notesvault/issues/556) |
 | Fix Non-Functional "+Add More" Button in Student Account for Saved Notes | Medium | [#555](https://github.com/opensource-society/notesvault/issues/555) |
 | <Short bug description>Hover effect not working on "Sign Up" button | Medium | [#553](https://github.com/opensource-society/notesvault/issues/553) |
-| Add Login Button to Homepage | Medium | [#552](https://github.com/opensource-society/notesvault/issues/552) |
 
 ---
 
@@ -374,6 +374,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed the download as excel feature and refactored templates.html | Medium | [#807](https://github.com/itsAnimation/AnimateItNow/pull/807) |
 | added a voice animate feature | Medium | [#799](https://github.com/itsAnimation/AnimateItNow/pull/799) |
 | issue-711-hamburger-menu | Medium | [#798](https://github.com/itsAnimation/AnimateItNow/pull/798) |
 | Enhanced editor: theme toggle, animations, and dark mode styling | Medium | [#796](https://github.com/itsAnimation/AnimateItNow/pull/796) |
@@ -713,22 +714,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: Real-Time Disaster Dashboard 
-
-📝 **Description:** A real-time disaster management dashboard that fetches and displays live disaster data from APIs like NASA and NDMA. It helps authorities and the public stay informed through alerts, analytics, and visualizations.
-
-🔗 [View Project](https://github.com/Himanshi150/real-time-daister-project)
-
-💻 **Tech Stack:** FastAPI, Python, Streamlit, JavaScript, HTML, CSS, NASA API, NDMA API
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: DreamJobs-Job Portal 
 
 📝 **Description:** this project aims to bridge the gap between job seekers and employers 
@@ -817,6 +802,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Docs | Medium | [#514](https://github.com/Mujtabaa07/coffeeShop/pull/514) |
 | Feature: Clear Cart button with disable functionality when cart is empty #503 | Medium | [#513](https://github.com/Mujtabaa07/coffeeShop/pull/513) |
 | Adding payment page | Medium | [#512](https://github.com/Mujtabaa07/coffeeShop/issues/512) |
 | Changed UI of landing page | Medium | [#488](https://github.com/Mujtabaa07/coffeeShop/pull/488) |
@@ -837,8 +823,6 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Request: Add Google Sign-In to Login Form using Firebase Authentication | Medium | [#81](https://github.com/omroy07/AgriTech/issues/81) |
-| Add about us page to the website | Medium | [#80](https://github.com/omroy07/AgriTech/issues/80) |
 | Bugs in crop yield prediction | Medium | [#78](https://github.com/omroy07/AgriTech/issues/78) |
 | Adding a Light/Dark Mode toggle | Medium | [#77](https://github.com/omroy07/AgriTech/issues/77) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#75](https://github.com/omroy07/AgriTech/issues/75) |
@@ -1556,22 +1540,6 @@ _No unassigned issues._
 
 ---
 
-## 📌 Project: Crisisboard
-
-📝 **Description:** Universal complaint logging, categorising and email sending website
-
-🔗 [View Project](https://github.com/Forkzen/crisisboard)
-
-💻 **Tech Stack:** HTML, Firebase, Firestore, Tailwind CSS, JavaScript, Gemini
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: Smart Waste Classification System using EfficientNet
 
 📝 **Description:** A machine learning-based system to automate waste classification using image recognition. Leveraging the EfficientNetV2B2 architecture, the model identifies different types of waste (plastic, paper, metal, etc.) from images, helping in effective recycling and segregation. The system aims to reduce manual effort and improve the accuracy of waste management.
@@ -1671,6 +1639,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| I will add the proper license in the readme section. | Medium | [#153](https://github.com/Creators-Space/Creators-Space/issues/153) |
 | Adding an "About Us" Page in project | Medium | [#152](https://github.com/Creators-Space/Creators-Space/issues/152) |
 | UI Improvement: Course Card Design and Layout Enhancement | Medium | [#151](https://github.com/Creators-Space/Creators-Space/issues/151) |
 | Added terms and condition page | Medium | [#150](https://github.com/Creators-Space/Creators-Space/pull/150) |
@@ -1970,22 +1939,6 @@ _No unassigned issues._
 
 ---
 
-## 📌 Project: rescuegrid - AI powered disaster management platform
-
-📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
-
-🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
-
-💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, GitHub, Google Maps API, Postman
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: One-stop-Guide
 
 📝 **Description:** One-Stop Guide ek city-exploration website hai jisme user city select karta hai, fir options milte hain jaise: Tourism, Shopping, Jobs, Restaurants, Pharmacy. Har option pe click karne se relevant info, image, aur Google Maps link dikhai deta hai.
@@ -2025,7 +1978,6 @@ _No unassigned issues._
 | Enhance "One Stop Guide" with Advanced Features, City-wise PHP Structure, and UI/UX Upgrades | Medium | [#24](https://github.com/komalkhatod1105/One-Stop-Guide/issues/24) |
 | Fix Missing City Info Display and Add Basic Validation in city.php | Medium | [#15](https://github.com/komalkhatod1105/One-Stop-Guide/issues/15) |
 | Erroneous Navbar Highlighting and inconsistent Menu Behavior | Medium | [#3](https://github.com/komalkhatod1105/One-Stop-Guide/issues/3) |
-| "HOME" Navigation Fails When Accessing via Non-Index State Files | Medium | [#2](https://github.com/komalkhatod1105/One-Stop-Guide/issues/2) |
 
 ---
 
@@ -2069,6 +2021,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added About Us Section | Medium | [#8](https://github.com/lovelymahor/StudyMatePlus/pull/8) |
 | Add syllabus page with the mock data | Medium | [#6](https://github.com/lovelymahor/StudyMatePlus/issues/6) |
 
 ---
@@ -2170,22 +2123,6 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve README content | Medium | [#15](https://github.com/madegowda11/online-voting-system/issues/15) |
-
----
-
-## 📌 Project: RescueGrid AI-Powered Disaster Management Platform. etc.
-
-📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
-
-🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
-
-💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, Express.js, GitHub, Google Maps API, AI/ML, Postman
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
@@ -2384,22 +2321,6 @@ _No unassigned issues._
 
 ---
 
-## 📌 Project: Weather Blast
-
-📝 **Description:** This project is a comprehensive weather application built with HTML, CSS, and JavaScript. It fetches real-time weather data and air quality information, enhancing users' awareness of both weather and pollution conditions.
-
-🔗 [View Project](https://github.com/RAJIV81205/Weather-Blast)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: Doc@Home
 
 📝 **Description:** Doc@Home is an innovative web-based platform designed to connect patients with verified doctors and nursing professionals for in-home medical consultations. It addresses the dual challenge of underutilized medical talent and the growing need for personalized, home-based healthcare in India. The platform ensures strict provider verification, transparent pricing, and quality control through real-time booking, robust feedback systems, and an admin-led authentication process.
@@ -2508,7 +2429,6 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesigned and Styled Contact Page with Responsive Layout – Closes #1 | Medium | [#8](https://github.com/SrijaVuppala295/Compassion_Connect/pull/8) |
-| docs: add Code of Conduct file (Contributor Covenant) | Medium | [#7](https://github.com/SrijaVuppala295/Compassion_Connect/pull/7) |
 
 ---
 
