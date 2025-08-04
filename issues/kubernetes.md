@@ -14,8 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Husky with pre-commit hooks in both the frontend and backend codebases | Easy | [#37](https://github.com/Promptzy/Zenjira/issues/37) |
-| feat: Complete production-ready authentication system with comprehens… | Hard | [#44](https://github.com/Promptzy/Zenjira/pull/44) |
+| feat: Implement comprehensive logo design system for Zenjira | Hard | [#47](https://github.com/Promptzy/Zenjira/pull/47) |
 
 ---
 
