@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhance Login & Register UI with Social Login, Password UX, and Modern Design | Medium | [#36](https://github.com/kanikaa-3018/contest_onlinejudge/issues/36) |
-| Tags array fixed in /practice | Medium | [#35](https://github.com/kanikaa-3018/contest_onlinejudge/pull/35) |
 | Revamp Login & Register UI: Social Login, Password UX, and More | Medium | [#34](https://github.com/kanikaa-3018/contest_onlinejudge/issues/34) |
 | Enhance Learn Section: Interactive Coding, Gamification, Visual Redesign & Accessibility | Medium | [#33](https://github.com/kanikaa-3018/contest_onlinejudge/pull/33) |
 | To improve and enhance Nav bar in mobile and add hover effects along with the Theme switch (GSSoC '25) | Medium | [#32](https://github.com/kanikaa-3018/contest_onlinejudge/issues/32) |
@@ -41,7 +40,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Tooltips to All Navbar Icons for Better UX | Medium | [#29](https://github.com/Sahilll94/Travel-Book/issues/29) |
+| Added BackToTopButton for better ux | Medium | [#31](https://github.com/Sahilll94/Travel-Book/pull/31) |
 | Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
 
 ---
@@ -109,6 +108,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| email feature added | Medium | [#47](https://github.com/KrishChothani/CKsEdu/pull/47) |
 | {Feature] Add Downloadable pdf Notes section! | Medium | [#42](https://github.com/KrishChothani/CKsEdu/issues/42) |
 
 ---
@@ -129,9 +129,9 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Setup Unit Testing Framework | Easy | [#13](https://github.com/x0lg0n/Boutique-To-Box/issues/13) |
-| Added Code of Conduct file | Medium | [#16](https://github.com/x0lg0n/Boutique-To-Box/pull/16) |
+| Rename LICENSE.md to LICENSE | Medium | [#18](https://github.com/x0lg0n/Boutique-To-Box/pull/18) |
 | Merge pull request #14 from x0lg0n/main | Medium | [#15](https://github.com/x0lg0n/Boutique-To-Box/pull/15) |
+| Setup Unit Testing Framework | Medium | [#13](https://github.com/x0lg0n/Boutique-To-Box/issues/13) |
 
 ---
 
