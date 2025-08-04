@@ -423,22 +423,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 ---
 
-## 📌 Project: Real-Time Disaster Dashboard 
-
-📝 **Description:** A real-time disaster management dashboard that fetches and displays live disaster data from APIs like NASA and NDMA. It helps authorities and the public stay informed through alerts, analytics, and visualizations.
-
-🔗 [View Project](https://github.com/Himanshi150/real-time-daister-project)
-
-💻 **Tech Stack:** FastAPI, Python, Streamlit, JavaScript, HTML, CSS, NASA API, NDMA API
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: VisionMate
 
 📝 **Description:** VisionMate is a smart assistive solution designed to support visually impaired people in navigating their surroundings more independently. It uses computer vision and speech technologies to identify objects, read text, and give real time voice feedback through a user friendly interface. I have uploaded the initial code and concept to GitHub to give an idea of the project’s vision, but not the full implementation yet. The project is currently in the development phase, with plans to expand its capabilities to include environment detection and safe navigation features.
@@ -578,11 +562,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed Interview Flow issues | Medium | [#190](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/190) |
-| Optimize-UI-animation | Medium | [#189](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/189) |
-| Css issue in mobile view | Medium | [#188](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/188) |
-| Implement Static Sidebar for Company Dashboard | Medium | [#187](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/187) |
-| Implement Static Sidebar for Employee Dashboard | Medium | [#186](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/186) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
@@ -601,8 +580,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Request: Add Google Sign-In to Login Form using Firebase Authentication | Medium | [#81](https://github.com/omroy07/AgriTech/issues/81) |
-| Add about us page to the website | Medium | [#80](https://github.com/omroy07/AgriTech/issues/80) |
 | Bugs in crop yield prediction | Medium | [#78](https://github.com/omroy07/AgriTech/issues/78) |
 | Adding a Light/Dark Mode toggle | Medium | [#77](https://github.com/omroy07/AgriTech/issues/77) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#75](https://github.com/omroy07/AgriTech/issues/75) |
@@ -755,6 +732,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Instagram Caption Recommendation System | Medium | [#352](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/352) |
+| Add AgriBot – AI Chatbot Using Gemini Model | Medium | [#351](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/351) |
 | Add Baseline Sales Forecasting Model using M5 Dataset #GSSOC'25 | Medium | [#350](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/350) |
 | Add Credit Score Regressor Using Random Forest | Medium | [#349](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/349) |
 | Pull request of EDA and perform modelling | Medium | [#348](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/348) |
@@ -776,7 +755,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | SSoC 25 :  Student Social Media Addiction Analysis | Medium | [#295](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/295) |
 | SSoC 25: Iris Flower Classification using SVM with GridSearchCV for hyperparameter tuning. | Medium | [#294](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/294) |
 | SSoC 25: Heart Disease Prediction (LogisticRegression, DecisionTree, RandomForest) | Medium | [#293](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/293) |
-| Appling Robust ML model on Healthcare datasets | Medium | [#245](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/245) |
 
 ---
 
@@ -1471,22 +1449,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
-## 📌 Project: ZBOT
-
-📝 **Description:** Its a personal AI agent like harvis used to automate stuffs
-
-🔗 [View Project](https://github.com/DishaA06/ZBOT)
-
-💻 **Tech Stack:** Python
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: Metal Sheet Defect Detector
 
 📝 **Description:** Detect Defects in metal sheets used to make the body of vehicles
@@ -1763,22 +1725,6 @@ _No unassigned issues._
 
 ---
 
-## 📌 Project: AI powered health assistant
-
-📝 **Description:** This project focuses on AI POWERED HEALTH ASSISTANT that provides users with health related guidance, symptom analysis and basic medical recommendations.This project helps to develop an AI-powered assistant that can analyze symptoms and provide preliminary health suggestions. It integrates a user-friendly chatbot that responds to health- related queries using natural language processing. It enhance accessibility to basic healthcare advice, especially for those without immediate access to medical professionals.
-
-🔗 [View Project](https://github.com/CharithaReddy18/AI-health-chatbot)
-
-💻 **Tech Stack:** Python, Machine Learning, NLP
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: AI-agriculture-yield-production
 
 📝 **Description:** This project applies Artificial Intelligence (AI) and Machine Learning (ML) techniques to monitor crop health and predict agricultural yield using real-world data. By leveraging Python, data analysis libraries (like Pandas, Scikit-learn), and visualization tools, this project empowers farmers and agritech researchers with actionable insights for better decision-making in agriculture.
@@ -1883,6 +1829,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add CODE_OF_CONDUCT.md for PrivGPT-Studio under GSSoC'25 | Medium | [#28](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/28) |
 | Refactor backend into modular folder structure (Flask Blueprint Setup) | Medium | [#8](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/8) |
 
 ---
