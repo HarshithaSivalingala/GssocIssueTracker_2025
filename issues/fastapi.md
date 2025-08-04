@@ -14,9 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: fixed the rotating star above the hero section text and changed the UI of the hero section for a smoother UI. | Medium | [#198](https://github.com/Amarjha01/InfantCareCompass/pull/198) |
+| loader added | Medium | [#196](https://github.com/Amarjha01/InfantCareCompass/pull/196) |
+| Added favicon | Medium | [#194](https://github.com/Amarjha01/InfantCareCompass/pull/194) |
+| Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 | remove duplicate Passward Eye | Medium | [#187](https://github.com/Amarjha01/InfantCareCompass/pull/187) |
-| Removed Unnecessary white line | Medium | [#186](https://github.com/Amarjha01/InfantCareCompass/pull/186) |
-| Bug:fixed footer alignment | Medium | [#184](https://github.com/Amarjha01/InfantCareCompass/pull/184) |
 | Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
 | Changed the alignment of text at contributors page | Medium | [#177](https://github.com/Amarjha01/InfantCareCompass/pull/177) |
 | Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
@@ -25,7 +27,6 @@
 | Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
 | modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
 | updated the contributing.md file | Medium | [#152](https://github.com/Amarjha01/InfantCareCompass/pull/152) |
-| refactored the controller logic and removed issues | Medium | [#147](https://github.com/Amarjha01/InfantCareCompass/pull/147) |
 
 ---
 
@@ -45,9 +46,9 @@
 |----------|----------------|---------|
 | Create GitHub Discussion for Known Issues and Limitations | Easy | [#106](https://github.com/Devasy23/splitwiser/issues/106) |
 | Missing Dependency in package.json | Easy | [#85](https://github.com/Devasy23/splitwiser/issues/85) |
+| Group Name Validation Enhancement | Medium | [#115](https://github.com/Devasy23/splitwiser/pull/115) |
 | Implement UI Consistency and Design System Standards | Medium | [#109](https://github.com/Devasy23/splitwiser/issues/109) |
 | Add Google Sign-Up Integration to feat/group-creation Branch | Medium | [#108](https://github.com/Devasy23/splitwiser/issues/108) |
-| Migrate Icon Assets from test-frontend to feat/group-creation Branch | Medium | [#107](https://github.com/Devasy23/splitwiser/issues/107) |
 | Support Multiple Payers for Single Expense | Medium | [#104](https://github.com/Devasy23/splitwiser/issues/104) |
 | Implement Native Unequal Split Options in API | Medium | [#103](https://github.com/Devasy23/splitwiser/issues/103) |
 | update on : Enhance Authentication Security with Rate Limiting and Input Validation #61 | Medium | [#101](https://github.com/Devasy23/splitwiser/pull/101) |
@@ -58,6 +59,38 @@
 | cleanup debug code, TODOs, and hardcoded values (Issue #59) | Medium | [#88](https://github.com/Devasy23/splitwiser/pull/88) |
 | Update package.json | Medium | [#87](https://github.com/Devasy23/splitwiser/pull/87) |
 | Update package.json | Medium | [#86](https://github.com/Devasy23/splitwiser/pull/86) |
+
+---
+
+## 📌 Project: otp authentication 
+
+📝 **Description:** an otp authentication frontend app built using fastapi and twilo and jwt tokens 
+
+🔗 [View Project](https://github.com/Harish-2003/otpauthentication)
+
+💻 **Tech Stack:** FastAPI
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: Real-Time Disaster Dashboard 
+
+📝 **Description:** A real-time disaster management dashboard that fetches and displays live disaster data from APIs like NASA and NDMA. It helps authorities and the public stay informed through alerts, analytics, and visualizations.
+
+🔗 [View Project](https://github.com/Himanshi150/real-time-daister-project)
+
+💻 **Tech Stack:** FastAPI, Python, Streamlit, JavaScript, HTML, CSS, NASA API, NDMA API
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
 
 ---
 
@@ -75,13 +108,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Interactive Hyperparameter Tuning, Dataset Preprocessing & Performance Comparison | Medium | [#37](https://github.com/manasvi-0/AlgoLab/pull/37) |
 | Adding a CodeOfConduct.md file | Medium | [#35](https://github.com/manasvi-0/AlgoLab/issues/35) |
 | There in no link in the license | Medium | [#34](https://github.com/manasvi-0/AlgoLab/issues/34) |
-| created unsupervised_module, updated requirements.txt, integrated with app.py | Medium | [#32](https://github.com/manasvi-0/AlgoLab/pull/32) |
 | Supervised ml algorithms update | Medium | [#30](https://github.com/manasvi-0/AlgoLab/pull/30) |
 | Added KMeans and DBSCAN clustering with Streamlit UI and docs | Medium | [#29](https://github.com/manasvi-0/AlgoLab/pull/29) |
-| KNN visulization using streamlit as UI | Medium | [#25](https://github.com/manasvi-0/AlgoLab/pull/25) |
 | Linear and Logistic Regression | Medium | [#16](https://github.com/manasvi-0/AlgoLab/pull/16) |
 | Updated the Contributors.md file | Medium | [#6](https://github.com/manasvi-0/AlgoLab/issues/6) |
 
@@ -103,7 +133,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhanced the sidebar for  InstitutionDashboard | Medium | [#183](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/183) |
+| Fixed Interview Flow issues | Medium | [#190](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/190) |
+| Optimize-UI-animation | Medium | [#189](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/189) |
+| Css issue in mobile view | Medium | [#188](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/188) |
+| Implement Static Sidebar for Company Dashboard | Medium | [#187](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/187) |
+| Implement Static Sidebar for Employee Dashboard | Medium | [#186](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/186) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
@@ -122,6 +156,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Timed Challenge Mode with Countdown and Scoring | Medium | [#73](https://github.com/whyvineet/orthoplay/pull/73) |
 | Add Leaderboard Page for Competitive Gameplay | Medium | [#72](https://github.com/whyvineet/orthoplay/issues/72) |
 |  | Medium | [#71](https://github.com/whyvineet/orthoplay/issues/71) |
 | Update footer component | Medium | [#70](https://github.com/whyvineet/orthoplay/pull/70) |
@@ -151,6 +186,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| resolved the problemes of content visibility from documentation and ... | Medium | [#53](https://github.com/solve-ease/OptiBlogAi/pull/53) |
+| Add Hover Effect to "Try demo" Button | Medium | [#52](https://github.com/solve-ease/OptiBlogAi/issues/52) |
 | Added link to license in README | Medium | [#51](https://github.com/solve-ease/OptiBlogAi/pull/51) |
 | Reolved the issue of the redirection of the links | Medium | [#44](https://github.com/solve-ease/OptiBlogAi/pull/44) |
 | Automated FAQ/Q&A Generation for Blog Posts | Medium | [#40](https://github.com/solve-ease/OptiBlogAi/issues/40) |
@@ -165,8 +202,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | deps(deps): bump typing-extensions from 4.13.2 to 4.14.1 | Medium | [#12](https://github.com/solve-ease/OptiBlogAi/pull/12) |
 | deps(deps): bump beautifulsoup4 from 4.13.3 to 4.13.4 | Medium | [#11](https://github.com/solve-ease/OptiBlogAi/pull/11) |
 | deps(deps): bump tld from 0.13 to 0.13.1 | Medium | [#10](https://github.com/solve-ease/OptiBlogAi/pull/10) |
-| ci(deps): bump codecov/codecov-action from 4 to 5 | Medium | [#9](https://github.com/solve-ease/OptiBlogAi/pull/9) |
-| Verify MIT License file is properly configured at repository root | Medium | [#7](https://github.com/solve-ease/OptiBlogAi/pull/7) |
 
 ---
 
@@ -239,9 +274,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/kunal0297/Nexus_dawn/issues/3) |
-| Suggestion: Add Code Of Conduct File to project | Medium | [#2](https://github.com/kunal0297/Nexus_dawn/issues/2) |
-| 🚫 License Missing from Repository | Medium | [#1](https://github.com/kunal0297/Nexus_dawn/issues/1) |
+| Added Code of Conduct | Medium | [#4](https://github.com/kunal0297/Nexus_dawn/pull/4) |
 
 ---
 
