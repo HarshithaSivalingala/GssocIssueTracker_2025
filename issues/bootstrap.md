@@ -47,23 +47,6 @@
 
 ---
 
-## 📌 Project: FARMLOC
-
-📝 **Description:** FARMLOC stands for Farmers-Agricultural-Resource-Management-and-Location-Of-Cold-storage.
- It is a web-based platform designed to empower farmers by providing seamless access to agricultural resources, tools for management, and real-time information about the nearest available cold storages.
-
-🔗 [View Project](https://github.com/Pujan-sarkar/FARMLOC)
-
-💻 **Tech Stack:** React.js, CSS, JavaScript, Bootstrap, Node.js, Express.js
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: sachiva
 
 📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
