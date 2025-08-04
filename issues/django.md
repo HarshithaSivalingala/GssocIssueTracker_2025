@@ -14,7 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement automated OWASP schema publishing (PoC) | Easy | [#1949](https://github.com/OWASP/Nest/pull/1949) |
+| Fix Navbar Alignment and Add Theme Support on Sponsor Page | Medium | [#1964](https://github.com/OWASP/Nest/issues/1964) |
+| Implement Breadcrumbs | Medium | [#1963](https://github.com/OWASP/Nest/pull/1963) |
+| Add unit tests for Milestones component | Medium | [#1962](https://github.com/OWASP/Nest/pull/1962) |
+| add unit test for ToggleableList component | Medium | [#1960](https://github.com/OWASP/Nest/pull/1960) |
+| Improve backend/apps/slack  test coverage | Medium | [#1956](https://github.com/OWASP/Nest/pull/1956) |
+| add: structured data for profile pages to improve visibility | Medium | [#1953](https://github.com/OWASP/Nest/pull/1953) |
+| Fix #1804: Added test for CardDetailsPage Component | Medium | [#1951](https://github.com/OWASP/Nest/pull/1951) |
 | Add test : RecentRelease component unit test | Medium | [#1946](https://github.com/OWASP/Nest/pull/1946) |
 | Create snapshots.py | Medium | [#1941](https://github.com/OWASP/Nest/pull/1941) |
 | Add structured data to Organization pages | Medium | [#1940](https://github.com/OWASP/Nest/pull/1940) |
@@ -40,6 +46,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement comprehensive global exception handling system for FastAPI backend #21 | Medium | [#45](https://github.com/indra7777/frostiq/pull/45) |
 | Add Authentication & Authorization | Medium | [#44](https://github.com/indra7777/frostiq/issues/44) |
 | Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
 | Create admins.py | Medium | [#42](https://github.com/indra7777/frostiq/pull/42) |
@@ -114,6 +121,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Success Message Display After Contact Form Submission | Medium | [#35](https://github.com/Khushbudaswani/Foodbridge/issues/35) |
 | Enhance SEO: Add meta tags, Open Graph & Twitter Cards to all pages #20 | Medium | [#34](https://github.com/Khushbudaswani/Foodbridge/pull/34) |
 | Feature Request: Login/Signup Page | Medium | [#33](https://github.com/Khushbudaswani/Foodbridge/issues/33) |
 | Feature Request: Light/Dark Mode Toggle | Medium | [#32](https://github.com/Khushbudaswani/Foodbridge/issues/32) |
@@ -144,8 +152,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix AJAX search and enhance job search experience | Medium | [#109](https://github.com/Khushi-Nigam/jobportal/pull/109) |
+| Added Hover Effects to Service Cards for Improved UI Interactivity | Medium | [#108](https://github.com/Khushi-Nigam/jobportal/pull/108) |
+| Improve login UI alignment | Medium | [#107](https://github.com/Khushi-Nigam/jobportal/issues/107) |
+| Improved ui in login page and ensure there is no overlap between text and image in employer home page | Medium | [#106](https://github.com/Khushi-Nigam/jobportal/pull/106) |
 | while registering i can use 4 characters but while login i cant | Medium | [#102](https://github.com/Khushi-Nigam/jobportal/issues/102) |
-| Rearranged YouTube Videos Using Grid Layout | Medium | [#95](https://github.com/Khushi-Nigam/jobportal/pull/95) |
 | Issue 5 resolved | Medium | [#80](https://github.com/Khushi-Nigam/jobportal/pull/80) |
 | fix: Adding font styles in headings | Medium | [#57](https://github.com/Khushi-Nigam/jobportal/pull/57) |
 | Systemic Infosec Vulnerabilities and Codebase Anti-Patterns in Django | Medium | [#56](https://github.com/Khushi-Nigam/jobportal/issues/56) |
@@ -168,7 +179,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Data Visualizations for Model Insights & EDA | Medium | [#24](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/24) |
+| feat: Add Data Dashboard, Explainability, and API Layer for Sneaker Price Prediction (#10) | Medium | [#27](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/27) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
 | Create a CONTRIBUTING.md file for developer guidelines | Medium | [#22](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/22) |
 | Linear Regression for price [GSSoC 25] | Medium | [#21](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/21) |
@@ -181,7 +192,6 @@
 | Create utils.py | Medium | [#14](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/14) |
 | Update models.py | Medium | [#13](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/13) |
 | Update apps.py | Medium | [#12](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/12) |
-| Added LSTM Model for Sneaker Price Prediction | Medium | [#7](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/7) |
 | Add CSV Format Validation & Error Handling for Sneaker Dataset Upload | Medium | [#5](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/5) |
 
 ---
@@ -200,14 +210,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| The taskbar components in dark mode is not visible | Medium | [#193](https://github.com/ygowthamr/WhitePaper/issues/193) |
+| Toggle Mode Not Working on Website | Medium | [#192](https://github.com/ygowthamr/WhitePaper/issues/192) |
+| Removed duplicate "© 2025" text in the Website footer (Ref. 188) | Medium | [#191](https://github.com/ygowthamr/WhitePaper/pull/191) |
+| Add a contribution guide. | Medium | [#190](https://github.com/ygowthamr/WhitePaper/issues/190) |
 | Live Vercel deployment returns 404 - not accessible | Medium | [#189](https://github.com/ygowthamr/WhitePaper/issues/189) |
-| Duplicate "© 2025" text appears in the website footer | Medium | [#188](https://github.com/ygowthamr/WhitePaper/issues/188) |
 | Update models issue (#186) | Medium | [#187](https://github.com/ygowthamr/WhitePaper/pull/187) |
 | Issue: Remove Redundant Import of models | Medium | [#186](https://github.com/ygowthamr/WhitePaper/issues/186) |
 | Created CONTRIBUTORS.md | Medium | [#185](https://github.com/ygowthamr/WhitePaper/pull/185) |
 | Add Real-Time Autosave Feature for Notes | Medium | [#184](https://github.com/ygowthamr/WhitePaper/pull/184) |
-| Enhancement Refactor & Consolidate Core UI JavaScript | Medium | [#183](https://github.com/ygowthamr/WhitePaper/issues/183) |
-| refactor: Standardize Static File References & Consolidate JS | Medium | [#182](https://github.com/ygowthamr/WhitePaper/pull/182) |
 | Want to add contributors section | Medium | [#181](https://github.com/ygowthamr/WhitePaper/issues/181) |
 | feat: implement secure environment variable configuration | Medium | [#180](https://github.com/ygowthamr/WhitePaper/pull/180) |
 | Add dedicated license page | Medium | [#179](https://github.com/ygowthamr/WhitePaper/pull/179) |
@@ -235,7 +246,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Landing Page Implementation and Refactor | Easy | [#45](https://github.com/Promptzy/Zenjira/pull/45) |
+| feat: Implement comprehensive logo design system for Zenjira | Hard | [#47](https://github.com/Promptzy/Zenjira/pull/47) |
 
 ---
 
