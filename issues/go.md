@@ -27,6 +27,7 @@ Accessibility features like dark mode,white.
 | AI Career Roadmap Generator (from Interests) | Easy | [#178](https://github.com/abhisek2004/Dev-Elevate/issues/178) |
 | 🐞 Bug Report: Study Buddy AI Chat Categories Not Working | Easy | [#168](https://github.com/abhisek2004/Dev-Elevate/issues/168) |
 | Feature Request: Build a Full Interactive “Learning Hub Data Structures & Algorithms 6 modules • Interactive learning” 📘📚 | Easy | [#167](https://github.com/abhisek2004/Dev-Elevate/issues/167) |
+| Update axios instance to use dynamic base URL from config | Medium | [#226](https://github.com/abhisek2004/Dev-Elevate/pull/226) |
 | Recovered pr branch | Medium | [#224](https://github.com/abhisek2004/Dev-Elevate/pull/224) |
 | Jwt newsletter | Medium | [#221](https://github.com/abhisek2004/Dev-Elevate/pull/221) |
 | 🌟 [Feature Proposal] Add Community Forum / Q&A Section for Learner Support | Medium | [#218](https://github.com/abhisek2004/Dev-Elevate/issues/218) |
@@ -739,11 +740,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed Interview Flow issues | Medium | [#190](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/190) |
-| Optimize-UI-animation | Medium | [#189](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/189) |
-| Css issue in mobile view | Medium | [#188](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/188) |
-| Implement Static Sidebar for Company Dashboard | Medium | [#187](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/187) |
-| Implement Static Sidebar for Employee Dashboard | Medium | [#186](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/186) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
@@ -1504,22 +1500,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 ---
 
-## 📌 Project: rescuegrid - AI powered disaster management platform
-
-📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
-
-🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
-
-💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, GitHub, Google Maps API, Postman
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: One-stop-Guide
 
 📝 **Description:** One-Stop Guide ek city-exploration website hai jisme user city select karta hai, fir options milte hain jaise: Tourism, Shopping, Jobs, Restaurants, Pharmacy. Har option pe click karne se relevant info, image, aur Google Maps link dikhai deta hai.
@@ -1559,7 +1539,6 @@ _No unassigned issues._
 | Enhance "One Stop Guide" with Advanced Features, City-wise PHP Structure, and UI/UX Upgrades | Medium | [#24](https://github.com/komalkhatod1105/One-Stop-Guide/issues/24) |
 | Fix Missing City Info Display and Add Basic Validation in city.php | Medium | [#15](https://github.com/komalkhatod1105/One-Stop-Guide/issues/15) |
 | Erroneous Navbar Highlighting and inconsistent Menu Behavior | Medium | [#3](https://github.com/komalkhatod1105/One-Stop-Guide/issues/3) |
-| "HOME" Navigation Fails When Accessing via Non-Index State Files | Medium | [#2](https://github.com/komalkhatod1105/One-Stop-Guide/issues/2) |
 
 ---
 
@@ -1628,22 +1607,6 @@ Fast Workflow Tools
 
 ---
 
-## 📌 Project: Doctrinix
-
-📝 **Description:** Doctrix - Doctor Appointment Booking App Doctrix is a smart and user-friendly doctor appointment booking app designed to simplify healthcare access for everyone. The app allows users to sign up and sign in securely, providing personalized access to healthcare services. With features ranging from doctor selection and medicine ordering to profile management, Doctrix offers a seamless digital healthcare experience.
-
-🔗 [View Project](https://github.com/lalitsingh789/doctor-app)
-
-💻 **Tech Stack:** React Native, MongoDB, Node.js
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: studymate
 
 📝 **Description:** StudyMate is an open-source platform built to support college students during their semester exam preparations. The idea behind creating this platform originated from a common observation many students begin studying only when exams are near, often leading to confusion, stress, and wasted time searching for study materials. To address this issue, StudyMate offers a centralized and reliable hub where students can access syllabus content, previous year question papers (PYQs), peer-shared exam feedback, and seek guidance from seniors. By bringing all essential academic resources into one accessible platform, StudyMate aims to help students save time, study more effectively, and feel more confident during exams. Additionally, it provides a great opportunity for beginner-friendly contributors to collaborate and grow in the open-source community.
@@ -1658,23 +1621,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added About Us Section | Medium | [#8](https://github.com/lovelymahor/StudyMatePlus/pull/8) |
 | Add syllabus page with the mock data | Medium | [#6](https://github.com/lovelymahor/StudyMatePlus/issues/6) |
-
----
-
-## 📌 Project: RescueGrid AI-Powered Disaster Management Platform. etc.
-
-📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
-
-🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
-
-💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, Express.js, GitHub, Google Maps API, AI/ML, Postman
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
@@ -1949,6 +1897,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add CODE_OF_CONDUCT.md for PrivGPT-Studio under GSSoC'25 | Medium | [#28](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/28) |
 | Refactor backend into modular folder structure (Flask Blueprint Setup) | Medium | [#8](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/8) |
 
 ---
@@ -1995,7 +1944,6 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesigned and Styled Contact Page with Responsive Layout – Closes #1 | Medium | [#8](https://github.com/SrijaVuppala295/Compassion_Connect/pull/8) |
-| docs: add Code of Conduct file (Contributor Covenant) | Medium | [#7](https://github.com/SrijaVuppala295/Compassion_Connect/pull/7) |
 
 ---
 
@@ -2166,22 +2114,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add mit license file to the project | Medium | [#2](https://github.com/Tanyagambhir/UsedCarPricePridiction/pull/2) |
-
----
-
-## 📌 Project: SchoolApp
-
-📝 **Description:** Welcome to the School CRM System project! This system is designed to provide a smooth and intuitive experience for parents, students, and staff, focusing on student management and engagement. With our CRM, schools can enhance communication, ensure timely updates, and foster a better learning environment.
-
-🔗 [View Project](https://github.com/jayanththalla/School-CRM)
-
-💻 **Tech Stack:** Next.js, MongoDB, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
