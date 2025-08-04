@@ -118,12 +118,12 @@
 | 🐞 Navbar Dropdown Clickable Outside Menu Icon | Medium | [#525](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/525) |
 | Added my name to README | Arpita Singh | GSSOC'25 | Medium | [#524](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/524) |
 | fixed hotel schema | Medium | [#523](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/523) |
-| Feature:Booking Hotel PDF Generate | Medium | [#522](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/522) |
 | Backend Functionality  of updating profile | Medium | [#521](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/521) |
-| Fix/login signup issue | Medium | [#520](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/520) |
 | Contact Option in Dropdown Menu is Highlighted by Default | Medium | [#519](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/519) |
-| Feedback submission restricted only to logged in users | Medium | [#518](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/518) |
 | UI Fixes | Medium | [#517](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/517) |
+| Feature/footer fix | Medium | [#515](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/515) |
+| fix: center Travel Recommendation page and add spacing from navbar/footer | Medium | [#512](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/512) |
+| Travel Recommendation page not centered and overlaps with navbar/footer | Medium | [#511](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/511) |
 
 ---
 
@@ -1070,6 +1070,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Docs | Medium | [#514](https://github.com/Mujtabaa07/coffeeShop/pull/514) |
 | Feature: Clear Cart button with disable functionality when cart is empty #503 | Medium | [#513](https://github.com/Mujtabaa07/coffeeShop/pull/513) |
 | Adding payment page | Medium | [#512](https://github.com/Mujtabaa07/coffeeShop/issues/512) |
 | Changed UI of landing page | Medium | [#488](https://github.com/Mujtabaa07/coffeeShop/pull/488) |
@@ -1092,11 +1093,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed Interview Flow issues | Medium | [#190](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/190) |
-| Optimize-UI-animation | Medium | [#189](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/189) |
-| Css issue in mobile view | Medium | [#188](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/188) |
-| Implement Static Sidebar for Company Dashboard | Medium | [#187](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/187) |
-| Implement Static Sidebar for Employee Dashboard | Medium | [#186](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/186) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
@@ -2084,22 +2080,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
-## 📌 Project: Project Xangoes
-
-📝 **Description:** A comprehensive full-stack system for managing college fests and events, designed to centralize event management, registration handling, and transaction tracking for educational institutions.
-
-🔗 [View Project](https://github.com/dscnitrourkela/project-xangoes)
-
-💻 **Tech Stack:** Next.js, React, React DOM, TypeScript, Bun, Tailwind CSS, PostCSS, ESLint, Turbopack, Hono, PostgreSQL, Drizzle ORM, Drizzle Kit, Zod, dotenv, TSX, Git, Node.js, pg
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: Natively UI
 
 📝 **Description:** The collection of best reusable React Native Ul components styled with Tailwind/Nativewind.
@@ -2161,45 +2141,6 @@ _No unassigned issues._
 | Add Readme.md | Medium | [#12](https://github.com/Devaki01/EcoStore/issues/12) |
 | 🔐 Feature Request: Implement Login & Sign Up using Firebase Authentication | Medium | [#6](https://github.com/Devaki01/EcoStore/issues/6) |
 | 🧭 Feature Request: Create a Navbar Component for the Website | Medium | [#4](https://github.com/Devaki01/EcoStore/issues/4) |
-
----
-
-## 📌 Project: Jeanne AI chatbot Project
-
-📝 **Description:** Jeanne AI A Full-Stack Conversational Chatbot
- 
- Jeanne AI is an intelligent, interactive chatbot built with the power of OpenAI's GPT model, designed to mimic human-like conversation. It supports natural language understanding, typing animation, chat history, and optional voice input/output features making it feel alive, helpful, and personal.
- 
- This project uses a Node.js + Express backend and a React (Vite) frontend, structured in a scalable client/ and server/ folder architecture. The backend handles secure API calls to OpenAI, while the frontend provides a smooth and responsive chat interface. It's deployed using Render (backend) and Vercel (frontend) for production.
- 
-Features
- 
- Chat interface powered by GPT (via OpenAI API)
- 
- Typing animation for realistic feel
- 
- Chat history retention
- 
- Switchable roles/personalities (friendly, formal, etc.)
- 
- Optional speech-to-text and text-to-speech
- 
- Responsive, mobile-friendly UI
- 
- 
-Why Jeanne?
- 
- Jeanne is imagined as a gentle, thoughtful AI companion someone who listens, helps, and responds with care. The name gives the bot a human-like identity, making the experience more cozy and personal.
-
-🔗 [View Project](https://github.com/revxi/Jeanne-AI-Chatbot-Project)
-
-💻 **Tech Stack:** React.js, Vite, Tailwind CSS, Framer Motion, React Speech Recognition, Text-to-Speech API, Axios, Fetch API, Node.js, Express.js, OpenAI API, dotenv, CORS, body-parser, Vercel, Render
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
@@ -2273,39 +2214,6 @@ _No unassigned issues._
 
 ---
 
-## 📌 Project: SkillSphere
-
-📝 **Description:** SkillSphere Personalized Learning & Resource Hub for Engineering Students
- Tech Stack: React (Vite), Tailwind CSS
- 
- SkillSphere is a frontend web platform that helps engineering students streamline their skill development through curated resources and structured mentorship opportunities.
- 
- Core Features:
- 
- Domain-Specific Resource Pages: Organized roadmaps, cheat sheets, YouTube playlists, practice platforms, and helpful links for areas like Web Development, UI/UX, DSA, AI/ML, and AR/VR.
- 
- Mentorship Cohorts: Structured learning cohorts where students can join groups based on their chosen domain and connect with mentors for guidance and progress tracking.
- 
- Personalized Learning Hub: Save preferred resources, track progress, and stay focused on skill-building through a distraction-free interface.
- 
- Responsive, Minimal UI: Fast and accessible design built using React (with Vite) and styled with Tailwind CSS for a clean, mobile-friendly experience.
- 
- 
- Objective:
- To centralize quality learning resources, foster peer and mentor-driven growth, and provide a structured learning ecosystem for engineering students.
-
-🔗 [View Project](https://github.com/codeX-Crafter/SkillSphere)
-
-💻 **Tech Stack:** React, Vite, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: Voice Marketing Agents
 
 📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
@@ -2332,22 +2240,6 @@ _No unassigned issues._
 
 ---
 
-## 📌 Project: Melodyminds-AI Powdered music player
-
-📝 **Description:** A Full stack music player with ad free listening and smart recommendations rivaling music streaming platforms
-
-🔗 [View Project](https://github.com/powerstone666/MelodyMind)
-
-💻 **Tech Stack:** React, Firebase, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: WaveFarer
 
 📝 **Description:** Created a real-time beach safety web application with React, incorporating INCOIS APIs for live ocean and weather data.Createdmachine learning and deep learning models to create dynamic coastal risk assessments based on environmental conditions.Created an interactive and responsive UI with React and geospatial mapping libraries for an easy-to-use experience.
@@ -2367,22 +2259,6 @@ _No unassigned issues._
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/JoannaSharon06/WaveFarerFin/issues/3) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#2](https://github.com/JoannaSharon06/WaveFarerFin/issues/2) |
 | 🚫 License Missing from Repository | Medium | [#1](https://github.com/JoannaSharon06/WaveFarerFin/issues/1) |
-
----
-
-## 📌 Project: rescuegrid - AI powered disaster management platform
-
-📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
-
-🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
-
-💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, GitHub, Google Maps API, Postman
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
@@ -2443,22 +2319,6 @@ Fast Workflow Tools
 
 ---
 
-## 📌 Project: Doctrinix
-
-📝 **Description:** Doctrix - Doctor Appointment Booking App Doctrix is a smart and user-friendly doctor appointment booking app designed to simplify healthcare access for everyone. The app allows users to sign up and sign in securely, providing personalized access to healthcare services. With features ranging from doctor selection and medicine ordering to profile management, Doctrix offers a seamless digital healthcare experience.
-
-🔗 [View Project](https://github.com/lalitsingh789/doctor-app)
-
-💻 **Tech Stack:** React Native, MongoDB, Node.js
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: studymate
 
 📝 **Description:** StudyMate is an open-source platform built to support college students during their semester exam preparations. The idea behind creating this platform originated from a common observation many students begin studying only when exams are near, often leading to confusion, stress, and wasted time searching for study materials. To address this issue, StudyMate offers a centralized and reliable hub where students can access syllabus content, previous year question papers (PYQs), peer-shared exam feedback, and seek guidance from seniors. By bringing all essential academic resources into one accessible platform, StudyMate aims to help students save time, study more effectively, and feel more confident during exams. Additionally, it provides a great opportunity for beginner-friendly contributors to collaborate and grow in the open-source community.
@@ -2473,23 +2333,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added About Us Section | Medium | [#8](https://github.com/lovelymahor/StudyMatePlus/pull/8) |
 | Add syllabus page with the mock data | Medium | [#6](https://github.com/lovelymahor/StudyMatePlus/issues/6) |
-
----
-
-## 📌 Project: RescueGrid AI-Powered Disaster Management Platform. etc.
-
-📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
-
-🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
-
-💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, Express.js, GitHub, Google Maps API, AI/ML, Postman
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
@@ -2700,23 +2545,6 @@ _No unassigned issues._
 
 ---
 
-## 📌 Project: FARMLOC
-
-📝 **Description:** FARMLOC stands for Farmers-Agricultural-Resource-Management-and-Location-Of-Cold-storage.
- It is a web-based platform designed to empower farmers by providing seamless access to agricultural resources, tools for management, and real-time information about the nearest available cold storages.
-
-🔗 [View Project](https://github.com/Pujan-sarkar/FARMLOC)
-
-💻 **Tech Stack:** React.js, CSS, JavaScript, Bootstrap, Node.js, Express.js
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: Doc@Home
 
 📝 **Description:** Doc@Home is an innovative web-based platform designed to connect patients with verified doctors and nursing professionals for in-home medical consultations. It addresses the dual challenge of underutilized medical talent and the growing need for personalized, home-based healthcare in India. The platform ensures strict provider verification, transparent pricing, and quality control through real-time booking, robust feedback systems, and an admin-led authentication process.
@@ -2864,6 +2692,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add CODE_OF_CONDUCT.md for PrivGPT-Studio under GSSoC'25 | Medium | [#28](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/28) |
 | Refactor backend into modular folder structure (Flask Blueprint Setup) | Medium | [#8](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/8) |
 
 ---
@@ -2910,7 +2739,6 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesigned and Styled Contact Page with Responsive Layout – Closes #1 | Medium | [#8](https://github.com/SrijaVuppala295/Compassion_Connect/pull/8) |
-| docs: add Code of Conduct file (Contributor Covenant) | Medium | [#7](https://github.com/SrijaVuppala295/Compassion_Connect/pull/7) |
 
 ---
 
