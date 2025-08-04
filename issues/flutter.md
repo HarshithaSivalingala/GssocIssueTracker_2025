@@ -79,10 +79,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance empty state UI with illustration and fade-in animation (#153 & #159) | Medium | [#194](https://github.com/Prateek9876/NagarVikas/pull/194) |
 | Lib folder restructured and import issue fixed | Medium | [#187](https://github.com/Prateek9876/NagarVikas/pull/187) |
-| Improved ui in Contact us and Feedback Page #181 Level 2 | Medium | [#182](https://github.com/Prateek9876/NagarVikas/pull/182) |
 | Show Preview of Uploaded Image before Submission. | Hard | [#191](https://github.com/Prateek9876/NagarVikas/pull/191) |
-| Added Star/Favorite to Complaints (Admin) #64 Level 3 | Hard | [#186](https://github.com/Prateek9876/NagarVikas/pull/186) |
 | Add push notification feature to admin dashboard whenever new complaint is filed by user | Hard | [#127](https://github.com/Prateek9876/NagarVikas/issues/127) |
 
 ---
@@ -101,6 +100,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement forgot password to the flutter UI | Medium | [#119](https://github.com/Yash159357/BREVITY/pull/119) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
 
 ---
@@ -119,7 +119,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Request | Medium | [#49](https://github.com/may-tas/TextEditingApp/issues/49) |
+| Add Text Alignment Controls (Left, Center, Right) for Editable Text | Medium | [#56](https://github.com/may-tas/TextEditingApp/issues/56) |
 | Bug Report : Delete Key Removes All Text Elements Instead of Only the Selected One | Medium | [#4](https://github.com/may-tas/TextEditingApp/issues/4) |
 | Feature Request : Option to save pages | Hard | [#50](https://github.com/may-tas/TextEditingApp/issues/50) |
 
@@ -139,6 +139,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Display Daily Motivational Quote on Athlete Dashboard | Medium | [#74](https://github.com/VJLIVE/Athletix/issues/74) |
+| Auth code improve | Medium | [#73](https://github.com/VJLIVE/Athletix/pull/73) |
 | Optimize Splash Screen Performance with Authentication Check in Parallel with Animation | Medium | [#60](https://github.com/VJLIVE/Athletix/issues/60) |
 | Solved issues in performance tracking | Medium | [#55](https://github.com/VJLIVE/Athletix/pull/55) |
 | fixed add players for organizations . | Medium | [#50](https://github.com/VJLIVE/Athletix/pull/50) |
@@ -160,6 +162,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement forgot password to the flutter UI | Medium | [#119](https://github.com/Yash159357/BREVITY/pull/119) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
 
 ---
@@ -182,9 +185,26 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add dark/light switch ✅ | Medium | [#9](https://github.com/GDSC-Kanpur-Institiute-of-Technolgy/FieldTrace/pull/9) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#8](https://github.com/GDSC-Kanpur-Institiute-of-Technolgy/FieldTrace/issues/8) |
 | Add mit license file to the project | Medium | [#7](https://github.com/GDSC-Kanpur-Institiute-of-Technolgy/FieldTrace/issues/7) |
+
+---
+
+## 📌 Project: Intellicash
+
+📝 **Description:** Intellicash is a next-gen personal finance platform powered by Google Cloud services including Firebase, Vertex Al, and Fi Money's MCP server, delivering enterprise-grade financial intelligence with consumer simplicity
+
+🔗 [View Project](https://github.com/Sudoerz/IntelliCash)
+
+💻 **Tech Stack:** Flutter, Python, Golang, GCP
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Security Issue: Firebase API Key Hardcoded in Source Code | Medium | [#6](https://github.com/Sudoerz/IntelliCash/issues/6) |
 
 ---
 
