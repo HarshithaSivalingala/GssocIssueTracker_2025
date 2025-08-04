@@ -16,10 +16,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make a yt video showcasing how to setup the bot properly [Open to anyone who can make vids] | Easy | [#50](https://github.com/harshendram/Advanced-Discord-Bot/issues/50) |
 | search and replace "ephemeral" with flags | Easy | [#45](https://github.com/harshendram/Advanced-Discord-Bot/issues/45) |
-| Added Zip feature which updates .zip every time we push code into the repo | Medium | [#49](https://github.com/harshendram/Advanced-Discord-Bot/pull/49) |
 | Overhauling AI section | Medium | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
-| Website added (#35) | Hard | [#44](https://github.com/harshendram/Advanced-Discord-Bot/pull/44) |
 
 ---
 
@@ -92,7 +91,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Landing Page Implementation and Refactor | Easy | [#45](https://github.com/Promptzy/Zenjira/pull/45) |
+| feat: Implement comprehensive logo design system for Zenjira | Hard | [#47](https://github.com/Promptzy/Zenjira/pull/47) |
 
 ---
 
