@@ -59,6 +59,7 @@ Accessibility features like dark mode,white.
 | AI Career Roadmap Generator (from Interests) | Easy | [#178](https://github.com/abhisek2004/Dev-Elevate/issues/178) |
 | 🐞 Bug Report: Study Buddy AI Chat Categories Not Working | Easy | [#168](https://github.com/abhisek2004/Dev-Elevate/issues/168) |
 | Feature Request: Build a Full Interactive “Learning Hub Data Structures & Algorithms 6 modules • Interactive learning” 📘📚 | Easy | [#167](https://github.com/abhisek2004/Dev-Elevate/issues/167) |
+| Update axios instance to use dynamic base URL from config | Medium | [#226](https://github.com/abhisek2004/Dev-Elevate/pull/226) |
 | Recovered pr branch | Medium | [#224](https://github.com/abhisek2004/Dev-Elevate/pull/224) |
 | Jwt newsletter | Medium | [#221](https://github.com/abhisek2004/Dev-Elevate/pull/221) |
 | 🌟 [Feature Proposal] Add Community Forum / Q&A Section for Learner Support | Medium | [#218](https://github.com/abhisek2004/Dev-Elevate/issues/218) |
@@ -450,11 +451,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed Interview Flow issues | Medium | [#190](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/190) |
-| Optimize-UI-animation | Medium | [#189](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/189) |
-| Css issue in mobile view | Medium | [#188](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/188) |
-| Implement Static Sidebar for Company Dashboard | Medium | [#187](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/187) |
-| Implement Static Sidebar for Employee Dashboard | Medium | [#186](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/186) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
@@ -1033,45 +1029,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 ---
 
-## 📌 Project: Jeanne AI chatbot Project
-
-📝 **Description:** Jeanne AI A Full-Stack Conversational Chatbot
- 
- Jeanne AI is an intelligent, interactive chatbot built with the power of OpenAI's GPT model, designed to mimic human-like conversation. It supports natural language understanding, typing animation, chat history, and optional voice input/output features making it feel alive, helpful, and personal.
- 
- This project uses a Node.js + Express backend and a React (Vite) frontend, structured in a scalable client/ and server/ folder architecture. The backend handles secure API calls to OpenAI, while the frontend provides a smooth and responsive chat interface. It's deployed using Render (backend) and Vercel (frontend) for production.
- 
-Features
- 
- Chat interface powered by GPT (via OpenAI API)
- 
- Typing animation for realistic feel
- 
- Chat history retention
- 
- Switchable roles/personalities (friendly, formal, etc.)
- 
- Optional speech-to-text and text-to-speech
- 
- Responsive, mobile-friendly UI
- 
- 
-Why Jeanne?
- 
- Jeanne is imagined as a gentle, thoughtful AI companion someone who listens, helps, and responds with care. The name gives the bot a human-like identity, making the experience more cozy and personal.
-
-🔗 [View Project](https://github.com/revxi/Jeanne-AI-Chatbot-Project)
-
-💻 **Tech Stack:** React.js, Vite, Tailwind CSS, Framer Motion, React Speech Recognition, Text-to-Speech API, Axios, Fetch API, Node.js, Express.js, OpenAI API, dotenv, CORS, body-parser, Vercel, Render
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: LegalHuB AI-Powered Legal Help Platform
 
 📝 **Description:** LegalHuB is an AI-powered legal assistance platform designed to help users access legal information quickly and easily. It features a smart legal search engine, a legal dictionary, and state-specific document templates. Integrated with Chatbase AI, the platform enables intelligent responses to user queries while ensuring fast, reliable document retrieval.
@@ -1143,23 +1100,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added About Us Section | Medium | [#8](https://github.com/lovelymahor/StudyMatePlus/pull/8) |
 | Add syllabus page with the mock data | Medium | [#6](https://github.com/lovelymahor/StudyMatePlus/issues/6) |
-
----
-
-## 📌 Project: RescueGrid AI-Powered Disaster Management Platform. etc.
-
-📝 **Description:** RescueGrid is an AI-based disaster management and communication platform built to support real-time coordination during emergency situations. It integrates live incident reporting, resource distribution, safe route mapping, and centralized control dashboards. The project welcomes contributors to enhance the UI/UX, optimize backend APIs, and expand AI-based modules. It is designed to give developers hands-on experience in building scalable, real-world solutions with social impact.
-
-🔗 [View Project](https://github.com/MadhavArora1213/Diseaster_Management)
-
-💻 **Tech Stack:** React.js, Node.js, Firebase, Tailwind CSS, JavaScript, HTML, CSS, Express.js, GitHub, Google Maps API, AI/ML, Postman
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
 
 ---
 
@@ -1307,23 +1249,6 @@ _No unassigned issues._
 
 ---
 
-## 📌 Project: FARMLOC
-
-📝 **Description:** FARMLOC stands for Farmers-Agricultural-Resource-Management-and-Location-Of-Cold-storage.
- It is a web-based platform designed to empower farmers by providing seamless access to agricultural resources, tools for management, and real-time information about the nearest available cold storages.
-
-🔗 [View Project](https://github.com/Pujan-sarkar/FARMLOC)
-
-💻 **Tech Stack:** React.js, CSS, JavaScript, Bootstrap, Node.js, Express.js
-
----
-
-### 🐛 Unassigned Issues
-
-_No unassigned issues._
-
----
-
 ## 📌 Project: Doc@Home
 
 📝 **Description:** Doc@Home is an innovative web-based platform designed to connect patients with verified doctors and nursing professionals for in-home medical consultations. It addresses the dual challenge of underutilized medical talent and the growing need for personalized, home-based healthcare in India. The platform ensures strict provider verification, transparent pricing, and quality control through real-time booking, robust feedback systems, and an admin-led authentication process.
@@ -1428,7 +1353,6 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesigned and Styled Contact Page with Responsive Layout – Closes #1 | Medium | [#8](https://github.com/SrijaVuppala295/Compassion_Connect/pull/8) |
-| docs: add Code of Conduct file (Contributor Covenant) | Medium | [#7](https://github.com/SrijaVuppala295/Compassion_Connect/pull/7) |
 
 ---
 
