@@ -17,7 +17,6 @@
 | Display GSSoC 2025 Leaderboard with Live Data md Copy Edit | Easy | [#53](https://github.com/Promptzy/Nexara/issues/53) |
 | Implement API Endpoint for GSSoC 2025 Leaderboard Data | Easy | [#52](https://github.com/Promptzy/Nexara/issues/52) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
-| Add Project Logo to README from Public Assets | Easy | [#50](https://github.com/Promptzy/Nexara/issues/50) |
 
 ---
 
