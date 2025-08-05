@@ -2168,7 +2168,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add back-to-top button | Medium | [#15](https://github.com/RAJVEER42/git-quiz-challenge/pull/15) |
 | Add Flask Backend to Implement Core Functionality | Medium | [#14](https://github.com/RAJVEER42/git-quiz-challenge/issues/14) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#13](https://github.com/RAJVEER42/git-quiz-challenge/issues/13) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#12](https://github.com/RAJVEER42/git-quiz-challenge/issues/12) |
