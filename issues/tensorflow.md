@@ -14,10 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CustomCursor : not looking professional | Medium | [#203](https://github.com/Amarjha01/InfantCareCompass/pull/203) |
 | added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Fix: fixed the rotating star above the hero section text and changed the UI of the hero section for a smoother UI. | Medium | [#198](https://github.com/Amarjha01/InfantCareCompass/pull/198) |
-| loader added | Medium | [#196](https://github.com/Amarjha01/InfantCareCompass/pull/196) |
 | Added favicon | Medium | [#194](https://github.com/Amarjha01/InfantCareCompass/pull/194) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 | remove duplicate Passward Eye | Medium | [#187](https://github.com/Amarjha01/InfantCareCompass/pull/187) |
@@ -26,6 +24,8 @@
 | Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
 | Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 | feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
+| Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
+| modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
 
 ---
 
@@ -103,6 +103,24 @@
 | Fixes:#2 Add DeepFace-based emotion detection with YouTube music recommendation | Medium | [#39](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/39) |
 | feat(playlists): add emotion-based playlist creation functionality | Hard | [#60](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/60) |
 | Added print statement to log when video streaming starts | Hard | [#50](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) |
+
+---
+
+## 📌 Project: Smart Waste Classification System using EfficientNet
+
+📝 **Description:** A machine learning-based system to automate waste classification using image recognition. Leveraging the EfficientNetV2B2 architecture, the model identifies different types of waste (plastic, paper, metal, etc.) from images, helping in effective recycling and segregation. The system aims to reduce manual effort and improve the accuracy of waste management.
+
+🔗 [View Project](https://github.com/AditixAnand/Garbage_Classification.git)
+
+💻 **Tech Stack:** Python, TensorFlow, EfficientNet, Streamlit, OpenCV, NumPy, Pandas
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Enhancement: Add a loading spinner while image is being processed | Medium | [#36](https://github.com/AditixAnand/Garbage_Classification/issues/36) |
 
 ---
 
