@@ -14,9 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| search bar should have the recent search storing option | Medium | [#37](https://github.com/HimanshuHeda/Zip_Tales/issues/37) |
 | Made all neccesarry chages required for Proposed Filters | Medium | [#36](https://github.com/HimanshuHeda/Zip_Tales/pull/36) |
-| Enhancement: Add text animation (letter-by-letter popup), UI animations, and dark mode toggle | Medium | [#35](https://github.com/HimanshuHeda/Zip_Tales/issues/35) |
-| Feature Request: Light/Dark Mode Toggle | Medium | [#34](https://github.com/HimanshuHeda/Zip_Tales/issues/34) |
 
 ---
 
@@ -72,12 +71,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create SETUP_WINDOWS.md | Medium | [#289](https://github.com/Muneerali199/DocMagic/pull/289) |
+| chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
+| chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
+| chore(deps): bump the minor-and-patch group with 11 updates | Medium | [#286](https://github.com/Muneerali199/DocMagic/pull/286) |
+| chore(deps): bump nodemailer from 6.10.1 to 7.0.5 | Medium | [#285](https://github.com/Muneerali199/DocMagic/pull/285) |
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
 | Added 10 Templates for Resume, Cover Letter, and Presentations | Medium | [#261](https://github.com/Muneerali199/DocMagic/pull/261) |
 | chore(deps): bump bcryptjs and @types/bcryptjs | Medium | [#258](https://github.com/Muneerali199/DocMagic/pull/258) |
 | chore(deps): bump tailwind-merge from 2.6.0 to 3.3.1 | Medium | [#257](https://github.com/Muneerali199/DocMagic/pull/257) |
-| chore(deps): bump sonner from 1.7.4 to 2.0.6 | Medium | [#256](https://github.com/Muneerali199/DocMagic/pull/256) |
 | chore(deps): bump date-fns from 3.6.0 to 4.1.0 | Medium | [#255](https://github.com/Muneerali199/DocMagic/pull/255) |
 | chore(deps-dev): bump @types/node from 20.19.9 to 24.1.0 | Medium | [#254](https://github.com/Muneerali199/DocMagic/pull/254) |
 | chore(deps): bump docx from 8.5.0 to 9.5.1 | Medium | [#253](https://github.com/Muneerali199/DocMagic/pull/253) |
@@ -146,26 +149,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance the Skill tree docs | Medium | [#44](https://github.com/LarytheLord/Adventurers-Guild/issues/44) |
+| Create Database for the project and connect apis | Medium | [#49](https://github.com/LarytheLord/Adventurers-Guild/issues/49) |
+| SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
-
----
-
-## 📌 Project: AI Flow
-
-📝 **Description:** AI Flow is a web application that provides a suite of AI-powered productivity tools, including prompt enhancement, text summarization, code and SQL explanation, regex generation, language translation, and sentiment analysis. The platform features a modern, responsive interface, secure authentication, and integrates with the Gemini 2.0 Flash API for fast and accurate results. AI Flow is designed to help users streamline workflows, learn faster, and leverage artificial intelligence in everyday tasks.
-
-🔗 [View Project](https://github.com/Jyotibrat/AI-Flow)
-
-💻 **Tech Stack:** TypeScript, React, Vite, Supabase, Gemini 2.0 Flash API, Blogger API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| fix: enable Google login redirect and add AI Tools page (#5) | Medium | [#14](https://github.com/Jyotibrat/AI-Flow/pull/14) |
 
 ---
 
@@ -254,6 +240,7 @@
 | 🔒 Hardware Security Module (HSM) Integration | Hard | [#80](https://github.com/Rohit-Dnath/LOL-URL/issues/80) |
 | 🧬 Zero-Downtime Database Migrations | Hard | [#79](https://github.com/Rohit-Dnath/LOL-URL/issues/79) |
 | 📊 Real-time Analytics Streaming with WebSockets | Hard | [#78](https://github.com/Rohit-Dnath/LOL-URL/issues/78) |
+| 🦾 Automated GDPR/CCPA Compliance Engine | Hard | [#77](https://github.com/Rohit-Dnath/LOL-URL/issues/77) |
 
 ---
 
