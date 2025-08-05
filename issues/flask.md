@@ -25,7 +25,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add MIT License | Easy | [#3](https://github.com/Menthub-GSSoC/Menthub/issues/3) |
 | Update README.md | Easy | [#2](https://github.com/Menthub-GSSoC/Menthub/pull/2) |
-| Signup page form Validation added. | Medium | [#46](https://github.com/Menthub-GSSoC/Menthub/pull/46) |
+| Add Dark Mode Toggle with Persistent User Preference | Medium | [#47](https://github.com/Menthub-GSSoC/Menthub/issues/47) |
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | docs: improve onboarding by adding contributing guide, templates, and code of conduct | Medium | [#38](https://github.com/Menthub-GSSoC/Menthub/pull/38) |
@@ -63,17 +63,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Footer Enhancement | Medium | [#132](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/132) |
-| add an app that recommends doctor specialist recommendation | Medium | [#131](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/131) |
-| Create pharmacist-dashboard.html | Medium | [#130](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/130) |
-| Create pharmacist_verification.py | Medium | [#129](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/129) |
-| Add admin panel UI and backend routes | Medium | [#128](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/128) |
-| Fix: Add Missing Favicon | Medium | [#127](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/127) |
-| Create output.json | Medium | [#122](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/122) |
-| Create backend.py | Medium | [#121](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/121) |
-| Create frontview.js | Medium | [#120](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/120) |
-| Created a new feature of user feedback | Medium | [#114](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/114) |
-| Drug Comparison Tool | Medium | [#113](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/113) |
+| Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
 ---
 
@@ -124,28 +114,23 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added CODE_OF_CONDUCT.md | Medium | [#36](https://github.com/kaushav07/VisionMate/pull/36) |
+| feat: Implement speech-to-text module | Medium | [#35](https://github.com/kaushav07/VisionMate/pull/35) |
+| Feature: Add face recognition and FastAPI integration #24 | Medium | [#34](https://github.com/kaushav07/VisionMate/pull/34) |
+| updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
-| Adding CODE_OF_CONDUCT.md file | Medium | [#29](https://github.com/kaushav07/VisionMate/issues/29) |
-| Improve README.md | Medium | [#28](https://github.com/kaushav07/VisionMate/issues/28) |
 | Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
-| Implementing Voice Commands via Speech-to-Text | Medium | [#26](https://github.com/kaushav07/VisionMate/issues/26) |
 | Create Updated Readme | Medium | [#25](https://github.com/kaushav07/VisionMate/pull/25) |
-| Detect and possibly recognize faces of known people. | Medium | [#24](https://github.com/kaushav07/VisionMate/issues/24) |
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
-| Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [#21](https://github.com/kaushav07/VisionMate/issues/21) |
-| contributors.md file is missing | Medium | [#20](https://github.com/kaushav07/VisionMate/issues/20) |
-| Add YOLOv8-based Object Detection with TTS Announcements | Medium | [#18](https://github.com/kaushav07/VisionMate/issues/18) |
 | Updated Readme | Medium | [#17](https://github.com/kaushav07/VisionMate/issues/17) |
 | 🚫 License Missing from Repository | Medium | [#14](https://github.com/kaushav07/VisionMate/issues/14) |
 | Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [#12](https://github.com/kaushav07/VisionMate/issues/12) |
-| Integrate LangChain for Modular Prompt Handling and Output Parsing | Medium | [#11](https://github.com/kaushav07/VisionMate/issues/11) |
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
 | Smart Scene Narration | Medium | [#8](https://github.com/kaushav07/VisionMate/issues/8) |
 | Improve prompt to ensure concise descriptions from Gemini | Medium | [#6](https://github.com/kaushav07/VisionMate/issues/6) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
-| contributors.md file is missing | Medium | [#4](https://github.com/kaushav07/VisionMate/issues/4) |
 | Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
 | Missing requirements.txt file for environment setup | Medium | [#1](https://github.com/kaushav07/VisionMate/issues/1) |
 | Improve Object Detection Accuracy & Add Environment Awareness Features | Hard | [#13](https://github.com/kaushav07/VisionMate/issues/13) |
@@ -166,7 +151,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Async Flask views refactor and switch embeddings to nomic-embed-text … | Medium | [#20](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/20) |
+| Navbar Overlap & Compact Spacing Issue | Medium | [#24](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/24) |
+| Make UI Responsive for Mobile Devices | Medium | [#23](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/23) |
+| Feature Request: Add Dark Mode | Medium | [#22](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/22) |
 | Update README.md | Medium | [#19](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/19) |
 | Responsiveness of UI | Medium | [#13](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/13) |
 | UI Enhancement: Add Smooth Transition to Mobile Hamburger Menu | Medium | [#9](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/9) |
@@ -207,7 +194,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bugs in crop yield prediction | Medium | [#78](https://github.com/omroy07/AgriTech/issues/78) |
+| Add Google Sign-In to Login Form using Firebase Authentication | Medium | [#87](https://github.com/omroy07/AgriTech/pull/87) |
+| Add The dark mode Toggle button and interactive Mouse Pointer | Medium | [#86](https://github.com/omroy07/AgriTech/issues/86) |
+| Bux fixing in crop yield prediction | Medium | [#85](https://github.com/omroy07/AgriTech/pull/85) |
+| Add Feedback/Support Page for Users | Medium | [#84](https://github.com/omroy07/AgriTech/issues/84) |
+| Add User Profile Section to Website | Medium | [#82](https://github.com/omroy07/AgriTech/issues/82) |
 | Adding a Light/Dark Mode toggle | Medium | [#77](https://github.com/omroy07/AgriTech/issues/77) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#75](https://github.com/omroy07/AgriTech/issues/75) |
 | Add mit license file to the project | Medium | [#73](https://github.com/omroy07/AgriTech/issues/73) |
@@ -218,17 +209,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Enhancement Proposal: Improve Shopkeeper Listing Layout and Features | Medium | [#61](https://github.com/omroy07/AgriTech/issues/61) |
 | 🌐 Enhancement Proposal: Add Social Media Icons to Footer | Medium | [#58](https://github.com/omroy07/AgriTech/issues/58) |
 | 🐛 Bug Report: Inconsistent Margin and Navbar Spacing | Medium | [#53](https://github.com/omroy07/AgriTech/issues/53) |
-| Added Toggle Theme | Medium | [#46](https://github.com/omroy07/AgriTech/pull/46) |
 | Add favicon | Medium | [#42](https://github.com/omroy07/AgriTech/issues/42) |
 | Comprehensive Flask Refactor: Resolve Architectural Inconsistencies and Enforce | Medium | [#40](https://github.com/omroy07/AgriTech/pull/40) |
 | Add MIT License to AgriTech under GSSoC'25 | Medium | [#39](https://github.com/omroy07/AgriTech/pull/39) |
 | Improved index.html with lazy-loaded carousel, responsive design and accessibility enhancements | Medium | [#37](https://github.com/omroy07/AgriTech/pull/37) |
 | On clicking on Farmer connection it shows an error | Medium | [#35](https://github.com/omroy07/AgriTech/issues/35) |
 | Dark and light mode | Medium | [#34](https://github.com/omroy07/AgriTech/issues/34) |
-| Fixed Yield Prediction Page Route and Linked CSS Path | Medium | [#28](https://github.com/omroy07/AgriTech/pull/28) |
-| yield prediction re directing to login page | Medium | [#27](https://github.com/omroy07/AgriTech/issues/27) |
-| Add File/Folder Structure to README.md for Better Navigation | Medium | [#19](https://github.com/omroy07/AgriTech/issues/19) |
-| Yield Prediction feature opens a blank page when clicked | Medium | [#18](https://github.com/omroy07/AgriTech/issues/18) |
 
 ---
 
@@ -277,22 +263,22 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Renewed README and added API documentation | Medium | [#180](https://github.com/openml-stack/SentiLog-AI/pull/180) |
-| Feature Request: Clickable Logo Redirects to Home Page | Medium | [#179](https://github.com/openml-stack/SentiLog-AI/issues/179) |
+| BUG : redirection to home page on logo navbar | Easy | [#167](https://github.com/openml-stack/SentiLog-AI/issues/167) |
+| Enhance About Page with Themed Styling, Animations, and Expanded Content | Medium | [#185](https://github.com/openml-stack/SentiLog-AI/pull/185) |
+| Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
+| feat: add github oauth | Medium | [#182](https://github.com/openml-stack/SentiLog-AI/pull/182) |
 | fix: add links to social platorm icons in footer | Medium | [#178](https://github.com/openml-stack/SentiLog-AI/pull/178) |
 | Dashboard Tab Is Redundant and Unused — Consider Removing or Repurposing | Medium | [#177](https://github.com/openml-stack/SentiLog-AI/issues/177) |
 | Added bias detection ML API with routes, preprocessing, and app | Medium | [#176](https://github.com/openml-stack/SentiLog-AI/pull/176) |
 | added my profile section with new delete account feature | Medium | [#175](https://github.com/openml-stack/SentiLog-AI/pull/175) |
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
 | Added redirection link to signup form | Medium | [#173](https://github.com/openml-stack/SentiLog-AI/pull/173) |
-| BUG : redirection to home page on logo navbar | Medium | [#167](https://github.com/openml-stack/SentiLog-AI/issues/167) |
 | Update Analyze Page for better visibility | Medium | [#160](https://github.com/openml-stack/SentiLog-AI/pull/160) |
 | Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
 | fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
 | Add export option (CSV/JSON) for analysis results | Medium | [#145](https://github.com/openml-stack/SentiLog-AI/issues/145) |
 | Issue  #133: Implement authentication checks for journal entry creation and retrie… | Medium | [#144](https://github.com/openml-stack/SentiLog-AI/pull/144) |
 | adding scroll to top button | Medium | [#137](https://github.com/openml-stack/SentiLog-AI/pull/137) |
-| Random Motivational Quote" API Integration | Medium | [#136](https://github.com/openml-stack/SentiLog-AI/issues/136) |
 
 ---
 
@@ -310,13 +296,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📘 Issue Title: Transform the README into a Robust and Contributor-Friendly Onboarding Guide | Medium | [#55](https://github.com/aayushraj1010/med-genie/issues/55) |
-| Feature/redesigned UI | Medium | [#46](https://github.com/aayushraj1010/med-genie/pull/46) |
+| Make Navbar Responsive for All Devices with Hamburger Menu | Medium | [#65](https://github.com/aayushraj1010/med-genie/issues/65) |
+| Add Footer Component & Dynamic Top Contributors Section with GitHub API Integration 🎉 | Medium | [#64](https://github.com/aayushraj1010/med-genie/pull/64) |
+| Add a logo in nav bar | Medium | [#60](https://github.com/aayushraj1010/med-genie/issues/60) |
 | Enhance Med Genie UI: Custom Robot Avatar, Typing Indicator, and Branding Improvements | Medium | [#45](https://github.com/aayushraj1010/med-genie/pull/45) |
 | Enhancement to the pop up | Medium | [#20](https://github.com/aayushraj1010/med-genie/issues/20) |
-| feat: add a good and readable readme.md file | Medium | [#19](https://github.com/aayushraj1010/med-genie/issues/19) |
 | 🚫 License Missing from Repository | Medium | [#14](https://github.com/aayushraj1010/med-genie/issues/14) |
-| Add a Comprehensive `README.md` File for Better Project Documentation | Medium | [#13](https://github.com/aayushraj1010/med-genie/issues/13) |
 
 ---
 
@@ -341,45 +326,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 ---
 
-## 📌 Project: CKsEdu
-
-📝 **Description:** CKsEdu is a smart university platform that bridges students and faculty through real-time mentoring, academic collaboration, and AI-powered productivity tools. It creates a connected and supportive learning ecosystem tailored for university life.
- 
- Key Features
- For Students:
-1:1 Video Mentoring with professors (live & scheduled)
- AI Assist for smart scheduling, notes, and grading
-Student Chat & Group Collaboration
-E-Library & Study Resources
-Mental Wellness & Counseling
-Leaderboards, Quizzes, and Achievements
-Event Calendar & Announcements
-Academic Progress Dashboard
- 
- 
-For Faculty:
-Smart Document Organizer
-Analytics Dashboard
-AI Agent Integration
- 
-Fast Workflow Tools
- Save time with AI-based grading, content suggestions, and calendar integration
-
-🔗 [View Project](https://github.com/KrishChothani/CKsEdu)
-
-💻 **Tech Stack:** React, JavaScript, TypeScript, Vite, Tailwind CSS, Node.js, Express.js, Flask, MongoDB, Cloudinary, AWS, Vercel
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| email feature added | Medium | [#47](https://github.com/KrishChothani/CKsEdu/pull/47) |
-| {Feature] Add Downloadable pdf Notes section! | Medium | [#42](https://github.com/KrishChothani/CKsEdu/issues/42) |
-
----
-
 ## 📌 Project: online voting system
 
 📝 **Description:** Online voting systems aim to provide a convenient, accessible, and secure platform for conducting elections digitally. They offer a potential alternative to traditional paper ballot or Electronic Voting Machine (EVM) based elections.
@@ -394,7 +340,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve README content | Medium | [#15](https://github.com/madegowda11/online-voting-system/issues/15) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#17](https://github.com/madegowda11/online-voting-system/issues/17) |
+| Enhancement: Add CODE_OF_CONDUCT.md | Medium | [#16](https://github.com/madegowda11/online-voting-system/issues/16) |
 
 ---
 
@@ -430,7 +377,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add CODE_OF_CONDUCT.md for PrivGPT-Studio under GSSoC'25 | Medium | [#28](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/28) |
 | Refactor backend into modular folder structure (Flask Blueprint Setup) | Medium | [#8](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/8) |
 
 ---
