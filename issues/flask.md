@@ -63,6 +63,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Add Side-by-Side Drug Comparison with Modal Interface | Medium | [#136](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/136) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
 ---
@@ -81,6 +82,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add UUID field to Favorite model for secure and unique API identification | Medium | [#47](https://github.com/indra7777/frostiq/issues/47) |
+| Implement FastAPI Email Verification and JWT based login Auth | Medium | [#46](https://github.com/indra7777/frostiq/issues/46) |
 | feat: Implement comprehensive global exception handling system for FastAPI backend #21 | Medium | [#45](https://github.com/indra7777/frostiq/pull/45) |
 | Add Authentication & Authorization | Medium | [#44](https://github.com/indra7777/frostiq/issues/44) |
 | Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
@@ -93,10 +96,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Update main.py | Medium | [#32](https://github.com/indra7777/frostiq/pull/32) |
 | docs: add deployed backend link to README | Medium | [#31](https://github.com/indra7777/frostiq/pull/31) |
 | Add CONTRIBUTORS.md | Medium | [#30](https://github.com/indra7777/frostiq/pull/30) |
-| Add code_of_conduct.md | Medium | [#28](https://github.com/indra7777/frostiq/pull/28) |
 | Enhancement :  Error Handling & Validation                   (level 3) | Medium | [#27](https://github.com/indra7777/frostiq/issues/27) |
 | Create a test suite (level 3) | Medium | [#26](https://github.com/indra7777/frostiq/issues/26) |
-| Updated issue , pull request templates | Medium | [#24](https://github.com/indra7777/frostiq/pull/24) |
 
 ---
 
@@ -194,10 +195,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Google Sign-In to Login Form using Firebase Authentication | Medium | [#87](https://github.com/omroy07/AgriTech/pull/87) |
-| Add The dark mode Toggle button and interactive Mouse Pointer | Medium | [#86](https://github.com/omroy07/AgriTech/issues/86) |
 | Bux fixing in crop yield prediction | Medium | [#85](https://github.com/omroy07/AgriTech/pull/85) |
-| Add Feedback/Support Page for Users | Medium | [#84](https://github.com/omroy07/AgriTech/issues/84) |
 | Add User Profile Section to Website | Medium | [#82](https://github.com/omroy07/AgriTech/issues/82) |
 | Adding a Light/Dark Mode toggle | Medium | [#77](https://github.com/omroy07/AgriTech/issues/77) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#75](https://github.com/omroy07/AgriTech/issues/75) |
@@ -211,10 +209,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🐛 Bug Report: Inconsistent Margin and Navbar Spacing | Medium | [#53](https://github.com/omroy07/AgriTech/issues/53) |
 | Add favicon | Medium | [#42](https://github.com/omroy07/AgriTech/issues/42) |
 | Comprehensive Flask Refactor: Resolve Architectural Inconsistencies and Enforce | Medium | [#40](https://github.com/omroy07/AgriTech/pull/40) |
-| Add MIT License to AgriTech under GSSoC'25 | Medium | [#39](https://github.com/omroy07/AgriTech/pull/39) |
 | Improved index.html with lazy-loaded carousel, responsive design and accessibility enhancements | Medium | [#37](https://github.com/omroy07/AgriTech/pull/37) |
 | On clicking on Farmer connection it shows an error | Medium | [#35](https://github.com/omroy07/AgriTech/issues/35) |
 | Dark and light mode | Medium | [#34](https://github.com/omroy07/AgriTech/issues/34) |
+| yield prediction re directing to login page | Medium | [#27](https://github.com/omroy07/AgriTech/issues/27) |
+| Add File/Folder Structure to README.md for Better Navigation | Medium | [#19](https://github.com/omroy07/AgriTech/issues/19) |
+| Yield Prediction feature opens a blank page when clicked | Medium | [#18](https://github.com/omroy07/AgriTech/issues/18) |
 
 ---
 
@@ -264,6 +264,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | BUG : redirection to home page on logo navbar | Easy | [#167](https://github.com/openml-stack/SentiLog-AI/issues/167) |
+| Ui needs Professional Look | Medium | [#189](https://github.com/openml-stack/SentiLog-AI/issues/189) |
+| Help Center Link is Present but Page Doesn’t Exist | Medium | [#188](https://github.com/openml-stack/SentiLog-AI/issues/188) |
+| Add Mood Tracker or Calendar View for Visualizing Logs | Medium | [#187](https://github.com/openml-stack/SentiLog-AI/issues/187) |
+| “About” Page Content Same as Dashboard – Needs Unique Content | Medium | [#186](https://github.com/openml-stack/SentiLog-AI/issues/186) |
 | Enhance About Page with Themed Styling, Animations, and Expanded Content | Medium | [#185](https://github.com/openml-stack/SentiLog-AI/pull/185) |
 | Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
 | feat: add github oauth | Medium | [#182](https://github.com/openml-stack/SentiLog-AI/pull/182) |
@@ -278,7 +282,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
 | Add export option (CSV/JSON) for analysis results | Medium | [#145](https://github.com/openml-stack/SentiLog-AI/issues/145) |
 | Issue  #133: Implement authentication checks for journal entry creation and retrie… | Medium | [#144](https://github.com/openml-stack/SentiLog-AI/pull/144) |
-| adding scroll to top button | Medium | [#137](https://github.com/openml-stack/SentiLog-AI/pull/137) |
 
 ---
 
@@ -323,6 +326,42 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/3) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#2](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/2) |
 | 🚫 License Missing from Repository | Medium | [#1](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/1) |
+
+---
+
+## 📌 Project: CKsEdu
+
+📝 **Description:** CKsEdu is a smart university platform that bridges students and faculty through real-time mentoring, academic collaboration, and AI-powered productivity tools. It creates a connected and supportive learning ecosystem tailored for university life.
+ 
+ Key Features
+ For Students:
+1:1 Video Mentoring with professors (live & scheduled)
+ AI Assist for smart scheduling, notes, and grading
+Student Chat & Group Collaboration
+E-Library & Study Resources
+Mental Wellness & Counseling
+Leaderboards, Quizzes, and Achievements
+Event Calendar & Announcements
+Academic Progress Dashboard
+ 
+ 
+For Faculty:
+Smart Document Organizer
+Analytics Dashboard
+AI Agent Integration
+ 
+Fast Workflow Tools
+ Save time with AI-based grading, content suggestions, and calendar integration
+
+🔗 [View Project](https://github.com/KrishChothani/CKsEdu)
+
+💻 **Tech Stack:** React, JavaScript, TypeScript, Vite, Tailwind CSS, Node.js, Express.js, Flask, MongoDB, Cloudinary, AWS, Vercel
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
 
 ---
 
