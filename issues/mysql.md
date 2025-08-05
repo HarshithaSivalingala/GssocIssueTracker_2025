@@ -47,28 +47,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added CODE_OF_CONDUCT.md | Medium | [#36](https://github.com/kaushav07/VisionMate/pull/36) |
+| feat: Implement speech-to-text module | Medium | [#35](https://github.com/kaushav07/VisionMate/pull/35) |
+| Feature: Add face recognition and FastAPI integration #24 | Medium | [#34](https://github.com/kaushav07/VisionMate/pull/34) |
+| updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
-| Adding CODE_OF_CONDUCT.md file | Medium | [#29](https://github.com/kaushav07/VisionMate/issues/29) |
-| Improve README.md | Medium | [#28](https://github.com/kaushav07/VisionMate/issues/28) |
 | Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
-| Implementing Voice Commands via Speech-to-Text | Medium | [#26](https://github.com/kaushav07/VisionMate/issues/26) |
 | Create Updated Readme | Medium | [#25](https://github.com/kaushav07/VisionMate/pull/25) |
-| Detect and possibly recognize faces of known people. | Medium | [#24](https://github.com/kaushav07/VisionMate/issues/24) |
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
-| Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [#21](https://github.com/kaushav07/VisionMate/issues/21) |
-| contributors.md file is missing | Medium | [#20](https://github.com/kaushav07/VisionMate/issues/20) |
-| Add YOLOv8-based Object Detection with TTS Announcements | Medium | [#18](https://github.com/kaushav07/VisionMate/issues/18) |
 | Updated Readme | Medium | [#17](https://github.com/kaushav07/VisionMate/issues/17) |
 | 🚫 License Missing from Repository | Medium | [#14](https://github.com/kaushav07/VisionMate/issues/14) |
 | Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [#12](https://github.com/kaushav07/VisionMate/issues/12) |
-| Integrate LangChain for Modular Prompt Handling and Output Parsing | Medium | [#11](https://github.com/kaushav07/VisionMate/issues/11) |
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
 | Smart Scene Narration | Medium | [#8](https://github.com/kaushav07/VisionMate/issues/8) |
 | Improve prompt to ensure concise descriptions from Gemini | Medium | [#6](https://github.com/kaushav07/VisionMate/issues/6) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
-| contributors.md file is missing | Medium | [#4](https://github.com/kaushav07/VisionMate/issues/4) |
 | Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
 | Missing requirements.txt file for environment setup | Medium | [#1](https://github.com/kaushav07/VisionMate/issues/1) |
 | Improve Object Detection Accuracy & Add Environment Awareness Features | Hard | [#13](https://github.com/kaushav07/VisionMate/issues/13) |
@@ -89,6 +84,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Product Catalog Integration with Search, Filters, and Shopping Cart (#11) | Medium | [#30](https://github.com/Naveenkumar30838/Housify/pull/30) |
+| Added 404 and global error handling | Medium | [#29](https://github.com/Naveenkumar30838/Housify/pull/29) |
+| Rename LICENSE.md to LICENSE for GitHub license detection | Medium | [#28](https://github.com/Naveenkumar30838/Housify/pull/28) |
 | Improve Mobile Responsiveness of the Rental Property Web App Using TailwindCSS | Medium | [#27](https://github.com/Naveenkumar30838/Housify/issues/27) |
 | Missing a CodeOfConduct.md file | Medium | [#20](https://github.com/Naveenkumar30838/Housify/issues/20) |
 | REFRACTOR: Add controllers and router | Medium | [#19](https://github.com/Naveenkumar30838/Housify/issues/19) |
@@ -132,10 +130,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Code of Conduct | Medium | [#39](https://github.com/aashut0xhkr/HMS_PRJCT/pull/39) |
-| Add a chatbot to it | Medium | [#38](https://github.com/aashut0xhkr/HMS_PRJCT/issues/38) |
-| Suggestion: Update project name | Medium | [#37](https://github.com/aashut0xhkr/HMS_PRJCT/issues/37) |
-| Suggestion: Update Spring-Boot folder structure | Medium | [#36](https://github.com/aashut0xhkr/HMS_PRJCT/issues/36) |
+| Implement PDF Generation for Reports | Medium | [#40](https://github.com/aashut0xhkr/HMS_PRJCT/issues/40) |
 
 ---
 
@@ -153,15 +148,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| To add show/hide password | Medium | [#27](https://github.com/sachiikrish/AttendanceTracker/issues/27) |
 | There is no link in the mit license and in the code also there is no license present. | Medium | [#26](https://github.com/sachiikrish/AttendanceTracker/issues/26) |
 | Typo in placeholder text of the email input field on the Sign-Up form | Medium | [#25](https://github.com/sachiikrish/AttendanceTracker/issues/25) |
-| Updated dashboard and index UI | Medium | [#24](https://github.com/sachiikrish/AttendanceTracker/pull/24) |
 | Want to make no.of subjects dynamic. | Medium | [#23](https://github.com/sachiikrish/AttendanceTracker/issues/23) |
 | UI/Improve: Redesign and Enhance Overall Homepage Layout for Better First Impression | Medium | [#22](https://github.com/sachiikrish/AttendanceTracker/issues/22) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#20](https://github.com/sachiikrish/AttendanceTracker/issues/20) |
-| 🚫 License Missing from Repository | Medium | [#19](https://github.com/sachiikrish/AttendanceTracker/issues/19) |
 | ADDING MORE INFO TO HOME PAGE | Medium | [#18](https://github.com/sachiikrish/AttendanceTracker/issues/18) |
-| Home Page is not responsive | Medium | [#6](https://github.com/sachiikrish/AttendanceTracker/issues/6) |
 
 ---
 
@@ -179,6 +172,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| check overfitting | Medium | [#18](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/18) |
 | Documentation : Add a CONTRIBUTING.md File to project | Medium | [#16](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/16) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#15](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/15) |
 | Frontend | Medium | [#13](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/13) |
@@ -216,7 +210,7 @@
 | Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
-| 🎨 UI/UX Enhancements[resolved issue #5] | Medium | [#34](https://github.com/komalkhatod1105/One-Stop-Guide/pull/34) |
+| Add a Code of Conduct to Project | Medium | [#39](https://github.com/komalkhatod1105/One-Stop-Guide/issues/39) |
 | Add more cities, enhance the UI , Add more information and photos for each city #22 | Medium | [#31](https://github.com/komalkhatod1105/One-Stop-Guide/pull/31) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#30](https://github.com/komalkhatod1105/One-Stop-Guide/issues/30) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#29](https://github.com/komalkhatod1105/One-Stop-Guide/issues/29) |
