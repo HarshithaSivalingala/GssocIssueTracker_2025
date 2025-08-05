@@ -14,7 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Implement comprehensive logo design system for Zenjira | Hard | [#47](https://github.com/Promptzy/Zenjira/pull/47) |
+| Display GSSoC 2025 Leaderboard with Live Data md Copy Edit | Easy | [#53](https://github.com/Promptzy/Nexara/issues/53) |
+| Implement API Endpoint for GSSoC 2025 Leaderboard Data | Easy | [#52](https://github.com/Promptzy/Nexara/issues/52) |
+| Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
+| Add Project Logo to README from Public Assets | Easy | [#50](https://github.com/Promptzy/Nexara/issues/50) |
 
 ---
 
@@ -32,9 +35,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/3) |
-| Documentation : Add Code Of Conduct File to project | Medium | [#2](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/2) |
-| 🚫 License Missing from Repository | Medium | [#1](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/1) |
+| 🌙 Advanced Dark Mode + Theme Customization | Medium | [#5](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/5) |
+| Implement JWT-Based User Authentication with bcrypt Password Hashing | Hard | [#4](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/4) |
 
 ---
 
