@@ -40,11 +40,9 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | list message logs function | Medium | [#118](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/118) |
-| Delete message function | Medium | [#117](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/117) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
 | How to write APIs for C++ SDK Appwrite? | Medium | [#85](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/85) |
-| Interested in Contributing as contributor. | Medium | [#83](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/83) |
 | feat: update documents | Medium | [#45](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/45) |
 
 ---
@@ -63,6 +61,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Function | Medium | [#24](https://github.com/SharonIV0x86/CinderPeak/pull/24) |
 | feat(graph): Add Iterator Support for Graphs traversal. | Medium | [#17](https://github.com/SharonIV0x86/CinderPeak/issues/17) |
 | Added Contributor Covenant Code of Conduct for community standards | Medium | [#14](https://github.com/SharonIV0x86/CinderPeak/pull/14) |
 
@@ -82,12 +81,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
 | Improve FAQ Section with Expandable Answers | Easy | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
+| Adding Chatbot for movie Reccomendations | Easy | [#4](https://github.com/Aqsa4066/netflixclone/issues/4) |
+| I would try to improvements to the current styling of the Netflix Clone page to enhance the overall  visual appear . | Medium | [#57](https://github.com/Aqsa4066/netflixclone/pull/57) |
 | enhance ui | Medium | [#56](https://github.com/Aqsa4066/netflixclone/pull/56) |
-| Updated Contributing.md | Medium | [#55](https://github.com/Aqsa4066/netflixclone/pull/55) |
 | Enhanced the footer section and added a  "back to top" button | Medium | [#54](https://github.com/Aqsa4066/netflixclone/pull/54) |
-| Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Medium | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | Enhanced FAQ section [ Issue - #43 ] | Medium | [#49](https://github.com/Aqsa4066/netflixclone/pull/49) |
 | Added alt text for all the images | Medium | [#47](https://github.com/Aqsa4066/netflixclone/pull/47) |
 | Fix: Improve Hero Section Readability (Issue #36) | Medium | [#46](https://github.com/Aqsa4066/netflixclone/pull/46) |
