@@ -17,6 +17,7 @@
 | Add GitHub Actions CI for macOS & Linux | Easy | [#47](https://github.com/0xsambit/winix/issues/47) |
 | Create macOS Homebrew Formula | Easy | [#46](https://github.com/0xsambit/winix/issues/46) |
 | Create more commands from the Linux core library | Easy | [#9](https://github.com/0xsambit/winix/issues/9) |
+| Added Nice functionality | Medium | [#59](https://github.com/0xsambit/winix/pull/59) |
 | Create a FEATURE.md | Medium | [#58](https://github.com/0xsambit/winix/issues/58) |
 
 ---
@@ -35,7 +36,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added back to top button in the README.md | Medium | [#38](https://github.com/VaibhavCodeClub/term/pull/38) |
 | feat: Add basic markdown rendering for AI responses #21 | Medium | [#34](https://github.com/VaibhavCodeClub/term/pull/34) |
 | Create pull_request_template.md | Medium | [#31](https://github.com/VaibhavCodeClub/term/pull/31) |
 | clickable links | Medium | [#29](https://github.com/VaibhavCodeClub/term/issues/29) |
