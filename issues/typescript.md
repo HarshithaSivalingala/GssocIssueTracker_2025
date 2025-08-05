@@ -81,8 +81,6 @@ Accessibility features like dark mode,white.
 | AI Career Roadmap Generator (from Interests) | Easy | [#178](https://github.com/abhisek2004/Dev-Elevate/issues/178) |
 | Bug fixes | Medium | [#247](https://github.com/abhisek2004/Dev-Elevate/issues/247) |
 | Improving Background | Medium | [#246](https://github.com/abhisek2004/Dev-Elevate/issues/246) |
-| Added dynamic Notification | Medium | [#243](https://github.com/abhisek2004/Dev-Elevate/pull/243) |
-| Quiz assignment manager v2 | Medium | [#240](https://github.com/abhisek2004/Dev-Elevate/pull/240) |
 | Enhance logging and readability | Medium | [#239](https://github.com/abhisek2004/Dev-Elevate/pull/239) |
 | Add Theme Switcher to Customize AI Chatbot Appearance | Medium | [#237](https://github.com/abhisek2004/Dev-Elevate/issues/237) |
 | Add Tooltip for Skill Progress with Estimated Completion Info | Medium | [#236](https://github.com/abhisek2004/Dev-Elevate/issues/236) |
@@ -105,14 +103,14 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Set up dependabot for the new OWASP schema repository | Easy | [#1973](https://github.com/OWASP/Nest/issues/1973) |
 | 🧹 Remove OWASP schema directory and Makefile references | Easy | [#1971](https://github.com/OWASP/Nest/pull/1971) |
-| Add `id` field to graphql entities | Medium | [#1976](https://github.com/OWASP/Nest/issues/1976) |
+| enhance:change-hover-color-action-button | Medium | [#1978](https://github.com/OWASP/Nest/pull/1978) |
+| login signup button | Medium | [#1977](https://github.com/OWASP/Nest/issues/1977) |
 | updated the open-api schema to include server urls | Medium | [#1970](https://github.com/OWASP/Nest/pull/1970) |
 | Improve dashboard metrics list | Medium | [#1967](https://github.com/OWASP/Nest/pull/1967) |
 | Fix Navbar Alignment and Add Theme Support on Sponsor Page | Medium | [#1964](https://github.com/OWASP/Nest/issues/1964) |
 | Implement Breadcrumbs | Medium | [#1963](https://github.com/OWASP/Nest/pull/1963) |
 | Add unit tests for Milestones component | Medium | [#1962](https://github.com/OWASP/Nest/pull/1962) |
 | add: structured data for profile pages to improve visibility | Medium | [#1953](https://github.com/OWASP/Nest/pull/1953) |
-| Fix #1804: Added test for CardDetailsPage Component | Medium | [#1951](https://github.com/OWASP/Nest/pull/1951) |
 | Add test : RecentRelease component unit test | Medium | [#1946](https://github.com/OWASP/Nest/pull/1946) |
 | Create snapshots.py | Medium | [#1941](https://github.com/OWASP/Nest/pull/1941) |
 | Improve user details UX on member page (#1889) | Medium | [#1934](https://github.com/OWASP/Nest/pull/1934) |
@@ -235,7 +233,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Post Cards Improvement | Easy | [#129](https://github.com/mansiruhil/fail-u-forward/issues/129) |
 | Post Creation Box Redesign | Easy | [#128](https://github.com/mansiruhil/fail-u-forward/issues/128) |
 | User profile picture didnt get added | Easy | [#127](https://github.com/mansiruhil/fail-u-forward/issues/127) |
 | App fails to start: Missing production build (.next folder error) | Medium | [#115](https://github.com/mansiruhil/fail-u-forward/issues/115) |
@@ -335,6 +332,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create LICENSE | Medium | [#11](https://github.com/Piyush-t24/NBG/pull/11) |
 | Adding a CodeOfConduct.md file | Medium | [#7](https://github.com/Piyush-t24/NBG/issues/7) |
 | Add mit license file to the project | Medium | [#5](https://github.com/Piyush-t24/NBG/pull/5) |
 | Enhance Game Room UX & Homepage Interaction Flow 📌 | Medium | [#4](https://github.com/Piyush-t24/NBG/issues/4) |
@@ -383,6 +381,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix import issues and errors in App.tsx | Medium | [#70](https://github.com/Richajaishwal0/Trip_assistant/pull/70) |
+| Fix #66: Improved Error Handling & Added Authentication | Medium | [#69](https://github.com/Richajaishwal0/Trip_assistant/pull/69) |
 | feature : migrate mysql to mongoDB. | Medium | [#48](https://github.com/Richajaishwal0/Trip_assistant/pull/48) |
 | Add AI chatbot assistant to help users with trip planning queries (GSSoC'25) | Medium | [#36](https://github.com/Richajaishwal0/Trip_assistant/issues/36) |
 
@@ -482,6 +482,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add “Scroll to Top” Button for Improved Navigation | Medium | [#178](https://github.com/souvikpramanikgit/LearnHub/issues/178) |
+| ### ♿ Accessibility Enhancement: Semantic HTML, ARIA Attributes & Keyboard Navigation | Medium | [#177](https://github.com/souvikpramanikgit/LearnHub/issues/177) |
 | Courses added to navbar | Medium | [#175](https://github.com/souvikpramanikgit/LearnHub/pull/175) |
 | Add a node.js tutorial under web development | Medium | [#174](https://github.com/souvikpramanikgit/LearnHub/issues/174) |
 | Add a search bar | Medium | [#173](https://github.com/souvikpramanikgit/LearnHub/issues/173) |
@@ -507,7 +509,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | To added in Top as a Progress Bar | Medium | [#149](https://github.com/souvikpramanikgit/LearnHub/issues/149) |
 | Addition of tech news section using GNews API (100 requests/Day) | Medium | [#147](https://github.com/souvikpramanikgit/LearnHub/pull/147) |
 | feat: Implement client-side course progress tracking | Medium | [#146](https://github.com/souvikpramanikgit/LearnHub/pull/146) |
-| Changes Applied as A part of comtirbution | Medium | [#140](https://github.com/souvikpramanikgit/LearnHub/pull/140) |
 
 ---
 
@@ -527,10 +528,25 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Logout Button | Easy | [#69](https://github.com/sristy17/next-payroll/issues/69) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Added Help page with FAQ dropdown and custom card UI component | Medium | [#71](https://github.com/sristy17/next-payroll/pull/71) |
 | Scroll issue in GST return page & Add Business Page | Medium | [#67](https://github.com/sristy17/next-payroll/issues/67) |
 | Adding payment page | Medium | [#62](https://github.com/sristy17/next-payroll/pull/62) |
 | Create Add Payment system | Medium | [#50](https://github.com/sristy17/next-payroll/pull/50) |
+
+---
+
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
 
 ---
 
@@ -548,20 +564,18 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| New ideas | Easy | [#23](https://github.com/yashvikram30/legalease/issues/23) |
 | Add a feature to show related court cases for any legal query | Medium | [#88](https://github.com/yashvikram30/legalease/issues/88) |
 | Feature: Create a Landing Page to Introduce the Website | Medium | [#86](https://github.com/yashvikram30/legalease/issues/86) |
 | 404 Page Not Visible in Light Theme | Medium | [#85](https://github.com/yashvikram30/legalease/issues/85) |
 | Title: 🚀 Implement and Complete the /profile Page Functionality | Medium | [#83](https://github.com/yashvikram30/legalease/issues/83) |
 | AI-Powered Case Outcome Predictor | Medium | [#80](https://github.com/yashvikram30/legalease/issues/80) |
-| No Redirect After Google Sign-In & Missing 'Sign Up with Google' Option | Medium | [#78](https://github.com/yashvikram30/legalease/issues/78) |
-| There is no license in the readme file and also in the code | Medium | [#75](https://github.com/yashvikram30/legalease/issues/75) |
 | New Landing page and fixed dark mode toggle | Medium | [#74](https://github.com/yashvikram30/legalease/pull/74) |
 | Revamp Landing page | Medium | [#73](https://github.com/yashvikram30/legalease/pull/73) |
 | To add good Background | Medium | [#70](https://github.com/yashvikram30/legalease/issues/70) |
 | Bug: Dark Theme Not Working | Medium | [#69](https://github.com/yashvikram30/legalease/issues/69) |
 | Addition of a Appointment Booking System | Medium | [#68](https://github.com/yashvikram30/legalease/issues/68) |
 | refactor: improve Terms & Privacy line styling on signup page | Medium | [#66](https://github.com/yashvikram30/legalease/pull/66) |
-| auto-scroll behavior in chat interface - page scrolls automatically when sending messages | Medium | [#63](https://github.com/yashvikram30/legalease/issues/63) |
 | Revamp Dark Mode – UI/UX Enhancements | Medium | [#59](https://github.com/yashvikram30/legalease/pull/59) |
 | fixes : dark theme | Medium | [#58](https://github.com/yashvikram30/legalease/pull/58) |
 | Unclear Password Placeholders on Login/Signup Pages | Medium | [#55](https://github.com/yashvikram30/legalease/issues/55) |
@@ -585,6 +599,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add 3D Hover Effect on "From the Adventures" Cards for Improved UI Interaction #46 | Medium | [#50](https://github.com/LarytheLord/Adventurers-Guild/pull/50) |
 | Create Database for the project and connect apis | Medium | [#49](https://github.com/LarytheLord/Adventurers-Guild/issues/49) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -605,7 +620,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve the Home Page Design | Easy | [#51](https://github.com/ajaynegi45/Old-School-Game/issues/51) |
 | Implement New UI Based on Figma Design Using Pure CSS (No TailwindCSS) | Easy | [#17](https://github.com/ajaynegi45/Old-School-Game/issues/17) |
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
 
@@ -645,6 +659,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix critical test suite failures and Windows compatibility (5/8 → 8/8 passing) | Medium | [#200](https://github.com/deskree-inc/blok/pull/200) |
 | Added clickable license link to README | Medium | [#199](https://github.com/deskree-inc/blok/pull/199) |
 | Workflow Visualization Testing Results | Medium | [#195](https://github.com/deskree-inc/blok/pull/195) |
 | Updated Table of Contents | Medium | [#192](https://github.com/deskree-inc/blok/pull/192) |
@@ -768,6 +783,38 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
+## 📌 Project: Project Xangoes
+
+📝 **Description:** A comprehensive full-stack system for managing college fests and events, designed to centralize event management, registration handling, and transaction tracking for educational institutions.
+
+🔗 [View Project](https://github.com/dscnitrourkela/project-xangoes)
+
+💻 **Tech Stack:** Next.js, React, React DOM, TypeScript, Bun, Tailwind CSS, PostCSS, ESLint, Turbopack, Hono, PostgreSQL, Drizzle ORM, Drizzle Kit, Zod, dotenv, TSX, Git, Node.js, pg
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: AI Flow
+
+📝 **Description:** AI Flow is a web application that provides a suite of AI-powered productivity tools, including prompt enhancement, text summarization, code and SQL explanation, regex generation, language translation, and sentiment analysis. The platform features a modern, responsive interface, secure authentication, and integrates with the Gemini 2.0 Flash API for fast and accurate results. AI Flow is designed to help users streamline workflows, learn faster, and leverage artificial intelligence in everyday tasks.
+
+🔗 [View Project](https://github.com/Jyotibrat/AI-Flow)
+
+💻 **Tech Stack:** TypeScript, React, Vite, Supabase, Gemini 2.0 Flash API, Blogger API
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
 ## 📌 Project: DevMatchups
 
 📝 **Description:** DevMatchups is a fullstack web platform which enables developes to connect together and form teams for hackathons. It solves the core problem of finding team or team mates for any hackathon. Users can explore all the hackathons from various websites at one place. Users can create dynamic profiles based on their resume.
@@ -812,6 +859,42 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
+## 📌 Project: CKsEdu
+
+📝 **Description:** CKsEdu is a smart university platform that bridges students and faculty through real-time mentoring, academic collaboration, and AI-powered productivity tools. It creates a connected and supportive learning ecosystem tailored for university life.
+ 
+ Key Features
+ For Students:
+1:1 Video Mentoring with professors (live & scheduled)
+ AI Assist for smart scheduling, notes, and grading
+Student Chat & Group Collaboration
+E-Library & Study Resources
+Mental Wellness & Counseling
+Leaderboards, Quizzes, and Achievements
+Event Calendar & Announcements
+Academic Progress Dashboard
+ 
+ 
+For Faculty:
+Smart Document Organizer
+Analytics Dashboard
+AI Agent Integration
+ 
+Fast Workflow Tools
+ Save time with AI-based grading, content suggestions, and calendar integration
+
+🔗 [View Project](https://github.com/KrishChothani/CKsEdu)
+
+💻 **Tech Stack:** React, JavaScript, TypeScript, Vite, Tailwind CSS, Node.js, Express.js, Flask, MongoDB, Cloudinary, AWS, Vercel
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
 ## 📌 Project: NEXUS.DAWN Emotional Intelligence OS
 
 📝 **Description:** NEXUS.DAWN is a futuristic open-source emotional intelligence operating system designed for immersive, AI-driven interactions. It combines voice AI, facial emotion detection, quantum computing metaphors, and blockchain identity into a self-evolving digital assistant platform. The system features a modular architecture, immersive UI (Three.js + React), secure backend, and emotional intelligence engine enabling contributors to explore AI, Web3, and system design in one unified ecosystem.
@@ -847,6 +930,22 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Complete GroqTales codebase cleanup and production deployment preparation | Medium | [#14](https://github.com/Drago-03/GroqTales/pull/14) |
 | Feature: Theme toggle | Medium | [#8](https://github.com/Drago-03/GroqTales/issues/8) |
 | IPFS corrupted | Medium | [#1](https://github.com/Drago-03/GroqTales/issues/1) |
+
+---
+
+## 📌 Project: Voice-Marketing-Agent
+
+📝 **Description:** OpenVoiceX is an innovative voice agent platform that transforms marketing through AI-powered voice interactions. Built with Next.js and TypeScript, it features a modern UI, secure authentication, and scalable architecture. The platform includes voice command recognition, multi-language support, and a comprehensive dashboard for managing voice marketing campaigns. Key features include real-time voice processing, analytics, and customizable voice agent configurations.
+
+🔗 [View Project](https://github.com/OpenVoiceX/Web-Voice-marketing-Agent)
+
+💻 **Tech Stack:** TypeScript, React, Next.js, Git
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
 
 ---
 
@@ -926,12 +1025,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump three from 0.161.0 to 0.179.1 | Medium | [#63](https://github.com/Ojas-Arora/SapneSeSafar/pull/63) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
 | Feat: Connecting All Sharks CSV file with all Features | Medium | [#59](https://github.com/Ojas-Arora/SapneSeSafar/issues/59) |
 | add MIT License file to the project | Medium | [#58](https://github.com/Ojas-Arora/SapneSeSafar/pull/58) |
-| Bump three from 0.161.0 to 0.179.0 | Medium | [#57](https://github.com/Ojas-Arora/SapneSeSafar/pull/57) |
 | Bump lucide-react from 0.344.0 to 0.536.0 | Medium | [#56](https://github.com/Ojas-Arora/SapneSeSafar/pull/56) |
 | Bump zustand from 4.5.6 to 5.0.7 | Medium | [#54](https://github.com/Ojas-Arora/SapneSeSafar/pull/54) |
 | Bump typescript from 5.6.3 to 5.9.2 | Medium | [#53](https://github.com/Ojas-Arora/SapneSeSafar/pull/53) |
@@ -1050,14 +1149,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/Mobile navbar and sidebar - Part 1 | Medium | [#95](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/95) |
-| Change the 'X' icon in contact us page to something subtle | Medium | [#94](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/94) |
-| Enhance Card UI in about section to Match Site Aesthetics | Medium | [#93](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/93) |
 | Twitter/X OAuth2 Authentication | Medium | [#75](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/75) |
 | feat(ui): Implement Interactive Bubble Background with Scroll & Mouse Effects (#22) | Medium | [#49](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/49) |
-| Added pull request template(#33) | Medium | [#43](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/43) |
-| Feat/add pr template | Medium | [#35](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/35) |
 | Add dark mode toggle in Navbar & attempt to implement dark mode across pages | Medium | [#28](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/28) |
+| feat: IMPLEMENT DARK MODE | Medium | [#6](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/6) |
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
@@ -1078,7 +1173,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance User Profile Editing with Custom Bio and Preferences | Medium | [#11](https://github.com/DeepDive-Dev/eventify/issues/11) |
+| Implement a User Reporting System for Events/Organizers | Medium | [#10](https://github.com/DeepDive-Dev/eventify/issues/10) |
 | Feature Request: Implement "Click to Enlarge" for Event Images | Medium | [#3](https://github.com/DeepDive-Dev/eventify/issues/3) |
+| Implement "Join/RSVP" Flow for Free Events (Bypass Stripe) | Hard | [#9](https://github.com/DeepDive-Dev/eventify/issues/9) |
+| Implement Google Maps Integration for Event Location | Hard | [#8](https://github.com/DeepDive-Dev/eventify/issues/8) |
+| Implement an Organizer Dashboard and Event Analytics | Hard | [#7](https://github.com/DeepDive-Dev/eventify/issues/7) |
+| Implement Role-Based Access Control (RBAC) | Hard | [#6](https://github.com/DeepDive-Dev/eventify/issues/6) |
+| Develop a Custom SuperAdmin Dashboard for Global Management | Hard | [#5](https://github.com/DeepDive-Dev/eventify/issues/5) |
 | Feature Request: Add a "Waiting List" Feature for Sold-Out Events | Hard | [#4](https://github.com/DeepDive-Dev/eventify/issues/4) |
 
 ---
@@ -1159,8 +1261,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: "Submit Your Idea" button in Home.tsx has no route or functionality | Medium | [#23](https://github.com/vinit105/ideaVault/issues/23) |
-| Feature Request: Implement backend route to submit ideas (POST /api/ideas) | Medium | [#22](https://github.com/vinit105/ideaVault/issues/22) |
 | Implement “Submit Your Idea” functionality with timestamping, hash verification, encryption, and Redis caching | Medium | [#14](https://github.com/vinit105/ideaVault/issues/14) |
 | UI layout doesn’t utilize full screen width on large displays | Medium | [#13](https://github.com/vinit105/ideaVault/issues/13) |
 | 🌐 Feature Request: Public Idea Registry with Filters and Tags | Medium | [#1](https://github.com/vinit105/ideaVault/issues/1) |
