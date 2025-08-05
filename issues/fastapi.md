@@ -14,10 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CustomCursor : not looking professional | Medium | [#203](https://github.com/Amarjha01/InfantCareCompass/pull/203) |
 | added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Fix: fixed the rotating star above the hero section text and changed the UI of the hero section for a smoother UI. | Medium | [#198](https://github.com/Amarjha01/InfantCareCompass/pull/198) |
-| loader added | Medium | [#196](https://github.com/Amarjha01/InfantCareCompass/pull/196) |
 | Added favicon | Medium | [#194](https://github.com/Amarjha01/InfantCareCompass/pull/194) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 | remove duplicate Passward Eye | Medium | [#187](https://github.com/Amarjha01/InfantCareCompass/pull/187) |
@@ -26,6 +24,8 @@
 | Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
 | Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 | feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
+| Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
+| modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
 
 ---
 
@@ -45,7 +45,6 @@
 |----------|----------------|---------|
 | Create GitHub Discussion for Known Issues and Limitations | Easy | [#106](https://github.com/Devasy23/splitwiser/issues/106) |
 | Missing Dependency in package.json | Easy | [#85](https://github.com/Devasy23/splitwiser/issues/85) |
-| pre-commit autoupdate | Medium | [#119](https://github.com/Devasy23/splitwiser/pull/119) |
 | Group Name Validation Enhancement | Medium | [#115](https://github.com/Devasy23/splitwiser/pull/115) |
 | Implement UI Consistency and Design System Standards | Medium | [#109](https://github.com/Devasy23/splitwiser/issues/109) |
 | Add Google Sign-Up Integration to feat/group-creation Branch | Medium | [#108](https://github.com/Devasy23/splitwiser/issues/108) |
@@ -59,6 +58,38 @@
 | cleanup debug code, TODOs, and hardcoded values (Issue #59) | Medium | [#88](https://github.com/Devasy23/splitwiser/pull/88) |
 | Update package.json | Medium | [#87](https://github.com/Devasy23/splitwiser/pull/87) |
 | Update package.json | Medium | [#86](https://github.com/Devasy23/splitwiser/pull/86) |
+
+---
+
+## 📌 Project: otp authentication 
+
+📝 **Description:** an otp authentication frontend app built using fastapi and twilo and jwt tokens 
+
+🔗 [View Project](https://github.com/Harish-2003/otpauthentication)
+
+💻 **Tech Stack:** FastAPI
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: Real-Time Disaster Dashboard 
+
+📝 **Description:** A real-time disaster management dashboard that fetches and displays live disaster data from APIs like NASA and NDMA. It helps authorities and the public stay informed through alerts, analytics, and visualizations.
+
+🔗 [View Project](https://github.com/Himanshi150/real-time-daister-project)
+
+💻 **Tech Stack:** FastAPI, Python, Streamlit, JavaScript, HTML, CSS, NASA API, NDMA API
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
 
 ---
 
@@ -76,7 +107,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing `algo_files` folder | Medium | [#38](https://github.com/manasvi-0/AlgoLab/issues/38) |
 | Supervised ml algorithms update | Medium | [#30](https://github.com/manasvi-0/AlgoLab/pull/30) |
 | Added KMeans and DBSCAN clustering with Streamlit UI and docs | Medium | [#29](https://github.com/manasvi-0/AlgoLab/pull/29) |
 | Linear and Logistic Regression | Medium | [#16](https://github.com/manasvi-0/AlgoLab/pull/16) |
@@ -118,6 +148,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance UI for about page | Medium | [#78](https://github.com/whyvineet/orthoplay/issues/78) |
+| Enhaced Header and footer Design | Medium | [#77](https://github.com/whyvineet/orthoplay/pull/77) |
 | Add Timed Challenge Mode with Countdown and Scoring | Medium | [#73](https://github.com/whyvineet/orthoplay/pull/73) |
 | Add Points-Based Scoring to Improve Gameplay | Medium | [#69](https://github.com/whyvineet/orthoplay/pull/69) |
 | 🔖 Issue #57 – [FEATURE] AI Chatbot Integration for Spelling Support and Custom Quiz Help | Medium | [#66](https://github.com/whyvineet/orthoplay/pull/66) |
