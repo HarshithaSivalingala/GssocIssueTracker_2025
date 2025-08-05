@@ -39,6 +39,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve UI of contact us page | Medium | [#140](https://github.com/gyanshankar1708/GrowCraft/issues/140) |
+| Improve UI of footer | Medium | [#139](https://github.com/gyanshankar1708/GrowCraft/issues/139) |
 | Features : Contributing.md file | Medium | [#138](https://github.com/gyanshankar1708/GrowCraft/issues/138) |
 | Complete authentication system implementation with social login | Medium | [#137](https://github.com/gyanshankar1708/GrowCraft/pull/137) |
 | Navbar/enhance & contact us | Medium | [#136](https://github.com/gyanshankar1708/GrowCraft/pull/136) |
@@ -90,6 +92,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make Footer More Visually Appealing & Interactive | Medium | [#121](https://github.com/sachiva1/sachiva/issues/121) |
 | The UI is not properly designed in About Us page! | Medium | [#120](https://github.com/sachiva1/sachiva/issues/120) |
 | created issue template | Medium | [#119](https://github.com/sachiva1/sachiva/pull/119) |
 | Updating main page services and creating a actual page for services section | Medium | [#118](https://github.com/sachiva1/sachiva/issues/118) |
