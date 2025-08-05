@@ -14,7 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Security Issue: Firebase API Key Hardcoded in Source Code | Medium | [#6](https://github.com/Sudoerz/IntelliCash/issues/6) |
+| Bug: Backup feature does not work in selective android versions | Easy | [#9](https://github.com/Sudoerz/IntelliCash/issues/9) |
+| Refactor: Secure Keystore, Improve Error Handling, Stabilize Migrations, and Update Documentation | Medium | [#10](https://github.com/Sudoerz/IntelliCash/pull/10) |
 
 ---
 
