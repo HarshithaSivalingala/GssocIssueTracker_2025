@@ -14,15 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| To add show/hide password | Medium | [#27](https://github.com/sachiikrish/AttendanceTracker/issues/27) |
 | There is no link in the mit license and in the code also there is no license present. | Medium | [#26](https://github.com/sachiikrish/AttendanceTracker/issues/26) |
 | Typo in placeholder text of the email input field on the Sign-Up form | Medium | [#25](https://github.com/sachiikrish/AttendanceTracker/issues/25) |
-| Updated dashboard and index UI | Medium | [#24](https://github.com/sachiikrish/AttendanceTracker/pull/24) |
 | Want to make no.of subjects dynamic. | Medium | [#23](https://github.com/sachiikrish/AttendanceTracker/issues/23) |
 | UI/Improve: Redesign and Enhance Overall Homepage Layout for Better First Impression | Medium | [#22](https://github.com/sachiikrish/AttendanceTracker/issues/22) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#20](https://github.com/sachiikrish/AttendanceTracker/issues/20) |
-| 🚫 License Missing from Repository | Medium | [#19](https://github.com/sachiikrish/AttendanceTracker/issues/19) |
 | ADDING MORE INFO TO HOME PAGE | Medium | [#18](https://github.com/sachiikrish/AttendanceTracker/issues/18) |
-| Home Page is not responsive | Medium | [#6](https://github.com/sachiikrish/AttendanceTracker/issues/6) |
 
 ---
 
@@ -54,7 +52,7 @@
 | Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
-| 🎨 UI/UX Enhancements[resolved issue #5] | Medium | [#34](https://github.com/komalkhatod1105/One-Stop-Guide/pull/34) |
+| Add a Code of Conduct to Project | Medium | [#39](https://github.com/komalkhatod1105/One-Stop-Guide/issues/39) |
 | Add more cities, enhance the UI , Add more information and photos for each city #22 | Medium | [#31](https://github.com/komalkhatod1105/One-Stop-Guide/pull/31) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#30](https://github.com/komalkhatod1105/One-Stop-Guide/issues/30) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#29](https://github.com/komalkhatod1105/One-Stop-Guide/issues/29) |
