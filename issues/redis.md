@@ -97,7 +97,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Display GSSoC 2025 Leaderboard with Live Data md Copy Edit | Easy | [#53](https://github.com/Promptzy/Nexara/issues/53) |
 | Implement API Endpoint for GSSoC 2025 Leaderboard Data | Easy | [#52](https://github.com/Promptzy/Nexara/issues/52) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
-| Add Project Logo to README from Public Assets | Easy | [#50](https://github.com/Promptzy/Nexara/issues/50) |
 
 ---
 
@@ -115,8 +114,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: "Submit Your Idea" button in Home.tsx has no route or functionality | Medium | [#23](https://github.com/vinit105/ideaVault/issues/23) |
-| Feature Request: Implement backend route to submit ideas (POST /api/ideas) | Medium | [#22](https://github.com/vinit105/ideaVault/issues/22) |
 | Implement “Submit Your Idea” functionality with timestamping, hash verification, encryption, and Redis caching | Medium | [#14](https://github.com/vinit105/ideaVault/issues/14) |
 | UI layout doesn’t utilize full screen width on large displays | Medium | [#13](https://github.com/vinit105/ideaVault/issues/13) |
 | 🌐 Feature Request: Public Idea Registry with Filters and Tags | Medium | [#1](https://github.com/vinit105/ideaVault/issues/1) |
