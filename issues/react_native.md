@@ -16,6 +16,7 @@
 |----------|----------------|---------|
 | Create GitHub Discussion for Known Issues and Limitations | Easy | [#106](https://github.com/Devasy23/splitwiser/issues/106) |
 | Missing Dependency in package.json | Easy | [#85](https://github.com/Devasy23/splitwiser/issues/85) |
+| pre-commit autoupdate | Medium | [#119](https://github.com/Devasy23/splitwiser/pull/119) |
 | Group Name Validation Enhancement | Medium | [#115](https://github.com/Devasy23/splitwiser/pull/115) |
 | Implement UI Consistency and Design System Standards | Medium | [#109](https://github.com/Devasy23/splitwiser/issues/109) |
 | Add Google Sign-Up Integration to feat/group-creation Branch | Medium | [#108](https://github.com/Devasy23/splitwiser/issues/108) |
@@ -46,6 +47,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Vehicle Filter Not Displaying Car - Maruti Celerio | Medium | [#18](https://github.com/SyedImtiyaz-1/Swapify/issues/18) |
+| Typo in Demo Link on README | Medium | [#17](https://github.com/SyedImtiyaz-1/Swapify/issues/17) |
 | Amount Input Not Visible in "Add an Offer" Section | Medium | [#16](https://github.com/SyedImtiyaz-1/Swapify/issues/16) |
 | Add a CONTRIBUTING.md File to Guide New Contributors | Medium | [#15](https://github.com/SyedImtiyaz-1/Swapify/issues/15) |
 | Adding a CodeOfConduct.md file | Medium | [#14](https://github.com/SyedImtiyaz-1/Swapify/issues/14) |
@@ -69,7 +72,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance the Skill tree docs | Medium | [#44](https://github.com/LarytheLord/Adventurers-Guild/issues/44) |
+| Create Database for the project and connect apis | Medium | [#49](https://github.com/LarytheLord/Adventurers-Guild/issues/49) |
+| SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
 ---
@@ -134,9 +138,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add missing favicon | Medium | [#3](https://github.com/Ayushhgupta39/natively-ui/issues/3) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#2](https://github.com/Ayushhgupta39/natively-ui/issues/2) |
-| Suggestion: Add Code Of Conduct File to project | Medium | [#1](https://github.com/Ayushhgupta39/natively-ui/issues/1) |
+| Adding Move to Top Button | Medium | [#6](https://github.com/Ayushhgupta39/natively-ui/issues/6) |
+| Dark and Light Theme Toggle Button with Functionality | Medium | [#5](https://github.com/Ayushhgupta39/natively-ui/issues/5) |
 
 ---
 
@@ -154,7 +157,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add the chatbot | Medium | [#7](https://github.com/07CalC/noir/issues/7) |
+| feature: Utility Functions for Folder and File Management | Hard | [#8](https://github.com/07CalC/noir/issues/8) |
+| feature: Integrate GitHub Login with Expo `AuthSession` | Hard | [#5](https://github.com/07CalC/noir/issues/5) |
 
 ---
 
