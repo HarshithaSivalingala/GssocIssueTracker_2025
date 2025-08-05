@@ -58,6 +58,7 @@ User Profile: BMI calculator and fitness analytics.
 | 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
 | Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
 | Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
+| Add GitHub Issue & PR Templates | Medium | [#29](https://github.com/akshtshrma/KinetiX/issues/29) |
 | 🧠 [Feature Suggestion] Add Progress Visualization for Better Tracking & Motivation | Medium | [#28](https://github.com/akshtshrma/KinetiX/issues/28) |
 | Improve Posture Detection Accuracy Using Angle Checks and Feedback Smoothing | Medium | [#27](https://github.com/akshtshrma/KinetiX/pull/27) |
 | Redesign Profile screen UI with Material components (#15) | Medium | [#26](https://github.com/akshtshrma/KinetiX/pull/26) |
@@ -97,6 +98,22 @@ User Profile: BMI calculator and fitness analytics.
 | feat: Replace preferences with SQLite database for drawing storage ( closes #3) | Medium | [#17](https://github.com/Rajkumarbhakta/Canvas/pull/17) |
 | Make Drawing Screen Mobile friendly | Medium | [#10](https://github.com/Rajkumarbhakta/Canvas/issues/10) |
 | UPDATE ON: feat: Implement Search Functionality and Improve Home Screen UI #1 | Medium | [#5](https://github.com/Rajkumarbhakta/Canvas/pull/5) |
+
+---
+
+## 📌 Project: WallGodds App
+
+📝 **Description:** WallGodds is reimagined for mobile — fast, clean, and loaded with stunning high-res wallpapers for every screen. It’s more than an app — it’s your personal visual canvas, made for those who style their screen with every swipe.
+
+🔗 [View Project](https://github.com/sayan0328/WallGodds-App)
+
+💻 **Tech Stack:** Kotlin, Compose, Firebase, Firebase RealTime DB
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
 
 ---
 
