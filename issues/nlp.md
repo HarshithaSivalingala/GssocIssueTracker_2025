@@ -12,7 +12,9 @@
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add input validation and error handling in app.py | Medium | [#20](https://github.com/CharithaReddy18/AI-health-chatbot/issues/20) |
 
 ---
 
