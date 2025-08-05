@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: improve README with roadmap and API overview | Medium | [#51](https://github.com/Abhinavhaldiya/FinPilot/pull/51) |
 | Sensitive information is exposed by the public GET /users endpoint. | Medium | [#50](https://github.com/Abhinavhaldiya/FinPilot/issues/50) |
 | Advanced ai technology | Medium | [#49](https://github.com/Abhinavhaldiya/FinPilot/issues/49) |
 | Create Ui for submit New Claim | Medium | [#47](https://github.com/Abhinavhaldiya/FinPilot/issues/47) |
@@ -83,6 +84,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Backbutton added in user dashboard | Medium | [#466](https://github.com/HarshS16/Civix/pull/466) |
 | Dark mode implementation in testimonials + UI Enhancement. | Medium | [#465](https://github.com/HarshS16/Civix/issues/465) |
 | Enhancement of the UI of How it Works section | Medium | [#464](https://github.com/HarshS16/Civix/pull/464) |
 | Improvement in UI of Civic Eduaction and Rights Page | Medium | [#463](https://github.com/HarshS16/Civix/issues/463) |
@@ -145,6 +147,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Use Unique Database IDs for Result Routing Instead of Filenames and Dynamic Fetching for Results | Medium | [#74](https://github.com/Er-luffy-D/SimplifAI/issues/74) |
 | Changed twitter's old logo to new X logo | Medium | [#73](https://github.com/Er-luffy-D/SimplifAI/pull/73) |
 | Like to add Human pose estimation leveraging OpenCV for image processing and machine learning  algorithms under MLProjects | Medium | [#72](https://github.com/Er-luffy-D/SimplifAI/issues/72) |
 | Vmpranav/rag implementation | Medium | [#67](https://github.com/Er-luffy-D/SimplifAI/pull/67) |
@@ -239,6 +242,22 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: Project Xangoes
+
+📝 **Description:** A comprehensive full-stack system for managing college fests and events, designed to centralize event management, registration handling, and transaction tracking for educational institutions.
+
+🔗 [View Project](https://github.com/dscnitrourkela/project-xangoes)
+
+💻 **Tech Stack:** Next.js, React, React DOM, TypeScript, Bun, Tailwind CSS, PostCSS, ESLint, Turbopack, Hono, PostgreSQL, Drizzle ORM, Drizzle Kit, Zod, dotenv, TSX, Git, Node.js, pg
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
 ## 📌 Project: DevMatchups
 
 📝 **Description:** DevMatchups is a fullstack web platform which enables developes to connect together and form teams for hackathons. It solves the core problem of finding team or team mates for any hackathon. Users can explore all the hackathons from various websites at one place. Users can create dynamic profiles based on their resume.
@@ -326,7 +345,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Display GSSoC 2025 Leaderboard with Live Data md Copy Edit | Easy | [#53](https://github.com/Promptzy/Nexara/issues/53) |
 | Implement API Endpoint for GSSoC 2025 Leaderboard Data | Easy | [#52](https://github.com/Promptzy/Nexara/issues/52) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
-| Add Project Logo to README from Public Assets | Easy | [#50](https://github.com/Promptzy/Nexara/issues/50) |
 
 ---
 
@@ -363,14 +381,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/Mobile navbar and sidebar - Part 1 | Medium | [#95](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/95) |
-| Change the 'X' icon in contact us page to something subtle | Medium | [#94](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/94) |
-| Enhance Card UI in about section to Match Site Aesthetics | Medium | [#93](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/93) |
 | Twitter/X OAuth2 Authentication | Medium | [#75](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/75) |
 | feat(ui): Implement Interactive Bubble Background with Scroll & Mouse Effects (#22) | Medium | [#49](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/49) |
-| Added pull request template(#33) | Medium | [#43](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/43) |
-| Feat/add pr template | Medium | [#35](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/35) |
 | Add dark mode toggle in Navbar & attempt to implement dark mode across pages | Medium | [#28](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/28) |
+| feat: IMPLEMENT DARK MODE | Medium | [#6](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/6) |
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
@@ -391,7 +405,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add github oauth for login signup | Medium | [#50](https://github.com/vatsal-bhakodia/smriti-ai/issues/50) |
 | feat: Implement robust PDF text extraction with Python parser | Medium | [#43](https://github.com/vatsal-bhakodia/smriti-ai/pull/43) |
 | feat: improve ui for sign-in and sign-up pages | Medium | [#35](https://github.com/vatsal-bhakodia/smriti-ai/pull/35) |
 | Upload mp4 | Medium | [#2](https://github.com/vatsal-bhakodia/smriti-ai/issues/2) |
