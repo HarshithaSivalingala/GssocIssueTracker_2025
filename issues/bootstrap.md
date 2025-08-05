@@ -14,9 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Forgot Password Page Created | Medium | [#1325](https://github.com/vishanurag/Canvas-Editor/pull/1325) |
+| Solved #1317 issue : fix bug in testimonials profile and added animated slide | Medium | [#1322](https://github.com/vishanurag/Canvas-Editor/pull/1322) |
 | Added Clear Canvas Button (Fixes #1297) | Medium | [#1319](https://github.com/vishanurag/Canvas-Editor/pull/1319) |
 | Feat:  Adding "remember me" to the signup and signin page connecting it to the local storage database for user authentication. | Medium | [#1190](https://github.com/vishanurag/Canvas-Editor/issues/1190) |
-| 🧑‍💻:  change  layout of the website | Medium | [#1132](https://github.com/vishanurag/Canvas-Editor/issues/1132) |
 
 ---
 
@@ -38,12 +39,40 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Features : Contributing.md file | Medium | [#138](https://github.com/gyanshankar1708/GrowCraft/issues/138) |
+| Complete authentication system implementation with social login | Medium | [#137](https://github.com/gyanshankar1708/GrowCraft/pull/137) |
+| Navbar/enhance & contact us | Medium | [#136](https://github.com/gyanshankar1708/GrowCraft/pull/136) |
+| Added Testimonials Slider with Auto-Play | Medium | [#133](https://github.com/gyanshankar1708/GrowCraft/pull/133) |
+| Bug: Social media icons are not linking to their respective websites | Medium | [#132](https://github.com/gyanshankar1708/GrowCraft/issues/132) |
+| Fixed Navbar Issue | Medium | [#129](https://github.com/gyanshankar1708/GrowCraft/pull/129) |
+| Fixed all navbar links (href attributes) | Medium | [#128](https://github.com/gyanshankar1708/GrowCraft/pull/128) |
+| Improvement in Contact Us page | Medium | [#127](https://github.com/gyanshankar1708/GrowCraft/issues/127) |
+| Redesigning Contact Us page | Medium | [#126](https://github.com/gyanshankar1708/GrowCraft/issues/126) |
+| Suggestion to Move Content to "About Us" Page Due to Broken Link | Medium | [#124](https://github.com/gyanshankar1708/GrowCraft/issues/124) |
 | Enhanced the footer  #84 | Medium | [#120](https://github.com/gyanshankar1708/GrowCraft/pull/120) |
 | Navbar contact us animation issue resolved | Medium | [#119](https://github.com/gyanshankar1708/GrowCraft/pull/119) |
-| Navbar/enhance issue #61 | Medium | [#113](https://github.com/gyanshankar1708/GrowCraft/pull/113) |
 | Remove unnecessary checkbox from navbar on Home page | Medium | [#105](https://github.com/gyanshankar1708/GrowCraft/issues/105) |
 | Refactor: static buttons in carousel for better UX and cleaner markup with improved background overlay. | Medium | [#100](https://github.com/gyanshankar1708/GrowCraft/pull/100) |
-| Fixed : Section card layout and hovering | Medium | [#85](https://github.com/gyanshankar1708/GrowCraft/pull/85) |
+| UI enhancements, added Contact Page, fixed carousel portfolio links | Hard | [#134](https://github.com/gyanshankar1708/GrowCraft/pull/134) |
+
+---
+
+## 📌 Project: FARMLOC
+
+📝 **Description:** FARMLOC stands for Farmers-Agricultural-Resource-Management-and-Location-Of-Cold-storage.
+ It is a web-based platform designed to empower farmers by providing seamless access to agricultural resources, tools for management, and real-time information about the nearest available cold storages.
+
+🔗 [View Project](https://github.com/Pujan-sarkar/FARMLOC)
+
+💻 **Tech Stack:** React.js, CSS, JavaScript, Bootstrap, Node.js, Express.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Announcements / Updates Marquee Section | Medium | [#40](https://github.com/Pujan-sarkar/FARMLOC/issues/40) |
 
 ---
 
@@ -61,6 +90,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| The UI is not properly designed in About Us page! | Medium | [#120](https://github.com/sachiva1/sachiva/issues/120) |
+| created issue template | Medium | [#119](https://github.com/sachiva1/sachiva/pull/119) |
+| Updating main page services and creating a actual page for services section | Medium | [#118](https://github.com/sachiva1/sachiva/issues/118) |
+| feat: implement comprehensive WCAG 2.1 accessibility improvements | Medium | [#117](https://github.com/sachiva1/sachiva/pull/117) |
+| Updated Contact.html | Medium | [#116](https://github.com/sachiva1/sachiva/pull/116) |
+| Added booking facility in the website. | Medium | [#114](https://github.com/sachiva1/sachiva/pull/114) |
+| Service Section is now enhanced with flip card functionalities | Medium | [#109](https://github.com/sachiva1/sachiva/pull/109) |
 | Added glassy blue border on contact form inputs | Medium | [#104](https://github.com/sachiva1/sachiva/pull/104) |
 | Refactor CSS Architecture and Remove Code Duplication (#42) | Medium | [#97](https://github.com/sachiva1/sachiva/pull/97) |
 | Accessibility/wcag 2.1 compliance issue 38 updated | Medium | [#84](https://github.com/sachiva1/sachiva/pull/84) |
