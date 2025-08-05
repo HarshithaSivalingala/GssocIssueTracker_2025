@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| CustomCursor : not looking professional | Medium | [#203](https://github.com/Amarjha01/InfantCareCompass/pull/203) |
+| added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Fix: fixed the rotating star above the hero section text and changed the UI of the hero section for a smoother UI. | Medium | [#198](https://github.com/Amarjha01/InfantCareCompass/pull/198) |
 | loader added | Medium | [#196](https://github.com/Amarjha01/InfantCareCompass/pull/196) |
 | Added favicon | Medium | [#194](https://github.com/Amarjha01/InfantCareCompass/pull/194) |
@@ -24,9 +26,6 @@
 | Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
 | Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 | feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
-| Fix: git clone URL and port number in README | Medium | [#162](https://github.com/Amarjha01/InfantCareCompass/pull/162) |
-| modified the restructure and clean up of the code | Medium | [#160](https://github.com/Amarjha01/InfantCareCompass/pull/160) |
-| updated the contributing.md file | Medium | [#152](https://github.com/Amarjha01/InfantCareCompass/pull/152) |
 
 ---
 
@@ -46,6 +45,7 @@
 |----------|----------------|---------|
 | Create GitHub Discussion for Known Issues and Limitations | Easy | [#106](https://github.com/Devasy23/splitwiser/issues/106) |
 | Missing Dependency in package.json | Easy | [#85](https://github.com/Devasy23/splitwiser/issues/85) |
+| pre-commit autoupdate | Medium | [#119](https://github.com/Devasy23/splitwiser/pull/119) |
 | Group Name Validation Enhancement | Medium | [#115](https://github.com/Devasy23/splitwiser/pull/115) |
 | Implement UI Consistency and Design System Standards | Medium | [#109](https://github.com/Devasy23/splitwiser/issues/109) |
 | Add Google Sign-Up Integration to feat/group-creation Branch | Medium | [#108](https://github.com/Devasy23/splitwiser/issues/108) |
@@ -76,8 +76,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding a CodeOfConduct.md file | Medium | [#35](https://github.com/manasvi-0/AlgoLab/issues/35) |
-| There in no link in the license | Medium | [#34](https://github.com/manasvi-0/AlgoLab/issues/34) |
+| Missing `algo_files` folder | Medium | [#38](https://github.com/manasvi-0/AlgoLab/issues/38) |
 | Supervised ml algorithms update | Medium | [#30](https://github.com/manasvi-0/AlgoLab/pull/30) |
 | Added KMeans and DBSCAN clustering with Streamlit UI and docs | Medium | [#29](https://github.com/manasvi-0/AlgoLab/pull/29) |
 | Linear and Logistic Regression | Medium | [#16](https://github.com/manasvi-0/AlgoLab/pull/16) |
@@ -120,15 +119,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Timed Challenge Mode with Countdown and Scoring | Medium | [#73](https://github.com/whyvineet/orthoplay/pull/73) |
-| Add Leaderboard Page for Competitive Gameplay | Medium | [#72](https://github.com/whyvineet/orthoplay/issues/72) |
-|  | Medium | [#71](https://github.com/whyvineet/orthoplay/issues/71) |
-| Update footer component | Medium | [#70](https://github.com/whyvineet/orthoplay/pull/70) |
 | Add Points-Based Scoring to Improve Gameplay | Medium | [#69](https://github.com/whyvineet/orthoplay/pull/69) |
 | 🔖 Issue #57 – [FEATURE] AI Chatbot Integration for Spelling Support and Custom Quiz Help | Medium | [#66](https://github.com/whyvineet/orthoplay/pull/66) |
-| UI Updated Successfully | Medium | [#62](https://github.com/whyvineet/orthoplay/pull/62) |
-| Hint system Fixed | Medium | [#56](https://github.com/whyvineet/orthoplay/pull/56) |
-| feat: add difficulty level popup options(Easy,Medium,Hard) | Medium | [#41](https://github.com/whyvineet/orthoplay/pull/41) |
-| fixed issue | Medium | [#31](https://github.com/whyvineet/orthoplay/pull/31) |
 | fix: spacing, responsivness and footer background color | Medium | [#29](https://github.com/whyvineet/orthoplay/pull/29) |
 
 ---
@@ -149,22 +141,24 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| resolved the problemes of content visibility from documentation and ... | Medium | [#53](https://github.com/solve-ease/OptiBlogAi/pull/53) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.536.0 in /optiblogai-site | Medium | [#67](https://github.com/solve-ease/OptiBlogAi/pull/67) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.4.5 in /optiblogai-site | Medium | [#66](https://github.com/solve-ease/OptiBlogAi/pull/66) |
+| deps(deps-dev): bump eslint from 9.31.0 to 9.32.0 in /optiblogai-site | Medium | [#65](https://github.com/solve-ease/OptiBlogAi/pull/65) |
+| deps(deps): bump playwright from 1.53.0 to 1.54.0 | Medium | [#64](https://github.com/solve-ease/OptiBlogAi/pull/64) |
+| deps(deps): bump next from 15.4.1 to 15.4.5 in /optiblogai-site | Medium | [#63](https://github.com/solve-ease/OptiBlogAi/pull/63) |
+| deps(deps): bump react and @types/react in /optiblogai-site | Medium | [#62](https://github.com/solve-ease/OptiBlogAi/pull/62) |
+| deps(deps): bump react-dom and @types/react-dom in /optiblogai-site | Medium | [#61](https://github.com/solve-ease/OptiBlogAi/pull/61) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.2.0 in /optiblogai-site | Medium | [#60](https://github.com/solve-ease/OptiBlogAi/pull/60) |
+| deps(deps): bump @types/mermaid from 9.1.0 to 9.2.0 in /optiblogai-site | Medium | [#59](https://github.com/solve-ease/OptiBlogAi/pull/59) |
+| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.6.18 | Medium | [#58](https://github.com/solve-ease/OptiBlogAi/pull/58) |
+| deps(deps): bump cachetools from 5.5.2 to 6.1.0 | Medium | [#57](https://github.com/solve-ease/OptiBlogAi/pull/57) |
+| deps(deps-dev): bump typescript from 5.8.3 to 5.9.2 in /optiblogai-site | Medium | [#56](https://github.com/solve-ease/OptiBlogAi/pull/56) |
+| deps(deps): bump framer-motion from 12.23.6 to 12.23.12 in /optiblogai-site | Medium | [#55](https://github.com/solve-ease/OptiBlogAi/pull/55) |
+| docker(deps): bump python from 3.12-slim to 3.13-slim | Medium | [#54](https://github.com/solve-ease/OptiBlogAi/pull/54) |
 | Add Hover Effect to "Try demo" Button | Medium | [#52](https://github.com/solve-ease/OptiBlogAi/issues/52) |
-| Added link to license in README | Medium | [#51](https://github.com/solve-ease/OptiBlogAi/pull/51) |
 | Reolved the issue of the redirection of the links | Medium | [#44](https://github.com/solve-ease/OptiBlogAi/pull/44) |
 | Automated FAQ/Q&A Generation for Blog Posts | Medium | [#40](https://github.com/solve-ease/OptiBlogAi/issues/40) |
 | Automated FAQ/Q&A Generation for Blog Posts | Medium | [#38](https://github.com/solve-ease/OptiBlogAi/issues/38) |
-| hi | Medium | [#30](https://github.com/solve-ease/OptiBlogAi/pull/30) |
-| Create comprehensive discussion templates and modernization analysis for OptiBlogAi | Medium | [#25](https://github.com/solve-ease/OptiBlogAi/pull/25) |
-| deps(deps): bump soupsieve from 2.6 to 2.7 | Medium | [#17](https://github.com/solve-ease/OptiBlogAi/pull/17) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.0.14 in /optiblogai-site | Medium | [#16](https://github.com/solve-ease/OptiBlogAi/pull/16) |
-| deps(deps): bump lxml from 5.3.2 to 6.0.0 | Medium | [#15](https://github.com/solve-ease/OptiBlogAi/pull/15) |
-| deps(deps): bump certifi from 2025.1.31 to 2025.7.14 | Medium | [#14](https://github.com/solve-ease/OptiBlogAi/pull/14) |
-| deps(deps): bump requests from 2.32.3 to 2.32.4 | Medium | [#13](https://github.com/solve-ease/OptiBlogAi/pull/13) |
-| deps(deps): bump typing-extensions from 4.13.2 to 4.14.1 | Medium | [#12](https://github.com/solve-ease/OptiBlogAi/pull/12) |
-| deps(deps): bump beautifulsoup4 from 4.13.3 to 4.13.4 | Medium | [#11](https://github.com/solve-ease/OptiBlogAi/pull/11) |
-| deps(deps): bump tld from 0.13 to 0.13.1 | Medium | [#10](https://github.com/solve-ease/OptiBlogAi/pull/10) |
 
 ---
 
@@ -211,8 +205,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| test issue | Medium | [#31](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/31) |
-| Added The test suite | Medium | [#30](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/30) |
 | 📌 Feature Request: Add a Gallery Section to the Website | Medium | [#29](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/29) |
 | Add Skeleton Loaders to Dashboard Pages | Medium | [#25](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/25) |
 | Add Support for Asterisk as a Telephony Backend | Hard | [#24](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/24) |
