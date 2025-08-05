@@ -16,9 +16,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| update the readme of the website-branch | Easy | [#57](https://github.com/harshendram/Advanced-Discord-Bot/issues/57) |
+| update the readme of main branch | Easy | [#56](https://github.com/harshendram/Advanced-Discord-Bot/issues/56) |
+| add the website feedback component | Easy | [#54](https://github.com/harshendram/Advanced-Discord-Bot/issues/54) |
 | Make a yt video showcasing how to setup the bot properly [Open to anyone who can make vids] | Easy | [#50](https://github.com/harshendram/Advanced-Discord-Bot/issues/50) |
 | search and replace "ephemeral" with flags | Easy | [#45](https://github.com/harshendram/Advanced-Discord-Bot/issues/45) |
+| remove the outdated website folder from the main branch | Medium | [#55](https://github.com/harshendram/Advanced-Discord-Bot/issues/55) |
 | Overhauling AI section | Medium | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
+| Improving Bot Performance and Reducing Latency | Medium | [#11](https://github.com/harshendram/Advanced-Discord-Bot/issues/11) |
 
 ---
 
@@ -65,8 +70,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| test issue | Medium | [#31](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/31) |
-| Added The test suite | Medium | [#30](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/30) |
 | 📌 Feature Request: Add a Gallery Section to the Website | Medium | [#29](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/29) |
 | Add Skeleton Loaders to Dashboard Pages | Medium | [#25](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/25) |
 | Add Support for Asterisk as a Telephony Backend | Hard | [#24](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/24) |
@@ -91,7 +94,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Implement comprehensive logo design system for Zenjira | Hard | [#47](https://github.com/Promptzy/Zenjira/pull/47) |
+| Display GSSoC 2025 Leaderboard with Live Data md Copy Edit | Easy | [#53](https://github.com/Promptzy/Nexara/issues/53) |
+| Implement API Endpoint for GSSoC 2025 Leaderboard Data | Easy | [#52](https://github.com/Promptzy/Nexara/issues/52) |
+| Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
+| Add Project Logo to README from Public Assets | Easy | [#50](https://github.com/Promptzy/Nexara/issues/50) |
 
 ---
 
@@ -109,6 +115,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: "Submit Your Idea" button in Home.tsx has no route or functionality | Medium | [#23](https://github.com/vinit105/ideaVault/issues/23) |
+| Feature Request: Implement backend route to submit ideas (POST /api/ideas) | Medium | [#22](https://github.com/vinit105/ideaVault/issues/22) |
 | Implement “Submit Your Idea” functionality with timestamping, hash verification, encryption, and Redis caching | Medium | [#14](https://github.com/vinit105/ideaVault/issues/14) |
 | UI layout doesn’t utilize full screen width on large displays | Medium | [#13](https://github.com/vinit105/ideaVault/issues/13) |
 | 🌐 Feature Request: Public Idea Registry with Filters and Tags | Medium | [#1](https://github.com/vinit105/ideaVault/issues/1) |
