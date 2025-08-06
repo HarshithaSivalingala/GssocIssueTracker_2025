@@ -39,42 +39,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve UI of contact us page | Medium | [#140](https://github.com/gyanshankar1708/GrowCraft/issues/140) |
-| Improve UI of footer | Medium | [#139](https://github.com/gyanshankar1708/GrowCraft/issues/139) |
-| Features : Contributing.md file | Medium | [#138](https://github.com/gyanshankar1708/GrowCraft/issues/138) |
-| Complete authentication system implementation with social login | Medium | [#137](https://github.com/gyanshankar1708/GrowCraft/pull/137) |
+| Improve "What We made" Section UI – Card Design & Alignment Enhancement in web development section | Medium | [#152](https://github.com/gyanshankar1708/GrowCraft/issues/152) |
+| Improve "What We Offer" Section UI – Card Design & Alignment Enhancement in Web Development | Medium | [#151](https://github.com/gyanshankar1708/GrowCraft/issues/151) |
+| Added Serene Seasons compatibility for GrowthCraft crops #73 | Medium | [#150](https://github.com/gyanshankar1708/GrowCraft/pull/150) |
+| Enhanced Services Section with 2x2 Layout and Smooth Animations | Medium | [#149](https://github.com/gyanshankar1708/GrowCraft/pull/149) |
+| fix: center align navbar and gaps accordingly | Medium | [#148](https://github.com/gyanshankar1708/GrowCraft/pull/148) |
+| solved #91 issue , Added styles in backtotop enhance training section and make contact us intractive | Medium | [#147](https://github.com/gyanshankar1708/GrowCraft/pull/147) |
+| Replaced header image with PNG Logo and removed unwanted checkbox. | Medium | [#145](https://github.com/gyanshankar1708/GrowCraft/pull/145) |
+| Improved the UI of the footer | Medium | [#143](https://github.com/gyanshankar1708/GrowCraft/pull/143) |
+| Add Testimonials Slider with Auto-Play and Avatars #78 | Medium | [#142](https://github.com/gyanshankar1708/GrowCraft/pull/142) |
+| Enhance "Go To Top" Button visibility and position | Medium | [#141](https://github.com/gyanshankar1708/GrowCraft/pull/141) |
 | Navbar/enhance & contact us | Medium | [#136](https://github.com/gyanshankar1708/GrowCraft/pull/136) |
-| Added Testimonials Slider with Auto-Play | Medium | [#133](https://github.com/gyanshankar1708/GrowCraft/pull/133) |
-| Bug: Social media icons are not linking to their respective websites | Medium | [#132](https://github.com/gyanshankar1708/GrowCraft/issues/132) |
 | Fixed Navbar Issue | Medium | [#129](https://github.com/gyanshankar1708/GrowCraft/pull/129) |
 | Fixed all navbar links (href attributes) | Medium | [#128](https://github.com/gyanshankar1708/GrowCraft/pull/128) |
-| Improvement in Contact Us page | Medium | [#127](https://github.com/gyanshankar1708/GrowCraft/issues/127) |
-| Redesigning Contact Us page | Medium | [#126](https://github.com/gyanshankar1708/GrowCraft/issues/126) |
-| Suggestion to Move Content to "About Us" Page Due to Broken Link | Medium | [#124](https://github.com/gyanshankar1708/GrowCraft/issues/124) |
 | Enhanced the footer  #84 | Medium | [#120](https://github.com/gyanshankar1708/GrowCraft/pull/120) |
 | Navbar contact us animation issue resolved | Medium | [#119](https://github.com/gyanshankar1708/GrowCraft/pull/119) |
-| Remove unnecessary checkbox from navbar on Home page | Medium | [#105](https://github.com/gyanshankar1708/GrowCraft/issues/105) |
 | Refactor: static buttons in carousel for better UX and cleaner markup with improved background overlay. | Medium | [#100](https://github.com/gyanshankar1708/GrowCraft/pull/100) |
-| UI enhancements, added Contact Page, fixed carousel portfolio links | Hard | [#134](https://github.com/gyanshankar1708/GrowCraft/pull/134) |
-
----
-
-## 📌 Project: FARMLOC
-
-📝 **Description:** FARMLOC stands for Farmers-Agricultural-Resource-Management-and-Location-Of-Cold-storage.
- It is a web-based platform designed to empower farmers by providing seamless access to agricultural resources, tools for management, and real-time information about the nearest available cold storages.
-
-🔗 [View Project](https://github.com/Pujan-sarkar/FARMLOC)
-
-💻 **Tech Stack:** React.js, CSS, JavaScript, Bootstrap, Node.js, Express.js
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Announcements / Updates Marquee Section | Medium | [#40](https://github.com/Pujan-sarkar/FARMLOC/issues/40) |
 
 ---
 
@@ -92,20 +72,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Make Footer More Visually Appealing & Interactive | Medium | [#121](https://github.com/sachiva1/sachiva/issues/121) |
-| The UI is not properly designed in About Us page! | Medium | [#120](https://github.com/sachiva1/sachiva/issues/120) |
-| created issue template | Medium | [#119](https://github.com/sachiva1/sachiva/pull/119) |
-| Updating main page services and creating a actual page for services section | Medium | [#118](https://github.com/sachiva1/sachiva/issues/118) |
+| Link Issue in https://sachiva.vercel.app/booking.html | Medium | [#129](https://github.com/sachiva1/sachiva/issues/129) |
+| added new services #112 | Medium | [#127](https://github.com/sachiva1/sachiva/pull/127) |
+| fixed the button #111 | Medium | [#126](https://github.com/sachiva1/sachiva/pull/126) |
 | feat: implement comprehensive WCAG 2.1 accessibility improvements | Medium | [#117](https://github.com/sachiva1/sachiva/pull/117) |
 | Updated Contact.html | Medium | [#116](https://github.com/sachiva1/sachiva/pull/116) |
-| Added booking facility in the website. | Medium | [#114](https://github.com/sachiva1/sachiva/pull/114) |
-| Service Section is now enhanced with flip card functionalities | Medium | [#109](https://github.com/sachiva1/sachiva/pull/109) |
-| Added glassy blue border on contact form inputs | Medium | [#104](https://github.com/sachiva1/sachiva/pull/104) |
 | Refactor CSS Architecture and Remove Code Duplication (#42) | Medium | [#97](https://github.com/sachiva1/sachiva/pull/97) |
 | Accessibility/wcag 2.1 compliance issue 38 updated | Medium | [#84](https://github.com/sachiva1/sachiva/pull/84) |
 | Issue 42 css refactor architecture | Medium | [#82](https://github.com/sachiva1/sachiva/pull/82) |
-| Issue #40 dark mode enhancement | Medium | [#79](https://github.com/sachiva1/sachiva/pull/79) |
-| Issue 38 accessibility wcag | Medium | [#78](https://github.com/sachiva1/sachiva/pull/78) |
 
 ---
 
