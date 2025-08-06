@@ -39,6 +39,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| listProviders | Medium | [#119](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/119) |
 | list message logs function | Medium | [#118](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/118) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
@@ -61,7 +62,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Function | Medium | [#24](https://github.com/SharonIV0x86/CinderPeak/pull/24) |
+| feat(docs): Improving the project README | Easy | [#25](https://github.com/SharonIV0x86/CinderPeak/pull/25) |
+| docs: Add hybrid_storage.md for Hybrid CSR-COO documentation | Medium | [#28](https://github.com/SharonIV0x86/CinderPeak/pull/28) |
 | feat(graph): Add Iterator Support for Graphs traversal. | Medium | [#17](https://github.com/SharonIV0x86/CinderPeak/issues/17) |
 | Added Contributor Covenant Code of Conduct for community standards | Medium | [#14](https://github.com/SharonIV0x86/CinderPeak/pull/14) |
 
@@ -84,7 +86,11 @@
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
 | Improve FAQ Section with Expandable Answers | Easy | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
-| Adding Chatbot for movie Reccomendations | Easy | [#4](https://github.com/Aqsa4066/netflixclone/issues/4) |
+| Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
+| Sign-In button not functional on homepage | Medium | [#62](https://github.com/Aqsa4066/netflixclone/issues/62) |
+| Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
+| Enhance Netflix Clone Footer Design and Functionality | Medium | [#60](https://github.com/Aqsa4066/netflixclone/issues/60) |
+| One Click, Any Language | Medium | [#59](https://github.com/Aqsa4066/netflixclone/issues/59) |
 | Removed alt text for the logo and the language button | Medium | [#58](https://github.com/Aqsa4066/netflixclone/pull/58) |
 | I would try to improvements to the current styling of the Netflix Clone page to enhance the overall  visual appear . | Medium | [#57](https://github.com/Aqsa4066/netflixclone/pull/57) |
 | enhance ui | Medium | [#56](https://github.com/Aqsa4066/netflixclone/pull/56) |
@@ -92,7 +98,6 @@
 | Enhanced FAQ section [ Issue - #43 ] | Medium | [#49](https://github.com/Aqsa4066/netflixclone/pull/49) |
 | Fix: Improve Hero Section Readability (Issue #36) | Medium | [#46](https://github.com/Aqsa4066/netflixclone/pull/46) |
 | Website Layout Broken- Please review Recent Changes | Medium | [#31](https://github.com/Aqsa4066/netflixclone/issues/31) |
-| Create sticky, responsive navbar with layout, spacing, and hover effect. | Medium | [#29](https://github.com/Aqsa4066/netflixclone/pull/29) |
 | Website Ruined | Medium | [#26](https://github.com/Aqsa4066/netflixclone/issues/26) |
 | Enhance Navbar Design and Functionality in Netflix Clone | Medium | [#23](https://github.com/Aqsa4066/netflixclone/issues/23) |
 | feature: UI/UX Improvement Suggestions for Netflix Clone (GSSoC'25) | Medium | [#19](https://github.com/Aqsa4066/netflixclone/issues/19) |
@@ -102,9 +107,6 @@
 | Readme update part2 | Medium | [#11](https://github.com/Aqsa4066/netflixclone/pull/11) |
 | New and Detailed Read-me | Medium | [#10](https://github.com/Aqsa4066/netflixclone/pull/10) |
 | Update read me | Medium | [#8](https://github.com/Aqsa4066/netflixclone/pull/8) |
-| Curve Design | Medium | [#7](https://github.com/Aqsa4066/netflixclone/issues/7) |
-| Improved Navbar | Medium | [#6](https://github.com/Aqsa4066/netflixclone/issues/6) |
-| Improve Header and Footer Structure for Accessibility & SEO | Medium | [#5](https://github.com/Aqsa4066/netflixclone/issues/5) |
 
 ---
 
