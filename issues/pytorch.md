@@ -20,6 +20,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Documentation: Improve README.md and Add requirements.txt for ML Model | Medium | [#7](https://github.com/Gssoc-2025/co-supply-ai/issues/7) |
 | Work on ML model , and Python contribution | Medium | [#6](https://github.com/Gssoc-2025/co-supply-ai/issues/6) |
 | Add contributing.md in the repo | Medium | [#5](https://github.com/Gssoc-2025/co-supply-ai/issues/5) |
 | Work on ML Model for GreenScore | Medium | [#4](https://github.com/Gssoc-2025/co-supply-ai/issues/4) |
