@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added LICENSE | Medium | [#28](https://github.com/sachiikrish/AttendanceTracker/pull/28) |
 | To add show/hide password | Medium | [#27](https://github.com/sachiikrish/AttendanceTracker/issues/27) |
 | There is no link in the mit license and in the code also there is no license present. | Medium | [#26](https://github.com/sachiikrish/AttendanceTracker/issues/26) |
 | Typo in placeholder text of the email input field on the Sign-Up form | Medium | [#25](https://github.com/sachiikrish/AttendanceTracker/issues/25) |
@@ -51,6 +52,7 @@
 | Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
+| Add Admin Panel to Manage City Content (CRUD Functionality) | Medium | [#40](https://github.com/komalkhatod1105/One-Stop-Guide/issues/40) |
 | Add a Code of Conduct to Project | Medium | [#39](https://github.com/komalkhatod1105/One-Stop-Guide/issues/39) |
 | Add more cities, enhance the UI , Add more information and photos for each city #22 | Medium | [#31](https://github.com/komalkhatod1105/One-Stop-Guide/pull/31) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#30](https://github.com/komalkhatod1105/One-Stop-Guide/issues/30) |
