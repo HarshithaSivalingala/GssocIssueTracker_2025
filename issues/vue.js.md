@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| updated code_of_conduct.md | Medium | [#49](https://github.com/indra7777/frostiq/pull/49) |
+| improve code_of_conduct.md | Medium | [#48](https://github.com/indra7777/frostiq/issues/48) |
 | Add UUID field to Favorite model for secure and unique API identification | Medium | [#47](https://github.com/indra7777/frostiq/issues/47) |
 | Implement FastAPI Email Verification and JWT based login Auth | Medium | [#46](https://github.com/indra7777/frostiq/issues/46) |
 | feat: Implement comprehensive global exception handling system for FastAPI backend #21 | Medium | [#45](https://github.com/indra7777/frostiq/pull/45) |
