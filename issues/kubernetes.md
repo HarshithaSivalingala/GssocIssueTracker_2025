@@ -14,9 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Display GSSoC 2025 Leaderboard with Live Data md Copy Edit | Easy | [#53](https://github.com/Promptzy/Nexara/issues/53) |
-| Implement API Endpoint for GSSoC 2025 Leaderboard Data | Easy | [#52](https://github.com/Promptzy/Nexara/issues/52) |
-| Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
+| Center-aligned Responsive Logo | Easy | [#58](https://github.com/Promptzy/Nexara/pull/58) |
+| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 
 ---
 
@@ -34,6 +33,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Footer element with better UI | Medium | [#8](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/pull/8) |
 | 🌙 Advanced Dark Mode + Theme Customization | Medium | [#5](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/5) |
 | Implement JWT-Based User Authentication with bcrypt Password Hashing | Hard | [#4](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/4) |
 
