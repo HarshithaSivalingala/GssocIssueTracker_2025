@@ -14,17 +14,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Updated Readme | Medium | [#38](https://github.com/kaushav07/VisionMate/pull/38) |
+| added langchain | Medium | [#37](https://github.com/kaushav07/VisionMate/pull/37) |
 | Added CODE_OF_CONDUCT.md | Medium | [#36](https://github.com/kaushav07/VisionMate/pull/36) |
 | feat: Implement speech-to-text module | Medium | [#35](https://github.com/kaushav07/VisionMate/pull/35) |
 | Feature: Add face recognition and FastAPI integration #24 | Medium | [#34](https://github.com/kaushav07/VisionMate/pull/34) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
-| Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
 | Create Updated Readme | Medium | [#25](https://github.com/kaushav07/VisionMate/pull/25) |
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
-| Updated Readme | Medium | [#17](https://github.com/kaushav07/VisionMate/issues/17) |
-| 🚫 License Missing from Repository | Medium | [#14](https://github.com/kaushav07/VisionMate/issues/14) |
 | Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [#12](https://github.com/kaushav07/VisionMate/issues/12) |
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
@@ -32,7 +31,6 @@
 | Improve prompt to ensure concise descriptions from Gemini | Medium | [#6](https://github.com/kaushav07/VisionMate/issues/6) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
 | Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
-| Missing requirements.txt file for environment setup | Medium | [#1](https://github.com/kaushav07/VisionMate/issues/1) |
 | Improve Object Detection Accuracy & Add Environment Awareness Features | Hard | [#13](https://github.com/kaushav07/VisionMate/issues/13) |
 
 ---
@@ -74,7 +72,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Project Structure in README | Medium | [#199](https://github.com/Prateek9876/NagarVikas/issues/199) |
 | Added Animation on Complaint Submission Success #6 Level 2 | Medium | [#197](https://github.com/Prateek9876/NagarVikas/pull/197) |
 | Enhance empty state UI with illustration and fade-in animation (#153 & #159) | Medium | [#194](https://github.com/Prateek9876/NagarVikas/pull/194) |
 | Lib folder restructured and import issue fixed | Medium | [#187](https://github.com/Prateek9876/NagarVikas/pull/187) |
@@ -97,7 +94,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement forgot password to the flutter UI | Medium | [#119](https://github.com/Yash159357/BREVITY/pull/119) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
 
 ---
@@ -116,10 +112,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| changed the black bg splashscreen with logo to fully white | Medium | [#58](https://github.com/may-tas/TextEditingApp/pull/58) |
 | Add Text Alignment Controls (Left, Center, Right) for Editable Text | Medium | [#56](https://github.com/may-tas/TextEditingApp/issues/56) |
-| Feature Request: Adding Copy Feature | Medium | [#32](https://github.com/may-tas/TextEditingApp/issues/32) |
-| Bug Report : Delete Key Removes All Text Elements Instead of Only the Selected One | Medium | [#4](https://github.com/may-tas/TextEditingApp/issues/4) |
 
 ---
 
@@ -137,7 +130,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhanced Dashboard UI & Fixed Navigation Errors | Medium | [#77](https://github.com/VJLIVE/Athletix/issues/77) |
+| Logs are securely stored in Firestore and accessible to doctors and coaches. | Medium | [#79](https://github.com/VJLIVE/Athletix/issues/79) |
 | Add performance tracking (Solved issues) | Medium | [#76](https://github.com/VJLIVE/Athletix/pull/76) |
 | docs: update README.md and CONTRIBUTING.md | Medium | [#75](https://github.com/VJLIVE/Athletix/pull/75) |
 | Optimize Splash Screen Performance with Authentication Check in Parallel with Animation | Medium | [#60](https://github.com/VJLIVE/Athletix/issues/60) |
@@ -161,7 +154,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement forgot password to the flutter UI | Medium | [#119](https://github.com/Yash159357/BREVITY/pull/119) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
 
 ---
