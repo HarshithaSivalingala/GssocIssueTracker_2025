@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| updated code_of_conduct.md | Medium | [#49](https://github.com/indra7777/frostiq/pull/49) |
+| improve code_of_conduct.md | Medium | [#48](https://github.com/indra7777/frostiq/issues/48) |
 | Add UUID field to Favorite model for secure and unique API identification | Medium | [#47](https://github.com/indra7777/frostiq/issues/47) |
 | Implement FastAPI Email Verification and JWT based login Auth | Medium | [#46](https://github.com/indra7777/frostiq/issues/46) |
 | feat: Implement comprehensive global exception handling system for FastAPI backend #21 | Medium | [#45](https://github.com/indra7777/frostiq/pull/45) |
@@ -47,17 +49,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Updated Readme | Medium | [#38](https://github.com/kaushav07/VisionMate/pull/38) |
+| added langchain | Medium | [#37](https://github.com/kaushav07/VisionMate/pull/37) |
 | Added CODE_OF_CONDUCT.md | Medium | [#36](https://github.com/kaushav07/VisionMate/pull/36) |
 | feat: Implement speech-to-text module | Medium | [#35](https://github.com/kaushav07/VisionMate/pull/35) |
 | Feature: Add face recognition and FastAPI integration #24 | Medium | [#34](https://github.com/kaushav07/VisionMate/pull/34) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
-| Add license and Update readme.md | Medium | [#27](https://github.com/kaushav07/VisionMate/pull/27) |
 | Create Updated Readme | Medium | [#25](https://github.com/kaushav07/VisionMate/pull/25) |
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
-| Updated Readme | Medium | [#17](https://github.com/kaushav07/VisionMate/issues/17) |
-| 🚫 License Missing from Repository | Medium | [#14](https://github.com/kaushav07/VisionMate/issues/14) |
 | Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [#12](https://github.com/kaushav07/VisionMate/issues/12) |
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
@@ -65,7 +66,6 @@
 | Improve prompt to ensure concise descriptions from Gemini | Medium | [#6](https://github.com/kaushav07/VisionMate/issues/6) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
 | Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
-| Missing requirements.txt file for environment setup | Medium | [#1](https://github.com/kaushav07/VisionMate/issues/1) |
 | Improve Object Detection Accuracy & Add Environment Awareness Features | Hard | [#13](https://github.com/kaushav07/VisionMate/issues/13) |
 
 ---
@@ -86,11 +86,6 @@
 |----------|----------------|---------|
 | feat: Product Catalog Integration with Search, Filters, and Shopping Cart (#11) | Medium | [#30](https://github.com/Naveenkumar30838/Housify/pull/30) |
 | Added 404 and global error handling | Medium | [#29](https://github.com/Naveenkumar30838/Housify/pull/29) |
-| Rename LICENSE.md to LICENSE for GitHub license detection | Medium | [#28](https://github.com/Naveenkumar30838/Housify/pull/28) |
-| Improve Mobile Responsiveness of the Rental Property Web App Using TailwindCSS | Medium | [#27](https://github.com/Naveenkumar30838/Housify/issues/27) |
-| Missing a CodeOfConduct.md file | Medium | [#20](https://github.com/Naveenkumar30838/Housify/issues/20) |
-| REFRACTOR: Add controllers and router | Medium | [#19](https://github.com/Naveenkumar30838/Housify/issues/19) |
-| FEATURE REQUEST: Add a CONTRIBUTING.md to guide new contributors | Medium | [#18](https://github.com/Naveenkumar30838/Housify/issues/18) |
 | Added wishlist feature | Medium | [#15](https://github.com/Naveenkumar30838/Housify/pull/15) |
 
 ---
@@ -109,6 +104,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Improvement Suggestion – Text Visibility & Theme Support | Medium | [#35](https://github.com/swarooppatilx/bit-by-query/issues/35) |
 | Add a LEARN.md file to provide learning resources for new contributors | Medium | [#33](https://github.com/swarooppatilx/bit-by-query/issues/33) |
 | ISSUE:-While Login And Signup Internal Server Failed Error | Medium | [#30](https://github.com/swarooppatilx/bit-by-query/issues/30) |
 | feat: Add API to track user progress on questions | Medium | [#27](https://github.com/swarooppatilx/bit-by-query/pull/27) |
@@ -148,6 +144,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added LICENSE | Medium | [#28](https://github.com/sachiikrish/AttendanceTracker/pull/28) |
 | To add show/hide password | Medium | [#27](https://github.com/sachiikrish/AttendanceTracker/issues/27) |
 | There is no link in the mit license and in the code also there is no license present. | Medium | [#26](https://github.com/sachiikrish/AttendanceTracker/issues/26) |
 | Typo in placeholder text of the email input field on the Sign-Up form | Medium | [#25](https://github.com/sachiikrish/AttendanceTracker/issues/25) |
@@ -172,11 +169,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| check overfitting | Medium | [#18](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/18) |
-| Documentation : Add a CONTRIBUTING.md File to project | Medium | [#16](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/16) |
-| Documentation : Add Code Of Conduct File to project | Medium | [#15](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/15) |
 | Frontend | Medium | [#13](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/13) |
-| Add Option to Display Top-N Recommended Products | Medium | [#10](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/10) |
+| Frontend using html css and js(js is commited) | Medium | [#11](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/11) |
 | SkynCare.AI Streamlit app with quiz, webcam, and UI | Medium | [#9](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/9) |
 | Add the streamlitui and requirements.txt file | Medium | [#4](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/4) |
 
@@ -209,6 +203,7 @@
 | Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
+| Add Admin Panel to Manage City Content (CRUD Functionality) | Medium | [#40](https://github.com/komalkhatod1105/One-Stop-Guide/issues/40) |
 | Add a Code of Conduct to Project | Medium | [#39](https://github.com/komalkhatod1105/One-Stop-Guide/issues/39) |
 | Add more cities, enhance the UI , Add more information and photos for each city #22 | Medium | [#31](https://github.com/komalkhatod1105/One-Stop-Guide/pull/31) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#30](https://github.com/komalkhatod1105/One-Stop-Guide/issues/30) |
