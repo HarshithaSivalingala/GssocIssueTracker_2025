@@ -16,7 +16,6 @@
 |----------|----------------|---------|
 | avatar show | Easy | [#75](https://github.com/abhisek247767/PeopleHub-Frontend/issues/75) |
 | Update README.md file | Easy | [#42](https://github.com/abhisek247767/PeopleHub-Frontend/issues/42) |
-| Navbar enhanced | Medium | [#80](https://github.com/abhisek247767/PeopleHub-Frontend/pull/80) |
 | Add Employee Recognition Badges on Profiles. | Medium | [#79](https://github.com/abhisek247767/PeopleHub-Frontend/issues/79) |
 | Delete api integration | Medium | [#76](https://github.com/abhisek247767/PeopleHub-Frontend/issues/76) |
 | Update README.md file | Medium | [#70](https://github.com/abhisek247767/PeopleHub-Frontend/pull/70) |
