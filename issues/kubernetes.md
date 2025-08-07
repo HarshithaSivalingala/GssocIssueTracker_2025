@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Center-aligned Responsive Logo | Easy | [#58](https://github.com/Promptzy/Nexara/pull/58) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 
 ---
@@ -33,9 +32,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Footer element with better UI | Medium | [#8](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/pull/8) |
 | 🌙 Advanced Dark Mode + Theme Customization | Medium | [#5](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/5) |
-| Implement JWT-Based User Authentication with bcrypt Password Hashing | Hard | [#4](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/4) |
 
 ---
 
