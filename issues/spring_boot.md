@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add LEARN.md to guide new contributors with tech stack and GSSoC info | Medium | [#74](https://github.com/Ayush0316/KnockoutZone/pull/74) |
+| Add enums for Tournament module | Medium | [#73](https://github.com/Ayush0316/KnockoutZone/pull/73) |
+| Add CRUD operations for User entity | Medium | [#72](https://github.com/Ayush0316/KnockoutZone/pull/72) |
 | feat: implement glassmorphism design for login page UI | Medium | [#71](https://github.com/Ayush0316/KnockoutZone/pull/71) |
 | Added Common background for all pages #45 | Medium | [#70](https://github.com/Ayush0316/KnockoutZone/pull/70) |
 | Closes #29 -feat- custom annotation LogRequest added | Medium | [#67](https://github.com/Ayush0316/KnockoutZone/pull/67) |
@@ -39,12 +42,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🧠 Feature Request: Smart Categorization & Sorting System | Easy | [#344](https://github.com/yuvrajsinghgmx/ShopSmart/issues/344) |
 |  | Easy | [#337](https://github.com/yuvrajsinghgmx/ShopSmart/issues/337) |
-| Added Dark mode to User Profile Screen and Search Screen UI | Medium | [#342](https://github.com/yuvrajsinghgmx/ShopSmart/pull/342) |
-| 🖼️ Feature Request: Add Image Attachments for Specific Items | Medium | [#338](https://github.com/yuvrajsinghgmx/ShopSmart/issues/338) |
+| Add Dark Mode Toggle in Settings Screen | Medium | [#346](https://github.com/yuvrajsinghgmx/ShopSmart/issues/346) |
 | LogOut API Route | Medium | [#336](https://github.com/yuvrajsinghgmx/ShopSmart/issues/336) |
-| "Onboarding API Route" | Medium | [#335](https://github.com/yuvrajsinghgmx/ShopSmart/issues/335) |
 | "Add Shop" API route | Medium | [#334](https://github.com/yuvrajsinghgmx/ShopSmart/issues/334) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
@@ -65,30 +65,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Navigation Crash: Destination "join_team" Not Found | Medium | [#13](https://github.com/AnshulPanwarr/g1new/issues/13) |
+| : Improve README with Firebase Setup | Medium | [#12](https://github.com/AnshulPanwarr/g1new/issues/12) |
+| ViewModel for ChatRoom | Medium | [#11](https://github.com/AnshulPanwarr/g1new/issues/11) |
+| Bugs in ChatRoom | Medium | [#10](https://github.com/AnshulPanwarr/g1new/issues/10) |
+| Bug Report: isLoading stays true forever in RecentChats screen | Medium | [#9](https://github.com/AnshulPanwarr/g1new/issues/9) |
+| Refactor GameSport Screen to Use ViewModel | Medium | [#8](https://github.com/AnshulPanwarr/g1new/issues/8) |
+| ViewModel for DiscoverScreen | Medium | [#7](https://github.com/AnshulPanwarr/g1new/issues/7) |
 | Notification | Medium | [#6](https://github.com/AnshulPanwarr/g1new/issues/6) |
 | Add detailed README with contribution guidelines and setup instructions | Medium | [#5](https://github.com/AnshulPanwarr/g1new/pull/5) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#4](https://github.com/AnshulPanwarr/g1new/issues/4) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/AnshulPanwarr/g1new/issues/3) |
 | 🚫 License Missing from Repository | Medium | [#2](https://github.com/AnshulPanwarr/g1new/issues/2) |
 | Add core infrastructure: README, CI pipelines, linting, and unit test suite | Medium | [#1](https://github.com/AnshulPanwarr/g1new/issues/1) |
-
----
-
-## 📌 Project: Hospital Management System
-
-📝 **Description:** Medimate 8.4.3 is a user-friendly healthcare application that streamlines the workflow of hospitals, clinics, and medical facilities. It efficiently manages patient information, appointments, laboratory management, and administrative tasks through its Electronic Health Record (EHR) system. The app also includes appointment scheduling, and invoicing, inventory management, and comprehensive reporting and analytics capabilities. It is web-based software, Medimate 8.4.3 can be accessed from any device with an internet connection.
-
-🔗 [View Project](https://github.com/aashut0xhkr/HMS_PRJCT.git)
-
-💻 **Tech Stack:** Core Java, Java 8, Spring Boot, Hibernate JPA, Spring Security, JWT, MySQL, RESTful Services, Git
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Implement PDF Generation for Reports | Medium | [#40](https://github.com/aashut0xhkr/HMS_PRJCT/issues/40) |
 
 ---
 
@@ -106,13 +95,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Redesigned Event Cards on events page | Medium | [#47](https://github.com/SandeepVashishtha/Eventra/pull/47) |
-| Implemented login and signup functionality for user as well as admin. Added role based authentication for user and admin. | Medium | [#46](https://github.com/SandeepVashishtha/Eventra/pull/46) |
-| Update Navbar UI for Improved Design and UX | Medium | [#45](https://github.com/SandeepVashishtha/Eventra/pull/45) |
-| Navbar UI Revamp | Medium | [#44](https://github.com/SandeepVashishtha/Eventra/issues/44) |
-| Newone | Medium | [#43](https://github.com/SandeepVashishtha/Eventra/pull/43) |
-| Add Responsive Design for Mobile View | Medium | [#34](https://github.com/SandeepVashishtha/Eventra/issues/34) |
-| Form UI/UX improvements – Enhanced date pickers and inline validation | Medium | [#30](https://github.com/SandeepVashishtha/Eventra/issues/30) |
+| Backend is broken and help needed | Medium | [#56](https://github.com/SandeepVashishtha/Eventra/issues/56) |
+| Add user authentication and registration module | Medium | [#2](https://github.com/SandeepVashishtha/Eventra/issues/2) |
 
 ---
 
