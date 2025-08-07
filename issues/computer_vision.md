@@ -16,6 +16,7 @@
 |----------|----------------|---------|
 | Fix footer spacing issue - add bottom padding to prevent content overlap | Easy | [#42](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) |
 | Improve UI Theme of Streamlit App | Easy | [#27](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/27) |
+| Add Loading Spinner While Loading Video Suggestions and Switching Modes | Medium | [#71](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/71) |
 | Add uplifting music option for "Sad" emotion + UI improvements | Medium | [#70](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/70) |
 | Integrate Gemini API for giving suggestions based on the detected mood | Medium | [#69](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/69) |
 | Enhance Camera Robustness: Add Error Handling and Shutter/Low-Light Detection | Medium | [#68](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/68) |
