@@ -14,11 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a Frequently Asked Questions (FAQ) section | Medium | [#48](https://github.com/Dipanita45/HEALCONNECT/issues/48) |
-| Readme Update | Medium | [#47](https://github.com/Dipanita45/HEALCONNECT/issues/47) |
-| update code_of_conduct.md file | Medium | [#46](https://github.com/Dipanita45/HEALCONNECT/pull/46) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
-| Add navigation menu, routing and update footer color | Medium | [#44](https://github.com/Dipanita45/HEALCONNECT/pull/44) |
 | fixed typos and added location feature | Medium | [#42](https://github.com/Dipanita45/HEALCONNECT/pull/42) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
@@ -39,11 +35,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Added API for listTargets [messaging] | Medium | [#120](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/120) |
 | listProviders | Medium | [#119](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/119) |
-| list message logs function | Medium | [#118](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/118) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
-| How to write APIs for C++ SDK Appwrite? | Medium | [#85](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/85) |
 | feat: update documents | Medium | [#45](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/45) |
 
 ---
@@ -62,9 +57,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(docs): Improving the project README | Easy | [#25](https://github.com/SharonIV0x86/CinderPeak/pull/25) |
+| Add examples for CSR-COO storage format | Medium | [#30](https://github.com/SharonIV0x86/CinderPeak/pull/30) |
 | docs: Add hybrid_storage.md for Hybrid CSR-COO documentation | Medium | [#28](https://github.com/SharonIV0x86/CinderPeak/pull/28) |
-| feat(graph): Add Iterator Support for Graphs traversal. | Medium | [#17](https://github.com/SharonIV0x86/CinderPeak/issues/17) |
 | Added Contributor Covenant Code of Conduct for community standards | Medium | [#14](https://github.com/SharonIV0x86/CinderPeak/pull/14) |
 
 ---
@@ -83,11 +77,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Sign-In button not functional on homepage | Easy | [#62](https://github.com/Aqsa4066/netflixclone/issues/62) |
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
 | Improve FAQ Section with Expandable Answers | Easy | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
+| Sign-In button not functional on homepage | Medium | [#65](https://github.com/Aqsa4066/netflixclone/pull/65) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
-| Sign-In button not functional on homepage | Medium | [#62](https://github.com/Aqsa4066/netflixclone/issues/62) |
 | Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
 | Enhance Netflix Clone Footer Design and Functionality | Medium | [#60](https://github.com/Aqsa4066/netflixclone/issues/60) |
 | One Click, Any Language | Medium | [#59](https://github.com/Aqsa4066/netflixclone/issues/59) |
@@ -95,7 +90,6 @@
 | I would try to improvements to the current styling of the Netflix Clone page to enhance the overall  visual appear . | Medium | [#57](https://github.com/Aqsa4066/netflixclone/pull/57) |
 | enhance ui | Medium | [#56](https://github.com/Aqsa4066/netflixclone/pull/56) |
 | Enhanced the footer section and added a  "back to top" button | Medium | [#54](https://github.com/Aqsa4066/netflixclone/pull/54) |
-| Enhanced FAQ section [ Issue - #43 ] | Medium | [#49](https://github.com/Aqsa4066/netflixclone/pull/49) |
 | Fix: Improve Hero Section Readability (Issue #36) | Medium | [#46](https://github.com/Aqsa4066/netflixclone/pull/46) |
 | Website Layout Broken- Please review Recent Changes | Medium | [#31](https://github.com/Aqsa4066/netflixclone/issues/31) |
 | Website Ruined | Medium | [#26](https://github.com/Aqsa4066/netflixclone/issues/26) |
@@ -106,7 +100,7 @@
 | Feature Request Add legal Pages Like Privacy, Terms Of use | Medium | [#14](https://github.com/Aqsa4066/netflixclone/issues/14) |
 | Readme update part2 | Medium | [#11](https://github.com/Aqsa4066/netflixclone/pull/11) |
 | New and Detailed Read-me | Medium | [#10](https://github.com/Aqsa4066/netflixclone/pull/10) |
-| Update read me | Medium | [#8](https://github.com/Aqsa4066/netflixclone/pull/8) |
+| 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
 
