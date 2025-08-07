@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| Add Comprehensive KDoc Comments and Dokka Documentation Setup | Medium | [#62](https://github.com/A-Akhil/Astra-Ai/pull/62) |
 | Astra ai some important issues | Medium | [#61](https://github.com/A-Akhil/Astra-Ai/issues/61) |
 | Feature: Add Weekly Adherence Summary Email to Users | Medium | [#60](https://github.com/A-Akhil/Astra-Ai/issues/60) |
 | Improved Navigation between fragments | Medium | [#59](https://github.com/A-Akhil/Astra-Ai/issues/59) |
@@ -95,6 +96,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing Project Structure in README | Medium | [#21](https://github.com/Rajkumarbhakta/Canvas/issues/21) |
 | Updated DrawingCanvas and ShapeSelector with shapes support | Medium | [#20](https://github.com/Rajkumarbhakta/Canvas/pull/20) |
 | feat: Replace preferences with SQLite database for drawing storage ( closes #3) | Medium | [#17](https://github.com/Rajkumarbhakta/Canvas/pull/17) |
 | Make Drawing Screen Mobile friendly | Medium | [#10](https://github.com/Rajkumarbhakta/Canvas/issues/10) |
@@ -116,6 +118,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📝[Docs]: Missing Project Structure in README | Medium | [#169](https://github.com/sourabhkumar47/ResQFood/issues/169) |
 | Feature/android 15 support | Medium | [#160](https://github.com/sourabhkumar47/ResQFood/pull/160) |
 
 ---
@@ -134,12 +137,9 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🧠 Feature Request: Smart Categorization & Sorting System | Easy | [#344](https://github.com/yuvrajsinghgmx/ShopSmart/issues/344) |
 |  | Easy | [#337](https://github.com/yuvrajsinghgmx/ShopSmart/issues/337) |
-| Added Dark mode to User Profile Screen and Search Screen UI | Medium | [#342](https://github.com/yuvrajsinghgmx/ShopSmart/pull/342) |
-| 🖼️ Feature Request: Add Image Attachments for Specific Items | Medium | [#338](https://github.com/yuvrajsinghgmx/ShopSmart/issues/338) |
+| Add Dark Mode Toggle in Settings Screen | Medium | [#346](https://github.com/yuvrajsinghgmx/ShopSmart/issues/346) |
 | LogOut API Route | Medium | [#336](https://github.com/yuvrajsinghgmx/ShopSmart/issues/336) |
-| "Onboarding API Route" | Medium | [#335](https://github.com/yuvrajsinghgmx/ShopSmart/issues/335) |
 | "Add Shop" API route | Medium | [#334](https://github.com/yuvrajsinghgmx/ShopSmart/issues/334) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
@@ -160,6 +160,10 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Open Repository in Browser | Medium | [#17](https://github.com/Ajay-patidar0/GitSearch/issues/17) |
+| Top App Bar (Back Navigation) | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
+| UiState and Loading,Error Screens | Medium | [#15](https://github.com/Ajay-patidar0/GitSearch/issues/15) |
+| SplashScreen Improvements | Medium | [#14](https://github.com/Ajay-patidar0/GitSearch/issues/14) |
 | Enhance UI/UX. | Medium | [#13](https://github.com/Ajay-patidar0/GitSearch/pull/13) |
 | There is no license in the readme | Medium | [#11](https://github.com/Ajay-patidar0/GitSearch/issues/11) |
 
@@ -179,6 +183,13 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Navigation Crash: Destination "join_team" Not Found | Medium | [#13](https://github.com/AnshulPanwarr/g1new/issues/13) |
+| : Improve README with Firebase Setup | Medium | [#12](https://github.com/AnshulPanwarr/g1new/issues/12) |
+| ViewModel for ChatRoom | Medium | [#11](https://github.com/AnshulPanwarr/g1new/issues/11) |
+| Bugs in ChatRoom | Medium | [#10](https://github.com/AnshulPanwarr/g1new/issues/10) |
+| Bug Report: isLoading stays true forever in RecentChats screen | Medium | [#9](https://github.com/AnshulPanwarr/g1new/issues/9) |
+| Refactor GameSport Screen to Use ViewModel | Medium | [#8](https://github.com/AnshulPanwarr/g1new/issues/8) |
+| ViewModel for DiscoverScreen | Medium | [#7](https://github.com/AnshulPanwarr/g1new/issues/7) |
 | Notification | Medium | [#6](https://github.com/AnshulPanwarr/g1new/issues/6) |
 | Add detailed README with contribution guidelines and setup instructions | Medium | [#5](https://github.com/AnshulPanwarr/g1new/pull/5) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#4](https://github.com/AnshulPanwarr/g1new/issues/4) |
