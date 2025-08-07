@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🧑‍💻: content in privacy section need to improve. | Medium | [#1326](https://github.com/vishanurag/Canvas-Editor/issues/1326) |
 | Forgot Password Page Created | Medium | [#1325](https://github.com/vishanurag/Canvas-Editor/pull/1325) |
 | Solved #1317 issue : fix bug in testimonials profile and added animated slide | Medium | [#1322](https://github.com/vishanurag/Canvas-Editor/pull/1322) |
 | Added Clear Canvas Button (Fixes #1297) | Medium | [#1319](https://github.com/vishanurag/Canvas-Editor/pull/1319) |
@@ -39,14 +40,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve "What We made" Section UI – Card Design & Alignment Enhancement in web development section | Medium | [#152](https://github.com/gyanshankar1708/GrowCraft/issues/152) |
-| Improve "What We Offer" Section UI – Card Design & Alignment Enhancement in Web Development | Medium | [#151](https://github.com/gyanshankar1708/GrowCraft/issues/151) |
-| Added Serene Seasons compatibility for GrowthCraft crops #73 | Medium | [#150](https://github.com/gyanshankar1708/GrowCraft/pull/150) |
-| Enhanced Services Section with 2x2 Layout and Smooth Animations | Medium | [#149](https://github.com/gyanshankar1708/GrowCraft/pull/149) |
+| Progressive Loading & Smooth Scroll Animations | Medium | [#164](https://github.com/gyanshankar1708/GrowCraft/pull/164) |
+| Fixed Navbar | Medium | [#162](https://github.com/gyanshankar1708/GrowCraft/pull/162) |
+| Perfectly Working dark mode light mode toggle switch | Medium | [#158](https://github.com/gyanshankar1708/GrowCraft/pull/158) |
+| Feedback form or suggestion form | Medium | [#153](https://github.com/gyanshankar1708/GrowCraft/issues/153) |
 | fix: center align navbar and gaps accordingly | Medium | [#148](https://github.com/gyanshankar1708/GrowCraft/pull/148) |
 | solved #91 issue , Added styles in backtotop enhance training section and make contact us intractive | Medium | [#147](https://github.com/gyanshankar1708/GrowCraft/pull/147) |
 | Replaced header image with PNG Logo and removed unwanted checkbox. | Medium | [#145](https://github.com/gyanshankar1708/GrowCraft/pull/145) |
-| Improved the UI of the footer | Medium | [#143](https://github.com/gyanshankar1708/GrowCraft/pull/143) |
 | Add Testimonials Slider with Auto-Play and Avatars #78 | Medium | [#142](https://github.com/gyanshankar1708/GrowCraft/pull/142) |
 | Enhance "Go To Top" Button visibility and position | Medium | [#141](https://github.com/gyanshankar1708/GrowCraft/pull/141) |
 | Navbar/enhance & contact us | Medium | [#136](https://github.com/gyanshankar1708/GrowCraft/pull/136) |
@@ -54,7 +54,27 @@
 | Fixed all navbar links (href attributes) | Medium | [#128](https://github.com/gyanshankar1708/GrowCraft/pull/128) |
 | Enhanced the footer  #84 | Medium | [#120](https://github.com/gyanshankar1708/GrowCraft/pull/120) |
 | Navbar contact us animation issue resolved | Medium | [#119](https://github.com/gyanshankar1708/GrowCraft/pull/119) |
-| Refactor: static buttons in carousel for better UX and cleaner markup with improved background overlay. | Medium | [#100](https://github.com/gyanshankar1708/GrowCraft/pull/100) |
+
+---
+
+## 📌 Project: FARMLOC
+
+📝 **Description:** FARMLOC stands for Farmers-Agricultural-Resource-Management-and-Location-Of-Cold-storage.
+ It is a web-based platform designed to empower farmers by providing seamless access to agricultural resources, tools for management, and real-time information about the nearest available cold storages.
+
+🔗 [View Project](https://github.com/Pujan-sarkar/FARMLOC)
+
+💻 **Tech Stack:** React.js, CSS, JavaScript, Bootstrap, Node.js, Express.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Implement Secure Authentication with JWT, Forgot Password, and UI Improvements for Login and Register Pages | Medium | [#48](https://github.com/Pujan-sarkar/FARMLOC/issues/48) |
+| Implement Authentication Routes for Login and Register Functionality | Medium | [#47](https://github.com/Pujan-sarkar/FARMLOC/issues/47) |
+| "Explore More" button on homepage is not functional or interactive | Medium | [#45](https://github.com/Pujan-sarkar/FARMLOC/issues/45) |
 
 ---
 
@@ -72,14 +92,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Link Issue in https://sachiva.vercel.app/booking.html | Medium | [#129](https://github.com/sachiva1/sachiva/issues/129) |
-| added new services #112 | Medium | [#127](https://github.com/sachiva1/sachiva/pull/127) |
-| fixed the button #111 | Medium | [#126](https://github.com/sachiva1/sachiva/pull/126) |
-| feat: implement comprehensive WCAG 2.1 accessibility improvements | Medium | [#117](https://github.com/sachiva1/sachiva/pull/117) |
 | Updated Contact.html | Medium | [#116](https://github.com/sachiva1/sachiva/pull/116) |
-| Refactor CSS Architecture and Remove Code Duplication (#42) | Medium | [#97](https://github.com/sachiva1/sachiva/pull/97) |
-| Accessibility/wcag 2.1 compliance issue 38 updated | Medium | [#84](https://github.com/sachiva1/sachiva/pull/84) |
-| Issue 42 css refactor architecture | Medium | [#82](https://github.com/sachiva1/sachiva/pull/82) |
 
 ---
 
