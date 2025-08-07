@@ -14,9 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement speech-to-text module | Medium | [#39](https://github.com/kaushav07/VisionMate/pull/39) |
 | Create Updated Readme | Medium | [#38](https://github.com/kaushav07/VisionMate/pull/38) |
 | added langchain | Medium | [#37](https://github.com/kaushav07/VisionMate/pull/37) |
-| Added CODE_OF_CONDUCT.md | Medium | [#36](https://github.com/kaushav07/VisionMate/pull/36) |
 | feat: Implement speech-to-text module | Medium | [#35](https://github.com/kaushav07/VisionMate/pull/35) |
 | Feature: Add face recognition and FastAPI integration #24 | Medium | [#34](https://github.com/kaushav07/VisionMate/pull/34) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
@@ -50,6 +50,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | BUG: Google summer of code's filters are not working | Easy | [#319](https://github.com/andoriyaprashant/OpSo/issues/319) |
+| BUG: The app is not running | Medium | [#418](https://github.com/andoriyaprashant/OpSo/issues/418) |
 | BUG: Improved linting and code quality | Medium | [#417](https://github.com/andoriyaprashant/OpSo/issues/417) |
 | Enhance Home Page UI | Medium | [#416](https://github.com/andoriyaprashant/OpSo/pull/416) |
 | Add table of contents section to the readme file | Medium | [#385](https://github.com/andoriyaprashant/OpSo/issues/385) |
@@ -76,7 +77,6 @@
 | Enhance empty state UI with illustration and fade-in animation (#153 & #159) | Medium | [#194](https://github.com/Prateek9876/NagarVikas/pull/194) |
 | Lib folder restructured and import issue fixed | Medium | [#187](https://github.com/Prateek9876/NagarVikas/pull/187) |
 | Show Preview of Uploaded Image before Submission. | Hard | [#191](https://github.com/Prateek9876/NagarVikas/pull/191) |
-| Add push notification feature to admin dashboard whenever new complaint is filed by user | Hard | [#127](https://github.com/Prateek9876/NagarVikas/issues/127) |
 
 ---
 
@@ -94,7 +94,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue: Design Logo for Brevity (Figma Submission) | Easy | [#132](https://github.com/Yash159357/BREVITY/issues/132) |
+| Issue: Design Reactions UI for News Cards | Easy | [#130](https://github.com/Yash159357/BREVITY/issues/130) |
+| Issue: Design OAuth 2.0 Login Buttons | Easy | [#129](https://github.com/Yash159357/BREVITY/issues/129) |
+| Design UI for "You're Done for the Day" End Screen | Easy | [#127](https://github.com/Yash159357/BREVITY/issues/127) |
+| Add Optional Profile Picture Upload to Signup Page | Medium | [#135](https://github.com/Yash159357/BREVITY/issues/135) |
+| Issue: Implement Reactions Backend Logic | Medium | [#131](https://github.com/Yash159357/BREVITY/issues/131) |
+| Issue: Implement OAuth 2.0 Login Flow | Medium | [#128](https://github.com/Yash159357/BREVITY/issues/128) |
+| Trigger End Screen When News Scroll Ends | Medium | [#126](https://github.com/Yash159357/BREVITY/issues/126) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
+| Issue: Implement One-Time Tutorial Overlay on HomeScreen | Hard | [#133](https://github.com/Yash159357/BREVITY/issues/133) |
 
 ---
 
@@ -130,13 +139,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Logs are securely stored in Firestore and accessible to doctors and coaches. | Medium | [#79](https://github.com/VJLIVE/Athletix/issues/79) |
+| Fixed add players for organizations . | Medium | [#82](https://github.com/VJLIVE/Athletix/pull/82) |
+| Create Logs are securely stored  doctors and coaches | Medium | [#81](https://github.com/VJLIVE/Athletix/pull/81) |
+| feat: add search and date filters to performance log and injury tracker screen | Medium | [#80](https://github.com/VJLIVE/Athletix/pull/80) |
 | Add performance tracking (Solved issues) | Medium | [#76](https://github.com/VJLIVE/Athletix/pull/76) |
-| docs: update README.md and CONTRIBUTING.md | Medium | [#75](https://github.com/VJLIVE/Athletix/pull/75) |
+| Add Empty State UI for No Performance Records | Medium | [#63](https://github.com/VJLIVE/Athletix/issues/63) |
 | Optimize Splash Screen Performance with Authentication Check in Parallel with Animation | Medium | [#60](https://github.com/VJLIVE/Athletix/issues/60) |
 | Solved issues in performance tracking | Medium | [#55](https://github.com/VJLIVE/Athletix/pull/55) |
-| fixed add players for organizations . | Medium | [#50](https://github.com/VJLIVE/Athletix/pull/50) |
-| feature : Implement Profile Picture Upload | Hard | [#7](https://github.com/VJLIVE/Athletix/issues/7) |
 
 ---
 
@@ -154,7 +163,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue: Design Logo for Brevity (Figma Submission) | Easy | [#132](https://github.com/Yash159357/BREVITY/issues/132) |
+| Issue: Design Reactions UI for News Cards | Easy | [#130](https://github.com/Yash159357/BREVITY/issues/130) |
+| Issue: Design OAuth 2.0 Login Buttons | Easy | [#129](https://github.com/Yash159357/BREVITY/issues/129) |
+| Design UI for "You're Done for the Day" End Screen | Easy | [#127](https://github.com/Yash159357/BREVITY/issues/127) |
+| Add Optional Profile Picture Upload to Signup Page | Medium | [#135](https://github.com/Yash159357/BREVITY/issues/135) |
+| Issue: Implement Reactions Backend Logic | Medium | [#131](https://github.com/Yash159357/BREVITY/issues/131) |
+| Issue: Implement OAuth 2.0 Login Flow | Medium | [#128](https://github.com/Yash159357/BREVITY/issues/128) |
+| Trigger End Screen When News Scroll Ends | Medium | [#126](https://github.com/Yash159357/BREVITY/issues/126) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
+| Issue: Implement One-Time Tutorial Overlay on HomeScreen | Hard | [#133](https://github.com/Yash159357/BREVITY/issues/133) |
 
 ---
 
