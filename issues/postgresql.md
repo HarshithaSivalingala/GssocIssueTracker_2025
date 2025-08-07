@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat:Setup folder structure for modular features: users, expenses, ap… | Medium | [#53](https://github.com/Abhinavhaldiya/FinPilot/pull/53) |
 | Feature Request: AI Powered Receipt Categorization | Medium | [#52](https://github.com/Abhinavhaldiya/FinPilot/issues/52) |
 | docs: improve README with roadmap and API overview | Medium | [#51](https://github.com/Abhinavhaldiya/FinPilot/pull/51) |
 | Advanced ai technology | Medium | [#49](https://github.com/Abhinavhaldiya/FinPilot/issues/49) |
@@ -51,6 +52,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add MIT License | Easy | [#3](https://github.com/Menthub-GSSoC/Menthub/issues/3) |
 | Update README.md | Easy | [#2](https://github.com/Menthub-GSSoC/Menthub/pull/2) |
+| ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
 | Add Dark Mode Toggle with Persistent User Preference | Medium | [#47](https://github.com/Menthub-GSSoC/Menthub/issues/47) |
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
@@ -84,15 +86,14 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| contributor page limit increased | Medium | [#479](https://github.com/HarshS16/Civix/pull/479) |
-| Add SOS button in navbar | Medium | [#478](https://github.com/HarshS16/Civix/issues/478) |
-| Improved UI of Testimonials Section | Medium | [#477](https://github.com/HarshS16/Civix/pull/477) |
-| Chatbot enhancement | Medium | [#476](https://github.com/HarshS16/Civix/issues/476) |
-| Logo corrected | Medium | [#475](https://github.com/HarshS16/Civix/pull/475) |
+| Resolved Issue #483: Bug/contributors redirect | Medium | [#492](https://github.com/HarshS16/Civix/pull/492) |
+| Resolved Issue #482: corrected the redirect issue and hover css on it | Medium | [#491](https://github.com/HarshS16/Civix/pull/491) |
+| Done footer navigation issue | Medium | [#490](https://github.com/HarshS16/Civix/pull/490) |
+| Enhancement of SOS Page to Modern UI | Medium | [#489](https://github.com/HarshS16/Civix/issues/489) |
+| Chat Room feature in dashboard | Medium | [#486](https://github.com/HarshS16/Civix/issues/486) |
 | Improvement in UI of Civic Eduaction and Rights Page | Medium | [#463](https://github.com/HarshS16/Civix/issues/463) |
 | Improve FAQ UI and Smoothness with Animated Expand/Collapse | Medium | [#374](https://github.com/HarshS16/Civix/pull/374) |
 | Mobile Responsiveness for Complaint Cards | Medium | [#341](https://github.com/HarshS16/Civix/issues/341) |
-| Add dynamic current year to footer | Medium | [#328](https://github.com/HarshS16/Civix/issues/328) |
 
 ---
 
@@ -127,6 +128,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | chore(deps): bump vaul from 0.9.9 to 1.1.2 | Medium | [#252](https://github.com/Muneerali199/DocMagic/pull/252) |
 | feat: refactored code to fully center main tabs | Medium | [#243](https://github.com/Muneerali199/DocMagic/pull/243) |
 | Added Supabase .env and updates | Medium | [#242](https://github.com/Muneerali199/DocMagic/pull/242) |
+| Feature Request: AI-powered Figma-like Design Tool with Code Generation & Export | Hard | [#293](https://github.com/Muneerali199/DocMagic/issues/293) |
 
 ---
 
@@ -145,9 +147,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Vmpranav/rag implementation | Medium | [#76](https://github.com/Er-luffy-D/SimplifAI/pull/76) |
 | feat: store generated JSON in DB, add documents API, sharing & access control fixes #74 | Medium | [#75](https://github.com/Er-luffy-D/SimplifAI/pull/75) |
 | Like to add Human pose estimation leveraging OpenCV for image processing and machine learning  algorithms under MLProjects | Medium | [#72](https://github.com/Er-luffy-D/SimplifAI/issues/72) |
-| Vmpranav/rag implementation | Medium | [#67](https://github.com/Er-luffy-D/SimplifAI/pull/67) |
 | Add Profile View and Update Functionality for Users | Medium | [#61](https://github.com/Er-luffy-D/SimplifAI/issues/61) |
 | Add Docker Compose setup and update README | Medium | [#31](https://github.com/Er-luffy-D/SimplifAI/pull/31) |
 
@@ -202,6 +204,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesign Dashboard | Medium | [#9](https://github.com/Sarthak027/Hackgrid/issues/9) |
 | README.md lacks clarity | Medium | [#8](https://github.com/Sarthak027/Hackgrid/issues/8) |
 | Adding a separate CodeOfConduct.md file | Medium | [#7](https://github.com/Sarthak027/Hackgrid/issues/7) |
 | Implement comprehensive client-side form validation using Zod and React Hook Form | Medium | [#6](https://github.com/Sarthak027/Hackgrid/issues/6) |
@@ -260,24 +263,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
-## 📌 Project: Voice Marketing Agents
-
-📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
-
-🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
-
-💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Bug: Live Twilio calls drop immediately after connecting; webhook not being triggered | Hard | [#18](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/18) |
-
----
-
 ## 📌 Project: SQL ChatBot: Query Any Database Using Natural Language
 
 📝 **Description:** The SQL ChatBot is an intelligent assistant that allows users to interact with structured databases using natural language. Users can upload a CSV file or connect to an SQL/MongoDB database and ask questions like Show total sales in January, and the bot generates the SQL/Mongo query, executes it, and returns results with an explanation.
@@ -318,7 +303,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Center-aligned Responsive Logo | Easy | [#58](https://github.com/Promptzy/Nexara/pull/58) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 
 ---
@@ -337,13 +321,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Redesigned Event Cards on events page | Medium | [#47](https://github.com/SandeepVashishtha/Eventra/pull/47) |
-| Implemented login and signup functionality for user as well as admin. Added role based authentication for user and admin. | Medium | [#46](https://github.com/SandeepVashishtha/Eventra/pull/46) |
-| Update Navbar UI for Improved Design and UX | Medium | [#45](https://github.com/SandeepVashishtha/Eventra/pull/45) |
-| Navbar UI Revamp | Medium | [#44](https://github.com/SandeepVashishtha/Eventra/issues/44) |
-| Newone | Medium | [#43](https://github.com/SandeepVashishtha/Eventra/pull/43) |
-| Add Responsive Design for Mobile View | Medium | [#34](https://github.com/SandeepVashishtha/Eventra/issues/34) |
-| Form UI/UX improvements – Enhanced date pickers and inline validation | Medium | [#30](https://github.com/SandeepVashishtha/Eventra/issues/30) |
+| Backend is broken and help needed | Medium | [#56](https://github.com/SandeepVashishtha/Eventra/issues/56) |
+| Add user authentication and registration module | Medium | [#2](https://github.com/SandeepVashishtha/Eventra/issues/2) |
 
 ---
 
@@ -361,11 +340,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Resolved Header Overlap Issue on Leaderboard Page | Easy | [#102](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/102) |
-| Bug: Clock Widget Remains in Dark Theme Even During Daytime in Dashboard | Medium | [#103](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/103) |
-| Feature : Combined and merged Dashboard Avatar icon and Three Dot menu | Medium | [#101](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/101) |
-| Fix/enhance card UI in about section[#93] | Medium | [#98](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/98) |
-| made Instagram and linkedin background bolder[#94] | Medium | [#97](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/97) |
 | Twitter/X OAuth2 Authentication | Medium | [#75](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/75) |
 | feat(ui): Implement Interactive Bubble Background with Scroll & Mouse Effects (#22) | Medium | [#49](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/49) |
 | Add dark mode toggle in Navbar & attempt to implement dark mode across pages | Medium | [#28](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/28) |
@@ -390,6 +364,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | enhance UI of sign in and sign up page | Easy | [#31](https://github.com/vatsal-bhakodia/smriti-ai/issues/31) |
+| Add an "About Us" Page to Smriti AI | Easy | [#24](https://github.com/vatsal-bhakodia/smriti-ai/issues/24) |
+| No Validation for Mobile Number Input in Onboard Process | Easy | [#22](https://github.com/vatsal-bhakodia/smriti-ai/issues/22) |
+| Add CAPTCHA and Rate Limiting to Contact Form | Medium | [#57](https://github.com/vatsal-bhakodia/smriti-ai/issues/57) |
+| Add a "Contributors" Page with Leaderboard and GitHub Links | Medium | [#28](https://github.com/vatsal-bhakodia/smriti-ai/issues/28) |
+| Add PDF Support to Resource Summary API | Medium | [#11](https://github.com/vatsal-bhakodia/smriti-ai/issues/11) |
 | Upload mp4 | Medium | [#2](https://github.com/vatsal-bhakodia/smriti-ai/issues/2) |
 
 ---
