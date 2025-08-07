@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Resource-level authorization for deletion | Medium | [#50](https://github.com/indra7777/frostiq/issues/50) |
 | updated code_of_conduct.md | Medium | [#49](https://github.com/indra7777/frostiq/pull/49) |
 | improve code_of_conduct.md | Medium | [#48](https://github.com/indra7777/frostiq/issues/48) |
 | Add UUID field to Favorite model for secure and unique API identification | Medium | [#47](https://github.com/indra7777/frostiq/issues/47) |
