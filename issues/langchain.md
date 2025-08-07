@@ -14,15 +14,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Care Co-pilot UI Revamped | Medium | [#212](https://github.com/Amarjha01/InfantCareCompass/pull/212) |
+| Featured Article UI Fixed | Medium | [#211](https://github.com/Amarjha01/InfantCareCompass/pull/211) |
+| Fixed the height of news cards | Medium | [#205](https://github.com/Amarjha01/InfantCareCompass/pull/205) |
 | added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
-| Fix: fixed the rotating star above the hero section text and changed the UI of the hero section for a smoother UI. | Medium | [#198](https://github.com/Amarjha01/InfantCareCompass/pull/198) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 | Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
-| Fix/mobile menu displacement | Medium | [#176](https://github.com/Amarjha01/InfantCareCompass/pull/176) |
 | Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 | feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
 | updated the contributing.md file | Medium | [#152](https://github.com/Amarjha01/InfantCareCompass/pull/152) |
-| refactored the controller logic and removed issues | Medium | [#147](https://github.com/Amarjha01/InfantCareCompass/pull/147) |
 
 ---
 
@@ -104,7 +104,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Center-aligned Responsive Logo | Easy | [#58](https://github.com/Promptzy/Nexara/pull/58) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 
 ---
@@ -143,6 +142,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refactor UI for Accessibility Compliance and Reusable Components | Medium | [#7](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/7) |
 | Add Smooth Animations and Transitions to UI | Medium | [#6](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/6) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#5](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/5) |
 | Modern UI/UX Enhancements for DORA – Smarter Design for a Smarter Assistant | Medium | [#4](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/4) |
