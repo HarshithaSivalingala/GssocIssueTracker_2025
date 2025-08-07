@@ -14,8 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Smart Chatbot: ZipBot provides instant news analysis and answers user questions | Medium | [#40](https://github.com/HimanshuHeda/Zip_Tales/issues/40) |
+| Made all neccesarry chages required for Proposed Filters | Medium | [#39](https://github.com/HimanshuHeda/Zip_Tales/pull/39) |
+| Add Related Articles section to ArticleDetail page | Medium | [#38](https://github.com/HimanshuHeda/Zip_Tales/pull/38) |
 | search bar should have the recent search storing option | Medium | [#37](https://github.com/HimanshuHeda/Zip_Tales/issues/37) |
-| Made all neccesarry chages required for Proposed Filters | Medium | [#36](https://github.com/HimanshuHeda/Zip_Tales/pull/36) |
 
 ---
 
@@ -33,6 +35,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Patient Dashboard with Medical History & Backend Routes | Medium | [#72](https://github.com/Priyanka-28-BM/HealthVault/issues/72) |
+| 🔒 Secure Data – Your medical records are encrypted and safe | Medium | [#71](https://github.com/Priyanka-28-BM/HealthVault/issues/71) |
 | Adding CODE_OF_CONDUCT.md file | Medium | [#70](https://github.com/Priyanka-28-BM/HealthVault/issues/70) |
 | Create data.sql | Medium | [#69](https://github.com/Priyanka-28-BM/HealthVault/pull/69) |
 | Create passwordStrength.js | Medium | [#68](https://github.com/Priyanka-28-BM/HealthVault/pull/68) |
@@ -86,6 +90,7 @@
 | chore(deps): bump vaul from 0.9.9 to 1.1.2 | Medium | [#252](https://github.com/Muneerali199/DocMagic/pull/252) |
 | feat: refactored code to fully center main tabs | Medium | [#243](https://github.com/Muneerali199/DocMagic/pull/243) |
 | Added Supabase .env and updates | Medium | [#242](https://github.com/Muneerali199/DocMagic/pull/242) |
+| Feature Request: AI-powered Figma-like Design Tool with Code Generation & Export | Hard | [#293](https://github.com/Muneerali199/DocMagic/issues/293) |
 
 ---
 
@@ -128,12 +133,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Logout Button | Easy | [#69](https://github.com/sristy17/next-payroll/issues/69) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| feat(login): Redesigned UI with Google Auth & Dark Mode | Medium | [#72](https://github.com/sristy17/next-payroll/pull/72) |
 | Scroll issue in GST return page & Add Business Page | Medium | [#67](https://github.com/sristy17/next-payroll/issues/67) |
-| Adding payment page | Medium | [#62](https://github.com/sristy17/next-payroll/pull/62) |
-| Create Add Payment system | Medium | [#50](https://github.com/sristy17/next-payroll/pull/50) |
 
 ---
 
@@ -151,8 +152,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add PWA Support to Enable Installable Web App | Medium | [#51](https://github.com/LarytheLord/Adventurers-Guild/pull/51) |
-| Add 3D Hover Effect on "From the Adventures" Cards for Improved UI Interaction #46 | Medium | [#50](https://github.com/LarytheLord/Adventurers-Guild/pull/50) |
+| Raise funding, need support to document the process | Easy | [#52](https://github.com/LarytheLord/Adventurers-Guild/issues/52) |
+| Fix: Updated license link to point to LICENSE.md | Medium | [#54](https://github.com/LarytheLord/Adventurers-Guild/pull/54) |
 | Create Database for the project and connect apis | Medium | [#49](https://github.com/LarytheLord/Adventurers-Guild/issues/49) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
