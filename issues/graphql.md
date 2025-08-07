@@ -14,17 +14,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Replace `utils::capitalize` with lodash | Easy | [#2001](https://github.com/OWASP/Nest/issues/2001) |
 | 🧹 Remove OWASP schema directory and Makefile references | Easy | [#1971](https://github.com/OWASP/Nest/pull/1971) |
-| Bump coverage requirements | Medium | [#1991](https://github.com/OWASP/Nest/pull/1991) |
+| Fix #1867: Added test for ProjectTypeDashboardCard Components | Medium | [#2003](https://github.com/OWASP/Nest/pull/2003) |
+| Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
+| Test/anchorTitle unit tests | Medium | [#1999](https://github.com/OWASP/Nest/pull/1999) |
+| Added participants who have expressed interest in a specific issue in issue model . | Medium | [#1995](https://github.com/OWASP/Nest/pull/1995) |
+| implemented AnimatedCounter tests | Medium | [#1994](https://github.com/OWASP/Nest/pull/1994) |
+| Feature/top contributors has full name filter #1990 | Medium | [#1993](https://github.com/OWASP/Nest/pull/1993) |
 | feature command to generate standardized project.owasp.yaml metadata files | Medium | [#1985](https://github.com/OWASP/Nest/pull/1985) |
 | refactor:remove PLR0912 ignore and fix 4 violations update | Medium | [#1979](https://github.com/OWASP/Nest/pull/1979) |
 | enhance:change-hover-color-action-button | Medium | [#1978](https://github.com/OWASP/Nest/pull/1978) |
-| Improve dashboard metrics list | Medium | [#1967](https://github.com/OWASP/Nest/pull/1967) |
 | Implement Breadcrumbs | Medium | [#1963](https://github.com/OWASP/Nest/pull/1963) |
 | Add unit tests for Milestones component | Medium | [#1962](https://github.com/OWASP/Nest/pull/1962) |
 | Create snapshots.py | Medium | [#1941](https://github.com/OWASP/Nest/pull/1941) |
 | Improve user details UX on member page (#1889) | Medium | [#1934](https://github.com/OWASP/Nest/pull/1934) |
 | added badge model | Medium | [#1929](https://github.com/OWASP/Nest/pull/1929) |
+| Extend project health dashboard sorting capabilities | Hard | [#2002](https://github.com/OWASP/Nest/issues/2002) |
 
 ---
 
@@ -42,7 +48,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Center-aligned Responsive Logo | Easy | [#58](https://github.com/Promptzy/Nexara/pull/58) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 
 ---
