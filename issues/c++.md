@@ -14,6 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix gh pages build | Medium | [#58](https://github.com/Dipanita45/HEALCONNECT/pull/58) |
+| Feature/my change | Medium | [#57](https://github.com/Dipanita45/HEALCONNECT/pull/57) |
+| Dark Mode feature added | Medium | [#55](https://github.com/Dipanita45/HEALCONNECT/pull/55) |
+| Improve Contact page with healthcare theme and contribution info | Medium | [#53](https://github.com/Dipanita45/HEALCONNECT/pull/53) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
 | fixed typos and added location feature | Medium | [#42](https://github.com/Dipanita45/HEALCONNECT/pull/42) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
@@ -57,6 +61,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug:- The link in the mit license is not working | Medium | [#32](https://github.com/SharonIV0x86/CinderPeak/issues/32) |
+| feat(exceptions): Revamp exception handling in CinderPeak | Medium | [#31](https://github.com/SharonIV0x86/CinderPeak/pull/31) |
 | Add examples for CSR-COO storage format | Medium | [#30](https://github.com/SharonIV0x86/CinderPeak/pull/30) |
 | docs: Add hybrid_storage.md for Hybrid CSR-COO documentation | Medium | [#28](https://github.com/SharonIV0x86/CinderPeak/pull/28) |
 | Added Contributor Covenant Code of Conduct for community standards | Medium | [#14](https://github.com/SharonIV0x86/CinderPeak/pull/14) |
@@ -81,6 +87,8 @@
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
 | Improve FAQ Section with Expandable Answers | Easy | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
+| Footer UI needs to be changed | Medium | [#67](https://github.com/Aqsa4066/netflixclone/issues/67) |
+| Improve mobile responsiveness for small screen devices | Medium | [#66](https://github.com/Aqsa4066/netflixclone/issues/66) |
 | Sign-In button not functional on homepage | Medium | [#65](https://github.com/Aqsa4066/netflixclone/pull/65) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
 | Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
@@ -98,8 +106,6 @@
 | Changed the styling | Medium | [#18](https://github.com/Aqsa4066/netflixclone/pull/18) |
 | 🐛 Bug Report: Button Hover State Missing | Medium | [#16](https://github.com/Aqsa4066/netflixclone/issues/16) |
 | Feature Request Add legal Pages Like Privacy, Terms Of use | Medium | [#14](https://github.com/Aqsa4066/netflixclone/issues/14) |
-| Readme update part2 | Medium | [#11](https://github.com/Aqsa4066/netflixclone/pull/11) |
-| New and Detailed Read-me | Medium | [#10](https://github.com/Aqsa4066/netflixclone/pull/10) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
