@@ -14,10 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Smart Chatbot: ZipBot provides instant news analysis and answers user questions | Medium | [#40](https://github.com/HimanshuHeda/Zip_Tales/issues/40) |
 | Made all neccesarry chages required for Proposed Filters | Medium | [#39](https://github.com/HimanshuHeda/Zip_Tales/pull/39) |
-| Add Related Articles section to ArticleDetail page | Medium | [#38](https://github.com/HimanshuHeda/Zip_Tales/pull/38) |
-| search bar should have the recent search storing option | Medium | [#37](https://github.com/HimanshuHeda/Zip_Tales/issues/37) |
 
 ---
 
@@ -75,13 +72,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 | chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
 | chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
 | chore(deps): bump the minor-and-patch group with 11 updates | Medium | [#286](https://github.com/Muneerali199/DocMagic/pull/286) |
 | chore(deps): bump nodemailer from 6.10.1 to 7.0.5 | Medium | [#285](https://github.com/Muneerali199/DocMagic/pull/285) |
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
-| Added 10 Templates for Resume, Cover Letter, and Presentations | Medium | [#261](https://github.com/Muneerali199/DocMagic/pull/261) |
 | chore(deps): bump bcryptjs and @types/bcryptjs | Medium | [#258](https://github.com/Muneerali199/DocMagic/pull/258) |
 | chore(deps): bump tailwind-merge from 2.6.0 to 3.3.1 | Medium | [#257](https://github.com/Muneerali199/DocMagic/pull/257) |
 | chore(deps): bump date-fns from 3.6.0 to 4.1.0 | Medium | [#255](https://github.com/Muneerali199/DocMagic/pull/255) |
@@ -90,7 +87,6 @@
 | chore(deps): bump vaul from 0.9.9 to 1.1.2 | Medium | [#252](https://github.com/Muneerali199/DocMagic/pull/252) |
 | feat: refactored code to fully center main tabs | Medium | [#243](https://github.com/Muneerali199/DocMagic/pull/243) |
 | Added Supabase .env and updates | Medium | [#242](https://github.com/Muneerali199/DocMagic/pull/242) |
-| Feature Request: AI-powered Figma-like Design Tool with Code Generation & Export | Hard | [#293](https://github.com/Muneerali199/DocMagic/issues/293) |
 
 ---
 
@@ -108,9 +104,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ui enhancement | Medium | [#15](https://github.com/byteom/Interview01/issues/15) |
+| Add CODE_OF_CONDUCT.md file for Interview01 under GSSoC'25 | Medium | [#14](https://github.com/byteom/Interview01/pull/14) |
 | Add "Delete Account" Option | Medium | [#13](https://github.com/byteom/Interview01/issues/13) |
 | Add  Aptitude Practice | Medium | [#12](https://github.com/byteom/Interview01/issues/12) |
-| Add Code of Conduct – Interview01 | GSSoC'25 | Medium | [#11](https://github.com/byteom/Interview01/issues/11) |
 | AI-Powered Interview Summary Generator 🧠 | Medium | [#9](https://github.com/byteom/Interview01/issues/9) |
 | UI Design Bug Report: Inconsistent Box Colors, Misaligned Cards, and Messy Icons | Medium | [#7](https://github.com/byteom/Interview01/issues/7) |
 | To smoothen the hover effect | Medium | [#6](https://github.com/byteom/Interview01/issues/6) |
@@ -134,6 +131,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Payment page creation | Medium | [#73](https://github.com/sristy17/next-payroll/pull/73) |
 | Scroll issue in GST return page & Add Business Page | Medium | [#67](https://github.com/sristy17/next-payroll/issues/67) |
 
 ---
@@ -153,8 +151,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Raise funding, need support to document the process | Easy | [#52](https://github.com/LarytheLord/Adventurers-Guild/issues/52) |
-| Fix: Updated license link to point to LICENSE.md | Medium | [#54](https://github.com/LarytheLord/Adventurers-Guild/pull/54) |
-| Create Database for the project and connect apis | Medium | [#49](https://github.com/LarytheLord/Adventurers-Guild/issues/49) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
@@ -174,25 +170,24 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.537.0 | Medium | [#69](https://github.com/Ojas-Arora/SapneSeSafar/pull/69) |
+| Bump @vitejs/plugin-react from 4.3.2 to 5.0.0 | Medium | [#68](https://github.com/Ojas-Arora/SapneSeSafar/pull/68) |
+| Bump vite from 5.4.17 to 7.1.0 | Medium | [#67](https://github.com/Ojas-Arora/SapneSeSafar/pull/67) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.54.0 | Medium | [#66](https://github.com/Ojas-Arora/SapneSeSafar/pull/66) |
+| Bump react-router-dom from 6.28.2 to 7.8.0 | Medium | [#65](https://github.com/Ojas-Arora/SapneSeSafar/pull/65) |
 | Bump recharts from 2.15.0 to 3.1.2 | Medium | [#64](https://github.com/Ojas-Arora/SapneSeSafar/pull/64) |
 | Bump three from 0.161.0 to 0.179.1 | Medium | [#63](https://github.com/Ojas-Arora/SapneSeSafar/pull/63) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
 | Feat: Connecting All Sharks CSV file with all Features | Medium | [#59](https://github.com/Ojas-Arora/SapneSeSafar/issues/59) |
-| add MIT License file to the project | Medium | [#58](https://github.com/Ojas-Arora/SapneSeSafar/pull/58) |
-| Bump lucide-react from 0.344.0 to 0.536.0 | Medium | [#56](https://github.com/Ojas-Arora/SapneSeSafar/pull/56) |
 | Bump zustand from 4.5.6 to 5.0.7 | Medium | [#54](https://github.com/Ojas-Arora/SapneSeSafar/pull/54) |
 | Bump typescript from 5.6.3 to 5.9.2 | Medium | [#53](https://github.com/Ojas-Arora/SapneSeSafar/pull/53) |
 | Bump framer-motion from 11.18.2 to 12.23.12 | Medium | [#51](https://github.com/Ojas-Arora/SapneSeSafar/pull/51) |
 | Bump react-dom and @types/react-dom | Medium | [#47](https://github.com/Ojas-Arora/SapneSeSafar/pull/47) |
 | Bump react and @types/react | Medium | [#46](https://github.com/Ojas-Arora/SapneSeSafar/pull/46) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.53.0 | Medium | [#44](https://github.com/Ojas-Arora/SapneSeSafar/pull/44) |
 | Bump eslint from 9.12.0 to 9.32.0 | Medium | [#43](https://github.com/Ojas-Arora/SapneSeSafar/pull/43) |
-| Bump vite from 5.4.17 to 7.0.6 | Medium | [#42](https://github.com/Ojas-Arora/SapneSeSafar/pull/42) |
-| Bump react-router-dom from 6.28.2 to 7.7.1 | Medium | [#40](https://github.com/Ojas-Arora/SapneSeSafar/pull/40) |
 | Bump axios from 1.7.9 to 1.11.0 | Medium | [#39](https://github.com/Ojas-Arora/SapneSeSafar/pull/39) |
-| Bump @vitejs/plugin-react from 4.3.2 to 4.7.0 | Medium | [#36](https://github.com/Ojas-Arora/SapneSeSafar/pull/36) |
 | Bump @libsql/client from 0.5.6 to 0.15.10 | Medium | [#32](https://github.com/Ojas-Arora/SapneSeSafar/pull/32) |
 | Bump three and @types/three | Medium | [#17](https://github.com/Ojas-Arora/SapneSeSafar/pull/17) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.20 | Medium | [#15](https://github.com/Ojas-Arora/SapneSeSafar/pull/15) |
