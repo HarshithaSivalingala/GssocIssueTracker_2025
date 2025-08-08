@@ -14,7 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add input validation and error handling in app.py | Medium | [#20](https://github.com/CharithaReddy18/AI-health-chatbot/issues/20) |
+| Enhance the Chatbot to handle unmatched user queries | Medium | [#25](https://github.com/CharithaReddy18/AI-health-chatbot/issues/25) |
+| Update readme file for more smoother contribution | Medium | [#24](https://github.com/CharithaReddy18/AI-health-chatbot/issues/24) |
 
 ---
 
