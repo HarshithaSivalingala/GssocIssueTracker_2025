@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Initialize the Project with a Clear Folder Structure and Base Files | Medium | [#53](https://github.com/indra7777/frostiq/issues/53) |
+| Setup .gitignore to Clean Up the Project Structure | Medium | [#52](https://github.com/indra7777/frostiq/issues/52) |
+| Add a clear README.md to the project | Medium | [#51](https://github.com/indra7777/frostiq/issues/51) |
 | Resource-level authorization for deletion | Medium | [#50](https://github.com/indra7777/frostiq/issues/50) |
 | updated code_of_conduct.md | Medium | [#49](https://github.com/indra7777/frostiq/pull/49) |
 | improve code_of_conduct.md | Medium | [#48](https://github.com/indra7777/frostiq/issues/48) |
