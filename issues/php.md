@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| No.of subjects made dynamic | Medium | [#30](https://github.com/sachiikrish/AttendanceTracker/pull/30) |
 | Enhancement: I want to enhance the ui for the page of index.php | Medium | [#29](https://github.com/sachiikrish/AttendanceTracker/issues/29) |
 | To add show/hide password | Medium | [#27](https://github.com/sachiikrish/AttendanceTracker/issues/27) |
 | UI/Improve: Redesign and Enhance Overall Homepage Layout for Better First Impression | Medium | [#22](https://github.com/sachiikrish/AttendanceTracker/issues/22) |
