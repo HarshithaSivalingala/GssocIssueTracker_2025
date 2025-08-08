@@ -44,6 +44,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Standardize Repository Presentation | Medium | [#6](https://github.com/JoannaSharon06/WaveFarerFin/issues/6) |
 | Missing Dependencies, Security Risks & Architecture Conflicts | Medium | [#5](https://github.com/JoannaSharon06/WaveFarerFin/issues/5) |
 | Add a Comprehensive `README.md` File for Better Project Documentation | Medium | [#4](https://github.com/JoannaSharon06/WaveFarerFin/issues/4) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/JoannaSharon06/WaveFarerFin/issues/3) |
