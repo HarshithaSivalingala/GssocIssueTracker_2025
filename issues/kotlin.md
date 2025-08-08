@@ -96,7 +96,6 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Project Structure in README | Medium | [#21](https://github.com/Rajkumarbhakta/Canvas/issues/21) |
 | Updated DrawingCanvas and ShapeSelector with shapes support | Medium | [#20](https://github.com/Rajkumarbhakta/Canvas/pull/20) |
 | feat: Replace preferences with SQLite database for drawing storage ( closes #3) | Medium | [#17](https://github.com/Rajkumarbhakta/Canvas/pull/17) |
 | Make Drawing Screen Mobile friendly | Medium | [#10](https://github.com/Rajkumarbhakta/Canvas/issues/10) |
@@ -160,9 +159,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Open Repository in Browser | Medium | [#17](https://github.com/Ajay-patidar0/GitSearch/issues/17) |
-| Top App Bar (Back Navigation) | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
-| UiState and Loading,Error Screens | Medium | [#15](https://github.com/Ajay-patidar0/GitSearch/issues/15) |
+| Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
 | SplashScreen Improvements | Medium | [#14](https://github.com/Ajay-patidar0/GitSearch/issues/14) |
 | Enhance UI/UX. | Medium | [#13](https://github.com/Ajay-patidar0/GitSearch/pull/13) |
 | There is no license in the readme | Medium | [#11](https://github.com/Ajay-patidar0/GitSearch/issues/11) |
