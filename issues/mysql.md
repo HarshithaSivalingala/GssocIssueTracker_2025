@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Initialize the Project with a Clear Folder Structure and Base Files | Medium | [#53](https://github.com/indra7777/frostiq/issues/53) |
+| Setup .gitignore to Clean Up the Project Structure | Medium | [#52](https://github.com/indra7777/frostiq/issues/52) |
+| Add a clear README.md to the project | Medium | [#51](https://github.com/indra7777/frostiq/issues/51) |
 | Resource-level authorization for deletion | Medium | [#50](https://github.com/indra7777/frostiq/issues/50) |
 | updated code_of_conduct.md | Medium | [#49](https://github.com/indra7777/frostiq/pull/49) |
 | improve code_of_conduct.md | Medium | [#48](https://github.com/indra7777/frostiq/issues/48) |
@@ -50,6 +53,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Integrate scan_logger.py Across the Application | Medium | [#41](https://github.com/kaushav07/VisionMate/issues/41) |
 | feat: Implement speech-to-text module | Medium | [#39](https://github.com/kaushav07/VisionMate/pull/39) |
 | Create Updated Readme | Medium | [#38](https://github.com/kaushav07/VisionMate/pull/38) |
 | added langchain | Medium | [#37](https://github.com/kaushav07/VisionMate/pull/37) |
@@ -85,6 +89,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add feature of editing user's details in profile section | Medium | [#40](https://github.com/Naveenkumar30838/Housify/issues/40) |
+| ui modification in register and sign in pages | Medium | [#39](https://github.com/Naveenkumar30838/Housify/issues/39) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
 | Feature Suggestion :Save to Wishlist / Bookmark Properties | Medium | [#37](https://github.com/Naveenkumar30838/Housify/issues/37) |
 | feat: Implement database connection and initialization | Medium | [#36](https://github.com/Naveenkumar30838/Housify/pull/36) |
@@ -120,6 +126,25 @@
 
 ---
 
+## 📌 Project: Hospital Management System
+
+📝 **Description:** Medimate 8.4.3 is a user-friendly healthcare application that streamlines the workflow of hospitals, clinics, and medical facilities. It efficiently manages patient information, appointments, laboratory management, and administrative tasks through its Electronic Health Record (EHR) system. The app also includes appointment scheduling, and invoicing, inventory management, and comprehensive reporting and analytics capabilities. It is web-based software, Medimate 8.4.3 can be accessed from any device with an internet connection.
+
+🔗 [View Project](https://github.com/aashut0xhkr/HMS_PRJCT.git)
+
+💻 **Tech Stack:** Core Java, Java 8, Spring Boot, Hibernate JPA, Spring Security, JWT, MySQL, RESTful Services, Git
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Contribution Offer for Pharmacy Module | Medium | [#42](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/42) |
+| Bug: Missing contact number in PatientDTO mapping | Medium | [#41](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/41) |
+
+---
+
 ## 📌 Project: Attendance Tracker
 
 📝 **Description:** This Attendance Tracker is designed to monitor and manage student attendance across various subjects. It helps track attendance, ensures classes meet required attendance criteria, and provides a clear overview of attendance statistics. Additionally, it presents attendance data in an intuitive calendar format for easy reference.
@@ -134,6 +159,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| No.of subjects made dynamic | Medium | [#30](https://github.com/sachiikrish/AttendanceTracker/pull/30) |
 | Enhancement: I want to enhance the ui for the page of index.php | Medium | [#29](https://github.com/sachiikrish/AttendanceTracker/issues/29) |
 | To add show/hide password | Medium | [#27](https://github.com/sachiikrish/AttendanceTracker/issues/27) |
 | UI/Improve: Redesign and Enhance Overall Homepage Layout for Better First Impression | Medium | [#22](https://github.com/sachiikrish/AttendanceTracker/issues/22) |
@@ -154,10 +180,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Visualize Product Recommendation Stats | Medium | [#22](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/22) |
-| Improve Skin Concern Filtering | Medium | [#21](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/21) |
 | Export Recommendations to CSV | Medium | [#20](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/20) |
-| Explain Your Recommendation Algorithm | Medium | [#19](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/19) |
 | Frontend | Medium | [#13](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/13) |
 | Frontend using html css and js(js is commited) | Medium | [#11](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/11) |
 | Add the streamlitui and requirements.txt file | Medium | [#4](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/4) |
