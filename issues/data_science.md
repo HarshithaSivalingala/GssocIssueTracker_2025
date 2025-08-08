@@ -16,7 +16,6 @@
 |----------|----------------|---------|
 | [Text file conversion] Create PYQs text files for any of the directed colleges with links given (YMCA, NIT-kurukshetra, IGDTUW, vit-bhopal) | Easy | [#762](https://github.com/Saumy1905/PYQFort/issues/762) |
 | [Text file conversion] Create PYQs text files for any of the directed colleges with links given (YMCA, NIT-kurukshetra, IGDTUW, vit-bhopal) | Easy | [#756](https://github.com/Saumy1905/PYQFort/issues/756) |
-| Added PYQs for Computer Science MAthematics for computing Sem-1 | Medium | [#843](https://github.com/Saumy1905/PYQFort/pull/843) |
 | Academic Rules - 1.4 | Medium | [#819](https://github.com/Saumy1905/PYQFort/issues/819) |
 | Academic Rules - 1.3 | Medium | [#818](https://github.com/Saumy1905/PYQFort/issues/818) |
 | Add site icon (favicon) as part of the homepage branding | Medium | [#782](https://github.com/Saumy1905/PYQFort/issues/782) |
