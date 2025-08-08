@@ -14,11 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🧑‍💻: content in privacy section need to improve. | Medium | [#1326](https://github.com/vishanurag/Canvas-Editor/issues/1326) |
-| Forgot Password Page Created | Medium | [#1325](https://github.com/vishanurag/Canvas-Editor/pull/1325) |
-| Solved #1317 issue : fix bug in testimonials profile and added animated slide | Medium | [#1322](https://github.com/vishanurag/Canvas-Editor/pull/1322) |
-| Added Clear Canvas Button (Fixes #1297) | Medium | [#1319](https://github.com/vishanurag/Canvas-Editor/pull/1319) |
+| 🧑‍💻: Chatbot using LLM | Medium | [#1328](https://github.com/vishanurag/Canvas-Editor/issues/1328) |
+| style: in privacy section need to improve. #1326 | Medium | [#1327](https://github.com/vishanurag/Canvas-Editor/pull/1327) |
 | Feat:  Adding "remember me" to the signup and signin page connecting it to the local storage database for user authentication. | Medium | [#1190](https://github.com/vishanurag/Canvas-Editor/issues/1190) |
+| 🧑‍💻:  change  layout of the website | Medium | [#1132](https://github.com/vishanurag/Canvas-Editor/issues/1132) |
 
 ---
 
@@ -40,20 +39,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Progressive Loading & Smooth Scroll Animations | Medium | [#164](https://github.com/gyanshankar1708/GrowCraft/pull/164) |
+| ## Fixed Issue #146: Footer+Copyright+Back to Top UI Enhancement Proposal | Medium | [#173](https://github.com/gyanshankar1708/GrowCraft/pull/173) |
+| Fix #160: Consistent and properly capitalized titles in Work section | Medium | [#172](https://github.com/gyanshankar1708/GrowCraft/pull/172) |
+| Add Dynamic Copyright Year to Footer #157 | Medium | [#171](https://github.com/gyanshankar1708/GrowCraft/pull/171) |
+| Dark Mode Not Applied to Entire Page | Medium | [#170](https://github.com/gyanshankar1708/GrowCraft/issues/170) |
+| UI Improvement Needed on Blog Page | Medium | [#169](https://github.com/gyanshankar1708/GrowCraft/issues/169) |
+| Navbar is Not Consistent Across All Pages | Medium | [#168](https://github.com/gyanshankar1708/GrowCraft/issues/168) |
+| created service and work pages | Medium | [#167](https://github.com/gyanshankar1708/GrowCraft/pull/167) |
+| Enhanced footer UI and fixed dark mode text color | Medium | [#166](https://github.com/gyanshankar1708/GrowCraft/pull/166) |
 | Fixed Navbar | Medium | [#162](https://github.com/gyanshankar1708/GrowCraft/pull/162) |
 | Perfectly Working dark mode light mode toggle switch | Medium | [#158](https://github.com/gyanshankar1708/GrowCraft/pull/158) |
 | Feedback form or suggestion form | Medium | [#153](https://github.com/gyanshankar1708/GrowCraft/issues/153) |
-| fix: center align navbar and gaps accordingly | Medium | [#148](https://github.com/gyanshankar1708/GrowCraft/pull/148) |
 | solved #91 issue , Added styles in backtotop enhance training section and make contact us intractive | Medium | [#147](https://github.com/gyanshankar1708/GrowCraft/pull/147) |
 | Replaced header image with PNG Logo and removed unwanted checkbox. | Medium | [#145](https://github.com/gyanshankar1708/GrowCraft/pull/145) |
 | Add Testimonials Slider with Auto-Play and Avatars #78 | Medium | [#142](https://github.com/gyanshankar1708/GrowCraft/pull/142) |
 | Enhance "Go To Top" Button visibility and position | Medium | [#141](https://github.com/gyanshankar1708/GrowCraft/pull/141) |
 | Navbar/enhance & contact us | Medium | [#136](https://github.com/gyanshankar1708/GrowCraft/pull/136) |
-| Fixed Navbar Issue | Medium | [#129](https://github.com/gyanshankar1708/GrowCraft/pull/129) |
 | Fixed all navbar links (href attributes) | Medium | [#128](https://github.com/gyanshankar1708/GrowCraft/pull/128) |
-| Enhanced the footer  #84 | Medium | [#120](https://github.com/gyanshankar1708/GrowCraft/pull/120) |
-| Navbar contact us animation issue resolved | Medium | [#119](https://github.com/gyanshankar1708/GrowCraft/pull/119) |
 
 ---
 
@@ -92,6 +94,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix typo in heading | Medium | [#144](https://github.com/sachiva1/sachiva/issues/144) |
+| Fix Broken Image Link in README.md | Medium | [#142](https://github.com/sachiva1/sachiva/issues/142) |
+| Navbar Display is Not Proper | Medium | [#141](https://github.com/sachiva1/sachiva/issues/141) |
+| Fixed dark mode, logo, and navbar links in service.html | Medium | [#137](https://github.com/sachiva1/sachiva/pull/137) |
 | Updated Contact.html | Medium | [#116](https://github.com/sachiva1/sachiva/pull/116) |
 
 ---
