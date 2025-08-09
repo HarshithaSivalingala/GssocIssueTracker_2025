@@ -53,7 +53,6 @@
 | BUG: Google summer of code's filters are not working | Easy | [#319](https://github.com/andoriyaprashant/OpSo/issues/319) |
 | Remove Deprecated Libraries and Improve Linting Across Project | Medium | [#419](https://github.com/andoriyaprashant/OpSo/pull/419) |
 | BUG: The app is not running | Medium | [#418](https://github.com/andoriyaprashant/OpSo/issues/418) |
-| Enhance Home Page UI | Medium | [#416](https://github.com/andoriyaprashant/OpSo/pull/416) |
 | Add table of contents section to the readme file | Medium | [#385](https://github.com/andoriyaprashant/OpSo/issues/385) |
 | Use of Reusable widgets | Medium | [#379](https://github.com/andoriyaprashant/OpSo/issues/379) |
 | dark and light mode toggle | Medium | [#369](https://github.com/andoriyaprashant/OpSo/issues/369) |
@@ -74,11 +73,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bottom Nav Bar without reopening app | Medium | [#202](https://github.com/Prateek9876/NagarVikas/pull/202) |
-| Improved UI of Admin Dashboard #137 Level 2 | Medium | [#201](https://github.com/Prateek9876/NagarVikas/pull/201) |
-| Enhance empty state UI with illustration and fade-in animation (#153 & #159) | Medium | [#194](https://github.com/Prateek9876/NagarVikas/pull/194) |
-| Lib folder restructured and import issue fixed | Medium | [#187](https://github.com/Prateek9876/NagarVikas/pull/187) |
-| Show Preview of Uploaded Image before Submission. | Hard | [#191](https://github.com/Prateek9876/NagarVikas/pull/191) |
+| Modified pubspec.yaml | Medium | [#203](https://github.com/Prateek9876/NagarVikas/pull/203) |
 
 ---
 
@@ -96,16 +91,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Logo Design for Brevity (Figma Submission) | Easy | [#132](https://github.com/Yash159357/BREVITY/issues/132) |
-| Issue: Design Reactions UI for News Cards | Easy | [#130](https://github.com/Yash159357/BREVITY/issues/130) |
-| Issue: Design OAuth 2.0 Login Buttons | Easy | [#129](https://github.com/Yash159357/BREVITY/issues/129) |
-| Design UI for "You're Done for the Day" End Screen | Easy | [#127](https://github.com/Yash159357/BREVITY/issues/127) |
-| Add Optional Profile Picture Upload to Signup Page | Medium | [#135](https://github.com/Yash159357/BREVITY/issues/135) |
-| Issue: Implement Reactions Backend Logic | Medium | [#131](https://github.com/Yash159357/BREVITY/issues/131) |
-| Issue: Implement OAuth 2.0 Login Flow | Medium | [#128](https://github.com/Yash159357/BREVITY/issues/128) |
-| Trigger End Screen When News Scroll Ends | Medium | [#126](https://github.com/Yash159357/BREVITY/issues/126) |
+| UI/UX : Logo Design for Brevity | Easy | [#132](https://github.com/Yash159357/BREVITY/issues/132) |
+| UI/UX : Redesign Login & Signup Pages | Medium | [#138](https://github.com/Yash159357/BREVITY/issues/138) |
+| Flutter: Trigger End Screen when News Scroll Ends | Medium | [#126](https://github.com/Yash159357/BREVITY/issues/126) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
-| Issue: Implement One-Time Tutorial Overlay on HomeScreen | Hard | [#133](https://github.com/Yash159357/BREVITY/issues/133) |
+| Flutter: Text-to-Speech for News Articles | Medium | [#79](https://github.com/Yash159357/BREVITY/issues/79) |
+| Add In-App Notification System for News Updates and Interactions | Hard | [#63](https://github.com/Yash159357/BREVITY/issues/63) |
 
 ---
 
@@ -123,6 +114,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat: Implement horizontally scrollable canvas for text items and solved the overlapping new text problem | Medium | [#72](https://github.com/may-tas/TextEditingApp/pull/72) |
+| UX: Improve text editing workflow with single-tap | Medium | [#71](https://github.com/may-tas/TextEditingApp/pull/71) |
 | Pull Request: Add Rich Text Copy Feature with Formatting Support | Medium | [#70](https://github.com/may-tas/TextEditingApp/pull/70) |
 | Add Text Alignment Controls (Left, Center, Right) for Editable Text | Medium | [#56](https://github.com/may-tas/TextEditingApp/issues/56) |
 
@@ -142,11 +135,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+|  | Easy | [#85](https://github.com/VJLIVE/Athletix/issues/85) |
 | Add Athletix Banner | Easy | [#84](https://github.com/VJLIVE/Athletix/issues/84) |
 | Fixed profile image issue | Medium | [#83](https://github.com/VJLIVE/Athletix/pull/83) |
 | Fixed add players for organizations . | Medium | [#82](https://github.com/VJLIVE/Athletix/pull/82) |
-| Create Logs are securely stored  doctors and coaches | Medium | [#81](https://github.com/VJLIVE/Athletix/pull/81) |
-| feat: add search and date filters to performance log and injury tracker screen | Medium | [#80](https://github.com/VJLIVE/Athletix/pull/80) |
 | Add performance tracking (Solved issues) | Medium | [#76](https://github.com/VJLIVE/Athletix/pull/76) |
 | Add Empty State UI for No Performance Records | Medium | [#63](https://github.com/VJLIVE/Athletix/issues/63) |
 | Optimize Splash Screen Performance with Authentication Check in Parallel with Animation | Medium | [#60](https://github.com/VJLIVE/Athletix/issues/60) |
@@ -168,16 +160,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Logo Design for Brevity (Figma Submission) | Easy | [#132](https://github.com/Yash159357/BREVITY/issues/132) |
-| Issue: Design Reactions UI for News Cards | Easy | [#130](https://github.com/Yash159357/BREVITY/issues/130) |
-| Issue: Design OAuth 2.0 Login Buttons | Easy | [#129](https://github.com/Yash159357/BREVITY/issues/129) |
-| Design UI for "You're Done for the Day" End Screen | Easy | [#127](https://github.com/Yash159357/BREVITY/issues/127) |
-| Add Optional Profile Picture Upload to Signup Page | Medium | [#135](https://github.com/Yash159357/BREVITY/issues/135) |
-| Issue: Implement Reactions Backend Logic | Medium | [#131](https://github.com/Yash159357/BREVITY/issues/131) |
-| Issue: Implement OAuth 2.0 Login Flow | Medium | [#128](https://github.com/Yash159357/BREVITY/issues/128) |
-| Trigger End Screen When News Scroll Ends | Medium | [#126](https://github.com/Yash159357/BREVITY/issues/126) |
+| UI/UX : Logo Design for Brevity | Easy | [#132](https://github.com/Yash159357/BREVITY/issues/132) |
+| UI/UX : Redesign Login & Signup Pages | Medium | [#138](https://github.com/Yash159357/BREVITY/issues/138) |
+| Flutter: Trigger End Screen when News Scroll Ends | Medium | [#126](https://github.com/Yash159357/BREVITY/issues/126) |
 | Comprehensive UI Enhancements, Android Build Stability, & Performance Optimizations | Medium | [#103](https://github.com/Yash159357/BREVITY/pull/103) |
-| Issue: Implement One-Time Tutorial Overlay on HomeScreen | Hard | [#133](https://github.com/Yash159357/BREVITY/issues/133) |
+| Flutter: Text-to-Speech for News Articles | Medium | [#79](https://github.com/Yash159357/BREVITY/issues/79) |
+| Add In-App Notification System for News Updates and Interactions | Hard | [#63](https://github.com/Yash159357/BREVITY/issues/63) |
 
 ---
 
