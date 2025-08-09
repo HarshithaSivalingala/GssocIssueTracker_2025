@@ -14,8 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance the Chatbot to handle unmatched user queries | Medium | [#25](https://github.com/CharithaReddy18/AI-health-chatbot/issues/25) |
-| Update readme file for more smoother contribution | Medium | [#24](https://github.com/CharithaReddy18/AI-health-chatbot/issues/24) |
+| Update README with RAG fallback  mechanism details | Medium | [#28](https://github.com/CharithaReddy18/AI-health-chatbot/issues/28) |
+| docs: updated README.md | Medium | [#27](https://github.com/CharithaReddy18/AI-health-chatbot/pull/27) |
 
 ---
 
