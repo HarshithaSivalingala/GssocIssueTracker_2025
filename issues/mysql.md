@@ -89,16 +89,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add feature of editing user's details in profile section | Medium | [#40](https://github.com/Naveenkumar30838/Housify/issues/40) |
-| ui modification in register and sign in pages | Medium | [#39](https://github.com/Naveenkumar30838/Housify/issues/39) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
 | Feature Suggestion :Save to Wishlist / Bookmark Properties | Medium | [#37](https://github.com/Naveenkumar30838/Housify/issues/37) |
-| feat: Implement database connection and initialization | Medium | [#36](https://github.com/Naveenkumar30838/Housify/pull/36) |
-| Add CONTRIBUTING.md to Improve Contributor Onboarding | Medium | [#35](https://github.com/Naveenkumar30838/Housify/pull/35) |
-| Created CODE_OF_CONDUCT.md | Medium | [#34](https://github.com/Naveenkumar30838/Housify/pull/34) |
 | Enhancing by adding comma separator to amount displayed | Medium | [#33](https://github.com/Naveenkumar30838/Housify/issues/33) |
 | Add "New Listing" Button to Access /listing/new Page | Medium | [#32](https://github.com/Naveenkumar30838/Housify/issues/32) |
-| Add README.md File for Housify under GSSoC'25 🚀 | Medium | [#31](https://github.com/Naveenkumar30838/Housify/issues/31) |
 | feat: Product Catalog Integration with Search, Filters, and Shopping Cart (#11) | Medium | [#30](https://github.com/Naveenkumar30838/Housify/pull/30) |
 | Added 404 and global error handling | Medium | [#29](https://github.com/Naveenkumar30838/Housify/pull/29) |
 | Added wishlist feature | Medium | [#15](https://github.com/Naveenkumar30838/Housify/pull/15) |
@@ -123,25 +117,6 @@
 | ISSUE:-While Login And Signup Internal Server Failed Error | Medium | [#30](https://github.com/swarooppatilx/bit-by-query/issues/30) |
 | feat: Add API to track user progress on questions | Medium | [#27](https://github.com/swarooppatilx/bit-by-query/pull/27) |
 | Create server.js | Medium | [#17](https://github.com/swarooppatilx/bit-by-query/pull/17) |
-
----
-
-## 📌 Project: Hospital Management System
-
-📝 **Description:** Medimate 8.4.3 is a user-friendly healthcare application that streamlines the workflow of hospitals, clinics, and medical facilities. It efficiently manages patient information, appointments, laboratory management, and administrative tasks through its Electronic Health Record (EHR) system. The app also includes appointment scheduling, and invoicing, inventory management, and comprehensive reporting and analytics capabilities. It is web-based software, Medimate 8.4.3 can be accessed from any device with an internet connection.
-
-🔗 [View Project](https://github.com/aashut0xhkr/HMS_PRJCT.git)
-
-💻 **Tech Stack:** Core Java, Java 8, Spring Boot, Hibernate JPA, Spring Security, JWT, MySQL, RESTful Services, Git
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Contribution Offer for Pharmacy Module | Medium | [#42](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/42) |
-| Bug: Missing contact number in PatientDTO mapping | Medium | [#41](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/41) |
 
 ---
 
@@ -215,7 +190,6 @@
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
 | Highlight Active City in Navbar Dynamically | Medium | [#42](https://github.com/komalkhatod1105/One-Stop-Guide/issues/42) |
-| Ui improve and addition of cities. | Medium | [#41](https://github.com/komalkhatod1105/One-Stop-Guide/pull/41) |
 | Add Admin Panel to Manage City Content (CRUD Functionality) | Medium | [#40](https://github.com/komalkhatod1105/One-Stop-Guide/issues/40) |
 | Add a Code of Conduct to Project | Medium | [#39](https://github.com/komalkhatod1105/One-Stop-Guide/issues/39) |
 | Add more cities, enhance the UI , Add more information and photos for each city #22 | Medium | [#31](https://github.com/komalkhatod1105/One-Stop-Guide/pull/31) |
@@ -247,6 +221,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🚨 Fix SQL Injection Vulnerability by Implementing Parameterized Queries | Medium | [#9](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/9) |
 | Add Basic Error Handling for Invalid Queries in Chatbot | Medium | [#8](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/8) |
 | Add Basic Test Script for Chatbot | Medium | [#7](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/7) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#6](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/6) |
@@ -277,6 +252,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added CONTRIBUTING.md, background image, fixed GUI layout and structured project folders | Medium | [#19](https://github.com/SvJalmi/DBMS_Project/pull/19) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#17](https://github.com/SvJalmi/DBMS_Project/issues/17) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#16](https://github.com/SvJalmi/DBMS_Project/issues/16) |
 | Add mit license file to the project | Medium | [#15](https://github.com/SvJalmi/DBMS_Project/issues/15) |
