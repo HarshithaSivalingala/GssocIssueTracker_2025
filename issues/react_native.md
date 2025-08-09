@@ -32,7 +32,6 @@
 | fix: standardize timestamp fields to camelCase in API responses | Medium | [#91](https://github.com/Devasy23/splitwiser/pull/91) |
 | cleanup debug code, TODOs, and hardcoded values (Issue #59) | Medium | [#88](https://github.com/Devasy23/splitwiser/pull/88) |
 | Update package.json | Medium | [#87](https://github.com/Devasy23/splitwiser/pull/87) |
-| Update package.json | Medium | [#86](https://github.com/Devasy23/splitwiser/pull/86) |
 
 ---
 
@@ -51,7 +50,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Ensure login form is accessible via keyboard (focus, labels, error announcements) | Medium | [#20](https://github.com/SyedImtiyaz-1/Swapify/issues/20) |
-| BUG: the input text fixed | Medium | [#19](https://github.com/SyedImtiyaz-1/Swapify/pull/19) |
 | Vehicle Filter Not Displaying Car - Maruti Celerio | Medium | [#18](https://github.com/SyedImtiyaz-1/Swapify/issues/18) |
 | Typo in Demo Link on README | Medium | [#17](https://github.com/SyedImtiyaz-1/Swapify/issues/17) |
 | Amount Input Not Visible in "Add an Offer" Section | Medium | [#16](https://github.com/SyedImtiyaz-1/Swapify/issues/16) |
@@ -119,7 +117,6 @@
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
-| issue #6 - notifications and alerts | Medium | [#115](https://github.com/Loop-Hive/ScheduleX/pull/115) |
 | Move Export CSV Logic from TimeTable Page to Settings | Medium | [#114](https://github.com/Loop-Hive/ScheduleX/issues/114) |
 | Global Register Selection Setting | Medium | [#113](https://github.com/Loop-Hive/ScheduleX/issues/113) |
 | Edit Menu Button Delayed Activation | Medium | [#112](https://github.com/Loop-Hive/ScheduleX/issues/112) |
@@ -156,13 +153,13 @@
 
 ---
 
-## 📌 Project: Doctrinix
+## 📌 Project: noir
 
-📝 **Description:** Doctrix - Doctor Appointment Booking App Doctrix is a smart and user-friendly doctor appointment booking app designed to simplify healthcare access for everyone. The app allows users to sign up and sign in securely, providing personalized access to healthcare services. With features ranging from doctor selection and medicine ordering to profile management, Doctrix offers a seamless digital healthcare experience.
+📝 **Description:** a GitHub powered notes app
 
-🔗 [View Project](https://github.com/lalitsingh789/doctor-app)
+🔗 [View Project](https://github.com/07CalC/noir)
 
-💻 **Tech Stack:** React Native, MongoDB, Node.js
+💻 **Tech Stack:** TypeScript, React Native, Expo
 
 ---
 
@@ -170,7 +167,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Doctor Search Functionality with Name/Specialization Filter | Medium | [#9](https://github.com/lalitsingh789/doctor-app/issues/9) |
+| feature: Implement Onboarding Flow with GitHub or Offline Option | Hard | [#11](https://github.com/07CalC/noir/issues/11) |
 
 ---
 
