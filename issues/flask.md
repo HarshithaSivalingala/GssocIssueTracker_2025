@@ -24,7 +24,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add MIT License | Easy | [#3](https://github.com/Menthub-GSSoC/Menthub/issues/3) |
-| Update README.md | Easy | [#2](https://github.com/Menthub-GSSoC/Menthub/pull/2) |
+| ⚙️:ML Matching: Profile-Based Recommendation using Scikit-learn | Medium | [#50](https://github.com/Menthub-GSSoC/Menthub/issues/50) |
 | ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
@@ -156,6 +156,10 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Site Enhancement: Add Favicon for Better Branding and UX | Medium | [#29](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/29) |
+| Improve Generated Invoice | Medium | [#28](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/28) |
+| Improve Server Error Handling | Medium | [#27](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/27) |
+| Add: Hamburger menu for mobile navigation | Medium | [#26](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/26) |
 | Make UI Responsive for Mobile Devices | Medium | [#23](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/23) |
 | Feature Request: Add Dark Mode | Medium | [#22](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/22) |
 | Update README.md | Medium | [#19](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/19) |
@@ -197,6 +201,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Integrated Gemini API for Smart Loan Eligibility Evaluation | Medium | [#117](https://github.com/omroy07/AgriTech/pull/117) |
+| Add Interactive Crop Calendar for farmers | Medium | [#116](https://github.com/omroy07/AgriTech/issues/116) |
+| Proper File Structure needed | Medium | [#115](https://github.com/omroy07/AgriTech/issues/115) |
+| Labour form validation | Medium | [#114](https://github.com/omroy07/AgriTech/pull/114) |
+| Update styles on login.html page | Medium | [#113](https://github.com/omroy07/AgriTech/issues/113) |
+| fix: Add navigation button from Labour Scheduling & Alerts to Main Page | Medium | [#112](https://github.com/omroy07/AgriTech/pull/112) |
 | Updated Buy and Sell Form | Medium | [#109](https://github.com/omroy07/AgriTech/pull/109) |
 | Adding contact page | Medium | [#108](https://github.com/omroy07/AgriTech/issues/108) |
 | Added logout confirmation popup | Medium | [#107](https://github.com/omroy07/AgriTech/pull/107) |
@@ -210,9 +220,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#75](https://github.com/omroy07/AgriTech/issues/75) |
 | Add mit license file to the project | Medium | [#73](https://github.com/omroy07/AgriTech/issues/73) |
 | Enhance Footer with Contact Details and Useful Information | Medium | [#72](https://github.com/omroy07/AgriTech/issues/72) |
-| The back button is not working on chatbot page | Medium | [#70](https://github.com/omroy07/AgriTech/issues/70) |
-| Improve README.md with setup instructions and project details | Medium | [#68](https://github.com/omroy07/AgriTech/issues/68) |
-| Feat: Updated for adding Labour Scheduling feature | Medium | [#67](https://github.com/omroy07/AgriTech/pull/67) |
 
 ---
 
@@ -232,7 +239,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | UI Revamp: Modern, Accessible & Responsive Design for Email Checker Interface | Medium | [#24](https://github.com/EmailScript/EmailScript/issues/24) |
 | 🚀 Add Loading Spinner During Email Validation API Call | Medium | [#23](https://github.com/EmailScript/EmailScript/issues/23) |
-| Add CODE_OF_CONDUCT.m file | Medium | [#22](https://github.com/EmailScript/EmailScript/issues/22) |
 | Add live character counter for subject and message feilds | Medium | [#21](https://github.com/EmailScript/EmailScript/issues/21) |
 | Enhance README with GSSoC Banner, Structure & Contribution Guide | Medium | [#20](https://github.com/EmailScript/EmailScript/pull/20) |
 | Feature Request : Add Email Validation and Error Handling | Medium | [#19](https://github.com/EmailScript/EmailScript/issues/19) |
@@ -301,16 +307,15 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Quick Reply Chatbot Prompts for Faster User Interaction | Medium | [#90](https://github.com/aayushraj1010/med-genie/issues/90) |
 | "Fix:  footer design (#87)" | Medium | [#89](https://github.com/aayushraj1010/med-genie/pull/89) |
 | Chat Window Does Not Auto-Scroll to Latest Message | Medium | [#83](https://github.com/aayushraj1010/med-genie/issues/83) |
 | Add a Custom Favicon to the Site | Medium | [#82](https://github.com/aayushraj1010/med-genie/issues/82) |
 | Prevent empty/whitespace-only chat submissions | Medium | [#81](https://github.com/aayushraj1010/med-genie/issues/81) |
-| register added | Medium | [#79](https://github.com/aayushraj1010/med-genie/pull/79) |
 | Add Loading Indicators During Chatbot Response | Medium | [#78](https://github.com/aayushraj1010/med-genie/issues/78) |
 | Add Push Notifications for Emergency Alerts | Medium | [#77](https://github.com/aayushraj1010/med-genie/issues/77) |
 | <Feature> Add multilingual support to Med AI Web App | Medium | [#76](https://github.com/aayushraj1010/med-genie/issues/76) |
 | <Feature> Allow users to send medicine photos for AI-based medical info | Medium | [#75](https://github.com/aayushraj1010/med-genie/issues/75) |
-| Updated CODE_OF_CONDUCT.md | Medium | [#67](https://github.com/aayushraj1010/med-genie/pull/67) |
 | Enhance Med Genie UI: Custom Robot Avatar, Typing Indicator, and Branding Improvements | Medium | [#45](https://github.com/aayushraj1010/med-genie/pull/45) |
 
 ---
@@ -372,10 +377,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
-| UI Enhancement – Dynamic Background for Homepage | Medium | [#62](https://github.com/KrishChothani/CKsEdu/issues/62) |
-| Bug:- The link in the mit license is not working | Medium | [#61](https://github.com/KrishChothani/CKsEdu/issues/61) |
-| Inappropriate reponses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
+| Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
 | Icon Visibility Issue in AI Assistant Chat Interface | Medium | [#57](https://github.com/KrishChothani/CKsEdu/issues/57) |
 | Make AI Assistant Behave Like a Chatbot with Contextual Understanding and Input Classification | Medium | [#56](https://github.com/KrishChothani/CKsEdu/issues/56) |
 | fixes issues in pricing section | Medium | [#53](https://github.com/KrishChothani/CKsEdu/pull/53) |
@@ -414,7 +418,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Hover Effects & Move Inline CSS to styles.css | Medium | [#22](https://github.com/AKing-283/Rewear/pull/22) |
 | Updated navbar: added Add Item and Dashboard links, improved layout | Medium | [#15](https://github.com/AKing-283/Rewear/pull/15) |
 
 ---
