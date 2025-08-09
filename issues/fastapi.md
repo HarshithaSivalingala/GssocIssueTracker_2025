@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Footer UI for Improved Aesthetics & Usability | Medium | [#220](https://github.com/Amarjha01/InfantCareCompass/pull/220) |
 | Multimedia Q&A Feature for Patients and Doctors | Medium | [#216](https://github.com/Amarjha01/InfantCareCompass/pull/216) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Care Co-pilot UI Revamped | Medium | [#212](https://github.com/Amarjha01/InfantCareCompass/pull/212) |
@@ -21,9 +22,6 @@
 | Fixed the height of news cards | Medium | [#205](https://github.com/Amarjha01/InfantCareCompass/pull/205) |
 | added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
-| Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
-| Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
-| feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
 
 ---
 
@@ -59,7 +57,6 @@
 | fix: standardize timestamp fields to camelCase in API responses | Medium | [#91](https://github.com/Devasy23/splitwiser/pull/91) |
 | cleanup debug code, TODOs, and hardcoded values (Issue #59) | Medium | [#88](https://github.com/Devasy23/splitwiser/pull/88) |
 | Update package.json | Medium | [#87](https://github.com/Devasy23/splitwiser/pull/87) |
-| Update package.json | Medium | [#86](https://github.com/Devasy23/splitwiser/pull/86) |
 
 ---
 
@@ -77,6 +74,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Video file plus images used in knn_thoery file | Medium | [#42](https://github.com/manasvi-0/AlgoLab/pull/42) |
 | Feature Request: Add a Section to Visualize Data Preprocessing for ML Algorithms | Medium | [#41](https://github.com/manasvi-0/AlgoLab/issues/41) |
 | Adding KNN visualization files | Medium | [#39](https://github.com/manasvi-0/AlgoLab/pull/39) |
 | Supervised ml algorithms update | Medium | [#30](https://github.com/manasvi-0/AlgoLab/pull/30) |
@@ -121,6 +119,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UX Enhancement: Add "Play Again" and "Go Home" buttons on result screen to improve user engagement and navigation flow | Medium | [#83](https://github.com/whyvineet/orthoplay/issues/83) |
 |  | Medium | [#82](https://github.com/whyvineet/orthoplay/issues/82) |
 | Updated Readme | Medium | [#81](https://github.com/whyvineet/orthoplay/issues/81) |
 | Enhance UI for about page | Medium | [#78](https://github.com/whyvineet/orthoplay/issues/78) |
@@ -147,6 +146,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Code of Conduct – OptiBlogAi | GSSOC’25 Open Source Contribution | Medium | [#69](https://github.com/solve-ease/OptiBlogAi/issues/69) |
 | deps(deps): bump lucide-react from 0.525.0 to 0.536.0 in /optiblogai-site | Medium | [#67](https://github.com/solve-ease/OptiBlogAi/pull/67) |
 | deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.4.5 in /optiblogai-site | Medium | [#66](https://github.com/solve-ease/OptiBlogAi/pull/66) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.32.0 in /optiblogai-site | Medium | [#65](https://github.com/solve-ease/OptiBlogAi/pull/65) |
@@ -212,7 +212,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integrate Twilio call logs with backend | Medium | [#35](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/35) |
+| Yashan-New | Medium | [#38](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/38) |
+| Regarding the GSSoC'25 Leaderboard | Medium | [#36](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/36) |
 
 ---
 
@@ -230,6 +231,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement User Login & Registration with Clerk for Enhanced Authentication & Trust | Medium | [#9](https://github.com/kunal0297/Nexus_dawn/issues/9) |
 | Add a CONTRIBUTING.md file for better onboarding | Medium | [#8](https://github.com/kunal0297/Nexus_dawn/issues/8) |
 | Added Code of Conduct | Medium | [#4](https://github.com/kunal0297/Nexus_dawn/pull/4) |
 
@@ -265,6 +267,24 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🤖 Improve AI Response Quality and Consistency | Hard | [#4](https://github.com/skdas20/Synapse/issues/4) |
 | 📝 Add In-Browser Code Editor | Hard | [#3](https://github.com/skdas20/Synapse/issues/3) |
 | Add Input Validation and Error Handling | Hard | [#2](https://github.com/skdas20/Synapse/issues/2) |
+
+---
+
+## 📌 Project: Dora-AI-Powered-Virtual-Personal-Assistant
+
+📝 **Description:** DORA is your AI-powered productivity companion designed to simplify your daily life. From task automation to smart reminders and intelligent information search, DORA leverages Generative AI, LLMs, RAG, and Agentic AI to bring you a truly smart virtual assistant experience.
+
+🔗 [View Project](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant)
+
+💻 **Tech Stack:** React, Python, FastAPI, Pinecone DB, LangChain, LangGraph, CrewAI, Eleven Lab, Firebase, Tailwind CSS, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix broken links in README.md file | Medium | [#12](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/12) |
 
 ---
 
