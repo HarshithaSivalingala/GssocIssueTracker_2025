@@ -20,6 +20,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | add the website feedback component | Easy | [#54](https://github.com/harshendram/Advanced-Discord-Bot/issues/54) |
 | Make a yt video showcasing how to setup the bot properly [Open to anyone who can make vids] | Easy | [#50](https://github.com/harshendram/Advanced-Discord-Bot/issues/50) |
 | search and replace "ephemeral" with flags | Easy | [#45](https://github.com/harshendram/Advanced-Discord-Bot/issues/45) |
+| Interactive Web Dashboard with Real-Time Bot Control and Analytics | Medium | [#60](https://github.com/harshendram/Advanced-Discord-Bot/issues/60) |
 | Feat : Updated Folder Structure | Medium | [#59](https://github.com/harshendram/Advanced-Discord-Bot/pull/59) |
 | remove the outdated website folder from the main branch | Medium | [#55](https://github.com/harshendram/Advanced-Discord-Bot/issues/55) |
 | Improving Bot Performance and Reducing Latency | Medium | [#11](https://github.com/harshendram/Advanced-Discord-Bot/issues/11) |
@@ -71,7 +72,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integrate Twilio call logs with backend | Medium | [#35](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/35) |
+| Yashan-New | Medium | [#38](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/38) |
+| Regarding the GSSoC'25 Leaderboard | Medium | [#36](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/36) |
 
 ---
 
@@ -107,6 +109,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Intgrate routesof submitideas, terms and conditions and privacy policy | Medium | [#34](https://github.com/vinit105/ideaVault/issues/34) |
+| Convert Footer component from JSX to TSX | Medium | [#33](https://github.com/vinit105/ideaVault/pull/33) |
 | 🌐 Feature Request: Public Idea Registry with Filters and Tags | Medium | [#1](https://github.com/vinit105/ideaVault/issues/1) |
 
 ---
