@@ -14,8 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update readme | Medium | [#62](https://github.com/Dipanita45/HEALCONNECT/pull/62) |
+| Update nextjs.yml | Medium | [#59](https://github.com/Dipanita45/HEALCONNECT/pull/59) |
 | Fix gh pages build | Medium | [#58](https://github.com/Dipanita45/HEALCONNECT/pull/58) |
-| Feature/my change | Medium | [#57](https://github.com/Dipanita45/HEALCONNECT/pull/57) |
 | Dark Mode feature added | Medium | [#55](https://github.com/Dipanita45/HEALCONNECT/pull/55) |
 | Improve Contact page with healthcare theme and contribution info | Medium | [#53](https://github.com/Dipanita45/HEALCONNECT/pull/53) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
@@ -61,11 +62,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug:- The link in the mit license is not working | Medium | [#32](https://github.com/SharonIV0x86/CinderPeak/issues/32) |
-| feat(exceptions): Revamp exception handling in CinderPeak | Medium | [#31](https://github.com/SharonIV0x86/CinderPeak/pull/31) |
-| Add examples for CSR-COO storage format | Medium | [#30](https://github.com/SharonIV0x86/CinderPeak/pull/30) |
-| docs: Add hybrid_storage.md for Hybrid CSR-COO documentation | Medium | [#28](https://github.com/SharonIV0x86/CinderPeak/pull/28) |
-| Added Contributor Covenant Code of Conduct for community standards | Medium | [#14](https://github.com/SharonIV0x86/CinderPeak/pull/14) |
+| feat: Add CI pipeline and pre-commit hooks | Medium | [#35](https://github.com/SharonIV0x86/CinderPeak/pull/35) |
+| Points Not Counted in GSSoC'25 learderboard | Medium | [#34](https://github.com/SharonIV0x86/CinderPeak/issues/34) |
 
 ---
 
@@ -83,13 +81,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Sign-In button not functional on homepage | Easy | [#62](https://github.com/Aqsa4066/netflixclone/issues/62) |
+| Improve mobile responsiveness for small screen devices | Easy | [#66](https://github.com/Aqsa4066/netflixclone/issues/66) |
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
 | Improve FAQ Section with Expandable Answers | Easy | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
+| Add Language Translator Which Translates the whole site into all Languages | Medium | [#68](https://github.com/Aqsa4066/netflixclone/pull/68) |
 | Footer UI needs to be changed | Medium | [#67](https://github.com/Aqsa4066/netflixclone/issues/67) |
-| Improve mobile responsiveness for small screen devices | Medium | [#66](https://github.com/Aqsa4066/netflixclone/issues/66) |
-| Sign-In button not functional on homepage | Medium | [#65](https://github.com/Aqsa4066/netflixclone/pull/65) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
 | Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
 | Enhance Netflix Clone Footer Design and Functionality | Medium | [#60](https://github.com/Aqsa4066/netflixclone/issues/60) |
