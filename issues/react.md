@@ -100,7 +100,6 @@
 | Fix Critical Authentication Inconsistencies and Security Vulnerabilities | Medium | [#680](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/680) |
 | Replace the blank box with an aesthetic logo. | Medium | [#679](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/679) |
 | UI Misalignment in Featured Travel Packages, Poor Contrast in Guides Section, and Missing Site Logo | Medium | [#678](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/678) |
-| improved input UI on Travel Recommendation page | Medium | [#676](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/676) |
 | Enhance Forum Frontend to Sync with Backend API Routes | Medium | [#675](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/675) |
 | Add a Higher-Order Utility Function for Centralized Async Error Handling | Medium | [#674](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/674) |
 | Add Email Verification OTP feature | Medium | [#673](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/673) |
