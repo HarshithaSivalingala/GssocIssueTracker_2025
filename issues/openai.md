@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Footer UI for Improved Aesthetics & Usability | Medium | [#220](https://github.com/Amarjha01/InfantCareCompass/pull/220) |
 | Multimedia Q&A Feature for Patients and Doctors | Medium | [#216](https://github.com/Amarjha01/InfantCareCompass/pull/216) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Care Co-pilot UI Revamped | Medium | [#212](https://github.com/Amarjha01/InfantCareCompass/pull/212) |
@@ -21,9 +22,6 @@
 | Fixed the height of news cards | Medium | [#205](https://github.com/Amarjha01/InfantCareCompass/pull/205) |
 | added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
-| Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
-| Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
-| feat: improve layout of featured articles section for large screens | Medium | [#166](https://github.com/Amarjha01/InfantCareCompass/pull/166) |
 
 ---
 
@@ -41,11 +39,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature title: Add Text-to-Voice for Ingredients Section | Easy | [#153](https://github.com/Ayushjhawar8/Flavor-ai/issues/153) |
-| Added back-to-top button | Medium | [#155](https://github.com/Ayushjhawar8/Flavor-ai/pull/155) |
-| Added dietary filter (Veg, Non-Veg, All) | Medium | [#154](https://github.com/Ayushjhawar8/Flavor-ai/pull/154) |
+| Advanced Recipe Search and Filter System | Medium | [#169](https://github.com/Ayushjhawar8/Flavor-ai/issues/169) |
+| Comprehensive Recipe Rating and Review System | Medium | [#168](https://github.com/Ayushjhawar8/Flavor-ai/issues/168) |
+| AI-Powered Recipe Recommendation Engine | Medium | [#167](https://github.com/Ayushjhawar8/Flavor-ai/issues/167) |
+| Advanced Meal Planning System | Medium | [#166](https://github.com/Ayushjhawar8/Flavor-ai/issues/166) |
+| 🛒 Recipe Cost Calculator | Medium | [#165](https://github.com/Ayushjhawar8/Flavor-ai/issues/165) |
+| Fix:- WRONG PULL REQUEST MERGED | Medium | [#164](https://github.com/Ayushjhawar8/Flavor-ai/pull/164) |
+| Enhanced the Skeleton UI of random recepie page | Medium | [#156](https://github.com/Ayushjhawar8/Flavor-ai/pull/156) |
 | Fix: Footer stays at bottom of page (#46) | Medium | [#150](https://github.com/Ayushjhawar8/Flavor-ai/pull/150) |
-| Added Feedback Page Feature | Medium | [#148](https://github.com/Ayushjhawar8/Flavor-ai/pull/148) |
+| Grocery integration | Hard | [#163](https://github.com/Ayushjhawar8/Flavor-ai/pull/163) |
+| Multilingual Support | Hard | [#162](https://github.com/Ayushjhawar8/Flavor-ai/pull/162) |
+| Fixed Font colors not visible on dark theme | Hard | [#161](https://github.com/Ayushjhawar8/Flavor-ai/pull/161) |
+| Added dietary filter (Veg, Non-Veg, All) | Hard | [#154](https://github.com/Ayushjhawar8/Flavor-ai/pull/154) |
 
 ---
 
@@ -98,6 +103,47 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 ---
 
+## 📌 Project: Jeanne AI chatbot Project
+
+📝 **Description:** Jeanne AI A Full-Stack Conversational Chatbot
+ 
+ Jeanne AI is an intelligent, interactive chatbot built with the power of OpenAI's GPT model, designed to mimic human-like conversation. It supports natural language understanding, typing animation, chat history, and optional voice input/output features making it feel alive, helpful, and personal.
+ 
+ This project uses a Node.js + Express backend and a React (Vite) frontend, structured in a scalable client/ and server/ folder architecture. The backend handles secure API calls to OpenAI, while the frontend provides a smooth and responsive chat interface. It's deployed using Render (backend) and Vercel (frontend) for production.
+ 
+Features
+ 
+ Chat interface powered by GPT (via OpenAI API)
+ 
+ Typing animation for realistic feel
+ 
+ Chat history retention
+ 
+ Switchable roles/personalities (friendly, formal, etc.)
+ 
+ Optional speech-to-text and text-to-speech
+ 
+ Responsive, mobile-friendly UI
+ 
+ 
+Why Jeanne?
+ 
+ Jeanne is imagined as a gentle, thoughtful AI companion someone who listens, helps, and responds with care. The name gives the bot a human-like identity, making the experience more cozy and personal.
+
+🔗 [View Project](https://github.com/revxi/Jeanne-AI-Chatbot-Project)
+
+💻 **Tech Stack:** React.js, Vite, Tailwind CSS, Framer Motion, React Speech Recognition, Text-to-Speech API, Axios, Fetch API, Node.js, Express.js, OpenAI API, dotenv, CORS, body-parser, Vercel, Render
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Enhanced Error Handling & Stability Improvements | Medium | [#19](https://github.com/revxi/Jeanne-AI-Chatbot-Project/pull/19) |
+
+---
+
 ## 📌 Project: SQL ChatBot: Query Any Database Using Natural Language
 
 📝 **Description:** The SQL ChatBot is an intelligent assistant that allows users to interact with structured databases using natural language. Users can upload a CSV file or connect to an SQL/MongoDB database and ask questions like Show total sales in January, and the bot generates the SQL/Mongo query, executes it, and returns results with an explanation.
@@ -114,6 +160,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🚨 Fix SQL Injection Vulnerability by Implementing Parameterized Queries | Medium | [#9](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/9) |
 | Add Basic Error Handling for Invalid Queries in Chatbot | Medium | [#8](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/8) |
 | Add Basic Test Script for Chatbot | Medium | [#7](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/7) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#6](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/6) |
@@ -138,6 +185,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement User Login & Registration with Clerk for Enhanced Authentication & Trust | Medium | [#9](https://github.com/kunal0297/Nexus_dawn/issues/9) |
 | Add a CONTRIBUTING.md file for better onboarding | Medium | [#8](https://github.com/kunal0297/Nexus_dawn/issues/8) |
 | Added Code of Conduct | Medium | [#4](https://github.com/kunal0297/Nexus_dawn/pull/4) |
 
