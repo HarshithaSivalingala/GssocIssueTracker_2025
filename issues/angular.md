@@ -16,13 +16,9 @@
 |----------|----------------|---------|
 | avatar show | Easy | [#75](https://github.com/abhisek247767/PeopleHub-Frontend/issues/75) |
 | Update README.md file | Easy | [#42](https://github.com/abhisek247767/PeopleHub-Frontend/issues/42) |
-| Add Employee Recognition Badges on Profiles. | Medium | [#79](https://github.com/abhisek247767/PeopleHub-Frontend/issues/79) |
-| Delete api integration | Medium | [#76](https://github.com/abhisek247767/PeopleHub-Frontend/issues/76) |
+| Delete Modal reuse when Click on Delete Project | Medium | [#86](https://github.com/abhisek247767/PeopleHub-Frontend/issues/86) |
 | Update README.md file | Medium | [#70](https://github.com/abhisek247767/PeopleHub-Frontend/pull/70) |
-| Dashboard Navbar Appears Too Minimal – Suggest UI Enhancements" | Medium | [#58](https://github.com/abhisek247767/PeopleHub-Frontend/issues/58) |
 | Updated README.md | Medium | [#49](https://github.com/abhisek247767/PeopleHub-Frontend/pull/49) |
-| Integrate Delete and update api | Hard | [#78](https://github.com/abhisek247767/PeopleHub-Frontend/issues/78) |
-| update api integration | Hard | [#77](https://github.com/abhisek247767/PeopleHub-Frontend/issues/77) |
 
 ---
 
