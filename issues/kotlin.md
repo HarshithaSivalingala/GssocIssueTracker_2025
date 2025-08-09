@@ -103,6 +103,24 @@ User Profile: BMI calculator and fitness analytics.
 
 ---
 
+## 📌 Project: WallGodds App
+
+📝 **Description:** WallGodds is reimagined for mobile — fast, clean, and loaded with stunning high-res wallpapers for every screen. It’s more than an app — it’s your personal visual canvas, made for those who style their screen with every swipe.
+
+🔗 [View Project](https://github.com/sayan0328/WallGodds-App)
+
+💻 **Tech Stack:** Kotlin, Compose, Firebase, Firebase RealTime DB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Expanded wallpaper page | Medium | [#31](https://github.com/sayan0328/WallGodds-App/pull/31) |
+
+---
+
 ## 📌 Project: ResqFood
 
 📝 **Description:** ResQFood is a platform dedicated to the noble cause of reducing food wastage by facilitating the redistribution of surplus food during late-night hours before restaurant closures.
@@ -117,6 +135,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: implement restaurant dashboard ui | Medium | [#170](https://github.com/sourabhkumar47/ResQFood/pull/170) |
 | 📝[Docs]: Missing Project Structure in README | Medium | [#169](https://github.com/sourabhkumar47/ResQFood/issues/169) |
 | Feature/android 15 support | Medium | [#160](https://github.com/sourabhkumar47/ResQFood/pull/160) |
 
@@ -159,6 +178,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Private Repositories | Medium | [#19](https://github.com/Ajay-patidar0/GitSearch/issues/19) |
+| Fix: Open repository in browser (Issue #17) | Medium | [#18](https://github.com/Ajay-patidar0/GitSearch/pull/18) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
 | SplashScreen Improvements | Medium | [#14](https://github.com/Ajay-patidar0/GitSearch/issues/14) |
 | Enhance UI/UX. | Medium | [#13](https://github.com/Ajay-patidar0/GitSearch/pull/13) |
@@ -180,6 +201,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add LICENSE | Medium | [#14](https://github.com/AnshulPanwarr/g1new/issues/14) |
 | Navigation Crash: Destination "join_team" Not Found | Medium | [#13](https://github.com/AnshulPanwarr/g1new/issues/13) |
 | : Improve README with Firebase Setup | Medium | [#12](https://github.com/AnshulPanwarr/g1new/issues/12) |
 | ViewModel for ChatRoom | Medium | [#11](https://github.com/AnshulPanwarr/g1new/issues/11) |
