@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| The table of content is missing and also the language which are used is not written in the readme | Medium | [#1330](https://github.com/vishanurag/Canvas-Editor/issues/1330) |
+| Nabar right side content not visible becuase of sideBar(tools , settings) | Medium | [#1329](https://github.com/vishanurag/Canvas-Editor/issues/1329) |
 | Feat:  Adding "remember me" to the signup and signin page connecting it to the local storage database for user authentication. | Medium | [#1190](https://github.com/vishanurag/Canvas-Editor/issues/1190) |
 | 🧑‍💻:  change  layout of the website | Medium | [#1132](https://github.com/vishanurag/Canvas-Editor/issues/1132) |
 
@@ -37,18 +39,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed Scroll-to-Top Button & Enhanced Footer | Medium | [#191](https://github.com/gyanshankar1708/GrowCraft/pull/191) |
-| Navbar collapsing issue | Medium | [#190](https://github.com/gyanshankar1708/GrowCraft/issues/190) |
-| fix: #152 – Enhance 'What We Made' and 'What We Offer' sections with modern card design, alignment improvements, and carousel upgrade | Medium | [#189](https://github.com/gyanshankar1708/GrowCraft/pull/189) |
-| Fix #180: Updated footer theme in workList.html | Medium | [#186](https://github.com/gyanshankar1708/GrowCraft/pull/186) |
+| We've added a Cyber Analyst section to our training program, addressing cybersecurity's popularity among newcomers seeking professional development opportunities. | Medium | [#204](https://github.com/gyanshankar1708/GrowCraft/pull/204) |
+| Bugfix: Proper redirect of Contact Us page favicon | Medium | [#203](https://github.com/gyanshankar1708/GrowCraft/pull/203) |
+| Footer links in Contact Us page redirect incorrectly | Medium | [#202](https://github.com/gyanshankar1708/GrowCraft/issues/202) |
+| Added Dynamic Copyright Year to Footer #157 | Medium | [#199](https://github.com/gyanshankar1708/GrowCraft/pull/199) |
+| added liner content in each page with styling | Medium | [#194](https://github.com/gyanshankar1708/GrowCraft/pull/194) |
+| Add Fade-In Scroll Animation for Page Elements | Medium | [#192](https://github.com/gyanshankar1708/GrowCraft/issues/192) |
 | Added Services and  work pages | Medium | [#181](https://github.com/gyanshankar1708/GrowCraft/pull/181) |
 | Styling fixes | Medium | [#175](https://github.com/gyanshankar1708/GrowCraft/pull/175) |
 | ## Fixed Issue #146: Footer+Copyright+Back to Top UI Enhancement Proposal | Medium | [#173](https://github.com/gyanshankar1708/GrowCraft/pull/173) |
 | Fix #160: Consistent and properly capitalized titles in Work section | Medium | [#172](https://github.com/gyanshankar1708/GrowCraft/pull/172) |
-| Add Dynamic Copyright Year to Footer #157 | Medium | [#171](https://github.com/gyanshankar1708/GrowCraft/pull/171) |
-| Enhanced footer UI and fixed dark mode text color | Medium | [#166](https://github.com/gyanshankar1708/GrowCraft/pull/166) |
 | Fixed Navbar | Medium | [#162](https://github.com/gyanshankar1708/GrowCraft/pull/162) |
-| Feedback form or suggestion form | Medium | [#153](https://github.com/gyanshankar1708/GrowCraft/issues/153) |
 
 ---
 
@@ -67,6 +68,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add a Hamburger Icon for a responsive navbar | Medium | [#51](https://github.com/Pujan-sarkar/FARMLOC/issues/51) |
 | "Explore More" button on homepage is not functional or interactive | Medium | [#45](https://github.com/Pujan-sarkar/FARMLOC/issues/45) |
 
 ---
@@ -85,6 +87,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance about us page add and fix overflow address in footer section | Medium | [#161](https://github.com/sachiva1/sachiva/issues/161) |
+| Fix Dark Mode Text Visibility in Services Section | Medium | [#160](https://github.com/sachiva1/sachiva/issues/160) |
+| Adjusted Navbar Display which wasn't proper | Medium | [#159](https://github.com/sachiva1/sachiva/pull/159) |
+| Fix Broken Image Link in README.md | Medium | [#158](https://github.com/sachiva1/sachiva/pull/158) |
+| Navbar Button Styling & Hover Effect | Medium | [#157](https://github.com/sachiva1/sachiva/issues/157) |
+| Booking Confirmation Page with Summary | Medium | [#156](https://github.com/sachiva1/sachiva/issues/156) |
+| Show Total Cost Preview in Booking Form | Medium | [#155](https://github.com/sachiva1/sachiva/issues/155) |
+| Flip Service Card on Hover to Show Short Rate | Medium | [#154](https://github.com/sachiva1/sachiva/issues/154) |
+| Make Service Cards Clickable to Open Booking Form | Medium | [#153](https://github.com/sachiva1/sachiva/issues/153) |
+| Add Feedback feature | Medium | [#152](https://github.com/sachiva1/sachiva/issues/152) |
 | Fixed navbar problem + enhanced it! | Medium | [#151](https://github.com/sachiva1/sachiva/pull/151) |
 | UI fixed needed in certain places | Medium | [#150](https://github.com/sachiva1/sachiva/issues/150) |
 | Fix: Added space in 'OUR LATESTBLOG' heading to 'OUR LATEST BLOG' | Medium | [#149](https://github.com/sachiva1/sachiva/pull/149) |
