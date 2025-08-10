@@ -42,6 +42,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| update readme file by adding project structure(#34) | Medium | [#39](https://github.com/Sahilll94/Travel-Book/pull/39) |
 | Draft Saving & Auto-Save for Travel Stories | Medium | [#38](https://github.com/Sahilll94/Travel-Book/issues/38) |
 |  | Medium | [#36](https://github.com/Sahilll94/Travel-Book/issues/36) |
 | Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
@@ -112,6 +113,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| animation-background | Medium | [#68](https://github.com/KrishChothani/CKsEdu/pull/68) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
@@ -137,8 +139,10 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Delete License.md | Easy | [#24](https://github.com/x0lg0n/Boutique-To-Box/pull/24) |
 | To Create Contact Page | Easy | [#21](https://github.com/x0lg0n/Boutique-To-Box/issues/21) |
-| Delete License.md | Medium | [#24](https://github.com/x0lg0n/Boutique-To-Box/pull/24) |
+| Update issue templates | Medium | [#26](https://github.com/x0lg0n/Boutique-To-Box/pull/26) |
+| Google authentication in sign-up and sign in page and customer profile dashboard | Medium | [#25](https://github.com/x0lg0n/Boutique-To-Box/issues/25) |
 
 ---
 
