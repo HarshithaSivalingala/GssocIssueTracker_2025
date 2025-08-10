@@ -15,24 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
-
----
-
-## 📌 Project: Dream Pixel : AI IMAGE GENERATOR
-
-📝 **Description:** A full-stack AI image generator web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and powered by Hugging Face's Stable Diffusion API to convert text prompts into images. Users can generate images, view them in a community feed, and share their creations.
-
-🔗 [View Project](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN)
-
-💻 **Tech Stack:** MERN, Docker, Kubernetes, Jenkins
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| 🌙 Advanced Dark Mode + Theme Customization | Medium | [#5](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/issues/5) |
+| enhanced HomeContent | Medium | [#62](https://github.com/Promptzy/Nexara/pull/62) |
 
 ---
 
