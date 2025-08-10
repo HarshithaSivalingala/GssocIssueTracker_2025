@@ -96,28 +96,11 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| update readme file by adding project structure (#21) | Medium | [#22](https://github.com/Rajkumarbhakta/Canvas/pull/22) |
 | Updated DrawingCanvas and ShapeSelector with shapes support | Medium | [#20](https://github.com/Rajkumarbhakta/Canvas/pull/20) |
 | feat: Replace preferences with SQLite database for drawing storage ( closes #3) | Medium | [#17](https://github.com/Rajkumarbhakta/Canvas/pull/17) |
 | Make Drawing Screen Mobile friendly | Medium | [#10](https://github.com/Rajkumarbhakta/Canvas/issues/10) |
 | UPDATE ON: feat: Implement Search Functionality and Improve Home Screen UI #1 | Medium | [#5](https://github.com/Rajkumarbhakta/Canvas/pull/5) |
-
----
-
-## 📌 Project: WallGodds App
-
-📝 **Description:** WallGodds is reimagined for mobile — fast, clean, and loaded with stunning high-res wallpapers for every screen. It’s more than an app — it’s your personal visual canvas, made for those who style their screen with every swipe.
-
-🔗 [View Project](https://github.com/sayan0328/WallGodds-App)
-
-💻 **Tech Stack:** Kotlin, Compose, Firebase, Firebase RealTime DB
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Expanded wallpaper page | Medium | [#31](https://github.com/sayan0328/WallGodds-App/pull/31) |
 
 ---
 
@@ -135,9 +118,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement restaurant dashboard ui | Medium | [#170](https://github.com/sourabhkumar47/ResQFood/pull/170) |
-| 📝[Docs]: Missing Project Structure in README | Medium | [#169](https://github.com/sourabhkumar47/ResQFood/issues/169) |
-| Feature/android 15 support | Medium | [#160](https://github.com/sourabhkumar47/ResQFood/pull/160) |
+| Final update for buildgradle | Medium | [#174](https://github.com/sourabhkumar47/ResQFood/pull/174) |
 
 ---
 
@@ -156,9 +137,8 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 |  | Easy | [#337](https://github.com/yuvrajsinghgmx/ShopSmart/issues/337) |
+| User Login logic and the integration with the screen both commited. | Medium | [#347](https://github.com/yuvrajsinghgmx/ShopSmart/pull/347) |
 | Add Dark Mode Toggle in Settings Screen | Medium | [#346](https://github.com/yuvrajsinghgmx/ShopSmart/issues/346) |
-| LogOut API Route | Medium | [#336](https://github.com/yuvrajsinghgmx/ShopSmart/issues/336) |
-| "Add Shop" API route | Medium | [#334](https://github.com/yuvrajsinghgmx/ShopSmart/issues/334) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
@@ -178,6 +158,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| BookMark Repositories | Medium | [#21](https://github.com/Ajay-patidar0/GitSearch/issues/21) |
+| AutoComplete | Medium | [#20](https://github.com/Ajay-patidar0/GitSearch/issues/20) |
 | Private Repositories | Medium | [#19](https://github.com/Ajay-patidar0/GitSearch/issues/19) |
 | Fix: Open repository in browser (Issue #17) | Medium | [#18](https://github.com/Ajay-patidar0/GitSearch/pull/18) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
@@ -201,7 +183,6 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add LICENSE | Medium | [#14](https://github.com/AnshulPanwarr/g1new/issues/14) |
 | Navigation Crash: Destination "join_team" Not Found | Medium | [#13](https://github.com/AnshulPanwarr/g1new/issues/13) |
 | : Improve README with Firebase Setup | Medium | [#12](https://github.com/AnshulPanwarr/g1new/issues/12) |
 | ViewModel for ChatRoom | Medium | [#11](https://github.com/AnshulPanwarr/g1new/issues/11) |
