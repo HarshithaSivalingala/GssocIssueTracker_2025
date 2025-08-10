@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement: Implement CRUD Operations,pricing , description , etc | Medium | [#54](https://github.com/indra7777/frostiq/pull/54) |
 | Initialize the Project with a Clear Folder Structure and Base Files | Medium | [#53](https://github.com/indra7777/frostiq/issues/53) |
 | Setup .gitignore to Clean Up the Project Structure | Medium | [#52](https://github.com/indra7777/frostiq/issues/52) |
 | Add a clear README.md to the project | Medium | [#51](https://github.com/indra7777/frostiq/issues/51) |
@@ -89,6 +90,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Light/Dark Mode Toggle & Persistent Session Management | Medium | [#42](https://github.com/Naveenkumar30838/Housify/issues/42) |
+| Implement Fast Search Functionality & Multi-Language Support | Medium | [#41](https://github.com/Naveenkumar30838/Housify/issues/41) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
 | Feature Suggestion :Save to Wishlist / Bookmark Properties | Medium | [#37](https://github.com/Naveenkumar30838/Housify/issues/37) |
 | Enhancing by adding comma separator to amount displayed | Medium | [#33](https://github.com/Naveenkumar30838/Housify/issues/33) |
@@ -115,8 +118,6 @@
 |----------|----------------|---------|
 | Add a LEARN.md file to provide learning resources for new contributors | Medium | [#33](https://github.com/swarooppatilx/bit-by-query/issues/33) |
 | ISSUE:-While Login And Signup Internal Server Failed Error | Medium | [#30](https://github.com/swarooppatilx/bit-by-query/issues/30) |
-| feat: Add API to track user progress on questions | Medium | [#27](https://github.com/swarooppatilx/bit-by-query/pull/27) |
-| Create server.js | Medium | [#17](https://github.com/swarooppatilx/bit-by-query/pull/17) |
 
 ---
 
@@ -134,6 +135,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| The project structure is missing the important data and there is no link in the license | Medium | [#31](https://github.com/sachiikrish/AttendanceTracker/issues/31) |
 | No.of subjects made dynamic | Medium | [#30](https://github.com/sachiikrish/AttendanceTracker/pull/30) |
 | Enhancement: I want to enhance the ui for the page of index.php | Medium | [#29](https://github.com/sachiikrish/AttendanceTracker/issues/29) |
 | To add show/hide password | Medium | [#27](https://github.com/sachiikrish/AttendanceTracker/issues/27) |
@@ -155,6 +157,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add CSV Download Option for Recommended Products | Medium | [#26](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/26) |
+| Add Dropdown for Top-N Recommended Products Selection | Medium | [#25](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/25) |
 | Export Recommendations to CSV | Medium | [#20](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/20) |
 | Frontend | Medium | [#13](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/13) |
 | Frontend using html css and js(js is commited) | Medium | [#11](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/11) |
