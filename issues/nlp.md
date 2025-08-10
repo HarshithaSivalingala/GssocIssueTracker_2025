@@ -14,8 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update README with RAG fallback  mechanism details | Medium | [#28](https://github.com/CharithaReddy18/AI-health-chatbot/issues/28) |
-| docs: updated README.md | Medium | [#27](https://github.com/CharithaReddy18/AI-health-chatbot/pull/27) |
+| AI-powered Doctor’s Prescription Analysis & Drug Interaction Detection for Medibot | Medium | [#31](https://github.com/CharithaReddy18/AI-health-chatbot/issues/31) |
+| <new feature> adding dark mode toggle | Medium | [#30](https://github.com/CharithaReddy18/AI-health-chatbot/issues/30) |
+| Update README | Medium | [#29](https://github.com/CharithaReddy18/AI-health-chatbot/pull/29) |
 
 ---
 
