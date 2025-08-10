@@ -14,11 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update readme | Medium | [#62](https://github.com/Dipanita45/HEALCONNECT/pull/62) |
-| Update nextjs.yml | Medium | [#59](https://github.com/Dipanita45/HEALCONNECT/pull/59) |
-| Fix gh pages build | Medium | [#58](https://github.com/Dipanita45/HEALCONNECT/pull/58) |
+| Adding related photo and video of the website in the readme file | Medium | [#69](https://github.com/Dipanita45/HEALCONNECT/issues/69) |
 | Dark Mode feature added | Medium | [#55](https://github.com/Dipanita45/HEALCONNECT/pull/55) |
-| Improve Contact page with healthcare theme and contribution info | Medium | [#53](https://github.com/Dipanita45/HEALCONNECT/pull/53) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
 | fixed typos and added location feature | Medium | [#42](https://github.com/Dipanita45/HEALCONNECT/pull/42) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
@@ -62,8 +59,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add CI pipeline and pre-commit hooks | Medium | [#35](https://github.com/SharonIV0x86/CinderPeak/pull/35) |
-| Points Not Counted in GSSoC'25 learderboard | Medium | [#34](https://github.com/SharonIV0x86/CinderPeak/issues/34) |
+| feat(docs): Create architecture documentation for CinderPeak | Easy | [#36](https://github.com/SharonIV0x86/CinderPeak/issues/36) |
 
 ---
 
@@ -84,7 +80,6 @@
 | Improve mobile responsiveness for small screen devices | Easy | [#66](https://github.com/Aqsa4066/netflixclone/issues/66) |
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
-| Improve FAQ Section with Expandable Answers | Easy | [#43](https://github.com/Aqsa4066/netflixclone/issues/43) |
 | Add Language Translator Which Translates the whole site into all Languages | Medium | [#68](https://github.com/Aqsa4066/netflixclone/pull/68) |
 | Footer UI needs to be changed | Medium | [#67](https://github.com/Aqsa4066/netflixclone/issues/67) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
@@ -103,6 +98,7 @@
 | Changed the styling | Medium | [#18](https://github.com/Aqsa4066/netflixclone/pull/18) |
 | 🐛 Bug Report: Button Hover State Missing | Medium | [#16](https://github.com/Aqsa4066/netflixclone/issues/16) |
 | Feature Request Add legal Pages Like Privacy, Terms Of use | Medium | [#14](https://github.com/Aqsa4066/netflixclone/issues/14) |
+| Readme update part2 | Medium | [#11](https://github.com/Aqsa4066/netflixclone/pull/11) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
