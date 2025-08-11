@@ -14,14 +14,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Mutiple enhancements in Contact page | Medium | [#226](https://github.com/Amarjha01/InfantCareCompass/pull/226) |
+| Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
 | Enhance Footer UI for Improved Aesthetics & Usability | Medium | [#220](https://github.com/Amarjha01/InfantCareCompass/pull/220) |
 | Multimedia Q&A Feature for Patients and Doctors | Medium | [#216](https://github.com/Amarjha01/InfantCareCompass/pull/216) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Featured Article UI Fixed | Medium | [#211](https://github.com/Amarjha01/InfantCareCompass/pull/211) |
 | added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
-| Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
-| Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 
 ---
 
@@ -78,6 +78,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ⚠️ Improve Error Handling for Invalid Queries — (GSSoC 2025) | Medium | [#11](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/11) |
+| Add New Sample CSV File (GSSoC 2025) | Medium | [#10](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/10) |
 | 🚨 Fix SQL Injection Vulnerability by Implementing Parameterized Queries | Medium | [#9](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/9) |
 | Add Basic Error Handling for Invalid Queries in Chatbot | Medium | [#8](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/8) |
 | Add Basic Test Script for Chatbot | Medium | [#7](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/7) |
@@ -125,24 +127,6 @@
 | LICENSE not visible | Easy | [#5](https://github.com/rajibsalui/Trojan-AI/issues/5) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Easy | [#4](https://github.com/rajibsalui/Trojan-AI/issues/4) |
 | Documentation : Add Code Of Conduct File to project | Easy | [#3](https://github.com/rajibsalui/Trojan-AI/issues/3) |
-
----
-
-## 📌 Project: Dora-AI-Powered-Virtual-Personal-Assistant
-
-📝 **Description:** DORA is your AI-powered productivity companion designed to simplify your daily life. From task automation to smart reminders and intelligent information search, DORA leverages Generative AI, LLMs, RAG, and Agentic AI to bring you a truly smart virtual assistant experience.
-
-🔗 [View Project](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant)
-
-💻 **Tech Stack:** React, Python, FastAPI, Pinecone DB, LangChain, LangGraph, CrewAI, Eleven Lab, Firebase, Tailwind CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Backend Development - AI Agent Integration | Medium | [#13](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/13) |
 
 ---
 
