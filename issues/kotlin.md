@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| secrets.properties | Medium | [#63](https://github.com/A-Akhil/Astra-Ai/pull/63) |
 | Add Comprehensive KDoc Comments and Dokka Documentation Setup | Medium | [#62](https://github.com/A-Akhil/Astra-Ai/pull/62) |
 | Astra ai some important issues | Medium | [#61](https://github.com/A-Akhil/Astra-Ai/issues/61) |
 | Feature: Add Weekly Adherence Summary Email to Users | Medium | [#60](https://github.com/A-Akhil/Astra-Ai/issues/60) |
@@ -96,10 +97,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| update readme file by adding project structure (#21) | Medium | [#22](https://github.com/Rajkumarbhakta/Canvas/pull/22) |
 | Updated DrawingCanvas and ShapeSelector with shapes support | Medium | [#20](https://github.com/Rajkumarbhakta/Canvas/pull/20) |
 | feat: Replace preferences with SQLite database for drawing storage ( closes #3) | Medium | [#17](https://github.com/Rajkumarbhakta/Canvas/pull/17) |
-| Make Drawing Screen Mobile friendly | Medium | [#10](https://github.com/Rajkumarbhakta/Canvas/issues/10) |
 | UPDATE ON: feat: Implement Search Functionality and Improve Home Screen UI #1 | Medium | [#5](https://github.com/Rajkumarbhakta/Canvas/pull/5) |
 
 ---
@@ -136,9 +135,6 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-|  | Easy | [#337](https://github.com/yuvrajsinghgmx/ShopSmart/issues/337) |
-| User Login logic and the integration with the screen both commited. | Medium | [#347](https://github.com/yuvrajsinghgmx/ShopSmart/pull/347) |
-| Add Dark Mode Toggle in Settings Screen | Medium | [#346](https://github.com/yuvrajsinghgmx/ShopSmart/issues/346) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
@@ -161,7 +157,6 @@ User Profile: BMI calculator and fitness analytics.
 | BookMark Repositories | Medium | [#21](https://github.com/Ajay-patidar0/GitSearch/issues/21) |
 | AutoComplete | Medium | [#20](https://github.com/Ajay-patidar0/GitSearch/issues/20) |
 | Private Repositories | Medium | [#19](https://github.com/Ajay-patidar0/GitSearch/issues/19) |
-| Fix: Open repository in browser (Issue #17) | Medium | [#18](https://github.com/Ajay-patidar0/GitSearch/pull/18) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
 | SplashScreen Improvements | Medium | [#14](https://github.com/Ajay-patidar0/GitSearch/issues/14) |
 | Enhance UI/UX. | Medium | [#13](https://github.com/Ajay-patidar0/GitSearch/pull/13) |
