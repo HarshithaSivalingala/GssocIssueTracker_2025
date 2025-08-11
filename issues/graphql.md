@@ -14,8 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🧹 Remove OWASP schema directory and Makefile references | Easy | [#1971](https://github.com/OWASP/Nest/pull/1971) |
-| Test: added unit tests for SearchBar Component (#1886) | Medium | [#2023](https://github.com/OWASP/Nest/pull/2023) |
+| Update ToggleableList hover state | Easy | [#2036](https://github.com/OWASP/Nest/issues/2036) |
+| Fix bold text on Community dropdown select | Easy | [#2035](https://github.com/OWASP/Nest/issues/2035) |
+| test- inmproved test coverage of github internal nodes more than 80% … | Medium | [#2042](https://github.com/OWASP/Nest/pull/2042) |
+| Improve SnapshotSitemap implementation and add unit tests | Medium | [#2041](https://github.com/OWASP/Nest/pull/2041) |
+| Update Snapshots Page to Use Reusable `<Release />` Component | Medium | [#2040](https://github.com/OWASP/Nest/issues/2040) |
+| Integrate Lighthouse CI for automated website audits | Medium | [#2037](https://github.com/OWASP/Nest/issues/2037) |
+| Sync OWASP Awards data and integrate with user profiles | Medium | [#2024](https://github.com/OWASP/Nest/pull/2024) |
 | Implement Initial Setup for Google OAuth | Medium | [#2021](https://github.com/OWASP/Nest/pull/2021) |
 | test: add unit tests for GeneralCompliantComponent | Medium | [#2018](https://github.com/OWASP/Nest/pull/2018) |
 | Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
@@ -24,7 +29,8 @@
 | refactor:remove PLR0912 ignore and fix 4 violations update | Medium | [#1979](https://github.com/OWASP/Nest/pull/1979) |
 | enhance:change-hover-color-action-button | Medium | [#1978](https://github.com/OWASP/Nest/pull/1978) |
 | Implement Breadcrumbs | Medium | [#1963](https://github.com/OWASP/Nest/pull/1963) |
-| Improve user details UX on member page (#1889) | Medium | [#1934](https://github.com/OWASP/Nest/pull/1934) |
+| Implement management command for detecting non-compliant project levels and flagging them in score calculation | Hard | [#2039](https://github.com/OWASP/Nest/issues/2039) |
+| Implement Query Parser for Search Interfaces | Hard | [#2038](https://github.com/OWASP/Nest/issues/2038) |
 
 ---
 
