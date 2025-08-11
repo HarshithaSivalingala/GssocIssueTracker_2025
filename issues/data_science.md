@@ -16,9 +16,7 @@
 |----------|----------------|---------|
 | [Text file conversion] Create PYQs text files for any of the directed colleges with links given (YMCA, NIT-kurukshetra, IGDTUW, vit-bhopal) | Easy | [#762](https://github.com/Saumy1905/PYQFort/issues/762) |
 | [Text file conversion] Create PYQs text files for any of the directed colleges with links given (YMCA, NIT-kurukshetra, IGDTUW, vit-bhopal) | Easy | [#756](https://github.com/Saumy1905/PYQFort/issues/756) |
-| Add 30+ BCA PYQ | Medium | [#851](https://github.com/Saumy1905/PYQFort/issues/851) |
-| PYQ+ | Medium | [#850](https://github.com/Saumy1905/PYQFort/pull/850) |
-| Added 24 PYQs for EE branch of HITK | Medium | [#849](https://github.com/Saumy1905/PYQFort/pull/849) |
+| Bug: Footer has unexpected links which have to change | Medium | [#853](https://github.com/Saumy1905/PYQFort/issues/853) |
 | Academic Rules - 1.4 | Medium | [#819](https://github.com/Saumy1905/PYQFort/issues/819) |
 | Academic Rules - 1.3 | Medium | [#818](https://github.com/Saumy1905/PYQFort/issues/818) |
 | Add site icon (favicon) as part of the homepage branding | Medium | [#782](https://github.com/Saumy1905/PYQFort/issues/782) |
