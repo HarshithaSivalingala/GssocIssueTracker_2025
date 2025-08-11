@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding related photo and video of the website in the readme file | Medium | [#69](https://github.com/Dipanita45/HEALCONNECT/issues/69) |
-| Dark Mode feature added | Medium | [#55](https://github.com/Dipanita45/HEALCONNECT/pull/55) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
 | fixed typos and added location feature | Medium | [#42](https://github.com/Dipanita45/HEALCONNECT/pull/42) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
@@ -45,24 +44,6 @@
 
 ---
 
-## 📌 Project: CinderPeak
-
-📝 **Description:** CinderPeak is a fast and efficient, open-source C++ graph library designed to handle directed, undirected, and mixed graphs with customizable vertex and edge types. Built with modern C++ (C++17/C++20), it offers a flexible, templated API for graph manipulation and analysis. The library includes an integrated visualization engine powered by SFML, enabling intuitive graph rendering for visual insights. CinderPeak is thread-safe, portable, and optimized for integration into larger projects, making it ideal for graph theory applications, data analysis, and network modeling.
-
-🔗 [View Project](https://github.com/SharonIV0x86/CinderPeak)
-
-💻 **Tech Stack:** C++
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| feat(docs): Create architecture documentation for CinderPeak | Easy | [#36](https://github.com/SharonIV0x86/CinderPeak/issues/36) |
-
----
-
 ## 📌 Project: Netflix Clone
 
 📝 **Description:** This netflix clone is prepared by using HTML, CSS, and Javascript
@@ -80,8 +61,6 @@
 | Improve mobile responsiveness for small screen devices | Easy | [#66](https://github.com/Aqsa4066/netflixclone/issues/66) |
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
-| Add Language Translator Which Translates the whole site into all Languages | Medium | [#68](https://github.com/Aqsa4066/netflixclone/pull/68) |
-| Footer UI needs to be changed | Medium | [#67](https://github.com/Aqsa4066/netflixclone/issues/67) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
 | Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
 | Enhance Netflix Clone Footer Design and Functionality | Medium | [#60](https://github.com/Aqsa4066/netflixclone/issues/60) |
@@ -99,6 +78,8 @@
 | 🐛 Bug Report: Button Hover State Missing | Medium | [#16](https://github.com/Aqsa4066/netflixclone/issues/16) |
 | Feature Request Add legal Pages Like Privacy, Terms Of use | Medium | [#14](https://github.com/Aqsa4066/netflixclone/issues/14) |
 | Readme update part2 | Medium | [#11](https://github.com/Aqsa4066/netflixclone/pull/11) |
+| New and Detailed Read-me | Medium | [#10](https://github.com/Aqsa4066/netflixclone/pull/10) |
+| Update read me | Medium | [#8](https://github.com/Aqsa4066/netflixclone/pull/8) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
