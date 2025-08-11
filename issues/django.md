@@ -14,8 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🧹 Remove OWASP schema directory and Makefile references | Easy | [#1971](https://github.com/OWASP/Nest/pull/1971) |
-| Test: added unit tests for SearchBar Component (#1886) | Medium | [#2023](https://github.com/OWASP/Nest/pull/2023) |
+| Update ToggleableList hover state | Easy | [#2036](https://github.com/OWASP/Nest/issues/2036) |
+| Fix bold text on Community dropdown select | Easy | [#2035](https://github.com/OWASP/Nest/issues/2035) |
+| test- inmproved test coverage of github internal nodes more than 80% … | Medium | [#2042](https://github.com/OWASP/Nest/pull/2042) |
+| Improve SnapshotSitemap implementation and add unit tests | Medium | [#2041](https://github.com/OWASP/Nest/pull/2041) |
+| Update Snapshots Page to Use Reusable `<Release />` Component | Medium | [#2040](https://github.com/OWASP/Nest/issues/2040) |
+| Integrate Lighthouse CI for automated website audits | Medium | [#2037](https://github.com/OWASP/Nest/issues/2037) |
+| Sync OWASP Awards data and integrate with user profiles | Medium | [#2024](https://github.com/OWASP/Nest/pull/2024) |
 | Implement Initial Setup for Google OAuth | Medium | [#2021](https://github.com/OWASP/Nest/pull/2021) |
 | test: add unit tests for GeneralCompliantComponent | Medium | [#2018](https://github.com/OWASP/Nest/pull/2018) |
 | Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
@@ -24,7 +29,8 @@
 | refactor:remove PLR0912 ignore and fix 4 violations update | Medium | [#1979](https://github.com/OWASP/Nest/pull/1979) |
 | enhance:change-hover-color-action-button | Medium | [#1978](https://github.com/OWASP/Nest/pull/1978) |
 | Implement Breadcrumbs | Medium | [#1963](https://github.com/OWASP/Nest/pull/1963) |
-| Improve user details UX on member page (#1889) | Medium | [#1934](https://github.com/OWASP/Nest/pull/1934) |
+| Implement management command for detecting non-compliant project levels and flagging them in score calculation | Hard | [#2039](https://github.com/OWASP/Nest/issues/2039) |
+| Implement Query Parser for Search Interfaces | Hard | [#2038](https://github.com/OWASP/Nest/issues/2038) |
 
 ---
 
@@ -82,12 +88,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| enhance README.md file | Medium | [#47](https://github.com/kaushav07/VisionMate/pull/47) |
+| updated requirements.txt | Medium | [#46](https://github.com/kaushav07/VisionMate/pull/46) |
 | Feature: Integrate scan_logger.py Across the Application | Medium | [#41](https://github.com/kaushav07/VisionMate/issues/41) |
-| feat: Implement speech-to-text module | Medium | [#39](https://github.com/kaushav07/VisionMate/pull/39) |
-| Create Updated Readme | Medium | [#38](https://github.com/kaushav07/VisionMate/pull/38) |
-| added langchain | Medium | [#37](https://github.com/kaushav07/VisionMate/pull/37) |
-| feat: Implement speech-to-text module | Medium | [#35](https://github.com/kaushav07/VisionMate/pull/35) |
-| Feature: Add face recognition and FastAPI integration #24 | Medium | [#34](https://github.com/kaushav07/VisionMate/pull/34) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
@@ -173,7 +176,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Project Structure in README | Medium | [#28](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/28) |
+| Server Error (500) on 127.0.0.1:8000 | Medium | [#30](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/30) |
 | feat: Add Data Dashboard, Explainability, and API Layer for Sneaker Price Prediction (#10) | Medium | [#27](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/27) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
 | Create a CONTRIBUTING.md file for developer guidelines | Medium | [#22](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/22) |
@@ -212,7 +215,6 @@
 |  | Medium | [#200](https://github.com/ygowthamr/WhitePaper/issues/200) |
 | OpenID Connect Support | Medium | [#198](https://github.com/ygowthamr/WhitePaper/issues/198) |
 | UI Enhancements | Medium | [#197](https://github.com/ygowthamr/WhitePaper/issues/197) |
-| Support Options | Medium | [#196](https://github.com/ygowthamr/WhitePaper/issues/196) |
 | Functionality of voice input feature correction | Medium | [#195](https://github.com/ygowthamr/WhitePaper/issues/195) |
 | Incorrect Dependency File Mentioned in README (requirements.txt Missing) | Medium | [#194](https://github.com/ygowthamr/WhitePaper/issues/194) |
 | Toggle Mode Not Working on Website | Medium | [#192](https://github.com/ygowthamr/WhitePaper/issues/192) |
@@ -230,6 +232,7 @@
 | Fix: Exposed GitHub OAuth Credentials and Hardcoded Secret Key | Medium | [#176](https://github.com/ygowthamr/WhitePaper/pull/176) |
 | Addaboutuspage | Medium | [#170](https://github.com/ygowthamr/WhitePaper/pull/170) |
 | Final improvements across all pages | Medium | [#169](https://github.com/ygowthamr/WhitePaper/pull/169) |
+| Enhance <head> Section with Meta Tags for Mobile Responsiveness and Accessibility | Medium | [#161](https://github.com/ygowthamr/WhitePaper/issues/161) |
 
 ---
 
