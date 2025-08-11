@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: update login page with SVG wave background | Medium | [#59](https://github.com/Abhinavhaldiya/FinPilot/pull/59) |
 | An issue occurs | Medium | [#57](https://github.com/Abhinavhaldiya/FinPilot/issues/57) |
 | solved warning and removed the pakage manager outside the server and … | Medium | [#55](https://github.com/Abhinavhaldiya/FinPilot/pull/55) |
 | feat:Setup folder structure for modular features: users, expenses, ap… | Medium | [#53](https://github.com/Abhinavhaldiya/FinPilot/pull/53) |
@@ -52,6 +53,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
 | UI Enhancements for Login Page | Medium | [#51](https://github.com/Menthub-GSSoC/Menthub/issues/51) |
 | ⚙️:ML Matching: Profile-Based Recommendation using Scikit-learn | Medium | [#50](https://github.com/Menthub-GSSoC/Menthub/issues/50) |
 | ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
@@ -65,7 +67,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Improve README.md file | Medium | [#17](https://github.com/Menthub-GSSoC/Menthub/issues/17) |
 | Togglebutton | Medium | [#15](https://github.com/Menthub-GSSoC/Menthub/pull/15) |
 | landing page + signup/login page button | Medium | [#13](https://github.com/Menthub-GSSoC/Menthub/pull/13) |
-| Request to Enhance the UI for Better User Experience | Medium | [#6](https://github.com/Menthub-GSSoC/Menthub/issues/6) |
 | matcher.py is Empty – Matching Logic Missing & Project Scope Needed | Hard | [#18](https://github.com/Menthub-GSSoC/Menthub/issues/18) |
 
 ---
@@ -87,9 +88,11 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Representative Finder Not Working – Will Create Dedicated Page for finding Repersentative | Medium | [#519](https://github.com/HarshS16/Civix/issues/519) |
+| Responsiveness | Medium | [#527](https://github.com/HarshS16/Civix/issues/527) |
+| make Voting & Polling page functional via localStorage | Medium | [#526](https://github.com/HarshS16/Civix/issues/526) |
+| Add user feedback form on homepage | Medium | [#525](https://github.com/HarshS16/Civix/issues/525) |
+| Feat/improve navbar layout | Medium | [#523](https://github.com/HarshS16/Civix/pull/523) |
 | Add PDF Download Option After Reporting an Issue | Medium | [#504](https://github.com/HarshS16/Civix/issues/504) |
-| Improvement in UI of Civic Eduaction and Rights Page | Medium | [#463](https://github.com/HarshS16/Civix/issues/463) |
 | Improve FAQ UI and Smoothness with Animated Expand/Collapse | Medium | [#374](https://github.com/HarshS16/Civix/pull/374) |
 
 ---
@@ -144,10 +147,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Privacy Policy, Terms & Conditions, and Contact Page (Content + UI) | Easy | [#77](https://github.com/Er-luffy-D/SimplifAI/issues/77) |
 | Vmpranav/rag implementation | Medium | [#76](https://github.com/Er-luffy-D/SimplifAI/pull/76) |
-| feat: store generated JSON in DB, add documents API, sharing & access control fixes #74 | Medium | [#75](https://github.com/Er-luffy-D/SimplifAI/pull/75) |
-| Like to add Human pose estimation leveraging OpenCV for image processing and machine learning  algorithms under MLProjects | Medium | [#72](https://github.com/Er-luffy-D/SimplifAI/issues/72) |
-| Add Profile View and Update Functionality for Users | Medium | [#61](https://github.com/Er-luffy-D/SimplifAI/issues/61) |
 
 ---
 
@@ -241,6 +242,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: Project Xangoes
+
+📝 **Description:** A comprehensive full-stack system for managing college fests and events, designed to centralize event management, registration handling, and transaction tracking for educational institutions.
+
+🔗 [View Project](https://github.com/dscnitrourkela/project-xangoes)
+
+💻 **Tech Stack:** Next.js, React, React DOM, TypeScript, Bun, Tailwind CSS, PostCSS, ESLint, Turbopack, Hono, PostgreSQL, Drizzle ORM, Drizzle Kit, Zod, dotenv, TSX, Git, Node.js, pg
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Basic Authentication | Medium | [#5](https://github.com/dscnitrourkela/project-xangoes/issues/5) |
+
+---
+
 ## 📌 Project: DevMatchups
 
 📝 **Description:** DevMatchups is a fullstack web platform which enables developes to connect together and form teams for hackathons. It solves the core problem of finding team or team mates for any hackathon. Users can explore all the hackathons from various websites at one place. Users can create dynamic profiles based on their resume.
@@ -293,6 +312,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ⚠️ Improve Error Handling for Invalid Queries — (GSSoC 2025) | Medium | [#11](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/11) |
+| Add New Sample CSV File (GSSoC 2025) | Medium | [#10](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/10) |
 | 🚨 Fix SQL Injection Vulnerability by Implementing Parameterized Queries | Medium | [#9](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/9) |
 | Add Basic Error Handling for Invalid Queries in Chatbot | Medium | [#8](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/8) |
 | Add Basic Test Script for Chatbot | Medium | [#7](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/7) |
@@ -358,13 +379,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement custom cursor animation | Medium | [#115](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/115) |
 | Enhanved the user dashboard (ISSUE NO.54) | Medium | [#113](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/113) |
-| Custom Cursor Animation | Medium | [#112](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/112) |
-| Fixed the inconsistent typing animation of the Heading in about section | Medium | [#111](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/111) |
 | Added Cursor Effect | Medium | [#110](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/110) |
 | Twitter/X OAuth2 Authentication | Medium | [#75](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/75) |
 | feat(ui): Implement Interactive Bubble Background with Scroll & Mouse Effects (#22) | Medium | [#49](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/49) |
 | Add dark mode toggle in Navbar & attempt to implement dark mode across pages | Medium | [#28](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/28) |
+| feat: IMPLEMENT DARK MODE | Medium | [#6](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/6) |
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
@@ -386,6 +407,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | enhance UI of sign in and sign up page | Easy | [#31](https://github.com/vatsal-bhakodia/smriti-ai/issues/31) |
+| Add contributors tab | Medium | [#60](https://github.com/vatsal-bhakodia/smriti-ai/pull/60) |
 | Add a "Blogs" Page to Smriti AI | Medium | [#27](https://github.com/vatsal-bhakodia/smriti-ai/issues/27) |
 | Add PDF Support to Resource Summary API | Medium | [#11](https://github.com/vatsal-bhakodia/smriti-ai/issues/11) |
 | Upload mp4 | Medium | [#2](https://github.com/vatsal-bhakodia/smriti-ai/issues/2) |
