@@ -48,11 +48,9 @@
 | 🐛 : Form validation not triggering correctly in login form | Medium | [#249](https://github.com/adityagarwal15/JobSync/issues/249) |
 | #173 : Replace Default Form Validation with Custom JS Validation in Contact Form in the Footer | Medium | [#239](https://github.com/adityagarwal15/JobSync/pull/239) |
 | #185: Added a Footer | Medium | [#234](https://github.com/adityagarwal15/JobSync/pull/234) |
-| Chatbot integrated with documentaion | Medium | [#228](https://github.com/adityagarwal15/JobSync/pull/228) |
 | UI Alignment Consistency on Profile Page (#210) | Medium | [#222](https://github.com/adityagarwal15/JobSync/pull/222) |
 | Feat: Add "Skip to Prices" and "Skip to Services" buttons with mobile responsiveness | Medium | [#220](https://github.com/adityagarwal15/JobSync/pull/220) |
 | Timer overlaps with Dashboard button on small screens (208) - Solved | Medium | [#218](https://github.com/adityagarwal15/JobSync/pull/218) |
-| 🛡️ Security: Add CSRF Protection to All Forms | Medium | [#202](https://github.com/adityagarwal15/JobSync/pull/202) |
 
 ---
 
@@ -71,12 +69,14 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Contributors: Please Discuss Issues with Mentors/Admins Before Opening | Easy | [#437](https://github.com/opensource-society/CodeClip/issues/437) |
+| Add Dark Mode Toggle & Fix Challenges Button Error | Medium | [#460](https://github.com/opensource-society/CodeClip/issues/460) |
+| Solved the issues #309 | Medium | [#459](https://github.com/opensource-society/CodeClip/pull/459) |
+| FIX :  challenges is working | Medium | [#457](https://github.com/opensource-society/CodeClip/pull/457) |
+| Redesigned favicon and updated in every pages | Medium | [#456](https://github.com/opensource-society/CodeClip/pull/456) |
+| fixed footer responsive layout for medium screen size(768-991px) | Medium | [#455](https://github.com/opensource-society/CodeClip/pull/455) |
+| Fixed Allignment of SecrchBox | Medium | [#454](https://github.com/opensource-society/CodeClip/pull/454) |
 | <Short bug description> | Medium | [#453](https://github.com/opensource-society/CodeClip/issues/453) |
-| user detail  pr for issue no -#167 | Medium | [#452](https://github.com/opensource-society/CodeClip/pull/452) |
 | UI Theme Inconsistencies Across Pages | Medium | [#451](https://github.com/opensource-society/CodeClip/issues/451) |
-| Fix: Make logo on challenges.html clickable to navigate back to homepage (#449) | Medium | [#450](https://github.com/opensource-society/CodeClip/pull/450) |
-| Logo on challenges.html does not link back to homepage | Medium | [#449](https://github.com/opensource-society/CodeClip/issues/449) |
-| Cool AOS Animations Added | Medium | [#448](https://github.com/opensource-society/CodeClip/pull/448) |
 | Restricted Profile Access - Session Visibility Limited to Challenges Section | Medium | [#447](https://github.com/opensource-society/CodeClip/issues/447) |
 | Inconsistent UI: "Explore More" Option Missing for Non-Frontend Challenges | Medium | [#446](https://github.com/opensource-society/CodeClip/issues/446) |
 | Improvement | Medium | [#445](https://github.com/opensource-society/CodeClip/issues/445) |
@@ -92,8 +92,6 @@
 | Adding Dark mode toggle icon | Medium | [#429](https://github.com/opensource-society/CodeClip/issues/429) |
 | Challenges page is not styled in my edge browser | Medium | [#428](https://github.com/opensource-society/CodeClip/issues/428) |
 | Enhancement-Add some css features and format of index.html file | Medium | [#426](https://github.com/opensource-society/CodeClip/pull/426) |
-| UI Enhancement: Improve Color Contrast for Better Accessibility | Medium | [#425](https://github.com/opensource-society/CodeClip/issues/425) |
-| JavaScript Mini Projects section the HTML & CSS file is not linked properly. | Medium | [#424](https://github.com/opensource-society/CodeClip/issues/424) |
 
 ---
 
@@ -112,9 +110,15 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Discuss with Mentors/Admins on Discord Before Creating Issues | Easy | [#653](https://github.com/opensource-society/notesvault/issues/653) |
-| Fix typo in comment and add spacing | Medium | [#675](https://github.com/opensource-society/notesvault/pull/675) |
-| solved branch18 by changing word Todo List to word To-do List | Medium | [#674](https://github.com/opensource-society/notesvault/pull/674) |
-| Update page title from "Todo List" to "To-do List" in pages/todolist.html | Medium | [#673](https://github.com/opensource-society/notesvault/issues/673) |
+| UI UX is not consistent throughout the website | Medium | [#686](https://github.com/opensource-society/notesvault/issues/686) |
+| the Search bar is not there for note serach | Medium | [#685](https://github.com/opensource-society/notesvault/issues/685) |
+| Bookmark button not working and no option to view bookmarked notes | Medium | [#684](https://github.com/opensource-society/notesvault/issues/684) |
+| Username not displaying after Sign Up / Login | Medium | [#683](https://github.com/opensource-society/notesvault/issues/683) |
+| Header height inconsistent across pages | Medium | [#682](https://github.com/opensource-society/notesvault/issues/682) |
+| Add comment option for notes | Medium | [#681](https://github.com/opensource-society/notesvault/issues/681) |
+| <Select a branch dropdown in home page> | Medium | [#680](https://github.com/opensource-society/notesvault/issues/680) |
+| Implement text styling tools to make note-taking more structured | Medium | [#679](https://github.com/opensource-society/notesvault/issues/679) |
+| Enhance File Upload Notification with Detailed File Information | Medium | [#677](https://github.com/opensource-society/notesvault/issues/677) |
 | Fix: Made theme toggle available on all pages by adding navbar manually; attempted to add two new themes (blocked by existing CSS). | Medium | [#672](https://github.com/opensource-society/notesvault/pull/672) |
 | UI/UX and Design Issues | Medium | [#671](https://github.com/opensource-society/notesvault/issues/671) |
 | Make font colour and bg colour contrast in Overview section | Medium | [#670](https://github.com/opensource-society/notesvault/issues/670) |
@@ -133,9 +137,6 @@
 | <Need to Improve Color Contrast of Navigation Bar Tabs against Background> | Medium | [#655](https://github.com/opensource-society/notesvault/issues/655) |
 | Enhance Navbar Readability and Add Interactive Hover Effects (#651) | Medium | [#654](https://github.com/opensource-society/notesvault/pull/654) |
 | Update greet-and-label.yml | Medium | [#650](https://github.com/opensource-society/notesvault/pull/650) |
-| Feature: Add "Back to Top" Button | Medium | [#648](https://github.com/opensource-society/notesvault/issues/648) |
-| Cards on landing page are not clickable | Medium | [#646](https://github.com/opensource-society/notesvault/issues/646) |
-| No visible Home Page or Home button | Medium | [#644](https://github.com/opensource-society/notesvault/issues/644) |
 
 ---
 
@@ -200,12 +201,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add an in game Restart button next to Pause/Resume | Medium | [#180](https://github.com/Akki-jaiswal/pong-game/issues/180) |
+| Adding a loader animation before it shows the main page | Medium | [#179](https://github.com/Akki-jaiswal/pong-game/issues/179) |
 | Enhancement in the design of  play button and how to play button. | Medium | [#178](https://github.com/Akki-jaiswal/pong-game/issues/178) |
 | Text should be dark in the dropdown for Difficulty and Theme | Medium | [#177](https://github.com/Akki-jaiswal/pong-game/issues/177) |
 | Updating README for Pong Game – GSSOC’25 Contribution | Medium | [#176](https://github.com/Akki-jaiswal/pong-game/issues/176) |
 | Fixed issue #171 Improper alignment between buttons in home page | Medium | [#175](https://github.com/Akki-jaiswal/pong-game/pull/175) |
 | Add 3-Second Visual Countdown Before Ball Launch After Each Point | Medium | [#174](https://github.com/Akki-jaiswal/pong-game/issues/174) |
-| Adding a loader animation before it shows the main page. | Medium | [#173](https://github.com/Akki-jaiswal/pong-game/issues/173) |
 | feat: Add new themes, animated backgrounds, and gameplay power-ups | Medium | [#172](https://github.com/Akki-jaiswal/pong-game/pull/172) |
 | Improper alignment between buttons in home page | Medium | [#171](https://github.com/Akki-jaiswal/pong-game/issues/171) |
 | Bug : Game doesn't start properly on clicking 'Pong Game' | Medium | [#170](https://github.com/Akki-jaiswal/pong-game/issues/170) |
@@ -228,7 +230,6 @@
 | I want to add translation support in ui and also toggle mode | Medium | [#150](https://github.com/Akki-jaiswal/pong-game/issues/150) |
 | Moved pause button below Canvas and changed its style. | Medium | [#148](https://github.com/Akki-jaiswal/pong-game/pull/148) |
 | I'd like to work on this issue  to increase the ball speed on increament level | Medium | [#147](https://github.com/Akki-jaiswal/pong-game/issues/147) |
-| I'd like to work on this issue | Medium | [#146](https://github.com/Akki-jaiswal/pong-game/issues/146) |
 
 ---
 
@@ -246,12 +247,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Contact Us Page Validation | Medium | [#90](https://github.com/SrigadaAkshayKumar/stock/issues/90) |
 | <About page is empty> | Medium | [#87](https://github.com/SrigadaAkshayKumar/stock/issues/87) |
 | <Enhancement title here>Embed mini line charts (sparklines) inside index cards | Medium | [#85](https://github.com/SrigadaAkshayKumar/stock/issues/85) |
 | Enchanced Login & Signup page | Medium | [#84](https://github.com/SrigadaAkshayKumar/stock/pull/84) |
 | Align dashboard UX with top AI stock platforms | Medium | [#79](https://github.com/SrigadaAkshayKumar/stock/issues/79) |
 | Modernize Input UI for Better UX | Medium | [#78](https://github.com/SrigadaAkshayKumar/stock/issues/78) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#77](https://github.com/SrigadaAkshayKumar/stock/issues/77) |
 | feat: Add PropTypes validation and code cleanup improvements | Medium | [#76](https://github.com/SrigadaAkshayKumar/stock/pull/76) |
 | Add PropTypes validation and clean up development code | Medium | [#75](https://github.com/SrigadaAkshayKumar/stock/issues/75) |
 | fix: Move hardcoded API key to environment variable for security | Medium | [#74](https://github.com/SrigadaAkshayKumar/stock/pull/74) |
@@ -266,6 +267,7 @@
 | Add CSV and Excel export for stock history data | Medium | [#48](https://github.com/SrigadaAkshayKumar/stock/pull/48) |
 | Add CSV & Excel Export for Stock History and Predictions | Medium | [#46](https://github.com/SrigadaAkshayKumar/stock/issues/46) |
 | Upgrade Stock Price Prediction Model to LSTM with Keras | Medium | [#42](https://github.com/SrigadaAkshayKumar/stock/issues/42) |
+| UI improvement | Medium | [#17](https://github.com/SrigadaAkshayKumar/stock/issues/17) |
 | Performance Improvement: Add Timeout and Rate Limiting for External API Calls (yfinance & requests) | Medium | [#9](https://github.com/SrigadaAkshayKumar/stock/issues/9) |
 
 ---
@@ -284,26 +286,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added FAQ UI and its content general question | Medium | [#920](https://github.com/itsAnimation/AnimateItNow/pull/920) |
+| Added animated checkbox template | Medium | [#919](https://github.com/itsAnimation/AnimateItNow/pull/919) |
 | Homepage FAQ and Testimonial Section Fixed | Medium | [#908](https://github.com/itsAnimation/AnimateItNow/pull/908) |
-| Improve editor.html page functionality and user experience | Medium | [#907](https://github.com/itsAnimation/AnimateItNow/issues/907) |
 | Add searchable animation dropdown | Medium | [#906](https://github.com/itsAnimation/AnimateItNow/pull/906) |
-| Revamp Contact Us page with modern template | Medium | [#905](https://github.com/itsAnimation/AnimateItNow/pull/905) |
-| Site Hardening & Modernization | Medium | [#904](https://github.com/itsAnimation/AnimateItNow/issues/904) |
-| Visibility of Frequently asked questions in dark mode | Medium | [#903](https://github.com/itsAnimation/AnimateItNow/issues/903) |
-| Feat: Enhance Header and Footer Navigation | Medium | [#901](https://github.com/itsAnimation/AnimateItNow/pull/901) |
-| #801 Logo Typing Animation Causes Layout Shift in Navbar | Medium | [#898](https://github.com/itsAnimation/AnimateItNow/pull/898) |
 | Created AI Assistant with Voice Input and Improved UI | Medium | [#897](https://github.com/itsAnimation/AnimateItNow/pull/897) |
 | feat(accessibility):  Add Accessibility Controls for Reduced Motion (Level 3 Feature) | Medium | [#893](https://github.com/itsAnimation/AnimateItNow/pull/893) |
-| Professional Website Templates #297 | Medium | [#890](https://github.com/itsAnimation/AnimateItNow/pull/890) |
-| Added Navbar button boxes and Box shadow with border | Medium | [#887](https://github.com/itsAnimation/AnimateItNow/pull/887) |
 | Enhanced navigation and improved UI | Medium | [#885](https://github.com/itsAnimation/AnimateItNow/pull/885) |
 | Add separate FAQ pages with reply system (General & Technical) | Medium | [#884](https://github.com/itsAnimation/AnimateItNow/pull/884) |
 | Fix:Hover Effect Actions not triggering | Medium | [#882](https://github.com/itsAnimation/AnimateItNow/pull/882) |
 | Improved UI/UX: Added animated background, copy FAQ, like button, ty… | Medium | [#879](https://github.com/itsAnimation/AnimateItNow/pull/879) |
 | add responsive footer to editor page | Medium | [#877](https://github.com/itsAnimation/AnimateItNow/pull/877) |
-| Added comment for clarity | Medium | [#875](https://github.com/itsAnimation/AnimateItNow/pull/875) |
-| Fix navbar inconsistencies and remove problematic page | Medium | [#874](https://github.com/itsAnimation/AnimateItNow/pull/874) |
-| Feature: Back to Top Button | Medium | [#873](https://github.com/itsAnimation/AnimateItNow/pull/873) |
 
 ---
 
@@ -330,6 +323,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
 | UI Enhancements for Login Page | Medium | [#51](https://github.com/Menthub-GSSoC/Menthub/issues/51) |
 | ⚙️:ML Matching: Profile-Based Recommendation using Scikit-learn | Medium | [#50](https://github.com/Menthub-GSSoC/Menthub/issues/50) |
 | ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
@@ -343,7 +337,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Improve README.md file | Medium | [#17](https://github.com/Menthub-GSSoC/Menthub/issues/17) |
 | Togglebutton | Medium | [#15](https://github.com/Menthub-GSSoC/Menthub/pull/15) |
 | landing page + signup/login page button | Medium | [#13](https://github.com/Menthub-GSSoC/Menthub/pull/13) |
-| Request to Enhance the UI for Better User Experience | Medium | [#6](https://github.com/Menthub-GSSoC/Menthub/issues/6) |
 | matcher.py is Empty – Matching Logic Missing & Project Scope Needed | Hard | [#18](https://github.com/Menthub-GSSoC/Menthub/issues/18) |
 
 ---
@@ -363,6 +356,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| After The Succesful Register Cannot Redirect To Login Page | Medium | [#1835](https://github.com/apu52/Travel_Website/issues/1835) |
+| : "Select Language" section empty and non-functional in footer | Medium | [#1834](https://github.com/apu52/Travel_Website/issues/1834) |
 | Login/Signup button text breaks into two lines in navbar | Medium | [#1833](https://github.com/apu52/Travel_Website/issues/1833) |
 | The images displayed in the project have inconsistent sizes, which makes the layout look uneven and unprofessional.   This is especially noticeable on pages where multiple photos are displayed together. | Medium | [#1832](https://github.com/apu52/Travel_Website/issues/1832) |
 | Scroll hijacked at "View Trading" — forces horizontal image scroll before continuing down | Medium | [#1831](https://github.com/apu52/Travel_Website/issues/1831) |
@@ -391,8 +386,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Cards overlap on mobile screen view (responsive issue). | Medium | [#1806](https://github.com/apu52/Travel_Website/issues/1806) |
 | Make Website Fully Responsive Across All Screen Sizes (Including Half-Screen Laptop View) | Medium | [#1805](https://github.com/apu52/Travel_Website/issues/1805) |
 | SignUp with google is not implemented | Medium | [#1804](https://github.com/apu52/Travel_Website/issues/1804) |
-| Custom Cursor Effect Not Visible on Navbar | Medium | [#1803](https://github.com/apu52/Travel_Website/issues/1803) |
-| Improve Scroll UX: Adjust Scrollbar Start Position and Add Scroll-to-Top/Bottom Buttons | Medium | [#1802](https://github.com/apu52/Travel_Website/issues/1802) |
 
 ---
 
@@ -410,6 +403,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Readme | Medium | [#100](https://github.com/Balamurugan-cyber/WanderWise-Smart-routes.-Hidden-gems.-Travel-smarter.-/issues/100) |
 | Added Emergency Contacts Page for Travelers | Medium | [#99](https://github.com/Balamurugan-cyber/WanderWise-Smart-routes.-Hidden-gems.-Travel-smarter.-/issues/99) |
 | Made Travel Checklist Dynamic and minor fixes(Closes Issue #92) | Medium | [#98](https://github.com/Balamurugan-cyber/WanderWise-Smart-routes.-Hidden-gems.-Travel-smarter.-/pull/98) |
 | Add Time Scheduling, Local Notifications, Trip Sharing & Travel Journal Support | Medium | [#97](https://github.com/Balamurugan-cyber/WanderWise-Smart-routes.-Hidden-gems.-Travel-smarter.-/issues/97) |
@@ -456,10 +450,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed login,  signup and google auth | Medium | [#381](https://github.com/Bhavya1352/eventmappr/pull/381) |
 | Dark Mode Not Working on About Us, Currency Converter, and Nearby Pages | Medium | [#380](https://github.com/Bhavya1352/eventmappr/issues/380) |
 | feat: add search, category filter, and sorting to TouristPlacesPage | Medium | [#376](https://github.com/Bhavya1352/eventmappr/pull/376) |
-| Added Rate Alert Feature to Currency Converter | Medium | [#374](https://github.com/Bhavya1352/eventmappr/pull/374) |
 | Updated currency converter logic | Medium | [#371](https://github.com/Bhavya1352/eventmappr/pull/371) |
 | Adjust padding in event tiles for smaller screens | Medium | [#367](https://github.com/Bhavya1352/eventmappr/issues/367) |
 | Intelligent Chatbot Integration for EventMappr – Enhancing User Support & Interaction | Medium | [#300](https://github.com/Bhavya1352/eventmappr/issues/300) |
@@ -500,7 +492,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding related photo and video of the website in the readme file | Medium | [#69](https://github.com/Dipanita45/HEALCONNECT/issues/69) |
-| Dark Mode feature added | Medium | [#55](https://github.com/Dipanita45/HEALCONNECT/pull/55) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
 | fixed typos and added location feature | Medium | [#42](https://github.com/Dipanita45/HEALCONNECT/pull/42) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
@@ -572,6 +563,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | update the readme of the website-branch | Easy | [#57](https://github.com/harshendram/Advanced-Discord-Bot/issues/57) |
 | Make a yt video showcasing how to setup the bot properly [Open to anyone who can make vids] | Easy | [#50](https://github.com/harshendram/Advanced-Discord-Bot/issues/50) |
 | search and replace "ephemeral" with flags | Easy | [#45](https://github.com/harshendram/Advanced-Discord-Bot/issues/45) |
+| Footer Social Icons Show Old Branding | Medium | [#62](https://github.com/harshendram/Advanced-Discord-Bot/issues/62) |
 | remove the outdated website folder from the main branch | Medium | [#55](https://github.com/harshendram/Advanced-Discord-Bot/issues/55) |
 | Improving Bot Performance and Reducing Latency | Medium | [#11](https://github.com/harshendram/Advanced-Discord-Bot/issues/11) |
 | Overhauling AI section | Hard | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
@@ -632,6 +624,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: Dark/Light Mode Toggle Implementation | Medium | [#39](https://github.com/kanikaa-3018/contest_onlinejudge/pull/39) |
 | improvement needed in dashboard section | Medium | [#38](https://github.com/kanikaa-3018/contest_onlinejudge/issues/38) |
 | Hovering & Button Text Visibility Bug in Peer Rooms Cards | Medium | [#37](https://github.com/kanikaa-3018/contest_onlinejudge/issues/37) |
 | Enhance Login & Register UI with Social Login, Password UX, and Modern Design | Medium | [#36](https://github.com/kanikaa-3018/contest_onlinejudge/issues/36) |
@@ -685,13 +678,13 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ✨ Moving to PNPM and adapting CI/CD  pipeline | Medium | [#140](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/140) |
+| Testimonial Wall | Medium | [#139](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/139) |
 | Fully responsive and functional website created | Medium | [#84](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/84) |
 | Add Firebase Authentication to Enable Secure User Login & Protected Homepage | Medium | [#77](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/77) |
 | Build the Official Website for Amour Editorial – Personalized Study Abroad Support Platform | Medium | [#21](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/21) |
 | Proposal to Build the Amour Editorial | Medium | [#19](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/19) |
 | seting up the project with MERN Stack | Medium | [#17](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/17) |
-| Building the home/landing page of the site | Medium | [#16](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/16) |
-| Building Services Page | Medium | [#14](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/14) |
 
 ---
 
@@ -733,6 +726,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| "Buy Now" button behaves like "Add to Cart" | Medium | [#527](https://github.com/Mujtabaa07/coffeeShop/issues/527) |
+| Enhancement in Wishlist, Cart, and Checkout Features with UI and Config | Medium | [#526](https://github.com/Mujtabaa07/coffeeShop/pull/526) |
 | ENHANCE : change the color of cursor | Medium | [#525](https://github.com/Mujtabaa07/coffeeShop/pull/525) |
 | Add Multi-Language Support (Hindi & English) | Medium | [#524](https://github.com/Mujtabaa07/coffeeShop/issues/524) |
 | Add Smooth Infinite Horizontal Scrolling Animation to Testimonials Section | Medium | [#523](https://github.com/Mujtabaa07/coffeeShop/issues/523) |
@@ -782,6 +777,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding  Farmer Forums #5 | Medium | [#122](https://github.com/omroy07/AgriTech/pull/122) |
 | UI Enhancement: Footer Layout & Alignment Improvements | Medium | [#121](https://github.com/omroy07/AgriTech/issues/121) |
 | Carousel Not Looping After Last Image | Medium | [#120](https://github.com/omroy07/AgriTech/issues/120) |
 | The Login Page is currently not responsive across all viewports. On smaller screens (e.g., mobile devices), layout elements appear misaligned, and some components may overflow or become difficult to interact with. | Medium | [#119](https://github.com/omroy07/AgriTech/issues/119) |
@@ -800,7 +796,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add User Profile Section to Website | Medium | [#82](https://github.com/omroy07/AgriTech/issues/82) |
 | Adding a Light/Dark Mode toggle | Medium | [#77](https://github.com/omroy07/AgriTech/issues/77) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#75](https://github.com/omroy07/AgriTech/issues/75) |
-| Add mit license file to the project | Medium | [#73](https://github.com/omroy07/AgriTech/issues/73) |
 
 ---
 
@@ -818,6 +813,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| MIT License | Medium | [#17](https://github.com/Anjaliavv51/TuneCrate/issues/17) |
 | Update README File for TuneCrate 🎵 | Medium | [#16](https://github.com/Anjaliavv51/TuneCrate/issues/16) |
 | fixed ui of popup.html | Medium | [#15](https://github.com/Anjaliavv51/TuneCrate/pull/15) |
 | ISSUE: Popup UI Improvements for Visual Appeal, Accessibility, and Responsiveness | Medium | [#14](https://github.com/Anjaliavv51/TuneCrate/issues/14) |
@@ -851,6 +847,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added code_of_conduct.md file | Medium | [#25](https://github.com/EmailScript/EmailScript/pull/25) |
 | UI Revamp: Modern, Accessible & Responsive Design for Email Checker Interface | Medium | [#24](https://github.com/EmailScript/EmailScript/issues/24) |
 | 🚀 Add Loading Spinner During Email Validation API Call | Medium | [#23](https://github.com/EmailScript/EmailScript/issues/23) |
 | Add live character counter for subject and message feilds | Medium | [#21](https://github.com/EmailScript/EmailScript/issues/21) |
@@ -861,7 +858,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | javascript file | Medium | [#14](https://github.com/EmailScript/EmailScript/pull/14) |
 | Update README.md | Medium | [#13](https://github.com/EmailScript/EmailScript/pull/13) |
 | 🚫 License Missing from Repository | Medium | [#12](https://github.com/EmailScript/EmailScript/issues/12) |
-| 🌐 [Feature] Set up Live Deployment for EmailScript Application | Medium | [#11](https://github.com/EmailScript/EmailScript/issues/11) |
 | Improve false positive rate by ML tools | Medium | [#9](https://github.com/EmailScript/EmailScript/issues/9) |
 | Enhanced UI by adding navbar, footer, modern theme, dark/light mode toggle | Medium | [#8](https://github.com/EmailScript/EmailScript/pull/8) |
 | Email Health Score | Medium | [#7](https://github.com/EmailScript/EmailScript/issues/7) |
@@ -882,11 +878,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Non-clickable Header Logo and FAQ Heading Overlap | Medium | [#341](https://github.com/pavitraag/Project-Vault/issues/341) |
+| Add Chatbot for better user experience | Medium | [#340](https://github.com/pavitraag/Project-Vault/issues/340) |
+| I want to make NavBar consistent and more attractive and the heading text can be used as a button so that it can land directly to home page | Medium | [#339](https://github.com/pavitraag/Project-Vault/issues/339) |
+| UI is having some issues, and is not that appealing | Medium | [#338](https://github.com/pavitraag/Project-Vault/issues/338) |
+| Fix: Unified UI of ML project cards and removed duplicate project | Medium | [#337](https://github.com/pavitraag/Project-Vault/pull/337) |
+| Many UI changes need to update | Medium | [#336](https://github.com/pavitraag/Project-Vault/issues/336) |
+| Peaceful New Tab – Chrome Extension (GSSoC Contribution) | Medium | [#335](https://github.com/pavitraag/Project-Vault/issues/335) |
 | Tic Tac Toe Game | Medium | [#334](https://github.com/pavitraag/Project-Vault/pull/334) |
 | Added Portfolio sites | Medium | [#333](https://github.com/pavitraag/Project-Vault/pull/333) |
-| To look nav bar better in mobile screens | Medium | [#332](https://github.com/pavitraag/Project-Vault/issues/332) |
-| Footer has duplicates of quick links | Medium | [#331](https://github.com/pavitraag/Project-Vault/issues/331) |
-|  | Medium | [#330](https://github.com/pavitraag/Project-Vault/issues/330) |
 |  | Medium | [#329](https://github.com/pavitraag/Project-Vault/issues/329) |
 | Add Project Listings Under Technology Cards (C++, HTML/CSS, HTML/CSS/JS, Python) | Medium | [#328](https://github.com/pavitraag/Project-Vault/issues/328) |
 | Add Dark Mode Toggle Feature | Medium | [#327](https://github.com/pavitraag/Project-Vault/issues/327) |
@@ -906,9 +906,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Mobile navbar responsiveness issues - Navigation buttons overlapping and poorly positioned | Medium | [#310](https://github.com/pavitraag/Project-Vault/issues/310) |
 | “Featured Project of the Month” – A Dynamic Frontend Highlight Section | Medium | [#309](https://github.com/pavitraag/Project-Vault/issues/309) |
 | Fix: Sidebar layout, text contrast, content alignment and fixed the home page | Medium | [#307](https://github.com/pavitraag/Project-Vault/pull/307) |
-| Static Websites | Medium | [#306](https://github.com/pavitraag/Project-Vault/issues/306) |
-| UI Enhancement Proposal for FAQ Page | Medium | [#305](https://github.com/pavitraag/Project-Vault/issues/305) |
-| Header Overlaps Main FAQ Heading on Scroll | Medium | [#304](https://github.com/pavitraag/Project-Vault/issues/304) |
 
 ---
 
@@ -926,6 +923,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding a loader animation before it shows the main page | Medium | [#85](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/85) |
 | UI improved | Medium | [#84](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/84) |
 | Add  new features temperature trends - 💧 Humidity variation - 🌬️ Wind speed over the 5-day forecast  score board | Medium | [#83](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/83) |
 | Recently Searched Cities with local Storage | Medium | [#82](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/82) |
@@ -955,7 +953,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Added Glassmorphism Effect and Fixed CSS | Medium | [#56](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/56) |
 | Create LICENSE | Medium | [#55](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/55) |
 | feat: Change Background Image Based on Weather When Clicking on Tempe… | Medium | [#53](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/53) |
-| Add hover animation effect to weather card | Medium | [#52](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/52) |
 
 ---
 
@@ -993,6 +990,16 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| PERFORMANCE: Optimization Issues | Medium | [#83](https://github.com/Richajaishwal0/Trip_assistant/issues/83) |
+| 🛡️ TYPE SAFETY: TypeScript Issues | Medium | [#82](https://github.com/Richajaishwal0/Trip_assistant/issues/82) |
+| 📱 RESPONSIVE: Mobile Optimization Issues | Medium | [#81](https://github.com/Richajaishwal0/Trip_assistant/issues/81) |
+| 🎨 UI/UX: Missing Components | Medium | [#80](https://github.com/Richajaishwal0/Trip_assistant/issues/80) |
+| ⚠️ ERROR HANDLING: Inconsistent Error Handling | Medium | [#79](https://github.com/Richajaishwal0/Trip_assistant/issues/79) |
+| 🌱 ENVIRONMENT: Missing Environment Variables | Medium | [#78](https://github.com/Richajaishwal0/Trip_assistant/issues/78) |
+| DATABASE: Inconsistent Database Usage | Medium | [#77](https://github.com/Richajaishwal0/Trip_assistant/issues/77) |
+| VALIDATION: Phone Number Input Issues | Medium | [#76](https://github.com/Richajaishwal0/Trip_assistant/issues/76) |
+| 🔒 SECURITY: Plain Text Passwords | Medium | [#75](https://github.com/Richajaishwal0/Trip_assistant/issues/75) |
+| Duplicate Component Files (AboutUsPage.tsx and AboutUsPage.jsx) | Medium | [#74](https://github.com/Richajaishwal0/Trip_assistant/issues/74) |
 | feature : migrate mysql to mongoDB. | Medium | [#48](https://github.com/Richajaishwal0/Trip_assistant/pull/48) |
 | Add AI chatbot assistant to help users with trip planning queries (GSSoC'25) | Medium | [#36](https://github.com/Richajaishwal0/Trip_assistant/issues/36) |
 
@@ -1012,33 +1019,26 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Hero Identity Game+ | Medium | [#589](https://github.com/ruchikakengal/WebDevIn100_Days/pull/589) |
-| PickUp Line Game+ | Medium | [#588](https://github.com/ruchikakengal/WebDevIn100_Days/pull/588) |
-| MINESWEEPER GAME  (Gssoc2025) | Medium | [#587](https://github.com/ruchikakengal/WebDevIn100_Days/issues/587) |
-| Virtual Keyboard | Medium | [#586](https://github.com/ruchikakengal/WebDevIn100_Days/issues/586) |
-| Meme generator | Medium | [#585](https://github.com/ruchikakengal/WebDevIn100_Days/issues/585) |
-| Testimonial Carousel | Medium | [#584](https://github.com/ruchikakengal/WebDevIn100_Days/issues/584) |
-| Toast POP up notification | Medium | [#583](https://github.com/ruchikakengal/WebDevIn100_Days/issues/583) |
+| feat: Add New Project - AI Code Generator | Medium | [#608](https://github.com/ruchikakengal/WebDevIn100_Days/pull/608) |
+| Added Maze Solver | Medium | [#607](https://github.com/ruchikakengal/WebDevIn100_Days/pull/607) |
+| BRICK BLAST MANIA game | Medium | [#606](https://github.com/ruchikakengal/WebDevIn100_Days/issues/606) |
+| Wordle Game | Medium | [#605](https://github.com/ruchikakengal/WebDevIn100_Days/issues/605) |
+| PONG GAME | Medium | [#604](https://github.com/ruchikakengal/WebDevIn100_Days/issues/604) |
+| 2048 Game | Medium | [#603](https://github.com/ruchikakengal/WebDevIn100_Days/issues/603) |
+| Added Testimonial Carousel | Medium | [#602](https://github.com/ruchikakengal/WebDevIn100_Days/pull/602) |
+| Fix: auto-scroll on pagination | Medium | [#601](https://github.com/ruchikakengal/WebDevIn100_Days/pull/601) |
+| Type Speeder | Medium | [#598](https://github.com/ruchikakengal/WebDevIn100_Days/issues/598) |
+| Ludo Game | Medium | [#597](https://github.com/ruchikakengal/WebDevIn100_Days/issues/597) |
+| ADD Library_Book_Manager | Medium | [#596](https://github.com/ruchikakengal/WebDevIn100_Days/issues/596) |
+| ADDED  Memory Grid Rush #447 | Medium | [#595](https://github.com/ruchikakengal/WebDevIn100_Days/pull/595) |
+| Mood-Based Scheduler | Medium | [#593](https://github.com/ruchikakengal/WebDevIn100_Days/pull/593) |
 | Added captcha solver project | Medium | [#582](https://github.com/ruchikakengal/WebDevIn100_Days/pull/582) |
-| Compliment Game+ | Medium | [#581](https://github.com/ruchikakengal/WebDevIn100_Days/pull/581) |
-| Roast Game+ | Medium | [#580](https://github.com/ruchikakengal/WebDevIn100_Days/pull/580) |
-| Door Game+ | Medium | [#579](https://github.com/ruchikakengal/WebDevIn100_Days/pull/579) |
-| Solitaire Game+ | Medium | [#578](https://github.com/ruchikakengal/WebDevIn100_Days/pull/578) |
-| Issue 131 solved | Medium | [#577](https://github.com/ruchikakengal/WebDevIn100_Days/pull/577) |
-| Readme update | Medium | [#576](https://github.com/ruchikakengal/WebDevIn100_Days/pull/576) |
 | Project: CineSearch – A Sleek Movie Search Interface Using OMDb API ,added successfully | Medium | [#575](https://github.com/ruchikakengal/WebDevIn100_Days/pull/575) |
-| Added Fitness Tracker  #425 | Medium | [#574](https://github.com/ruchikakengal/WebDevIn100_Days/pull/574) |
 | Update index.html of portfolio | Medium | [#573](https://github.com/ruchikakengal/WebDevIn100_Days/pull/573) |
 | Sorting visualiser/#451 | Medium | [#571](https://github.com/ruchikakengal/WebDevIn100_Days/pull/571) |
-| Add Sorting Visualiser Project | Medium | [#570](https://github.com/ruchikakengal/WebDevIn100_Days/issues/570) |
 | Added Textutils Project | Medium | [#567](https://github.com/ruchikakengal/WebDevIn100_Days/pull/567) |
 | Flip a coin with history | Medium | [#566](https://github.com/ruchikakengal/WebDevIn100_Days/pull/566) |
 | Added country flags, theme toggle, and gradient background | Medium | [#565](https://github.com/ruchikakengal/WebDevIn100_Days/pull/565) |
-| Robo Game+ | Medium | [#563](https://github.com/ruchikakengal/WebDevIn100_Days/pull/563) |
-| Helicopter Game+ | Medium | [#562](https://github.com/ruchikakengal/WebDevIn100_Days/pull/562) |
-| BattleShip Game+ | Medium | [#561](https://github.com/ruchikakengal/WebDevIn100_Days/pull/561) |
-| ATS Checker and Job Finder | Medium | [#560](https://github.com/ruchikakengal/WebDevIn100_Days/pull/560) |
-| Crypto price tracker | Medium | [#559](https://github.com/ruchikakengal/WebDevIn100_Days/pull/559) |
 
 ---
 
@@ -1056,6 +1056,17 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a new game: whack-a-mole | Medium | [#645](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/645) |
+| Fix/readme folder links | Medium | [#643](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/643) |
+| Fix/navbar contributors html | Medium | [#642](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/642) |
+| Maintainability: Separate presentation from markup | Medium | [#640](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/640) |
+| Add 2048 Game (HTML, CSS, JS) – Keyboard Controls Only | Medium | [#639](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/639) |
+| Add navbar to contributors.html for consistency with other pages | Medium | [#638](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/638) |
+| Add Dynamic Resume / Portfolio Generator Mini Project | Medium | [#637](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/637) |
+| Fix broken project links | Medium | [#635](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/635) |
+| Add Navigation Bar to Contributors Page for Better Navigation | Medium | [#634](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/634) |
+| Feature/memory card game | Medium | [#633](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/633) |
+| FEATURE: Added AI Image Caption Generation #536 | Medium | [#632](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/632) |
 | BRICK BREAKER game (GSSOC25) | Medium | [#631](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/631) |
 | BOOM OR BUST  game | Medium | [#630](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/630) |
 | Battleship game addition  for day #60 | Medium | [#629](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/629) |
@@ -1064,7 +1075,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Analog Clock Feature to Day 40 Project | Medium | [#626](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/626) |
 | Rectified the table | Medium | [#625](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/625) |
 | Fix broken folder links in Project List section of README | Medium | [#624](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/624) |
-| Started Day 60 - 2048 Game with HTML & CSS | Medium | [#623](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/623) |
+| Started Day 60 - 2048 Game with HTML & CSS   Added JS logic with keyboard controls | Medium | [#623](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/623) |
 | A Proposal to Contribute Towords a Real Estate Website Using MERN Stack | Medium | [#622](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/622) |
 | Add Feedback Page for Project Suggestions and Comments | Medium | [#621](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/621) |
 | Add a diary app | Medium | [#620](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/620) |
@@ -1075,17 +1086,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Feature Request – Sorting Algorithm Visualizer. | Medium | [#614](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/614) |
 | Add code_of_conduct.md file | Medium | [#613](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/613) |
 | **Title:** Logo not displaying on navbar | Medium | [#612](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/612) |
-| Netflix Homepage clone | Medium | [#611](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/611) |
-| Added My Project to index.js and created day53 folder | Medium | [#610](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/610) |
-| Fix: Mismatch between Project Names and Demo Links | Medium | [#609](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/609) |
-| Empty Project Names in the List | Medium | [#608](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/608) |
-| Incorrect Demo Link for Snake Game and Broken Link for Hangman Game | Medium | [#607](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/607) |
-| Enhancement: make search bar sticky while scrolling the project list. | Medium | [#606](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/606) |
-| Add Currency Converter | Medium | [#605](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/605) |
-| Feature: add quick view modal for project preview | Medium | [#604](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/604) |
-| Add a password Generator using HTML CSS JS and React. | Medium | [#603](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/603) |
-| Enhanced Typing Speed Interface with Timer Feature | Medium | [#602](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/602) |
-| Feature: AI Writing Assistant API Integration (Grammar, Paraphrase, Tone Adjust) | Medium | [#601](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/601) |
 
 ---
 
@@ -1103,8 +1103,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Convert blog section to customer reviews section | Medium | [#59](https://github.com/SamXop123/RigCrafter/pull/59) |
-| Add Animated Counter Effect for Stats Section on Page Load | Medium | [#58](https://github.com/SamXop123/RigCrafter/issues/58) |
+| Add Animated Counter Effect | Medium | [#62](https://github.com/SamXop123/RigCrafter/pull/62) |
 | /dashboard route not integrated properly with Navbar | Medium | [#57](https://github.com/SamXop123/RigCrafter/issues/57) |
 
 ---
@@ -1143,21 +1142,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📝[Docs]: Typos and grammar mistakes in GitHub Introduction Page | Medium | [#295](https://github.com/recodehive/recode-website/issues/295) |
-| Replaced HeaderImage/ Vanilla with toaster | Medium | [#294](https://github.com/recodehive/recode-website/pull/294) |
-| Filter feature in leaderboard | Medium | [#293](https://github.com/recodehive/recode-website/pull/293) |
-| Added Github-icon for smaller screens, proper spacing and padding for right-navitems | Medium | [#292](https://github.com/recodehive/recode-website/pull/292) |
-| [Documentation] typo in docs | Medium | [#291](https://github.com/recodehive/recode-website/pull/291) |
-| Added scroll-to-top button on Community Page | Medium | [#290](https://github.com/recodehive/recode-website/pull/290) |
-| 🐞[Bug]: Scroller animate speed | Medium | [#281](https://github.com/recodehive/recode-website/issues/281) |
-| Create Newsletter page | Medium | [#280](https://github.com/recodehive/recode-website/pull/280) |
-| Add contributors.md | Medium | [#267](https://github.com/recodehive/recode-website/pull/267) |
-| 📝[Docs]: updation | Medium | [#259](https://github.com/recodehive/recode-website/issues/259) |
-| Page Request- Behaviour | Medium | [#252](https://github.com/recodehive/recode-website/issues/252) |
-| 🐞[Bug]: Roadmap Page Link Under “More” Navigation Not Working | Medium | [#249](https://github.com/recodehive/recode-website/issues/249) |
-| Create Resource Vault for Cheat Sheets, Data Sets & Tools | Medium | [#248](https://github.com/recodehive/recode-website/issues/248) |
-| Add AI Code Mentor Chatbot to Guide New Coders | Medium | [#247](https://github.com/recodehive/recode-website/issues/247) |
-| 🐞[Bug]: Text Visibility Issue | Medium | [#246](https://github.com/recodehive/recode-website/issues/246) |
+| Newsletter page | Medium | [#298](https://github.com/recodehive/recode-website/pull/298) |
+| 📢 Help Needed: Documentation | Medium | [#198](https://github.com/recodehive/recode-website/issues/198) |
+| Community Dashboard to have discuss. | Medium | [#151](https://github.com/recodehive/recode-website/issues/151) |
+| Make a set of rule like lint check and script code checks | Medium | [#121](https://github.com/recodehive/recode-website/issues/121) |
+| Portfolio Page | Medium | [#48](https://github.com/recodehive/recode-website/issues/48) |
+| Our Team Page | Hard | [#118](https://github.com/recodehive/recode-website/issues/118) |
 
 ---
 
@@ -1175,6 +1165,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed Donation Form | Medium | [#79](https://github.com/SOURAVtec/Facility-publication-management-/pull/79) |
 | Alumni Achievements Carousel with Auto-play & Pause | Medium | [#78](https://github.com/SOURAVtec/Facility-publication-management-/issues/78) |
 | Advanced Job Search with Filters & Badges | Medium | [#77](https://github.com/SOURAVtec/Facility-publication-management-/issues/77) |
 | Add “Back to Home” button to Job Postings & Donations pages | Medium | [#76](https://github.com/SOURAVtec/Facility-publication-management-/issues/76) |
@@ -1204,7 +1195,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Enhance Frontend Structure: Fix Broken Links, Add Pages, and Improve UI Functionality | Medium | [#48](https://github.com/SOURAVtec/Facility-publication-management-/pull/48) |
 | Design Signup Page | Medium | [#47](https://github.com/SOURAVtec/Facility-publication-management-/issues/47) |
 | Enhance Frontend Structure: Fix Broken Links, Add Pages, and Improve UI Functionality | Medium | [#46](https://github.com/SOURAVtec/Facility-publication-management-/issues/46) |
-| Add Countdown Timer to Event Card on Homepage | Medium | [#45](https://github.com/SOURAVtec/Facility-publication-management-/issues/45) |
 
 ---
 
@@ -1222,6 +1212,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Footer with Quick Links & Better Layout | Medium | [#197](https://github.com/souvikpramanikgit/LearnHub/issues/197) |
 | feat : Added docs for React Basic and Hooks | Medium | [#196](https://github.com/souvikpramanikgit/LearnHub/pull/196) |
 | feat: Add scroll progress indicator to all pages | Medium | [#195](https://github.com/souvikpramanikgit/LearnHub/pull/195) |
 | Adding a ProgressBar when scroll-up-down sites | Medium | [#194](https://github.com/souvikpramanikgit/LearnHub/issues/194) |
@@ -1265,6 +1256,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| updated next version and removed bcrypt. Also made sure password work… | Medium | [#75](https://github.com/sristy17/next-payroll/pull/75) |
 | Payment page creation | Medium | [#73](https://github.com/sristy17/next-payroll/pull/73) |
 | Scroll issue in GST return page & Add Business Page | Medium | [#67](https://github.com/sristy17/next-payroll/issues/67) |
 
@@ -1284,6 +1276,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: implement enterprise-grade security enhancements #416 | Medium | [#417](https://github.com/multiverseweb/Dataverse/pull/417) |
+| Implement secure password handling and database security | Medium | [#416](https://github.com/multiverseweb/Dataverse/issues/416) |
 | Add Auth in login Signup page | Medium | [#415](https://github.com/multiverseweb/Dataverse/issues/415) |
 | Preloader Not Playing | Medium | [#414](https://github.com/multiverseweb/Dataverse/issues/414) |
 | No Feedback on Errors | Medium | [#413](https://github.com/multiverseweb/Dataverse/issues/413) |
@@ -1329,6 +1323,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: Admin-dashboard doesn't start without index.html | Medium | [#79](https://github.com/KOMARAUDAYKIRAN/E-commerce-AgriGro-Website-Project/pull/79) |
 | admin-dashboard React projects require file | Medium | [#78](https://github.com/KOMARAUDAYKIRAN/E-commerce-AgriGro-Website-Project/issues/78) |
 | JWT AUTHETICATION | Medium | [#77](https://github.com/KOMARAUDAYKIRAN/E-commerce-AgriGro-Website-Project/issues/77) |
 | new product catalogue page | Medium | [#76](https://github.com/KOMARAUDAYKIRAN/E-commerce-AgriGro-Website-Project/pull/76) |
@@ -1356,6 +1351,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added About Us page with anime theme styles | Medium | [#174](https://github.com/Chandu6702/Anime-Ecstasy/pull/174) |
+| Collaborative Watchlist – Share & Discover Anime with Friends | Medium | [#173](https://github.com/Chandu6702/Anime-Ecstasy/issues/173) |
 | Header,Footer and Body themes not matched and Enhance navbar for mobile approach | Medium | [#172](https://github.com/Chandu6702/Anime-Ecstasy/issues/172) |
 | navbar issue responsiveness | Medium | [#171](https://github.com/Chandu6702/Anime-Ecstasy/issues/171) |
 | Implement a Dedicated About Us Page (Currently Redirects to Home) | Medium | [#170](https://github.com/Chandu6702/Anime-Ecstasy/issues/170) |
@@ -1384,8 +1381,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Preloaders for Anime Cards During API Fetch (for GSSOC 25) | Medium | [#136](https://github.com/Chandu6702/Anime-Ecstasy/issues/136) |
 | Add Genre-Based Filtering to Anime Gallery | Medium | [#135](https://github.com/Chandu6702/Anime-Ecstasy/issues/135) |
 | Redesign or Build a Login Page | Medium | [#134](https://github.com/Chandu6702/Anime-Ecstasy/issues/134) |
-| Banner section updation | Medium | [#131](https://github.com/Chandu6702/Anime-Ecstasy/issues/131) |
-| 🐛 : Mobile Responsive Navbar | Medium | [#130](https://github.com/Chandu6702/Anime-Ecstasy/issues/130) |
 
 ---
 
@@ -1429,6 +1424,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+|  | Medium | [#88](https://github.com/whyvineet/orthoplay/issues/88) |
+| Responsive Navigation on Tablets | Medium | [#87](https://github.com/whyvineet/orthoplay/pull/87) |
+| Navigation Menu Overlap on Tablet View | Medium | [#86](https://github.com/whyvineet/orthoplay/issues/86) |
+| Add a Pass and Play Feature | Medium | [#85](https://github.com/whyvineet/orthoplay/issues/85) |
+| Add "Demo Round" Button to HowToPlay Page | Medium | [#84](https://github.com/whyvineet/orthoplay/issues/84) |
 | UX Enhancement: Add "Play Again" and "Go Home" buttons on result screen to improve user engagement and navigation flow | Medium | [#83](https://github.com/whyvineet/orthoplay/issues/83) |
 |  | Medium | [#82](https://github.com/whyvineet/orthoplay/issues/82) |
 | Updated Readme | Medium | [#81](https://github.com/whyvineet/orthoplay/issues/81) |
@@ -1461,7 +1461,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |  | Medium | [#200](https://github.com/ygowthamr/WhitePaper/issues/200) |
 | OpenID Connect Support | Medium | [#198](https://github.com/ygowthamr/WhitePaper/issues/198) |
 | UI Enhancements | Medium | [#197](https://github.com/ygowthamr/WhitePaper/issues/197) |
-| Support Options | Medium | [#196](https://github.com/ygowthamr/WhitePaper/issues/196) |
 | Functionality of voice input feature correction | Medium | [#195](https://github.com/ygowthamr/WhitePaper/issues/195) |
 | Incorrect Dependency File Mentioned in README (requirements.txt Missing) | Medium | [#194](https://github.com/ygowthamr/WhitePaper/issues/194) |
 | Toggle Mode Not Working on Website | Medium | [#192](https://github.com/ygowthamr/WhitePaper/issues/192) |
@@ -1479,6 +1478,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix: Exposed GitHub OAuth Credentials and Hardcoded Secret Key | Medium | [#176](https://github.com/ygowthamr/WhitePaper/pull/176) |
 | Addaboutuspage | Medium | [#170](https://github.com/ygowthamr/WhitePaper/pull/170) |
 | Final improvements across all pages | Medium | [#169](https://github.com/ygowthamr/WhitePaper/pull/169) |
+| Enhance <head> Section with Meta Tags for Mobile Responsiveness and Accessibility | Medium | [#161](https://github.com/ygowthamr/WhitePaper/issues/161) |
 
 ---
 
@@ -1496,6 +1496,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added dashboard button with icon to feedback page | Medium | [#62](https://github.com/Skrache/crisisboard/pull/62) |
+| Fixed errors in app.js | Medium | [#61](https://github.com/Skrache/crisisboard/pull/61) |
+| feat(footer): added responsive copyright footer with navigation links… | Medium | [#60](https://github.com/Skrache/crisisboard/pull/60) |
+| Google Authentication with College Email Restriction | Medium | [#56](https://github.com/Skrache/crisisboard/issues/56) |
+| License | Medium | [#55](https://github.com/Skrache/crisisboard/issues/55) |
 | sign in with google (coming soon) | Medium | [#54](https://github.com/Skrache/crisisboard/issues/54) |
 | Added search and filter feature | Medium | [#48](https://github.com/Skrache/crisisboard/pull/48) |
 | 🎨 UI/UX Enhancements for CrisisBoard | Medium | [#43](https://github.com/Skrache/crisisboard/issues/43) |
@@ -1521,6 +1526,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Restrict "Add Review" to Logged-in Users & Save Reviews | Medium | [#179](https://github.com/AditiGupta-tech/neonest/issues/179) |
 | Revamping resources page issue #121 | Medium | [#178](https://github.com/AditiGupta-tech/neonest/pull/178) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 | Complete Dark Mode Feature Implementation with Consistent Styling | Medium | [#175](https://github.com/AditiGupta-tech/neonest/issues/175) |
@@ -1587,6 +1593,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add student dropout rate ml model | Medium | [#14](https://github.com/JIGEESHA-ANAGANI/MST-LAB/pull/14) |
 | Update README.md | Medium | [#13](https://github.com/JIGEESHA-ANAGANI/MST-LAB/pull/13) |
 | Updated Readme file | Medium | [#12](https://github.com/JIGEESHA-ANAGANI/MST-LAB/pull/12) |
 | Missing files | Medium | [#10](https://github.com/JIGEESHA-ANAGANI/MST-LAB/issues/10) |
@@ -1638,6 +1645,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed Readme.md images | Medium | [#213](https://github.com/Creators-Space/Creators-Space/pull/213) |
+| Added a new Campus Ambassador page and updated all navbars to link directly to it | Medium | [#212](https://github.com/Creators-Space/Creators-Space/pull/212) |
+| Mission logo should be above the text | Medium | [#211](https://github.com/Creators-Space/Creators-Space/issues/211) |
+| Add Newsletter Subscription Popup Feature | Medium | [#209](https://github.com/Creators-Space/Creators-Space/pull/209) |
 | Add an Interactive Learning Progress Tracker | Medium | [#208](https://github.com/Creators-Space/Creators-Space/issues/208) |
 | Bug : repeated About link in navBar and also collapsing backToTop button and chatBox button | Medium | [#207](https://github.com/Creators-Space/Creators-Space/issues/207) |
 | Added Data Analyst course section with pricing and icon | Medium | [#206](https://github.com/Creators-Space/Creators-Space/pull/206) |
@@ -1657,9 +1668,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add “Sign in with Google” Functionality to Signup Page | Medium | [#182](https://github.com/Creators-Space/Creators-Space/issues/182) |
 | some button not working and add property of open file in new tab | Medium | [#179](https://github.com/Creators-Space/Creators-Space/issues/179) |
 | Enhance UI of Sign Up and Login Pages for Improved User Experience | Medium | [#177](https://github.com/Creators-Space/Creators-Space/issues/177) |
-| Update README.md file | Medium | [#172](https://github.com/Creators-Space/Creators-Space/issues/172) |
-| Forgot Password in Login Page doesn't work | Medium | [#170](https://github.com/Creators-Space/Creators-Space/issues/170) |
-| Visual Enhancements to the Testimonial Section | Medium | [#169](https://github.com/Creators-Space/Creators-Space/issues/169) |
 
 ---
 
@@ -1677,10 +1685,16 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Remove unintended black spot from Login page | Medium | [#1337](https://github.com/vishanurag/Canvas-Editor/issues/1337) |
+| Visitor count box overlaps with chat icon | Medium | [#1336](https://github.com/vishanurag/Canvas-Editor/issues/1336) |
+| Center-align social media icons on Contributors page | Medium | [#1335](https://github.com/vishanurag/Canvas-Editor/issues/1335) |
+| "Back to Top" button on Contributors page differs from other pages | Medium | [#1334](https://github.com/vishanurag/Canvas-Editor/issues/1334) |
+| Feedback form submits with invalid inputs and no error message when rating is not provided | Medium | [#1333](https://github.com/vishanurag/Canvas-Editor/issues/1333) |
+| FAQ page form submits with invalid inputs | Medium | [#1332](https://github.com/vishanurag/Canvas-Editor/issues/1332) |
+| Social media links/icons not redirecting to respective pages | Medium | [#1331](https://github.com/vishanurag/Canvas-Editor/issues/1331) |
 | The table of content is missing and also the language which are used is not written in the readme | Medium | [#1330](https://github.com/vishanurag/Canvas-Editor/issues/1330) |
 | Nabar right side content not visible becuase of sideBar(tools , settings) | Medium | [#1329](https://github.com/vishanurag/Canvas-Editor/issues/1329) |
 | Feat:  Adding "remember me" to the signup and signin page connecting it to the local storage database for user authentication. | Medium | [#1190](https://github.com/vishanurag/Canvas-Editor/issues/1190) |
-| 🧑‍💻:  change  layout of the website | Medium | [#1132](https://github.com/vishanurag/Canvas-Editor/issues/1132) |
 
 ---
 
@@ -1701,8 +1715,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Improve mobile responsiveness for small screen devices | Easy | [#66](https://github.com/Aqsa4066/netflixclone/issues/66) |
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
-| Add Language Translator Which Translates the whole site into all Languages | Medium | [#68](https://github.com/Aqsa4066/netflixclone/pull/68) |
-| Footer UI needs to be changed | Medium | [#67](https://github.com/Aqsa4066/netflixclone/issues/67) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
 | Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
 | Enhance Netflix Clone Footer Design and Functionality | Medium | [#60](https://github.com/Aqsa4066/netflixclone/issues/60) |
@@ -1720,6 +1732,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🐛 Bug Report: Button Hover State Missing | Medium | [#16](https://github.com/Aqsa4066/netflixclone/issues/16) |
 | Feature Request Add legal Pages Like Privacy, Terms Of use | Medium | [#14](https://github.com/Aqsa4066/netflixclone/issues/14) |
 | Readme update part2 | Medium | [#11](https://github.com/Aqsa4066/netflixclone/pull/11) |
+| New and Detailed Read-me | Medium | [#10](https://github.com/Aqsa4066/netflixclone/pull/10) |
+| Update read me | Medium | [#8](https://github.com/Aqsa4066/netflixclone/pull/8) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
@@ -1739,6 +1753,24 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Suggestion: Add Code Of Conduct File to project | Medium | [#1](https://github.com/itsaryanchauhan/ThinkDSA-Extension/issues/1) |
+
+---
+
+## 📌 Project: Hospital Management System
+
+📝 **Description:** Medimate 8.4.3 is a user-friendly healthcare application that streamlines the workflow of hospitals, clinics, and medical facilities. It efficiently manages patient information, appointments, laboratory management, and administrative tasks through its Electronic Health Record (EHR) system. The app also includes appointment scheduling, and invoicing, inventory management, and comprehensive reporting and analytics capabilities. It is web-based software, Medimate 8.4.3 can be accessed from any device with an internet connection.
+
+🔗 [View Project](https://github.com/aashut0xhkr/HMS_PRJCT.git)
+
+💻 **Tech Stack:** Core Java, Java 8, Spring Boot, Hibernate JPA, Spring Security, JWT, MySQL, RESTful Services, Git
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add SQL script to insert dummy dataset for local development | Medium | [#47](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/47) |
 
 ---
 
@@ -1783,17 +1815,22 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| We've added a Cyber Analyst section to our training program, addressing cybersecurity's popularity among newcomers seeking professional development opportunities. | Medium | [#204](https://github.com/gyanshankar1708/GrowCraft/pull/204) |
+| Create Social Media Management Service Page | Medium | [#219](https://github.com/gyanshankar1708/GrowCraft/issues/219) |
+| Create Graphic Designing Service Page | Medium | [#218](https://github.com/gyanshankar1708/GrowCraft/issues/218) |
+| Create Content Writing Service Page | Medium | [#217](https://github.com/gyanshankar1708/GrowCraft/issues/217) |
+| Improve UI of Cards & Footer on Worklist Page + Works Section Cards | Medium | [#216](https://github.com/gyanshankar1708/GrowCraft/issues/216) |
+| Digital Marketing Page refer to issue #41 | Medium | [#215](https://github.com/gyanshankar1708/GrowCraft/pull/215) |
+| Fix navbar on Blogs and Contact Us pages (#187) | Medium | [#214](https://github.com/gyanshankar1708/GrowCraft/pull/214) |
+| Navbar text not visible in Blogs | Medium | [#213](https://github.com/gyanshankar1708/GrowCraft/issues/213) |
+| Add Blogs option to contact page navbar for consistent navigation Issue#185 | Medium | [#212](https://github.com/gyanshankar1708/GrowCraft/pull/212) |
+| Fix the navbar toggle faeture | Medium | [#211](https://github.com/gyanshankar1708/GrowCraft/pull/211) |
+| Added a scroll based animation to contact-form | Medium | [#209](https://github.com/gyanshankar1708/GrowCraft/pull/209) |
+| Added Scroll-Based Fade-In Animation | Medium | [#208](https://github.com/gyanshankar1708/GrowCraft/pull/208) |
+| Fix: Incorrect redirection of links on Contact page | Medium | [#207](https://github.com/gyanshankar1708/GrowCraft/pull/207) |
+| Fix : Correct footer links in contact.html | Medium | [#206](https://github.com/gyanshankar1708/GrowCraft/pull/206) |
 | Bugfix: Proper redirect of Contact Us page favicon | Medium | [#203](https://github.com/gyanshankar1708/GrowCraft/pull/203) |
-| Footer links in Contact Us page redirect incorrectly | Medium | [#202](https://github.com/gyanshankar1708/GrowCraft/issues/202) |
 | Added Dynamic Copyright Year to Footer #157 | Medium | [#199](https://github.com/gyanshankar1708/GrowCraft/pull/199) |
 | added liner content in each page with styling | Medium | [#194](https://github.com/gyanshankar1708/GrowCraft/pull/194) |
-| Add Fade-In Scroll Animation for Page Elements | Medium | [#192](https://github.com/gyanshankar1708/GrowCraft/issues/192) |
-| Added Services and  work pages | Medium | [#181](https://github.com/gyanshankar1708/GrowCraft/pull/181) |
-| Styling fixes | Medium | [#175](https://github.com/gyanshankar1708/GrowCraft/pull/175) |
-| ## Fixed Issue #146: Footer+Copyright+Back to Top UI Enhancement Proposal | Medium | [#173](https://github.com/gyanshankar1708/GrowCraft/pull/173) |
-| Fix #160: Consistent and properly capitalized titles in Work section | Medium | [#172](https://github.com/gyanshankar1708/GrowCraft/pull/172) |
-| Fixed Navbar | Medium | [#162](https://github.com/gyanshankar1708/GrowCraft/pull/162) |
 
 ---
 
@@ -1813,6 +1850,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Added Dark Mode feature with toggle, fixed header, testimonials & contact section colors. | Easy | [#39](https://github.com/Himanshusk1/GDF/pull/39) |
 | Enhanced the footer #25 | Easy | [#30](https://github.com/Himanshusk1/GDF/pull/30) |
+| Suggestion: Split long homepage content into separate dedicated pages for better structure #42 | Medium | [#61](https://github.com/Himanshusk1/GDF/pull/61) |
+| Navbar Change | Medium | [#60](https://github.com/Himanshusk1/GDF/issues/60) |
+| License | Medium | [#59](https://github.com/Himanshusk1/GDF/issues/59) |
 | Improve Website Color Palette for Better Visual Appeal & Accessibility | Medium | [#58](https://github.com/Himanshusk1/GDF/issues/58) |
 | Thoughtline Loader — Taglines That Speak Before the Page Does | Medium | [#57](https://github.com/Himanshusk1/GDF/pull/57) |
 | Adding Dark Mode | Medium | [#55](https://github.com/Himanshusk1/GDF/issues/55) |
@@ -1826,7 +1866,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Added LICENSE | Medium | [#44](https://github.com/Himanshusk1/GDF/pull/44) |
 | Fixed Contact page | Medium | [#41](https://github.com/Himanshusk1/GDF/pull/41) |
 | Fix Reversed Functionality of Next and Back Buttons in Testimonials | Medium | [#36](https://github.com/Himanshusk1/GDF/pull/36) |
-| Added Dark Mode Toggle Using HTML, CSS, and JavaScript | Medium | [#23](https://github.com/Himanshusk1/GDF/pull/23) |
 
 ---
 
@@ -1844,6 +1883,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing code of conduct for the Fintech project | Medium | [#67](https://github.com/KanishaSharma11/FinTech/issues/67) |
+| feat: add contect us form | Medium | [#66](https://github.com/KanishaSharma11/FinTech/pull/66) |
+| Contribution file | Medium | [#65](https://github.com/KanishaSharma11/FinTech/issues/65) |
 | 🧠 Feature Request: Add Profile Page | Medium | [#64](https://github.com/KanishaSharma11/FinTech/issues/64) |
 | Add "Random Investment Tip of the Day" Feature to Homepage | Medium | [#63](https://github.com/KanishaSharma11/FinTech/issues/63) |
 | Create Interactive Forms — User-friendly Input Experience | Medium | [#62](https://github.com/KanishaSharma11/FinTech/pull/62) |
@@ -1859,9 +1901,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🚫 License Missing from Repository | Medium | [#25](https://github.com/KanishaSharma11/FinTech/issues/25) |
 | Feature Request: Glassmorphism Effect on Cards | Medium | [#24](https://github.com/KanishaSharma11/FinTech/issues/24) |
 | HAVING SEPARATE ROUTES FOR CALCULATORS | Medium | [#23](https://github.com/KanishaSharma11/FinTech/issues/23) |
-| MORE INTERACTION ON HOME PAGE | Medium | [#22](https://github.com/KanishaSharma11/FinTech/issues/22) |
-| Enhancement: UI/UX Upgrade for Fin‑tech‑Tau Homepage | Medium | [#20](https://github.com/KanishaSharma11/FinTech/issues/20) |
-| I would like to add a live link in the README | Medium | [#19](https://github.com/KanishaSharma11/FinTech/issues/19) |
 
 ---
 
@@ -1879,6 +1918,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Improved Error Handling and User Feedback for Attendance Form | Medium | [#33](https://github.com/sachiikrish/AttendanceTracker/issues/33) |
 | The project structure is missing the important data and there is no link in the license | Medium | [#31](https://github.com/sachiikrish/AttendanceTracker/issues/31) |
 | No.of subjects made dynamic | Medium | [#30](https://github.com/sachiikrish/AttendanceTracker/pull/30) |
 | Enhancement: I want to enhance the ui for the page of index.php | Medium | [#29](https://github.com/sachiikrish/AttendanceTracker/issues/29) |
@@ -1914,6 +1954,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
+| Added plan your trip section | Medium | [#43](https://github.com/komalkhatod1105/One-Stop-Guide/pull/43) |
 | Highlight Active City in Navbar Dynamically | Medium | [#42](https://github.com/komalkhatod1105/One-Stop-Guide/issues/42) |
 | Add Admin Panel to Manage City Content (CRUD Functionality) | Medium | [#40](https://github.com/komalkhatod1105/One-Stop-Guide/issues/40) |
 | Add a Code of Conduct to Project | Medium | [#39](https://github.com/komalkhatod1105/One-Stop-Guide/issues/39) |
@@ -1964,6 +2005,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Created student, professor and college admin schema | Medium | [#70](https://github.com/KrishChothani/CKsEdu/pull/70) |
+| Implement Full Profile Page in Mobile App with Attendance, GPA, Achievements & More | Medium | [#69](https://github.com/KrishChothani/CKsEdu/pull/69) |
 | animation-background | Medium | [#68](https://github.com/KrishChothani/CKsEdu/pull/68) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
@@ -2014,6 +2057,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Need validation changes in contact us | Medium | [#98](https://github.com/Varshitha713/CodeCanvas/issues/98) |
 | Add Fade-In Scroll Animation for Page Elements | Medium | [#97](https://github.com/Varshitha713/CodeCanvas/issues/97) |
 | Feature Request: Add Profile Page with Google Sign-In (Firebase Auth) | Medium | [#96](https://github.com/Varshitha713/CodeCanvas/issues/96) |
 | Improve in Navbar | Medium | [#94](https://github.com/Varshitha713/CodeCanvas/issues/94) |
@@ -2032,7 +2076,6 @@ Fast Workflow Tools
 | Enhancement: Add professional footer with site branding, nav links & social icons | Medium | [#58](https://github.com/Varshitha713/CodeCanvas/issues/58) |
 | Added Cat-A-List project to sample data | Medium | [#57](https://github.com/Varshitha713/CodeCanvas/pull/57) |
 | Improve ui/ux of contact page and Responsible in mob | Medium | [#45](https://github.com/Varshitha713/CodeCanvas/issues/45) |
-| Title: 🚧 Navbar Links Not Fully Functional | Medium | [#39](https://github.com/Varshitha713/CodeCanvas/issues/39) |
 
 ---
 
@@ -2263,8 +2306,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Weather-Based Event & Activity Recommendations | Medium | [#132](https://github.com/RAJIV81205/Weather-Blast/issues/132) |
-| Add “Feels Like” Temperature & Comfort Index | Medium | [#131](https://github.com/RAJIV81205/Weather-Blast/issues/131) |
 | Forecast UI | Medium | [#119](https://github.com/RAJIV81205/Weather-Blast/issues/119) |
 
 ---
@@ -2285,14 +2326,12 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | feat: Implement enterprise security - resolve 8 critical vulnerabilities (Fixes #102) | Medium | [#110](https://github.com/shandilya-rajnandini/DocAtHome/pull/110) |
 | voice note feature | Medium | [#107](https://github.com/shandilya-rajnandini/DocAtHome/pull/107) |
-| Add DocAtHome Submodule & Security Cleanup | Medium | [#106](https://github.com/shandilya-rajnandini/DocAtHome/pull/106) |
 | Implement registration flow for Lab Technicians | Medium | [#91](https://github.com/shandilya-rajnandini/DocAtHome/issues/91) |
 | Implement API rate limiting to prevent brute-force attacks | Medium | [#85](https://github.com/shandilya-rajnandini/DocAtHome/issues/85) |
 | Integrate RazorpayX for automated professional payouts | Medium | [#82](https://github.com/shandilya-rajnandini/DocAtHome/issues/82) |
 | Replace "Loading..." text with skeleton loading components | Medium | [#81](https://github.com/shandilya-rajnandini/DocAtHome/issues/81) |
 | Implement real-time, client-side validation on the registration form | Medium | [#80](https://github.com/shandilya-rajnandini/DocAtHome/issues/80) |
 | Create an animated onboarding tour for the Patient Dashboard | Medium | [#79](https://github.com/shandilya-rajnandini/DocAtHome/issues/79) |
-| Implement internationalization (i18n) for the frontend | Hard | [#95](https://github.com/shandilya-rajnandini/DocAtHome/issues/95) |
 | Add an interactive map view to the doctor/nurse search page | Hard | [#94](https://github.com/shandilya-rajnandini/DocAtHome/issues/94) |
 | Design and build the Lab Technician Dashboard | Hard | [#92](https://github.com/shandilya-rajnandini/DocAtHome/issues/92) |
 | Use Socket.IO for real-time ambulance requests | Hard | [#90](https://github.com/shandilya-rajnandini/DocAtHome/issues/90) |
@@ -2317,6 +2356,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Functionality for Save Progress Button | Medium | [#20](https://github.com/RAJVEER42/git-quiz-challenge/issues/20) |
 | Docs: Added MIT License section in README | Medium | [#19](https://github.com/RAJVEER42/git-quiz-challenge/pull/19) |
 | Integrated Flask Backend | Medium | [#17](https://github.com/RAJVEER42/git-quiz-challenge/pull/17) |
 
@@ -2408,11 +2448,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Contact Us page with footer (closes issue #10) | Medium | [#16](https://github.com/SrijaVuppala295/Compassion_Connect/pull/16) |
+| Added payment page(Donate Now) | Medium | [#18](https://github.com/SrijaVuppala295/Compassion_Connect/pull/18) |
+| Added leaderboard page | Medium | [#17](https://github.com/SrijaVuppala295/Compassion_Connect/pull/17) |
 | Add Backend for Login and Signup Functionality | Medium | [#15](https://github.com/SrijaVuppala295/Compassion_Connect/pull/15) |
-| Feature Request: Leaderboard for Compassion Connect | Medium | [#14](https://github.com/SrijaVuppala295/Compassion_Connect/issues/14) |
-| Frontend Feature: Create "Donate Now" Page | Medium | [#13](https://github.com/SrijaVuppala295/Compassion_Connect/issues/13) |
-| Backend: Implement Backend for Fundraising Campaign Creation & Management | Medium | [#12](https://github.com/SrijaVuppala295/Compassion_Connect/issues/12) |
 | changing to dark mode | Medium | [#11](https://github.com/SrijaVuppala295/Compassion_Connect/pull/11) |
 | Create License | Medium | [#9](https://github.com/SrijaVuppala295/Compassion_Connect/pull/9) |
 
@@ -2432,8 +2470,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Proposal: Add Navbar, Footer, and Pause Button to the Game #32 Completed | Easy | [#34](https://github.com/Samrudhipawar/whack-a-mole-game/pull/34) |
 | Enhancement : Updating the game background image | Easy | [#19](https://github.com/Samrudhipawar/whack-a-mole-game/issues/19) |
-| Feature Proposal: Add Navbar, Footer, and Pause Button to the Game #32 Completed | Medium | [#34](https://github.com/Samrudhipawar/whack-a-mole-game/pull/34) |
+| Feature: Achievement badges system | Medium | [#37](https://github.com/Samrudhipawar/whack-a-mole-game/issues/37) |
+| added golden mole feature | Medium | [#36](https://github.com/Samrudhipawar/whack-a-mole-game/pull/36) |
+| Adjusting How to play section | Medium | [#35](https://github.com/Samrudhipawar/whack-a-mole-game/issues/35) |
 
 ---
 
@@ -2549,6 +2590,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add FAQs page and navigation link to improve user experienceAdd FAQs | Medium | [#115](https://github.com/code-well0/trip-planner/pull/115) |
 | feat: Implement profile page and improve navbar routing with enhanced UI/UX | Medium | [#111](https://github.com/code-well0/trip-planner/pull/111) |
 | Update Signup Page | Medium | [#107](https://github.com/code-well0/trip-planner/pull/107) |
 | Improving the plan trip section and improving card style and adding search | Medium | [#104](https://github.com/code-well0/trip-planner/pull/104) |
@@ -2575,7 +2617,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance The Hero Section | Medium | [#66](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/66) |
+| Fixes: #75, Enhances navbar UI | Medium | [#119](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/119) |
+| 🎯 Feature Request: Navbar for HackerZGuide | Medium | [#118](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/118) |
+| 🎨 Enhancement: Professional UI/UX Redesign for HackerZGuide | Medium | [#117](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/117) |
+| 🎨 Enhancement: Dark & Light Mode Support for Theme | Medium | [#116](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/116) |
+| fix wrapping of Resources card | Medium | [#115](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/115) |
+| html page corrected already and space added in topic name of cyber Security | Medium | [#112](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/112) |
 
 ---
 
@@ -2626,6 +2673,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Revert "Revert "update post card"" | Medium | [#613](https://github.com/SumitGorai01/TechieBlog/pull/613) |
 | Updated chat bot with bot press | Medium | [#606](https://github.com/SumitGorai01/TechieBlog/pull/606) |
 | Addition of User Dashboard Page | Medium | [#594](https://github.com/SumitGorai01/TechieBlog/pull/594) |
 | Chatbox Added | Medium | [#587](https://github.com/SumitGorai01/TechieBlog/pull/587) |
@@ -2635,9 +2683,9 @@ Fast Workflow Tools
 | UI Issue: Community Stats Section Overflows on Medium Screens (768px) | Medium | [#577](https://github.com/SumitGorai01/TechieBlog/issues/577) |
 | Enhancement in UI of Contact us Page | Medium | [#573](https://github.com/SumitGorai01/TechieBlog/issues/573) |
 | import all the links and email from .env file | Medium | [#549](https://github.com/SumitGorai01/TechieBlog/issues/549) |
-| Add Rate Limiting to Sensitive Auth Routes | Medium | [#540](https://github.com/SumitGorai01/TechieBlog/pull/540) |
 | Glassy (Frosted Glass) Navbar Branch | Medium | [#539](https://github.com/SumitGorai01/TechieBlog/pull/539) |
 | Feature Request: Implement Feedback Backend Logic | Medium | [#537](https://github.com/SumitGorai01/TechieBlog/issues/537) |
+| Bug in Footer | Medium | [#530](https://github.com/SumitGorai01/TechieBlog/issues/530) |
 
 ---
 
@@ -2688,19 +2736,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance about us page add and fix overflow address in footer section | Medium | [#161](https://github.com/sachiva1/sachiva/issues/161) |
-| Fix Dark Mode Text Visibility in Services Section | Medium | [#160](https://github.com/sachiva1/sachiva/issues/160) |
-| Adjusted Navbar Display which wasn't proper | Medium | [#159](https://github.com/sachiva1/sachiva/pull/159) |
-| Fix Broken Image Link in README.md | Medium | [#158](https://github.com/sachiva1/sachiva/pull/158) |
-| Navbar Button Styling & Hover Effect | Medium | [#157](https://github.com/sachiva1/sachiva/issues/157) |
-| Booking Confirmation Page with Summary | Medium | [#156](https://github.com/sachiva1/sachiva/issues/156) |
-| Show Total Cost Preview in Booking Form | Medium | [#155](https://github.com/sachiva1/sachiva/issues/155) |
-| Flip Service Card on Hover to Show Short Rate | Medium | [#154](https://github.com/sachiva1/sachiva/issues/154) |
-| Make Service Cards Clickable to Open Booking Form | Medium | [#153](https://github.com/sachiva1/sachiva/issues/153) |
-| Add Feedback feature | Medium | [#152](https://github.com/sachiva1/sachiva/issues/152) |
-| Fixed navbar problem + enhanced it! | Medium | [#151](https://github.com/sachiva1/sachiva/pull/151) |
-| UI fixed needed in certain places | Medium | [#150](https://github.com/sachiva1/sachiva/issues/150) |
-| Fix: Added space in 'OUR LATESTBLOG' heading to 'OUR LATEST BLOG' | Medium | [#149](https://github.com/sachiva1/sachiva/pull/149) |
+| Fixed nav bar, updated UI in home page, about page, services page, blog page, and footer. | Medium | [#168](https://github.com/sachiva1/sachiva/pull/168) |
+| Align navbar flush with top to improve UI consistency | Medium | [#167](https://github.com/sachiva1/sachiva/issues/167) |
+| Make a forums page having query  and reply | Medium | [#166](https://github.com/sachiva1/sachiva/issues/166) |
 | Fixed dark mode, logo, and navbar links in service.html | Medium | [#137](https://github.com/sachiva1/sachiva/pull/137) |
 | Updated Contact.html | Medium | [#116](https://github.com/sachiva1/sachiva/pull/116) |
 
@@ -2738,8 +2776,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Created the footer | Medium | [#215](https://github.com/SurajSG23/Job-Portal/pull/215) |
+| Add User Authentication & Profile Management (Client-Side Mock) | Medium | [#212](https://github.com/SurajSG23/Job-Portal/pull/212) |
+| Dynamic navigation enhanced in the pages | Medium | [#209](https://github.com/SurajSG23/Job-Portal/pull/209) |
 | feat(navbar): navbar enhancement | Medium | [#203](https://github.com/SurajSG23/Job-Portal/pull/203) |
-| Fix : Position of "Back-to-Top" Button | Medium | [#152](https://github.com/SurajSG23/Job-Portal/pull/152) |
+| UI Updates: Fixed Navbar Color, Working of Theme Toggle, Footer, and Hamburger Icon Position | Medium | [#131](https://github.com/SurajSG23/Job-Portal/pull/131) |
 
 ---
 
@@ -2811,7 +2852,6 @@ Fast Workflow Tools
 | Home page enchancement | Medium | [#99](https://github.com/vaibhavrajharsh/Music-Player/issues/99) |
 | UI enhancement for volume control button | Medium | [#98](https://github.com/vaibhavrajharsh/Music-Player/issues/98) |
 | Introduce feature of letting user mark favourite song. | Medium | [#97](https://github.com/vaibhavrajharsh/Music-Player/issues/97) |
-| Added "Melody: Music for everyone" in side bar | Medium | [#96](https://github.com/vaibhavrajharsh/Music-Player/pull/96) |
 | Add "Google Translate Widget for Multilingual Support in Music Player" | Medium | [#95](https://github.com/vaibhavrajharsh/Music-Player/issues/95) |
 | feat(player): Enhance player bar UI/UX and fix control button functionality | Medium | [#90](https://github.com/vaibhavrajharsh/Music-Player/pull/90) |
 | Adding foooter and improving UI | Medium | [#88](https://github.com/vaibhavrajharsh/Music-Player/issues/88) |
@@ -2846,24 +2886,6 @@ Fast Workflow Tools
 
 ---
 
-## 📌 Project: Dora-AI-Powered-Virtual-Personal-Assistant
-
-📝 **Description:** DORA is your AI-powered productivity companion designed to simplify your daily life. From task automation to smart reminders and intelligent information search, DORA leverages Generative AI, LLMs, RAG, and Agentic AI to bring you a truly smart virtual assistant experience.
-
-🔗 [View Project](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant)
-
-💻 **Tech Stack:** React, Python, FastAPI, Pinecone DB, LangChain, LangGraph, CrewAI, Eleven Lab, Firebase, Tailwind CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Backend Development - AI Agent Integration | Medium | [#13](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/13) |
-
----
-
 ## 📌 Project: DSA attendance system
 
 📝 **Description:** recently built a lightweight and intuitive Attendance Management System for tracking student presence during Data Structures and Algorithms (DSA) classes. Developed as part of my Web Designing coursework at IIIT Sonepat, this project focuses on clean UI, responsive design, and ease of use.
@@ -2878,6 +2900,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| There is no login page | Medium | [#56](https://github.com/devillikevd/Attendance-Sheet/issues/56) |
+| There is no license in the code | Medium | [#55](https://github.com/devillikevd/Attendance-Sheet/issues/55) |
 | Implementation Plan & Request for Assignment: Email Reminders Feature and motivational quotes | Medium | [#54](https://github.com/devillikevd/Attendance-Sheet/issues/54) |
 | Style Improvement : Enhance Layout and Visual Design in attendance-sheet | Medium | [#53](https://github.com/devillikevd/Attendance-Sheet/issues/53) |
 | There is no login page | Medium | [#52](https://github.com/devillikevd/Attendance-Sheet/issues/52) |
@@ -2905,8 +2929,6 @@ Fast Workflow Tools
 | Add a CONTRIBUTING.md File to the Project | Medium | [#26](https://github.com/devillikevd/Attendance-Sheet/issues/26) |
 | UI Issues — Submit Button Not Working, Feedback Form Not Functional, Dashboard UX Can Be Improved | Medium | [#25](https://github.com/devillikevd/Attendance-Sheet/issues/25) |
 | Email Addresses Are Not Clickable (No mailto or Gmail Integration) | Medium | [#23](https://github.com/devillikevd/Attendance-Sheet/issues/23) |
-| Login Page Not Functioning Properly | Medium | [#22](https://github.com/devillikevd/Attendance-Sheet/issues/22) |
-| Add Favicon to Website | Medium | [#20](https://github.com/devillikevd/Attendance-Sheet/issues/20) |
 
 ---
 
