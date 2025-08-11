@@ -65,7 +65,6 @@
 | Added Contributing.md | Medium | [#20](https://github.com/thedevyashsaini/rusticle/pull/20) |
 | Added Code of Conduct file | Medium | [#19](https://github.com/thedevyashsaini/rusticle/pull/19) |
 | Added License | Medium | [#18](https://github.com/thedevyashsaini/rusticle/pull/18) |
-| ci: add commitlint github action to validate commit messages | Medium | [#17](https://github.com/thedevyashsaini/rusticle/pull/17) |
 | Add ISSUE_TEMPLATE Directory with Bug Report, Feature Request & Question Templates | Medium | [#16](https://github.com/thedevyashsaini/rusticle/issues/16) |
 | Enhancement: Add Support for Arrays/Lists Data Type | Medium | [#12](https://github.com/thedevyashsaini/rusticle/issues/12) |
 | Enhancement: Implement Variable Scoping and Block Scope | Medium | [#7](https://github.com/thedevyashsaini/rusticle/issues/7) |
