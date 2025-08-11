@@ -14,14 +14,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Mutiple enhancements in Contact page | Medium | [#226](https://github.com/Amarjha01/InfantCareCompass/pull/226) |
+| Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
 | Enhance Footer UI for Improved Aesthetics & Usability | Medium | [#220](https://github.com/Amarjha01/InfantCareCompass/pull/220) |
 | Multimedia Q&A Feature for Patients and Doctors | Medium | [#216](https://github.com/Amarjha01/InfantCareCompass/pull/216) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Featured Article UI Fixed | Medium | [#211](https://github.com/Amarjha01/InfantCareCompass/pull/211) |
 | added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
-| Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
-| Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 
 ---
 
@@ -39,6 +39,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Inconsistent Layout in diet planner page fixed | Medium | [#174](https://github.com/Ayushjhawar8/Flavor-ai/pull/174) |
+| Diet page footer | Medium | [#173](https://github.com/Ayushjhawar8/Flavor-ai/pull/173) |
+| FEAT : Add a "Cursor Trail Effect " Matching to the Website | Medium | [#172](https://github.com/Ayushjhawar8/Flavor-ai/issues/172) |
+| Missing Validation for API Keys in .env | Medium | [#171](https://github.com/Ayushjhawar8/Flavor-ai/issues/171) |
 | Footer text visibility issue in dark mode | Medium | [#170](https://github.com/Ayushjhawar8/Flavor-ai/issues/170) |
 | Advanced Recipe Search and Filter System | Medium | [#169](https://github.com/Ayushjhawar8/Flavor-ai/issues/169) |
 | Comprehensive Recipe Rating and Review System | Medium | [#168](https://github.com/Ayushjhawar8/Flavor-ai/issues/168) |
@@ -69,6 +73,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: Dark/Light Mode Toggle Implementation | Medium | [#39](https://github.com/kanikaa-3018/contest_onlinejudge/pull/39) |
 | improvement needed in dashboard section | Medium | [#38](https://github.com/kanikaa-3018/contest_onlinejudge/issues/38) |
 | Hovering & Button Text Visibility Bug in Peer Rooms Cards | Medium | [#37](https://github.com/kanikaa-3018/contest_onlinejudge/issues/37) |
 | Enhance Login & Register UI with Social Login, Password UX, and Modern Design | Medium | [#36](https://github.com/kanikaa-3018/contest_onlinejudge/issues/36) |
@@ -99,6 +104,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Dark Mode Bug – Form Section Background Remains Light in Dark Mode | Medium | [#221](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/221) |
+| Added a response interview interface | Medium | [#220](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/220) |
+| Addition of Contact Page in Contact team for guidance section.. | Medium | [#219](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/219) |
+| Added student progress tracker dashboard Feature | Medium | [#218](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/218) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 | 📁 Add Firebase or Local JSON Backend Support | Hard | [#18](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/18) |
 
@@ -141,6 +150,8 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Add a Profile Page for AI Chatbot | Medium | [#21](https://github.com/revxi/Jeanne-AI-Chatbot-Project/issues/21) |
+| Added firebase auth with google sign in | Medium | [#20](https://github.com/revxi/Jeanne-AI-Chatbot-Project/pull/20) |
 | Enhanced Error Handling & Stability Improvements | Medium | [#19](https://github.com/revxi/Jeanne-AI-Chatbot-Project/pull/19) |
 
 ---
@@ -161,6 +172,8 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ⚠️ Improve Error Handling for Invalid Queries — (GSSoC 2025) | Medium | [#11](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/11) |
+| Add New Sample CSV File (GSSoC 2025) | Medium | [#10](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/10) |
 | 🚨 Fix SQL Injection Vulnerability by Implementing Parameterized Queries | Medium | [#9](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/9) |
 | Add Basic Error Handling for Invalid Queries in Chatbot | Medium | [#8](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/8) |
 | Add Basic Test Script for Chatbot | Medium | [#7](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/7) |
