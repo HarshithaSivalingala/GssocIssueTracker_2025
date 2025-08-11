@@ -14,14 +14,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Mutiple enhancements in Contact page | Medium | [#226](https://github.com/Amarjha01/InfantCareCompass/pull/226) |
+| Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
 | Enhance Footer UI for Improved Aesthetics & Usability | Medium | [#220](https://github.com/Amarjha01/InfantCareCompass/pull/220) |
 | Multimedia Q&A Feature for Patients and Doctors | Medium | [#216](https://github.com/Amarjha01/InfantCareCompass/pull/216) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Featured Article UI Fixed | Medium | [#211](https://github.com/Amarjha01/InfantCareCompass/pull/211) |
 | added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
-| Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
-| Fix: Footer Policy Links Functionality | Medium | [#174](https://github.com/Amarjha01/InfantCareCompass/pull/174) |
 
 ---
 
@@ -41,10 +41,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add debouncing when updating username | Medium | [#75](https://github.com/Bavanetha27/Refixly/issues/75) |
-| feat: add custom cursor animation for interactive UI elements | Medium | [#74](https://github.com/Bavanetha27/Refixly/pull/74) |
-| Critical Security Flaw: Protected Pages Accessible Without Login | Medium | [#73](https://github.com/Bavanetha27/Refixly/issues/73) |
-| Text Contrast Issues Across the App — Needs UI Cleanup | Medium | [#64](https://github.com/Bavanetha27/Refixly/issues/64) |
+| UI Cleanup — Improved Text Contrast Across the App (#64) | Medium | [#77](https://github.com/Bavanetha27/Refixly/pull/77) |
 | Establish foundational project structure: add README, CI pipeline, linting and testing framework | Medium | [#42](https://github.com/Bavanetha27/Refixly/issues/42) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
@@ -65,6 +62,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Harden Backend Routes — Authentication, Validation & Consistency Improvements | Medium | [#25](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/25) |
 | Added 404 and global error handling | Medium | [#24](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/24) |
 
 ---
@@ -120,6 +118,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add confidence score display for waste classification predictions | Medium | [#46](https://github.com/AditixAnand/Garbage_Classification/pull/46) |
 | Missing model_efficientnet.h5 file needed to run the project | Medium | [#38](https://github.com/AditixAnand/Garbage_Classification/issues/38) |
 
 ---
