@@ -39,23 +39,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Recipe Cost Calculator | Medium | [#177](https://github.com/Ayushjhawar8/Flavor-ai/pull/177) |
+| Added favorite button to dish detail page | Medium | [#176](https://github.com/Ayushjhawar8/Flavor-ai/pull/176) |
 | Inconsistent Layout in diet planner page fixed | Medium | [#174](https://github.com/Ayushjhawar8/Flavor-ai/pull/174) |
-| Diet page footer | Medium | [#173](https://github.com/Ayushjhawar8/Flavor-ai/pull/173) |
-| FEAT : Add a "Cursor Trail Effect " Matching to the Website | Medium | [#172](https://github.com/Ayushjhawar8/Flavor-ai/issues/172) |
-| Missing Validation for API Keys in .env | Medium | [#171](https://github.com/Ayushjhawar8/Flavor-ai/issues/171) |
-| Footer text visibility issue in dark mode | Medium | [#170](https://github.com/Ayushjhawar8/Flavor-ai/issues/170) |
-| Advanced Recipe Search and Filter System | Medium | [#169](https://github.com/Ayushjhawar8/Flavor-ai/issues/169) |
-| Comprehensive Recipe Rating and Review System | Medium | [#168](https://github.com/Ayushjhawar8/Flavor-ai/issues/168) |
-| AI-Powered Recipe Recommendation Engine | Medium | [#167](https://github.com/Ayushjhawar8/Flavor-ai/issues/167) |
-| Advanced Meal Planning System | Medium | [#166](https://github.com/Ayushjhawar8/Flavor-ai/issues/166) |
-| 🛒 Recipe Cost Calculator | Medium | [#165](https://github.com/Ayushjhawar8/Flavor-ai/issues/165) |
-| Fix:- WRONG PULL REQUEST MERGED | Medium | [#164](https://github.com/Ayushjhawar8/Flavor-ai/pull/164) |
-| Enhanced the Skeleton UI of random recepie page | Medium | [#156](https://github.com/Ayushjhawar8/Flavor-ai/pull/156) |
 | Fix: Footer stays at bottom of page (#46) | Medium | [#150](https://github.com/Ayushjhawar8/Flavor-ai/pull/150) |
 | Grocery integration | Hard | [#163](https://github.com/Ayushjhawar8/Flavor-ai/pull/163) |
-| Multilingual Support | Hard | [#162](https://github.com/Ayushjhawar8/Flavor-ai/pull/162) |
-| Fixed Font colors not visible on dark theme | Hard | [#161](https://github.com/Ayushjhawar8/Flavor-ai/pull/161) |
-| Added dietary filter (Veg, Non-Veg, All) | Hard | [#154](https://github.com/Ayushjhawar8/Flavor-ai/pull/154) |
 
 ---
 
@@ -73,6 +61,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Peer Room Chat + Collaboration | Medium | [#40](https://github.com/kanikaa-3018/contest_onlinejudge/issues/40) |
 | fix: Dark/Light Mode Toggle Implementation | Medium | [#39](https://github.com/kanikaa-3018/contest_onlinejudge/pull/39) |
 | improvement needed in dashboard section | Medium | [#38](https://github.com/kanikaa-3018/contest_onlinejudge/issues/38) |
 | Hovering & Button Text Visibility Bug in Peer Rooms Cards | Medium | [#37](https://github.com/kanikaa-3018/contest_onlinejudge/issues/37) |
@@ -104,10 +93,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dark Mode Bug – Form Section Background Remains Light in Dark Mode | Medium | [#221](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/221) |
-| Added a response interview interface | Medium | [#220](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/220) |
-| Addition of Contact Page in Contact team for guidance section.. | Medium | [#219](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/219) |
-| Added student progress tracker dashboard Feature | Medium | [#218](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/218) |
+| Real-Time Speech-to-Text Integration for Interview Page using Web Speech API | Medium | [#224](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/224) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 | 📁 Add Firebase or Local JSON Backend Support | Hard | [#18](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/18) |
 
@@ -150,9 +136,7 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Request: Add a Profile Page for AI Chatbot | Medium | [#21](https://github.com/revxi/Jeanne-AI-Chatbot-Project/issues/21) |
 | Added firebase auth with google sign in | Medium | [#20](https://github.com/revxi/Jeanne-AI-Chatbot-Project/pull/20) |
-| Enhanced Error Handling & Stability Improvements | Medium | [#19](https://github.com/revxi/Jeanne-AI-Chatbot-Project/pull/19) |
 
 ---
 
@@ -205,25 +189,6 @@ Why Jeanne?
 
 ---
 
-## 📌 Project: Dev Resumes AI
-
-📝 **Description:** DevResume.AI is a modern, drag-and-drop resume builder powered by AI. Generate perfectly structured, ATS-compliant resumes with smart bullet points, summaries, and beautiful designs  all in your browser.
-
-🔗 [View Project](https://github.com/Anasmalik57/Dev-Resume-AI)
-
-💻 **Tech Stack:** React, Vite, Tailwind CSS, Framer Motion, html2pdf.js, Node.js, Express.js, OpenAI API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Create CONTRIBUTING.md | Medium | [#8](https://github.com/Anasmalik57/Dev-Resume-AI/pull/8) |
-| Added  CODE_OF_CONDUCT.md | Medium | [#6](https://github.com/Anasmalik57/Dev-Resume-AI/pull/6) |
-
----
-
 ## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
 
 📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
@@ -239,6 +204,8 @@ Why Jeanne?
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| feat: add /api/leaderboard/devs endpoint for regular contributors | Medium | [#64](https://github.com/Promptzy/Nexara/pull/64) |
+| Leaderborad Creation | Medium | [#63](https://github.com/Promptzy/Nexara/pull/63) |
 | enhanced HomeContent | Medium | [#62](https://github.com/Promptzy/Nexara/pull/62) |
 
 ---
