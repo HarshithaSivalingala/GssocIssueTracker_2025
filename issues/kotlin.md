@@ -135,7 +135,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
+| Implement API for Role-Based Shop Creation | Medium | [#353](https://github.com/yuvrajsinghgmx/ShopSmart/pull/353) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
@@ -154,11 +154,9 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BookMark Repositories | Medium | [#21](https://github.com/Ajay-patidar0/GitSearch/issues/21) |
-| AutoComplete | Medium | [#20](https://github.com/Ajay-patidar0/GitSearch/issues/20) |
+| AutoComplete | Medium | [#23](https://github.com/Ajay-patidar0/GitSearch/pull/23) |
 | Private Repositories | Medium | [#19](https://github.com/Ajay-patidar0/GitSearch/issues/19) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
-| SplashScreen Improvements | Medium | [#14](https://github.com/Ajay-patidar0/GitSearch/issues/14) |
 | Enhance UI/UX. | Medium | [#13](https://github.com/Ajay-patidar0/GitSearch/pull/13) |
 | There is no license in the readme | Medium | [#11](https://github.com/Ajay-patidar0/GitSearch/issues/11) |
 
