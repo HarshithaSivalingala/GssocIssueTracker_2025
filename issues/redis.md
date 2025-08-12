@@ -90,6 +90,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| feat: add /api/leaderboard/devs endpoint for regular contributors | Medium | [#64](https://github.com/Promptzy/Nexara/pull/64) |
+| Leaderborad Creation | Medium | [#63](https://github.com/Promptzy/Nexara/pull/63) |
 | enhanced HomeContent | Medium | [#62](https://github.com/Promptzy/Nexara/pull/62) |
 
 ---
@@ -108,6 +110,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| deployment | Medium | [#35](https://github.com/vinit105/ideaVault/issues/35) |
 | Intgrate routesof submitideas, terms and conditions and privacy policy | Medium | [#34](https://github.com/vinit105/ideaVault/issues/34) |
 | 🌐 Feature Request: Public Idea Registry with Filters and Tags | Medium | [#1](https://github.com/vinit105/ideaVault/issues/1) |
 
