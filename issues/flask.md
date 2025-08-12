@@ -23,6 +23,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
 | UI Enhancements for Login Page | Medium | [#51](https://github.com/Menthub-GSSoC/Menthub/issues/51) |
 | ⚙️:ML Matching: Profile-Based Recommendation using Scikit-learn | Medium | [#50](https://github.com/Menthub-GSSoC/Menthub/issues/50) |
@@ -180,10 +181,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dark Mode Bug – Form Section Background Remains Light in Dark Mode | Medium | [#221](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/221) |
-| Added a response interview interface | Medium | [#220](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/220) |
-| Addition of Contact Page in Contact team for guidance section.. | Medium | [#219](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/219) |
-| Added student progress tracker dashboard Feature | Medium | [#218](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/218) |
+| Real-Time Speech-to-Text Integration for Interview Page using Web Speech API | Medium | [#224](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/224) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 | 📁 Add Firebase or Local JSON Backend Support | Hard | [#18](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/18) |
 
@@ -203,14 +201,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding  Farmer Forums #5 | Medium | [#122](https://github.com/omroy07/AgriTech/pull/122) |
+| Add "Back to Home" button on login and register pages | Medium | [#124](https://github.com/omroy07/AgriTech/issues/124) |
 | UI Enhancement: Footer Layout & Alignment Improvements | Medium | [#121](https://github.com/omroy07/AgriTech/issues/121) |
 | Carousel Not Looping After Last Image | Medium | [#120](https://github.com/omroy07/AgriTech/issues/120) |
 | The Login Page is currently not responsive across all viewports. On smaller screens (e.g., mobile devices), layout elements appear misaligned, and some components may overflow or become difficult to interact with. | Medium | [#119](https://github.com/omroy07/AgriTech/issues/119) |
 | Resolved UI/UX Enhancements | Medium | [#118](https://github.com/omroy07/AgriTech/pull/118) |
-| Integrated Gemini API for Smart Loan Eligibility Evaluation | Medium | [#117](https://github.com/omroy07/AgriTech/pull/117) |
 | Proper File Structure needed | Medium | [#115](https://github.com/omroy07/AgriTech/issues/115) |
-| Update styles on login.html page | Medium | [#113](https://github.com/omroy07/AgriTech/issues/113) |
 | fix: Add navigation button from Labour Scheduling & Alerts to Main Page | Medium | [#112](https://github.com/omroy07/AgriTech/pull/112) |
 | Adding contact page | Medium | [#108](https://github.com/omroy07/AgriTech/issues/108) |
 | Added logout confirmation popup | Medium | [#107](https://github.com/omroy07/AgriTech/pull/107) |
@@ -239,6 +235,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📄 Add deployed live app link to README | Medium | [#26](https://github.com/EmailScript/EmailScript/pull/26) |
 | Added code_of_conduct.md file | Medium | [#25](https://github.com/EmailScript/EmailScript/pull/25) |
 | UI Revamp: Modern, Accessible & Responsive Design for Email Checker Interface | Medium | [#24](https://github.com/EmailScript/EmailScript/issues/24) |
 | 🚀 Add Loading Spinner During Email Validation API Call | Medium | [#23](https://github.com/EmailScript/EmailScript/issues/23) |
@@ -270,13 +267,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| News Article Page to Show News | Medium | [#205](https://github.com/openml-stack/SentiLog-AI/issues/205) |
-| News Listing Page with Emotion Filter | Medium | [#204](https://github.com/openml-stack/SentiLog-AI/issues/204) |
+| Improve Login Page UI/UX | Easy | [#201](https://github.com/openml-stack/SentiLog-AI/issues/201) |
+| Fix: Improve Sign-Up Page UI | Medium | [#208](https://github.com/openml-stack/SentiLog-AI/pull/208) |
+| Dark theme styling appearing in light mode for this section | Medium | [#207](https://github.com/openml-stack/SentiLog-AI/issues/207) |
 | Enhance/userprofile | Medium | [#203](https://github.com/openml-stack/SentiLog-AI/pull/203) |
-| Add new bias classification model | Medium | [#202](https://github.com/openml-stack/SentiLog-AI/issues/202) |
-| Improve Login Page UI/UX & Functionality | Medium | [#201](https://github.com/openml-stack/SentiLog-AI/issues/201) |
 | Mood Insights – Feature Enhancement for User Profile Page | Medium | [#199](https://github.com/openml-stack/SentiLog-AI/issues/199) |
-| Issue Request: Mood Detection from Journal | Medium | [#198](https://github.com/openml-stack/SentiLog-AI/issues/198) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
 | Feature Request: Add Emoji Mood Selector in Journal Section | Medium | [#195](https://github.com/openml-stack/SentiLog-AI/issues/195) |
 | 🧠 Feature Request: Media Bias Detection & Balanced Opinion Support | Medium | [#193](https://github.com/openml-stack/SentiLog-AI/issues/193) |
@@ -291,7 +286,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Added bias detection ML API with routes, preprocessing, and app | Medium | [#176](https://github.com/openml-stack/SentiLog-AI/pull/176) |
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
 | Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
-| fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
+| News Article Page to Show News | Hard | [#205](https://github.com/openml-stack/SentiLog-AI/issues/205) |
+| News Listing Page with Emotion Filter | Hard | [#204](https://github.com/openml-stack/SentiLog-AI/issues/204) |
+| Add new bias classification model | Hard | [#202](https://github.com/openml-stack/SentiLog-AI/issues/202) |
+| Issue Request: Mood Detection from Journal | Hard | [#198](https://github.com/openml-stack/SentiLog-AI/issues/198) |
 
 ---
 
@@ -309,6 +307,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Need improvement in footer section. | Medium | [#101](https://github.com/aayushraj1010/med-genie/issues/101) |
+| Add Home Section in navbar. | Medium | [#100](https://github.com/aayushraj1010/med-genie/issues/100) |
+| Need improvement in About section | Medium | [#99](https://github.com/aayushraj1010/med-genie/issues/99) |
+| impreved the about page and add important section in it | Medium | [#98](https://github.com/aayushraj1010/med-genie/pull/98) |
 | Feature Request: Add Image Upload Option in Chat Input | Medium | [#97](https://github.com/aayushraj1010/med-genie/issues/97) |
 | Enhancement: Improve register button placement and add icons (Resolves #94) | Medium | [#96](https://github.com/aayushraj1010/med-genie/pull/96) |
 | Implement persistent chat history (Closes #49) | Medium | [#95](https://github.com/aayushraj1010/med-genie/pull/95) |
@@ -323,7 +325,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Add Push Notifications for Emergency Alerts | Medium | [#77](https://github.com/aayushraj1010/med-genie/issues/77) |
 | <Feature> Add multilingual support to Med AI Web App | Medium | [#76](https://github.com/aayushraj1010/med-genie/issues/76) |
 | <Feature> Allow users to send medicine photos for AI-based medical info | Medium | [#75](https://github.com/aayushraj1010/med-genie/issues/75) |
-| Enhance Med Genie UI: Custom Robot Avatar, Typing Indicator, and Branding Improvements | Medium | [#45](https://github.com/aayushraj1010/med-genie/pull/45) |
 
 ---
 
@@ -341,12 +342,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Migrate Styles to Tailwind CSS | Medium | [#6](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/6) |
-| Improve Form Management with React Hook Form | Medium | [#5](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/5) |
-| Add Learn.md file to the repository | Medium | [#4](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/4) |
-| Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/3) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#2](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/2) |
-| 🚫 License Missing from Repository | Medium | [#1](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/1) |
+| Added Contributing.md | Medium | [#12](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/12) |
+| Added Code of Conduct | Medium | [#11](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/11) |
+| Added LICENSE | Medium | [#10](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/10) |
+| Add Virtual Environment Setup | Medium | [#9](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/9) |
+| Add Guide for setting up a Python Virtual Environment for backend dependencies in Projects's README.md | Medium | [#8](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/8) |
+| Migrate Frontend from Create React App to Vite | Medium | [#7](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/7) |
 
 ---
 
@@ -384,7 +385,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Created student, professor and college admin schema | Medium | [#70](https://github.com/KrishChothani/CKsEdu/pull/70) |
 | Implement Full Profile Page in Mobile App with Attendance, GPA, Achievements & More | Medium | [#69](https://github.com/KrishChothani/CKsEdu/pull/69) |
 | animation-background | Medium | [#68](https://github.com/KrishChothani/CKsEdu/pull/68) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
@@ -410,6 +410,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Code of conduct is missing in the code | Medium | [#20](https://github.com/madegowda11/online-voting-system/issues/20) |
 | Add README.md file to provide basic project overview and setup instructions | Medium | [#19](https://github.com/madegowda11/online-voting-system/issues/19) |
 
 ---
@@ -428,6 +429,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Hamburger icon problem fix | Medium | [#24](https://github.com/AKing-283/Rewear/pull/24) |
 | Updated navbar: added Add Item and Dashboard links, improved layout | Medium | [#15](https://github.com/AKing-283/Rewear/pull/15) |
 
 ---
