@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| middleware-and-protected-routes-for-user | Medium | [#60](https://github.com/Abhinavhaldiya/FinPilot/pull/60) |
 | feat: update login page with SVG wave background | Medium | [#59](https://github.com/Abhinavhaldiya/FinPilot/pull/59) |
 | An issue occurs | Medium | [#57](https://github.com/Abhinavhaldiya/FinPilot/issues/57) |
 | solved warning and removed the pakage manager outside the server and … | Medium | [#55](https://github.com/Abhinavhaldiya/FinPilot/pull/55) |
@@ -53,6 +54,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
 | UI Enhancements for Login Page | Medium | [#51](https://github.com/Menthub-GSSoC/Menthub/issues/51) |
 | ⚙️:ML Matching: Profile-Based Recommendation using Scikit-learn | Medium | [#50](https://github.com/Menthub-GSSoC/Menthub/issues/50) |
@@ -88,12 +90,12 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Responsiveness | Medium | [#527](https://github.com/HarshS16/Civix/issues/527) |
-| make Voting & Polling page functional via localStorage | Medium | [#526](https://github.com/HarshS16/Civix/issues/526) |
-| Add user feedback form on homepage | Medium | [#525](https://github.com/HarshS16/Civix/issues/525) |
-| Feat/improve navbar layout | Medium | [#523](https://github.com/HarshS16/Civix/pull/523) |
-| Add PDF Download Option After Reporting an Issue | Medium | [#504](https://github.com/HarshS16/Civix/issues/504) |
-| Improve FAQ UI and Smoothness with Animated Expand/Collapse | Medium | [#374](https://github.com/HarshS16/Civix/pull/374) |
+| Want to improve the features section | Medium | [#539](https://github.com/HarshS16/Civix/issues/539) |
+| Want to improve the chatbot | Medium | [#538](https://github.com/HarshS16/Civix/issues/538) |
+| Minor alignment Fix | Medium | [#537](https://github.com/HarshS16/Civix/issues/537) |
+| issue #525 Add user feedback form on homepage | Medium | [#536](https://github.com/HarshS16/Civix/pull/536) |
+| Enhancement of Voting Page | Medium | [#535](https://github.com/HarshS16/Civix/issues/535) |
+| Voting page is now functional | Medium | [#533](https://github.com/HarshS16/Civix/pull/533) |
 
 ---
 
@@ -113,11 +115,13 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
+| Improved Landing page UI | Medium | [#301](https://github.com/Muneerali199/DocMagic/pull/301) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 13 updates | Medium | [#300](https://github.com/Muneerali199/DocMagic/pull/300) |
 | Fixed Mail issue in ui . | Medium | [#299](https://github.com/Muneerali199/DocMagic/pull/299) |
 | Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 | chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
 | chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
-| chore(deps): bump the minor-and-patch group with 11 updates | Medium | [#286](https://github.com/Muneerali199/DocMagic/pull/286) |
 | chore(deps): bump nodemailer from 6.10.1 to 7.0.5 | Medium | [#285](https://github.com/Muneerali199/DocMagic/pull/285) |
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
@@ -147,7 +151,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Privacy Policy, Terms & Conditions, and Contact Page (Content + UI) | Easy | [#77](https://github.com/Er-luffy-D/SimplifAI/issues/77) |
 | Vmpranav/rag implementation | Medium | [#76](https://github.com/Er-luffy-D/SimplifAI/pull/76) |
 
 ---
@@ -340,6 +343,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| feat: add /api/leaderboard/devs endpoint for regular contributors | Medium | [#64](https://github.com/Promptzy/Nexara/pull/64) |
+| Leaderborad Creation | Medium | [#63](https://github.com/Promptzy/Nexara/pull/63) |
 | enhanced HomeContent | Medium | [#62](https://github.com/Promptzy/Nexara/pull/62) |
 
 ---
@@ -359,9 +364,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | My Registrations button not working | Medium | [#68](https://github.com/SandeepVashishtha/Eventra/issues/68) |
-| Navbar should show profile picture and edit profile after login | Medium | [#67](https://github.com/SandeepVashishtha/Eventra/issues/67) |
 | Create a Global Theme / Design System | Medium | [#35](https://github.com/SandeepVashishtha/Eventra/issues/35) |
-| Create login and signup page | Medium | [#8](https://github.com/SandeepVashishtha/Eventra/issues/8) |
 
 ---
 
@@ -406,10 +409,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| enhance UI of sign in and sign up page | Easy | [#31](https://github.com/vatsal-bhakodia/smriti-ai/issues/31) |
-| Add contributors tab | Medium | [#60](https://github.com/vatsal-bhakodia/smriti-ai/pull/60) |
+| Enhanced Sign-In/Sign-Up UI | Medium | [#63](https://github.com/vatsal-bhakodia/smriti-ai/pull/63) |
 | Add a "Blogs" Page to Smriti AI | Medium | [#27](https://github.com/vatsal-bhakodia/smriti-ai/issues/27) |
 | Add PDF Support to Resource Summary API | Medium | [#11](https://github.com/vatsal-bhakodia/smriti-ai/issues/11) |
+| Create a Feature to Assign Levels Based on User Performance | Medium | [#9](https://github.com/vatsal-bhakodia/smriti-ai/issues/9) |
 | Upload mp4 | Medium | [#2](https://github.com/vatsal-bhakodia/smriti-ai/issues/2) |
 
 ---
