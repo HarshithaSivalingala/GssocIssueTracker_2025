@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added reset password verification (only registered users can reset) | Medium | [#50](https://github.com/HimanshuHeda/Zip_Tales/pull/50) |
 | Improve Notification UX | Medium | [#49](https://github.com/HimanshuHeda/Zip_Tales/issues/49) |
 | Add Hover/Click Animations to Bookmark and Follow Icons | Medium | [#48](https://github.com/HimanshuHeda/Zip_Tales/issues/48) |
 | Add Ethereum Smart Contract for News Authenticity Verification | Medium | [#47](https://github.com/HimanshuHeda/Zip_Tales/issues/47) |
@@ -76,11 +77,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
+| Improved Landing page UI | Medium | [#301](https://github.com/Muneerali199/DocMagic/pull/301) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 13 updates | Medium | [#300](https://github.com/Muneerali199/DocMagic/pull/300) |
 | Fixed Mail issue in ui . | Medium | [#299](https://github.com/Muneerali199/DocMagic/pull/299) |
 | Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 | chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
 | chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
-| chore(deps): bump the minor-and-patch group with 11 updates | Medium | [#286](https://github.com/Muneerali199/DocMagic/pull/286) |
 | chore(deps): bump nodemailer from 6.10.1 to 7.0.5 | Medium | [#285](https://github.com/Muneerali199/DocMagic/pull/285) |
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
@@ -157,8 +160,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Raise funding, need support to document the process | Easy | [#52](https://github.com/LarytheLord/Adventurers-Guild/issues/52) |
-| Added Activity Heatmap idea | Medium | [#60](https://github.com/LarytheLord/Adventurers-Guild/pull/60) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
@@ -178,6 +179,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Tools Page theme does not toggle with light-darkmode | Medium | [#26](https://github.com/Jyotibrat/AI-Flow/issues/26) |
 | Fix : Added XSS sanitization | Medium | [#25](https://github.com/Jyotibrat/AI-Flow/pull/25) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
