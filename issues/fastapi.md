@@ -40,6 +40,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create GitHub Discussion for Known Issues and Limitations | Easy | [#106](https://github.com/Devasy23/splitwiser/issues/106) |
+| Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
+| Add Settle Up screen | Medium | [#136](https://github.com/Devasy23/splitwiser/pull/136) |
 | Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
 | Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
 | Fix/multiple UI issues | Medium | [#131](https://github.com/Devasy23/splitwiser/pull/131) |
@@ -48,14 +50,9 @@
 | fix(web): Fix web build error with React 19 | Medium | [#122](https://github.com/Devasy23/splitwiser/pull/122) |
 | feat: Migrate to Material 3 with dynamic theming | Medium | [#120](https://github.com/Devasy23/splitwiser/pull/120) |
 | Group Name Validation Enhancement | Medium | [#115](https://github.com/Devasy23/splitwiser/pull/115) |
-| Implement UI Consistency and Design System Standards | Medium | [#109](https://github.com/Devasy23/splitwiser/issues/109) |
-| Add Google Sign-Up Integration to feat/group-creation Branch | Medium | [#108](https://github.com/Devasy23/splitwiser/issues/108) |
 | Support Multiple Payers for Single Expense | Medium | [#104](https://github.com/Devasy23/splitwiser/issues/104) |
 | Implement Native Unequal Split Options in API | Medium | [#103](https://github.com/Devasy23/splitwiser/issues/103) |
 | update on : Enhance Authentication Security with Rate Limiting and Input Validation #61 | Medium | [#101](https://github.com/Devasy23/splitwiser/pull/101) |
-| Visibility and Styling of  Onboarding Screen ;Bug in verify acess_toke logic | Medium | [#100](https://github.com/Devasy23/splitwiser/issues/100) |
-| Feat/new material 3 branch | Medium | [#99](https://github.com/Devasy23/splitwiser/pull/99) |
-| Add rate limiting with user and endpoint-specific limits | Medium | [#98](https://github.com/Devasy23/splitwiser/pull/98) |
 
 ---
 
@@ -73,7 +70,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated the Supervised Module | Medium | [#45](https://github.com/manasvi-0/AlgoLab/pull/45) |
 | Video file plus images used in knn_thoery file | Medium | [#42](https://github.com/manasvi-0/AlgoLab/pull/42) |
 | Feature Request: Add a Section to Visualize Data Preprocessing for ML Algorithms | Medium | [#41](https://github.com/manasvi-0/AlgoLab/issues/41) |
 | Adding KNN visualization files | Medium | [#39](https://github.com/manasvi-0/AlgoLab/pull/39) |
@@ -100,10 +96,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dark Mode Bug – Form Section Background Remains Light in Dark Mode | Medium | [#221](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/221) |
-| Added a response interview interface | Medium | [#220](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/220) |
-| Addition of Contact Page in Contact team for guidance section.. | Medium | [#219](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/219) |
-| Added student progress tracker dashboard Feature | Medium | [#218](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/218) |
+| Real-Time Speech-to-Text Integration for Interview Page using Web Speech API | Medium | [#224](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/224) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 | 📁 Add Firebase or Local JSON Backend Support | Hard | [#18](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/18) |
 
@@ -123,15 +116,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-|  | Medium | [#88](https://github.com/whyvineet/orthoplay/issues/88) |
-| Responsive Navigation on Tablets | Medium | [#87](https://github.com/whyvineet/orthoplay/pull/87) |
-| Navigation Menu Overlap on Tablet View | Medium | [#86](https://github.com/whyvineet/orthoplay/issues/86) |
-| Add a Pass and Play Feature | Medium | [#85](https://github.com/whyvineet/orthoplay/issues/85) |
-| Add "Demo Round" Button to HowToPlay Page | Medium | [#84](https://github.com/whyvineet/orthoplay/issues/84) |
-| UX Enhancement: Add "Play Again" and "Go Home" buttons on result screen to improve user engagement and navigation flow | Medium | [#83](https://github.com/whyvineet/orthoplay/issues/83) |
-|  | Medium | [#82](https://github.com/whyvineet/orthoplay/issues/82) |
+| Enhance the Footer design. | Medium | [#90](https://github.com/whyvineet/orthoplay/issues/90) |
+| Improve Hompage  Layout | Medium | [#89](https://github.com/whyvineet/orthoplay/issues/89) |
 | Updated Readme | Medium | [#81](https://github.com/whyvineet/orthoplay/issues/81) |
-| Enhance UI for about page | Medium | [#78](https://github.com/whyvineet/orthoplay/issues/78) |
 | Add Timed Challenge Mode with Countdown and Scoring | Medium | [#73](https://github.com/whyvineet/orthoplay/pull/73) |
 | Add Points-Based Scoring to Improve Gameplay | Medium | [#69](https://github.com/whyvineet/orthoplay/pull/69) |
 | feat: add difficulty level popup options(Easy,Medium,Hard) | Medium | [#41](https://github.com/whyvineet/orthoplay/pull/41) |
@@ -155,14 +142,15 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| deps(deps): bump lucide-react from 0.525.0 to 0.536.0 in /optiblogai-site | Medium | [#67](https://github.com/solve-ease/OptiBlogAi/pull/67) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.4.5 in /optiblogai-site | Medium | [#66](https://github.com/solve-ease/OptiBlogAi/pull/66) |
-| deps(deps-dev): bump eslint from 9.31.0 to 9.32.0 in /optiblogai-site | Medium | [#65](https://github.com/solve-ease/OptiBlogAi/pull/65) |
+| deps(deps): bump certifi from 2025.1.31 to 2025.8.3 | Medium | [#75](https://github.com/solve-ease/OptiBlogAi/pull/75) |
+| deps(deps-dev): bump eslint from 9.31.0 to 9.33.0 in /optiblogai-site | Medium | [#74](https://github.com/solve-ease/OptiBlogAi/pull/74) |
+| deps(deps): bump next from 15.4.1 to 15.4.6 in /optiblogai-site | Medium | [#73](https://github.com/solve-ease/OptiBlogAi/pull/73) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.2.1 in /optiblogai-site | Medium | [#72](https://github.com/solve-ease/OptiBlogAi/pull/72) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.539.0 in /optiblogai-site | Medium | [#71](https://github.com/solve-ease/OptiBlogAi/pull/71) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.4.6 in /optiblogai-site | Medium | [#70](https://github.com/solve-ease/OptiBlogAi/pull/70) |
 | deps(deps): bump playwright from 1.53.0 to 1.54.0 | Medium | [#64](https://github.com/solve-ease/OptiBlogAi/pull/64) |
-| deps(deps): bump next from 15.4.1 to 15.4.5 in /optiblogai-site | Medium | [#63](https://github.com/solve-ease/OptiBlogAi/pull/63) |
 | deps(deps): bump react and @types/react in /optiblogai-site | Medium | [#62](https://github.com/solve-ease/OptiBlogAi/pull/62) |
 | deps(deps): bump react-dom and @types/react-dom in /optiblogai-site | Medium | [#61](https://github.com/solve-ease/OptiBlogAi/pull/61) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.2.0 in /optiblogai-site | Medium | [#60](https://github.com/solve-ease/OptiBlogAi/pull/60) |
 | deps(deps): bump @types/mermaid from 9.1.0 to 9.2.0 in /optiblogai-site | Medium | [#59](https://github.com/solve-ease/OptiBlogAi/pull/59) |
 | deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.6.18 | Medium | [#58](https://github.com/solve-ease/OptiBlogAi/pull/58) |
 | deps(deps): bump cachetools from 5.5.2 to 6.1.0 | Medium | [#57](https://github.com/solve-ease/OptiBlogAi/pull/57) |
@@ -274,6 +262,24 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🤖 Improve AI Response Quality and Consistency | Hard | [#4](https://github.com/skdas20/Synapse/issues/4) |
 | 📝 Add In-Browser Code Editor | Hard | [#3](https://github.com/skdas20/Synapse/issues/3) |
 | Add Input Validation and Error Handling | Hard | [#2](https://github.com/skdas20/Synapse/issues/2) |
+
+---
+
+## 📌 Project: Dora-AI-Powered-Virtual-Personal-Assistant
+
+📝 **Description:** DORA is your AI-powered productivity companion designed to simplify your daily life. From task automation to smart reminders and intelligent information search, DORA leverages Generative AI, LLMs, RAG, and Agentic AI to bring you a truly smart virtual assistant experience.
+
+🔗 [View Project](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant)
+
+💻 **Tech Stack:** React, Python, FastAPI, Pinecone DB, LangChain, LangGraph, CrewAI, Eleven Lab, Firebase, Tailwind CSS, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Revamped UI: Added gradient background, modular components, theme mod. | Medium | [#15](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/pull/15) |
 
 ---
 
