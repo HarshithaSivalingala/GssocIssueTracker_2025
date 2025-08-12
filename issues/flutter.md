@@ -69,8 +69,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Animation on Complaint Submission Success #6 Level 2 | Medium | [#207](https://github.com/Prateek9876/NagarVikas/pull/207) |
 | Modified pubspec.yaml | Hard | [#203](https://github.com/Prateek9876/NagarVikas/pull/203) |
-| Add animations over panels and text while hovering over buttons in the home screen | Hard | [#185](https://github.com/Prateek9876/NagarVikas/issues/185) |
 
 ---
 
@@ -90,7 +90,6 @@
 |----------|----------------|---------|
 | Added reaction bar UI for each news card | Medium | [#144](https://github.com/Yash159357/BREVITY/pull/144) |
 | Flutter: Daily Bookmark Reminder via Local Notifications | Medium | [#141](https://github.com/Yash159357/BREVITY/issues/141) |
-| Flutter: Trigger End Screen when News Scroll Ends | Medium | [#126](https://github.com/Yash159357/BREVITY/issues/126) |
 | Flutter: Text-to-Speech for News Articles | Medium | [#79](https://github.com/Yash159357/BREVITY/issues/79) |
 
 ---
@@ -111,7 +110,6 @@
 |----------|----------------|---------|
 | Feat: Implement horizontally scrollable canvas for text items and solved the overlapping new text problem | Medium | [#72](https://github.com/may-tas/TextEditingApp/pull/72) |
 | UX: Improve text editing workflow with single-tap | Medium | [#71](https://github.com/may-tas/TextEditingApp/pull/71) |
-| Pull Request: Add Rich Text Copy Feature with Formatting Support | Medium | [#70](https://github.com/may-tas/TextEditingApp/pull/70) |
 | Add Text Alignment Controls (Left, Center, Right) for Editable Text | Medium | [#56](https://github.com/may-tas/TextEditingApp/issues/56) |
 
 ---
@@ -132,7 +130,7 @@
 |----------|----------------|---------|
 | Issue in Athlete Dashboard with overflow issues | Easy | [#85](https://github.com/VJLIVE/Athletix/issues/85) |
 | Add Athletix Banner | Easy | [#84](https://github.com/VJLIVE/Athletix/issues/84) |
-| implemented parallel execution | Medium | [#87](https://github.com/VJLIVE/Athletix/pull/87) |
+| Forgot Password Feature #54 | Medium | [#89](https://github.com/VJLIVE/Athletix/pull/89) |
 | Fixed profile image issue | Medium | [#83](https://github.com/VJLIVE/Athletix/pull/83) |
 | Fixed add players for organizations . | Medium | [#82](https://github.com/VJLIVE/Athletix/pull/82) |
 | Add performance tracking (Solved issues) | Medium | [#76](https://github.com/VJLIVE/Athletix/pull/76) |
@@ -158,7 +156,6 @@
 |----------|----------------|---------|
 | Added reaction bar UI for each news card | Medium | [#144](https://github.com/Yash159357/BREVITY/pull/144) |
 | Flutter: Daily Bookmark Reminder via Local Notifications | Medium | [#141](https://github.com/Yash159357/BREVITY/issues/141) |
-| Flutter: Trigger End Screen when News Scroll Ends | Medium | [#126](https://github.com/Yash159357/BREVITY/issues/126) |
 | Flutter: Text-to-Speech for News Articles | Medium | [#79](https://github.com/Yash159357/BREVITY/issues/79) |
 
 ---
@@ -202,8 +199,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Bug: Backup feature does not work in selective android versions | Easy | [#9](https://github.com/Sudoerz/IntelliCash/issues/9) |
-| Refactor color handling and improve logging | Medium | [#14](https://github.com/Sudoerz/IntelliCash/pull/14) |
-| data pipeline init | Medium | [#13](https://github.com/Sudoerz/IntelliCash/pull/13) |
 | Refactor: Secure Keystore, Improve Error Handling, Stabilize Migrations, and Update Documentation | Medium | [#10](https://github.com/Sudoerz/IntelliCash/pull/10) |
 
 ---
