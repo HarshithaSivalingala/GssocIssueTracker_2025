@@ -67,7 +67,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
-| Update README.md | Medium | [#98](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/98) |
 | Homepage enhancements | Medium | [#97](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/97) |
 | My students section on Teacher dashboard | Medium | [#95](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/95) |
 | details showing | Medium | [#94](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/94) |
@@ -203,7 +202,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Charging Cost Prediction REST API | Medium | [#49](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/49) |
-| Update XGBOOST.py | Medium | [#45](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/pull/45) |
 | Missing Code of Conduct File in Repository | Medium | [#39](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/39) |
 
 ---
@@ -222,6 +220,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Need improvement in footer section. | Medium | [#101](https://github.com/aayushraj1010/med-genie/issues/101) |
+| Add Home Section in navbar. | Medium | [#100](https://github.com/aayushraj1010/med-genie/issues/100) |
+| Need improvement in About section | Medium | [#99](https://github.com/aayushraj1010/med-genie/issues/99) |
+| impreved the about page and add important section in it | Medium | [#98](https://github.com/aayushraj1010/med-genie/pull/98) |
 | Feature Request: Add Image Upload Option in Chat Input | Medium | [#97](https://github.com/aayushraj1010/med-genie/issues/97) |
 | Enhancement: Improve register button placement and add icons (Resolves #94) | Medium | [#96](https://github.com/aayushraj1010/med-genie/pull/96) |
 | Implement persistent chat history (Closes #49) | Medium | [#95](https://github.com/aayushraj1010/med-genie/pull/95) |
@@ -236,7 +238,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Push Notifications for Emergency Alerts | Medium | [#77](https://github.com/aayushraj1010/med-genie/issues/77) |
 | <Feature> Add multilingual support to Med AI Web App | Medium | [#76](https://github.com/aayushraj1010/med-genie/issues/76) |
 | <Feature> Allow users to send medicine photos for AI-based medical info | Medium | [#75](https://github.com/aayushraj1010/med-genie/issues/75) |
-| Enhance Med Genie UI: Custom Robot Avatar, Typing Indicator, and Branding Improvements | Medium | [#45](https://github.com/aayushraj1010/med-genie/pull/45) |
 
 ---
 
@@ -254,14 +255,13 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Restrict "Add Review" to Logged-in Users & Save Reviews | Medium | [#179](https://github.com/AditiGupta-tech/neonest/issues/179) |
+| Enhancement: Add a delete all option | Easy | [#186](https://github.com/AditiGupta-tech/neonest/issues/186) |
+| Enhancement: Revamp Growth Section Carousel | Easy | [#143](https://github.com/AditiGupta-tech/neonest/issues/143) |
 | Revamping resources page issue #121 | Medium | [#178](https://github.com/AditiGupta-tech/neonest/pull/178) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 | Complete Dark Mode Feature Implementation with Consistent Styling | Medium | [#175](https://github.com/AditiGupta-tech/neonest/issues/175) |
-| Implementing Auto Log Management in Neonest #119 | Medium | [#174](https://github.com/AditiGupta-tech/neonest/pull/174) |
 | Add & Refactor: Neonest Chat – History Panel, State Persistence, New Chat Endpoints & Axios Instance | Medium | [#164](https://github.com/AditiGupta-tech/neonest/pull/164) |
 | Edited background and made images responsive | Medium | [#161](https://github.com/AditiGupta-tech/neonest/pull/161) |
-| Zoxilsi/issue 9 | Medium | [#58](https://github.com/AditiGupta-tech/neonest/pull/58) |
 
 ---
 
@@ -279,6 +279,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add  "my favourites" feature on hand-on-projects! | Medium | [#85](https://github.com/Amarjha01/DevNotes/issues/85) |
+| Add Downloadable pdf Notes | Medium | [#84](https://github.com/Amarjha01/DevNotes/issues/84) |
 | add backend | Medium | [#73](https://github.com/Amarjha01/DevNotes/issues/73) |
 
 ---
@@ -298,6 +300,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update README.md | Medium | [#16](https://github.com/Amna-Hassan04/Cat-Sanctuary/pull/16) |
 | Added LICENSE | Medium | [#9](https://github.com/Amna-Hassan04/Cat-Sanctuary/pull/9) |
 | Added Code of Conduct | Medium | [#8](https://github.com/Amna-Hassan04/Cat-Sanctuary/pull/8) |
 | Game issues GSSOC | Medium | [#5](https://github.com/Amna-Hassan04/Cat-Sanctuary/issues/5) |
@@ -351,6 +354,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Improve mobile responsiveness for small screen devices | Easy | [#66](https://github.com/Aqsa4066/netflixclone/issues/66) |
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
+| Edited footer | Medium | [#71](https://github.com/Aqsa4066/netflixclone/pull/71) |
+| Change colour of boxes for FAQs and add more | Medium | [#70](https://github.com/Aqsa4066/netflixclone/issues/70) |
+| Replace the images with more attractive images | Medium | [#69](https://github.com/Aqsa4066/netflixclone/issues/69) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
 | Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
 | Enhance Netflix Clone Footer Design and Functionality | Medium | [#60](https://github.com/Aqsa4066/netflixclone/issues/60) |
@@ -367,9 +373,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Changed the styling | Medium | [#18](https://github.com/Aqsa4066/netflixclone/pull/18) |
 | 🐛 Bug Report: Button Hover State Missing | Medium | [#16](https://github.com/Aqsa4066/netflixclone/issues/16) |
 | Feature Request Add legal Pages Like Privacy, Terms Of use | Medium | [#14](https://github.com/Aqsa4066/netflixclone/issues/14) |
-| Readme update part2 | Medium | [#11](https://github.com/Aqsa4066/netflixclone/pull/11) |
-| New and Detailed Read-me | Medium | [#10](https://github.com/Aqsa4066/netflixclone/pull/10) |
-| Update read me | Medium | [#8](https://github.com/Aqsa4066/netflixclone/pull/8) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
@@ -492,10 +495,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Enhance Footer with Social Links, Sticky Option, and Auto-Updating Year | Medium | [#33](https://github.com/lovelymahor/StudyMatePlus/issues/33) |
 | Implement Functional /contact and /help Pages | Medium | [#32](https://github.com/lovelymahor/StudyMatePlus/issues/32) |
-| Feedback contribute pages | Medium | [#31](https://github.com/lovelymahor/StudyMatePlus/pull/31) |
 | Scroll Position Not Resetting on Page Navigation | Medium | [#30](https://github.com/lovelymahor/StudyMatePlus/issues/30) |
-| Added Contact Us Page | Medium | [#29](https://github.com/lovelymahor/StudyMatePlus/pull/29) |
-| Added Notes Section with PDF preview | Medium | [#23](https://github.com/lovelymahor/StudyMatePlus/pull/23) |
 | Feature Request: Add FAQ Page to studymate | Medium | [#22](https://github.com/lovelymahor/StudyMatePlus/issues/22) |
 | Enhancement : Hover Shadow Theme | Medium | [#15](https://github.com/lovelymahor/StudyMatePlus/issues/15) |
 | CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
@@ -516,6 +516,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added the contribution page successfully with beauttiful cards | Medium | [#17](https://github.com/OpenVoiceX/Web-Voice-marketing-Agent/pull/17) |
 | Improvment: Cards with uniform size and a hover effect | Medium | [#16](https://github.com/OpenVoiceX/Web-Voice-marketing-Agent/pull/16) |
 
 ---
@@ -535,6 +536,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| feat: add /api/leaderboard/devs endpoint for regular contributors | Medium | [#64](https://github.com/Promptzy/Nexara/pull/64) |
+| Leaderborad Creation | Medium | [#63](https://github.com/Promptzy/Nexara/pull/63) |
 | enhanced HomeContent | Medium | [#62](https://github.com/Promptzy/Nexara/pull/62) |
 
 ---
@@ -553,9 +556,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix the navbar position | Medium | [#41](https://github.com/mr-rishikesh/DevConnect/pull/41) |
 | Issue: Redesign Blog Upload Flow — Create a Full Page for Blog/Post Submission | Medium | [#38](https://github.com/mr-rishikesh/DevConnect/issues/38) |
-| Refactor Blog Structure to Improve Content Handling & UI Display | Medium | [#37](https://github.com/mr-rishikesh/DevConnect/issues/37) |
 | Website doesnot have the privacy policy page which will define the privacy policy under the website as security! | Medium | [#30](https://github.com/mr-rishikesh/DevConnect/issues/30) |
 | Improve Explore Page with Filters for Tech Stack and Followed Users + Styling Enhancements | Medium | [#26](https://github.com/mr-rishikesh/DevConnect/issues/26) |
 | Fix Home Navigation Redirect and Navbar Logo Scroll-to-Top Behavior | Medium | [#22](https://github.com/mr-rishikesh/DevConnect/issues/22) |
@@ -580,9 +581,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | My Registrations button not working | Medium | [#68](https://github.com/SandeepVashishtha/Eventra/issues/68) |
-| Navbar should show profile picture and edit profile after login | Medium | [#67](https://github.com/SandeepVashishtha/Eventra/issues/67) |
 | Create a Global Theme / Design System | Medium | [#35](https://github.com/SandeepVashishtha/Eventra/issues/35) |
-| Create login and signup page | Medium | [#8](https://github.com/SandeepVashishtha/Eventra/issues/8) |
 
 ---
 
