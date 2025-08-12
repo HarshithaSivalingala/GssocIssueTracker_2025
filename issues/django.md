@@ -14,23 +14,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update ToggleableList hover state | Easy | [#2036](https://github.com/OWASP/Nest/issues/2036) |
-| Fix bold text on Community dropdown select | Easy | [#2035](https://github.com/OWASP/Nest/issues/2035) |
+| Fix #2036: Remove underline and transition from ToggleableList | Medium | [#2051](https://github.com/OWASP/Nest/pull/2051) |
+| Bug/fix scroll on Project Health Score click | Medium | [#2050](https://github.com/OWASP/Nest/pull/2050) |
+| Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
+| feat: add comprehensive unit tests for DisplayIcon component | Medium | [#2048](https://github.com/OWASP/Nest/pull/2048) |
+| Feature/daily badge sync job 1763 | Medium | [#2047](https://github.com/OWASP/Nest/pull/2047) |
+| Add id field to graphql entities | Medium | [#2045](https://github.com/OWASP/Nest/pull/2045) |
 | test- inmproved test coverage of github internal nodes more than 80% … | Medium | [#2042](https://github.com/OWASP/Nest/pull/2042) |
 | Improve SnapshotSitemap implementation and add unit tests | Medium | [#2041](https://github.com/OWASP/Nest/pull/2041) |
-| Update Snapshots Page to Use Reusable `<Release />` Component | Medium | [#2040](https://github.com/OWASP/Nest/issues/2040) |
 | Integrate Lighthouse CI for automated website audits | Medium | [#2037](https://github.com/OWASP/Nest/issues/2037) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2024](https://github.com/OWASP/Nest/pull/2024) |
 | Implement Initial Setup for Google OAuth | Medium | [#2021](https://github.com/OWASP/Nest/pull/2021) |
 | test: add unit tests for GeneralCompliantComponent | Medium | [#2018](https://github.com/OWASP/Nest/pull/2018) |
 | Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
 | Added participants who have expressed interest in a specific issue in issue model . | Medium | [#1995](https://github.com/OWASP/Nest/pull/1995) |
-| feature command to generate standardized project.owasp.yaml metadata files | Medium | [#1985](https://github.com/OWASP/Nest/pull/1985) |
 | refactor:remove PLR0912 ignore and fix 4 violations update | Medium | [#1979](https://github.com/OWASP/Nest/pull/1979) |
 | enhance:change-hover-color-action-button | Medium | [#1978](https://github.com/OWASP/Nest/pull/1978) |
-| Implement Breadcrumbs | Medium | [#1963](https://github.com/OWASP/Nest/pull/1963) |
 | Implement management command for detecting non-compliant project levels and flagging them in score calculation | Hard | [#2039](https://github.com/OWASP/Nest/issues/2039) |
-| Implement Query Parser for Search Interfaces | Hard | [#2038](https://github.com/OWASP/Nest/issues/2038) |
 
 ---
 
@@ -151,10 +151,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Redundancy of content on home page | Medium | [#130](https://github.com/Khushi-Nigam/jobportal/issues/130) |
-| everywhere on the home page we can see ui-fixes has been written which should be removed | Medium | [#129](https://github.com/Khushi-Nigam/jobportal/issues/129) |
-| enhacement  of footer section | Medium | [#128](https://github.com/Khushi-Nigam/jobportal/issues/128) |
-| Made improvements and solved bugs of issue #99 | Medium | [#126](https://github.com/Khushi-Nigam/jobportal/pull/126) |
+| Enhanced the footer section | Medium | [#136](https://github.com/Khushi-Nigam/jobportal/pull/136) |
+| Removed the ui-fixes in the home page | Medium | [#135](https://github.com/Khushi-Nigam/jobportal/pull/135) |
+| ViewJobs tab in jsapp is not working | Medium | [#132](https://github.com/Khushi-Nigam/jobportal/issues/132) |
 | There should be different section for recruiter login | Medium | [#113](https://github.com/Khushi-Nigam/jobportal/issues/113) |
 | register button no working | Medium | [#111](https://github.com/Khushi-Nigam/jobportal/issues/111) |
 | while registering i can use 4 characters but while login i cant | Medium | [#102](https://github.com/Khushi-Nigam/jobportal/issues/102) |
@@ -212,7 +211,6 @@
 | docs: add CONTRIBUTING.md with guidelines for contributors | Medium | [#203](https://github.com/ygowthamr/WhitePaper/pull/203) |
 | Enhance Voice Input Functionality and Script Improvements (closes #201) | Medium | [#202](https://github.com/ygowthamr/WhitePaper/pull/202) |
 |  | Medium | [#201](https://github.com/ygowthamr/WhitePaper/issues/201) |
-|  | Medium | [#200](https://github.com/ygowthamr/WhitePaper/issues/200) |
 | OpenID Connect Support | Medium | [#198](https://github.com/ygowthamr/WhitePaper/issues/198) |
 | UI Enhancements | Medium | [#197](https://github.com/ygowthamr/WhitePaper/issues/197) |
 | Functionality of voice input feature correction | Medium | [#195](https://github.com/ygowthamr/WhitePaper/issues/195) |
@@ -220,7 +218,6 @@
 | Toggle Mode Not Working on Website | Medium | [#192](https://github.com/ygowthamr/WhitePaper/issues/192) |
 | Add a contribution guide. | Medium | [#190](https://github.com/ygowthamr/WhitePaper/issues/190) |
 | Live Vercel deployment returns 404 - not accessible | Medium | [#189](https://github.com/ygowthamr/WhitePaper/issues/189) |
-| Update models issue (#186) | Medium | [#187](https://github.com/ygowthamr/WhitePaper/pull/187) |
 | Issue: Remove Redundant Import of models | Medium | [#186](https://github.com/ygowthamr/WhitePaper/issues/186) |
 | Created CONTRIBUTORS.md | Medium | [#185](https://github.com/ygowthamr/WhitePaper/pull/185) |
 | Add Real-Time Autosave Feature for Notes | Medium | [#184](https://github.com/ygowthamr/WhitePaper/pull/184) |
@@ -251,6 +248,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| feat: add /api/leaderboard/devs endpoint for regular contributors | Medium | [#64](https://github.com/Promptzy/Nexara/pull/64) |
+| Leaderborad Creation | Medium | [#63](https://github.com/Promptzy/Nexara/pull/63) |
 | enhanced HomeContent | Medium | [#62](https://github.com/Promptzy/Nexara/pull/62) |
 
 ---
