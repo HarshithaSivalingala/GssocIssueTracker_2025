@@ -103,6 +103,24 @@ User Profile: BMI calculator and fitness analytics.
 
 ---
 
+## 📌 Project: WallGodds App
+
+📝 **Description:** WallGodds is reimagined for mobile — fast, clean, and loaded with stunning high-res wallpapers for every screen. It’s more than an app — it’s your personal visual canvas, made for those who style their screen with every swipe.
+
+🔗 [View Project](https://github.com/sayan0328/WallGodds-App)
+
+💻 **Tech Stack:** Kotlin, Compose, Firebase, Firebase RealTime DB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added new wallpapers and description | Medium | [#33](https://github.com/sayan0328/WallGodds-App/pull/33) |
+
+---
+
 ## 📌 Project: ResqFood
 
 📝 **Description:** ResQFood is a platform dedicated to the noble cause of reducing food wastage by facilitating the redistribution of surplus food during late-night hours before restaurant closures.
