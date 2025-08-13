@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced baby feeder page | Medium | [#227](https://github.com/Amarjha01/InfantCareCompass/pull/227) |
 | Mutiple enhancements in Contact page | Medium | [#226](https://github.com/Amarjha01/InfantCareCompass/pull/226) |
 | Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
 | Enhance Footer UI for Improved Aesthetics & Usability | Medium | [#220](https://github.com/Amarjha01/InfantCareCompass/pull/220) |
@@ -41,29 +42,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI Cleanup — Improved Text Contrast Across the App (#64) | Medium | [#77](https://github.com/Bavanetha27/Refixly/pull/77) |
+| Critical Login Flow Bug: | Medium | [#85](https://github.com/Bavanetha27/Refixly/issues/85) |
+| Critical Login Flow Bug | Medium | [#84](https://github.com/Bavanetha27/Refixly/issues/84) |
+| issue create automate message added | Medium | [#83](https://github.com/Bavanetha27/Refixly/pull/83) |
 | Establish foundational project structure: add README, CI pipeline, linting and testing framework | Medium | [#42](https://github.com/Bavanetha27/Refixly/issues/42) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
-
----
-
-## 📌 Project: Medical Adherence Monitoring System
-
-📝 **Description:** An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle. Demo Video: https://res.cloudinary.com/dzl3qnjqk/video/upload/v1751681025/VID-20250419-WA0000_4_tycodg.mp4
-
-🔗 [View Project](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System)
-
-💻 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Harden Backend Routes — Authentication, Validation & Consistency Improvements | Medium | [#25](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/25) |
-| Added 404 and global error handling | Medium | [#24](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/24) |
 
 ---
 
@@ -118,7 +102,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add confidence score display for waste classification predictions | Medium | [#46](https://github.com/AditixAnand/Garbage_Classification/pull/46) |
 | Missing model_efficientnet.h5 file needed to run the project | Medium | [#38](https://github.com/AditixAnand/Garbage_Classification/issues/38) |
 
 ---
