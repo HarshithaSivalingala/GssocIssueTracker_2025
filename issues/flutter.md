@@ -14,9 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Speech based Controls | Medium | [#51](https://github.com/kaushav07/VisionMate/issues/51) |
+| add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
+| feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
 | enhance README.md file | Medium | [#47](https://github.com/kaushav07/VisionMate/pull/47) |
-| updated requirements.txt | Medium | [#46](https://github.com/kaushav07/VisionMate/pull/46) |
-| Feature: Integrate scan_logger.py Across the Application | Medium | [#41](https://github.com/kaushav07/VisionMate/issues/41) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
@@ -25,11 +26,8 @@
 | Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [#12](https://github.com/kaushav07/VisionMate/issues/12) |
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
-| Smart Scene Narration | Medium | [#8](https://github.com/kaushav07/VisionMate/issues/8) |
-| Improve prompt to ensure concise descriptions from Gemini | Medium | [#6](https://github.com/kaushav07/VisionMate/issues/6) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
 | Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
-| Improve Object Detection Accuracy & Add Environment Awareness Features | Hard | [#13](https://github.com/kaushav07/VisionMate/issues/13) |
 
 ---
 
@@ -70,7 +68,9 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added Animation on Complaint Submission Success #6 Level 2 | Medium | [#207](https://github.com/Prateek9876/NagarVikas/pull/207) |
-| Modified pubspec.yaml | Hard | [#203](https://github.com/Prateek9876/NagarVikas/pull/203) |
+| Modified the Splash Screen animation #185 Level 3 | Hard | [#214](https://github.com/Prateek9876/NagarVikas/pull/214) |
+| ADDED THE MODEL FOR VALID/INVALID IMAGE CHECK | Hard | [#213](https://github.com/Prateek9876/NagarVikas/pull/213) |
+| Added clickable cards feature and complaint details page #208 Level 3 | Hard | [#212](https://github.com/Prateek9876/NagarVikas/pull/212) |
 
 ---
 
@@ -89,8 +89,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added reaction bar UI for each news card | Medium | [#144](https://github.com/Yash159357/BREVITY/pull/144) |
-| Flutter: Daily Bookmark Reminder via Local Notifications | Medium | [#141](https://github.com/Yash159357/BREVITY/issues/141) |
-| Flutter: Text-to-Speech for News Articles | Medium | [#79](https://github.com/Yash159357/BREVITY/issues/79) |
 
 ---
 
@@ -110,7 +108,6 @@
 |----------|----------------|---------|
 | Feat: Implement horizontally scrollable canvas for text items and solved the overlapping new text problem | Medium | [#72](https://github.com/may-tas/TextEditingApp/pull/72) |
 | UX: Improve text editing workflow with single-tap | Medium | [#71](https://github.com/may-tas/TextEditingApp/pull/71) |
-| Add Text Alignment Controls (Left, Center, Right) for Editable Text | Medium | [#56](https://github.com/may-tas/TextEditingApp/issues/56) |
 
 ---
 
@@ -155,8 +152,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added reaction bar UI for each news card | Medium | [#144](https://github.com/Yash159357/BREVITY/pull/144) |
-| Flutter: Daily Bookmark Reminder via Local Notifications | Medium | [#141](https://github.com/Yash159357/BREVITY/issues/141) |
-| Flutter: Text-to-Speech for News Articles | Medium | [#79](https://github.com/Yash159357/BREVITY/issues/79) |
 
 ---
 
@@ -199,6 +194,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Bug: Backup feature does not work in selective android versions | Easy | [#9](https://github.com/Sudoerz/IntelliCash/issues/9) |
+| Refactor color handling and improve logging | Medium | [#16](https://github.com/Sudoerz/IntelliCash/pull/16) |
 | Refactor: Secure Keystore, Improve Error Handling, Stabilize Migrations, and Update Documentation | Medium | [#10](https://github.com/Sudoerz/IntelliCash/pull/10) |
 
 ---
