@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced baby feeder page | Medium | [#227](https://github.com/Amarjha01/InfantCareCompass/pull/227) |
 | Mutiple enhancements in Contact page | Medium | [#226](https://github.com/Amarjha01/InfantCareCompass/pull/226) |
 | Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
 | Enhance Footer UI for Improved Aesthetics & Usability | Medium | [#220](https://github.com/Amarjha01/InfantCareCompass/pull/220) |
@@ -39,6 +40,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added allergen info underneath the cuisine and added diet-based tag filtering | Medium | [#185](https://github.com/Ayushjhawar8/Flavor-ai/pull/185) |
+| Auth-Setup | Medium | [#184](https://github.com/Ayushjhawar8/Flavor-ai/pull/184) |
+| Improving overridden feature (Category heading layout) | Medium | [#183](https://github.com/Ayushjhawar8/Flavor-ai/issues/183) |
+| Optimization of skeleton ui card in category section | Medium | [#182](https://github.com/Ayushjhawar8/Flavor-ai/issues/182) |
+| Visibility issue in AI Generated recepie page | Medium | [#181](https://github.com/Ayushjhawar8/Flavor-ai/issues/181) |
+| Improving category component in dark theme | Medium | [#180](https://github.com/Ayushjhawar8/Flavor-ai/issues/180) |
+| Update: fix the hero ui | Medium | [#179](https://github.com/Ayushjhawar8/Flavor-ai/pull/179) |
+| Integrated Navbar throughout the website | Medium | [#178](https://github.com/Ayushjhawar8/Flavor-ai/pull/178) |
 | Recipe Cost Calculator | Medium | [#177](https://github.com/Ayushjhawar8/Flavor-ai/pull/177) |
 | Added favorite button to dish detail page | Medium | [#176](https://github.com/Ayushjhawar8/Flavor-ai/pull/176) |
 | Inconsistent Layout in diet planner page fixed | Medium | [#174](https://github.com/Ayushjhawar8/Flavor-ai/pull/174) |
@@ -93,7 +102,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Real-Time Speech-to-Text Integration for Interview Page using Web Speech API | Medium | [#224](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/224) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 | 📁 Add Firebase or Local JSON Backend Support | Hard | [#18](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/18) |
 
@@ -183,8 +191,6 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement User Login & Registration with Clerk for Enhanced Authentication & Trust | Medium | [#9](https://github.com/kunal0297/Nexus_dawn/issues/9) |
-| Add a CONTRIBUTING.md file for better onboarding | Medium | [#8](https://github.com/kunal0297/Nexus_dawn/issues/8) |
 | Added Code of Conduct | Medium | [#4](https://github.com/kunal0297/Nexus_dawn/pull/4) |
 
 ---
@@ -203,10 +209,9 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: track-contributions.yml and process-past-contributions.yml workflows not functioning | Easy | [#66](https://github.com/Promptzy/Nexara/issues/66) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
-| feat: add /api/leaderboard/devs endpoint for regular contributors | Medium | [#64](https://github.com/Promptzy/Nexara/pull/64) |
 | Leaderborad Creation | Medium | [#63](https://github.com/Promptzy/Nexara/pull/63) |
-| enhanced HomeContent | Medium | [#62](https://github.com/Promptzy/Nexara/pull/62) |
 
 ---
 
