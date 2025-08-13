@@ -54,9 +54,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Speech based Controls | Medium | [#51](https://github.com/kaushav07/VisionMate/issues/51) |
+| add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
+| feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
 | enhance README.md file | Medium | [#47](https://github.com/kaushav07/VisionMate/pull/47) |
-| updated requirements.txt | Medium | [#46](https://github.com/kaushav07/VisionMate/pull/46) |
-| Feature: Integrate scan_logger.py Across the Application | Medium | [#41](https://github.com/kaushav07/VisionMate/issues/41) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
@@ -65,11 +66,8 @@
 | Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [#12](https://github.com/kaushav07/VisionMate/issues/12) |
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
-| Smart Scene Narration | Medium | [#8](https://github.com/kaushav07/VisionMate/issues/8) |
-| Improve prompt to ensure concise descriptions from Gemini | Medium | [#6](https://github.com/kaushav07/VisionMate/issues/6) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
 | Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
-| Improve Object Detection Accuracy & Add Environment Awareness Features | Hard | [#13](https://github.com/kaushav07/VisionMate/issues/13) |
 
 ---
 
@@ -87,11 +85,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Navbar enhancement - responsive behaviour | Medium | [#43](https://github.com/Naveenkumar30838/Housify/issues/43) |
+| Integrate Cloudinary for Image Uploads and Enhance Environment Setup | Medium | [#45](https://github.com/Naveenkumar30838/Housify/pull/45) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
 | Feature Suggestion :Save to Wishlist / Bookmark Properties | Medium | [#37](https://github.com/Naveenkumar30838/Housify/issues/37) |
 | Enhancing by adding comma separator to amount displayed | Medium | [#33](https://github.com/Naveenkumar30838/Housify/issues/33) |
-| Add "New Listing" Button to Access /listing/new Page | Medium | [#32](https://github.com/Naveenkumar30838/Housify/issues/32) |
 | Added 404 and global error handling | Medium | [#29](https://github.com/Naveenkumar30838/Housify/pull/29) |
 | Added wishlist feature | Medium | [#15](https://github.com/Naveenkumar30838/Housify/pull/15) |
 
@@ -111,7 +108,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| ⚡ Feature Request: Query Execution Timer for Better Performance Awareness | Medium | [#38](https://github.com/swarooppatilx/bit-by-query/issues/38) |
+| feature: Timer for each question | Medium | [#39](https://github.com/swarooppatilx/bit-by-query/issues/39) |
 | Add a LEARN.md file to provide learning resources for new contributors | Medium | [#33](https://github.com/swarooppatilx/bit-by-query/issues/33) |
 | ISSUE:-While Login And Signup Internal Server Failed Error | Medium | [#30](https://github.com/swarooppatilx/bit-by-query/issues/30) |
 
@@ -149,6 +146,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue:2 improve navbar and add the toaster notifications. | Medium | [#34](https://github.com/sachiikrish/AttendanceTracker/pull/34) |
 | Add Improved Error Handling and User Feedback for Attendance Form | Medium | [#33](https://github.com/sachiikrish/AttendanceTracker/issues/33) |
 | The project structure is missing the important data and there is no link in the license | Medium | [#31](https://github.com/sachiikrish/AttendanceTracker/issues/31) |
 | No.of subjects made dynamic | Medium | [#30](https://github.com/sachiikrish/AttendanceTracker/pull/30) |
