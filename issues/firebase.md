@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Google & Facebook OAuth routes and backend session support | Medium | [#105](https://github.com/ShishuCard/Vaccination_Portal/pull/105) |
 | Add a CONTRIBUTING.md file | Medium | [#103](https://github.com/ShishuCard/Vaccination_Portal/issues/103) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#102](https://github.com/ShishuCard/Vaccination_Portal/issues/102) |
 | FIX : Replace the vite+React Favicon with a valid project icon and the project title too | Medium | [#93](https://github.com/ShishuCard/Vaccination_Portal/issues/93) |
@@ -36,9 +35,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Recover the working of profile button on desktop and implement animation to make the whole project look better | Medium | [#1186](https://github.com/Code-A2Z/code-a2z/issues/1186) |
-| Live visit counter | Medium | [#1183](https://github.com/Code-A2Z/code-a2z/issues/1183) |
+| Missing Instructions and Defaults for .env Setup Causing Setup Failures | Medium | [#1189](https://github.com/Code-A2Z/code-a2z/issues/1189) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
+| Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
@@ -69,33 +68,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Debounce Display Name Input on Profile Page | Medium | [#81](https://github.com/Bavanetha27/Refixly/pull/81) |
-| fix(security): restrict access to protected routes for unauthenticated users. | Medium | [#80](https://github.com/Bavanetha27/Refixly/pull/80) |
-| Duplicate email contact in footer area | Medium | [#79](https://github.com/Bavanetha27/Refixly/issues/79) |
-| Improve UI of the Pages | Medium | [#78](https://github.com/Bavanetha27/Refixly/issues/78) |
-| UI Cleanup — Improved Text Contrast Across the App (#64) | Medium | [#77](https://github.com/Bavanetha27/Refixly/pull/77) |
+| Critical Login Flow Bug: | Medium | [#85](https://github.com/Bavanetha27/Refixly/issues/85) |
+| Critical Login Flow Bug | Medium | [#84](https://github.com/Bavanetha27/Refixly/issues/84) |
+| issue create automate message added | Medium | [#83](https://github.com/Bavanetha27/Refixly/pull/83) |
 | Establish foundational project structure: add README, CI pipeline, linting and testing framework | Medium | [#42](https://github.com/Bavanetha27/Refixly/issues/42) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
-
----
-
-## 📌 Project: Firebase Chat App
-
-📝 **Description:** A real-time chat application built using Firebase and React. It allows users to sign in with Google authentication, exchange messages instantly, and manage user sessions securely. The app showcases the power of serverless technologies with a sleek and responsive UI. Ideal for contributors interested in React, Firebase, and modern frontend/backend integration.
-
-🔗 [View Project](https://github.com/Dhruvi-tech/firebase-chat-app)
-
-💻 **Tech Stack:** React.js, Firebase Authentication, Firestore Database, HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| issue #15: User typing indicator | Medium | [#38](https://github.com/Dhruvi-tech/firebase-chat-app/pull/38) |
-| issue #13 enhance chat input with an emoji picker | Medium | [#37](https://github.com/Dhruvi-tech/firebase-chat-app/pull/37) |
 
 ---
 
@@ -113,14 +91,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Push Notifications | Easy | [#193](https://github.com/mansiruhil/fail-u-forward/issues/193) |
+| Improve Mobile UI & Responsiveness | Easy | [#187](https://github.com/mansiruhil/fail-u-forward/issues/187) |
 | Project is not fully accessible — layout breaks on mobile, text contrast is low, images lack alt text, and navigation isn’t keyboard-friendly. | Easy | [#185](https://github.com/mansiruhil/fail-u-forward/issues/185) |
-| Add Multi language feature for user experience | Easy | [#184](https://github.com/mansiruhil/fail-u-forward/issues/184) |
 | Work on empty part of main page | Easy | [#181](https://github.com/mansiruhil/fail-u-forward/issues/181) |
+| AI Validation Reliability | Medium | [#192](https://github.com/mansiruhil/fail-u-forward/issues/192) |
+| API Route Structure & Performance | Medium | [#191](https://github.com/mansiruhil/fail-u-forward/issues/191) |
+| Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
+| Low User Engagement & Onboarding Flow | Medium | [#189](https://github.com/mansiruhil/fail-u-forward/issues/189) |
+| SEO & Meta Tag Optimization | Medium | [#188](https://github.com/mansiruhil/fail-u-forward/issues/188) |
 | No refresh button available to manually reload content like in other applications.
 To pull it down to get refresh main page for fetching data | Medium | [#186](https://github.com/mansiruhil/fail-u-forward/issues/186) |
 | Improve Authentication Page UI and Error Handling | Medium | [#178](https://github.com/mansiruhil/fail-u-forward/issues/178) |
 | Add feature to connect any user from username or add friend section directly. | Medium | [#168](https://github.com/mansiruhil/fail-u-forward/issues/168) |
-| Build user friendly edit profile section | Medium | [#166](https://github.com/mansiruhil/fail-u-forward/issues/166) |
 
 ---
 
@@ -139,7 +122,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#8](https://github.com/Parnab03/WallGodds/issues/8) |
-| Implement Feedback Page for user suggestions and bug reports | Medium | [#123](https://github.com/Parnab03/WallGodds/issues/123) |
+| Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/Parnab03/WallGodds/issues/123) |
 | DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/Parnab03/WallGodds/issues/111) |
 
 ---
@@ -159,7 +142,9 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added Animation on Complaint Submission Success #6 Level 2 | Medium | [#207](https://github.com/Prateek9876/NagarVikas/pull/207) |
-| Modified pubspec.yaml | Hard | [#203](https://github.com/Prateek9876/NagarVikas/pull/203) |
+| Modified the Splash Screen animation #185 Level 3 | Hard | [#214](https://github.com/Prateek9876/NagarVikas/pull/214) |
+| ADDED THE MODEL FOR VALID/INVALID IMAGE CHECK | Hard | [#213](https://github.com/Prateek9876/NagarVikas/pull/213) |
+| Added clickable cards feature and complaint details page #208 Level 3 | Hard | [#212](https://github.com/Prateek9876/NagarVikas/pull/212) |
 
 ---
 
@@ -219,8 +204,24 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added reaction bar UI for each news card | Medium | [#144](https://github.com/Yash159357/BREVITY/pull/144) |
-| Flutter: Daily Bookmark Reminder via Local Notifications | Medium | [#141](https://github.com/Yash159357/BREVITY/issues/141) |
-| Flutter: Text-to-Speech for News Articles | Medium | [#79](https://github.com/Yash159357/BREVITY/issues/79) |
+
+---
+
+## 📌 Project: WallGodds App
+
+📝 **Description:** WallGodds is reimagined for mobile — fast, clean, and loaded with stunning high-res wallpapers for every screen. It’s more than an app — it’s your personal visual canvas, made for those who style their screen with every swipe.
+
+🔗 [View Project](https://github.com/sayan0328/WallGodds-App)
+
+💻 **Tech Stack:** Kotlin, Compose, Firebase, Firebase RealTime DB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added new wallpapers and description | Medium | [#33](https://github.com/sayan0328/WallGodds-App/pull/33) |
 
 ---
 
@@ -243,10 +244,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Hosted CLASSMGMTSYS on vercel | Medium | [#21](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/21) |
 | Redesigning of CR dashboard | Medium | [#20](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/20) |
 | Implementation of TImeTable | Medium | [#18](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/18) |
-| Redesigning Noticeboard UI | Medium | [#17](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/17) |
 | Make it a progressive web app (PWA) | Medium | [#16](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/16) |
-| Dockerize this project | Medium | [#15](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/15) |
-| Add secrets example | Medium | [#14](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/14) |
 | Fix: Hide Login and Register buttons after user signs in | Medium | [#11](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/11) |
 | Fixed the issue | Medium | [#4](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/4) |
 
@@ -266,9 +264,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Not Even able to login. Stuck in "Loading Hompage". Network Error, fetching failed | Easy | [#150](https://github.com/SurajSG23/PrepBuddy/issues/150) |
 | UI/UX: Add Loading Placeholders for Quiz Content | Medium | [#143](https://github.com/SurajSG23/PrepBuddy/pull/143) |
-| Enhanced Top Navigation wrt to current theme | Medium | [#131](https://github.com/SurajSG23/PrepBuddy/pull/131) |
 
 ---
 
@@ -313,8 +309,6 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added reaction bar UI for each news card | Medium | [#144](https://github.com/Yash159357/BREVITY/pull/144) |
-| Flutter: Daily Bookmark Reminder via Local Notifications | Medium | [#141](https://github.com/Yash159357/BREVITY/issues/141) |
-| Flutter: Text-to-Speech for News Articles | Medium | [#79](https://github.com/Yash159357/BREVITY/issues/79) |
 
 ---
 
@@ -332,6 +326,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Auth Pages with Dark Mode & College Email Google Sign-In | Medium | [#64](https://github.com/Skrache/crisisboard/pull/64) |
 | Need About us Section | Medium | [#63](https://github.com/Skrache/crisisboard/issues/63) |
 | Added search and filter feature | Medium | [#48](https://github.com/Skrache/crisisboard/pull/48) |
 | Add Password Strength Checker to User Input Form | Medium | [#34](https://github.com/Skrache/crisisboard/issues/34) |
@@ -377,7 +372,6 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
-| Added the feature for making a csv file for schedule | Medium | [#125](https://github.com/Loop-Hive/ScheduleX/pull/125) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
 | Redesign Hero Section for Minimalism | Medium | [#116](https://github.com/Loop-Hive/ScheduleX/issues/116) |
 | Edit Menu Button Delayed Activation | Medium | [#112](https://github.com/Loop-Hive/ScheduleX/issues/112) |
@@ -407,6 +401,11 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| updating UI of support page | Medium | [#47](https://github.com/Devaki01/EcoStore/issues/47) |
+| Adding a back to top button in the home page | Medium | [#46](https://github.com/Devaki01/EcoStore/issues/46) |
+| Adding a toggle button in home page | Medium | [#45](https://github.com/Devaki01/EcoStore/issues/45) |
+| Enhancing the footer section in the home page | Medium | [#44](https://github.com/Devaki01/EcoStore/issues/44) |
+| Enhancing the home page | Medium | [#43](https://github.com/Devaki01/EcoStore/issues/43) |
 | Feature Request: Shop Page Implementation | Medium | [#42](https://github.com/Devaki01/EcoStore/issues/42) |
 | Suggestion: A add live link of the website | Medium | [#40](https://github.com/Devaki01/EcoStore/issues/40) |
 | update in design and responsive of navbar | Medium | [#39](https://github.com/Devaki01/EcoStore/pull/39) |
@@ -424,7 +423,6 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Ui enhancement + Imperfect font heirarchy | Medium | [#13](https://github.com/Devaki01/EcoStore/issues/13) |
 | Add Readme.md | Medium | [#12](https://github.com/Devaki01/EcoStore/issues/12) |
 | 🔐 Feature Request: Implement Login & Sign Up using Firebase Authentication | Medium | [#6](https://github.com/Devaki01/EcoStore/issues/6) |
-| 🧭 Feature Request: Create a Navbar Component for the Website | Medium | [#4](https://github.com/Devaki01/EcoStore/issues/4) |
 
 ---
 
@@ -442,7 +440,6 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| bug fixes | Medium | [#13](https://github.com/powerstone666/MelodyMind/pull/13) |
 | Feature: Auto-Populate Artist Pages with Bio, Top Tracks & Albums | Medium | [#12](https://github.com/powerstone666/MelodyMind/issues/12) |
 
 ---
@@ -461,9 +458,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance Footer with Social Links, Sticky Option, and Auto-Updating Year | Medium | [#33](https://github.com/lovelymahor/StudyMatePlus/issues/33) |
-| Implement Functional /contact and /help Pages | Medium | [#32](https://github.com/lovelymahor/StudyMatePlus/issues/32) |
-| Scroll Position Not Resetting on Page Navigation | Medium | [#30](https://github.com/lovelymahor/StudyMatePlus/issues/30) |
+| Implemented scroll to top | Medium | [#34](https://github.com/lovelymahor/StudyMatePlus/pull/34) |
 | Feature Request: Add FAQ Page to studymate | Medium | [#22](https://github.com/lovelymahor/StudyMatePlus/issues/22) |
 | Enhancement : Hover Shadow Theme | Medium | [#15](https://github.com/lovelymahor/StudyMatePlus/issues/15) |
 | CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
@@ -484,14 +479,18 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add new project of jokes | Medium | [#106](https://github.com/Varshitha713/CodeCanvas/issues/106) |
+| update readme file | GSSoC'25 | Medium | [#105](https://github.com/Varshitha713/CodeCanvas/issues/105) |
+| privcy policy and term and condition | Medium | [#104](https://github.com/Varshitha713/CodeCanvas/issues/104) |
+| {Send Message Text }is not visible After Hovering in Dark Mode | Medium | [#103](https://github.com/Varshitha713/CodeCanvas/issues/103) |
+| Scroll to Top Css Improved | Medium | [#102](https://github.com/Varshitha713/CodeCanvas/pull/102) |
+| add a footer | Medium | [#101](https://github.com/Varshitha713/CodeCanvas/issues/101) |
 | About page is not working | Medium | [#100](https://github.com/Varshitha713/CodeCanvas/issues/100) |
 | Change the color scheme of tags to make them visible in dark mode | Medium | [#99](https://github.com/Varshitha713/CodeCanvas/issues/99) |
-| Need validation changes in contact us | Medium | [#98](https://github.com/Varshitha713/CodeCanvas/issues/98) |
 | Add Fade-In Scroll Animation for Page Elements | Medium | [#97](https://github.com/Varshitha713/CodeCanvas/issues/97) |
 | Feature Request: Add Profile Page with Google Sign-In (Firebase Auth) | Medium | [#96](https://github.com/Varshitha713/CodeCanvas/issues/96) |
 | Improve in Navbar | Medium | [#94](https://github.com/Varshitha713/CodeCanvas/issues/94) |
 | Added CODE_OF_CONDUCT.md (closes issue #13) | Medium | [#90](https://github.com/Varshitha713/CodeCanvas/pull/90) |
-| Issue with Duplicate Scripts ,no opening section , Missing Scroll Top… | Medium | [#88](https://github.com/Varshitha713/CodeCanvas/pull/88) |
 | ## 🚨 Feature Request: Add Login/Signup Functionality | Medium | [#87](https://github.com/Varshitha713/CodeCanvas/issues/87) |
 | Navbar should be a collapsible hamburger menu on mobile view | Medium | [#74](https://github.com/Varshitha713/CodeCanvas/issues/74) |
 | There is no link in the license section for readme | Medium | [#73](https://github.com/Varshitha713/CodeCanvas/issues/73) |
@@ -503,7 +502,6 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Add login and logout page | Medium | [#60](https://github.com/Varshitha713/CodeCanvas/issues/60) |
 | Enhancement: Add professional footer with site branding, nav links & social icons | Medium | [#58](https://github.com/Varshitha713/CodeCanvas/issues/58) |
 | Added Cat-A-List project to sample data | Medium | [#57](https://github.com/Varshitha713/CodeCanvas/pull/57) |
-| Improve ui/ux of contact page and Responsible in mob | Medium | [#45](https://github.com/Varshitha713/CodeCanvas/issues/45) |
 
 ---
 
@@ -521,12 +519,11 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| refactor: migrate authentication context to Zustand store and update … | Medium | [#131](https://github.com/shandilya-rajnandini/DocAtHome/pull/131) |
+| CRITICAL: Fix duplicate server instances and lint warnings causing application instability | Medium | [#130](https://github.com/shandilya-rajnandini/DocAtHome/issues/130) |
 | Implement a "Doc@Home Pro" subscription for professionals | Medium | [#126](https://github.com/shandilya-rajnandini/DocAtHome/issues/126) |
-| Implement a "Request Refill" button for past prescriptions | Medium | [#120](https://github.com/shandilya-rajnandini/DocAtHome/issues/120) |
 | Add toast notifications for all major form submissions | Medium | [#113](https://github.com/shandilya-rajnandini/DocAtHome/issues/113) |
 | Design and implement "Empty State" components for dashboards | Medium | [#112](https://github.com/shandilya-rajnandini/DocAtHome/issues/112) |
-| feat: Implement enterprise security - resolve 8 critical vulnerabilities (Fixes #102) | Medium | [#110](https://github.com/shandilya-rajnandini/DocAtHome/pull/110) |
-| Implement registration flow for Lab Technicians | Medium | [#91](https://github.com/shandilya-rajnandini/DocAtHome/issues/91) |
 | Create a system for admins to broadcast platform-wide announcements | Hard | [#125](https://github.com/shandilya-rajnandini/DocAtHome/issues/125) |
 | Implement automated checks to flag suspicious professional registrations | Hard | [#124](https://github.com/shandilya-rajnandini/DocAtHome/issues/124) |
 | Develop a "Patient Acuity Score" for incoming appointment requests | Hard | [#123](https://github.com/shandilya-rajnandini/DocAtHome/issues/123) |
@@ -539,6 +536,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Design and build the Lab Technician Dashboard | Hard | [#92](https://github.com/shandilya-rajnandini/DocAtHome/issues/92) |
 | Use Socket.IO for real-time ambulance requests | Hard | [#90](https://github.com/shandilya-rajnandini/DocAtHome/issues/90) |
 | Create a dedicated dashboard for Ambulance Drivers | Hard | [#89](https://github.com/shandilya-rajnandini/DocAtHome/issues/89) |
+| Implement registration flow for Ambulance Drivers | Hard | [#88](https://github.com/shandilya-rajnandini/DocAtHome/issues/88) |
 
 ---
 
@@ -580,12 +578,12 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement in home page | Medium | [#122](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/122) |
+| Add dsa prep sheet | Medium | [#126](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/126) |
+| Add multilingual feature! | Medium | [#125](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/125) |
 | Fixes: #75, Enhances navbar UI | Medium | [#119](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/119) |
 | 🎯 Feature Request: Navbar for HackerZGuide | Medium | [#118](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/118) |
 | 🎨 Enhancement: Professional UI/UX Redesign for HackerZGuide | Medium | [#117](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/117) |
 | 🎨 Enhancement: Dark & Light Mode Support for Theme | Medium | [#116](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/116) |
-| fix wrapping of Resources card | Medium | [#115](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/115) |
 | html page corrected already and space added in topic name of cyber Security | Medium | [#112](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/112) |
 
 ---
@@ -611,24 +609,6 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Add mit license file to the project | Medium | [#7](https://github.com/smiti-jana/PrepWise/pull/7) |
 | Security fixes and feature improvements | Medium | [#6](https://github.com/smiti-jana/PrepWise/pull/6) |
 | add MIT License file to the project | Medium | [#5](https://github.com/smiti-jana/PrepWise/pull/5) |
-
----
-
-## 📌 Project: Dora-AI-Powered-Virtual-Personal-Assistant
-
-📝 **Description:** DORA is your AI-powered productivity companion designed to simplify your daily life. From task automation to smart reminders and intelligent information search, DORA leverages Generative AI, LLMs, RAG, and Agentic AI to bring you a truly smart virtual assistant experience.
-
-🔗 [View Project](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant)
-
-💻 **Tech Stack:** React, Python, FastAPI, Pinecone DB, LangChain, LangGraph, CrewAI, Eleven Lab, Firebase, Tailwind CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Revamped UI: Added gradient background, modular components, theme mod. | Medium | [#15](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/pull/15) |
 
 ---
 
