@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Home Page Redesign | Medium | [#35](https://github.com/sachiikrish/AttendanceTracker/issues/35) |
 | Issue:2 improve navbar and add the toaster notifications. | Medium | [#34](https://github.com/sachiikrish/AttendanceTracker/pull/34) |
 | Add Improved Error Handling and User Feedback for Attendance Form | Medium | [#33](https://github.com/sachiikrish/AttendanceTracker/issues/33) |
 | The project structure is missing the important data and there is no link in the license | Medium | [#31](https://github.com/sachiikrish/AttendanceTracker/issues/31) |
