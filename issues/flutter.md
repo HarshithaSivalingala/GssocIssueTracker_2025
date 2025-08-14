@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Restructure folder hierarchy for FastAPI integration | Medium | [#54](https://github.com/kaushav07/VisionMate/issues/54) |
+| Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
+| Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | Feature Request: Speech based Controls | Medium | [#51](https://github.com/kaushav07/VisionMate/issues/51) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
 | feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
@@ -70,7 +73,6 @@
 | Added Animation on Complaint Submission Success #6 Level 2 | Medium | [#207](https://github.com/Prateek9876/NagarVikas/pull/207) |
 | Modified the Splash Screen animation #185 Level 3 | Hard | [#214](https://github.com/Prateek9876/NagarVikas/pull/214) |
 | ADDED THE MODEL FOR VALID/INVALID IMAGE CHECK | Hard | [#213](https://github.com/Prateek9876/NagarVikas/pull/213) |
-| Added clickable cards feature and complaint details page #208 Level 3 | Hard | [#212](https://github.com/Prateek9876/NagarVikas/pull/212) |
 
 ---
 
@@ -88,7 +90,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added reaction bar UI for each news card | Medium | [#144](https://github.com/Yash159357/BREVITY/pull/144) |
+| Pull Request: Implement News Service with Caching, Error Handling, and API Integration | Medium | [#160](https://github.com/Yash159357/BREVITY/pull/160) |
+| Add like and dislike functionality to the backend | Medium | [#158](https://github.com/Yash159357/BREVITY/issues/158) |
 
 ---
 
@@ -151,7 +154,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added reaction bar UI for each news card | Medium | [#144](https://github.com/Yash159357/BREVITY/pull/144) |
+| Pull Request: Implement News Service with Caching, Error Handling, and API Integration | Medium | [#160](https://github.com/Yash159357/BREVITY/pull/160) |
+| Add like and dislike functionality to the backend | Medium | [#158](https://github.com/Yash159357/BREVITY/issues/158) |
 
 ---
 
