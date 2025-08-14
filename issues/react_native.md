@@ -14,7 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
 | Create GitHub Discussion for Known Issues and Limitations | Easy | [#106](https://github.com/Devasy23/splitwiser/issues/106) |
+| Resolved issue #110 | Medium | [#141](https://github.com/Devasy23/splitwiser/pull/141) |
 | Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 | Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
 | Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
@@ -24,8 +26,6 @@
 | fix(web): Fix web build error with React 19 | Medium | [#122](https://github.com/Devasy23/splitwiser/pull/122) |
 | feat: Migrate to Material 3 with dynamic theming | Medium | [#120](https://github.com/Devasy23/splitwiser/pull/120) |
 | Group Name Validation Enhancement | Medium | [#115](https://github.com/Devasy23/splitwiser/pull/115) |
-| Support Multiple Payers for Single Expense | Medium | [#104](https://github.com/Devasy23/splitwiser/issues/104) |
-| Implement Native Unequal Split Options in API | Medium | [#103](https://github.com/Devasy23/splitwiser/issues/103) |
 
 ---
 
@@ -69,7 +69,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature : Added Quest Submission guide | Medium | [#62](https://github.com/LarytheLord/Adventurers-Guild/pull/62) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
