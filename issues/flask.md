@@ -122,6 +122,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Restructure folder hierarchy for FastAPI integration | Medium | [#54](https://github.com/kaushav07/VisionMate/issues/54) |
+| Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
+| Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | Feature Request: Speech based Controls | Medium | [#51](https://github.com/kaushav07/VisionMate/issues/51) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
 | feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
@@ -153,6 +156,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(backend): add downloadable PDF invoice generation | Medium | [#32](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/32) |
+| fix(ui): show user-friendly error messages on invalid file uploads | Medium | [#31](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/31) |
 | Improve Generated Invoice | Medium | [#28](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/28) |
 | Make UI Responsive for Mobile Devices | Medium | [#23](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/23) |
 | Feature Request: Add Dark Mode | Medium | [#22](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/22) |
@@ -195,12 +200,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add logo and favicon to the website | Easy | [#130](https://github.com/omroy07/AgriTech/pull/130) |
-| Implement Forgot Password Functionality | Medium | [#133](https://github.com/omroy07/AgriTech/issues/133) |
-| Feature Request: Return to Top on Logo Click As a user, I want to be able to click on the website's logo and have the page automatically scroll back to the top. | Medium | [#132](https://github.com/omroy07/AgriTech/issues/132) |
-| Enhanced Loan Guide UI: bilingual guide, language selector, aligned images. | Medium | [#131](https://github.com/omroy07/AgriTech/pull/131) |
+| Scroll Up Feature added to Logo | Medium | [#137](https://github.com/omroy07/AgriTech/pull/137) |
 | Fix: Carousel loops back to first image after last (#120) | Medium | [#129](https://github.com/omroy07/AgriTech/pull/129) |
-| PR #122 : Add Farmer Forum feature | Medium | [#128](https://github.com/omroy07/AgriTech/pull/128) |
 | Add "Back to Home" button on login and register pages | Medium | [#124](https://github.com/omroy07/AgriTech/issues/124) |
 | UI Enhancement: Footer Layout & Alignment Improvements | Medium | [#121](https://github.com/omroy07/AgriTech/issues/121) |
 | Carousel Not Looping After Last Image | Medium | [#120](https://github.com/omroy07/AgriTech/issues/120) |
@@ -264,6 +265,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implemented Google OAuth for login and signup | Medium | [#216](https://github.com/openml-stack/SentiLog-AI/pull/216) |
+| Section Retains Dark Theme Styling in Light Mode | Medium | [#215](https://github.com/openml-stack/SentiLog-AI/issues/215) |
+| improve Dashboard page for light/dark mode visibility | Medium | [#214](https://github.com/openml-stack/SentiLog-AI/pull/214) |
+| Replace bias-model-v2 with updated version | Medium | [#213](https://github.com/openml-stack/SentiLog-AI/pull/213) |
 | logo change | Medium | [#212](https://github.com/openml-stack/SentiLog-AI/pull/212) |
 | Mood Insights – Feature Enhancement for User Profile Page | Medium | [#199](https://github.com/openml-stack/SentiLog-AI/issues/199) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
@@ -278,9 +283,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Enhance About Page with Themed Styling, Animations, and Expanded Content | Medium | [#185](https://github.com/openml-stack/SentiLog-AI/pull/185) |
 | Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
-| Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
-| fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
-| Add export option (CSV/JSON) for analysis results | Medium | [#145](https://github.com/openml-stack/SentiLog-AI/issues/145) |
 
 ---
 
@@ -298,17 +300,17 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README with better structure, details, features, and design (#9) | Medium | [#107](https://github.com/aayushraj1010/med-genie/pull/107) |
+| Added the upload image button in the chat beside voice note button | Medium | [#106](https://github.com/aayushraj1010/med-genie/pull/106) |
 | Need improvement in footer section. | Medium | [#101](https://github.com/aayushraj1010/med-genie/issues/101) |
 | Add Home Section in navbar. | Medium | [#100](https://github.com/aayushraj1010/med-genie/issues/100) |
 | Need improvement in About section | Medium | [#99](https://github.com/aayushraj1010/med-genie/issues/99) |
 | Dark theme auto applied and page auto-scrolls after clicking "Reset Chat" | Medium | [#93](https://github.com/aayushraj1010/med-genie/issues/93) |
 | Improve Navbar Responsiveness and UI | Medium | [#92](https://github.com/aayushraj1010/med-genie/issues/92) |
 | "Fix:  footer design (#87)" | Medium | [#89](https://github.com/aayushraj1010/med-genie/pull/89) |
-| Add a Custom Favicon to the Site | Medium | [#82](https://github.com/aayushraj1010/med-genie/issues/82) |
 | Prevent empty/whitespace-only chat submissions | Medium | [#81](https://github.com/aayushraj1010/med-genie/issues/81) |
 | Add Push Notifications for Emergency Alerts | Medium | [#77](https://github.com/aayushraj1010/med-genie/issues/77) |
 | <Feature> Allow users to send medicine photos for AI-based medical info | Medium | [#75](https://github.com/aayushraj1010/med-genie/issues/75) |
-| Enhance Med Genie UI: Custom Robot Avatar, Typing Indicator, and Branding Improvements | Medium | [#45](https://github.com/aayushraj1010/med-genie/pull/45) |
 
 ---
 
@@ -430,7 +432,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added the collapsible sidebar feature | Easy | [#34](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/34) |
+| FEATURE: Add User Login and Registration Functionality | Medium | [#35](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/35) |
 | Refactor backend into modular folder structure (Flask Blueprint Setup) | Medium | [#8](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/8) |
 
 ---
