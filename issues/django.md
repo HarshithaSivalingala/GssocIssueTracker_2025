@@ -14,6 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add comprehensive tests for LineChart component | Medium | [#2068](https://github.com/OWASP/Nest/pull/2068) |
+| Setup encryption and decryption for google oauth tokens using AWS KMS | Medium | [#2067](https://github.com/OWASP/Nest/pull/2067) |
+| fix(ui): improve mobile navigation menu usability | Medium | [#2066](https://github.com/OWASP/Nest/issues/2066) |
+| feat(ui): enhance search results page with better filtering & responsive design | Medium | [#2065](https://github.com/OWASP/Nest/issues/2065) |
 | removed leader and suggested leader, introduced entity_member model | Medium | [#2063](https://github.com/OWASP/Nest/pull/2063) |
 | refactor: snapshot generation | Medium | [#2053](https://github.com/OWASP/Nest/pull/2053) |
 | Project Dasbored Drop Down Test case has been made | Medium | [#2052](https://github.com/OWASP/Nest/pull/2052) |
@@ -21,7 +25,6 @@
 | Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
 | feat: add comprehensive unit tests for DisplayIcon component | Medium | [#2048](https://github.com/OWASP/Nest/pull/2048) |
 | Feature/daily badge sync job 1763 | Medium | [#2047](https://github.com/OWASP/Nest/pull/2047) |
-| Add id field to graphql entities | Medium | [#2045](https://github.com/OWASP/Nest/pull/2045) |
 | test- inmproved test coverage of github internal nodes more than 80% … | Medium | [#2042](https://github.com/OWASP/Nest/pull/2042) |
 | Integrate Lighthouse CI for automated website audits | Medium | [#2037](https://github.com/OWASP/Nest/issues/2037) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2024](https://github.com/OWASP/Nest/pull/2024) |
@@ -29,8 +32,6 @@
 | test: add unit tests for GeneralCompliantComponent | Medium | [#2018](https://github.com/OWASP/Nest/pull/2018) |
 | Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
 | Added participants who have expressed interest in a specific issue in issue model . | Medium | [#1995](https://github.com/OWASP/Nest/pull/1995) |
-| refactor:remove PLR0912 ignore and fix 4 violations update | Medium | [#1979](https://github.com/OWASP/Nest/pull/1979) |
-| enhance:change-hover-color-action-button | Medium | [#1978](https://github.com/OWASP/Nest/pull/1978) |
 
 ---
 
@@ -88,6 +89,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Restructure folder hierarchy for FastAPI integration | Medium | [#54](https://github.com/kaushav07/VisionMate/issues/54) |
+| Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
+| Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | Feature Request: Speech based Controls | Medium | [#51](https://github.com/kaushav07/VisionMate/issues/51) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
 | feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
@@ -149,10 +153,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: aboutus page's read more button | Medium | [#148](https://github.com/Khushi-Nigam/jobportal/pull/148) |
+| Terms and Conditions Page Not Displayed During Employee/Jobseeker Registration | Medium | [#160](https://github.com/Khushi-Nigam/jobportal/issues/160) |
+| Trouble Reading Texts at about-us | Medium | [#159](https://github.com/Khushi-Nigam/jobportal/issues/159) |
+| fix: register button not working | Medium | [#158](https://github.com/Khushi-Nigam/jobportal/pull/158) |
 | register button no working | Medium | [#111](https://github.com/Khushi-Nigam/jobportal/issues/111) |
-| while registering i can use 4 characters but while login i cant | Medium | [#102](https://github.com/Khushi-Nigam/jobportal/issues/102) |
-| Issue 5 resolved | Medium | [#80](https://github.com/Khushi-Nigam/jobportal/pull/80) |
 
 ---
 
@@ -170,7 +174,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Server Error (500) on 127.0.0.1:8000 | Medium | [#30](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/30) |
 | feat: Add Data Dashboard, Explainability, and API Layer for Sneaker Price Prediction (#10) | Medium | [#27](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/27) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
 | Create a CONTRIBUTING.md file for developer guidelines | Medium | [#22](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/22) |
@@ -203,6 +206,9 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Removed duplicate "© 2025" text in the Website footer (Ref. 188) | Easy | [#191](https://github.com/ygowthamr/WhitePaper/pull/191) |
+| Notification popup feature for note reminders (Closes #208) | Medium | [#209](https://github.com/ygowthamr/WhitePaper/pull/209) |
+| Notification Popup Feature for Note Reminders | Medium | [#208](https://github.com/ygowthamr/WhitePaper/issues/208) |
+| fix(ui): improve dark mode toggle & theme persistence | Medium | [#207](https://github.com/ygowthamr/WhitePaper/issues/207) |
 | Add SECURITY.md file | Medium | [#206](https://github.com/ygowthamr/WhitePaper/issues/206) |
 | docs: add CONTRIBUTING.md with guidelines for contributors | Medium | [#203](https://github.com/ygowthamr/WhitePaper/pull/203) |
 | Enhance Voice Input Functionality and Script Improvements (closes #201) | Medium | [#202](https://github.com/ygowthamr/WhitePaper/pull/202) |
@@ -225,7 +231,6 @@
 | Fix: Exposed GitHub OAuth Credentials and Hardcoded Secret Key | Medium | [#176](https://github.com/ygowthamr/WhitePaper/pull/176) |
 | Addaboutuspage | Medium | [#170](https://github.com/ygowthamr/WhitePaper/pull/170) |
 | Final improvements across all pages | Medium | [#169](https://github.com/ygowthamr/WhitePaper/pull/169) |
-| Enhance <head> Section with Meta Tags for Mobile Responsiveness and Accessibility | Medium | [#161](https://github.com/ygowthamr/WhitePaper/issues/161) |
 
 ---
 
@@ -243,9 +248,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: track-contributions.yml and process-past-contributions.yml workflows not functioning | Easy | [#66](https://github.com/Promptzy/Nexara/issues/66) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
-| Leaderborad Creation | Medium | [#63](https://github.com/Promptzy/Nexara/pull/63) |
+| Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
+| Implementation of Basic API's Endpoints | Medium | [#67](https://github.com/Promptzy/Nexara/issues/67) |
 
 ---
 
