@@ -15,11 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update README.md file | Easy | [#42](https://github.com/abhisek247767/PeopleHub-Frontend/issues/42) |
-| Added Avatar in Navbar #75 Level 2 | Medium | [#91](https://github.com/abhisek247767/PeopleHub-Frontend/pull/91) |
-| Forget password ui modification ISSUE 88 | Medium | [#90](https://github.com/abhisek247767/PeopleHub-Frontend/pull/90) |
-| Delete project modal | Medium | [#89](https://github.com/abhisek247767/PeopleHub-Frontend/pull/89) |
-| Forget password Ui issue | Medium | [#88](https://github.com/abhisek247767/PeopleHub-Frontend/issues/88) |
-| Delete Modal reuse when Click on Delete Project | Medium | [#86](https://github.com/abhisek247767/PeopleHub-Frontend/issues/86) |
+| Addition of automate issue create message | Medium | [#93](https://github.com/abhisek247767/PeopleHub-Frontend/issues/93) |
 | Update README.md file | Medium | [#70](https://github.com/abhisek247767/PeopleHub-Frontend/pull/70) |
 | Updated README.md | Medium | [#49](https://github.com/abhisek247767/PeopleHub-Frontend/pull/49) |
 
