@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| update readme for Astra-Ai | Medium | [#64](https://github.com/A-Akhil/Astra-Ai/issues/64) |
 | secrets.properties | Medium | [#63](https://github.com/A-Akhil/Astra-Ai/pull/63) |
 | Add Comprehensive KDoc Comments and Dokka Documentation Setup | Medium | [#62](https://github.com/A-Akhil/Astra-Ai/pull/62) |
 | Astra ai some important issues | Medium | [#61](https://github.com/A-Akhil/Astra-Ai/issues/61) |
@@ -117,7 +118,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added new wallpapers and description | Medium | [#33](https://github.com/sayan0328/WallGodds-App/pull/33) |
+| [UPDATE] HOME PAGE | Medium | [#36](https://github.com/sayan0328/WallGodds-App/issues/36) |
 
 ---
 
@@ -153,6 +154,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Limited the length of phone number and otp | Medium | [#358](https://github.com/yuvrajsinghgmx/ShopSmart/pull/358) |
+| Docs: Add SECURITY.md for responsible disclosure | Medium | [#357](https://github.com/yuvrajsinghgmx/ShopSmart/pull/357) |
 | Implement API for Role-Based Shop Creation | Medium | [#353](https://github.com/yuvrajsinghgmx/ShopSmart/pull/353) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
@@ -176,7 +179,6 @@ User Profile: BMI calculator and fitness analytics.
 | Private Repositories | Medium | [#19](https://github.com/Ajay-patidar0/GitSearch/issues/19) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
 | Enhance UI/UX. | Medium | [#13](https://github.com/Ajay-patidar0/GitSearch/pull/13) |
-| There is no license in the readme | Medium | [#11](https://github.com/Ajay-patidar0/GitSearch/issues/11) |
 
 ---
 
