@@ -35,8 +35,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| delete_provider | Medium | [#125](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/125) |
+| getProvider function | Medium | [#124](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/124) |
 | listProviders function | Medium | [#122](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/122) |
-| feat: Added API for listTargets [messaging] | Medium | [#120](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/120) |
 | listProviders | Medium | [#119](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/119) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
@@ -58,6 +59,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Build Instructions for building on Windows. | Medium | [#40](https://github.com/SharonIV0x86/CinderPeak/pull/40) |
 | added images | Medium | [#39](https://github.com/SharonIV0x86/CinderPeak/pull/39) |
 
 ---
@@ -79,7 +81,6 @@
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
 | Edited footer | Medium | [#71](https://github.com/Aqsa4066/netflixclone/pull/71) |
-| Replace the images with more attractive images | Medium | [#69](https://github.com/Aqsa4066/netflixclone/issues/69) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
 | Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
 | Enhance Netflix Clone Footer Design and Functionality | Medium | [#60](https://github.com/Aqsa4066/netflixclone/issues/60) |
