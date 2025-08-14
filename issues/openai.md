@@ -14,10 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhanced baby feeder page | Medium | [#227](https://github.com/Amarjha01/InfantCareCompass/pull/227) |
-| Mutiple enhancements in Contact page | Medium | [#226](https://github.com/Amarjha01/InfantCareCompass/pull/226) |
 | Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
-| Enhance Footer UI for Improved Aesthetics & Usability | Medium | [#220](https://github.com/Amarjha01/InfantCareCompass/pull/220) |
 | Multimedia Q&A Feature for Patients and Doctors | Medium | [#216](https://github.com/Amarjha01/InfantCareCompass/pull/216) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Featured Article UI Fixed | Medium | [#211](https://github.com/Amarjha01/InfantCareCompass/pull/211) |
@@ -40,19 +37,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added allergen info underneath the cuisine and added diet-based tag filtering | Medium | [#185](https://github.com/Ayushjhawar8/Flavor-ai/pull/185) |
-| Auth-Setup | Medium | [#184](https://github.com/Ayushjhawar8/Flavor-ai/pull/184) |
-| Improving overridden feature (Category heading layout) | Medium | [#183](https://github.com/Ayushjhawar8/Flavor-ai/issues/183) |
-| Optimization of skeleton ui card in category section | Medium | [#182](https://github.com/Ayushjhawar8/Flavor-ai/issues/182) |
-| Visibility issue in AI Generated recepie page | Medium | [#181](https://github.com/Ayushjhawar8/Flavor-ai/issues/181) |
-| Improving category component in dark theme | Medium | [#180](https://github.com/Ayushjhawar8/Flavor-ai/issues/180) |
-| Update: fix the hero ui | Medium | [#179](https://github.com/Ayushjhawar8/Flavor-ai/pull/179) |
-| Integrated Navbar throughout the website | Medium | [#178](https://github.com/Ayushjhawar8/Flavor-ai/pull/178) |
-| Recipe Cost Calculator | Medium | [#177](https://github.com/Ayushjhawar8/Flavor-ai/pull/177) |
-| Added favorite button to dish detail page | Medium | [#176](https://github.com/Ayushjhawar8/Flavor-ai/pull/176) |
-| Inconsistent Layout in diet planner page fixed | Medium | [#174](https://github.com/Ayushjhawar8/Flavor-ai/pull/174) |
+| Addition of pr create automate message | Medium | [#191](https://github.com/Ayushjhawar8/Flavor-ai/issues/191) |
+| AI-Powered Recipe Recommendation Engine | Medium | [#188](https://github.com/Ayushjhawar8/Flavor-ai/pull/188) |
+| Added a "Cursor Trail Effect " | Medium | [#187](https://github.com/Ayushjhawar8/Flavor-ai/pull/187) |
 | Fix: Footer stays at bottom of page (#46) | Medium | [#150](https://github.com/Ayushjhawar8/Flavor-ai/pull/150) |
-| Grocery integration | Hard | [#163](https://github.com/Ayushjhawar8/Flavor-ai/pull/163) |
 
 ---
 
@@ -209,9 +197,9 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: track-contributions.yml and process-past-contributions.yml workflows not functioning | Easy | [#66](https://github.com/Promptzy/Nexara/issues/66) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
-| Leaderborad Creation | Medium | [#63](https://github.com/Promptzy/Nexara/pull/63) |
+| Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
+| Implementation of Basic API's Endpoints | Medium | [#67](https://github.com/Promptzy/Nexara/issues/67) |
 
 ---
 
