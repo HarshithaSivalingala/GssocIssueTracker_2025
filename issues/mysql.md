@@ -54,6 +54,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Restructure folder hierarchy for FastAPI integration | Medium | [#54](https://github.com/kaushav07/VisionMate/issues/54) |
+| Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
+| Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | Feature Request: Speech based Controls | Medium | [#51](https://github.com/kaushav07/VisionMate/issues/51) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
 | feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
@@ -85,6 +88,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add readme.md file | Medium | [#47](https://github.com/Naveenkumar30838/Housify/issues/47) |
+| responsive navbar | Medium | [#46](https://github.com/Naveenkumar30838/Housify/pull/46) |
 | Integrate Cloudinary for Image Uploads and Enhance Environment Setup | Medium | [#45](https://github.com/Naveenkumar30838/Housify/pull/45) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
 | Feature Suggestion :Save to Wishlist / Bookmark Properties | Medium | [#37](https://github.com/Naveenkumar30838/Housify/issues/37) |
@@ -108,6 +113,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make SQL Query Results Scrollable on Small Screens | Medium | [#42](https://github.com/swarooppatilx/bit-by-query/pull/42) |
+| Add Reset Button to Clear Query Input and Results Panel | Medium | [#41](https://github.com/swarooppatilx/bit-by-query/pull/41) |
 | feature: Timer for each question | Medium | [#39](https://github.com/swarooppatilx/bit-by-query/issues/39) |
 | Add a LEARN.md file to provide learning resources for new contributors | Medium | [#33](https://github.com/swarooppatilx/bit-by-query/issues/33) |
 | ISSUE:-While Login And Signup Internal Server Failed Error | Medium | [#30](https://github.com/swarooppatilx/bit-by-query/issues/30) |
@@ -128,7 +135,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add SQL script to insert dummy dataset for local development | Medium | [#47](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/47) |
+| Refactor: Moved from entity-based to layer-based folder structure | Medium | [#49](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/49) |
+| Add:dummy dataset for local development | Medium | [#48](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/48) |
 
 ---
 
@@ -146,6 +154,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Home Page Redesign | Medium | [#35](https://github.com/sachiikrish/AttendanceTracker/issues/35) |
 | Issue:2 improve navbar and add the toaster notifications. | Medium | [#34](https://github.com/sachiikrish/AttendanceTracker/pull/34) |
 | Add Improved Error Handling and User Feedback for Attendance Form | Medium | [#33](https://github.com/sachiikrish/AttendanceTracker/issues/33) |
 | The project structure is missing the important data and there is no link in the license | Medium | [#31](https://github.com/sachiikrish/AttendanceTracker/issues/31) |
