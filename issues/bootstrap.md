@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| SOlved issue #1344 footer Ui enhance and typing animation added in all Nav links | Medium | [#1347](https://github.com/vishanurag/Canvas-Editor/pull/1347) |
 | Improve "Clear Canvas" Button Design to Increase Visibility | Medium | [#1346](https://github.com/vishanurag/Canvas-Editor/issues/1346) |
 | Feat:  Adding "remember me" to the signup and signin page connecting it to the local storage database for user authentication. | Medium | [#1190](https://github.com/vishanurag/Canvas-Editor/issues/1190) |
 | 🧑‍💻:  change  layout of the website | Medium | [#1132](https://github.com/vishanurag/Canvas-Editor/issues/1132) |
@@ -38,17 +39,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| "Read More" & "Explore" Buttons Visibility and Padding Issues in Our Work Section | Medium | [#241](https://github.com/gyanshankar1708/GrowCraft/issues/241) |
+| Redesign the services section  with flexing and responsive | Medium | [#249](https://github.com/gyanshankar1708/GrowCraft/issues/249) |
+| Navbar toggling fix | Medium | [#248](https://github.com/gyanshankar1708/GrowCraft/pull/248) |
+| Sticky navbar on other pages | Medium | [#245](https://github.com/gyanshankar1708/GrowCraft/issues/245) |
+| Heading Website Development not visible in dark mode | Medium | [#244](https://github.com/gyanshankar1708/GrowCraft/issues/244) |
+| Updated Contact us page | Medium | [#243](https://github.com/gyanshankar1708/GrowCraft/pull/243) |
 | Fix for Issue #223 - UI Flickering at Component Borders | Medium | [#240](https://github.com/gyanshankar1708/GrowCraft/pull/240) |
-| Create Content Writing Page | Medium | [#237](https://github.com/gyanshankar1708/GrowCraft/pull/237) |
 | Bug: Favicon is not visible in worklist.html and contact.html. | Medium | [#233](https://github.com/gyanshankar1708/GrowCraft/issues/233) |
 | fix: improve UI for work section cards and footer | Medium | [#231](https://github.com/gyanshankar1708/GrowCraft/pull/231) |
-| solved Issue #195 add animation on about section and transparent background of logo | Medium | [#230](https://github.com/gyanshankar1708/GrowCraft/pull/230) |
-| Added custom 404 page with navigation to home (#198) | Medium | [#229](https://github.com/gyanshankar1708/GrowCraft/pull/229) |
 | Update UI and add Dark Mode support across GrowCraft site | Medium | [#221](https://github.com/gyanshankar1708/GrowCraft/pull/221) |
 | Digital Marketing Page refer to issue #41 | Medium | [#215](https://github.com/gyanshankar1708/GrowCraft/pull/215) |
-| Add Blogs option to contact page navbar for consistent navigation Issue#185 | Medium | [#212](https://github.com/gyanshankar1708/GrowCraft/pull/212) |
-| Fix the navbar toggle faeture | Medium | [#211](https://github.com/gyanshankar1708/GrowCraft/pull/211) |
 | Fix: Incorrect redirection of links on Contact page | Medium | [#207](https://github.com/gyanshankar1708/GrowCraft/pull/207) |
 | Fix : Correct footer links in contact.html | Medium | [#206](https://github.com/gyanshankar1708/GrowCraft/pull/206) |
 
@@ -88,12 +88,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update contact.html | Medium | [#194](https://github.com/sachiva1/sachiva/pull/194) |
+| Enhancement: Improve Overall Design and Layout of Our Services Page | Medium | [#192](https://github.com/sachiva1/sachiva/issues/192) |
 | Fix navigation bar(missing links+overflow issue) | Medium | [#191](https://github.com/sachiva1/sachiva/issues/191) |
-| Made booking dropdown flexible | Medium | [#190](https://github.com/sachiva1/sachiva/pull/190) |
-| Added content in blog cards + enhanced UI | Medium | [#189](https://github.com/sachiva1/sachiva/pull/189) |
 | Contact US page | Medium | [#188](https://github.com/sachiva1/sachiva/issues/188) |
-| Portfolio page cards | Medium | [#187](https://github.com/sachiva1/sachiva/issues/187) |
-| Updated Contact.html | Medium | [#116](https://github.com/sachiva1/sachiva/pull/116) |
 
 ---
 
