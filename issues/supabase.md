@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Addition of automate issue create message | Medium | [#53](https://github.com/HimanshuHeda/Zip_Tales/issues/53) |
 | Add credibility badges & source reliability feature | Medium | [#52](https://github.com/HimanshuHeda/Zip_Tales/pull/52) |
 | footer | Medium | [#51](https://github.com/HimanshuHeda/Zip_Tales/issues/51) |
 | Added reset password verification (only registered users can reset) | Medium | [#50](https://github.com/HimanshuHeda/Zip_Tales/pull/50) |
@@ -115,7 +116,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Request: Add a "Scroll to Top" Button | Medium | [#18](https://github.com/byteom/Interview01/issues/18) |
 | Search bar is non-functional | Medium | [#17](https://github.com/byteom/Interview01/issues/17) |
 | Enhance Stats & Testimonials with Engaging Animations for Improved UX | Medium | [#16](https://github.com/byteom/Interview01/issues/16) |
 | ui enhancement | Medium | [#15](https://github.com/byteom/Interview01/issues/15) |
@@ -144,10 +144,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Enhancement: Improve Supabase Auth email template for better user experience | Medium | [#77](https://github.com/sristy17/next-payroll/issues/77) |
+| UI Enhancement: Improve Supabase Auth email template for better user experience | Medium | [#77](https://github.com/sristy17/next-payroll/issues/77) |
 | feat: logout button added | Medium | [#76](https://github.com/sristy17/next-payroll/pull/76) |
-| updated next version and removed bcrypt. Also made sure password work… | Medium | [#75](https://github.com/sristy17/next-payroll/pull/75) |
-| Payment page creation | Medium | [#73](https://github.com/sristy17/next-payroll/pull/73) |
+| updated next version and used bcryptjs to ensure password hashing. Also made sure password work… | Medium | [#75](https://github.com/sristy17/next-payroll/pull/75) |
+| 🛠️ Forgot Password functionality not working | Medium | [#40](https://github.com/sristy17/next-payroll/issues/40) |
 
 ---
 
@@ -185,7 +185,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix dark mode toggle on tools page | Medium | [#28](https://github.com/Jyotibrat/AI-Flow/pull/28) |
-| Navbar dark mode icon overlaps "AI tools activate" text | Medium | [#27](https://github.com/Jyotibrat/AI-Flow/issues/27) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
 ---
@@ -204,6 +203,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @libsql/client from 0.5.6 to 0.15.11 | Medium | [#76](https://github.com/Ojas-Arora/SapneSeSafar/pull/76) |
+| Bump tailwindcss from 3.4.17 to 4.1.12 | Medium | [#75](https://github.com/Ojas-Arora/SapneSeSafar/pull/75) |
 | Bump vite from 5.4.17 to 7.1.2 | Medium | [#74](https://github.com/Ojas-Arora/SapneSeSafar/pull/74) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.55.0 | Medium | [#73](https://github.com/Ojas-Arora/SapneSeSafar/pull/73) |
 | Bump lucide-react from 0.344.0 to 0.539.0 | Medium | [#72](https://github.com/Ojas-Arora/SapneSeSafar/pull/72) |
@@ -222,12 +223,10 @@
 | Bump react-dom and @types/react-dom | Medium | [#47](https://github.com/Ojas-Arora/SapneSeSafar/pull/47) |
 | Bump react and @types/react | Medium | [#46](https://github.com/Ojas-Arora/SapneSeSafar/pull/46) |
 | Bump axios from 1.7.9 to 1.11.0 | Medium | [#39](https://github.com/Ojas-Arora/SapneSeSafar/pull/39) |
-| Bump @libsql/client from 0.5.6 to 0.15.10 | Medium | [#32](https://github.com/Ojas-Arora/SapneSeSafar/pull/32) |
 | Bump three and @types/three | Medium | [#17](https://github.com/Ojas-Arora/SapneSeSafar/pull/17) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.20 | Medium | [#15](https://github.com/Ojas-Arora/SapneSeSafar/pull/15) |
 | Bump react, react-dom and @types/react | Medium | [#14](https://github.com/Ojas-Arora/SapneSeSafar/pull/14) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 5.2.0 | Medium | [#13](https://github.com/Ojas-Arora/SapneSeSafar/pull/13) |
-| Bump tailwindcss from 3.4.17 to 4.1.11 | Medium | [#9](https://github.com/Ojas-Arora/SapneSeSafar/pull/9) |
 | Bump autoprefixer from 10.4.20 to 10.4.21 | Medium | [#6](https://github.com/Ojas-Arora/SapneSeSafar/pull/6) |
 | Bump postcss from 8.4.47 to 8.5.6 | Medium | [#2](https://github.com/Ojas-Arora/SapneSeSafar/pull/2) |
 
