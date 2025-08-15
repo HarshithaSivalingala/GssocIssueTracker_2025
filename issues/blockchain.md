@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a CONTRIBUTING.md file for better onboarding #8 | Medium | [#11](https://github.com/kunal0297/Nexus_dawn/pull/11) |
 | Added Code of Conduct | Medium | [#4](https://github.com/kunal0297/Nexus_dawn/pull/4) |
 
 ---
