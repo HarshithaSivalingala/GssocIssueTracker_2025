@@ -14,10 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make a navbar that will be seen in everpage | Medium | [#62](https://github.com/Abhinavhaldiya/FinPilot/issues/62) |
+| Backend db not connected | Medium | [#61](https://github.com/Abhinavhaldiya/FinPilot/issues/61) |
 | middleware-and-protected-routes-for-user | Medium | [#60](https://github.com/Abhinavhaldiya/FinPilot/pull/60) |
 | feat: update login page with SVG wave background | Medium | [#59](https://github.com/Abhinavhaldiya/FinPilot/pull/59) |
 | An issue occurs | Medium | [#57](https://github.com/Abhinavhaldiya/FinPilot/issues/57) |
-| solved warning and removed the pakage manager outside the server and … | Medium | [#55](https://github.com/Abhinavhaldiya/FinPilot/pull/55) |
 | feat:Setup folder structure for modular features: users, expenses, ap… | Medium | [#53](https://github.com/Abhinavhaldiya/FinPilot/pull/53) |
 | Feature Request: AI Powered Receipt Categorization | Medium | [#52](https://github.com/Abhinavhaldiya/FinPilot/issues/52) |
 | docs: improve README with roadmap and API overview | Medium | [#51](https://github.com/Abhinavhaldiya/FinPilot/pull/51) |
@@ -27,7 +28,6 @@
 | Schema Definition using Prisma | Medium | [#32](https://github.com/Abhinavhaldiya/FinPilot/issues/32) |
 | Update README.md file | Medium | [#21](https://github.com/Abhinavhaldiya/FinPilot/issues/21) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#19](https://github.com/Abhinavhaldiya/FinPilot/issues/19) |
-| Feature & Tech Suggestions | Medium | [#17](https://github.com/Abhinavhaldiya/FinPilot/issues/17) |
 
 ---
 
@@ -54,6 +54,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Real-Time Chat Feature between mentor and mentee | Medium | [#54](https://github.com/Menthub-GSSoC/Menthub/issues/54) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
 | UI Enhancements for Login Page | Medium | [#51](https://github.com/Menthub-GSSoC/Menthub/issues/51) |
@@ -90,11 +91,12 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implementing Analytics Page for Admin Dashboard | Medium | [#553](https://github.com/HarshS16/Civix/issues/553) |
+| Implementing Documents Page in Admin Dashboard | Medium | [#566](https://github.com/HarshS16/Civix/issues/566) |
+| Users Page Added in admin Dashboard | Medium | [#565](https://github.com/HarshS16/Civix/pull/565) |
+| issue create automate message added | Medium | [#564](https://github.com/HarshS16/Civix/pull/564) |
+| fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
+| Difficulty in community prioritization | Medium | [#560](https://github.com/HarshS16/Civix/issues/560) |
 | Align "Get Started" and "Watch Demo" Buttons with Introductory Tex | Medium | [#552](https://github.com/HarshS16/Civix/issues/552) |
-| cleaned up contributor routes | Medium | [#551](https://github.com/HarshS16/Civix/pull/551) |
-| Improve Navbar Spacing Between SOS, Dark Mode, and Profile Buttons | Medium | [#550](https://github.com/HarshS16/Civix/issues/550) |
-| Features Section in About Page now have color scheme as of Civix | Medium | [#549](https://github.com/HarshS16/Civix/pull/549) |
 | Want to improve the features section | Medium | [#539](https://github.com/HarshS16/Civix/issues/539) |
 
 ---
@@ -152,6 +154,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improved the ui of Contact and terms and condition page | Medium | [#86](https://github.com/Er-luffy-D/SimplifAI/pull/86) |
+| fixed the user management and progress page | Medium | [#85](https://github.com/Er-luffy-D/SimplifAI/pull/85) |
 | Added profile delete feature | Medium | [#82](https://github.com/Er-luffy-D/SimplifAI/pull/82) |
 | Vmpranav/rag implementation | Medium | [#76](https://github.com/Er-luffy-D/SimplifAI/pull/76) |
 
@@ -365,6 +369,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
 | Changed dark cards in about section to white tone #109 | Medium | [#118](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/118) |
 | Enhanved the user dashboard (ISSUE NO.54) | Medium | [#113](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/113) |
 | Added Cursor Effect | Medium | [#110](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/110) |
@@ -389,11 +394,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Download Feature for AI Summarizies, Mind Map and Road Map | Medium | [#64](https://github.com/vatsal-bhakodia/smriti-ai/issues/64) |
-| Enhanced Sign-In/Sign-Up UI | Medium | [#63](https://github.com/vatsal-bhakodia/smriti-ai/pull/63) |
+| feat: add study reminders feature to dashboard | Medium | [#73](https://github.com/vatsal-bhakodia/smriti-ai/pull/73) |
+| Feature Request: Interview Preparation Section | Medium | [#72](https://github.com/vatsal-bhakodia/smriti-ai/issues/72) |
 | Add a "Blogs" Page to Smriti AI | Medium | [#27](https://github.com/vatsal-bhakodia/smriti-ai/issues/27) |
-| Add PDF Support to Resource Summary API | Medium | [#11](https://github.com/vatsal-bhakodia/smriti-ai/issues/11) |
-| Create a Feature to Assign Levels Based on User Performance | Medium | [#9](https://github.com/vatsal-bhakodia/smriti-ai/issues/9) |
 
 ---
 
