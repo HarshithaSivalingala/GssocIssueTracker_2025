@@ -15,12 +15,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
-| Create GitHub Discussion for Known Issues and Limitations | Easy | [#106](https://github.com/Devasy23/splitwiser/issues/106) |
-| Resolved issue #110 | Medium | [#141](https://github.com/Devasy23/splitwiser/pull/141) |
+| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
+| Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
 | Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 | Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
 | Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
-| Fix/multiple UI issues | Medium | [#131](https://github.com/Devasy23/splitwiser/pull/131) |
 | Feat: Update frontend UI to be modern and minimal | Medium | [#127](https://github.com/Devasy23/splitwiser/pull/127) |
 | Implement theming system with consistent border radius and spacing | Medium | [#125](https://github.com/Devasy23/splitwiser/pull/125) |
 | fix(web): Fix web build error with React 19 | Medium | [#122](https://github.com/Devasy23/splitwiser/pull/122) |
@@ -109,6 +108,7 @@
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Enhancing the import CSV function | Medium | [#130](https://github.com/Loop-Hive/ScheduleX/pull/130) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
 | Redesign Hero Section for Minimalism | Medium | [#116](https://github.com/Loop-Hive/ScheduleX/issues/116) |
 | Edit Menu Button Delayed Activation | Medium | [#112](https://github.com/Loop-Hive/ScheduleX/issues/112) |
