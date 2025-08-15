@@ -45,9 +45,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Limited the length of phone number and otp | Medium | [#358](https://github.com/yuvrajsinghgmx/ShopSmart/pull/358) |
-| Docs: Add SECURITY.md for responsible disclosure | Medium | [#357](https://github.com/yuvrajsinghgmx/ShopSmart/pull/357) |
 | Implement API for Role-Based Shop Creation | Medium | [#353](https://github.com/yuvrajsinghgmx/ShopSmart/pull/353) |
+| Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
