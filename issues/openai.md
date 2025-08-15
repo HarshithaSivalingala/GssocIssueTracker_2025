@@ -15,11 +15,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
-| Multimedia Q&A Feature for Patients and Doctors | Medium | [#216](https://github.com/Amarjha01/InfantCareCompass/pull/216) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Featured Article UI Fixed | Medium | [#211](https://github.com/Amarjha01/InfantCareCompass/pull/211) |
-| added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
+| Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
 
 ---
 
@@ -37,10 +36,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Addition of pr create automate message | Medium | [#191](https://github.com/Ayushjhawar8/Flavor-ai/issues/191) |
-| AI-Powered Recipe Recommendation Engine | Medium | [#188](https://github.com/Ayushjhawar8/Flavor-ai/pull/188) |
-| Added a "Cursor Trail Effect " | Medium | [#187](https://github.com/Ayushjhawar8/Flavor-ai/pull/187) |
+| Added navbar to recipe page | Medium | [#193](https://github.com/Ayushjhawar8/Flavor-ai/pull/193) |
+| Pr create automate message | Medium | [#192](https://github.com/Ayushjhawar8/Flavor-ai/pull/192) |
 | Fix: Footer stays at bottom of page (#46) | Medium | [#150](https://github.com/Ayushjhawar8/Flavor-ai/pull/150) |
+| AI-Powered Recipe Recommendation Engine | Hard | [#188](https://github.com/Ayushjhawar8/Flavor-ai/pull/188) |
 
 ---
 
@@ -90,6 +89,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Footer links in the landing page point to incorrect external accounts | Medium | [#256](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/256) |
+| Enhance Hero Section for Vibrancy and Visual Appeal | Medium | [#255](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/255) |
+| Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
+| Fix/chatbot contrast | Medium | [#253](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/253) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 | 📁 Add Firebase or Local JSON Backend Support | Hard | [#18](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/18) |
 
@@ -179,6 +182,7 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a CONTRIBUTING.md file for better onboarding #8 | Medium | [#11](https://github.com/kunal0297/Nexus_dawn/pull/11) |
 | Added Code of Conduct | Medium | [#4](https://github.com/kunal0297/Nexus_dawn/pull/4) |
 
 ---
