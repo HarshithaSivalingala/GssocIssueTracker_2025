@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Replace Streamlit with React to Fix Performance and Feature Limitations | Medium | [#33](https://github.com/CharithaReddy18/AI-health-chatbot/issues/33) |
 | add an app that recommends doctor specialist recommendation | Medium | [#32](https://github.com/CharithaReddy18/AI-health-chatbot/issues/32) |
 | AI-powered Doctor’s Prescription Analysis & Drug Interaction Detection for Medibot | Medium | [#31](https://github.com/CharithaReddy18/AI-health-chatbot/issues/31) |
 | <new feature> adding dark mode toggle | Medium | [#30](https://github.com/CharithaReddy18/AI-health-chatbot/issues/30) |
