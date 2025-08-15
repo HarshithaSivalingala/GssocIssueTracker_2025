@@ -15,11 +15,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
-| Multimedia Q&A Feature for Patients and Doctors | Medium | [#216](https://github.com/Amarjha01/InfantCareCompass/pull/216) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Featured Article UI Fixed | Medium | [#211](https://github.com/Amarjha01/InfantCareCompass/pull/211) |
-| added Role-based-access and multerfor file uploads | Medium | [#202](https://github.com/Amarjha01/InfantCareCompass/pull/202) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
+| Disha | Medium | [#178](https://github.com/Amarjha01/InfantCareCompass/pull/178) |
 
 ---
 
@@ -39,30 +38,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Critical bug fix affecting all logged-in users | Medium | [#89](https://github.com/Bavanetha27/Refixly/pull/89) |
-| Addition of pr create automate message | Medium | [#88](https://github.com/Bavanetha27/Refixly/issues/88) |
-| Added table of contents with Toggle Button in README | Medium | [#87](https://github.com/Bavanetha27/Refixly/pull/87) |
-| Establish foundational project structure: add README, CI pipeline, linting and testing framework | Medium | [#42](https://github.com/Bavanetha27/Refixly/issues/42) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
-
----
-
-## 📌 Project: Medical Adherence Monitoring System
-
-📝 **Description:** An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle. Demo Video: https://res.cloudinary.com/dzl3qnjqk/video/upload/v1751681025/VID-20250419-WA0000_4_tycodg.mp4
-
-🔗 [View Project](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System)
-
-💻 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| issue create automate message added | Medium | [#27](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/27) |
 
 ---
 
