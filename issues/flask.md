@@ -65,6 +65,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add drug name auto complete feature | Medium | [#142](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/142) |
+| Enhance drug-comparison | Medium | [#141](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/141) |
 | Smooth scroll from bottom to top button | Medium | [#140](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/140) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
@@ -158,12 +160,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Addition of automate issue create message | Medium | [#33](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/33) |
-| feat(backend): add downloadable PDF invoice generation | Medium | [#32](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/32) |
-| fix(ui): show user-friendly error messages on invalid file uploads | Medium | [#31](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/31) |
-| Improve Generated Invoice | Medium | [#28](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/28) |
 | Make UI Responsive for Mobile Devices | Medium | [#23](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/23) |
-| Feature Request: Add Dark Mode | Medium | [#22](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/22) |
 | Update README.md | Medium | [#19](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/19) |
 
 ---
@@ -184,10 +181,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Footer links in the landing page point to incorrect external accounts | Medium | [#256](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/256) |
-| Enhance Hero Section for Vibrancy and Visual Appeal | Medium | [#255](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/255) |
+| Comprehensive Dark Mode Integration and Advanced UI/UX Overhaul for Jobs Page | Medium | [#268](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/268) |
+| Added dark theme mode in the jobs page and improved the ui of the page | Medium | [#267](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/267) |
+| # Scroll-to-top and chat buttons have inconsistent sizes | Medium | [#266](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/266) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
-| Fix/chatbot contrast | Medium | [#253](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/253) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 | 📁 Add Firebase or Local JSON Backend Support | Hard | [#18](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/18) |
 
@@ -207,22 +204,20 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Inconsistent header-navbar | Medium | [#147](https://github.com/omroy07/AgriTech/issues/147) |
-| Enhance the Calender | Medium | [#146](https://github.com/omroy07/AgriTech/issues/146) |
+| nav bar issue n0 149 nav bar and footer are collide now both are fix | Medium | [#160](https://github.com/omroy07/AgriTech/pull/160) |
+| Password field eye icon misaligned on Register page — overflows outside input box | Medium | [#154](https://github.com/omroy07/AgriTech/issues/154) |
+| Password field eye icon misaligned — overflows outside input box | Medium | [#153](https://github.com/omroy07/AgriTech/issues/153) |
+| feat: password reset funtionality using smtp server connecting to the… | Medium | [#151](https://github.com/omroy07/AgriTech/pull/151) |
+| maize calendar is wrong schedule | Medium | [#148](https://github.com/omroy07/AgriTech/issues/148) |
 | Bug :disease.js & disease.html – Race Condition in Image Upload | Medium | [#145](https://github.com/omroy07/AgriTech/issues/145) |
 | Bug : model.py & utils.py – Unhandled Exceptions on Model Load/Prediction | Medium | [#144](https://github.com/omroy07/AgriTech/issues/144) |
 | Bug : shopkeeper.js & shopkeeper.html – No API Error Handling | Medium | [#143](https://github.com/omroy07/AgriTech/issues/143) |
 | bug : cropCalendar.html & croCalendar.js – Unvalidated Date Parsing | Medium | [#141](https://github.com/omroy07/AgriTech/issues/141) |
 | lock icon overlaps placeholder text in login page | Medium | [#138](https://github.com/omroy07/AgriTech/pull/138) |
-| Fix: Carousel loops back to first image after last (#120) | Medium | [#129](https://github.com/omroy07/AgriTech/pull/129) |
 | UI Enhancement: Footer Layout & Alignment Improvements | Medium | [#121](https://github.com/omroy07/AgriTech/issues/121) |
-| Carousel Not Looping After Last Image | Medium | [#120](https://github.com/omroy07/AgriTech/issues/120) |
 | The Login Page is currently not responsive across all viewports. On smaller screens (e.g., mobile devices), layout elements appear misaligned, and some components may overflow or become difficult to interact with. | Medium | [#119](https://github.com/omroy07/AgriTech/issues/119) |
 | Proper File Structure needed | Medium | [#115](https://github.com/omroy07/AgriTech/issues/115) |
 | fix: Add navigation button from Labour Scheduling & Alerts to Main Page | Medium | [#112](https://github.com/omroy07/AgriTech/pull/112) |
-| Adding contact page | Medium | [#108](https://github.com/omroy07/AgriTech/issues/108) |
-| Added logout confirmation popup | Medium | [#107](https://github.com/omroy07/AgriTech/pull/107) |
-| Add Dark Mode Toggle and Interactive Mouse Pointer (#86) | Medium | [#101](https://github.com/omroy07/AgriTech/pull/101) |
 
 ---
 
@@ -273,12 +268,13 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added FAQ in contact page | Medium | [#220](https://github.com/openml-stack/SentiLog-AI/pull/220) |
+| Added a Scroll To Top Button, which can be used wherever needed | Medium | [#225](https://github.com/openml-stack/SentiLog-AI/pull/225) |
+| Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
+| Fix the Mobile view responsiveness of the journal page | Medium | [#221](https://github.com/openml-stack/SentiLog-AI/issues/221) |
 | Feature Request: Add Scroll-to-Top Button | Medium | [#218](https://github.com/openml-stack/SentiLog-AI/issues/218) |
 | Feature Request: Add Dynamic Date in Footer | Medium | [#217](https://github.com/openml-stack/SentiLog-AI/issues/217) |
 | Implemented Google OAuth for login and signup | Medium | [#216](https://github.com/openml-stack/SentiLog-AI/pull/216) |
 | Section Retains Dark Theme Styling in Light Mode | Medium | [#215](https://github.com/openml-stack/SentiLog-AI/issues/215) |
-| improve Dashboard page for light/dark mode visibility | Medium | [#214](https://github.com/openml-stack/SentiLog-AI/pull/214) |
 | logo change | Medium | [#212](https://github.com/openml-stack/SentiLog-AI/pull/212) |
 | Mood Insights – Feature Enhancement for User Profile Page | Medium | [#199](https://github.com/openml-stack/SentiLog-AI/issues/199) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
@@ -310,11 +306,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Background Images in Medical Details Section | Medium | [#119](https://github.com/aayushraj1010/med-genie/pull/119) |
 | Duplicate Feature Found | Medium | [#109](https://github.com/aayushraj1010/med-genie/issues/109) |
-| fixing the backend of the register page as well as its UI too. | Medium | [#105](https://github.com/aayushraj1010/med-genie/issues/105) |
 | Need improvement in footer section. | Medium | [#101](https://github.com/aayushraj1010/med-genie/issues/101) |
 | Improve Navbar Responsiveness and UI | Medium | [#92](https://github.com/aayushraj1010/med-genie/issues/92) |
-| "Fix:  footer design (#87)" | Medium | [#89](https://github.com/aayushraj1010/med-genie/pull/89) |
 | Prevent empty/whitespace-only chat submissions | Medium | [#81](https://github.com/aayushraj1010/med-genie/issues/81) |
 | <Feature> Allow users to send medicine photos for AI-based medical info | Medium | [#75](https://github.com/aayushraj1010/med-genie/issues/75) |
 | Enhance Med Genie UI: Custom Robot Avatar, Typing Indicator, and Branding Improvements | Medium | [#45](https://github.com/aayushraj1010/med-genie/pull/45) |
@@ -335,13 +330,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding the required Code of Conduct files and Learn.md file | Medium | [#13](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/13) |
-| Added Contributing.md | Medium | [#12](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/12) |
+| Closed Issues #5, #6 and #7 | Medium | [#14](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/14) |
 | Added Code of Conduct | Medium | [#11](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/11) |
-| Added LICENSE | Medium | [#10](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/10) |
-| Add Virtual Environment Setup | Medium | [#9](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/9) |
-| Add Guide for setting up a Python Virtual Environment for backend dependencies in Projects's README.md | Medium | [#8](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/8) |
-| Migrate Frontend from Create React App to Vite | Medium | [#7](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/7) |
 
 ---
 
@@ -441,7 +431,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add User Login and Registration Functionality | Medium | [#35](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/35) |
+| Added Terms of service page | Medium | [#39](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/39) |
+| Fix: Update footer to display current year dynamically | Medium | [#38](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/38) |
 | Refactor backend into modular folder structure (Flask Blueprint Setup) | Medium | [#8](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/8) |
 
 ---
