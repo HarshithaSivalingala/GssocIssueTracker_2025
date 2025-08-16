@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix footer spacing issue - add bottom padding to prevent content overlap | Easy | [#42](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) |
+| Changes | Medium | [#73](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/73) |
 | New Feature: Suggest Custom Playlists | Medium | [#72](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/72) |
 | Add Loading Spinner While Loading Video Suggestions and Switching Modes | Medium | [#71](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/71) |
 | Add uplifting music option for "Sad" emotion + UI improvements | Medium | [#70](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/70) |
