@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixes #83 - Adjust search bar padding in Courses tab | Medium | [#200](https://github.com/iaadillatif/techxninjas-client/pull/200) |
+| Footer CSS not good for smaller devices | Medium | [#201](https://github.com/iaadillatif/techxninjas-client/issues/201) |
 | Stylish UI design enhancement | Medium | [#199](https://github.com/iaadillatif/techxninjas-client/issues/199) |
 | Navbar theme improvement | Medium | [#198](https://github.com/iaadillatif/techxninjas-client/pull/198) |
 | Navbar UI improvements | Medium | [#197](https://github.com/iaadillatif/techxninjas-client/pull/197) |
@@ -68,9 +68,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Java Programming Track (5 Modules • Interactive Learning) | Easy | [#233](https://github.com/abhisek2004/Dev-Elevate/issues/233) |
 | 📘 Feature Request Add an Activity Log / History Section under User Profile | Easy | [#166](https://github.com/abhisek2004/Dev-Elevate/issues/166) |
-| Security: Missing input sanitization, no length limits, and hardcoded API key | Medium | [#316](https://github.com/abhisek2004/Dev-Elevate/issues/316) |
+| Add Global Loader/Spinner for Page Transitions | Medium | [#320](https://github.com/abhisek2004/Dev-Elevate/issues/320) |
+| Integrated Learning Streak Backend with Frontend #289 Level 2 | Medium | [#318](https://github.com/abhisek2004/Dev-Elevate/pull/318) |
 
 ---
 
@@ -88,23 +88,18 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Set up dependabot for the new OWASP schema repository | Easy | [#1973](https://github.com/OWASP/Nest/issues/1973) |
 | WIP: Implementation of management command. | Medium | [#2073](https://github.com/OWASP/Nest/pull/2073) |
-| Added Light Theme Support for Contribution HeatMap | Medium | [#2072](https://github.com/OWASP/Nest/pull/2072) |
-| Fix #1912: Added test for SecondaryCard component | Medium | [#2069](https://github.com/OWASP/Nest/pull/2069) |
-| Add comprehensive tests for LineChart component | Medium | [#2068](https://github.com/OWASP/Nest/pull/2068) |
 | Setup encryption and decryption for google oauth tokens using AWS KMS | Medium | [#2067](https://github.com/OWASP/Nest/pull/2067) |
-| fix(ui): improve mobile navigation menu usability | Medium | [#2066](https://github.com/OWASP/Nest/issues/2066) |
 | feat(ui): enhance search results page with better filtering & responsive design | Medium | [#2065](https://github.com/OWASP/Nest/issues/2065) |
 | removed leader and suggested leader, introduced entity_member model | Medium | [#2063](https://github.com/OWASP/Nest/pull/2063) |
-| Project Dasbored Drop Down Test case has been made | Medium | [#2052](https://github.com/OWASP/Nest/pull/2052) |
-| Bug/fix scroll on Project Health Score click | Medium | [#2050](https://github.com/OWASP/Nest/pull/2050) |
 | Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
-| feat: add comprehensive unit tests for DisplayIcon component | Medium | [#2048](https://github.com/OWASP/Nest/pull/2048) |
 | Feature/daily badge sync job 1763 | Medium | [#2047](https://github.com/OWASP/Nest/pull/2047) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2024](https://github.com/OWASP/Nest/pull/2024) |
 | Implement Initial Setup for Google OAuth | Medium | [#2021](https://github.com/OWASP/Nest/pull/2021) |
-| test: add unit tests for GeneralCompliantComponent | Medium | [#2018](https://github.com/OWASP/Nest/pull/2018) |
 | Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
+| Added participants who have expressed interest in a specific issue in issue model . | Medium | [#1995](https://github.com/OWASP/Nest/pull/1995) |
+| refactor:remove PLR0912 ignore and fix 4 violations update | Medium | [#1979](https://github.com/OWASP/Nest/pull/1979) |
 
 ---
 
@@ -180,7 +175,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Resolved Issue #390: updated the notifications panel | Medium | [#391](https://github.com/divi-24/SheSync/pull/391) |
+| UI/UX Improvement for signup.jsx | Medium | [#399](https://github.com/divi-24/SheSync/issues/399) |
 | Creating a CONTACT US page | Medium | [#386](https://github.com/divi-24/SheSync/issues/386) |
 | Introduce the platform, mission, vision, and team in a visually appealing way. (ABOUT US PAGE) | Medium | [#385](https://github.com/divi-24/SheSync/issues/385) |
 | make parent dashboard dynamic | Hard | [#137](https://github.com/divi-24/SheSync/issues/137) |
@@ -224,13 +219,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Addition of automate issue create message | Medium | [#53](https://github.com/HimanshuHeda/Zip_Tales/issues/53) |
-| Add credibility badges & source reliability feature | Medium | [#52](https://github.com/HimanshuHeda/Zip_Tales/pull/52) |
-| footer | Medium | [#51](https://github.com/HimanshuHeda/Zip_Tales/issues/51) |
-| Added reset password verification (only registered users can reset) | Medium | [#50](https://github.com/HimanshuHeda/Zip_Tales/pull/50) |
-| Improve Notification UX | Medium | [#49](https://github.com/HimanshuHeda/Zip_Tales/issues/49) |
-| Add Hover/Click Animations to Bookmark and Follow Icons | Medium | [#48](https://github.com/HimanshuHeda/Zip_Tales/issues/48) |
-| Add Ethereum Smart Contract for News Authenticity Verification | Medium | [#47](https://github.com/HimanshuHeda/Zip_Tales/issues/47) |
+| Suggestion: Add Templates for Pull Requests and Issues | Medium | [#55](https://github.com/HimanshuHeda/Zip_Tales/issues/55) |
+| issue create automate message added | Medium | [#54](https://github.com/HimanshuHeda/Zip_Tales/pull/54) |
 | Made all neccesarry chages required for Proposed Filters | Medium | [#43](https://github.com/HimanshuHeda/Zip_Tales/pull/43) |
 
 ---
@@ -249,15 +239,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add fully functionality on empty section inside main page | Easy | [#195](https://github.com/mansiruhil/fail-u-forward/issues/195) |
-| Push Notifications | Easy | [#193](https://github.com/mansiruhil/fail-u-forward/issues/193) |
+| AI Validation Reliability | Easy | [#192](https://github.com/mansiruhil/fail-u-forward/issues/192) |
+| Low User Engagement & Onboarding Flow | Easy | [#189](https://github.com/mansiruhil/fail-u-forward/issues/189) |
 | Project is not fully accessible — layout breaks on mobile, text contrast is low, images lack alt text, and navigation isn’t keyboard-friendly. | Easy | [#185](https://github.com/mansiruhil/fail-u-forward/issues/185) |
 | Work on empty part of main page | Easy | [#181](https://github.com/mansiruhil/fail-u-forward/issues/181) |
-| AI Validation Reliability | Medium | [#192](https://github.com/mansiruhil/fail-u-forward/issues/192) |
-| API Route Structure & Performance | Medium | [#191](https://github.com/mansiruhil/fail-u-forward/issues/191) |
+| Fixing entire css components of welcome page and main page | Medium | [#197](https://github.com/mansiruhil/fail-u-forward/issues/197) |
+| Add fully functionality on empty section inside main page | Medium | [#195](https://github.com/mansiruhil/fail-u-forward/issues/195) |
+| Push Notifications | Medium | [#193](https://github.com/mansiruhil/fail-u-forward/issues/193) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
-| Low User Engagement & Onboarding Flow | Medium | [#189](https://github.com/mansiruhil/fail-u-forward/issues/189) |
-| SEO & Meta Tag Optimization | Medium | [#188](https://github.com/mansiruhil/fail-u-forward/issues/188) |
 | No refresh button available to manually reload content like in other applications.
 To pull it down to get refresh main page for fetching data | Medium | [#186](https://github.com/mansiruhil/fail-u-forward/issues/186) |
 | Improve Authentication Page UI and Error Handling | Medium | [#178](https://github.com/mansiruhil/fail-u-forward/issues/178) |
@@ -279,7 +268,6 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Footer Addition | Medium | [#24](https://github.com/mehak-ui/Student-Portal/issues/24) |
 | Fixed overall flow and project structure | Medium | [#23](https://github.com/mehak-ui/Student-Portal/pull/23) |
 | Security | Medium | [#22](https://github.com/mehak-ui/Student-Portal/issues/22) |
 | Add CONTRIBUTING.md for Student-Portal | GSSoC'25 | Medium | [#21](https://github.com/mehak-ui/Student-Portal/issues/21) |
@@ -414,10 +402,9 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🔒 Security Implementation: Password Hashing Critical Security Fix - Issue #75 | Medium | [#85](https://github.com/Richajaishwal0/Trip_assistant/pull/85) |
-| VALIDATION: Phone Number Input Issues | Medium | [#76](https://github.com/Richajaishwal0/Trip_assistant/issues/76) |
-| feature : migrate mysql to mongoDB. | Medium | [#48](https://github.com/Richajaishwal0/Trip_assistant/pull/48) |
-| Add AI chatbot assistant to help users with trip planning queries (GSSoC'25) | Medium | [#36](https://github.com/Richajaishwal0/Trip_assistant/issues/36) |
+| Add the security | Medium | [#95](https://github.com/Richajaishwal0/Trip_assistant/issues/95) |
+| Improve the footer | Medium | [#94](https://github.com/Richajaishwal0/Trip_assistant/issues/94) |
+| added user activity badges | Medium | [#88](https://github.com/Richajaishwal0/Trip_assistant/pull/88) |
 
 ---
 
@@ -472,7 +459,8 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | No images ~ fix | Easy | [#66](https://github.com/SamXop123/RigCrafter/issues/66) |
-| Implement Interactive Component Details Modal (i button) | Medium | [#67](https://github.com/SamXop123/RigCrafter/pull/67) |
+| Populate Component Database with Real-World Data and Images | Medium | [#69](https://github.com/SamXop123/RigCrafter/issues/69) |
+| implemented complete build button feature | Medium | [#68](https://github.com/SamXop123/RigCrafter/pull/68) |
 
 ---
 
@@ -518,6 +506,10 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| A chatbot | Medium | [#212](https://github.com/souvikpramanikgit/LearnHub/issues/212) |
+| added bookmark feature in notes | Medium | [#211](https://github.com/souvikpramanikgit/LearnHub/pull/211) |
+| Added NavbarLogo a dedicated CSS | Medium | [#210](https://github.com/souvikpramanikgit/LearnHub/pull/210) |
+| Added feature to watch videos | Medium | [#209](https://github.com/souvikpramanikgit/LearnHub/pull/209) |
 | Add Automated Testing with GitHub Actions | Medium | [#206](https://github.com/souvikpramanikgit/LearnHub/pull/206) |
 | Add Social Share Buttons to Blog Posts | Medium | [#205](https://github.com/souvikpramanikgit/LearnHub/pull/205) |
 | Add Interactive Quiz Section After Course Completion | Medium | [#203](https://github.com/souvikpramanikgit/LearnHub/issues/203) |
@@ -648,6 +640,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 |----------|----------------|---------|
 | Implement New UI Based on Figma Design Using Pure CSS (No TailwindCSS) | Easy | [#17](https://github.com/ajaynegi45/Old-School-Game/issues/17) |
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| Redesign Home Screen | Medium | [#99](https://github.com/ajaynegi45/Old-School-Game/pull/99) |
 | Mineweeper | Medium | [#85](https://github.com/ajaynegi45/Old-School-Game/issues/85) |
 
 ---
@@ -666,10 +659,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create faq.md | Medium | [#59](https://github.com/IntegerAlex/fingerprint-oss/pull/59) |
-| Update getting-started.md | Medium | [#58](https://github.com/IntegerAlex/fingerprint-oss/pull/58) |
-| Update introduction.md | Medium | [#57](https://github.com/IntegerAlex/fingerprint-oss/pull/57) |
-| Update sidebars.js | Medium | [#56](https://github.com/IntegerAlex/fingerprint-oss/pull/56) |
+| Update sidebar, introduction, getting-started, and add FAQ | Medium | [#60](https://github.com/IntegerAlex/fingerprint-oss/pull/60) |
 | Add Neon logo beside Cloudflare logo in README | Medium | [#52](https://github.com/IntegerAlex/fingerprint-oss/pull/52) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | feat : Added in config version == 'Test' | Medium | [#45](https://github.com/IntegerAlex/fingerprint-oss/pull/45) |
@@ -729,6 +719,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed: Camera mirroring and button | Medium | [#18](https://github.com/Ananta025/VIDEO_MEET/pull/18) |
 | Suggestion: Add a Code of Conduct | Medium | [#16](https://github.com/Ananta025/VIDEO_MEET/issues/16) |
 | Feature: Add Favicon to Website | Medium | [#14](https://github.com/Ananta025/VIDEO_MEET/issues/14) |
 | Feature Request: Enhance Landing Page with Additional Sections (About Us, Features, Contact) | Medium | [#12](https://github.com/Ananta025/VIDEO_MEET/issues/12) |
@@ -776,6 +767,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Attendance export feature | Medium | [#131](https://github.com/Loop-Hive/ScheduleX/issues/131) |
 | Enhancing the import CSV function | Medium | [#130](https://github.com/Loop-Hive/ScheduleX/pull/130) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
 | Redesign Hero Section for Minimalism | Medium | [#116](https://github.com/Loop-Hive/ScheduleX/issues/116) |
@@ -854,6 +846,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Fix dark mode toggle on tools page | Medium | [#28](https://github.com/Jyotibrat/AI-Flow/pull/28) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
@@ -992,6 +985,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue Title: Add Pop-up Notification for Username Entry and Display Welcome, {username} Message on Homepage Top Bar | Medium | [#10](https://github.com/nikhilsingh10-r/GameStore/issues/10) |
 | Feature Request: Add "Pong" Game to Mini Games Hub 🎾 | Medium | [#9](https://github.com/nikhilsingh10-r/GameStore/issues/9) |
 | Adding Contributing.md | Medium | [#8](https://github.com/nikhilsingh10-r/GameStore/issues/8) |
 | UI Bug: "Start Game", "Pause", and "Reset" Buttons Become Invisible on Hover Due to White Background | Medium | [#7](https://github.com/nikhilsingh10-r/GameStore/issues/7) |
@@ -1017,6 +1011,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump react-router-dom from 6.28.2 to 7.8.1 | Medium | [#77](https://github.com/Ojas-Arora/SapneSeSafar/pull/77) |
 | Bump @libsql/client from 0.5.6 to 0.15.11 | Medium | [#76](https://github.com/Ojas-Arora/SapneSeSafar/pull/76) |
 | Bump tailwindcss from 3.4.17 to 4.1.12 | Medium | [#75](https://github.com/Ojas-Arora/SapneSeSafar/pull/75) |
 | Bump vite from 5.4.17 to 7.1.2 | Medium | [#74](https://github.com/Ojas-Arora/SapneSeSafar/pull/74) |
@@ -1024,7 +1019,6 @@ Fast Workflow Tools
 | Bump lucide-react from 0.344.0 to 0.539.0 | Medium | [#72](https://github.com/Ojas-Arora/SapneSeSafar/pull/72) |
 | Bump eslint from 9.12.0 to 9.33.0 | Medium | [#70](https://github.com/Ojas-Arora/SapneSeSafar/pull/70) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.0 | Medium | [#68](https://github.com/Ojas-Arora/SapneSeSafar/pull/68) |
-| Bump react-router-dom from 6.28.2 to 7.8.0 | Medium | [#65](https://github.com/Ojas-Arora/SapneSeSafar/pull/65) |
 | Bump recharts from 2.15.0 to 3.1.2 | Medium | [#64](https://github.com/Ojas-Arora/SapneSeSafar/pull/64) |
 | Bump three from 0.161.0 to 0.179.1 | Medium | [#63](https://github.com/Ojas-Arora/SapneSeSafar/pull/63) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
@@ -1216,7 +1210,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Footer links need more hover effects | Medium | [#72](https://github.com/subhadeeproy3902/mvpblocks/issues/72) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
