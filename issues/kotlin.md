@@ -138,7 +138,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement API for Role-Based Shop Creation | Medium | [#353](https://github.com/yuvrajsinghgmx/ShopSmart/pull/353) |
+| created endpoint to update user.role | Medium | [#364](https://github.com/yuvrajsinghgmx/ShopSmart/pull/364) |
+| Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
 | Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
@@ -160,7 +161,6 @@ User Profile: BMI calculator and fitness analytics.
 |----------|----------------|---------|
 | AutoComplete | Medium | [#23](https://github.com/Ajay-patidar0/GitSearch/pull/23) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
-| Enhance UI/UX. | Medium | [#13](https://github.com/Ajay-patidar0/GitSearch/pull/13) |
 
 ---
 
