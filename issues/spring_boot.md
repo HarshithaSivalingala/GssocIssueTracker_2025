@@ -45,7 +45,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement API for Role-Based Shop Creation | Medium | [#353](https://github.com/yuvrajsinghgmx/ShopSmart/pull/353) |
+| created endpoint to update user.role | Medium | [#364](https://github.com/yuvrajsinghgmx/ShopSmart/pull/364) |
+| Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
 | Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
@@ -97,24 +98,6 @@
 |----------|----------------|---------|
 | Refactor: Moved from entity-based to layer-based folder structure | Medium | [#49](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/49) |
 | Add:dummy dataset for local development | Medium | [#48](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/48) |
-
----
-
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| feat: Modernize login and signup UI with Tailwind CSS | Medium | [#78](https://github.com/SandeepVashishtha/Eventra/pull/78) |
 
 ---
 
