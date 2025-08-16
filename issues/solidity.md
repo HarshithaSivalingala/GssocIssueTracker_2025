@@ -19,10 +19,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Loading State UI with Visual Loader | Medium | [#59](https://github.com/nishantharkut/W3nity/pull/59) |
 | Improve Development Workflow - Multiple Issues | Medium | [#58](https://github.com/nishantharkut/W3nity/issues/58) |
-| Loading State UI Enhancement – Show Loader Instead of Static "Loading" Text | Medium | [#57](https://github.com/nishantharkut/W3nity/issues/57) |
 | Refactor escrow Contract and frontend | Medium | [#56](https://github.com/nishantharkut/W3nity/pull/56) |
-| Improve UI Responsiveness for Mobile Devices | Medium | [#55](https://github.com/nishantharkut/W3nity/issues/55) |
 | Release Fund Button Triggers Multiple Transactions | Medium | [#46](https://github.com/nishantharkut/W3nity/issues/46) |
 | No back button for Sign In page | Medium | [#44](https://github.com/nishantharkut/W3nity/issues/44) |
 | Increase Test Coverage: Cover EventTicketNFT.sol and Escrow.sol Contracts, Lock.sol | Medium | [#36](https://github.com/nishantharkut/W3nity/pull/36) |
