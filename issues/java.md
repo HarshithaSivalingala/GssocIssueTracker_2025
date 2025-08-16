@@ -77,6 +77,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Navigation Enhancement | Medium | [#507](https://github.com/opensource-society/CodeClip/issues/507) |
 | Update profile.html | Medium | [#506](https://github.com/opensource-society/CodeClip/pull/506) |
 | Update index.html | Medium | [#505](https://github.com/opensource-society/CodeClip/pull/505) |
 | Editor Pages Enhacement | More Dynamic | Navigation options | Medium | [#504](https://github.com/opensource-society/CodeClip/issues/504) |
