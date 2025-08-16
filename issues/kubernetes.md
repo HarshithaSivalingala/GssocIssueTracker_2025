@@ -14,9 +14,30 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Detailed README for Backend Setup and Usage | Easy | [#74](https://github.com/Promptzy/Nexara/issues/74) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
+| Added Detailed README for Backend Setup and Usage | Medium | [#75](https://github.com/Promptzy/Nexara/pull/75) |
 | Implementation of Basic API's Endpoints | Medium | [#67](https://github.com/Promptzy/Nexara/issues/67) |
+
+---
+
+## 📌 Project: Dream Pixel : AI IMAGE GENERATOR
+
+📝 **Description:** A full-stack AI image generator web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and powered by Hugging Face's Stable Diffusion API to convert text prompts into images. Users can generate images, view them in a community feed, and share their creations.
+
+🔗 [View Project](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN)
+
+💻 **Tech Stack:** MERN, Docker, Kubernetes, Jenkins
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added Code of Conduct | Medium | [#10](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/pull/10) |
+| Added Contributing.md | Medium | [#9](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/pull/9) |
 
 ---
 
