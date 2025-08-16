@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add some gap in flexing of nav items | Medium | [#224](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/224) |
 | Feature Request: Add "Jump to Top" Button for Improved Navigation | Medium | [#223](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/223) |
 | enhance the ui of contact us page | Medium | [#222](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/222) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#221](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/221) |
