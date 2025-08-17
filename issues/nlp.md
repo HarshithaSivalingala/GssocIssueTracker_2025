@@ -15,8 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added Offline Mode Fallback + README UpdateAdded offline mode fallback + README update #36 | Medium | [#37](https://github.com/CharithaReddy18/AI-health-chatbot/issues/37) |
-| Add: dark mode toggle | Medium | [#35](https://github.com/CharithaReddy18/AI-health-chatbot/pull/35) |
-| Added Doctor Specialist Recommend feature | Medium | [#34](https://github.com/CharithaReddy18/AI-health-chatbot/pull/34) |
 
 ---
 
