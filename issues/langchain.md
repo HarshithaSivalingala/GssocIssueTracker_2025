@@ -14,10 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
+| Fixed errors in Signin.js and Signup.js | Medium | [#236](https://github.com/Amarjha01/InfantCareCompass/pull/236) |
 | Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Featured Article UI Fixed | Medium | [#211](https://github.com/Amarjha01/InfantCareCompass/pull/211) |
-| Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 
 ---
 
@@ -105,8 +106,9 @@
 | Add Detailed README for Backend Setup and Usage | Easy | [#74](https://github.com/Promptzy/Nexara/issues/74) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
-| Added Detailed README for Backend Setup and Usage | Medium | [#75](https://github.com/Promptzy/Nexara/pull/75) |
+| Feature/dockerize backend postgres | Medium | [#76](https://github.com/Promptzy/Nexara/pull/76) |
 | Implementation of Basic API's Endpoints | Medium | [#67](https://github.com/Promptzy/Nexara/issues/67) |
+| Fix: Use only GITHUB_TOKEN for contribution tracking workflow | Hard | [#77](https://github.com/Promptzy/Nexara/pull/77) |
 
 ---
 
@@ -144,7 +146,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added animations and transitions to UI | Medium | [#20](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/pull/20) |
+| Regarding the GSSoC'25 | Medium | [#22](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/22) |
 
 ---
 
