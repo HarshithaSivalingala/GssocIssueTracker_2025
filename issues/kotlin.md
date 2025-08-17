@@ -99,6 +99,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| issue create automate message added | Medium | [#26](https://github.com/Rajkumarbhakta/Canvas/pull/26) |
 | <Enhance Navbar and footer like  responsive webpage/> | Medium | [#24](https://github.com/Rajkumarbhakta/Canvas/issues/24) |
 | Updated DrawingCanvas and ShapeSelector with shapes support | Medium | [#20](https://github.com/Rajkumarbhakta/Canvas/pull/20) |
 | feat: Replace preferences with SQLite database for drawing storage ( closes #3) | Medium | [#17](https://github.com/Rajkumarbhakta/Canvas/pull/17) |
@@ -138,6 +139,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: onboarding API route backend corrections | Medium | [#367](https://github.com/yuvrajsinghgmx/ShopSmart/pull/367) |
 | created endpoint to update user.role | Medium | [#364](https://github.com/yuvrajsinghgmx/ShopSmart/pull/364) |
 | Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
 | Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
