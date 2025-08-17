@@ -70,12 +70,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated README.md | Medium | [#224](https://github.com/Prateek9876/NagarVikas/pull/224) |
-| Transition to Shimmers instead of progress circular indicator for user screens. | Medium | [#223](https://github.com/Prateek9876/NagarVikas/issues/223) |
-| Right now the project uses gradle 8.2.1 but that's depreciated so the app should use 8.3.0. | Medium | [#222](https://github.com/Prateek9876/NagarVikas/issues/222) |
-| Added Shimmers to all the admin pages Fixes #217 | Medium | [#221](https://github.com/Prateek9876/NagarVikas/pull/221) |
+| Improved the feedback screen for users #235 Level 3 | Medium | [#242](https://github.com/Prateek9876/NagarVikas/pull/242) |
+| Redesigned Sidebar/Menu for Cleaner Navigation #233 Level 3 | Medium | [#241](https://github.com/Prateek9876/NagarVikas/pull/241) |
+| Fixed overflow issues for Small Phones #232 and withOpacity is depreciated so we can use with Alpha instead of it #240 | Medium | [#239](https://github.com/Prateek9876/NagarVikas/pull/239) |
+| Fixed validation errors showing before input on Sign Up page #227 Level 2 | Medium | [#234](https://github.com/Prateek9876/NagarVikas/pull/234) |
+| issue create automate message added | Medium | [#231](https://github.com/Prateek9876/NagarVikas/pull/231) |
+| Changed Gradle Version 8.2.1 to 8.3.0 #222 Level 2 | Medium | [#229](https://github.com/Prateek9876/NagarVikas/pull/229) |
 | Changed and enhanced the about app page | Medium | [#220](https://github.com/Prateek9876/NagarVikas/pull/220) |
-| Improved UI for the Discussion Forum | Medium | [#219](https://github.com/Prateek9876/NagarVikas/pull/219) |
+| enhance UI of profile section in user screen | Hard | [#243](https://github.com/Prateek9876/NagarVikas/issues/243) |
+| Fixed show messages to user if not item is present. | Hard | [#237](https://github.com/Prateek9876/NagarVikas/pull/237) |
+| Fixed Assistant Issue | Hard | [#236](https://github.com/Prateek9876/NagarVikas/pull/236) |
+| Added Shimmers to user pages instead of Circular progress indicator. | Hard | [#225](https://github.com/Prateek9876/NagarVikas/pull/225) |
+| Added Shimmers to all the admin pages Fixes #217 | Hard | [#221](https://github.com/Prateek9876/NagarVikas/pull/221) |
+| Improved UI for the Discussion Forum | Hard | [#219](https://github.com/Prateek9876/NagarVikas/pull/219) |
 | Changed the Rejected Option to Pending in Admin Dashboard Analytics #211 Level 3 | Hard | [#216](https://github.com/Prateek9876/NagarVikas/pull/216) |
 
 ---
@@ -94,33 +101,24 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Flutter: Add UI Feedback to Logout Button | Easy | [#194](https://github.com/Yash159357/BREVITY/issues/194) |
-| Implement Account Deletion in Frontend | Easy | [#187](https://github.com/Yash159357/BREVITY/issues/187) |
+| Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
+| Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
 | Implement OAuth in Frontend | Easy | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Flutter: Bug - Loading bar inside Image Placeholder Not Visible in Light Mode | Easy | [#183](https://github.com/Yash159357/BREVITY/issues/183) |
 | Flutter: Bug Report - Header Color Inconsistency in Light Mode | Easy | [#182](https://github.com/Yash159357/BREVITY/issues/182) |
 | Flutter: Bug in Profile screen | Easy | [#180](https://github.com/Yash159357/BREVITY/issues/180) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
 | Testing: Internal App Functions | Easy | [#178](https://github.com/Yash159357/BREVITY/issues/178) |
-| Testing: Chatbot Functionality | Easy | [#177](https://github.com/Yash159357/BREVITY/issues/177) |
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
-| Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
-| Document: Update Readme | Easy | [#169](https://github.com/Yash159357/BREVITY/issues/169) |
-| Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
+| fix: adapt text color to theme brightness | Medium | [#207](https://github.com/Yash159357/BREVITY/pull/207) |
+| Redesign of intro pages with theme selector | Medium | [#206](https://github.com/Yash159357/BREVITY/pull/206) |
+| Fixed Issues #195, #196, #197, #198 and #202 | Medium | [#205](https://github.com/Yash159357/BREVITY/pull/205) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | Backend: Style Email Verification HTML Page | Medium | [#193](https://github.com/Yash159357/BREVITY/issues/193) |
 | Backend: Style Reset Success HTML Page | Medium | [#192](https://github.com/Yash159357/BREVITY/issues/192) |
 | Backend: Style Reset Password HTML Page | Medium | [#191](https://github.com/Yash159357/BREVITY/issues/191) |
-| Flutter: Design and Style Email Verification Page | Medium | [#190](https://github.com/Yash159357/BREVITY/issues/190) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
-| Backend: Share News Within the App | Medium | [#174](https://github.com/Yash159357/BREVITY/issues/174) |
-| Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
-| Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Flutter: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
-| Backend: Implement User Reactions Feature with Persistence and Duplicate Prevention | Medium | [#163](https://github.com/Yash159357/BREVITY/pull/163) |
-| Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
+| Flutter: Implement Image Cropping Tool | Hard | [#199](https://github.com/Yash159357/BREVITY/issues/199) |
 
 ---
 
@@ -183,33 +181,24 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Flutter: Add UI Feedback to Logout Button | Easy | [#194](https://github.com/Yash159357/BREVITY/issues/194) |
-| Implement Account Deletion in Frontend | Easy | [#187](https://github.com/Yash159357/BREVITY/issues/187) |
+| Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
+| Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
 | Implement OAuth in Frontend | Easy | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Flutter: Bug - Loading bar inside Image Placeholder Not Visible in Light Mode | Easy | [#183](https://github.com/Yash159357/BREVITY/issues/183) |
 | Flutter: Bug Report - Header Color Inconsistency in Light Mode | Easy | [#182](https://github.com/Yash159357/BREVITY/issues/182) |
 | Flutter: Bug in Profile screen | Easy | [#180](https://github.com/Yash159357/BREVITY/issues/180) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
 | Testing: Internal App Functions | Easy | [#178](https://github.com/Yash159357/BREVITY/issues/178) |
-| Testing: Chatbot Functionality | Easy | [#177](https://github.com/Yash159357/BREVITY/issues/177) |
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
-| Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
-| Document: Update Readme | Easy | [#169](https://github.com/Yash159357/BREVITY/issues/169) |
-| Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
+| fix: adapt text color to theme brightness | Medium | [#207](https://github.com/Yash159357/BREVITY/pull/207) |
+| Redesign of intro pages with theme selector | Medium | [#206](https://github.com/Yash159357/BREVITY/pull/206) |
+| Fixed Issues #195, #196, #197, #198 and #202 | Medium | [#205](https://github.com/Yash159357/BREVITY/pull/205) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | Backend: Style Email Verification HTML Page | Medium | [#193](https://github.com/Yash159357/BREVITY/issues/193) |
 | Backend: Style Reset Success HTML Page | Medium | [#192](https://github.com/Yash159357/BREVITY/issues/192) |
 | Backend: Style Reset Password HTML Page | Medium | [#191](https://github.com/Yash159357/BREVITY/issues/191) |
-| Flutter: Design and Style Email Verification Page | Medium | [#190](https://github.com/Yash159357/BREVITY/issues/190) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
-| Backend: Share News Within the App | Medium | [#174](https://github.com/Yash159357/BREVITY/issues/174) |
-| Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
-| Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Flutter: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
-| Backend: Implement User Reactions Feature with Persistence and Duplicate Prevention | Medium | [#163](https://github.com/Yash159357/BREVITY/pull/163) |
-| Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
+| Flutter: Implement Image Cropping Tool | Hard | [#199](https://github.com/Yash159357/BREVITY/issues/199) |
 
 ---
 
