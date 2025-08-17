@@ -88,6 +88,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Addition of automate issue create message | Medium | [#48](https://github.com/Naveenkumar30838/Housify/issues/48) |
 | add readme.md file | Medium | [#47](https://github.com/Naveenkumar30838/Housify/issues/47) |
 | responsive navbar | Medium | [#46](https://github.com/Naveenkumar30838/Housify/pull/46) |
 | Integrate Cloudinary for Image Uploads and Enhance Environment Setup | Medium | [#45](https://github.com/Naveenkumar30838/Housify/pull/45) |
@@ -113,11 +114,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat:login page UI enhancement issue no. #40 | Medium | [#45](https://github.com/swarooppatilx/bit-by-query/pull/45) |
 | Adjust Question Status Height & Move Question Statement Up | Medium | [#44](https://github.com/swarooppatilx/bit-by-query/pull/44) |
 | Make SQL Query Results Scrollable on Small Screens | Medium | [#42](https://github.com/swarooppatilx/bit-by-query/pull/42) |
 | Add Reset Button to Clear Query Input and Results Panel | Medium | [#41](https://github.com/swarooppatilx/bit-by-query/pull/41) |
-| feature: Timer for each question | Medium | [#39](https://github.com/swarooppatilx/bit-by-query/issues/39) |
-| Add a LEARN.md file to provide learning resources for new contributors | Medium | [#33](https://github.com/swarooppatilx/bit-by-query/issues/33) |
 | ISSUE:-While Login And Signup Internal Server Failed Error | Medium | [#30](https://github.com/swarooppatilx/bit-by-query/issues/30) |
 
 ---
@@ -155,9 +155,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue:2 improve navbar and add the toaster notifications. | Medium | [#38](https://github.com/sachiikrish/AttendanceTracker/pull/38) |
 | Added Contributing.md | Medium | [#36](https://github.com/sachiikrish/AttendanceTracker/pull/36) |
 | Home Page Redesign | Medium | [#35](https://github.com/sachiikrish/AttendanceTracker/issues/35) |
-| Issue:2 improve navbar and add the toaster notifications. | Medium | [#34](https://github.com/sachiikrish/AttendanceTracker/pull/34) |
 | Add Improved Error Handling and User Feedback for Attendance Form | Medium | [#33](https://github.com/sachiikrish/AttendanceTracker/issues/33) |
 | The project structure is missing the important data and there is no link in the license | Medium | [#31](https://github.com/sachiikrish/AttendanceTracker/issues/31) |
 | Enhancement: I want to enhance the ui for the page of index.php | Medium | [#29](https://github.com/sachiikrish/AttendanceTracker/issues/29) |
