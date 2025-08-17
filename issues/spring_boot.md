@@ -45,6 +45,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: onboarding API route backend corrections | Medium | [#367](https://github.com/yuvrajsinghgmx/ShopSmart/pull/367) |
 | created endpoint to update user.role | Medium | [#364](https://github.com/yuvrajsinghgmx/ShopSmart/pull/364) |
 | Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
 | Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
