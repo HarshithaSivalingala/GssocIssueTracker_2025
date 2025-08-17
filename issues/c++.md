@@ -35,10 +35,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| delete_provider | Medium | [#125](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/125) |
+| Addition of automate issue create message | Medium | [#126](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/126) |
 | getProvider function | Medium | [#124](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/124) |
-| listProviders function | Medium | [#122](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/122) |
-| listProviders | Medium | [#119](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/119) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
 | feat: update documents | Medium | [#45](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/45) |
@@ -80,7 +78,6 @@
 |----------|----------------|---------|
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
-| Added favicon & improved page structure with full functionality | Medium | [#74](https://github.com/Aqsa4066/netflixclone/pull/74) |
 | Change: Design of FAQs section | Medium | [#72](https://github.com/Aqsa4066/netflixclone/pull/72) |
 | Edited footer | Medium | [#71](https://github.com/Aqsa4066/netflixclone/pull/71) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
@@ -96,6 +93,8 @@
 | Website Ruined | Medium | [#26](https://github.com/Aqsa4066/netflixclone/issues/26) |
 | Enhance Navbar Design and Functionality in Netflix Clone | Medium | [#23](https://github.com/Aqsa4066/netflixclone/issues/23) |
 | feature: UI/UX Improvement Suggestions for Netflix Clone (GSSoC'25) | Medium | [#19](https://github.com/Aqsa4066/netflixclone/issues/19) |
+| Changed the styling | Medium | [#18](https://github.com/Aqsa4066/netflixclone/pull/18) |
+| 🐛 Bug Report: Button Hover State Missing | Medium | [#16](https://github.com/Aqsa4066/netflixclone/issues/16) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
