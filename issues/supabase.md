@@ -14,9 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Suggestion: Add Templates for Pull Requests and Issues | Medium | [#55](https://github.com/HimanshuHeda/Zip_Tales/issues/55) |
-| issue create automate message added | Medium | [#54](https://github.com/HimanshuHeda/Zip_Tales/pull/54) |
-| Made all neccesarry chages required for Proposed Filters | Medium | [#43](https://github.com/HimanshuHeda/Zip_Tales/pull/43) |
+| Add blockchain integration for article authenticity verification(Fixes #47) | Medium | [#60](https://github.com/HimanshuHeda/Zip_Tales/pull/60) |
+| #48 issue Add animations to header icons | Medium | [#59](https://github.com/HimanshuHeda/Zip_Tales/pull/59) |
+| issue #49 improve notification ux | Medium | [#58](https://github.com/HimanshuHeda/Zip_Tales/pull/58) |
+| Add Standardised Templates for Pull Requests and Issues | Medium | [#57](https://github.com/HimanshuHeda/Zip_Tales/pull/57) |
+| Addition of pr create automate message | Medium | [#56](https://github.com/HimanshuHeda/Zip_Tales/issues/56) |
 
 ---
 
@@ -75,8 +77,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| **Title:** Fix Supabase Auth Helpers Import Error in Resume Generator Component | Medium | [#316](https://github.com/Muneerali199/DocMagic/issues/316) |
+| Allow Feature Access (Resume, CV, Presentation, Letter, Templates, Diagram) Only After Sign-In | Medium | [#313](https://github.com/Muneerali199/DocMagic/issues/313) |
+| issue create automate merge added | Medium | [#312](https://github.com/Muneerali199/DocMagic/pull/312) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
-| Add Interview Preparation Assistant feature | Medium | [#306](https://github.com/Muneerali199/DocMagic/pull/306) |
 | feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
 | Improved Landing Page UI & Responsiveness | Medium | [#301](https://github.com/Muneerali199/DocMagic/pull/301) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 13 updates | Medium | [#300](https://github.com/Muneerali199/DocMagic/pull/300) |
@@ -90,8 +94,6 @@
 | chore(deps): bump tailwind-merge from 2.6.0 to 3.3.1 | Medium | [#257](https://github.com/Muneerali199/DocMagic/pull/257) |
 | chore(deps): bump date-fns from 3.6.0 to 4.1.0 | Medium | [#255](https://github.com/Muneerali199/DocMagic/pull/255) |
 | chore(deps-dev): bump @types/node from 20.19.9 to 24.1.0 | Medium | [#254](https://github.com/Muneerali199/DocMagic/pull/254) |
-| chore(deps): bump docx from 8.5.0 to 9.5.1 | Medium | [#253](https://github.com/Muneerali199/DocMagic/pull/253) |
-| chore(deps): bump vaul from 0.9.9 to 1.1.2 | Medium | [#252](https://github.com/Muneerali199/DocMagic/pull/252) |
 
 ---
 
@@ -137,8 +139,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| UI Enhancement: Improve Supabase Auth email template for better user experience | Medium | [#77](https://github.com/sristy17/next-payroll/issues/77) |
-| feat: logout button added | Medium | [#76](https://github.com/sristy17/next-payroll/pull/76) |
+| Implement Dark/Light Mode Toggle | Medium | [#78](https://github.com/sristy17/next-payroll/issues/78) |
 | updated next version and used bcryptjs to ensure password hashing. Also made sure password work… | Medium | [#75](https://github.com/sristy17/next-payroll/pull/75) |
 | 🛠️ Forgot Password functionality not working | Medium | [#40](https://github.com/sristy17/next-payroll/issues/40) |
 
@@ -178,7 +179,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
-| Fix dark mode toggle on tools page | Medium | [#28](https://github.com/Jyotibrat/AI-Flow/pull/28) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
 ---
