@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: There were issue in package-lock.json | Medium | [#106](https://github.com/ShishuCard/Vaccination_Portal/issues/106) |
 | Add a CONTRIBUTING.md file | Medium | [#103](https://github.com/ShishuCard/Vaccination_Portal/issues/103) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#102](https://github.com/ShishuCard/Vaccination_Portal/issues/102) |
 | FIX : Replace the vite+React Favicon with a valid project icon and the project title too | Medium | [#93](https://github.com/ShishuCard/Vaccination_Portal/issues/93) |
@@ -35,6 +36,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Direct GMAIL sign in | Medium | [#1190](https://github.com/Code-A2Z/code-a2z/issues/1190) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
@@ -48,7 +50,6 @@
 | 📃: TextUtils | Medium | [#1032](https://github.com/Code-A2Z/code-a2z/issues/1032) |
 | 📃: Solar System | Medium | [#1027](https://github.com/Code-A2Z/code-a2z/issues/1027) |
 | 📃: Amazon Mini-TV Clone | Medium | [#1022](https://github.com/Code-A2Z/code-a2z/issues/1022) |
-| 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 
 ---
 
@@ -68,7 +69,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: establish foundational project structure(#42) | Medium | [#91](https://github.com/Bavanetha27/Refixly/pull/91) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
 
@@ -88,6 +88,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+|  | Medium | [#43](https://github.com/Dhruvi-tech/firebase-chat-app/issues/43) |
+| Added table of contents with Toggle Button in README | Medium | [#42](https://github.com/Dhruvi-tech/firebase-chat-app/pull/42) |
 | issue create automate message added | Medium | [#41](https://github.com/Dhruvi-tech/firebase-chat-app/pull/41) |
 
 ---
@@ -159,12 +161,19 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated README.md | Medium | [#224](https://github.com/Prateek9876/NagarVikas/pull/224) |
-| Transition to Shimmers instead of progress circular indicator for user screens. | Medium | [#223](https://github.com/Prateek9876/NagarVikas/issues/223) |
-| Right now the project uses gradle 8.2.1 but that's depreciated so the app should use 8.3.0. | Medium | [#222](https://github.com/Prateek9876/NagarVikas/issues/222) |
-| Added Shimmers to all the admin pages Fixes #217 | Medium | [#221](https://github.com/Prateek9876/NagarVikas/pull/221) |
+| Improved the feedback screen for users #235 Level 3 | Medium | [#242](https://github.com/Prateek9876/NagarVikas/pull/242) |
+| Redesigned Sidebar/Menu for Cleaner Navigation #233 Level 3 | Medium | [#241](https://github.com/Prateek9876/NagarVikas/pull/241) |
+| Fixed overflow issues for Small Phones #232 and withOpacity is depreciated so we can use with Alpha instead of it #240 | Medium | [#239](https://github.com/Prateek9876/NagarVikas/pull/239) |
+| Fixed validation errors showing before input on Sign Up page #227 Level 2 | Medium | [#234](https://github.com/Prateek9876/NagarVikas/pull/234) |
+| issue create automate message added | Medium | [#231](https://github.com/Prateek9876/NagarVikas/pull/231) |
+| Changed Gradle Version 8.2.1 to 8.3.0 #222 Level 2 | Medium | [#229](https://github.com/Prateek9876/NagarVikas/pull/229) |
 | Changed and enhanced the about app page | Medium | [#220](https://github.com/Prateek9876/NagarVikas/pull/220) |
-| Improved UI for the Discussion Forum | Medium | [#219](https://github.com/Prateek9876/NagarVikas/pull/219) |
+| enhance UI of profile section in user screen | Hard | [#243](https://github.com/Prateek9876/NagarVikas/issues/243) |
+| Fixed show messages to user if not item is present. | Hard | [#237](https://github.com/Prateek9876/NagarVikas/pull/237) |
+| Fixed Assistant Issue | Hard | [#236](https://github.com/Prateek9876/NagarVikas/pull/236) |
+| Added Shimmers to user pages instead of Circular progress indicator. | Hard | [#225](https://github.com/Prateek9876/NagarVikas/pull/225) |
+| Added Shimmers to all the admin pages Fixes #217 | Hard | [#221](https://github.com/Prateek9876/NagarVikas/pull/221) |
+| Improved UI for the Discussion Forum | Hard | [#219](https://github.com/Prateek9876/NagarVikas/pull/219) |
 | Changed the Rejected Option to Pending in Admin Dashboard Analytics #211 Level 3 | Hard | [#216](https://github.com/Prateek9876/NagarVikas/pull/216) |
 
 ---
@@ -183,8 +192,9 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Dark Mode Toggle | Medium | [#100](https://github.com/Richajaishwal0/Trip_assistant/issues/100) |
+| Currently, the homepage only shows the hero banner ("PLAN YOUR TRIP WITH US") and destination cards. There are no login or signup buttons, which makes it difficult for users to access the authentication system. | Medium | [#98](https://github.com/Richajaishwal0/Trip_assistant/issues/98) |
 | Add the security | Medium | [#95](https://github.com/Richajaishwal0/Trip_assistant/issues/95) |
-| Improve the footer | Medium | [#94](https://github.com/Richajaishwal0/Trip_assistant/issues/94) |
 | added user activity badges | Medium | [#88](https://github.com/Richajaishwal0/Trip_assistant/pull/88) |
 
 ---
@@ -229,33 +239,24 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Flutter: Add UI Feedback to Logout Button | Easy | [#194](https://github.com/Yash159357/BREVITY/issues/194) |
-| Implement Account Deletion in Frontend | Easy | [#187](https://github.com/Yash159357/BREVITY/issues/187) |
+| Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
+| Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
 | Implement OAuth in Frontend | Easy | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Flutter: Bug - Loading bar inside Image Placeholder Not Visible in Light Mode | Easy | [#183](https://github.com/Yash159357/BREVITY/issues/183) |
 | Flutter: Bug Report - Header Color Inconsistency in Light Mode | Easy | [#182](https://github.com/Yash159357/BREVITY/issues/182) |
 | Flutter: Bug in Profile screen | Easy | [#180](https://github.com/Yash159357/BREVITY/issues/180) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
 | Testing: Internal App Functions | Easy | [#178](https://github.com/Yash159357/BREVITY/issues/178) |
-| Testing: Chatbot Functionality | Easy | [#177](https://github.com/Yash159357/BREVITY/issues/177) |
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
-| Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
-| Document: Update Readme | Easy | [#169](https://github.com/Yash159357/BREVITY/issues/169) |
-| Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
+| fix: adapt text color to theme brightness | Medium | [#207](https://github.com/Yash159357/BREVITY/pull/207) |
+| Redesign of intro pages with theme selector | Medium | [#206](https://github.com/Yash159357/BREVITY/pull/206) |
+| Fixed Issues #195, #196, #197, #198 and #202 | Medium | [#205](https://github.com/Yash159357/BREVITY/pull/205) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | Backend: Style Email Verification HTML Page | Medium | [#193](https://github.com/Yash159357/BREVITY/issues/193) |
 | Backend: Style Reset Success HTML Page | Medium | [#192](https://github.com/Yash159357/BREVITY/issues/192) |
 | Backend: Style Reset Password HTML Page | Medium | [#191](https://github.com/Yash159357/BREVITY/issues/191) |
-| Flutter: Design and Style Email Verification Page | Medium | [#190](https://github.com/Yash159357/BREVITY/issues/190) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
-| Backend: Share News Within the App | Medium | [#174](https://github.com/Yash159357/BREVITY/issues/174) |
-| Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
-| Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Flutter: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
-| Backend: Implement User Reactions Feature with Persistence and Duplicate Prevention | Medium | [#163](https://github.com/Yash159357/BREVITY/pull/163) |
-| Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
+| Flutter: Implement Image Cropping Tool | Hard | [#199](https://github.com/Yash159357/BREVITY/issues/199) |
 
 ---
 
@@ -273,6 +274,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Dark/Light Mode Toggle | Medium | [#29](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/29) |
 | feat: add docker development setup | Medium | [#28](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/28) |
 | Enhancement: Added .env.example and serviceAccount.json.example | Medium | [#27](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/27) |
 | Missing Project Structure in README(#25) | Medium | [#26](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/26) |
@@ -343,33 +345,24 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Flutter: Add UI Feedback to Logout Button | Easy | [#194](https://github.com/Yash159357/BREVITY/issues/194) |
-| Implement Account Deletion in Frontend | Easy | [#187](https://github.com/Yash159357/BREVITY/issues/187) |
+| Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
+| Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
 | Implement OAuth in Frontend | Easy | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Flutter: Bug - Loading bar inside Image Placeholder Not Visible in Light Mode | Easy | [#183](https://github.com/Yash159357/BREVITY/issues/183) |
 | Flutter: Bug Report - Header Color Inconsistency in Light Mode | Easy | [#182](https://github.com/Yash159357/BREVITY/issues/182) |
 | Flutter: Bug in Profile screen | Easy | [#180](https://github.com/Yash159357/BREVITY/issues/180) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
 | Testing: Internal App Functions | Easy | [#178](https://github.com/Yash159357/BREVITY/issues/178) |
-| Testing: Chatbot Functionality | Easy | [#177](https://github.com/Yash159357/BREVITY/issues/177) |
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
-| Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
-| Document: Update Readme | Easy | [#169](https://github.com/Yash159357/BREVITY/issues/169) |
-| Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
+| fix: adapt text color to theme brightness | Medium | [#207](https://github.com/Yash159357/BREVITY/pull/207) |
+| Redesign of intro pages with theme selector | Medium | [#206](https://github.com/Yash159357/BREVITY/pull/206) |
+| Fixed Issues #195, #196, #197, #198 and #202 | Medium | [#205](https://github.com/Yash159357/BREVITY/pull/205) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | Backend: Style Email Verification HTML Page | Medium | [#193](https://github.com/Yash159357/BREVITY/issues/193) |
 | Backend: Style Reset Success HTML Page | Medium | [#192](https://github.com/Yash159357/BREVITY/issues/192) |
 | Backend: Style Reset Password HTML Page | Medium | [#191](https://github.com/Yash159357/BREVITY/issues/191) |
-| Flutter: Design and Style Email Verification Page | Medium | [#190](https://github.com/Yash159357/BREVITY/issues/190) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
-| Backend: Share News Within the App | Medium | [#174](https://github.com/Yash159357/BREVITY/issues/174) |
-| Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
-| Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Flutter: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
-| Backend: Implement User Reactions Feature with Persistence and Duplicate Prevention | Medium | [#163](https://github.com/Yash159357/BREVITY/pull/163) |
-| Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
+| Flutter: Implement Image Cropping Tool | Hard | [#199](https://github.com/Yash159357/BREVITY/issues/199) |
 
 ---
 
@@ -388,6 +381,9 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Favicon to Website | Easy | [#65](https://github.com/Skrache/crisisboard/issues/65) |
+| Landing page from scratch | Medium | [#74](https://github.com/Skrache/crisisboard/pull/74) |
+| Added user profile page | Medium | [#73](https://github.com/Skrache/crisisboard/pull/73) |
+| Add "Back to Top" button in README | Medium | [#72](https://github.com/Skrache/crisisboard/issues/72) |
 | Need About us Section | Medium | [#63](https://github.com/Skrache/crisisboard/issues/63) |
 | Added search and filter feature | Medium | [#48](https://github.com/Skrache/crisisboard/pull/48) |
 | Add Password Strength Checker to User Input Form | Medium | [#34](https://github.com/Skrache/crisisboard/issues/34) |
@@ -432,21 +428,23 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/Loop-Hive/ScheduleX/issues/95) |
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
+| Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
-| Attendance export feature | Medium | [#131](https://github.com/Loop-Hive/ScheduleX/issues/131) |
-| Enhancing the import CSV function | Medium | [#130](https://github.com/Loop-Hive/ScheduleX/pull/130) |
+| File permission settings | Medium | [#134](https://github.com/Loop-Hive/ScheduleX/pull/134) |
+| Add "Back to Top" button in README | Medium | [#132](https://github.com/Loop-Hive/ScheduleX/issues/132) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
-| Redesign Hero Section for Minimalism | Medium | [#116](https://github.com/Loop-Hive/ScheduleX/issues/116) |
 | Edit Menu Button Delayed Activation | Medium | [#112](https://github.com/Loop-Hive/ScheduleX/issues/112) |
 | Overflowing Issue in Schedule Select Menu | Medium | [#111](https://github.com/Loop-Hive/ScheduleX/issues/111) |
 | Adding a Indexed DB for Tasks Chat Data Storage | Medium | [#110](https://github.com/Loop-Hive/ScheduleX/issues/110) |
 | Tab Memorization | Medium | [#108](https://github.com/Loop-Hive/ScheduleX/issues/108) |
 | Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/Loop-Hive/ScheduleX/issues/107) |
 | Duplicate Card Add on Add or Edit Card | Medium | [#106](https://github.com/Loop-Hive/ScheduleX/issues/106) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/Loop-Hive/ScheduleX/issues/98) |
 | Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
 | Add Time Slot Error on Specific days | Medium | [#82](https://github.com/Loop-Hive/ScheduleX/issues/82) |
 | Export tasks as pdf | Medium | [#10](https://github.com/Loop-Hive/ScheduleX/issues/10) |
 | QR Code Integrations | Hard | [#81](https://github.com/Loop-Hive/ScheduleX/issues/81) |
+| Cloud sync through Google Drive | Hard | [#14](https://github.com/Loop-Hive/ScheduleX/issues/14) |
 
 ---
 
@@ -465,20 +463,11 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | updating UI of support page | Medium | [#47](https://github.com/Devaki01/EcoStore/issues/47) |
-| Adding a back to top button in the home page | Medium | [#46](https://github.com/Devaki01/EcoStore/issues/46) |
-| Adding a toggle button in home page | Medium | [#45](https://github.com/Devaki01/EcoStore/issues/45) |
-| Enhancing the footer section in the home page | Medium | [#44](https://github.com/Devaki01/EcoStore/issues/44) |
 | Enhancing the home page | Medium | [#43](https://github.com/Devaki01/EcoStore/issues/43) |
-| Feature Request: Shop Page Implementation | Medium | [#42](https://github.com/Devaki01/EcoStore/issues/42) |
 | Suggestion: A add live link of the website | Medium | [#40](https://github.com/Devaki01/EcoStore/issues/40) |
 | update in design and responsive of navbar | Medium | [#39](https://github.com/Devaki01/EcoStore/pull/39) |
 | Fix issue #33: Equalized testimonial card heights & improved mobile navigation | Medium | [#38](https://github.com/Devaki01/EcoStore/pull/38) |
-| ## ISSUE : Add Footer to All Pages (Mobile Responsive) | Medium | [#37](https://github.com/Devaki01/EcoStore/issues/37) |
-| Fixed Navbar Functionality, Add Navbar to All pages, & Made Site Mobile Responsive #34 | Medium | [#36](https://github.com/Devaki01/EcoStore/pull/36) |
-| Adding Signup page with profile section and cart section | Medium | [#35](https://github.com/Devaki01/EcoStore/issues/35) |
 | Adding login and signup pages | Medium | [#30](https://github.com/Devaki01/EcoStore/issues/30) |
-| Add favicon and update manifest references | Medium | [#29](https://github.com/Devaki01/EcoStore/pull/29) |
-| Enhance "Our Happy Clients" section with interactive hover card transition #23 | Medium | [#28](https://github.com/Devaki01/EcoStore/pull/28) |
 | 🎨 Footer Modifiation | Medium | [#26](https://github.com/Devaki01/EcoStore/issues/26) |
 | BUG : Not responsive for devices with small display | Medium | [#21](https://github.com/Devaki01/EcoStore/issues/21) |
 | Create a chatbot | Medium | [#20](https://github.com/Devaki01/EcoStore/issues/20) |
@@ -486,6 +475,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Ui enhancement + Imperfect font heirarchy | Medium | [#13](https://github.com/Devaki01/EcoStore/issues/13) |
 | Add Readme.md | Medium | [#12](https://github.com/Devaki01/EcoStore/issues/12) |
 | 🔐 Feature Request: Implement Login & Sign Up using Firebase Authentication | Medium | [#6](https://github.com/Devaki01/EcoStore/issues/6) |
+| 🧭 Feature Request: Create a Navbar Component for the Website | Medium | [#4](https://github.com/Devaki01/EcoStore/issues/4) |
 
 ---
 
@@ -521,6 +511,8 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Low contrast: Browse Syllabus button blends with page | Medium | [#41](https://github.com/lovelymahor/StudyMatePlus/issues/41) |
+| Inconsistent page transitions across routes | Medium | [#40](https://github.com/lovelymahor/StudyMatePlus/issues/40) |
 | Backend – Implement User Authentication with JWT | Medium | [#39](https://github.com/lovelymahor/StudyMatePlus/issues/39) |
 | Backend – Implement Syllabus & PYQ Upload/Fetch System | Medium | [#38](https://github.com/lovelymahor/StudyMatePlus/issues/38) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
@@ -545,23 +537,25 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added weather UI dashboard with better UI | Medium | [#126](https://github.com/Varshitha713/CodeCanvas/pull/126) |
+| Add favicon to CodeCanvas pages (fixes #116) | Medium | [#125](https://github.com/Varshitha713/CodeCanvas/pull/125) |
+| added gssoc logo | Medium | [#124](https://github.com/Varshitha713/CodeCanvas/pull/124) |
+| Add About Section to Homepage | Medium | [#123](https://github.com/Varshitha713/CodeCanvas/pull/123) |
+| Add about page | Medium | [#122](https://github.com/Varshitha713/CodeCanvas/issues/122) |
+| Improving the UI of "filter projects" section. | Medium | [#121](https://github.com/Varshitha713/CodeCanvas/issues/121) |
+| Adding SignUp page | Medium | [#120](https://github.com/Varshitha713/CodeCanvas/issues/120) |
 | Bug: “Send Message” Button Turns Fully White on Hover in Dark Mode | Medium | [#119](https://github.com/Varshitha713/CodeCanvas/issues/119) |
 | feat: upgrade CodeCanvas UI with animations and project enhancements | Medium | [#117](https://github.com/Varshitha713/CodeCanvas/pull/117) |
 | Bug: Hover Effect on "Send Message" Button Hides Text | Medium | [#115](https://github.com/Varshitha713/CodeCanvas/issues/115) |
 | added user authentication | Medium | [#113](https://github.com/Varshitha713/CodeCanvas/pull/113) |
-| Need validation changes in contact us | Medium | [#111](https://github.com/Varshitha713/CodeCanvas/pull/111) |
 | Added a Scroll Fade-In animation | Medium | [#110](https://github.com/Varshitha713/CodeCanvas/pull/110) |
 | add the page of about us | Medium | [#109](https://github.com/Varshitha713/CodeCanvas/pull/109) |
-| Updated README and Added GSSoC Logo | Medium | [#108](https://github.com/Varshitha713/CodeCanvas/pull/108) |
 | Added the Submit page | Medium | [#107](https://github.com/Varshitha713/CodeCanvas/pull/107) |
 | Scroll to Top Css Improved | Medium | [#102](https://github.com/Varshitha713/CodeCanvas/pull/102) |
 | Feature Request: Add Profile Page with Google Sign-In (Firebase Auth) | Medium | [#96](https://github.com/Varshitha713/CodeCanvas/issues/96) |
 | Improve in Navbar | Medium | [#94](https://github.com/Varshitha713/CodeCanvas/issues/94) |
 | Added CODE_OF_CONDUCT.md (closes issue #13) | Medium | [#90](https://github.com/Varshitha713/CodeCanvas/pull/90) |
 | ## 🚨 Feature Request: Add Login/Signup Functionality | Medium | [#87](https://github.com/Varshitha713/CodeCanvas/issues/87) |
-| Navbar should be a collapsible hamburger menu on mobile view | Medium | [#74](https://github.com/Varshitha713/CodeCanvas/issues/74) |
-| There is no link in the license section for readme | Medium | [#73](https://github.com/Varshitha713/CodeCanvas/issues/73) |
-| Code of Conduct – CodeCanvas | GSSoC'25 | Medium | [#70](https://github.com/Varshitha713/CodeCanvas/issues/70) |
 
 ---
 
@@ -579,11 +573,11 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add indexes to User and Appointment models for faster queries (#143) | Medium | [#151](https://github.com/shandilya-rajnandini/DocAtHome/pull/151) |
 | Feature/whatsapp appointment sharing | Medium | [#150](https://github.com/shandilya-rajnandini/DocAtHome/pull/150) |
 | feat: Add pagination and advanced filtering to doctor search | Medium | [#149](https://github.com/shandilya-rajnandini/DocAtHome/pull/149) |
 | Relay feature | Medium | [#148](https://github.com/shandilya-rajnandini/DocAtHome/pull/148) |
 | Migrate from Context API to a Zustand Store | Medium | [#147](https://github.com/shandilya-rajnandini/DocAtHome/pull/147) |
-| implemented pro subscription | Medium | [#146](https://github.com/shandilya-rajnandini/DocAtHome/pull/146) |
 | Request Refill Implemented | Medium | [#145](https://github.com/shandilya-rajnandini/DocAtHome/pull/145) |
 | Create a staging environment using Git branches and deploy previews | Medium | [#142](https://github.com/shandilya-rajnandini/DocAtHome/issues/142) |
 | Perform an accessibility audit and fix WCAG 2.1 AA issues | Hard | [#141](https://github.com/shandilya-rajnandini/DocAtHome/issues/141) |
@@ -591,9 +585,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 | Implement automated checks to flag suspicious professional registrations | Hard | [#124](https://github.com/shandilya-rajnandini/DocAtHome/issues/124) |
 | Develop a "Patient Acuity Score" for incoming appointment requests | Hard | [#123](https://github.com/shandilya-rajnandini/DocAtHome/issues/123) |
 | Create a "Demand Hotspot" map for doctors and nurses | Hard | [#122](https://github.com/shandilya-rajnandini/DocAtHome/issues/122) |
-| Convert the frontend into an installable Progressive Web App (PWA) | Hard | [#121](https://github.com/shandilya-rajnandini/DocAtHome/issues/121) |
 | Implement an AI helper to suggest the right doctor specialty | Hard | [#118](https://github.com/shandilya-rajnandini/DocAtHome/issues/118) |
-| Create a generic controller factory to reduce boilerplate | Hard | [#115](https://github.com/shandilya-rajnandini/DocAtHome/issues/115) |
 
 ---
 
@@ -611,7 +603,8 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend Refactor for Blog Structure & Post Management (#37) | Medium | [#43](https://github.com/mr-rishikesh/DevConnect/pull/43) |
+| Keep Backend Awake by Implementing Auto-Ping Mechanism | Medium | [#47](https://github.com/mr-rishikesh/DevConnect/pull/47) |
+| Prevent Backend from Sleeping on Free Hosting Plan | Medium | [#46](https://github.com/mr-rishikesh/DevConnect/issues/46) |
 | Issue: Redesign Blog Upload Flow — Create a Full Page for Blog/Post Submission | Medium | [#38](https://github.com/mr-rishikesh/DevConnect/issues/38) |
 | Website doesnot have the privacy policy page which will define the privacy policy under the website as security! | Medium | [#30](https://github.com/mr-rishikesh/DevConnect/issues/30) |
 | Improve Explore Page with Filters for Tech Stack and Followed Users + Styling Enhancements | Medium | [#26](https://github.com/mr-rishikesh/DevConnect/issues/26) |
@@ -636,11 +629,10 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Removed duplicate sections and updated section images (Issue #129) | Medium | [#134](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/134) |
 | Resource Page Template Redesign | Medium | [#130](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/130) |
 | Fixes: #75, Enhances navbar UI | Medium | [#119](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/119) |
-| 🎯 Feature Request: Navbar for HackerZGuide | Medium | [#118](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/118) |
 | 🎨 Enhancement: Professional UI/UX Redesign for HackerZGuide | Medium | [#117](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/117) |
-| html page corrected already and space added in topic name of cyber Security | Medium | [#112](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/112) |
 
 ---
 
@@ -682,7 +674,7 @@ To pull it down to get refresh main page for fetching data | Medium | [#186](htt
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added animations and transitions to UI | Medium | [#20](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/pull/20) |
+| Regarding the GSSoC'25 | Medium | [#22](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/22) |
 
 ---
 
