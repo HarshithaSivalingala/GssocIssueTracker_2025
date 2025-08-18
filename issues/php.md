@@ -14,7 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue:2 improve navbar and add the toaster notifications. | Medium | [#38](https://github.com/sachiikrish/AttendanceTracker/pull/38) |
+| Add the toaster notifications. | Medium | [#40](https://github.com/sachiikrish/AttendanceTracker/pull/40) |
+| Adding Contributing.md | Medium | [#39](https://github.com/sachiikrish/AttendanceTracker/issues/39) |
 | Added Contributing.md | Medium | [#36](https://github.com/sachiikrish/AttendanceTracker/pull/36) |
 | Home Page Redesign | Medium | [#35](https://github.com/sachiikrish/AttendanceTracker/issues/35) |
 | Add Improved Error Handling and User Feedback for Attendance Form | Medium | [#33](https://github.com/sachiikrish/AttendanceTracker/issues/33) |
