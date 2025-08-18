@@ -202,7 +202,6 @@ Why Jeanne?
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Light/Dark Mode Toggle | Medium | [#10](https://github.com/Anasmalik57/Dev-Resume-AI/issues/10) |
-| Add Login & Signup | Medium | [#9](https://github.com/Anasmalik57/Dev-Resume-AI/issues/9) |
 
 ---
 
