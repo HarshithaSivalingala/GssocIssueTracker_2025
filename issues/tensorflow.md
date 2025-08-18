@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Navigation Enhancement (Animation + Logic) | Medium | [#239](https://github.com/Amarjha01/InfantCareCompass/pull/239) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 | Fixed errors in Signin.js and Signup.js | Medium | [#236](https://github.com/Amarjha01/InfantCareCompass/pull/236) |
 | Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
