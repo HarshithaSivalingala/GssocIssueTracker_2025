@@ -111,8 +111,10 @@
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
-| File permission settings | Medium | [#134](https://github.com/Loop-Hive/ScheduleX/pull/134) |
-| Add "Back to Top" button in README | Medium | [#132](https://github.com/Loop-Hive/ScheduleX/issues/132) |
+| Global Register Selection | Medium | [#139](https://github.com/Loop-Hive/ScheduleX/pull/139) |
+| Make App Screenshots collapsible & add Back to Top button at bottom of README | Medium | [#138](https://github.com/Loop-Hive/ScheduleX/pull/138) |
+| Add App demo Gifs | Medium | [#137](https://github.com/Loop-Hive/ScheduleX/issues/137) |
+| Improve the UI of Settings Page | Medium | [#136](https://github.com/Loop-Hive/ScheduleX/issues/136) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
 | Edit Menu Button Delayed Activation | Medium | [#112](https://github.com/Loop-Hive/ScheduleX/issues/112) |
 | Overflowing Issue in Schedule Select Menu | Medium | [#111](https://github.com/Loop-Hive/ScheduleX/issues/111) |
@@ -124,6 +126,7 @@
 | Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
 | Add Time Slot Error on Specific days | Medium | [#82](https://github.com/Loop-Hive/ScheduleX/issues/82) |
 | Export tasks as pdf | Medium | [#10](https://github.com/Loop-Hive/ScheduleX/issues/10) |
+| Storage Permissions Fail on Android 13+ | Hard | [#135](https://github.com/Loop-Hive/ScheduleX/issues/135) |
 | QR Code Integrations | Hard | [#81](https://github.com/Loop-Hive/ScheduleX/issues/81) |
 | Cloud sync through Google Drive | Hard | [#14](https://github.com/Loop-Hive/ScheduleX/issues/14) |
 
