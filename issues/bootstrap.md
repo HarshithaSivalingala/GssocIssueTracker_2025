@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced UI of Navbar also add responsiveness at homepage | Medium | [#1350](https://github.com/vishanurag/Canvas-Editor/pull/1350) |
 | Feat:  Adding "remember me" to the signup and signin page connecting it to the local storage database for user authentication. | Medium | [#1190](https://github.com/vishanurag/Canvas-Editor/issues/1190) |
 | 🧑‍💻:  change  layout of the website | Medium | [#1132](https://github.com/vishanurag/Canvas-Editor/issues/1132) |
 
@@ -37,8 +38,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Logo Not Visible in Dark Mode | Medium | [#262](https://github.com/gyanshankar1708/GrowCraft/issues/262) |
-| Fix Our Work link, unify navbar, and standardize footer across pages | Medium | [#261](https://github.com/gyanshankar1708/GrowCraft/issues/261) |
+| Dark mode correction WebD | Medium | [#270](https://github.com/gyanshankar1708/GrowCraft/pull/270) |
+| carousel Section is now work properly and Home dark mode and footer UI fixes | Medium | [#269](https://github.com/gyanshankar1708/GrowCraft/pull/269) |
+| Fix: Improved visibility and padding for 'Read More' & 'Explore' btns | Medium | [#268](https://github.com/gyanshankar1708/GrowCraft/pull/268) |
+| Fix/navbar logo visibility | Medium | [#267](https://github.com/gyanshankar1708/GrowCraft/pull/267) |
+| Fixed NavBar Issue | Medium | [#265](https://github.com/gyanshankar1708/GrowCraft/pull/265) |
+| navbar link not working and showing page not found 404 . | Medium | [#264](https://github.com/gyanshankar1708/GrowCraft/issues/264) |
 | Add Professional Footer with Dark Mode Support to Blog Pages | Medium | [#259](https://github.com/gyanshankar1708/GrowCraft/pull/259) |
 | Added gradient styling and animation to Submit button | Medium | [#258](https://github.com/gyanshankar1708/GrowCraft/pull/258) |
 | Enhance Contact Form: Phone Validation with Country Code & Future-Date Restriction #196 | Medium | [#257](https://github.com/gyanshankar1708/GrowCraft/pull/257) |
@@ -48,7 +53,6 @@
 | Navbar toggling fix | Medium | [#248](https://github.com/gyanshankar1708/GrowCraft/pull/248) |
 | Sticky navbar on other pages | Medium | [#245](https://github.com/gyanshankar1708/GrowCraft/issues/245) |
 | Fix for Issue #223 - UI Flickering at Component Borders | Medium | [#240](https://github.com/gyanshankar1708/GrowCraft/pull/240) |
-| Update UI and add Dark Mode support across GrowCraft site | Medium | [#221](https://github.com/gyanshankar1708/GrowCraft/pull/221) |
 
 ---
 
@@ -67,6 +71,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make the scrollbar seemless and match the UI | Medium | [#58](https://github.com/Pujan-sarkar/FARMLOC/issues/58) |
 | add a Hamburger Icon for a responsive navbar | Medium | [#51](https://github.com/Pujan-sarkar/FARMLOC/issues/51) |
 | "Explore More" button on homepage is not functional or interactive | Medium | [#45](https://github.com/Pujan-sarkar/FARMLOC/issues/45) |
 
@@ -86,6 +91,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Style change of Contact page | Medium | [#199](https://github.com/sachiva1/sachiva/pull/199) |
 | added detailed version of about in about page | Medium | [#198](https://github.com/sachiva1/sachiva/pull/198) |
 | Fixed missing link + fixed overflow issue | Medium | [#197](https://github.com/sachiva1/sachiva/pull/197) |
 | Contact form not sending data to email, returns hardcoded value instead | Medium | [#196](https://github.com/sachiva1/sachiva/issues/196) |
