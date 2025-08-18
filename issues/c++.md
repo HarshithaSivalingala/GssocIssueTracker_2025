@@ -35,6 +35,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Delete provider function | Medium | [#127](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/127) |
 | Addition of automate issue create message | Medium | [#126](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/126) |
 | getProvider function | Medium | [#124](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/124) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
@@ -57,8 +58,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(docs): Added Build Instructions for building on Windows. | Medium | [#40](https://github.com/SharonIV0x86/CinderPeak/pull/40) |
-| added images | Medium | [#39](https://github.com/SharonIV0x86/CinderPeak/pull/39) |
+| feat(hybrid): Add examples for CSR-COO storage format. | Easy | [#21](https://github.com/SharonIV0x86/CinderPeak/issues/21) |
 
 ---
 
