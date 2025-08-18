@@ -114,6 +114,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add forgot password page | Medium | [#48](https://github.com/swarooppatilx/bit-by-query/pull/48) |
 | feat:login page UI enhancement issue no. #40 | Medium | [#45](https://github.com/swarooppatilx/bit-by-query/pull/45) |
 | Adjust Question Status Height & Move Question Statement Up | Medium | [#44](https://github.com/swarooppatilx/bit-by-query/pull/44) |
 | Make SQL Query Results Scrollable on Small Screens | Medium | [#42](https://github.com/swarooppatilx/bit-by-query/pull/42) |
@@ -155,7 +156,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue:2 improve navbar and add the toaster notifications. | Medium | [#38](https://github.com/sachiikrish/AttendanceTracker/pull/38) |
+| Add the toaster notifications. | Medium | [#40](https://github.com/sachiikrish/AttendanceTracker/pull/40) |
+| Adding Contributing.md | Medium | [#39](https://github.com/sachiikrish/AttendanceTracker/issues/39) |
 | Added Contributing.md | Medium | [#36](https://github.com/sachiikrish/AttendanceTracker/pull/36) |
 | Home Page Redesign | Medium | [#35](https://github.com/sachiikrish/AttendanceTracker/issues/35) |
 | Add Improved Error Handling and User Feedback for Attendance Form | Medium | [#33](https://github.com/sachiikrish/AttendanceTracker/issues/33) |
@@ -281,7 +283,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added CONTRIBUTING.md, background image, fixed GUI layout and structured project folders | Medium | [#19](https://github.com/SvJalmi/DBMS_Project/pull/19) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#17](https://github.com/SvJalmi/DBMS_Project/issues/17) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#16](https://github.com/SvJalmi/DBMS_Project/issues/16) |
 | Add mit license file to the project | Medium | [#15](https://github.com/SvJalmi/DBMS_Project/issues/15) |
