@@ -45,10 +45,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: onboarding API route backend corrections | Medium | [#367](https://github.com/yuvrajsinghgmx/ShopSmart/pull/367) |
-| created endpoint to update user.role | Medium | [#364](https://github.com/yuvrajsinghgmx/ShopSmart/pull/364) |
+| Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
+| Implement Onboarding Screen  with full integration of the onboarding API | Medium | [#368](https://github.com/yuvrajsinghgmx/ShopSmart/issues/368) |
+| Product List API Integration | Medium | [#365](https://github.com/yuvrajsinghgmx/ShopSmart/issues/365) |
 | Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
-| Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
+| Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
