@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Navigation Enhancement (Animation + Logic) | Medium | [#239](https://github.com/Amarjha01/InfantCareCompass/pull/239) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 | Fixed errors in Signin.js and Signup.js | Medium | [#236](https://github.com/Amarjha01/InfantCareCompass/pull/236) |
 | Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
@@ -36,8 +37,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| User authentication | Medium | [#198](https://github.com/Ayushjhawar8/Flavor-ai/issues/198) |
-| ensure back button goes behind navbar when scrolling | Medium | [#196](https://github.com/Ayushjhawar8/Flavor-ai/pull/196) |
+| Translate widget shifted | Medium | [#201](https://github.com/Ayushjhawar8/Flavor-ai/pull/201) |
+| Fix env validation | Medium | [#200](https://github.com/Ayushjhawar8/Flavor-ai/pull/200) |
+| Add Text-to-Voice Support for Ingredients | Medium | [#199](https://github.com/Ayushjhawar8/Flavor-ai/pull/199) |
 | Added navbar to recipe page | Medium | [#193](https://github.com/Ayushjhawar8/Flavor-ai/pull/193) |
 | Fix: Footer stays at bottom of page (#46) | Medium | [#150](https://github.com/Ayushjhawar8/Flavor-ai/pull/150) |
 | AI-Powered Recipe Recommendation Engine | Hard | [#188](https://github.com/Ayushjhawar8/Flavor-ai/pull/188) |
@@ -185,6 +187,25 @@ Why Jeanne?
 
 ---
 
+## 📌 Project: Dev Resumes AI
+
+📝 **Description:** DevResume.AI is a modern, drag-and-drop resume builder powered by AI. Generate perfectly structured, ATS-compliant resumes with smart bullet points, summaries, and beautiful designs  all in your browser.
+
+🔗 [View Project](https://github.com/Anasmalik57/Dev-Resume-AI)
+
+💻 **Tech Stack:** React, Vite, Tailwind CSS, Framer Motion, html2pdf.js, Node.js, Express.js, OpenAI API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Light/Dark Mode Toggle | Medium | [#10](https://github.com/Anasmalik57/Dev-Resume-AI/issues/10) |
+| Add Login & Signup | Medium | [#9](https://github.com/Anasmalik57/Dev-Resume-AI/issues/9) |
+
+---
+
 ## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
 
 📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
@@ -199,9 +220,13 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Detailed README for Backend Setup and Usage | Easy | [#74](https://github.com/Promptzy/Nexara/issues/74) |
+| Fix Login and Sign-Up Integration and Functionality | Easy | [#81](https://github.com/Promptzy/Nexara/issues/81) |
+| Add Issue and Ticket Management API (CRUD + Comments) | Easy | [#78](https://github.com/Promptzy/Nexara/pull/78) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
+| 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
+| Redesign Sign-Up Page UI | Medium | [#80](https://github.com/Promptzy/Nexara/issues/80) |
+| Redesign Login Page UI | Medium | [#79](https://github.com/Promptzy/Nexara/issues/79) |
 | Feature/dockerize backend postgres | Medium | [#76](https://github.com/Promptzy/Nexara/pull/76) |
 | Implementation of Basic API's Endpoints | Medium | [#67](https://github.com/Promptzy/Nexara/issues/67) |
 | Fix: Use only GITHUB_TOKEN for contribution tracking workflow | Hard | [#77](https://github.com/Promptzy/Nexara/pull/77) |
