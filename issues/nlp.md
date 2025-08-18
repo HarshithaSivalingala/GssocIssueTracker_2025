@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated  README.md | Medium | [#38](https://github.com/CharithaReddy18/AI-health-chatbot/pull/38) |
 | Added Offline Mode Fallback + README UpdateAdded offline mode fallback + README update #36 | Medium | [#37](https://github.com/CharithaReddy18/AI-health-chatbot/issues/37) |
 
 ---
