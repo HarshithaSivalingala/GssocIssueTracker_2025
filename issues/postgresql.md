@@ -19,7 +19,6 @@
 | feat: update login page with SVG wave background | Medium | [#59](https://github.com/Abhinavhaldiya/FinPilot/pull/59) |
 | An issue occurs | Medium | [#57](https://github.com/Abhinavhaldiya/FinPilot/issues/57) |
 | feat:Setup folder structure for modular features: users, expenses, ap… | Medium | [#53](https://github.com/Abhinavhaldiya/FinPilot/pull/53) |
-| Feature Request: AI Powered Receipt Categorization | Medium | [#52](https://github.com/Abhinavhaldiya/FinPilot/issues/52) |
 | docs: improve README with roadmap and API overview | Medium | [#51](https://github.com/Abhinavhaldiya/FinPilot/pull/51) |
 | Advanced ai technology | Medium | [#49](https://github.com/Abhinavhaldiya/FinPilot/issues/49) |
 | Create Ui for submit New Claim | Medium | [#47](https://github.com/Abhinavhaldiya/FinPilot/issues/47) |
@@ -68,7 +67,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Contributor for Contribution | Medium | [#22](https://github.com/Menthub-GSSoC/Menthub/issues/22) |
 | Improve README.md file | Medium | [#17](https://github.com/Menthub-GSSoC/Menthub/issues/17) |
 | Togglebutton | Medium | [#15](https://github.com/Menthub-GSSoC/Menthub/pull/15) |
-| matcher.py is Empty – Matching Logic Missing & Project Scope Needed | Hard | [#18](https://github.com/Menthub-GSSoC/Menthub/issues/18) |
 
 ---
 
@@ -89,17 +87,21 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implementing Dark Mode in Lost & Found Page | Medium | [#606](https://github.com/HarshS16/Civix/issues/606) |
-| Implementing Dark Mode in Community Holidays Page | Medium | [#605](https://github.com/HarshS16/Civix/issues/605) |
-| Implementing Dark Mode in Nearby Services Page | Medium | [#604](https://github.com/HarshS16/Civix/issues/604) |
-| Lost and found page added | Medium | [#603](https://github.com/HarshS16/Civix/pull/603) |
-| Community Page Added to Dashboard | Medium | [#602](https://github.com/HarshS16/Civix/pull/602) |
-| issue is fixed | Medium | [#601](https://github.com/HarshS16/Civix/pull/601) |
+| Implementing Traffic Fines & Vehicle Info card on Dashboard | Medium | [#619](https://github.com/HarshS16/Civix/issues/619) |
+| Implement Government Schemes & Notifications card on Dashboard | Medium | [#618](https://github.com/HarshS16/Civix/issues/618) |
+| Implementing Election & Governance Info Card on Dashboard | Medium | [#617](https://github.com/HarshS16/Civix/issues/617) |
+| Implementing Civic Statistics & Open Data on Dashboard | Medium | [#616](https://github.com/HarshS16/Civix/issues/616) |
+| Implementing Public Transport Info Card on Dashboard | Medium | [#615](https://github.com/HarshS16/Civix/issues/615) |
+| Dark Mode in Lost & Found Page | Medium | [#614](https://github.com/HarshS16/Civix/pull/614) |
+| Dark Mode in Nearby Services | Medium | [#613](https://github.com/HarshS16/Civix/pull/613) |
+| Dark Mode in Community Holidays | Medium | [#612](https://github.com/HarshS16/Civix/pull/612) |
+| Add Custom JS Validation & Signup Redirect Link on Login Page | Medium | [#611](https://github.com/HarshS16/Civix/issues/611) |
+| Revamp Homepage UI/UX (Light Mode) | Medium | [#610](https://github.com/HarshS16/Civix/issues/610) |
+| Add General Issue Update Functionality with Email Notifications | Medium | [#607](https://github.com/HarshS16/Civix/issues/607) |
 | Added | Medium | [#579](https://github.com/HarshS16/Civix/pull/579) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 | Difficulty in community prioritization | Medium | [#560](https://github.com/HarshS16/Civix/issues/560) |
 | Want to improve the features section | Medium | [#539](https://github.com/HarshS16/Civix/issues/539) |
-| Lost & Found Card in Dashboard | Hard | [#595](https://github.com/HarshS16/Civix/issues/595) |
 
 ---
 
@@ -119,8 +121,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| **Title:** Fix Supabase Auth Helpers Import Error in Resume Generator Component | Medium | [#316](https://github.com/Muneerali199/DocMagic/issues/316) |
-| Allow Feature Access (Resume, CV, Presentation, Letter, Templates, Diagram) Only After Sign-In | Medium | [#313](https://github.com/Muneerali199/DocMagic/issues/313) |
+| fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
 | issue create automate merge added | Medium | [#312](https://github.com/Muneerali199/DocMagic/pull/312) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
 | feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
@@ -133,9 +134,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 | Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
 | chore(deps): bump bcryptjs and @types/bcryptjs | Medium | [#258](https://github.com/Muneerali199/DocMagic/pull/258) |
-| chore(deps): bump tailwind-merge from 2.6.0 to 3.3.1 | Medium | [#257](https://github.com/Muneerali199/DocMagic/pull/257) |
-| chore(deps): bump date-fns from 3.6.0 to 4.1.0 | Medium | [#255](https://github.com/Muneerali199/DocMagic/pull/255) |
-| chore(deps-dev): bump @types/node from 20.19.9 to 24.1.0 | Medium | [#254](https://github.com/Muneerali199/DocMagic/pull/254) |
 
 ---
 
@@ -263,8 +261,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
+| Phase - 1 Issue 5: Basic Frontend Authentication Pages | Easy | [#9](https://github.com/dscnitrourkela/project-xangoes/issues/9) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
-| Basic Frontend Authentication Pages | Medium | [#8](https://github.com/dscnitrourkela/project-xangoes/issues/8) |
+| Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
+| Phase-1 Issue 3: Rate Limitation Middleware | Hard | [#11](https://github.com/dscnitrourkela/project-xangoes/issues/11) |
 
 ---
 
@@ -330,9 +331,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Detailed README for Backend Setup and Usage | Easy | [#74](https://github.com/Promptzy/Nexara/issues/74) |
+| Fix Login and Sign-Up Integration and Functionality | Easy | [#81](https://github.com/Promptzy/Nexara/issues/81) |
+| Add Issue and Ticket Management API (CRUD + Comments) | Easy | [#78](https://github.com/Promptzy/Nexara/pull/78) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
+| 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
+| Redesign Sign-Up Page UI | Medium | [#80](https://github.com/Promptzy/Nexara/issues/80) |
+| Redesign Login Page UI | Medium | [#79](https://github.com/Promptzy/Nexara/issues/79) |
 | Feature/dockerize backend postgres | Medium | [#76](https://github.com/Promptzy/Nexara/pull/76) |
 | Implementation of Basic API's Endpoints | Medium | [#67](https://github.com/Promptzy/Nexara/issues/67) |
 | Fix: Use only GITHUB_TOKEN for contribution tracking workflow | Hard | [#77](https://github.com/Promptzy/Nexara/pull/77) |
@@ -353,6 +358,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
 | feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
 | Changed dark cards in about section to white tone #109 | Medium | [#118](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/118) |
 | Enhanved the user dashboard (ISSUE NO.54) | Medium | [#113](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/113) |
@@ -361,6 +367,28 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
+
+---
+
+## 📌 Project: Smriti AI
+
+📝 **Description:** Smriti AI is an intelligent, all-in-one learning assistant that helps you organize, understand, and retain everything you study from notes and youtube videos.
+
+🔗 [View Project](https://github.com/vatsal-bhakodia/smriti-ai)
+
+💻 **Tech Stack:** Next.js, Prisma, PostgreSQL, Clerk Auth
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: Add a Testimonials Page to Showcase User Feedback | Medium | [#89](https://github.com/vatsal-bhakodia/smriti-ai/issues/89) |
+| Take Notes option for topic | Medium | [#88](https://github.com/vatsal-bhakodia/smriti-ai/issues/88) |
+| feat : Performance graph with live data implemented | Medium | [#87](https://github.com/vatsal-bhakodia/smriti-ai/pull/87) |
+| Add Light/Dark Mode Toggle | Medium | [#86](https://github.com/vatsal-bhakodia/smriti-ai/issues/86) |
+| Add a blogs page to Smriti AI | Medium | [#84](https://github.com/vatsal-bhakodia/smriti-ai/pull/84) |
 
 ---
 
