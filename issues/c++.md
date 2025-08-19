@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| issue no #33 | Medium | [#78](https://github.com/Dipanita45/HEALCONNECT/pull/78) |
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
@@ -35,6 +36,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| list_provider_logs | Medium | [#128](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/128) |
 | Delete provider function | Medium | [#127](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/127) |
 | Addition of automate issue create message | Medium | [#126](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/126) |
 | getProvider function | Medium | [#124](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/124) |
