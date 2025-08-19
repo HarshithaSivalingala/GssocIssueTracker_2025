@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| Suggestion to add a CONTRIBUTING.md file | Medium | [#66](https://github.com/A-Akhil/Astra-Ai/issues/66) |
 | Add main.py with beginner-friendly AI commands for testing and demonstration | Medium | [#65](https://github.com/A-Akhil/Astra-Ai/pull/65) |
 | update readme for Astra-Ai | Medium | [#64](https://github.com/A-Akhil/Astra-Ai/issues/64) |
 | secrets.properties | Medium | [#63](https://github.com/A-Akhil/Astra-Ai/pull/63) |
@@ -99,6 +100,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Made DrawingScreen mobile friendly | Medium | [#29](https://github.com/Rajkumarbhakta/Canvas/pull/29) |
 | pr create automate message added | Medium | [#28](https://github.com/Rajkumarbhakta/Canvas/pull/28) |
 | <Enhance Navbar and footer like  responsive webpage/> | Medium | [#24](https://github.com/Rajkumarbhakta/Canvas/issues/24) |
 | Updated DrawingCanvas and ShapeSelector with shapes support | Medium | [#20](https://github.com/Rajkumarbhakta/Canvas/pull/20) |
@@ -123,9 +125,8 @@ User Profile: BMI calculator and fitness analytics.
 |----------|----------------|---------|
 | [UPDATE] UPLOAD POPUP | Easy | [#35](https://github.com/sayan0328/WallGodds-App/issues/35) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
-| Feature Request: Add Feedback System to WallGodds App | Medium | [#42](https://github.com/sayan0328/WallGodds-App/issues/42) |
-| Feature Request: Implement Download Option for Wallpapers | Medium | [#41](https://github.com/sayan0328/WallGodds-App/issues/41) |
-| Feature Request: Add Wallpapers to Favorites | Medium | [#40](https://github.com/sayan0328/WallGodds-App/issues/40) |
+| feat: Implement Set Wallpaper Popup | Medium | [#44](https://github.com/sayan0328/WallGodds-App/pull/44) |
+| Feature branch1 | Medium | [#43](https://github.com/sayan0328/WallGodds-App/pull/43) |
 
 ---
 
@@ -143,6 +144,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Creating a proper navigation and functional flow of screen designs in the app | Medium | [#176](https://github.com/sourabhkumar47/ResQFood/issues/176) |
 | Final update for buildgradle | Medium | [#174](https://github.com/sourabhkumar47/ResQFood/pull/174) |
 
 ---
@@ -162,8 +164,6 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
-| Implement Onboarding Screen  with full integration of the onboarding API | Medium | [#368](https://github.com/yuvrajsinghgmx/ShopSmart/issues/368) |
-| Product List API Integration | Medium | [#365](https://github.com/yuvrajsinghgmx/ShopSmart/issues/365) |
 | Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
 | Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
@@ -184,6 +184,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| update readme | Medium | [#25](https://github.com/Ajay-patidar0/GitSearch/issues/25) |
 | AutoComplete | Medium | [#23](https://github.com/Ajay-patidar0/GitSearch/pull/23) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
 
