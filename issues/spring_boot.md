@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added user entity and service methods | Medium | [#79](https://github.com/Ayush0316/KnockoutZone/pull/79) |
 | Fix issue #61: Create User Login & Registration Backend with JWT | Medium | [#78](https://github.com/Ayush0316/KnockoutZone/pull/78) |
 | FEAT : Add a "Cursor Trail Effect " Matching to the Website | Medium | [#77](https://github.com/Ayush0316/KnockoutZone/issues/77) |
 | Improve Readme | Medium | [#76](https://github.com/Ayush0316/KnockoutZone/issues/76) |
@@ -46,8 +47,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
-| Implement Onboarding Screen  with full integration of the onboarding API | Medium | [#368](https://github.com/yuvrajsinghgmx/ShopSmart/issues/368) |
-| Product List API Integration | Medium | [#365](https://github.com/yuvrajsinghgmx/ShopSmart/issues/365) |
 | Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
 | Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
