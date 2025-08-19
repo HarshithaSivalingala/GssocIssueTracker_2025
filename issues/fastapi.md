@@ -14,12 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Navigation Enhancement (Animation + Logic) | Medium | [#239](https://github.com/Amarjha01/InfantCareCompass/pull/239) |
+| Side Navigation in Testimonials Section. | Medium | [#241](https://github.com/Amarjha01/InfantCareCompass/pull/241) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
-| Fixed errors in Signin.js and Signup.js | Medium | [#236](https://github.com/Amarjha01/InfantCareCompass/pull/236) |
 | Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
-| Featured Article UI Fixed | Medium | [#211](https://github.com/Amarjha01/InfantCareCompass/pull/211) |
+| Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 
 ---
 
@@ -49,7 +48,6 @@
 | Implement theming system with consistent border radius and spacing | Medium | [#125](https://github.com/Devasy23/splitwiser/pull/125) |
 | fix(web): Fix web build error with React 19 | Medium | [#122](https://github.com/Devasy23/splitwiser/pull/122) |
 | feat: Migrate to Material 3 with dynamic theming | Medium | [#120](https://github.com/Devasy23/splitwiser/pull/120) |
-| Group Name Validation Enhancement | Medium | [#115](https://github.com/Devasy23/splitwiser/pull/115) |
 
 ---
 
@@ -67,6 +65,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Model Comparison Dashboard page | Medium | [#54](https://github.com/manasvi-0/AlgoLab/pull/54) |
 | Adding Feature to Visualise Kernels and Intermediate steps of CNN | Medium | [#53](https://github.com/manasvi-0/AlgoLab/pull/53) |
 | Addition of Toy datasets , interactive UI and fixed bug | Medium | [#52](https://github.com/manasvi-0/AlgoLab/pull/52) |
 | Update supervised_module.py | Medium | [#50](https://github.com/manasvi-0/AlgoLab/pull/50) |
@@ -100,6 +99,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #295 Resume Builder Theme Does Not Persist | Medium | [#307](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/307) |
+| #296 User Progress Not Saved When Navigating Away | Medium | [#306](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/306) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 | 📁 Add Firebase or Local JSON Backend Support | Hard | [#18](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/18) |
@@ -147,12 +148,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docker(deps): bump python from 3.12-slim to 3.13.7-slim | Medium | [#80](https://github.com/solve-ease/OptiBlogAi/pull/80) |
+| ci(deps): bump actions/checkout from 4 to 5 | Medium | [#79](https://github.com/solve-ease/OptiBlogAi/pull/79) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.3.0 in /optiblogai-site | Medium | [#78](https://github.com/solve-ease/OptiBlogAi/pull/78) |
 | Broken Links in Footer Navigation #41 | Medium | [#77](https://github.com/solve-ease/OptiBlogAi/pull/77) |
 | Added Contact Us Page | Medium | [#76](https://github.com/solve-ease/OptiBlogAi/pull/76) |
 | deps(deps): bump certifi from 2025.1.31 to 2025.8.3 | Medium | [#75](https://github.com/solve-ease/OptiBlogAi/pull/75) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.33.0 in /optiblogai-site | Medium | [#74](https://github.com/solve-ease/OptiBlogAi/pull/74) |
 | deps(deps): bump next from 15.4.1 to 15.4.6 in /optiblogai-site | Medium | [#73](https://github.com/solve-ease/OptiBlogAi/pull/73) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.2.1 in /optiblogai-site | Medium | [#72](https://github.com/solve-ease/OptiBlogAi/pull/72) |
 | deps(deps): bump lucide-react from 0.525.0 to 0.539.0 in /optiblogai-site | Medium | [#71](https://github.com/solve-ease/OptiBlogAi/pull/71) |
 | deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.4.6 in /optiblogai-site | Medium | [#70](https://github.com/solve-ease/OptiBlogAi/pull/70) |
 | deps(deps): bump playwright from 1.53.0 to 1.54.0 | Medium | [#64](https://github.com/solve-ease/OptiBlogAi/pull/64) |
@@ -163,7 +166,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | deps(deps): bump cachetools from 5.5.2 to 6.1.0 | Medium | [#57](https://github.com/solve-ease/OptiBlogAi/pull/57) |
 | deps(deps-dev): bump typescript from 5.8.3 to 5.9.2 in /optiblogai-site | Medium | [#56](https://github.com/solve-ease/OptiBlogAi/pull/56) |
 | deps(deps): bump framer-motion from 12.23.6 to 12.23.12 in /optiblogai-site | Medium | [#55](https://github.com/solve-ease/OptiBlogAi/pull/55) |
-| docker(deps): bump python from 3.12-slim to 3.13-slim | Medium | [#54](https://github.com/solve-ease/OptiBlogAi/pull/54) |
 | Add Hover Effect to "Try demo" Button | Medium | [#52](https://github.com/solve-ease/OptiBlogAi/issues/52) |
 | Reolved the issue of the redirection of the links | Medium | [#44](https://github.com/solve-ease/OptiBlogAi/pull/44) |
 | Automated FAQ/Q&A Generation for Blog Posts | Medium | [#40](https://github.com/solve-ease/OptiBlogAi/issues/40) |
@@ -214,6 +216,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Contributing.md | Medium | [#12](https://github.com/kunal0297/Nexus_dawn/pull/12) |
 | Add a CONTRIBUTING.md file for better onboarding #8 | Medium | [#11](https://github.com/kunal0297/Nexus_dawn/pull/11) |
 | Added Code of Conduct | Medium | [#4](https://github.com/kunal0297/Nexus_dawn/pull/4) |
 
@@ -239,6 +242,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🧪 Add Comprehensive Testing Suite | Easy | [#8](https://github.com/skdas20/Synapse/issues/8) |
 | 📚 Improve API Documentation with Examples | Easy | [#5](https://github.com/skdas20/Synapse/issues/5) |
 | 🎨 Improve Mobile Responsiveness | Easy | [#1](https://github.com/skdas20/Synapse/issues/1) |
+| security: untrack .env | Medium | [#18](https://github.com/skdas20/Synapse/pull/18) |
 | Added Code of Conduct | Medium | [#17](https://github.com/skdas20/Synapse/pull/17) |
 | Fix: Sidebar collapse on mobile, responsive modals, improved spacing | Medium | [#13](https://github.com/skdas20/Synapse/pull/13) |
 | 📱 Create Progressive Web App (PWA) | Medium | [#10](https://github.com/skdas20/Synapse/issues/10) |
