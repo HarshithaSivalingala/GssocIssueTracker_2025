@@ -18,7 +18,6 @@
 | Restructure folder hierarchy for FastAPI integration | Medium | [#54](https://github.com/kaushav07/VisionMate/issues/54) |
 | Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
-| Feature Request: Speech based Controls | Medium | [#51](https://github.com/kaushav07/VisionMate/issues/51) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
 | feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
@@ -56,6 +55,33 @@
 
 ---
 
+## 📌 Project: Nagarvikas 
+
+📝 **Description:** An app that is built to file civic issues faced by citizens of india , they can easily track their complaint status in realtime , admins can check the complaints and after working on it they can update status accordingly , admin dashboard also has analytics option to keep data of all complaints for future use
+
+🔗 [View Project](https://github.com/Prateek9876/NagarVikas)
+
+💻 **Tech Stack:** Flutter, Dart, Firebase, OneSignal, Cloudinary
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Opened dialog box for Report Issue | Medium | [#340](https://github.com/Prateek9876/NagarVikas/pull/340) |
+| Made Change Password functional | Medium | [#339](https://github.com/Prateek9876/NagarVikas/pull/339) |
+| Updated Terms & Conditions Acceptance Popup #262 Level 3 | Medium | [#337](https://github.com/Prateek9876/NagarVikas/pull/337) |
+| Fixed warning | Medium | [#336](https://github.com/Prateek9876/NagarVikas/pull/336) |
+| Fixed Last Profile Option Hidden Behind Bottom Navigation #318 Level 3 | Medium | [#330](https://github.com/Prateek9876/NagarVikas/pull/330) |
+| Added time in messages of Discussion Forum | Medium | [#327](https://github.com/Prateek9876/NagarVikas/pull/327) |
+| Enhancement | Medium | [#315](https://github.com/Prateek9876/NagarVikas/pull/315) |
+| Added Terms and Conditions checkbox | Medium | [#313](https://github.com/Prateek9876/NagarVikas/pull/313) |
+| Fixed Shimmers overflow | Medium | [#311](https://github.com/Prateek9876/NagarVikas/pull/311) |
+| Added Flutter_TTS in About Page | Medium | [#310](https://github.com/Prateek9876/NagarVikas/pull/310) |
+
+---
+
 ## 📌 Project: Brevity
 
 📝 **Description:** Brevity is an AI-powered news curation app that delivers seamless and concise news built with Flutter, Firebase, and upcoming with Chatbot and nodejs backend support. It aims to simplify how users consume news—through clean UI, fast performance, and future-ready AI features like summarization and myth-busting chatbot.
@@ -73,21 +99,19 @@
 | Backend: Support Account Deletion for OAuth Users | Easy | [#204](https://github.com/Yash159357/BREVITY/issues/204) |
 | Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
 | Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
-| Implement OAuth in Frontend | Easy | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | Flutter: Bug in Profile screen | Easy | [#180](https://github.com/Yash159357/BREVITY/issues/180) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
 | Testing: Internal App Functions | Easy | [#178](https://github.com/Yash159357/BREVITY/issues/178) |
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
 | Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
-| Backend: Style Email Verification HTML Page | Medium | [#193](https://github.com/Yash159357/BREVITY/issues/193) |
-| Backend: Style Reset Success HTML Page | Medium | [#192](https://github.com/Yash159357/BREVITY/issues/192) |
-| Backend: Style Reset Password HTML Page | Medium | [#191](https://github.com/Yash159357/BREVITY/issues/191) |
+| Style/email verification html | Medium | [#220](https://github.com/Yash159357/BREVITY/pull/220) |
+| style: update reset-successful.html | Medium | [#219](https://github.com/Yash159357/BREVITY/pull/219) |
+| Add User News Reactions Feature | Medium | [#218](https://github.com/Yash159357/BREVITY/pull/218) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
 | Flutter: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -106,6 +130,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Text Alignment Options (Left, Center, Right, Justify) | Medium | [#84](https://github.com/may-tas/TextEditingApp/issues/84) |
+| Implement Dark Theme Support | Medium | [#83](https://github.com/may-tas/TextEditingApp/issues/83) |
+| New Feature : Highlight the texts | Medium | [#81](https://github.com/may-tas/TextEditingApp/issues/81) |
+| Bug : Redo button does not work | Medium | [#80](https://github.com/may-tas/TextEditingApp/issues/80) |
 | Improve Text Shadow and Glow | Medium | [#79](https://github.com/may-tas/TextEditingApp/pull/79) |
 
 ---
@@ -155,21 +183,19 @@
 | Backend: Support Account Deletion for OAuth Users | Easy | [#204](https://github.com/Yash159357/BREVITY/issues/204) |
 | Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
 | Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
-| Implement OAuth in Frontend | Easy | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | Flutter: Bug in Profile screen | Easy | [#180](https://github.com/Yash159357/BREVITY/issues/180) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
 | Testing: Internal App Functions | Easy | [#178](https://github.com/Yash159357/BREVITY/issues/178) |
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
 | Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
-| Backend: Style Email Verification HTML Page | Medium | [#193](https://github.com/Yash159357/BREVITY/issues/193) |
-| Backend: Style Reset Success HTML Page | Medium | [#192](https://github.com/Yash159357/BREVITY/issues/192) |
-| Backend: Style Reset Password HTML Page | Medium | [#191](https://github.com/Yash159357/BREVITY/issues/191) |
+| Style/email verification html | Medium | [#220](https://github.com/Yash159357/BREVITY/pull/220) |
+| style: update reset-successful.html | Medium | [#219](https://github.com/Yash159357/BREVITY/pull/219) |
+| Add User News Reactions Feature | Medium | [#218](https://github.com/Yash159357/BREVITY/pull/218) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
 | Flutter: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
