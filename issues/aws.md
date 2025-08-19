@@ -44,6 +44,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve the cards UI in the features section | Medium | [#51](https://github.com/Sahilll94/Travel-Book/issues/51) |
 | Report: Overlapping Buttons | Medium | [#49](https://github.com/Sahilll94/Travel-Book/issues/49) |
 | Fix/darkmode buttons | Medium | [#48](https://github.com/Sahilll94/Travel-Book/pull/48) |
 | Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
