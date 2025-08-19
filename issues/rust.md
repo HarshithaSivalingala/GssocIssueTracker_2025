@@ -35,6 +35,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Addition of automate issue create message | Medium | [#41](https://github.com/VaibhavCodeClub/term/issues/41) |
+| Add SECURITY.md file | Medium | [#40](https://github.com/VaibhavCodeClub/term/issues/40) |
 | Added Context in the terminal | Medium | [#39](https://github.com/VaibhavCodeClub/term/pull/39) |
 | feat: Add basic markdown rendering for AI responses #21 | Medium | [#34](https://github.com/VaibhavCodeClub/term/pull/34) |
 | Added files for Pull request  template | Medium | [#31](https://github.com/VaibhavCodeClub/term/pull/31) |
