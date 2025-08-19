@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix #1882: Added test for RecentIssues Component | Medium | [#2087](https://github.com/OWASP/Nest/pull/2087) |
+| fixed footer not sticking always to bottom when height is higher | Medium | [#2083](https://github.com/OWASP/Nest/pull/2083) |
 | Add tests for <DonutBarChart> component | Medium | [#2081](https://github.com/OWASP/Nest/pull/2081) |
 | Integrate Lighthouse CI | Medium | [#2079](https://github.com/OWASP/Nest/pull/2079) |
 | Fix: Bold text on Community dropdown | Medium | [#2076](https://github.com/OWASP/Nest/pull/2076) |
@@ -26,8 +28,6 @@
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2024](https://github.com/OWASP/Nest/pull/2024) |
 | Implement Initial Setup for Google OAuth | Medium | [#2021](https://github.com/OWASP/Nest/pull/2021) |
 | Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
-| Added participants who have expressed interest in a specific issue in issue model . | Medium | [#1995](https://github.com/OWASP/Nest/pull/1995) |
-| refactor:remove PLR0912 ignore and fix 4 violations update | Medium | [#1979](https://github.com/OWASP/Nest/pull/1979) |
 
 ---
 
@@ -89,7 +89,6 @@
 | Restructure folder hierarchy for FastAPI integration | Medium | [#54](https://github.com/kaushav07/VisionMate/issues/54) |
 | Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
-| Feature Request: Speech based Controls | Medium | [#51](https://github.com/kaushav07/VisionMate/issues/51) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
 | feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
@@ -151,7 +150,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update jsparent.html #174 | Medium | [#176](https://github.com/Khushi-Nigam/jobportal/pull/176) |
+| Employeer registration form missing validation | Medium | [#184](https://github.com/Khushi-Nigam/jobportal/issues/184) |
 | Addition of pr create automate message | Medium | [#171](https://github.com/Khushi-Nigam/jobportal/issues/171) |
 | register button no working | Medium | [#111](https://github.com/Khushi-Nigam/jobportal/issues/111) |
 
@@ -171,6 +170,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed:Server Error (500) on 127.0.0.1:8000 | Medium | [#36](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/36) |
 | feat: Add Data Dashboard, Explainability, and API Layer for Sneaker Price Prediction (#10) | Medium | [#27](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/27) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
 | Linear Regression for price [GSSoC 25] | Medium | [#21](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/21) |
@@ -249,14 +249,14 @@
 |----------|----------------|---------|
 | Fix Login and Sign-Up Integration and Functionality | Easy | [#81](https://github.com/Promptzy/Nexara/issues/81) |
 | Add Issue and Ticket Management API (CRUD + Comments) | Easy | [#78](https://github.com/Promptzy/Nexara/pull/78) |
+| Feature/dockerize backend postgres | Easy | [#76](https://github.com/Promptzy/Nexara/pull/76) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
 | 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
 | Redesign Sign-Up Page UI | Medium | [#80](https://github.com/Promptzy/Nexara/issues/80) |
 | Redesign Login Page UI | Medium | [#79](https://github.com/Promptzy/Nexara/issues/79) |
-| Feature/dockerize backend postgres | Medium | [#76](https://github.com/Promptzy/Nexara/pull/76) |
+| Fix: Use only GITHUB_TOKEN for contribution tracking workflow | Medium | [#77](https://github.com/Promptzy/Nexara/pull/77) |
 | Implementation of Basic API's Endpoints | Medium | [#67](https://github.com/Promptzy/Nexara/issues/67) |
-| Fix: Use only GITHUB_TOKEN for contribution tracking workflow | Hard | [#77](https://github.com/Promptzy/Nexara/pull/77) |
 
 ---
 
