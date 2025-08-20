@@ -38,26 +38,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Light/Dark Mode Toggle | Medium | [#92](https://github.com/Bavanetha27/Refixly/issues/92) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
-
----
-
-## 📌 Project: Medical Adherence Monitoring System
-
-📝 **Description:** An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle. Demo Video: https://res.cloudinary.com/dzl3qnjqk/video/upload/v1751681025/VID-20250419-WA0000_4_tycodg.mp4
-
-🔗 [View Project](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System)
-
-💻 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add SQL Documentation | Medium | [#28](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/28) |
 
 ---
 
@@ -76,6 +59,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix footer spacing issue - add bottom padding to prevent content overlap | Easy | [#42](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) |
+| 🎵 Issue: Add Frontend Web Interface for Music Recommendation | Medium | [#75](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/75) |
 | Addition of automate issue create message | Medium | [#74](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/74) |
 | Changes | Medium | [#73](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/73) |
 | New Feature: Suggest Custom Playlists | Medium | [#72](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/72) |
@@ -114,7 +98,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add "Back to Top" button in README | Medium | [#48](https://github.com/AditixAnand/Garbage_Classification/issues/48) |
+| Add button at bottom of README for easier navigation | Medium | [#50](https://github.com/AditixAnand/Garbage_Classification/pull/50) |
 | Missing model_efficientnet.h5 file needed to run the project | Medium | [#38](https://github.com/AditixAnand/Garbage_Classification/issues/38) |
 
 ---
