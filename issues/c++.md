@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| issue no #33 | Medium | [#78](https://github.com/Dipanita45/HEALCONNECT/pull/78) |
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
@@ -36,9 +35,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat/list_topic_logs | Medium | [#130](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/130) |
+| issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
 | list_provider_logs | Medium | [#128](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/128) |
 | Delete provider function | Medium | [#127](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/127) |
-| Addition of automate issue create message | Medium | [#126](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/126) |
 | getProvider function | Medium | [#124](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/124) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
@@ -60,7 +60,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(hybrid): Add examples for CSR-COO storage format. | Easy | [#21](https://github.com/SharonIV0x86/CinderPeak/issues/21) |
+| feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
+| Add examples for CSR-COO storage format Issue Solution ✅ | Medium | [#47](https://github.com/SharonIV0x86/CinderPeak/pull/47) |
 
 ---
 
@@ -80,6 +81,7 @@
 |----------|----------------|---------|
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
+| Change: Design of FAQs section | Medium | [#75](https://github.com/Aqsa4066/netflixclone/pull/75) |
 | Change: Design of FAQs section | Medium | [#72](https://github.com/Aqsa4066/netflixclone/pull/72) |
 | Edited footer | Medium | [#71](https://github.com/Aqsa4066/netflixclone/pull/71) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
@@ -96,7 +98,6 @@
 | Enhance Navbar Design and Functionality in Netflix Clone | Medium | [#23](https://github.com/Aqsa4066/netflixclone/issues/23) |
 | feature: UI/UX Improvement Suggestions for Netflix Clone (GSSoC'25) | Medium | [#19](https://github.com/Aqsa4066/netflixclone/issues/19) |
 | Changed the styling | Medium | [#18](https://github.com/Aqsa4066/netflixclone/pull/18) |
-| 🐛 Bug Report: Button Hover State Missing | Medium | [#16](https://github.com/Aqsa4066/netflixclone/issues/16) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
