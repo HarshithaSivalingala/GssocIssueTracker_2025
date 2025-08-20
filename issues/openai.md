@@ -36,7 +36,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Visibility of the text in Dark Mode | Medium | [#204](https://github.com/Ayushjhawar8/Flavor-ai/issues/204) |
+| Improved deployment | Medium | [#205](https://github.com/Ayushjhawar8/Flavor-ai/issues/205) |
 | added clerk authentication | Hard | [#202](https://github.com/Ayushjhawar8/Flavor-ai/pull/202) |
 | Translate widget shifted | Hard | [#201](https://github.com/Ayushjhawar8/Flavor-ai/pull/201) |
 | Fix env validation | Hard | [#200](https://github.com/Ayushjhawar8/Flavor-ai/pull/200) |
@@ -90,11 +90,18 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Responsiveness issue: Horizontal scrolling issue in landing page | Medium | [#317](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/317) |
+| Missing confirm password field in registration forms | Medium | [#316](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/316) |
+| Missing footer in multiple pages | Medium | [#315](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/315) |
+| Non-intuitive UI design to redirect user to respective registration page | Medium | [#314](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/314) |
+| Issue #211 Resolved – User Profile System & UI Fixes | Medium | [#313](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/313) |
+| #294 Clicking on Logo Does Not Navigate to Home Page | Medium | [#312](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/312) |
+| Issue: Implement Dark/Light Mode Context Support for Resume ATS Checker Page | Medium | [#311](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/311) |
+| Backend API for Resume Builder — Store and Retrieve User Resume Data | Medium | [#310](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/310) |
+| Resume Builder Feature Incomplete, Needs Structured Fields, Preview, and Storage | Medium | [#309](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/309) |
+| Hardcoded Loader, Missing User Data, and Layout Error | Medium | [#308](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/308) |
 | #295 Resume Builder Theme Does Not Persist | Medium | [#307](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/307) |
-| #296 User Progress Not Saved When Navigating Away | Medium | [#306](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/306) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
-| Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
-| 📁 Add Firebase or Local JSON Backend Support | Hard | [#18](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/18) |
 
 ---
 
@@ -203,15 +210,10 @@ Why Jeanne?
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix Login and Sign-Up Integration and Functionality | Easy | [#81](https://github.com/Promptzy/Nexara/issues/81) |
-| Add Issue and Ticket Management API (CRUD + Comments) | Easy | [#78](https://github.com/Promptzy/Nexara/pull/78) |
-| Feature/dockerize backend postgres | Easy | [#76](https://github.com/Promptzy/Nexara/pull/76) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
 | 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
-| Redesign Sign-Up Page UI | Medium | [#80](https://github.com/Promptzy/Nexara/issues/80) |
 | Redesign Login Page UI | Medium | [#79](https://github.com/Promptzy/Nexara/issues/79) |
-| Fix: Use only GITHUB_TOKEN for contribution tracking workflow | Medium | [#77](https://github.com/Promptzy/Nexara/pull/77) |
-| Implementation of Basic API's Endpoints | Medium | [#67](https://github.com/Promptzy/Nexara/issues/67) |
 
 ---
 
