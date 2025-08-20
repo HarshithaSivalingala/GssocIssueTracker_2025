@@ -16,9 +16,7 @@
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
 | Suggestion to add a CONTRIBUTING.md file | Medium | [#66](https://github.com/A-Akhil/Astra-Ai/issues/66) |
-| Add main.py with beginner-friendly AI commands for testing and demonstration | Medium | [#65](https://github.com/A-Akhil/Astra-Ai/pull/65) |
 | update readme for Astra-Ai | Medium | [#64](https://github.com/A-Akhil/Astra-Ai/issues/64) |
-| secrets.properties | Medium | [#63](https://github.com/A-Akhil/Astra-Ai/pull/63) |
 | Add Comprehensive KDoc Comments and Dokka Documentation Setup | Medium | [#62](https://github.com/A-Akhil/Astra-Ai/pull/62) |
 | Astra ai some important issues | Medium | [#61](https://github.com/A-Akhil/Astra-Ai/issues/61) |
 | Feature: Add Weekly Adherence Summary Email to Users | Medium | [#60](https://github.com/A-Akhil/Astra-Ai/issues/60) |
@@ -125,8 +123,6 @@ User Profile: BMI calculator and fitness analytics.
 |----------|----------------|---------|
 | [UPDATE] UPLOAD POPUP | Easy | [#35](https://github.com/sayan0328/WallGodds-App/issues/35) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
-| feat: Implement Set Wallpaper Popup | Medium | [#44](https://github.com/sayan0328/WallGodds-App/pull/44) |
-| Feature branch1 | Medium | [#43](https://github.com/sayan0328/WallGodds-App/pull/43) |
 
 ---
 
@@ -163,6 +159,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| for the improving the project | Medium | [#375](https://github.com/yuvrajsinghgmx/ShopSmart/issues/375) |
+| Fix Logout Permissions & Safe Profile Image Handling | Medium | [#373](https://github.com/yuvrajsinghgmx/ShopSmart/issues/373) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
 | Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
 | Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
@@ -184,7 +182,6 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| update readme | Medium | [#25](https://github.com/Ajay-patidar0/GitSearch/issues/25) |
 | AutoComplete | Medium | [#23](https://github.com/Ajay-patidar0/GitSearch/pull/23) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
 
