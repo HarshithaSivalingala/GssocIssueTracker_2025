@@ -46,6 +46,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| for the improving the project | Medium | [#375](https://github.com/yuvrajsinghgmx/ShopSmart/issues/375) |
+| Fix Logout Permissions & Safe Profile Image Handling | Medium | [#373](https://github.com/yuvrajsinghgmx/ShopSmart/issues/373) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
 | Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
 | Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
@@ -83,13 +85,13 @@
 
 ---
 
-## 📌 Project: Hospital Management System
+## 📌 Project: Eventra - Full Stack Event Management System
 
-📝 **Description:** Medimate 8.4.3 is a user-friendly healthcare application that streamlines the workflow of hospitals, clinics, and medical facilities. It efficiently manages patient information, appointments, laboratory management, and administrative tasks through its Electronic Health Record (EHR) system. The app also includes appointment scheduling, and invoicing, inventory management, and comprehensive reporting and analytics capabilities. It is web-based software, Medimate 8.4.3 can be accessed from any device with an internet connection.
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
 
-🔗 [View Project](https://github.com/aashut0xhkr/HMS_PRJCT.git)
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
 
-💻 **Tech Stack:** Core Java, Java 8, Spring Boot, Hibernate JPA, Spring Security, JWT, MySQL, RESTful Services, Git
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
 
 ---
 
@@ -97,8 +99,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor: Moved from entity-based to layer-based folder structure | Medium | [#49](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/49) |
-| Add:dummy dataset for local development | Medium | [#48](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/48) |
+| CORS Misconfiguration | Medium | [#81](https://github.com/SandeepVashishtha/Eventra/issues/81) |
 
 ---
 
