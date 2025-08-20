@@ -20,10 +20,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Dark/Light Mode Toggle | Medium | [#62](https://github.com/nishantharkut/W3nity/issues/62) |
-| feat - Add Forgot Password Page | Medium | [#61](https://github.com/nishantharkut/W3nity/pull/61) |
 | Addition of automate issue create message | Medium | [#60](https://github.com/nishantharkut/W3nity/issues/60) |
 | Enhance Loading State UI with Visual Loader | Medium | [#59](https://github.com/nishantharkut/W3nity/pull/59) |
-| Improve Development Workflow - Multiple Issues | Medium | [#58](https://github.com/nishantharkut/W3nity/issues/58) |
 | Refactor escrow Contract and frontend | Medium | [#56](https://github.com/nishantharkut/W3nity/pull/56) |
 | Release Fund Button Triggers Multiple Transactions | Medium | [#46](https://github.com/nishantharkut/W3nity/issues/46) |
 | No back button for Sign In page | Medium | [#44](https://github.com/nishantharkut/W3nity/issues/44) |
