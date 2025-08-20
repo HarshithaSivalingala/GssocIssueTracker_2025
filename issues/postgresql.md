@@ -85,14 +85,11 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Transport Page Added | Medium | [#623](https://github.com/HarshS16/Civix/pull/623) |
-| Implementing Traffic Fines & Vehicle Info card on Dashboard | Medium | [#619](https://github.com/HarshS16/Civix/issues/619) |
-| Implement Government Schemes & Notifications card on Dashboard | Medium | [#618](https://github.com/HarshS16/Civix/issues/618) |
-| Implementing Election & Governance Info Card on Dashboard | Medium | [#617](https://github.com/HarshS16/Civix/issues/617) |
-| Implementing Civic Statistics & Open Data on Dashboard | Medium | [#616](https://github.com/HarshS16/Civix/issues/616) |
+| Integration of Government Schemes Page within Dashboard Ecosystem | Medium | [#627](https://github.com/HarshS16/Civix/pull/627) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 | Difficulty in community prioritization | Medium | [#560](https://github.com/HarshS16/Civix/issues/560) |
 | Want to improve the features section | Medium | [#539](https://github.com/HarshS16/Civix/issues/539) |
+| Improve FAQ UI and Smoothness with Animated Expand/Collapse | Medium | [#374](https://github.com/HarshS16/Civix/pull/374) |
 
 ---
 
@@ -112,7 +109,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Number Counter Animation to Stats Section | Medium | [#325](https://github.com/Muneerali199/DocMagic/issues/325) |
+| improved :  updated readme with readme details  , Also do you want me… | Medium | [#326](https://github.com/Muneerali199/DocMagic/pull/326) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/DocMagic/pull/324) |
 | fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/DocMagic/pull/323) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 36 updates | Medium | [#322](https://github.com/Muneerali199/DocMagic/pull/322) |
@@ -125,8 +122,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 | chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
 | chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
-| Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
-| Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
 
 ---
 
@@ -145,6 +140,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed file-uploader.tsx | Medium | [#96](https://github.com/Er-luffy-D/SimplifAI/pull/96) |
 | Added profile delete feature | Medium | [#82](https://github.com/Er-luffy-D/SimplifAI/pull/82) |
 | Vmpranav/rag implementation | Medium | [#76](https://github.com/Er-luffy-D/SimplifAI/pull/76) |
 
@@ -324,15 +320,28 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix Login and Sign-Up Integration and Functionality | Easy | [#81](https://github.com/Promptzy/Nexara/issues/81) |
-| Add Issue and Ticket Management API (CRUD + Comments) | Easy | [#78](https://github.com/Promptzy/Nexara/pull/78) |
-| Feature/dockerize backend postgres | Easy | [#76](https://github.com/Promptzy/Nexara/pull/76) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 | Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
 | 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
-| Redesign Sign-Up Page UI | Medium | [#80](https://github.com/Promptzy/Nexara/issues/80) |
 | Redesign Login Page UI | Medium | [#79](https://github.com/Promptzy/Nexara/issues/79) |
-| Fix: Use only GITHUB_TOKEN for contribution tracking workflow | Medium | [#77](https://github.com/Promptzy/Nexara/pull/77) |
-| Implementation of Basic API's Endpoints | Medium | [#67](https://github.com/Promptzy/Nexara/issues/67) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| CORS Misconfiguration | Medium | [#81](https://github.com/SandeepVashishtha/Eventra/issues/81) |
 
 ---
 
@@ -376,9 +385,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue #86  fixed | Medium | [#92](https://github.com/vatsal-bhakodia/smriti-ai/pull/92) |
-| Add a blogs page to Smriti AI | Medium | [#84](https://github.com/vatsal-bhakodia/smriti-ai/pull/84) |
-| Feature Request: Adaptive Assessment to Pinpoint Learner Level | Hard | [#93](https://github.com/vatsal-bhakodia/smriti-ai/issues/93) |
+| AI Flashcards: Generate decks from YouTube, PDFs, and Notes + Review (SRS) + Export (TXT/CSV) + Notes input | Medium | [#99](https://github.com/vatsal-bhakodia/smriti-ai/pull/99) |
+| Issue #86 fixed | Medium | [#95](https://github.com/vatsal-bhakodia/smriti-ai/pull/95) |
 
 ---
 
