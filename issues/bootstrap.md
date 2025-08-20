@@ -18,18 +18,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix added for navbar link for web-dev page | Medium | [#274](https://github.com/gyanshankar1708/GrowCraft/pull/274) |
-| button color contrast fix in services section | Medium | [#273](https://github.com/gyanshankar1708/GrowCraft/pull/273) |
-| Footer Links Not redirecting to their respective URL's on Contact Us page | Medium | [#272](https://github.com/gyanshankar1708/GrowCraft/issues/272) |
-| Inconsistent Button Color Contrast in Components | Medium | [#271](https://github.com/gyanshankar1708/GrowCraft/issues/271) |
-| Fix/navbar logo visibility | Medium | [#267](https://github.com/gyanshankar1708/GrowCraft/pull/267) |
+| Fix Our Work link, unify navbar, and standardize footer across pages | Medium | [#293](https://github.com/gyanshankar1708/GrowCraft/pull/293) |
+| Navbar Styling & Alignment for Mobile View | Medium | [#289](https://github.com/gyanshankar1708/GrowCraft/pull/289) |
+| Fixed Footer in home page | Medium | [#288](https://github.com/gyanshankar1708/GrowCraft/pull/288) |
 | Fixed NavBar Issue | Medium | [#265](https://github.com/gyanshankar1708/GrowCraft/pull/265) |
 | navbar link not working and showing page not found 404 . | Medium | [#264](https://github.com/gyanshankar1708/GrowCraft/issues/264) |
-| Add Professional Footer with Dark Mode Support to Blog Pages | Medium | [#259](https://github.com/gyanshankar1708/GrowCraft/pull/259) |
 | Added gradient styling and animation to Submit button | Medium | [#258](https://github.com/gyanshankar1708/GrowCraft/pull/258) |
 | Enhance Contact Form: Phone Validation with Country Code & Future-Date Restriction #196 | Medium | [#257](https://github.com/gyanshankar1708/GrowCraft/pull/257) |
-| Fix: Update Navbar Styling & Alignment for Mobile View | Medium | [#251](https://github.com/gyanshankar1708/GrowCraft/pull/251) |
-| Redesign the services section  with flexing and responsive | Medium | [#249](https://github.com/gyanshankar1708/GrowCraft/issues/249) |
 | Navbar toggling fix | Medium | [#248](https://github.com/gyanshankar1708/GrowCraft/pull/248) |
 | Sticky navbar on other pages | Medium | [#245](https://github.com/gyanshankar1708/GrowCraft/issues/245) |
 | Update UI and add Dark Mode support across GrowCraft site | Medium | [#221](https://github.com/gyanshankar1708/GrowCraft/pull/221) |
@@ -51,10 +46,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Message Sending Flow Needs Validation & UX Fix #OSCI'25 | Medium | [#61](https://github.com/Pujan-sarkar/FARMLOC/issues/61) |
 | Improve "Our Services" section with Flip Card Animation | Medium | [#60](https://github.com/Pujan-sarkar/FARMLOC/issues/60) |
 | fix: dairy category filter respects dark mode and active category (fixes #57) | Medium | [#59](https://github.com/Pujan-sarkar/FARMLOC/pull/59) |
 | Make the scrollbar seemless and match the UI | Medium | [#58](https://github.com/Pujan-sarkar/FARMLOC/issues/58) |
-| add a Hamburger Icon for a responsive navbar | Medium | [#51](https://github.com/Pujan-sarkar/FARMLOC/issues/51) |
 | "Explore More" button on homepage is not functional or interactive | Medium | [#45](https://github.com/Pujan-sarkar/FARMLOC/issues/45) |
 
 ---
@@ -73,12 +68,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix the Alignment in Portfolio Section | Medium | [#203](https://github.com/sachiva1/sachiva/issues/203) |
-| Add a Dynamic Leaderboard for GSSoC contributors of the Sachiva project | Medium | [#202](https://github.com/sachiva1/sachiva/issues/202) |
-| Make drop down menu of related navlinks , so that overFlow becomes hidden | Medium | [#201](https://github.com/sachiva1/sachiva/issues/201) |
+| Fixed Cards Allignment | Medium | [#205](https://github.com/sachiva1/sachiva/pull/205) |
+| Add Dynamic Leaderboard to fetch real time data | Medium | [#204](https://github.com/sachiva1/sachiva/pull/204) |
 | Updated contact.html | Medium | [#200](https://github.com/sachiva1/sachiva/pull/200) |
 | Fixed missing link + fixed overflow issue | Medium | [#197](https://github.com/sachiva1/sachiva/pull/197) |
-| Contact form not sending data to email, returns hardcoded value instead | Medium | [#196](https://github.com/sachiva1/sachiva/issues/196) |
 
 ---
 
