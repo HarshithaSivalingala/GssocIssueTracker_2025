@@ -1,28 +1,5 @@
 # 🚀 Projects using Supabase
 
-## 📌 Project: Zip Tales
-
-📝 **Description:** AI-powered news verification platform that filters misinformation and provides community-verified credibility scores for authentic journalism.
-
-🔗 [View Project](https://github.com/HimanshuHeda/Zip_Tales)
-
-💻 **Tech Stack:** React 18.3.1, TypeScript 5.5.3, Tailwind CSS 3.4.1, Vite 5.4.2, React Router DOM 6.8.1, Supabase, Google Gemini AI, News API, SerpAPI, ESLint, PostCSS, Lucide React, Netlify
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Navbar with About, Contact, and Services pages | Medium | [#62](https://github.com/HimanshuHeda/Zip_Tales/pull/62) |
-| Add Back to Top button at bottom of README for easier navigation | Medium | [#61](https://github.com/HimanshuHeda/Zip_Tales/pull/61) |
-| Add blockchain integration for article authenticity verification(Fixes #47) | Medium | [#60](https://github.com/HimanshuHeda/Zip_Tales/pull/60) |
-| #48 issue Add animations to header icons | Medium | [#59](https://github.com/HimanshuHeda/Zip_Tales/pull/59) |
-| issue #49 improve notification ux | Medium | [#58](https://github.com/HimanshuHeda/Zip_Tales/pull/58) |
-| Add Standardised Templates for Pull Requests and Issues | Medium | [#57](https://github.com/HimanshuHeda/Zip_Tales/pull/57) |
-
----
-
 ## 📌 Project: HealthVault
 
 📝 **Description:** HealthVault is a secure and efficient medical record management platform designed to provide quick access to health data while maintaining encrypted privacy. By integrating an AI-powered chatbot, it enhances user experience by offering smart recommendations on home remedies and health-related queries. This platform is tailored for individuals, caregivers, and healthcare professionals who need seamless access to medical records, ensuring better self-care and informed decision-making.
@@ -78,7 +55,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Number Counter Animation to Stats Section | Medium | [#325](https://github.com/Muneerali199/DocMagic/issues/325) |
+| improved :  updated readme with readme details  , Also do you want me… | Medium | [#326](https://github.com/Muneerali199/DocMagic/pull/326) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/DocMagic/pull/324) |
 | fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/DocMagic/pull/323) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 36 updates | Medium | [#322](https://github.com/Muneerali199/DocMagic/pull/322) |
@@ -91,8 +68,6 @@
 | Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 | chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
 | chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
-| Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
-| Fix/dialog close icon | Medium | [#273](https://github.com/Muneerali199/DocMagic/pull/273) |
 
 ---
 
@@ -138,12 +113,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+|  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
+| UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Addition of automate issue create message | Medium | [#80](https://github.com/sristy17/next-payroll/issues/80) |
-| "Forgot password?" link showing on Signup page instead of Login page | Medium | [#79](https://github.com/sristy17/next-payroll/issues/79) |
-| Implement Dark/Light Mode Toggle | Medium | [#78](https://github.com/sristy17/next-payroll/issues/78) |
-| updated next version and used bcryptjs to ensure password hashing. Also made sure password work… | Medium | [#75](https://github.com/sristy17/next-payroll/pull/75) |
-| 🛠️ Forgot Password functionality not working | Medium | [#40](https://github.com/sristy17/next-payroll/issues/40) |
+| feat: weekly revamp | Medium | [#83](https://github.com/sristy17/next-payroll/pull/83) |
+| issue create automate message added | Medium | [#81](https://github.com/sristy17/next-payroll/pull/81) |
 
 ---
 
@@ -180,7 +154,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Scroll Position Issue on Page Navigation | Medium | [#34](https://github.com/Jyotibrat/AI-Flow/pull/34) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
@@ -200,14 +173,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump vite from 5.4.17 to 7.1.3 | Medium | [#81](https://github.com/Ojas-Arora/SapneSeSafar/pull/81) |
+| Bump @vitejs/plugin-react from 4.3.2 to 5.0.1 | Medium | [#80](https://github.com/Ojas-Arora/SapneSeSafar/pull/80) |
+| Bump @libsql/client from 0.5.6 to 0.15.12 | Medium | [#79](https://github.com/Ojas-Arora/SapneSeSafar/pull/79) |
+| Bump lucide-react from 0.344.0 to 0.540.0 | Medium | [#78](https://github.com/Ojas-Arora/SapneSeSafar/pull/78) |
 | Bump react-router-dom from 6.28.2 to 7.8.1 | Medium | [#77](https://github.com/Ojas-Arora/SapneSeSafar/pull/77) |
-| Bump @libsql/client from 0.5.6 to 0.15.11 | Medium | [#76](https://github.com/Ojas-Arora/SapneSeSafar/pull/76) |
 | Bump tailwindcss from 3.4.17 to 4.1.12 | Medium | [#75](https://github.com/Ojas-Arora/SapneSeSafar/pull/75) |
-| Bump vite from 5.4.17 to 7.1.2 | Medium | [#74](https://github.com/Ojas-Arora/SapneSeSafar/pull/74) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.55.0 | Medium | [#73](https://github.com/Ojas-Arora/SapneSeSafar/pull/73) |
-| Bump lucide-react from 0.344.0 to 0.539.0 | Medium | [#72](https://github.com/Ojas-Arora/SapneSeSafar/pull/72) |
 | Bump eslint from 9.12.0 to 9.33.0 | Medium | [#70](https://github.com/Ojas-Arora/SapneSeSafar/pull/70) |
-| Bump @vitejs/plugin-react from 4.3.2 to 5.0.0 | Medium | [#68](https://github.com/Ojas-Arora/SapneSeSafar/pull/68) |
 | Bump recharts from 2.15.0 to 3.1.2 | Medium | [#64](https://github.com/Ojas-Arora/SapneSeSafar/pull/64) |
 | Bump three from 0.161.0 to 0.179.1 | Medium | [#63](https://github.com/Ojas-Arora/SapneSeSafar/pull/63) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
@@ -248,6 +221,8 @@
 | 📦 Export Analytics Data as CSV | Easy | [#98](https://github.com/Rohit-Dnath/LOL-URL/issues/98) |
 | 🔑 Add GitHub Login (OAuth2) Support | Easy | [#87](https://github.com/Rohit-Dnath/LOL-URL/issues/87) |
 | 🔑 Add Google Login (OAuth2) Support | Easy | [#86](https://github.com/Rohit-Dnath/LOL-URL/issues/86) |
+| Add Social Login (Google, LinkedIn, GitHub) | Medium | [#118](https://github.com/Rohit-Dnath/LOL-URL/issues/118) |
+| Add "Back to Top" Button Feature | Medium | [#117](https://github.com/Rohit-Dnath/LOL-URL/issues/117) |
 | Improve Readability of Header Text on Main Page | Medium | [#116](https://github.com/Rohit-Dnath/LOL-URL/issues/116) |
 | Improve the footer | Medium | [#115](https://github.com/Rohit-Dnath/LOL-URL/issues/115) |
 | Add Supabase setup instructions | Medium | [#114](https://github.com/Rohit-Dnath/LOL-URL/issues/114) |
@@ -269,8 +244,6 @@
 | 📦 Serverless Function Marketplace Integration | Hard | [#84](https://github.com/Rohit-Dnath/LOL-URL/issues/84) |
 | 🛡️ Advanced DDoS Protection Layer | Hard | [#83](https://github.com/Rohit-Dnath/LOL-URL/issues/83) |
 | 🌐 Multi-Tenancy with Isolated Analytics | Hard | [#82](https://github.com/Rohit-Dnath/LOL-URL/issues/82) |
-| 🧠 AI-based Personalized Link Recommendations | Hard | [#81](https://github.com/Rohit-Dnath/LOL-URL/issues/81) |
-| 🔒 Hardware Security Module (HSM) Integration | Hard | [#80](https://github.com/Rohit-Dnath/LOL-URL/issues/80) |
 
 ---
 
