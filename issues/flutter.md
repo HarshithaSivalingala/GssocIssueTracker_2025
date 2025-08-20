@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing of gitignore file | Medium | [#58](https://github.com/kaushav07/VisionMate/issues/58) |
+| Clarify or remove playsound dependency | Medium | [#57](https://github.com/kaushav07/VisionMate/issues/57) |
+| Add basic OCR function using pytesseract | Medium | [#56](https://github.com/kaushav07/VisionMate/issues/56) |
 | Restructure folder hierarchy for FastAPI integration | Medium | [#55](https://github.com/kaushav07/VisionMate/pull/55) |
 | Restructure folder hierarchy for FastAPI integration | Medium | [#54](https://github.com/kaushav07/VisionMate/issues/54) |
 | Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
@@ -69,16 +72,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Opened dialog box for Report Issue | Medium | [#340](https://github.com/Prateek9876/NagarVikas/pull/340) |
-| Made Change Password functional | Medium | [#339](https://github.com/Prateek9876/NagarVikas/pull/339) |
-| Updated Terms & Conditions Acceptance Popup #262 Level 3 | Medium | [#337](https://github.com/Prateek9876/NagarVikas/pull/337) |
-| Fixed warning | Medium | [#336](https://github.com/Prateek9876/NagarVikas/pull/336) |
-| Fixed Last Profile Option Hidden Behind Bottom Navigation #318 Level 3 | Medium | [#330](https://github.com/Prateek9876/NagarVikas/pull/330) |
-| Added time in messages of Discussion Forum | Medium | [#327](https://github.com/Prateek9876/NagarVikas/pull/327) |
-| Enhancement | Medium | [#315](https://github.com/Prateek9876/NagarVikas/pull/315) |
-| Added Terms and Conditions checkbox | Medium | [#313](https://github.com/Prateek9876/NagarVikas/pull/313) |
-| Fixed Shimmers overflow | Medium | [#311](https://github.com/Prateek9876/NagarVikas/pull/311) |
-| Added Flutter_TTS in About Page | Medium | [#310](https://github.com/Prateek9876/NagarVikas/pull/310) |
+| Improved the UI of About NagarVikas Page with Current Theme #316 Level 3 | Medium | [#370](https://github.com/Prateek9876/NagarVikas/pull/370) |
+| The Bottom Nav shows above the drawer. | Medium | [#369](https://github.com/Prateek9876/NagarVikas/pull/369) |
+| Added Reply option in discussion.dart | Medium | [#368](https://github.com/Prateek9876/NagarVikas/pull/368) |
+| Fixed discussion forum button issue | Medium | [#367](https://github.com/Prateek9876/NagarVikas/pull/367) |
+| Speech to text functionality in Nagar Vikas Assistant. | Medium | [#365](https://github.com/Prateek9876/NagarVikas/issues/365) |
+| Speech to text functionality in Discussion Forum. | Medium | [#364](https://github.com/Prateek9876/NagarVikas/issues/364) |
 
 ---
 
@@ -100,18 +99,20 @@
 | Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
 | Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Flutter: Bug in Profile screen | Easy | [#180](https://github.com/Yash159357/BREVITY/issues/180) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
 | Testing: Internal App Functions | Easy | [#178](https://github.com/Yash159357/BREVITY/issues/178) |
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
 | Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
-| Style/email verification html | Medium | [#220](https://github.com/Yash159357/BREVITY/pull/220) |
-| style: update reset-successful.html | Medium | [#219](https://github.com/Yash159357/BREVITY/pull/219) |
-| Add User News Reactions Feature | Medium | [#218](https://github.com/Yash159357/BREVITY/pull/218) |
+| Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
+| Implement the bookmarks from backend to the frontend | Medium | [#225](https://github.com/Yash159357/BREVITY/issues/225) |
+| Security Enhancement: JWT Token Blacklisting and OAuth Account Deletion | Medium | [#224](https://github.com/Yash159357/BREVITY/pull/224) |
+| fix: added UI feedback to Logout Button (Fixes #194) | Medium | [#223](https://github.com/Yash159357/BREVITY/pull/223) |
+| Updated the README.md to include "Our Valuable Contributor" section | Medium | [#222](https://github.com/Yash159357/BREVITY/pull/222) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Flutter: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
+| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -184,18 +185,20 @@
 | Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
 | Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Flutter: Bug in Profile screen | Easy | [#180](https://github.com/Yash159357/BREVITY/issues/180) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
 | Testing: Internal App Functions | Easy | [#178](https://github.com/Yash159357/BREVITY/issues/178) |
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
 | Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
-| Style/email verification html | Medium | [#220](https://github.com/Yash159357/BREVITY/pull/220) |
-| style: update reset-successful.html | Medium | [#219](https://github.com/Yash159357/BREVITY/pull/219) |
-| Add User News Reactions Feature | Medium | [#218](https://github.com/Yash159357/BREVITY/pull/218) |
+| Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
+| Implement the bookmarks from backend to the frontend | Medium | [#225](https://github.com/Yash159357/BREVITY/issues/225) |
+| Security Enhancement: JWT Token Blacklisting and OAuth Account Deletion | Medium | [#224](https://github.com/Yash159357/BREVITY/pull/224) |
+| fix: added UI feedback to Logout Button (Fixes #194) | Medium | [#223](https://github.com/Yash159357/BREVITY/pull/223) |
+| Updated the README.md to include "Our Valuable Contributor" section | Medium | [#222](https://github.com/Yash159357/BREVITY/pull/222) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Flutter: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
+| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
