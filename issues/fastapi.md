@@ -14,9 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Side Navigation in Testimonials Section. | Medium | [#241](https://github.com/Amarjha01/InfantCareCompass/pull/241) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
-| Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 
@@ -65,17 +63,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update README file | Medium | [#55](https://github.com/manasvi-0/AlgoLab/issues/55) |
 | Added Model Comparison Dashboard page | Medium | [#54](https://github.com/manasvi-0/AlgoLab/pull/54) |
-| Adding Feature to Visualise Kernels and Intermediate steps of CNN | Medium | [#53](https://github.com/manasvi-0/AlgoLab/pull/53) |
-| Addition of Toy datasets , interactive UI and fixed bug | Medium | [#52](https://github.com/manasvi-0/AlgoLab/pull/52) |
-| Update supervised_module.py | Medium | [#50](https://github.com/manasvi-0/AlgoLab/pull/50) |
 | Feature Request: Visualising the effect of various kernels in a Convolutional Neural Network | Medium | [#49](https://github.com/manasvi-0/AlgoLab/issues/49) |
 | Documentation | Medium | [#48](https://github.com/manasvi-0/AlgoLab/issues/48) |
 | Feature Request: Interactive ANN Playground for Custom Training & Visualization | Medium | [#47](https://github.com/manasvi-0/AlgoLab/issues/47) |
 | Feature Request: Add a Section to Visualize and Train TimeSeries Forecasting Data | Medium | [#46](https://github.com/manasvi-0/AlgoLab/issues/46) |
 | Video file plus images used in knn_thoery file | Medium | [#42](https://github.com/manasvi-0/AlgoLab/pull/42) |
 | Feature Request: Add a Section to Visualize Data Preprocessing for ML Algorithms | Medium | [#41](https://github.com/manasvi-0/AlgoLab/issues/41) |
-| Adding KNN visualization files | Medium | [#39](https://github.com/manasvi-0/AlgoLab/pull/39) |
 | Supervised ml algorithms update | Medium | [#30](https://github.com/manasvi-0/AlgoLab/pull/30) |
 | Added KMeans and DBSCAN clustering with Streamlit UI and docs | Medium | [#29](https://github.com/manasvi-0/AlgoLab/pull/29) |
 | Linear and Logistic Regression | Medium | [#16](https://github.com/manasvi-0/AlgoLab/pull/16) |
@@ -99,18 +94,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Responsiveness issue: Horizontal scrolling issue in landing page | Medium | [#317](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/317) |
-| Missing confirm password field in registration forms | Medium | [#316](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/316) |
-| Missing footer in multiple pages | Medium | [#315](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/315) |
-| Non-intuitive UI design to redirect user to respective registration page | Medium | [#314](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/314) |
-| Issue #211 Resolved – User Profile System & UI Fixes | Medium | [#313](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/313) |
-| #294 Clicking on Logo Does Not Navigate to Home Page | Medium | [#312](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/312) |
-| Issue: Implement Dark/Light Mode Context Support for Resume ATS Checker Page | Medium | [#311](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/311) |
-| Backend API for Resume Builder — Store and Retrieve User Resume Data | Medium | [#310](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/310) |
-| Resume Builder Feature Incomplete, Needs Structured Fields, Preview, and Storage | Medium | [#309](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/309) |
-| Hardcoded Loader, Missing User Data, and Layout Error | Medium | [#308](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/308) |
-| #295 Resume Builder Theme Does Not Persist | Medium | [#307](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/307) |
+| Applicants Tracker Page is Empty | Medium | [#324](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/324) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
+| creating a aptitude preparation page | Medium | [#166](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/166) |
 
 ---
 
