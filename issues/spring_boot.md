@@ -46,11 +46,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Firestore Implementation | Medium | [#379](https://github.com/yuvrajsinghgmx/ShopSmart/issues/379) |
 | for the improving the project | Medium | [#375](https://github.com/yuvrajsinghgmx/ShopSmart/issues/375) |
-| Fix Logout Permissions & Safe Profile Image Handling | Medium | [#373](https://github.com/yuvrajsinghgmx/ShopSmart/issues/373) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
-| Added Dark Mode Toggle Feature | Medium | [#361](https://github.com/yuvrajsinghgmx/ShopSmart/pull/361) |
-| Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
@@ -69,6 +67,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance App Accessibility for Visually and Hearing-Impaired Users | Medium | [#16](https://github.com/AnshulPanwarr/g1new/issues/16) |
 | Navigation Crash: Destination "join_team" Not Found | Medium | [#13](https://github.com/AnshulPanwarr/g1new/issues/13) |
 | : Improve README with Firebase Setup | Medium | [#12](https://github.com/AnshulPanwarr/g1new/issues/12) |
 | ViewModel for ChatRoom | Medium | [#11](https://github.com/AnshulPanwarr/g1new/issues/11) |
