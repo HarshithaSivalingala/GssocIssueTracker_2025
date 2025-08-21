@@ -18,16 +18,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Our Work link, unify navbar, and standardize footer across pages | Medium | [#293](https://github.com/gyanshankar1708/GrowCraft/pull/293) |
-| Navbar Styling & Alignment for Mobile View | Medium | [#289](https://github.com/gyanshankar1708/GrowCraft/pull/289) |
+| Fixed redirection Of Links on Digital-Marketing page | Medium | [#304](https://github.com/gyanshankar1708/GrowCraft/pull/304) |
+| Enhance Contact Form: Phone Validation with Country Code & Future-Date Restriction (Replaces #257) | Medium | [#303](https://github.com/gyanshankar1708/GrowCraft/pull/303) |
+| Feature Social Media Page | Medium | [#302](https://github.com/gyanshankar1708/GrowCraft/pull/302) |
+| navbar link spacing and alignment in work.html | Medium | [#298](https://github.com/gyanshankar1708/GrowCraft/pull/298) |
+| fix: navbar link spacing and visibility in services.html | Medium | [#297](https://github.com/gyanshankar1708/GrowCraft/pull/297) |
+| Fix Our Work link, unify navbar, and standardize footer across pages | Medium | [#296](https://github.com/gyanshankar1708/GrowCraft/pull/296) |
 | Fixed Footer in home page | Medium | [#288](https://github.com/gyanshankar1708/GrowCraft/pull/288) |
 | Fixed NavBar Issue | Medium | [#265](https://github.com/gyanshankar1708/GrowCraft/pull/265) |
-| navbar link not working and showing page not found 404 . | Medium | [#264](https://github.com/gyanshankar1708/GrowCraft/issues/264) |
 | Added gradient styling and animation to Submit button | Medium | [#258](https://github.com/gyanshankar1708/GrowCraft/pull/258) |
-| Enhance Contact Form: Phone Validation with Country Code & Future-Date Restriction #196 | Medium | [#257](https://github.com/gyanshankar1708/GrowCraft/pull/257) |
-| Navbar toggling fix | Medium | [#248](https://github.com/gyanshankar1708/GrowCraft/pull/248) |
-| Sticky navbar on other pages | Medium | [#245](https://github.com/gyanshankar1708/GrowCraft/issues/245) |
-| Update UI and add Dark Mode support across GrowCraft site | Medium | [#221](https://github.com/gyanshankar1708/GrowCraft/pull/221) |
 
 ---
 
@@ -46,6 +45,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| <short summary>Add Rating Field in Contact Form | Medium | [#69](https://github.com/Pujan-sarkar/FARMLOC/issues/69) |
+| add a real-time map | Medium | [#68](https://github.com/Pujan-sarkar/FARMLOC/issues/68) |
+| implement backend for contact us form | Medium | [#67](https://github.com/Pujan-sarkar/FARMLOC/issues/67) |
+| add functionality to search bar | Medium | [#66](https://github.com/Pujan-sarkar/FARMLOC/issues/66) |
+| Add Modern Construction Page with Framer Motion & GSAP Animations | Medium | [#65](https://github.com/Pujan-sarkar/FARMLOC/issues/65) |
+| Content too close to screen edges on mobile — spacing issue [OSCI'25] | Medium | [#64](https://github.com/Pujan-sarkar/FARMLOC/issues/64) |
+| Dairy filter not working | Medium | [#63](https://github.com/Pujan-sarkar/FARMLOC/issues/63) |
+| Add hover animation effects to footer section headings | Medium | [#62](https://github.com/Pujan-sarkar/FARMLOC/issues/62) |
 | Message Sending Flow Needs Validation & UX Fix #OSCI'25 | Medium | [#61](https://github.com/Pujan-sarkar/FARMLOC/issues/61) |
 | Improve "Our Services" section with Flip Card Animation | Medium | [#60](https://github.com/Pujan-sarkar/FARMLOC/issues/60) |
 | fix: dairy category filter respects dark mode and active category (fixes #57) | Medium | [#59](https://github.com/Pujan-sarkar/FARMLOC/pull/59) |
@@ -68,7 +76,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed Cards Allignment | Medium | [#205](https://github.com/sachiva1/sachiva/pull/205) |
+| Enhance Form UX with Location Autocomplete and a Date Picker | Medium | [#207](https://github.com/sachiva1/sachiva/issues/207) |
+| "Book Service" Button is Non-functional and Form Fails to Submit | Medium | [#206](https://github.com/sachiva1/sachiva/issues/206) |
 | Add Dynamic Leaderboard to fetch real time data | Medium | [#204](https://github.com/sachiva1/sachiva/pull/204) |
 | Updated contact.html | Medium | [#200](https://github.com/sachiva1/sachiva/pull/200) |
 | Fixed missing link + fixed overflow issue | Medium | [#197](https://github.com/sachiva1/sachiva/pull/197) |
