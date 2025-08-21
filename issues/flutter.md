@@ -58,29 +58,6 @@
 
 ---
 
-## 📌 Project: Nagarvikas 
-
-📝 **Description:** An app that is built to file civic issues faced by citizens of india , they can easily track their complaint status in realtime , admins can check the complaints and after working on it they can update status accordingly , admin dashboard also has analytics option to keep data of all complaints for future use
-
-🔗 [View Project](https://github.com/Prateek9876/NagarVikas)
-
-💻 **Tech Stack:** Flutter, Dart, Firebase, OneSignal, Cloudinary
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improved the UI of About NagarVikas Page with Current Theme #316 Level 3 | Medium | [#370](https://github.com/Prateek9876/NagarVikas/pull/370) |
-| The Bottom Nav shows above the drawer. | Medium | [#369](https://github.com/Prateek9876/NagarVikas/pull/369) |
-| Added Reply option in discussion.dart | Medium | [#368](https://github.com/Prateek9876/NagarVikas/pull/368) |
-| Fixed discussion forum button issue | Medium | [#367](https://github.com/Prateek9876/NagarVikas/pull/367) |
-| Speech to text functionality in Nagar Vikas Assistant. | Medium | [#365](https://github.com/Prateek9876/NagarVikas/issues/365) |
-| Speech to text functionality in Discussion Forum. | Medium | [#364](https://github.com/Prateek9876/NagarVikas/issues/364) |
-
----
-
 ## 📌 Project: Brevity
 
 📝 **Description:** Brevity is an AI-powered news curation app that delivers seamless and concise news built with Flutter, Firebase, and upcoming with Chatbot and nodejs backend support. It aims to simplify how users consume news—through clean UI, fast performance, and future-ready AI features like summarization and myth-busting chatbot.
@@ -95,8 +72,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend: Support Account Deletion for OAuth Users | Easy | [#204](https://github.com/Yash159357/BREVITY/issues/204) |
-| Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
 | Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
@@ -104,16 +79,15 @@
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
 | Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
 | Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
-| Implement the bookmarks from backend to the frontend | Medium | [#225](https://github.com/Yash159357/BREVITY/issues/225) |
-| Security Enhancement: JWT Token Blacklisting and OAuth Account Deletion | Medium | [#224](https://github.com/Yash159357/BREVITY/pull/224) |
-| fix: added UI feedback to Logout Button (Fixes #194) | Medium | [#223](https://github.com/Yash159357/BREVITY/pull/223) |
-| Updated the README.md to include "Our Valuable Contributor" section | Medium | [#222](https://github.com/Yash159357/BREVITY/pull/222) |
+| Fetch the profile picture and name from local storage | Medium | [#228](https://github.com/Yash159357/BREVITY/issues/228) |
+| Refined UI of profile.dart, made Edit name working, save changes button is disabled until actual changes occur and the user can't enter blank name | Medium | [#227](https://github.com/Yash159357/BREVITY/pull/227) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
 | Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
+| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
@@ -131,8 +105,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 1)UX  2)Reactive Website | Medium | [#86](https://github.com/may-tas/TextEditingApp/issues/86) |
 | Feature Request: Text Alignment Options (Left, Center, Right, Justify) | Medium | [#84](https://github.com/may-tas/TextEditingApp/issues/84) |
-| Implement Dark Theme Support | Medium | [#83](https://github.com/may-tas/TextEditingApp/issues/83) |
 | New Feature : Highlight the texts | Medium | [#81](https://github.com/may-tas/TextEditingApp/issues/81) |
 | Bug : Redo button does not work | Medium | [#80](https://github.com/may-tas/TextEditingApp/issues/80) |
 | Improve Text Shadow and Glow | Medium | [#79](https://github.com/may-tas/TextEditingApp/pull/79) |
@@ -181,8 +155,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend: Support Account Deletion for OAuth Users | Easy | [#204](https://github.com/Yash159357/BREVITY/issues/204) |
-| Backend: Invalidate Session After Account Deletion | Easy | [#203](https://github.com/Yash159357/BREVITY/issues/203) |
 | Flutter: Gray Out Reminder Time When Inactive | Easy | [#201](https://github.com/Yash159357/BREVITY/issues/201) |
 | Document: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | GitHub: Create GitHub Issue Templates | Easy | [#179](https://github.com/Yash159357/BREVITY/issues/179) |
@@ -190,16 +162,15 @@
 | Testing: Authentication Page | Easy | [#176](https://github.com/Yash159357/BREVITY/issues/176) |
 | Github: Create Pull Request Template | Easy | [#171](https://github.com/Yash159357/BREVITY/issues/171) |
 | Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
-| Implement the bookmarks from backend to the frontend | Medium | [#225](https://github.com/Yash159357/BREVITY/issues/225) |
-| Security Enhancement: JWT Token Blacklisting and OAuth Account Deletion | Medium | [#224](https://github.com/Yash159357/BREVITY/pull/224) |
-| fix: added UI feedback to Logout Button (Fixes #194) | Medium | [#223](https://github.com/Yash159357/BREVITY/pull/223) |
-| Updated the README.md to include "Our Valuable Contributor" section | Medium | [#222](https://github.com/Yash159357/BREVITY/pull/222) |
+| Fetch the profile picture and name from local storage | Medium | [#228](https://github.com/Yash159357/BREVITY/issues/228) |
+| Refined UI of profile.dart, made Edit name working, save changes button is disabled until actual changes occur and the user can't enter blank name | Medium | [#227](https://github.com/Yash159357/BREVITY/pull/227) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Flutter: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
 | Flutter: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Web: Create Website Landing Page (HTML, CSS) | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
+| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
