@@ -46,7 +46,6 @@
 |----------|----------------|---------|
 | Improve the cards UI in the features section | Medium | [#51](https://github.com/Sahilll94/Travel-Book/issues/51) |
 | Report: Overlapping Buttons | Medium | [#49](https://github.com/Sahilll94/Travel-Book/issues/49) |
-| Fix/darkmode buttons | Medium | [#48](https://github.com/Sahilll94/Travel-Book/pull/48) |
 | Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
 
 ---
@@ -115,7 +114,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add styling to navbar elements & pricing cards | Medium | [#73](https://github.com/KrishChothani/CKsEdu/pull/73) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
