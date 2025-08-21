@@ -43,6 +43,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ⭐ Feature: Add “Saved Listings” Section | Medium | [#25](https://github.com/SyedImtiyaz-1/Swapify/issues/25) |
+| 🚩 Feature: Add “Report Listing” Option | Medium | [#24](https://github.com/SyedImtiyaz-1/Swapify/issues/24) |
+| 🔄 Feature: Add Sorting Options to Listings | Medium | [#23](https://github.com/SyedImtiyaz-1/Swapify/issues/23) |
+| Show a Fun Illustration When No Listings Found | Medium | [#22](https://github.com/SyedImtiyaz-1/Swapify/issues/22) |
+| 🆙 Feature: Add a “Back to Top” Button | Medium | [#21](https://github.com/SyedImtiyaz-1/Swapify/issues/21) |
 | Ensure login form is accessible via keyboard (focus, labels, error announcements) | Medium | [#20](https://github.com/SyedImtiyaz-1/Swapify/issues/20) |
 | Vehicle Filter Not Displaying Car - Maruti Celerio | Medium | [#18](https://github.com/SyedImtiyaz-1/Swapify/issues/18) |
 | Typo in Demo Link on README | Medium | [#17](https://github.com/SyedImtiyaz-1/Swapify/issues/17) |
@@ -69,6 +74,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| changed info on the waitlist page | Medium | [#66](https://github.com/LarytheLord/Adventurers-Guild/pull/66) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
