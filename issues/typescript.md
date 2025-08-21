@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a Chatbot | Medium | [#220](https://github.com/iaadillatif/techxninjas-client/issues/220) |
+| Footer copyright year is not dynamic | Medium | [#218](https://github.com/iaadillatif/techxninjas-client/issues/218) |
+| Added theme toggle | Medium | [#216](https://github.com/iaadillatif/techxninjas-client/pull/216) |
 | Add eye button to toggle password visibility in login and registratio… | Medium | [#214](https://github.com/iaadillatif/techxninjas-client/pull/214) |
 | Fix: Blue background extending incorrectly on Homepage (#204) | Medium | [#212](https://github.com/iaadillatif/techxninjas-client/pull/212) |
 | Revamp Footer Component with Modern Layout and Social Links | Medium | [#209](https://github.com/iaadillatif/techxninjas-client/pull/209) |
@@ -32,9 +35,6 @@
 | Add "Data Structures & Algorithms" Category | Medium | [#189](https://github.com/iaadillatif/techxninjas-client/issues/189) |
 | Change the color from index.css | Medium | [#188](https://github.com/iaadillatif/techxninjas-client/pull/188) |
 | Enhance Profile with AI feature | Medium | [#186](https://github.com/iaadillatif/techxninjas-client/issues/186) |
-| Improve responsiveness of project cards | Medium | [#185](https://github.com/iaadillatif/techxninjas-client/issues/185) |
-| Add skeleton loaders to project cards for better user experience | Medium | [#184](https://github.com/iaadillatif/techxninjas-client/issues/184) |
-| Fix navbar collapse issue on mobile view | Medium | [#183](https://github.com/iaadillatif/techxninjas-client/issues/183) |
 | added chatbot | Hard | [#205](https://github.com/iaadillatif/techxninjas-client/pull/205) |
 
 ---
@@ -63,6 +63,10 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Feature: Mentorship / Experts Connect | Easy | [#365](https://github.com/abhisek2004/Dev-Elevate/issues/365) |
 | Feature Sync Admin-Added Courses with User Course Display | Easy | [#350](https://github.com/abhisek2004/Dev-Elevate/issues/350) |
+| created proper UI for quiz | Medium | [#374](https://github.com/abhisek2004/Dev-Elevate/pull/374) |
+| Replace Mock Functionality | Medium | [#373](https://github.com/abhisek2004/Dev-Elevate/pull/373) |
+| Replace Mock Data with Real Backend Integration in Coding Platform | Medium | [#372](https://github.com/abhisek2004/Dev-Elevate/pull/372) |
+| PR: Professional Light Mode UI and Dark Mode Optimization for Settings Page | Medium | [#370](https://github.com/abhisek2004/Dev-Elevate/pull/370) |
 | docs: add comments to authentication middleware for clarity | Medium | [#369](https://github.com/abhisek2004/Dev-Elevate/pull/369) |
 
 ---
@@ -86,7 +90,6 @@ Accessibility features like dark mode,white.
 | Integrate slack bot with google OAuth | Medium | [#2089](https://github.com/OWASP/Nest/pull/2089) |
 | fixed footer not sticking always to bottom when height is higher | Medium | [#2083](https://github.com/OWASP/Nest/pull/2083) |
 | Snapshots Page UI/UX Improvements | Medium | [#2075](https://github.com/OWASP/Nest/pull/2075) |
-| WIP: Implementation of management command. | Medium | [#2073](https://github.com/OWASP/Nest/pull/2073) |
 | Setup encryption and decryption for google oauth tokens using AWS KMS | Medium | [#2067](https://github.com/OWASP/Nest/pull/2067) |
 | feat(ui): enhance search results page with better filtering & responsive design | Medium | [#2065](https://github.com/OWASP/Nest/issues/2065) |
 | Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
@@ -95,7 +98,9 @@ Accessibility features like dark mode,white.
 | Implement Initial Setup for Google OAuth | Medium | [#2021](https://github.com/OWASP/Nest/pull/2021) |
 | Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
 | Added participants who have expressed interest in a specific issue in issue model . | Medium | [#1995](https://github.com/OWASP/Nest/pull/1995) |
+| Improve snapshot generation | Medium | [#1988](https://github.com/OWASP/Nest/issues/1988) |
 | refactor:remove PLR0912 ignore and fix 4 violations update | Medium | [#1979](https://github.com/OWASP/Nest/pull/1979) |
+| Extend project health dashboard sorting capabilities | Hard | [#2002](https://github.com/OWASP/Nest/issues/2002) |
 
 ---
 
@@ -208,10 +213,27 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Docs(README): Add YouTube video guide link for bot setup | Medium | [#67](https://github.com/harshendram/Advanced-Discord-Bot/pull/67) |
 | <Navbar> | Medium | [#63](https://github.com/harshendram/Advanced-Discord-Bot/issues/63) |
 | Improving Bot Performance and Reducing Latency | Medium | [#11](https://github.com/harshendram/Advanced-Discord-Bot/issues/11) |
 | Overhauling AI section | Hard | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
+
+---
+
+## 📌 Project: Zip Tales
+
+📝 **Description:** AI-powered news verification platform that filters misinformation and provides community-verified credibility scores for authentic journalism.
+
+🔗 [View Project](https://github.com/HimanshuHeda/Zip_Tales)
+
+💻 **Tech Stack:** React 18.3.1, TypeScript 5.5.3, Tailwind CSS 3.4.1, Vite 5.4.2, React Router DOM 6.8.1, Supabase, Google Gemini AI, News API, SerpAPI, ESLint, PostCSS, Lucide React, Netlify
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| fix: implement missing blockchain verification methods to resolve run… | Medium | [#65](https://github.com/HimanshuHeda/Zip_Tales/pull/65) |
 
 ---
 
@@ -370,6 +392,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added About Page | Medium | [#63](https://github.com/rahulkhandait-sde/cineverse/pull/63) |
+| Added ShareButton fuctionality | Medium | [#62](https://github.com/rahulkhandait-sde/cineverse/pull/62) |
 | Added User Authentication System | Medium | [#55](https://github.com/rahulkhandait-sde/cineverse/pull/55) |
 
 ---
@@ -388,13 +412,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| View Details button not working | Medium | [#127](https://github.com/Richajaishwal0/Trip_assistant/issues/127) |
+| feat: complete UI overhaul - fix navigation visibility, add theme sup… | Medium | [#125](https://github.com/Richajaishwal0/Trip_assistant/pull/125) |
+| add pull request template for contributions ✅ | Medium | [#124](https://github.com/Richajaishwal0/Trip_assistant/pull/124) |
 | Addition of automate issue create message | Medium | [#123](https://github.com/Richajaishwal0/Trip_assistant/issues/123) |
 | Add User Profile Management Routes (Update, Get, Delete) | Medium | [#122](https://github.com/Richajaishwal0/Trip_assistant/issues/122) |
 | feat: Add Ctrl+Enter/Cmd+Enter keyboard shortcut to chatbot | Medium | [#121](https://github.com/Richajaishwal0/Trip_assistant/pull/121) |
 | Fixed chatbot nlp integrated with gemini flash 1.5 | Medium | [#120](https://github.com/Richajaishwal0/Trip_assistant/pull/120) |
 | added gemeini powered trip buget estimator with server and client work | Medium | [#119](https://github.com/Richajaishwal0/Trip_assistant/pull/119) |
-| Footer UI/UX redesign: modern, accessible, responsive, and maintainable | Medium | [#118](https://github.com/Richajaishwal0/Trip_assistant/issues/118) |
-| Fix: Auth.tsx uses wrong API endpoints (/entry-point → /api/users) | Medium | [#117](https://github.com/Richajaishwal0/Trip_assistant/pull/117) |
 | Improve the footer | Medium | [#105](https://github.com/Richajaishwal0/Trip_assistant/pull/105) |
 | Add Dark Mode Toggle | Medium | [#100](https://github.com/Richajaishwal0/Trip_assistant/issues/100) |
 | Currently, the homepage only shows the hero banner ("PLAN YOUR TRIP WITH US") and destination cards. There are no login or signup buttons, which makes it difficult for users to access the authentication system. | Medium | [#98](https://github.com/Richajaishwal0/Trip_assistant/issues/98) |
@@ -497,8 +522,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Structured Data (JSON-LD) for SEO | Medium | [#219](https://github.com/souvikpramanikgit/LearnHub/issues/219) |
-| Update README.md | Medium | [#218](https://github.com/souvikpramanikgit/LearnHub/pull/218) |
+| Add Sign-In with Google and GitHub using Firebase Authentication | Medium | [#220](https://github.com/souvikpramanikgit/LearnHub/issues/220) |
 | Implement an FAQ Bot to Answer Common User Questions | Medium | [#213](https://github.com/souvikpramanikgit/LearnHub/issues/213) |
 | Add Interactive Quiz Section After Course Completion | Medium | [#203](https://github.com/souvikpramanikgit/LearnHub/issues/203) |
 | Add search button to navbar | Medium | [#199](https://github.com/souvikpramanikgit/LearnHub/pull/199) |
@@ -527,8 +551,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| feat: weekly revamp | Medium | [#83](https://github.com/sristy17/next-payroll/pull/83) |
-| issue create automate message added | Medium | [#81](https://github.com/sristy17/next-payroll/pull/81) |
 
 ---
 
@@ -546,7 +568,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve footer layout and responsiveness | Medium | [#183](https://github.com/SurajSG23/PrepBuddy/pull/183) |
+| Meta Tags and SEO Optimization | Medium | [#185](https://github.com/SurajSG23/PrepBuddy/pull/185) |
+| Refactor the code, Fixed the JWT auth issue | Medium | [#184](https://github.com/SurajSG23/PrepBuddy/pull/184) |
 | There are 5 questions but it shows 10 question buttons | Medium | [#180](https://github.com/SurajSG23/PrepBuddy/issues/180) |
 
 ---
@@ -566,6 +589,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 404 Page Not Visible in Light Theme | Easy | [#85](https://github.com/yashvikram30/legalease/issues/85) |
+| Resources, and Company Links Unresponsive/Incorrectly Redirecte | Medium | [#108](https://github.com/yashvikram30/legalease/issues/108) |
 | Fix Response Handling & Add Input Validation | Medium | [#107](https://github.com/yashvikram30/legalease/issues/107) |
 | Fixing the document-simplifier not working in deployment | Medium | [#106](https://github.com/yashvikram30/legalease/pull/106) |
 | feat: add route-keyed page transitions with Framer Motion | Medium | [#100](https://github.com/yashvikram30/legalease/pull/100) |
@@ -601,6 +625,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| changed info on the waitlist page | Medium | [#66](https://github.com/LarytheLord/Adventurers-Guild/pull/66) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
@@ -834,6 +859,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Resizing output box | Medium | [#35](https://github.com/Jyotibrat/AI-Flow/pull/35) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
@@ -892,7 +918,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add styling to navbar elements & pricing cards | Medium | [#73](https://github.com/KrishChothani/CKsEdu/pull/73) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
@@ -953,6 +978,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| # 🚀 Fix Navbar and Hero Component Issues | Medium | [#35](https://github.com/muskan-fatim/Tech_event/pull/35) |
 | Add Light/Dark Mode Toggle | Medium | [#34](https://github.com/muskan-fatim/Tech_event/issues/34) |
 
 ---
@@ -1015,6 +1041,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
 | Bump vite from 5.4.17 to 7.1.3 | Medium | [#81](https://github.com/Ojas-Arora/SapneSeSafar/pull/81) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.1 | Medium | [#80](https://github.com/Ojas-Arora/SapneSeSafar/pull/80) |
 | Bump @libsql/client from 0.5.6 to 0.15.12 | Medium | [#79](https://github.com/Ojas-Arora/SapneSeSafar/pull/79) |
@@ -1029,7 +1056,6 @@ Fast Workflow Tools
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
 | Feat: Connecting All Sharks CSV file with all Features | Medium | [#59](https://github.com/Ojas-Arora/SapneSeSafar/issues/59) |
-| Bump zustand from 4.5.6 to 5.0.7 | Medium | [#54](https://github.com/Ojas-Arora/SapneSeSafar/pull/54) |
 | Bump typescript from 5.6.3 to 5.9.2 | Medium | [#53](https://github.com/Ojas-Arora/SapneSeSafar/pull/53) |
 | Bump framer-motion from 11.18.2 to 12.23.12 | Medium | [#51](https://github.com/Ojas-Arora/SapneSeSafar/pull/51) |
 | Bump react-dom and @types/react-dom | Medium | [#47](https://github.com/Ojas-Arora/SapneSeSafar/pull/47) |
@@ -1139,6 +1165,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added GSSoC logo image and updated README | Medium | [#121](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/121) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
 | feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
 | Changed dark cards in about section to white tone #109 | Medium | [#118](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/118) |
@@ -1215,7 +1242,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add footer animated block | Medium | [#74](https://github.com/subhadeeproy3902/mvpblocks/pull/74) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
