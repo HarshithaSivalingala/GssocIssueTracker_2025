@@ -34,11 +34,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| light/dark mode | Medium | [#140](https://github.com/SrigadaAkshayKumar/stock/pull/140) |
+| Redesign The Contact Section | Medium | [#142](https://github.com/SrigadaAkshayKumar/stock/issues/142) |
+| Enhance stock list page | Medium | [#141](https://github.com/SrigadaAkshayKumar/stock/pull/141) |
 | UI enhancement and adding more information in About Page | Medium | [#137](https://github.com/SrigadaAkshayKumar/stock/issues/137) |
 | feat: added google oauth signup/login functionality | Medium | [#136](https://github.com/SrigadaAkshayKumar/stock/pull/136) |
 | Adding an animated pre-loader to all Pages | Medium | [#135](https://github.com/SrigadaAkshayKumar/stock/issues/135) |
-| Footer is missing on the website | Medium | [#134](https://github.com/SrigadaAkshayKumar/stock/issues/134) |
 | Navbar design improvements needed (Login/Signup buttons + better logo) | Medium | [#133](https://github.com/SrigadaAkshayKumar/stock/issues/133) |
 | Redesign of the pages | Medium | [#131](https://github.com/SrigadaAkshayKumar/stock/issues/131) |
 | Watchlist should work only when user is logged in | Medium | [#130](https://github.com/SrigadaAkshayKumar/stock/issues/130) |
@@ -47,10 +47,8 @@
 | <Enhancement of contact page | Medium | [#123](https://github.com/SrigadaAkshayKumar/stock/issues/123) |
 | changes made for deployment for login issue | Medium | [#116](https://github.com/SrigadaAkshayKumar/stock/pull/116) |
 | <Enhancement  of stock list section> | Medium | [#115](https://github.com/SrigadaAkshayKumar/stock/issues/115) |
-| Enhance Home Page to Make It More Attractive | Medium | [#111](https://github.com/SrigadaAkshayKumar/stock/issues/111) |
 | Improve button styling on stock dashboard | Medium | [#110](https://github.com/SrigadaAkshayKumar/stock/issues/110) |
 | <Complete Redesigning of the Home page, adding footer, enhancing header> | Medium | [#108](https://github.com/SrigadaAkshayKumar/stock/issues/108) |
-| Footer section should be present in the website. | Medium | [#105](https://github.com/SrigadaAkshayKumar/stock/issues/105) |
 | forgot password with credentials | Medium | [#100](https://github.com/SrigadaAkshayKumar/stock/issues/100) |
 | <Login and contat page ui enhance> | Medium | [#97](https://github.com/SrigadaAkshayKumar/stock/issues/97) |
 | <Enhancement title here>Embed mini line charts (sparklines) inside index cards | Medium | [#85](https://github.com/SrigadaAkshayKumar/stock/issues/85) |
@@ -59,6 +57,8 @@
 | Add PropTypes validation and clean up development code | Medium | [#75](https://github.com/SrigadaAkshayKumar/stock/issues/75) |
 | fix: Move hardcoded API key to environment variable for security | Medium | [#74](https://github.com/SrigadaAkshayKumar/stock/pull/74) |
 | feat: Replace browser alerts with professional toast notifications | Medium | [#72](https://github.com/SrigadaAkshayKumar/stock/pull/72) |
+| Replace browser alerts with professional toast notifications for better UX | Medium | [#71](https://github.com/SrigadaAkshayKumar/stock/issues/71) |
+| Enhance Chart Interactivity and Mobile Responsiveness | Medium | [#65](https://github.com/SrigadaAkshayKumar/stock/issues/65) |
 
 ---
 
@@ -76,9 +76,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Side Navigation in Testimonials Section. | Medium | [#241](https://github.com/Amarjha01/InfantCareCompass/pull/241) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
-| Feature/edit contact us | Medium | [#223](https://github.com/Amarjha01/InfantCareCompass/pull/223) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 | Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 
@@ -109,7 +107,6 @@
 | I will update the readme file and add the license in it | Medium | [#31](https://github.com/Ananya-te/MusicTrackerAPI/issues/31) |
 | Major Feature Update: Spotify OAuth, User System, Favorites, Mood Playlists, and Enhanced Search | Medium | [#30](https://github.com/Ananya-te/MusicTrackerAPI/pull/30) |
 | Link was wrong corrected it | Medium | [#28](https://github.com/Ananya-te/MusicTrackerAPI/issues/28) |
-| Enhanced README File for Better Clarity and Presentation #12 | Medium | [#27](https://github.com/Ananya-te/MusicTrackerAPI/pull/27) |
 | Add Music Analytics Dashboard using Streamlit | Medium | [#26](https://github.com/Ananya-te/MusicTrackerAPI/issues/26) |
 | Reorganized folder structure as per GSSoC task | Medium | [#24](https://github.com/Ananya-te/MusicTrackerAPI/pull/24) |
 | webpage making @Nischala Medavarapu | Medium | [#23](https://github.com/Ananya-te/MusicTrackerAPI/issues/23) |
@@ -137,6 +134,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Interactive Crop Profit Prediction Dashboard | Medium | [#72](https://github.com/Ansikka/KrishiMitra.py/pull/72) |
+| Add Support for More Indian Regional Languages | Medium | [#71](https://github.com/Ansikka/KrishiMitra.py/issues/71) |
 | Build full-stack application & add professional README | Medium | [#70](https://github.com/Ansikka/KrishiMitra.py/pull/70) |
 | UI/UX and Data Clean | Medium | [#69](https://github.com/Ansikka/KrishiMitra.py/issues/69) |
 | 🌾 Feature Request: Seasonal Crop Profitability Forecast | Medium | [#68](https://github.com/Ansikka/KrishiMitra.py/issues/68) |
@@ -163,7 +162,6 @@
 | There is no license file in the code | Medium | [#39](https://github.com/Ansikka/KrishiMitra.py/issues/39) |
 | Feature Proposal: Smart Crop Recommendation System | Medium | [#38](https://github.com/Ansikka/KrishiMitra.py/issues/38) |
 | Voice-Enabled Conversational Agent with Local Dialect Understanding | Medium | [#37](https://github.com/Ansikka/KrishiMitra.py/issues/37) |
-| Improving the loan/Subsidy Checker and Government Schemes section | Medium | [#35](https://github.com/Ansikka/KrishiMitra.py/issues/35) |
 
 ---
 
@@ -197,13 +195,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
-| docs: improve onboarding by adding contributing guide, templates, and code of conduct | Medium | [#38](https://github.com/Menthub-GSSoC/Menthub/pull/38) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 | Prevent Duplicate Mentorship Requests (mentee_id + mentor_id) | Medium | [#23](https://github.com/Menthub-GSSoC/Menthub/issues/23) |
 | Contributor for Contribution | Medium | [#22](https://github.com/Menthub-GSSoC/Menthub/issues/22) |
 | Improve README.md file | Medium | [#17](https://github.com/Menthub-GSSoC/Menthub/issues/17) |
 | Togglebutton | Medium | [#15](https://github.com/Menthub-GSSoC/Menthub/pull/15) |
+| landing page + signup/login page button | Medium | [#13](https://github.com/Menthub-GSSoC/Menthub/pull/13) |
 
 ---
 
@@ -226,7 +224,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Integrate slack bot with google OAuth | Medium | [#2089](https://github.com/OWASP/Nest/pull/2089) |
 | fixed footer not sticking always to bottom when height is higher | Medium | [#2083](https://github.com/OWASP/Nest/pull/2083) |
 | Snapshots Page UI/UX Improvements | Medium | [#2075](https://github.com/OWASP/Nest/pull/2075) |
-| WIP: Implementation of management command. | Medium | [#2073](https://github.com/OWASP/Nest/pull/2073) |
 | Setup encryption and decryption for google oauth tokens using AWS KMS | Medium | [#2067](https://github.com/OWASP/Nest/pull/2067) |
 | feat(ui): enhance search results page with better filtering & responsive design | Medium | [#2065](https://github.com/OWASP/Nest/issues/2065) |
 | Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
@@ -235,7 +232,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Implement Initial Setup for Google OAuth | Medium | [#2021](https://github.com/OWASP/Nest/pull/2021) |
 | Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
 | Added participants who have expressed interest in a specific issue in issue model . | Medium | [#1995](https://github.com/OWASP/Nest/pull/1995) |
+| Improve snapshot generation | Medium | [#1988](https://github.com/OWASP/Nest/issues/1988) |
 | refactor:remove PLR0912 ignore and fix 4 violations update | Medium | [#1979](https://github.com/OWASP/Nest/pull/1979) |
+| Extend project health dashboard sorting capabilities | Hard | [#2002](https://github.com/OWASP/Nest/issues/2002) |
 
 ---
 
@@ -484,6 +483,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update jobseeker.html #186 | Medium | [#187](https://github.com/Khushi-Nigam/jobportal/pull/187) |
 | Addition of pr create automate message | Medium | [#171](https://github.com/Khushi-Nigam/jobportal/issues/171) |
 | register button no working | Medium | [#111](https://github.com/Khushi-Nigam/jobportal/issues/111) |
 
@@ -503,17 +503,14 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update README file | Medium | [#55](https://github.com/manasvi-0/AlgoLab/issues/55) |
 | Added Model Comparison Dashboard page | Medium | [#54](https://github.com/manasvi-0/AlgoLab/pull/54) |
-| Adding Feature to Visualise Kernels and Intermediate steps of CNN | Medium | [#53](https://github.com/manasvi-0/AlgoLab/pull/53) |
-| Addition of Toy datasets , interactive UI and fixed bug | Medium | [#52](https://github.com/manasvi-0/AlgoLab/pull/52) |
-| Update supervised_module.py | Medium | [#50](https://github.com/manasvi-0/AlgoLab/pull/50) |
 | Feature Request: Visualising the effect of various kernels in a Convolutional Neural Network | Medium | [#49](https://github.com/manasvi-0/AlgoLab/issues/49) |
 | Documentation | Medium | [#48](https://github.com/manasvi-0/AlgoLab/issues/48) |
 | Feature Request: Interactive ANN Playground for Custom Training & Visualization | Medium | [#47](https://github.com/manasvi-0/AlgoLab/issues/47) |
 | Feature Request: Add a Section to Visualize and Train TimeSeries Forecasting Data | Medium | [#46](https://github.com/manasvi-0/AlgoLab/issues/46) |
 | Video file plus images used in knn_thoery file | Medium | [#42](https://github.com/manasvi-0/AlgoLab/pull/42) |
 | Feature Request: Add a Section to Visualize Data Preprocessing for ML Algorithms | Medium | [#41](https://github.com/manasvi-0/AlgoLab/issues/41) |
-| Adding KNN visualization files | Medium | [#39](https://github.com/manasvi-0/AlgoLab/pull/39) |
 | Supervised ml algorithms update | Medium | [#30](https://github.com/manasvi-0/AlgoLab/pull/30) |
 | Added KMeans and DBSCAN clustering with Streamlit UI and docs | Medium | [#29](https://github.com/manasvi-0/AlgoLab/pull/29) |
 | Linear and Logistic Regression | Medium | [#16](https://github.com/manasvi-0/AlgoLab/pull/16) |
@@ -537,18 +534,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Responsiveness issue: Horizontal scrolling issue in landing page | Medium | [#317](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/317) |
-| Missing confirm password field in registration forms | Medium | [#316](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/316) |
-| Missing footer in multiple pages | Medium | [#315](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/315) |
-| Non-intuitive UI design to redirect user to respective registration page | Medium | [#314](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/314) |
-| Issue #211 Resolved – User Profile System & UI Fixes | Medium | [#313](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/313) |
-| #294 Clicking on Logo Does Not Navigate to Home Page | Medium | [#312](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/312) |
-| Issue: Implement Dark/Light Mode Context Support for Resume ATS Checker Page | Medium | [#311](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/311) |
-| Backend API for Resume Builder — Store and Retrieve User Resume Data | Medium | [#310](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/310) |
-| Resume Builder Feature Incomplete, Needs Structured Fields, Preview, and Storage | Medium | [#309](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/309) |
-| Hardcoded Loader, Missing User Data, and Layout Error | Medium | [#308](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/308) |
-| #295 Resume Builder Theme Does Not Persist | Medium | [#307](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/307) |
+| Applicants Tracker Page is Empty | Medium | [#324](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/324) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
+| creating a aptitude preparation page | Medium | [#166](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/166) |
 
 ---
 
@@ -566,18 +554,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added consistent navigation bar across all pages for improved UX | Medium | [#184](https://github.com/omroy07/AgriTech/pull/184) |
 | Fix the Responsiveness of the website | Medium | [#183](https://github.com/omroy07/AgriTech/issues/183) |
-| Fix Normal Sign-In flow (allow login only after signup) | Medium | [#182](https://github.com/omroy07/AgriTech/issues/182) |
-| Google Sign-In Button Content Not Visible in Dark Mode | Medium | [#181](https://github.com/omroy07/AgriTech/issues/181) |
-| Fix/agritech footer issue 172 | Medium | [#176](https://github.com/omroy07/AgriTech/pull/176) |
-| Fix #174: Improve Feedback page footer for consistency and accessibility | Medium | [#175](https://github.com/omroy07/AgriTech/pull/175) |
-| Footer Needs Improvement on “Feedback” Page | Medium | [#174](https://github.com/omroy07/AgriTech/issues/174) |
-| lImproper Spacing in “Smart Loan Eligibility Guide” Section | Medium | [#173](https://github.com/omroy07/AgriTech/issues/173) |
-| Footer Needs Update on “Welcome to Agritech” Page | Medium | [#172](https://github.com/omroy07/AgriTech/issues/172) |
-| Farmer Forum Post button is not working | Medium | [#171](https://github.com/omroy07/AgriTech/issues/171) |
 | Add Firebase Config to CONTRIBUTING.md | Medium | [#170](https://github.com/omroy07/AgriTech/issues/170) |
-| Fix critical Firebase security vulnerability - Closes #142 | Medium | [#168](https://github.com/omroy07/AgriTech/pull/168) |
 | foter added and password placeholder fixed and enahacement | Medium | [#166](https://github.com/omroy07/AgriTech/pull/166) |
 | Resolve Architectural Inconsistencies and Enforce #40 | Medium | [#163](https://github.com/omroy07/AgriTech/pull/163) |
 | password placeholder | Medium | [#162](https://github.com/omroy07/AgriTech/issues/162) |
@@ -589,6 +567,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Bug : model.py & utils.py – Unhandled Exceptions on Model Load/Prediction | Medium | [#144](https://github.com/omroy07/AgriTech/issues/144) |
 | Bug : shopkeeper.js & shopkeeper.html – No API Error Handling | Medium | [#143](https://github.com/omroy07/AgriTech/issues/143) |
 | bug : cropCalendar.html & croCalendar.js – Unvalidated Date Parsing | Medium | [#141](https://github.com/omroy07/AgriTech/issues/141) |
+| lock icon overlaps placeholder text in login page | Medium | [#138](https://github.com/omroy07/AgriTech/pull/138) |
+| UI Enhancement: Footer Layout & Alignment Improvements | Medium | [#121](https://github.com/omroy07/AgriTech/issues/121) |
+| The Login Page is currently not responsive across all viewports. On smaller screens (e.g., mobile devices), layout elements appear misaligned, and some components may overflow or become difficult to interact with. | Medium | [#119](https://github.com/omroy07/AgriTech/issues/119) |
 
 ---
 
@@ -719,16 +700,21 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ML Model - Add K-Means Clustering from Scratch | Medium | [#582](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/582) |
+| New Model – Sleep Apnea Detection using Breathing Sounds | Medium | [#581](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/581) |
+| Add Wellness Resource Hub | Medium | [#565](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/565) |
+| SSoC25 : Student Habits & Exam Performance (Data Exploration, Data Cleaning, EDA) (issue #560) | Medium | [#564](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/564) |
+| Added a notebook on speech emotion recognition on audio dataset | Medium | [#562](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/562) |
+| Enhancement: Implement Yield Prediction using ANN (Deep Learning) with Kaggle Dataset | Medium | [#561](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/561) |
+| SSoC25 : Student Habits & Exam Performance (Data Exploration, Data Cleaning, EDA) | Medium | [#560](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/560) |
+| Added a guide to tune neural network's hyperparameters using keras tuner | Medium | [#557](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/557) |
+| Add templates for PRs and ISSUES | Medium | [#553](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/553) |
 | LSTM Next word predictor using PyTorch | Medium | [#551](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/551) |
 | Feature Request: Add Healthcare Chatbot (Gemini-powered) | Medium | [#550](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/550) |
 | Add Fake News Detection Model | Medium | [#549](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/549) |
-| Pull Request – Rock Paper Scissors Python Game | Medium | [#548](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/548) |
-| Pull Request – Object Detection | Medium | [#547](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/547) |
-| Pull Request – NLTK: A Guide to Natural Language Processing | Medium | [#546](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/546) |
-| Pull Request of Naive Baye's Classification | Medium | [#545](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/545) |
-| Mushroom Classifier (KNN, RandomForest, LogisticRegression) | Medium | [#544](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/544) |
+| SSoC25 : Mushroom Classifier (KNN, RandomForest, LogisticRegression) | Medium | [#544](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/544) |
 | SSoC25 : Mushroom Classifier (KNN, RandomForest, LogisticRegression) | Medium | [#543](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/543) |
-| Sms Spam Classifier using Naive BAyes (issue#541) | Medium | [#542](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/542) |
+| SSoC25 : SMS Spam Classifier using Naive Bayes (issue#541) | Medium | [#542](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/542) |
 | SSoC25 : SMS Spam Classifier using Naive Bayes | Medium | [#541](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/541) |
 | Added beginner-friendly EDA on Titanic dataset | Medium | [#540](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/540) |
 | Addition of automate issue create message | Medium | [#539](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/539) |
@@ -834,7 +820,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Data Validation Module For Analyzing the Failure Data patterns | Medium | [#46](https://github.com/etsi-ai/etsi-failprint/issues/46) |
+| Add Project Structure section to README | Medium | [#47](https://github.com/etsi-ai/etsi-failprint/pull/47) |
 | improve Readme | Medium | [#43](https://github.com/etsi-ai/etsi-failprint/issues/43) |
 | No Context in Logs | Medium | [#40](https://github.com/etsi-ai/etsi-failprint/issues/40) |
 | Feat/nlp model failure analysis support | Medium | [#37](https://github.com/etsi-ai/etsi-failprint/pull/37) |
@@ -864,7 +850,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Wellness Resource Hub | Medium | [#135](https://github.com/eccentriccoder01/TalkHeal/issues/135) |
 | Implement Long-Term, Contextual Memory with Persona-Aware Retrieval | Medium | [#134](https://github.com/eccentriccoder01/TalkHeal/issues/134) |
 | Session Persistence – Clarification | Medium | [#129](https://github.com/eccentriccoder01/TalkHeal/issues/129) |
 | Add Multi Language Support | Medium | [#120](https://github.com/eccentriccoder01/TalkHeal/issues/120) |
@@ -873,6 +858,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🧠 Feature Request: Smart Conversation History with Multi-Threaded Support | Medium | [#87](https://github.com/eccentriccoder01/TalkHeal/issues/87) |
 | Make the Existing Authentication Persistent | Medium | [#82](https://github.com/eccentriccoder01/TalkHeal/issues/82) |
 | Fix: Optimized theme toggle to reduce delay | Medium | [#70](https://github.com/eccentriccoder01/TalkHeal/pull/70) |
+| docs: Update README with Enhanced Features, Screenshots, and GSSOC Contribution Guide | Medium | [#29](https://github.com/eccentriccoder01/TalkHeal/pull/29) |
 
 ---
 
@@ -890,6 +876,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/data dashboard explainability (#10) | Medium | [#37](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/37) |
 | feat: Add Data Dashboard, Explainability, and API Layer for Sneaker Price Prediction (#10) | Medium | [#27](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/27) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
 | Linear Regression for price [GSSoC 25] | Medium | [#21](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/21) |
@@ -921,6 +908,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 💫 Added About and Contact Page to Main page | Medium | [#56](https://github.com/sania28/clubmate/pull/56) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -1063,6 +1051,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated login button style | Medium | [#423](https://github.com/multiverseweb/Dataverse/pull/423) |
 | fix(web): ensure preloader video plays reliably across browsers | Medium | [#422](https://github.com/multiverseweb/Dataverse/pull/422) |
 | Secure DB config + Parameterized SQL + Unified schema (env-based) | Medium | [#421](https://github.com/multiverseweb/Dataverse/pull/421) |
 | Add Dark/Light Mode Toggle | Medium | [#420](https://github.com/multiverseweb/Dataverse/issues/420) |
@@ -1092,7 +1081,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Feature Request: Add Padding/Margin to Image Containers | Medium | [#394](https://github.com/multiverseweb/Dataverse/issues/394) |
 | Add Social Media Logos to Footer | Medium | [#393](https://github.com/multiverseweb/Dataverse/issues/393) |
 | Improve navbar responsiveness and transitions on small screens | Medium | [#392](https://github.com/multiverseweb/Dataverse/issues/392) |
-| user Interface | Medium | [#391](https://github.com/multiverseweb/Dataverse/issues/391) |
 
 ---
 
@@ -1110,26 +1098,19 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🔤 SuffixAutomaton: Suffix Automaton for String Processing | Medium | [#1710](https://github.com/UTSAVS26/PyVerse/issues/1710) |
-| 🌳 SplayTree: Self-Adjusting Binary Search Tree | Medium | [#1709](https://github.com/UTSAVS26/PyVerse/issues/1709) |
-| 📊 SparseTable: Range Query Data Structure | Medium | [#1708](https://github.com/UTSAVS26/PyVerse/issues/1708) |
-| 🚀 SkipListDB: High-Performance Probabilistic Database Index | Medium | [#1707](https://github.com/UTSAVS26/PyVerse/issues/1707) |
-| 🔥 SimulatedAnnealing: Optimization Algorithm | Medium | [#1706](https://github.com/UTSAVS26/PyVerse/issues/1706) |
-| 🔢 PrimeSieve: High-Performance Prime Number Generator | Medium | [#1705](https://github.com/UTSAVS26/PyVerse/issues/1705) |
-| 🪢 RopeDS: Rope Data Structure for Text Processing | Medium | [#1704](https://github.com/UTSAVS26/PyVerse/issues/1704) |
-| 📍 PointInPolygon: Geometric Point Location Engine | Medium | [#1703](https://github.com/UTSAVS26/PyVerse/issues/1703) |
-| 📚 PersistentDS: Persistent Data Structures Library | Medium | [#1702](https://github.com/UTSAVS26/PyVerse/issues/1702) |
-| 📊 MoSAlgorithm: Range Query Optimization Engine | Medium | [#1701](https://github.com/UTSAVS26/PyVerse/issues/1701) |
-| 🎲 MCTS-AI: Monte Carlo Tree Search Engine | Medium | [#1700](https://github.com/UTSAVS26/PyVerse/issues/1700) |
-| 🔢 ModExp: Modular Exponentiation Calculator | Medium | [#1699](https://github.com/UTSAVS26/PyVerse/issues/1699) |
-| 🌲 MST-Solver: Minimum Spanning Tree Algorithms | Medium | [#1698](https://github.com/UTSAVS26/PyVerse/issues/1698) |
-| 🎭 ManacherPalindrome: Longest Palindromic Substring Finder | Medium | [#1697](https://github.com/UTSAVS26/PyVerse/issues/1697) |
-| 🔗 LinkCutTree: Dynamic Tree Data Structure | Medium | [#1696](https://github.com/UTSAVS26/PyVerse/issues/1696) |
+| Mushroom Classifier (KNN, RandomForest, LogisticRegression) | Medium | [#1714](https://github.com/UTSAVS26/PyVerse/issues/1714) |
+| SMS Spam Classifier using Naive Bayes | Medium | [#1713](https://github.com/UTSAVS26/PyVerse/issues/1713) |
+| Create README.md | Medium | [#1712](https://github.com/UTSAVS26/PyVerse/pull/1712) |
+| 🐛: There is no README.md file for the Amazon Product Tracker in Beginner's project | Medium | [#1711](https://github.com/UTSAVS26/PyVerse/issues/1711) |
 | 📐 GeometrySolver: Line Segment Intersection Engine | Medium | [#1695](https://github.com/UTSAVS26/PyVerse/issues/1695) |
 | 🔄 KosarajuSCC: Strongly Connected Components Finder | Medium | [#1694](https://github.com/UTSAVS26/PyVerse/issues/1694) |
 | 🎯 JarvisMarch: Convex Hull Algorithm | Medium | [#1693](https://github.com/UTSAVS26/PyVerse/issues/1693) |
 | 🌳 HeavyPathDecompositionEnhanced: Advanced Tree Query & Update Engine | Medium | [#1692](https://github.com/UTSAVS26/PyVerse/issues/1692) |
 | 🌳 HLD-Tree: Heavy Light Decomposition for Tree Queries | Medium | [#1691](https://github.com/UTSAVS26/PyVerse/issues/1691) |
+| 🧑‍💻: Add More Recursion Practice Questions | Medium | [#1672](https://github.com/UTSAVS26/PyVerse/issues/1672) |
+| Add SECURITY.md file | Medium | [#1671](https://github.com/UTSAVS26/PyVerse/issues/1671) |
+| Added UPI Fraud Detection | Medium | [#1628](https://github.com/UTSAVS26/PyVerse/pull/1628) |
+| Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 
 ---
 
@@ -1172,21 +1153,18 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| WIP: Dark theme fix | Medium | [#219](https://github.com/ygowthamr/WhitePaper/pull/219) |
 |  | Medium | [#218](https://github.com/ygowthamr/WhitePaper/issues/218) |
 | improvement in the project | Medium | [#217](https://github.com/ygowthamr/WhitePaper/issues/217) |
-| Password Toggle Feature Added | Medium | [#216](https://github.com/ygowthamr/WhitePaper/pull/216) |
 |  | Medium | [#215](https://github.com/ygowthamr/WhitePaper/issues/215) |
-| FIX: Removed duplicate "© 2025" text in the footer + Corrected Readme.md | Medium | [#214](https://github.com/ygowthamr/WhitePaper/pull/214) |
 | Dark Mode Inconsistencies | Medium | [#213](https://github.com/ygowthamr/WhitePaper/issues/213) |
 | No Code Comments | Medium | [#212](https://github.com/ygowthamr/WhitePaper/issues/212) |
 | No documentation for API endpoints | Medium | [#211](https://github.com/ygowthamr/WhitePaper/issues/211) |
-| Add password visibility toggle for Sign Up form and Login Form | Medium | [#210](https://github.com/ygowthamr/WhitePaper/issues/210) |
 | Notification popup feature for note reminders (Closes #208) | Medium | [#209](https://github.com/ygowthamr/WhitePaper/pull/209) |
 | Notification Popup Feature for Note Reminders | Medium | [#208](https://github.com/ygowthamr/WhitePaper/issues/208) |
 | fix(ui): improve dark mode toggle & theme persistence | Medium | [#207](https://github.com/ygowthamr/WhitePaper/issues/207) |
 | Add SECURITY.md file | Medium | [#206](https://github.com/ygowthamr/WhitePaper/issues/206) |
 | docs: add CONTRIBUTING.md with guidelines for contributors | Medium | [#203](https://github.com/ygowthamr/WhitePaper/pull/203) |
-| Enhance Voice Input Functionality and Script Improvements (closes #201) | Medium | [#202](https://github.com/ygowthamr/WhitePaper/pull/202) |
 |  | Medium | [#201](https://github.com/ygowthamr/WhitePaper/issues/201) |
 | OpenID Connect Support | Medium | [#198](https://github.com/ygowthamr/WhitePaper/issues/198) |
 | UI Enhancements | Medium | [#197](https://github.com/ygowthamr/WhitePaper/issues/197) |
@@ -1201,6 +1179,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Want to add contributors section | Medium | [#181](https://github.com/ygowthamr/WhitePaper/issues/181) |
 | feat: implement secure environment variable configuration | Medium | [#180](https://github.com/ygowthamr/WhitePaper/pull/180) |
 | Add dedicated license page | Medium | [#179](https://github.com/ygowthamr/WhitePaper/pull/179) |
+| ADD PRIVACY POLICY PAGE | Medium | [#178](https://github.com/ygowthamr/WhitePaper/issues/178) |
+| to add a toggle button | Medium | [#177](https://github.com/ygowthamr/WhitePaper/issues/177) |
+| Fix: Exposed GitHub OAuth Credentials and Hardcoded Secret Key | Medium | [#176](https://github.com/ygowthamr/WhitePaper/pull/176) |
 
 ---
 
@@ -1218,18 +1199,19 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Rate Limiting on Authentication Endpoints attempt 2 | Medium | [#141](https://github.com/aayushraj1010/med-genie/pull/141) |
+| Missing Database Security and SQL Injection Protection | Medium | [#151](https://github.com/aayushraj1010/med-genie/pull/151) |
+| Missing Input Sanitization and XSS Protection | Medium | [#150](https://github.com/aayushraj1010/med-genie/pull/150) |
+| Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
+| Fix: auto-scroll chat window to latest message | Medium | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
 | Adding Cool AOS animations + a Pre-loader for the landing page | Medium | [#139](https://github.com/aayushraj1010/med-genie/issues/139) |
 | Missing Rate Limiting on Authentication Endpoints | Medium | [#138](https://github.com/aayushraj1010/med-genie/pull/138) |
 | Add multilingual support with language switcher 🌍 | Medium | [#134](https://github.com/aayushraj1010/med-genie/pull/134) |
 | Consistency in Buttons | Medium | [#132](https://github.com/aayushraj1010/med-genie/issues/132) |
 | Better Disclaimer Placement | Medium | [#131](https://github.com/aayushraj1010/med-genie/issues/131) |
 | 🔹 Issue: Improve Clear Button Label | Medium | [#130](https://github.com/aayushraj1010/med-genie/issues/130) |
-| Update Background Images in Medical Details Section | Medium | [#119](https://github.com/aayushraj1010/med-genie/pull/119) |
 | Duplicate Feature Found | Medium | [#109](https://github.com/aayushraj1010/med-genie/issues/109) |
 | Improve Navbar Responsiveness and UI | Medium | [#92](https://github.com/aayushraj1010/med-genie/issues/92) |
 | Prevent empty/whitespace-only chat submissions | Medium | [#81](https://github.com/aayushraj1010/med-genie/issues/81) |
-| <Feature> Allow users to send medicine photos for AI-based medical info | Medium | [#75](https://github.com/aayushraj1010/med-genie/issues/75) |
 | Missing Security Headers and CORS Configuration | Hard | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
 
 ---
@@ -1487,7 +1469,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend virtual env setup (Closed Isssues #8 and #9) | Medium | [#15](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/15) |
 | Added Code of Conduct | Medium | [#11](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/11) |
 
 ---
@@ -1680,6 +1661,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Docs: add requirements.txt for dependency management | Medium | [#24](https://github.com/manideepBotsaa/streamlit_application/pull/24) |
 | st.experimental_rerun() Deprecated in Streamlit ≥ 1.33 | Medium | [#21](https://github.com/manideepBotsaa/streamlit_application/issues/21) |
 
 ---
@@ -1733,6 +1715,24 @@ The goal of the project is to make this simulation more interactive, modular, an
 | PROPER README.md & CONTRIBUTING.md is needed [GSSoC'25] | Medium | [#4](https://github.com/MukulSha-afk/Weather-App/issues/4) |
 | Making the README.md | Medium | [#3](https://github.com/MukulSha-afk/Weather-App/issues/3) |
 | Weather-App | Medium | [#1](https://github.com/MukulSha-afk/Weather-App/pull/1) |
+
+---
+
+## 📌 Project: AI powered health assistant
+
+📝 **Description:** This project focuses on AI POWERED HEALTH ASSISTANT that provides users with health related guidance, symptom analysis and basic medical recommendations.This project helps to develop an AI-powered assistant that can analyze symptoms and provide preliminary health suggestions. It integrates a user-friendly chatbot that responds to health- related queries using natural language processing. It enhance accessibility to basic healthcare advice, especially for those without immediate access to medical professionals.
+
+🔗 [View Project](https://github.com/CharithaReddy18/AI-health-chatbot)
+
+💻 **Tech Stack:** Python, Machine Learning, NLP
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Wellness Resource Hub | Medium | [#39](https://github.com/CharithaReddy18/AI-health-chatbot/issues/39) |
 
 ---
 
@@ -1998,9 +1998,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Logs | Medium | [#30](https://github.com/swayum1004/StockSentry/pull/30) |
-| Added Templates | Medium | [#29](https://github.com/swayum1004/StockSentry/pull/29) |
-| Create CODE_OF_CONDUCT.md | Medium | [#28](https://github.com/swayum1004/StockSentry/pull/28) |
 | Use of Polygon io Api | Medium | [#25](https://github.com/swayum1004/StockSentry/issues/25) |
 | Improve ML Model Using Time Series Approach | Medium | [#8](https://github.com/swayum1004/StockSentry/issues/8) |
 
