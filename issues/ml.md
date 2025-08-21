@@ -2771,7 +2771,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhance Form UX with Location Autocomplete and a Date Picker | Medium | [#207](https://github.com/sachiva1/sachiva/issues/207) |
-| "Book Service" Button is Non-functional and Form Fails to Submit | Medium | [#206](https://github.com/sachiva1/sachiva/issues/206) |
 | Add Dynamic Leaderboard to fetch real time data | Medium | [#204](https://github.com/sachiva1/sachiva/pull/204) |
 | Updated contact.html | Medium | [#200](https://github.com/sachiva1/sachiva/pull/200) |
 | Fixed missing link + fixed overflow issue | Medium | [#197](https://github.com/sachiva1/sachiva/pull/197) |
