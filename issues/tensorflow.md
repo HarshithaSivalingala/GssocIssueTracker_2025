@@ -96,7 +96,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add button at bottom of README for easier navigation | Medium | [#50](https://github.com/AditixAnand/Garbage_Classification/pull/50) |
 | Missing model_efficientnet.h5 file needed to run the project | Medium | [#38](https://github.com/AditixAnand/Garbage_Classification/issues/38) |
 
 ---
