@@ -14,7 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Wellness Resource Hub | Medium | [#39](https://github.com/CharithaReddy18/AI-health-chatbot/issues/39) |
+| Created React Front-end for Medibot UI | Medium | [#41](https://github.com/CharithaReddy18/AI-health-chatbot/pull/41) |
+| Added Wellness Resource Hub | Medium | [#40](https://github.com/CharithaReddy18/AI-health-chatbot/pull/40) |
 
 ---
 
