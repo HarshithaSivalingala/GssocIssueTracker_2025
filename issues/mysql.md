@@ -116,7 +116,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| issue create automate message added | Medium | [#50](https://github.com/swarooppatilx/bit-by-query/pull/50) |
 | feat: add forgot password page | Medium | [#48](https://github.com/swarooppatilx/bit-by-query/pull/48) |
 | feat:login page UI enhancement issue no. #40 | Medium | [#45](https://github.com/swarooppatilx/bit-by-query/pull/45) |
 | Adjust Question Status Height & Move Question Statement Up | Medium | [#44](https://github.com/swarooppatilx/bit-by-query/pull/44) |
@@ -140,6 +139,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added calendar UI with attendance tracking feature | Medium | [#41](https://github.com/sachiikrish/AttendanceTracker/pull/41) |
 | Add the toaster notifications. | Medium | [#40](https://github.com/sachiikrish/AttendanceTracker/pull/40) |
 | Adding Contributing.md | Medium | [#39](https://github.com/sachiikrish/AttendanceTracker/issues/39) |
 | Added Contributing.md | Medium | [#36](https://github.com/sachiikrish/AttendanceTracker/pull/36) |
