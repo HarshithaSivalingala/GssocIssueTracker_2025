@@ -39,12 +39,15 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add dark mode support for splash screen | Medium | [#432](https://github.com/Bhavya1352/eventmappr/pull/432) |
-| Event map ui | Medium | [#431](https://github.com/Bhavya1352/eventmappr/issues/431) |
-| logoui | Medium | [#430](https://github.com/Bhavya1352/eventmappr/pull/430) |
-| duplicate button | Medium | [#429](https://github.com/Bhavya1352/eventmappr/issues/429) |
-| Wrong background color in dark mode on "About", "Currency Convert" and "Nearby" pages | Medium | [#424](https://github.com/Bhavya1352/eventmappr/issues/424) |
-| Signup form should not be visible when the user is logged in | Medium | [#417](https://github.com/Bhavya1352/eventmappr/issues/417) |
+| Wrong background color in dark mode on "About", "Currency Convert" and "Nearby" pages | Easy | [#424](https://github.com/Bhavya1352/eventmappr/issues/424) |
+| Duplicate "Learn More" buttons with different links | Medium | [#442](https://github.com/Bhavya1352/eventmappr/issues/442) |
+| Add Password Strength Checker with Live Validation on Sign Up Page | Medium | [#441](https://github.com/Bhavya1352/eventmappr/issues/441) |
+| Add "Share" Button with Detail Page for Tourist Places | Medium | [#440](https://github.com/Bhavya1352/eventmappr/issues/440) |
+| Dark mode issue on about page | Medium | [#439](https://github.com/Bhavya1352/eventmappr/issues/439) |
+| Cookie Policy ui page | Medium | [#438](https://github.com/Bhavya1352/eventmappr/issues/438) |
+| dark mode issue on Let's Connect | Medium | [#437](https://github.com/Bhavya1352/eventmappr/issues/437) |
+| Dummy for issue #431 | Medium | [#436](https://github.com/Bhavya1352/eventmappr/pull/436) |
+| removed duplicate button | Medium | [#435](https://github.com/Bhavya1352/eventmappr/pull/435) |
 | Nearby page dark theme not applying to middle section | Medium | [#411](https://github.com/Bhavya1352/eventmappr/issues/411) |
 | feat: add search, category filter, and sorting to TouristPlacesPage | Medium | [#376](https://github.com/Bhavya1352/eventmappr/pull/376) |
 | Adjust padding in event tiles for smaller screens | Medium | [#367](https://github.com/Bhavya1352/eventmappr/issues/367) |
@@ -227,12 +230,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Database Security and SQL Injection Protection | Medium | [#151](https://github.com/aayushraj1010/med-genie/pull/151) |
-| Missing Input Sanitization and XSS Protection | Medium | [#150](https://github.com/aayushraj1010/med-genie/pull/150) |
+| Pre-Loader & AOS Animations | Medium | [#152](https://github.com/aayushraj1010/med-genie/pull/152) |
 | Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
 | Fix: auto-scroll chat window to latest message | Medium | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
-| Adding Cool AOS animations + a Pre-loader for the landing page | Medium | [#139](https://github.com/aayushraj1010/med-genie/issues/139) |
-| Missing Rate Limiting on Authentication Endpoints | Medium | [#138](https://github.com/aayushraj1010/med-genie/pull/138) |
 | Add multilingual support with language switcher 🌍 | Medium | [#134](https://github.com/aayushraj1010/med-genie/pull/134) |
 | Consistency in Buttons | Medium | [#132](https://github.com/aayushraj1010/med-genie/issues/132) |
 | Better Disclaimer Placement | Medium | [#131](https://github.com/aayushraj1010/med-genie/issues/131) |
@@ -240,6 +240,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Duplicate Feature Found | Medium | [#109](https://github.com/aayushraj1010/med-genie/issues/109) |
 | Improve Navbar Responsiveness and UI | Medium | [#92](https://github.com/aayushraj1010/med-genie/issues/92) |
 | Prevent empty/whitespace-only chat submissions | Medium | [#81](https://github.com/aayushraj1010/med-genie/issues/81) |
+| <Feature> Allow users to send medicine photos for AI-based medical info | Medium | [#75](https://github.com/aayushraj1010/med-genie/issues/75) |
+| Missing Environment Variable Security and Configuration Management | Hard | [#149](https://github.com/aayushraj1010/med-genie/pull/149) |
 | Missing Security Headers and CORS Configuration | Hard | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
 
 ---
@@ -284,7 +286,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug in Project section | Medium | [#100](https://github.com/Amarjha01/DevNotes/issues/100) |
+| Add dark/light toggle mode | Medium | [#108](https://github.com/Amarjha01/DevNotes/issues/108) |
+| Feature Request: Add Quizzes related to backend! | Medium | [#107](https://github.com/Amarjha01/DevNotes/issues/107) |
+| Added Quizzes in Frontend Section | Medium | [#106](https://github.com/Amarjha01/DevNotes/pull/106) |
+| Bug: Remove weekly Email Digest | Medium | [#105](https://github.com/Amarjha01/DevNotes/issues/105) |
 | add backend | Medium | [#73](https://github.com/Amarjha01/DevNotes/issues/73) |
 
 ---
@@ -397,7 +402,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Easy | [#9](https://github.com/dscnitrourkela/project-xangoes/issues/9) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
-| Phase-1 Issue 3: Rate Limitation Middleware | Hard | [#11](https://github.com/dscnitrourkela/project-xangoes/issues/11) |
 
 ---
 
@@ -464,9 +468,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added faq page | Medium | [#53](https://github.com/lovelymahor/StudyMatePlus/pull/53) |
+| Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
+| Improve Navigation – Add Back to Top Button Everywhere | Medium | [#57](https://github.com/lovelymahor/StudyMatePlus/issues/57) |
+| Implement Dark Mode with Persistent Theme Preference | Medium | [#56](https://github.com/lovelymahor/StudyMatePlus/issues/56) |
+| Feature :Added the Mindmaps Section | Medium | [#55](https://github.com/lovelymahor/StudyMatePlus/pull/55) |
 | bug:Hero section text cutoff on mobile view | Medium | [#51](https://github.com/lovelymahor/StudyMatePlus/issues/51) |
-| Design a Website LOGO | Medium | [#42](https://github.com/lovelymahor/StudyMatePlus/issues/42) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
 | CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
@@ -487,12 +493,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Login and Sign-Up Integration and Functionality | Easy | [#81](https://github.com/Promptzy/Nexara/issues/81) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
-| Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
 | Want to add security.md file | Medium | [#83](https://github.com/Promptzy/Nexara/issues/83) |
 | 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
-| Redesign Login Page UI | Medium | [#79](https://github.com/Promptzy/Nexara/issues/79) |
+| Issue and ticket API | Hard | [#84](https://github.com/Promptzy/Nexara/pull/84) |
 
 ---
 
@@ -510,6 +514,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Password Reset Vulnerability | Medium | [#57](https://github.com/mr-rishikesh/DevConnect/issues/57) |
+| Weak Password Policy | Medium | [#56](https://github.com/mr-rishikesh/DevConnect/issues/56) |
 | Add Light/Dark Mode Toggle | Medium | [#52](https://github.com/mr-rishikesh/DevConnect/issues/52) |
 | Footer overlaps or appears too close to Navbar on Earnings and Connect To Others pages | Medium | [#51](https://github.com/mr-rishikesh/DevConnect/issues/51) |
 | Refactor Frontend Codebase for Better Readability and Contribution | Medium | [#50](https://github.com/mr-rishikesh/DevConnect/issues/50) |
@@ -539,7 +545,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CORS Misconfiguration | Medium | [#81](https://github.com/SandeepVashishtha/Eventra/issues/81) |
+| Missing Password Strength Validation | Medium | [#83](https://github.com/SandeepVashishtha/Eventra/issues/83) |
+| CORS Misconfiguration Issues  Solved | Medium | [#82](https://github.com/SandeepVashishtha/Eventra/pull/82) |
 
 ---
 
@@ -564,7 +571,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 📚 Improve API Documentation with Examples | Easy | [#5](https://github.com/skdas20/Synapse/issues/5) |
 | 🎨 Improve Mobile Responsiveness | Easy | [#1](https://github.com/skdas20/Synapse/issues/1) |
 | security: untrack .env | Medium | [#18](https://github.com/skdas20/Synapse/pull/18) |
-| Added Code of Conduct | Medium | [#17](https://github.com/skdas20/Synapse/pull/17) |
 | Fix: Sidebar collapse on mobile, responsive modals, improved spacing | Medium | [#13](https://github.com/skdas20/Synapse/pull/13) |
 | 📱 Create Progressive Web App (PWA) | Medium | [#10](https://github.com/skdas20/Synapse/issues/10) |
 | ⚡ Optimize Performance and Add Caching | Hard | [#7](https://github.com/skdas20/Synapse/issues/7) |
