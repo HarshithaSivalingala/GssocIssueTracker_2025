@@ -98,6 +98,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Docs : Add Table of Contents in README | Medium | [#30](https://github.com/Rajkumarbhakta/Canvas/issues/30) |
 | Made DrawingScreen mobile friendly | Medium | [#29](https://github.com/Rajkumarbhakta/Canvas/pull/29) |
 | pr create automate message added | Medium | [#28](https://github.com/Rajkumarbhakta/Canvas/pull/28) |
 | <Enhance Navbar and footer like  responsive webpage/> | Medium | [#24](https://github.com/Rajkumarbhakta/Canvas/issues/24) |
@@ -121,6 +122,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/sayan0328/WallGodds-App/issues/47) |
 | [UPLOAD PAGE] EDIT WALLPAPER BUTTON | Easy | [#46](https://github.com/sayan0328/WallGodds-App/issues/46) |
 | [UPLOAD PAGE] INSTRUCTIONAL SNACKBAR | Easy | [#45](https://github.com/sayan0328/WallGodds-App/issues/45) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
@@ -141,7 +143,6 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Creating a proper navigation and functional flow of screen designs in the app | Medium | [#176](https://github.com/sourabhkumar47/ResQFood/issues/176) |
 | Final update for buildgradle | Medium | [#174](https://github.com/sourabhkumar47/ResQFood/pull/174) |
 
 ---
@@ -160,9 +161,12 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Remove `role` route. | Medium | [#382](https://github.com/yuvrajsinghgmx/ShopSmart/issues/382) |
+| Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
+| Core API Fixes & Documentation Update | Medium | [#380](https://github.com/yuvrajsinghgmx/ShopSmart/pull/380) |
 | Firestore Implementation | Medium | [#379](https://github.com/yuvrajsinghgmx/ShopSmart/issues/379) |
-| for the improving the project | Medium | [#375](https://github.com/yuvrajsinghgmx/ShopSmart/issues/375) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
+| Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
