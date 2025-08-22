@@ -18,15 +18,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed redirection Of Links on Digital-Marketing page | Medium | [#304](https://github.com/gyanshankar1708/GrowCraft/pull/304) |
-| Enhance Contact Form: Phone Validation with Country Code & Future-Date Restriction (Replaces #257) | Medium | [#303](https://github.com/gyanshankar1708/GrowCraft/pull/303) |
-| Feature Social Media Page | Medium | [#302](https://github.com/gyanshankar1708/GrowCraft/pull/302) |
+| add digital marketing page | Medium | [#310](https://github.com/gyanshankar1708/GrowCraft/pull/310) |
+| complete footer UI redesign and standardization across contact.html | Medium | [#306](https://github.com/gyanshankar1708/GrowCraft/pull/306) |
 | navbar link spacing and alignment in work.html | Medium | [#298](https://github.com/gyanshankar1708/GrowCraft/pull/298) |
 | fix: navbar link spacing and visibility in services.html | Medium | [#297](https://github.com/gyanshankar1708/GrowCraft/pull/297) |
-| Fix Our Work link, unify navbar, and standardize footer across pages | Medium | [#296](https://github.com/gyanshankar1708/GrowCraft/pull/296) |
 | Fixed Footer in home page | Medium | [#288](https://github.com/gyanshankar1708/GrowCraft/pull/288) |
-| Fixed NavBar Issue | Medium | [#265](https://github.com/gyanshankar1708/GrowCraft/pull/265) |
-| Added gradient styling and animation to Submit button | Medium | [#258](https://github.com/gyanshankar1708/GrowCraft/pull/258) |
 
 ---
 
@@ -46,6 +42,12 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| Add "Go to Top" Button | Medium | [#77](https://github.com/Pujan-sarkar/FARMLOC/issues/77) |
+| Redesign Sign Up Page for Better UX | Medium | [#75](https://github.com/Pujan-sarkar/FARMLOC/issues/75) |
+| Add chatbot and dashboard | Medium | [#74](https://github.com/Pujan-sarkar/FARMLOC/issues/74) |
+| Responsive UI, Frontend Dashboard, Auth & Chatbot Integration | Medium | [#73](https://github.com/Pujan-sarkar/FARMLOC/issues/73) |
+| 🚀 Responsive UI, Frontend Dashboard, Auth & Chatbot Integration | Medium | [#72](https://github.com/Pujan-sarkar/FARMLOC/issues/72) |
+| Added contact Section | Medium | [#71](https://github.com/Pujan-sarkar/FARMLOC/pull/71) |
 | <short summary>Add Rating Field in Contact Form | Medium | [#69](https://github.com/Pujan-sarkar/FARMLOC/issues/69) |
 | add a real-time map | Medium | [#68](https://github.com/Pujan-sarkar/FARMLOC/issues/68) |
 | implement backend for contact us form | Medium | [#67](https://github.com/Pujan-sarkar/FARMLOC/issues/67) |
@@ -76,7 +78,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance Form UX with Location Autocomplete and a Date Picker | Medium | [#207](https://github.com/sachiva1/sachiva/issues/207) |
+| Multiple Bugs in Navbar | Medium | [#212](https://github.com/sachiva1/sachiva/issues/212) |
+| "Book service" functioning | Medium | [#211](https://github.com/sachiva1/sachiva/pull/211) |
+| Add drop down menu in Navbar so that overFlow becomes null and animation on header text of each landing page | Medium | [#210](https://github.com/sachiva1/sachiva/issues/210) |
+| Added location suggestion and improved date picker | Medium | [#209](https://github.com/sachiva1/sachiva/pull/209) |
+| UI/UX Improvements: Backgrounds, CTA Styling, Navbar Hover, and Color Palette | Medium | [#208](https://github.com/sachiva1/sachiva/issues/208) |
 | Add Dynamic Leaderboard to fetch real time data | Medium | [#204](https://github.com/sachiva1/sachiva/pull/204) |
 | Updated contact.html | Medium | [#200](https://github.com/sachiva1/sachiva/pull/200) |
 | Fixed missing link + fixed overflow issue | Medium | [#197](https://github.com/sachiva1/sachiva/pull/197) |
