@@ -16,8 +16,6 @@
 |----------|----------------|---------|
 | [Text file conversion] Create PYQs text files for any of the directed colleges with links given (YMCA, NIT-kurukshetra, IGDTUW, vit-bhopal) | Easy | [#762](https://github.com/Saumy1905/PYQFort/issues/762) |
 | [Text file conversion] Create PYQs text files for any of the directed colleges with links given (YMCA, NIT-kurukshetra, IGDTUW, vit-bhopal) | Easy | [#756](https://github.com/Saumy1905/PYQFort/issues/756) |
-| added Electives for DU | Medium | [#863](https://github.com/Saumy1905/PYQFort/pull/863) |
-| Academic Rules - 1.3 | Medium | [#818](https://github.com/Saumy1905/PYQFort/issues/818) |
 | Providing Detailed Solutions for PYQ Questions in IIT Bombay | Medium | [#537](https://github.com/Saumy1905/PYQFort/issues/537) |
 | [Text file conversion] Create PYQs text files for any of the directed colleges with links given (YMCA, NIT-kurukshetra, IGDTUW, vit-bhopal) | Hard | [#764](https://github.com/Saumy1905/PYQFort/issues/764) |
 
