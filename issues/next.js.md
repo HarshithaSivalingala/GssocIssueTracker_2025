@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🛠Fix : Make footer copyright year dynamic | Medium | [#223](https://github.com/iaadillatif/techxninjas-client/pull/223) |
+| fix: make footer copyright year dynamic | Medium | [#222](https://github.com/iaadillatif/techxninjas-client/pull/222) |
 | Continuous Sliding Carousel for Learners & Mentors Section | Medium | [#221](https://github.com/iaadillatif/techxninjas-client/issues/221) |
 | Add a Chatbot | Medium | [#220](https://github.com/iaadillatif/techxninjas-client/issues/220) |
 | Added theme toggle | Medium | [#216](https://github.com/iaadillatif/techxninjas-client/pull/216) |
@@ -33,7 +35,6 @@
 | Add Keyboard Accessibility Support for Modal Navigation & Close Actions | Medium | [#191](https://github.com/iaadillatif/techxninjas-client/issues/191) |
 | just checking | Medium | [#190](https://github.com/iaadillatif/techxninjas-client/pull/190) |
 | Add "Data Structures & Algorithms" Category | Medium | [#189](https://github.com/iaadillatif/techxninjas-client/issues/189) |
-| Change the color from index.css | Medium | [#188](https://github.com/iaadillatif/techxninjas-client/pull/188) |
 | added chatbot | Hard | [#205](https://github.com/iaadillatif/techxninjas-client/pull/205) |
 
 ---
@@ -73,6 +74,7 @@
 | Add Guided Breathing & Meditation Section | Medium | [#49](https://github.com/AdityaRalhan/Aluma/issues/49) |
 | Add a LICENSE.md file | Medium | [#48](https://github.com/AdityaRalhan/Aluma/issues/48) |
 | Add a .gitignore file to Project | Medium | [#47](https://github.com/AdityaRalhan/Aluma/issues/47) |
+| Add a CONTRIBUTING.md file | Medium | [#46](https://github.com/AdityaRalhan/Aluma/issues/46) |
 
 ---
 
@@ -157,6 +159,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| configure lighthouse for local development/testing | Medium | [#2122](https://github.com/OWASP/Nest/pull/2122) |
+| Update the SECURITY.md file | Medium | [#2118](https://github.com/OWASP/Nest/issues/2118) |
 | Implement Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
 | Nestbot MVP | Medium | [#2113](https://github.com/OWASP/Nest/pull/2113) |
 | Feature/user badge model and implement them on frontend too | Medium | [#2101](https://github.com/OWASP/Nest/pull/2101) |
@@ -169,9 +173,6 @@
 | Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
 | Feature/daily badge sync job 1763 | Medium | [#2047](https://github.com/OWASP/Nest/pull/2047) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2024](https://github.com/OWASP/Nest/pull/2024) |
-| Implement Initial Setup for Google OAuth | Medium | [#2021](https://github.com/OWASP/Nest/pull/2021) |
-| Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
-| Extend project health dashboard sorting capabilities | Hard | [#2002](https://github.com/OWASP/Nest/issues/2002) |
 
 ---
 
@@ -189,6 +190,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Readme with gssoc logo | Medium | [#209](https://github.com/Ayushjhawar8/Flavor-ai/pull/209) |
 | Added navbar to recipe page | Medium | [#207](https://github.com/Ayushjhawar8/Flavor-ai/pull/207) |
 | Translate widget shifted | Hard | [#201](https://github.com/Ayushjhawar8/Flavor-ai/pull/201) |
 
@@ -208,6 +210,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| IT REQUIRES MORE PROFESSIONAL ENHANCEMENT IN NAVBAR SECTION AND ALSO MISSING ABOUT US SECTION | Medium | [#111](https://github.com/AyushSharma72/Skill_Trade/issues/111) |
 | Improve UI components and animations to match theme consistency of home page | Medium | [#110](https://github.com/AyushSharma72/Skill_Trade/issues/110) |
 
 ---
@@ -226,7 +229,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI Redesign: Improved Layout and Styling | Medium | [#81](https://github.com/Dipanita45/HEALCONNECT/pull/81) |
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
@@ -384,6 +386,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix Misaligned Scroll Buttons in Mobile View | Medium | [#333](https://github.com/Muneerali199/DocMagic/issues/333) |
 | Profile Sections Need a Stylish Modern Look [OSCI'25] | Medium | [#332](https://github.com/Muneerali199/DocMagic/issues/332) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
 | feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/DocMagic/pull/330) |
@@ -518,12 +521,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| updated the design of the podcasts page | Medium | [#415](https://github.com/recodehive/recode-website/pull/415) |
-| fixed faqs unreadable parts | Medium | [#414](https://github.com/recodehive/recode-website/pull/414) |
-| Fixed Community Page Layout | Medium | [#413](https://github.com/recodehive/recode-website/pull/413) |
-| improve text-clarity | Medium | [#412](https://github.com/recodehive/recode-website/pull/412) |
-| add auto-assign workflow for issues and pull requests | Medium | [#409](https://github.com/recodehive/recode-website/pull/409) |
-| [Feature]: Redesign podcasts page & design similar to footer | Medium | [#403](https://github.com/recodehive/recode-website/issues/403) |
+| Update header.css | Medium | [#422](https://github.com/recodehive/recode-website/pull/422) |
+| [Feature]: Integrate Devfolio Feature Directly into the website | Hard | [#351](https://github.com/recodehive/recode-website/issues/351) |
 
 ---
 
@@ -566,7 +565,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| Progress page going into infinite load | Medium | [#242](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/242) |
+| **Enhance chatbot response handling and UI for smarter, context-aware interactions (#240)** | Medium | [#244](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/244) |
 | Protect Restricted Pages with Authentication Middleware and Return URL Redirect | Medium | [#228](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/228) |
 | ⭕ Unnecessary repeated calls to /api/check-auth on every tab/page | Medium | [#144](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/144) |
 
@@ -661,6 +660,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Profile Picture Upload at Signup | Medium | [#86](https://github.com/sristy17/next-payroll/issues/86) |
 | Made hardcoded values dynamic | Medium | [#85](https://github.com/sristy17/next-payroll/pull/85) |
 
 ---
@@ -784,6 +784,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI of Why Join Us Section improved | Medium | [#70](https://github.com/LarytheLord/Adventurers-Guild/pull/70) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
@@ -831,7 +832,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Implement New UI Based on Figma Design Using Pure CSS (No TailwindCSS) | Easy | [#17](https://github.com/ajaynegi45/Old-School-Game/issues/17) |
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
-| #53.1 | Medium | [#104](https://github.com/ajaynegi45/Old-School-Game/pull/104) |
 
 ---
 
@@ -1100,6 +1100,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| Dark Mode / Theme Customization for Nexara Dashboard | Medium | [#85](https://github.com/Promptzy/Nexara/issues/85) |
 | Want to add security.md file | Medium | [#83](https://github.com/Promptzy/Nexara/issues/83) |
 | 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
 | Issue and ticket API | Hard | [#84](https://github.com/Promptzy/Nexara/pull/84) |
@@ -1123,6 +1124,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Documentation : Add Code Of Conduct File to project | Medium | [#10](https://github.com/Ryadav0654/AuraHire/issues/10) |
 | 🚫 License Missing from Repository | Medium | [#9](https://github.com/Ryadav0654/AuraHire/issues/9) |
 | 🤝 Contribute Ideas, Improvements, and Feedback | Medium | [#7](https://github.com/Ryadav0654/AuraHire/issues/7) |
+
+---
+
+## 📌 Project: PriGPT Studio
+
+📝 **Description:** PrivGPT Studio Your Private AI Workspace: A privacyfirst AI platform that lets you run local and cloud AIML models side by side. Features include multichat management with crossreferences, PDF/image/audio/video analysis, voice input with transcription, offline fallback, latency tracking, session rename/export/delete, and privacyfocused design. Future scope †’ add generative AI for image/video/audio, enable multiuser support with authentication, build pages like About/Contact, enhance UI/UX with dashboards, add realtime collaboration, internationalization, and plugin support.
+
+🔗 [View Project](https://github.com/Rucha-Ambaliya/PrivGPT-Studio.git)
+
+💻 **Tech Stack:** Next.js, React, Tailwind CSS, Flask, Python, MongoDB, Ollama, Google Gemini API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Navbar UI Improvement Needed | Medium | [#46](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/46) |
 
 ---
 
@@ -1242,15 +1261,10 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update readme.md with gssoc logo | Medium | [#122](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/122) |
-| Added GSSoC logo image and updated README | Medium | [#121](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/121) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
 | feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
-| Changed dark cards in about section to white tone #109 | Medium | [#118](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/118) |
-| Enhanved the user dashboard (ISSUE NO.54) | Medium | [#113](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/113) |
-| Added Cursor Effect | Medium | [#110](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/110) |
-| Twitter/X OAuth2 Authentication | Medium | [#75](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/75) |
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
+| Feature Request: Mentor Connect – Connect Students with Toppers, Seniors, and Faculty | Hard | [#25](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/25) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
 
@@ -1361,6 +1375,10 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Ai powered flashcard | Medium | [#116](https://github.com/vatsal-bhakodia/smriti-ai/pull/116) |
+| AI-Powered Flashcard Generation & Workspace Improvements | Medium | [#115](https://github.com/vatsal-bhakodia/smriti-ai/issues/115) |
+| Added dynamic metadata generation per page instead of hardcoded values | Medium | [#114](https://github.com/vatsal-bhakodia/smriti-ai/pull/114) |
+| Add a "Cursor Trail Effect " Matching to the Website | Medium | [#111](https://github.com/vatsal-bhakodia/smriti-ai/issues/111) |
 | feat: add Contentful-powered blogs page with dynamic routing and types | Medium | [#108](https://github.com/vatsal-bhakodia/smriti-ai/pull/108) |
 | AI Flashcards: Generate decks from YouTube, PDFs, and Notes + Review (SRS) + Export (TXT/CSV) + Notes input | Medium | [#99](https://github.com/vatsal-bhakodia/smriti-ai/pull/99) |
 
