@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| lenis smooth scroll feels irrelevant. | Medium | [#114](https://github.com/ShishuCard/Vaccination_Portal/issues/114) |
 | Problem with setup the project. | Medium | [#113](https://github.com/ShishuCard/Vaccination_Portal/issues/113) |
 | No data validation | Medium | [#112](https://github.com/ShishuCard/Vaccination_Portal/issues/112) |
 | Status tracking too simple | Medium | [#111](https://github.com/ShishuCard/Vaccination_Portal/issues/111) |
@@ -42,6 +43,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Created the setup md solving issue #1189 | Medium | [#1202](https://github.com/Code-A2Z/code-a2z/pull/1202) |
 | Random quote generator | Medium | [#1198](https://github.com/Code-A2Z/code-a2z/pull/1198) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
@@ -51,7 +53,6 @@
 | 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
 | 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
 | 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
-| 📃: House Price Prediction | Medium | [#1145](https://github.com/Code-A2Z/code-a2z/issues/1145) |
 
 ---
 
@@ -71,7 +72,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Light/Dark Mode Toggle | Medium | [#92](https://github.com/Bavanetha27/Refixly/issues/92) |
+| update readme with gssoc logo | Medium | [#94](https://github.com/Bavanetha27/Refixly/pull/94) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
 
@@ -91,6 +92,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Message Deletion Functionality | Medium | [#48](https://github.com/Dhruvi-tech/firebase-chat-app/issues/48) |
 | Issue #33 Resolved – AI Chatbot & Profile Enhancements | Medium | [#47](https://github.com/Dhruvi-tech/firebase-chat-app/pull/47) |
 
 ---
@@ -156,9 +158,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added the Full Working Profile Page #293 Level 3 | Medium | [#397](https://github.com/Prateek9876/NagarVikas/pull/397) |
-| Allow editing your own message in Discussion Forum | Medium | [#396](https://github.com/Prateek9876/NagarVikas/pull/396) |
-| Admins can access the discussion forum with special admin permissions | Medium | [#395](https://github.com/Prateek9876/NagarVikas/issues/395) |
+| Admins can access the discussion forum with special admin permissions | Medium | [#408](https://github.com/Prateek9876/NagarVikas/pull/408) |
+| Add admin feature to temporarily ban users in discussion.dart with a dashboard to view banned users and a grant-access option to reinstate them for better chat control and decorum | Medium | [#407](https://github.com/Prateek9876/NagarVikas/issues/407) |
+| Enhanced the Login Page UI #346 Level 2 | Medium | [#406](https://github.com/Prateek9876/NagarVikas/pull/406) |
 
 ---
 
@@ -176,6 +178,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix footer social links  #139 | Medium | [#142](https://github.com/Richajaishwal0/Trip_assistant/pull/142) |
+| "Implement Authentication Backend and Frontend" | Medium | [#141](https://github.com/Richajaishwal0/Trip_assistant/pull/141) |
+| "Implement Login and Signup Authentication" | Medium | [#140](https://github.com/Richajaishwal0/Trip_assistant/issues/140) |
+| The footer social media icons (Facebook, Twitter, Google, Instagram) are not linked properly. | Medium | [#139](https://github.com/Richajaishwal0/Trip_assistant/issues/139) |
+| ENVIRONMENT: Missing Environment Variables | Medium | [#138](https://github.com/Richajaishwal0/Trip_assistant/pull/138) |
+| Add Login and Signup buttons to hero section for Issue #98 | Medium | [#136](https://github.com/Richajaishwal0/Trip_assistant/pull/136) |
+| Feature Request: Authentication Middleware & Conditional Rendering of Auth Buttons | Medium | [#135](https://github.com/Richajaishwal0/Trip_assistant/issues/135) |
+| UI: Improved Home & Places pages (chatbot, ratings, CSS fixes) | Medium | [#134](https://github.com/Richajaishwal0/Trip_assistant/pull/134) |
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
 | Fix search functionality to filter elements correctly | Medium | [#131](https://github.com/Richajaishwal0/Trip_assistant/issues/131) |
 | Remove unwanted white space from navbar | Medium | [#130](https://github.com/Richajaishwal0/Trip_assistant/issues/130) |
@@ -188,9 +198,6 @@
 | Fixed chatbot nlp integrated with gemini flash 1.5 | Medium | [#120](https://github.com/Richajaishwal0/Trip_assistant/pull/120) |
 | added gemeini powered trip buget estimator with server and client work | Medium | [#119](https://github.com/Richajaishwal0/Trip_assistant/pull/119) |
 | Improve the footer | Medium | [#105](https://github.com/Richajaishwal0/Trip_assistant/pull/105) |
-| Add Dark Mode Toggle | Medium | [#100](https://github.com/Richajaishwal0/Trip_assistant/issues/100) |
-| Currently, the homepage only shows the hero banner ("PLAN YOUR TRIP WITH US") and destination cards. There are no login or signup buttons, which makes it difficult for users to access the authentication system. | Medium | [#98](https://github.com/Richajaishwal0/Trip_assistant/issues/98) |
-| Add the security | Medium | [#95](https://github.com/Richajaishwal0/Trip_assistant/issues/95) |
 
 ---
 
@@ -315,7 +322,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Refactor the code, Fixed the JWT auth issue | Medium | [#184](https://github.com/SurajSG23/PrepBuddy/pull/184) |
-| There are 5 questions but it shows 10 question buttons | Medium | [#180](https://github.com/SurajSG23/PrepBuddy/issues/180) |
 
 ---
 
@@ -475,6 +481,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ntegrating CI/CD into the project | Medium | [#51](https://github.com/Devaki01/EcoStore/issues/51) |
 | Add social links in footer | Medium | [#50](https://github.com/Devaki01/EcoStore/issues/50) |
 | ## Feature Request: Product Details Page | Medium | [#49](https://github.com/Devaki01/EcoStore/issues/49) |
 | Issue #42 resolved ,Implement shop page with responsive product grid, featured section | Medium | [#48](https://github.com/Devaki01/EcoStore/pull/48) |
@@ -490,7 +497,6 @@
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#17](https://github.com/Devaki01/EcoStore/issues/17) |
 | Ui enhancement + Imperfect font heirarchy | Medium | [#13](https://github.com/Devaki01/EcoStore/issues/13) |
 | Add Readme.md | Medium | [#12](https://github.com/Devaki01/EcoStore/issues/12) |
-| 🔐 Feature Request: Implement Login & Sign Up using Firebase Authentication | Medium | [#6](https://github.com/Devaki01/EcoStore/issues/6) |
 
 ---
 
@@ -526,9 +532,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Align Styling of "What Students Say" Cards with "Why Choose StudyMatePlus?" Cards | Medium | [#60](https://github.com/lovelymahor/StudyMatePlus/issues/60) |
+| Enhance Subject Filter and Download Functionality in Analytics Component | Medium | [#59](https://github.com/lovelymahor/StudyMatePlus/pull/59) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
-| Improve Navigation – Add Back to Top Button Everywhere | Medium | [#57](https://github.com/lovelymahor/StudyMatePlus/issues/57) |
-| Implement Dark Mode with Persistent Theme Preference | Medium | [#56](https://github.com/lovelymahor/StudyMatePlus/issues/56) |
 | Feature :Added the Mindmaps Section | Medium | [#55](https://github.com/lovelymahor/StudyMatePlus/pull/55) |
 | bug:Hero section text cutoff on mobile view | Medium | [#51](https://github.com/lovelymahor/StudyMatePlus/issues/51) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
@@ -551,6 +557,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Portfolio Add: Portfolio Template Section | Medium | [#137](https://github.com/Varshitha713/CodeCanvas/pull/137) |
 | Improved footer design (Fixes #133) | Medium | [#136](https://github.com/Varshitha713/CodeCanvas/pull/136) |
 | Improved UI of filter section, non-overlapping filters, bordered buttons, dropdowns, and toggle switch. | Medium | [#134](https://github.com/Varshitha713/CodeCanvas/pull/134) |
 | Send Message button visible in hover Dark Mode | Medium | [#131](https://github.com/Varshitha713/CodeCanvas/pull/131) |
@@ -646,6 +653,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Dev | Medium | [#140](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/140) |
+| Add custom 404 page with navigation to home | Medium | [#139](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/139) |
 | Resource Page Template Redesign | Medium | [#130](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/130) |
 | Fixes: #75, Enhances navbar UI | Medium | [#119](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/119) |
 | 🎨 Enhancement: Professional UI/UX Redesign for HackerZGuide | Medium | [#117](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/117) |
