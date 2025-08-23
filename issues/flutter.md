@@ -72,9 +72,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added the Full Working Profile Page #293 Level 3 | Medium | [#397](https://github.com/Prateek9876/NagarVikas/pull/397) |
-| Allow editing your own message in Discussion Forum | Medium | [#396](https://github.com/Prateek9876/NagarVikas/pull/396) |
-| Admins can access the discussion forum with special admin permissions | Medium | [#395](https://github.com/Prateek9876/NagarVikas/issues/395) |
+| Admins can access the discussion forum with special admin permissions | Medium | [#408](https://github.com/Prateek9876/NagarVikas/pull/408) |
+| Add admin feature to temporarily ban users in discussion.dart with a dashboard to view banned users and a grant-access option to reinstate them for better chat control and decorum | Medium | [#407](https://github.com/Prateek9876/NagarVikas/issues/407) |
+| Enhanced the Login Page UI #346 Level 2 | Medium | [#406](https://github.com/Prateek9876/NagarVikas/pull/406) |
 
 ---
 
