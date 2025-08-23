@@ -14,9 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added GitHub Oauth | Medium | [#251](https://github.com/Amarjha01/InfantCareCompass/pull/251) |
+| Added counter effect to contributors section | Medium | [#250](https://github.com/Amarjha01/InfantCareCompass/pull/250) |
+| feat: add dynamic stats counter to About Us page | Medium | [#249](https://github.com/Amarjha01/InfantCareCompass/pull/249) |
+| feat: add dark mode toggle with theme persistence | Medium | [#248](https://github.com/Amarjha01/InfantCareCompass/pull/248) |
+| Fix: link Contact in footer to correct page | Medium | [#247](https://github.com/Amarjha01/InfantCareCompass/pull/247) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
-| Added Framer transitions in Home, About, Blog pages | Medium | [#190](https://github.com/Amarjha01/InfantCareCompass/pull/190) |
 
 ---
 
@@ -34,6 +38,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Readme with gssoc logo | Medium | [#209](https://github.com/Ayushjhawar8/Flavor-ai/pull/209) |
 | Added navbar to recipe page | Medium | [#207](https://github.com/Ayushjhawar8/Flavor-ai/pull/207) |
 | Translate widget shifted | Hard | [#201](https://github.com/Ayushjhawar8/Flavor-ai/pull/201) |
 
@@ -85,12 +90,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Website Performance & Smoothness Optimization | Medium | [#332](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/332) |
-| Dashboard is not theme compatible | Medium | [#331](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/331) |
-| There is no navitems in the home page | Medium | [#330](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/330) |
-| Register button is not working | Medium | [#329](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/329) |
+| Add Snake Trail Cursor Effect | Medium | [#345](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/345) |
+| #297 Resume Builder Shows 404 on Page Reload | Medium | [#344](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/344) |
+| Fix theme toggle icon | Medium | [#343](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/343) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
-| creating a aptitude preparation page | Medium | [#166](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/166) |
 
 ---
 
@@ -199,6 +202,7 @@ Why Jeanne?
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| Dark Mode / Theme Customization for Nexara Dashboard | Medium | [#85](https://github.com/Promptzy/Nexara/issues/85) |
 | Want to add security.md file | Medium | [#83](https://github.com/Promptzy/Nexara/issues/83) |
 | 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
 | Issue and ticket API | Hard | [#84](https://github.com/Promptzy/Nexara/pull/84) |
