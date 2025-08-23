@@ -161,9 +161,10 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| removed role update route | Medium | [#385](https://github.com/yuvrajsinghgmx/ShopSmart/pull/385) |
+| Fix: Logout Permissions & Safe Profile Image Handling | Medium | [#384](https://github.com/yuvrajsinghgmx/ShopSmart/pull/384) |
 | Remove `role` route. | Medium | [#382](https://github.com/yuvrajsinghgmx/ShopSmart/issues/382) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
-| Core API Fixes & Documentation Update | Medium | [#380](https://github.com/yuvrajsinghgmx/ShopSmart/pull/380) |
 | Firestore Implementation | Medium | [#379](https://github.com/yuvrajsinghgmx/ShopSmart/issues/379) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
 | Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
