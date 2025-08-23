@@ -18,6 +18,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Search Bar | Medium | [#322](https://github.com/gyanshankar1708/GrowCraft/issues/322) |
+| Replaced Twitter logo with X logo #316 | Medium | [#320](https://github.com/gyanshankar1708/GrowCraft/pull/320) |
+| Added-Digital-Marketing-Page | Medium | [#319](https://github.com/gyanshankar1708/GrowCraft/pull/319) |
+| Fixed the redirection of navbar links and alignment of navabr | Medium | [#318](https://github.com/gyanshankar1708/GrowCraft/pull/318) |
+| Fixed redirection of button on 404 Page | Medium | [#317](https://github.com/gyanshankar1708/GrowCraft/pull/317) |
+| Feature Request: Feedback Page | Medium | [#312](https://github.com/gyanshankar1708/GrowCraft/issues/312) |
+| Fix Our Work link, unify navbar, and standardize footer across pages | Medium | [#311](https://github.com/gyanshankar1708/GrowCraft/pull/311) |
 | add digital marketing page | Medium | [#310](https://github.com/gyanshankar1708/GrowCraft/pull/310) |
 | complete footer UI redesign and standardization across contact.html | Medium | [#306](https://github.com/gyanshankar1708/GrowCraft/pull/306) |
 | navbar link spacing and alignment in work.html | Medium | [#298](https://github.com/gyanshankar1708/GrowCraft/pull/298) |
@@ -42,6 +49,9 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| feat: implement unified dark mode experience across all components | Medium | [#80](https://github.com/Pujan-sarkar/FARMLOC/pull/80) |
+| fix: improve text visibility and placeholder styling on login & signup pages | Medium | [#79](https://github.com/Pujan-sarkar/FARMLOC/pull/79) |
+| Improve Text Visibility and UI of Login & Sign-Up Pages | Medium | [#78](https://github.com/Pujan-sarkar/FARMLOC/issues/78) |
 | Add "Go to Top" Button | Medium | [#77](https://github.com/Pujan-sarkar/FARMLOC/issues/77) |
 | Redesign Sign Up Page for Better UX | Medium | [#75](https://github.com/Pujan-sarkar/FARMLOC/issues/75) |
 | Add chatbot and dashboard | Medium | [#74](https://github.com/Pujan-sarkar/FARMLOC/issues/74) |
@@ -78,11 +88,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Multiple Bugs in Navbar | Medium | [#212](https://github.com/sachiva1/sachiva/issues/212) |
+| Fixed Portfolio Cards | Medium | [#213](https://github.com/sachiva1/sachiva/pull/213) |
 | "Book service" functioning | Medium | [#211](https://github.com/sachiva1/sachiva/pull/211) |
-| Add drop down menu in Navbar so that overFlow becomes null and animation on header text of each landing page | Medium | [#210](https://github.com/sachiva1/sachiva/issues/210) |
 | Added location suggestion and improved date picker | Medium | [#209](https://github.com/sachiva1/sachiva/pull/209) |
-| UI/UX Improvements: Backgrounds, CTA Styling, Navbar Hover, and Color Palette | Medium | [#208](https://github.com/sachiva1/sachiva/issues/208) |
 | Add Dynamic Leaderboard to fetch real time data | Medium | [#204](https://github.com/sachiva1/sachiva/pull/204) |
 | Updated contact.html | Medium | [#200](https://github.com/sachiva1/sachiva/pull/200) |
 | Fixed missing link + fixed overflow issue | Medium | [#197](https://github.com/sachiva1/sachiva/pull/197) |
