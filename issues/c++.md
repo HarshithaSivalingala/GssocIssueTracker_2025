@@ -59,7 +59,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add comprehensive usage documentation | Medium | [#50](https://github.com/SharonIV0x86/CinderPeak/pull/50) |
+| feat(hybrid): Add unit tests for HybridCSR_COO storage format. | Easy | [#22](https://github.com/SharonIV0x86/CinderPeak/issues/22) |
 
 ---
 
