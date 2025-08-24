@@ -57,8 +57,6 @@
 | Missing of gitignore file | Medium | [#58](https://github.com/kaushav07/VisionMate/issues/58) |
 | Clarify or remove playsound dependency | Medium | [#57](https://github.com/kaushav07/VisionMate/issues/57) |
 | Add basic OCR function using pytesseract | Medium | [#56](https://github.com/kaushav07/VisionMate/issues/56) |
-| Restructure folder hierarchy for FastAPI integration | Medium | [#55](https://github.com/kaushav07/VisionMate/pull/55) |
-| Restructure folder hierarchy for FastAPI integration | Medium | [#54](https://github.com/kaushav07/VisionMate/issues/54) |
 | Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
@@ -116,7 +114,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Addition of pr create automate message | Medium | [#52](https://github.com/swarooppatilx/bit-by-query/issues/52) |
+| pr create automate message added | Medium | [#56](https://github.com/swarooppatilx/bit-by-query/pull/56) |
+| Docs: Add SECURITY.md for responsible disclosure | Medium | [#55](https://github.com/swarooppatilx/bit-by-query/pull/55) |
+| feat: added landing page | Medium | [#54](https://github.com/swarooppatilx/bit-by-query/pull/54) |
 | Make SQL Query Results Scrollable on Small Screens | Medium | [#42](https://github.com/swarooppatilx/bit-by-query/pull/42) |
 | Add Reset Button to Clear Query Input and Results Panel | Medium | [#41](https://github.com/swarooppatilx/bit-by-query/pull/41) |
 | ISSUE:-While Login And Signup Internal Server Failed Error | Medium | [#30](https://github.com/swarooppatilx/bit-by-query/issues/30) |
