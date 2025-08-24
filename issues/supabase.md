@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Exposed alchemy test API key in test_block_fetch.py | Medium | [#68](https://github.com/HimanshuHeda/Zip_Tales/issues/68) |
 | Add a landing page to the app | Medium | [#67](https://github.com/HimanshuHeda/Zip_Tales/issues/67) |
 | fix: scroll-to-top on footer navigation links | Medium | [#66](https://github.com/HimanshuHeda/Zip_Tales/pull/66) |
 
@@ -74,6 +75,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve README.md Design and Structure | Easy | [#334](https://github.com/Muneerali199/DocMagic/issues/334) |
+| Navbar not spanning full screen width | Medium | [#335](https://github.com/Muneerali199/DocMagic/issues/335) |
 | Fix Misaligned Scroll Buttons in Mobile View | Medium | [#333](https://github.com/Muneerali199/DocMagic/issues/333) |
 | Profile Sections Need a Stylish Modern Look [OSCI'25] | Medium | [#332](https://github.com/Muneerali199/DocMagic/issues/332) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
@@ -89,7 +92,6 @@
 | issue create automate merge added | Medium | [#312](https://github.com/Muneerali199/DocMagic/pull/312) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
 | feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
-| Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 
 ---
 
@@ -138,7 +140,6 @@
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Profile Picture Upload at Signup | Medium | [#86](https://github.com/sristy17/next-payroll/issues/86) |
 | Made hardcoded values dynamic | Medium | [#85](https://github.com/sristy17/next-payroll/pull/85) |
 
 ---
@@ -157,7 +158,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI of Why Join Us Section improved | Medium | [#70](https://github.com/LarytheLord/Adventurers-Guild/pull/70) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
@@ -177,8 +177,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added expandable sidebar navigation for responsive design and easier navigation. | Medium | [#37](https://github.com/Jyotibrat/AI-Flow/pull/37) |
-| Resizing output box | Medium | [#35](https://github.com/Jyotibrat/AI-Flow/pull/35) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
@@ -286,9 +284,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Functional Navigation in Navbar | Medium | [#5](https://github.com/Shantanu-Tiwari/TLDRify/issues/5) |
+| Aboutus, privacypolicy and github redirection | Medium | [#16](https://github.com/Shantanu-Tiwari/TLDRify/pull/16) |
+| Create Proper Login and Signup Page | Medium | [#10](https://github.com/Shantanu-Tiwari/TLDRify/issues/10) |
+| Create Proper Modern Footer | Medium | [#8](https://github.com/Shantanu-Tiwari/TLDRify/issues/8) |
+| Text is Not Properly Align | Medium | [#7](https://github.com/Shantanu-Tiwari/TLDRify/issues/7) |
 | Documentation : Updating README.md File for Better Project Documentation | Medium | [#4](https://github.com/Shantanu-Tiwari/TLDRify/issues/4) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/Shantanu-Tiwari/TLDRify/issues/3) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#2](https://github.com/Shantanu-Tiwari/TLDRify/issues/2) |
 | 🚫 License Missing from Repository | Medium | [#1](https://github.com/Shantanu-Tiwari/TLDRify/issues/1) |
 
