@@ -98,9 +98,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Docs : Add Table of Contents in README | Medium | [#30](https://github.com/Rajkumarbhakta/Canvas/issues/30) |
+| Added table of contents with Toggle Button in README | Medium | [#31](https://github.com/Rajkumarbhakta/Canvas/pull/31) |
 | Made DrawingScreen mobile friendly | Medium | [#29](https://github.com/Rajkumarbhakta/Canvas/pull/29) |
-| pr create automate message added | Medium | [#28](https://github.com/Rajkumarbhakta/Canvas/pull/28) |
 | <Enhance Navbar and footer like  responsive webpage/> | Medium | [#24](https://github.com/Rajkumarbhakta/Canvas/issues/24) |
 | Updated DrawingCanvas and ShapeSelector with shapes support | Medium | [#20](https://github.com/Rajkumarbhakta/Canvas/pull/20) |
 | feat: Replace preferences with SQLite database for drawing storage ( closes #3) | Medium | [#17](https://github.com/Rajkumarbhakta/Canvas/pull/17) |
@@ -161,9 +160,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| removed role update route | Medium | [#385](https://github.com/yuvrajsinghgmx/ShopSmart/pull/385) |
-| Fix: Logout Permissions & Safe Profile Image Handling | Medium | [#384](https://github.com/yuvrajsinghgmx/ShopSmart/pull/384) |
-| Remove `role` route. | Medium | [#382](https://github.com/yuvrajsinghgmx/ShopSmart/issues/382) |
+| Implemented ReviewScreen | Medium | [#387](https://github.com/yuvrajsinghgmx/ShopSmart/pull/387) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Firestore Implementation | Medium | [#379](https://github.com/yuvrajsinghgmx/ShopSmart/issues/379) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
