@@ -14,7 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added GitHub Oauth | Medium | [#251](https://github.com/Amarjha01/InfantCareCompass/pull/251) |
+| Fix/hamburger visibility | Medium | [#254](https://github.com/Amarjha01/InfantCareCompass/pull/254) |
+| Fix: Menu and Close icons not visible in Navbar (#242) | Medium | [#252](https://github.com/Amarjha01/InfantCareCompass/pull/252) |
 | Added counter effect to contributors section | Medium | [#250](https://github.com/Amarjha01/InfantCareCompass/pull/250) |
 | feat: add dynamic stats counter to About Us page | Medium | [#249](https://github.com/Amarjha01/InfantCareCompass/pull/249) |
 | feat: add dark mode toggle with theme persistence | Medium | [#248](https://github.com/Amarjha01/InfantCareCompass/pull/248) |
@@ -43,16 +44,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Wrong background color in dark mode on "About", "Currency Convert" and "Nearby" pages | Easy | [#424](https://github.com/Bhavya1352/eventmappr/issues/424) |
+| Make navigation bars consistent across the website | Medium | [#446](https://github.com/Bhavya1352/eventmappr/issues/446) |
 | Aboutdark | Medium | [#445](https://github.com/Bhavya1352/eventmappr/pull/445) |
 | Cookieui | Medium | [#444](https://github.com/Bhavya1352/eventmappr/pull/444) |
 | Darkonlets | Medium | [#443](https://github.com/Bhavya1352/eventmappr/pull/443) |
-| Duplicate "Learn More" buttons with different links | Medium | [#442](https://github.com/Bhavya1352/eventmappr/issues/442) |
-| Add Password Strength Checker with Live Validation on Sign Up Page | Medium | [#441](https://github.com/Bhavya1352/eventmappr/issues/441) |
-| Add "Share" Button with Detail Page for Tourist Places | Medium | [#440](https://github.com/Bhavya1352/eventmappr/issues/440) |
 | Dark mode issue on about page | Medium | [#439](https://github.com/Bhavya1352/eventmappr/issues/439) |
 | Cookie Policy ui page | Medium | [#438](https://github.com/Bhavya1352/eventmappr/issues/438) |
-| dark mode issue on Let's Connect | Medium | [#437](https://github.com/Bhavya1352/eventmappr/issues/437) |
 | Nearby page dark theme not applying to middle section | Medium | [#411](https://github.com/Bhavya1352/eventmappr/issues/411) |
 | feat: add search, category filter, and sorting to TouristPlacesPage | Medium | [#376](https://github.com/Bhavya1352/eventmappr/pull/376) |
 | Adjust padding in event tiles for smaller screens | Medium | [#367](https://github.com/Bhavya1352/eventmappr/issues/367) |
@@ -147,6 +144,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement heap sort in haskell | Easy | [#645](https://github.com/alienx5499/SortVision/issues/645) |
+| Fix: chatbot bug | Medium | [#649](https://github.com/alienx5499/SortVision/pull/649) |
 | Addition of automate issue create message | Medium | [#641](https://github.com/alienx5499/SortVision/issues/641) |
 | Light Theme not working | Medium | [#627](https://github.com/alienx5499/SortVision/issues/627) |
 
@@ -233,21 +231,16 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE : the different page need as per the theme or to add a night view tab | Medium | [#158](https://github.com/aayushraj1010/med-genie/issues/158) |
-| there is missing navbar section from the every section | Medium | [#157](https://github.com/aayushraj1010/med-genie/issues/157) |
+| Pre-loader conflict resolved | Medium | [#161](https://github.com/aayushraj1010/med-genie/pull/161) |
+| issue create automate message added | Medium | [#160](https://github.com/aayushraj1010/med-genie/pull/160) |
+| fix: improved the clear Button label to Reset #130 | Medium | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
-| BUG : on clicking over the med genie after login , it redirect to login page again. | Medium | [#155](https://github.com/aayushraj1010/med-genie/issues/155) |
-| Addition of automate issue create message | Medium | [#154](https://github.com/aayushraj1010/med-genie/issues/154) |
 | Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
 | Fix: auto-scroll chat window to latest message | Medium | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
 | Add multilingual support with language switcher 🌍 | Medium | [#134](https://github.com/aayushraj1010/med-genie/pull/134) |
-| Consistency in Buttons | Medium | [#132](https://github.com/aayushraj1010/med-genie/issues/132) |
-| Better Disclaimer Placement | Medium | [#131](https://github.com/aayushraj1010/med-genie/issues/131) |
-| 🔹 Issue: Improve Clear Button Label | Medium | [#130](https://github.com/aayushraj1010/med-genie/issues/130) |
-| Duplicate Feature Found | Medium | [#109](https://github.com/aayushraj1010/med-genie/issues/109) |
+| Missing Security Headers and CORS Configuration | Medium | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
 | Improve Navbar Responsiveness and UI | Medium | [#92](https://github.com/aayushraj1010/med-genie/issues/92) |
 | Missing Environment Variable Security and Configuration Management | Hard | [#149](https://github.com/aayushraj1010/med-genie/pull/149) |
-| Missing Security Headers and CORS Configuration | Hard | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
 
 ---
 
@@ -265,15 +258,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add language switcher | Medium | [#212](https://github.com/AditiGupta-tech/neonest/pull/212) |
-| Feat: Add 'Delete All' functionality to Notification Bell | Medium | [#211](https://github.com/AditiGupta-tech/neonest/pull/211) |
-| Fix: Add "Clear Chat" Option to Chatbot | Medium | [#210](https://github.com/AditiGupta-tech/neonest/pull/210) |
-| Growth carousel enhancement  fixes : #143 | Medium | [#208](https://github.com/AditiGupta-tech/neonest/pull/208) |
-| Updated meta data , Added Favicon and optimized SEO | Medium | [#198](https://github.com/AditiGupta-tech/neonest/pull/198) |
-| Revamping resources page with suggested changes issue #121 | Medium | [#195](https://github.com/AditiGupta-tech/neonest/pull/195) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 | Complete Dark Mode Feature Implementation with Consistent Styling | Medium | [#175](https://github.com/AditiGupta-tech/neonest/issues/175) |
-| Add & Refactor: Neonest Chat – History Panel, State Persistence, New Chat Endpoints & Axios Instance | Medium | [#164](https://github.com/AditiGupta-tech/neonest/pull/164) |
 
 ---
 
@@ -291,7 +277,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added ML quizzes section | Medium | [#114](https://github.com/Amarjha01/DevNotes/pull/114) |
+| added ml/ai prepsheet | Medium | [#122](https://github.com/Amarjha01/DevNotes/pull/122) |
+| Feature req: add roadmap page for frontend section. | Medium | [#121](https://github.com/Amarjha01/DevNotes/issues/121) |
 
 ---
 
@@ -420,7 +407,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Print functionality prints the entire webpage instead of only the appointment card | Hard | [#150](https://github.com/dipexplorer/LegalHuB/issues/150) |
+| Implement Google Sign-in Sign-up method | Medium | [#156](https://github.com/dipexplorer/LegalHuB/pull/156) |
+| Enhancement: Enhance Footer Design, UX & Accessibility | Medium | [#155](https://github.com/dipexplorer/LegalHuB/pull/155) |
+| Improve UI of Main Landing Page for Better Accessibility and Visual Appeal | Medium | [#110](https://github.com/dipexplorer/LegalHuB/issues/110) |
 
 ---
 
@@ -467,7 +456,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Align Styling of "What Students Say" Cards with "Why Choose StudyMatePlus?" Cards | Medium | [#60](https://github.com/lovelymahor/StudyMatePlus/issues/60) |
+| Created and Added a logo on navbar,footer and Favicon. | Medium | [#61](https://github.com/lovelymahor/StudyMatePlus/pull/61) |
 | Enhance Subject Filter and Download Functionality in Analytics Component | Medium | [#59](https://github.com/lovelymahor/StudyMatePlus/pull/59) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Feature :Added the Mindmaps Section | Medium | [#55](https://github.com/lovelymahor/StudyMatePlus/pull/55) |
@@ -492,11 +481,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(ui): correct password visibility toggle logic on Sign Up page | Easy | [#89](https://github.com/Promptzy/Nexara/pull/89) |
+| design | Easy | [#86](https://github.com/Promptzy/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
-| Dark Mode / Theme Customization for Nexara Dashboard | Medium | [#85](https://github.com/Promptzy/Nexara/issues/85) |
-| Want to add security.md file | Medium | [#83](https://github.com/Promptzy/Nexara/issues/83) |
-| 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
-| Issue and ticket API | Hard | [#84](https://github.com/Promptzy/Nexara/pull/84) |
 
 ---
 
@@ -514,6 +501,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Login & Signup section ui enhancement | Medium | [#58](https://github.com/mr-rishikesh/DevConnect/issues/58) |
 | Password Reset Vulnerability | Medium | [#57](https://github.com/mr-rishikesh/DevConnect/issues/57) |
 | Weak Password Policy | Medium | [#56](https://github.com/mr-rishikesh/DevConnect/issues/56) |
 | Add Light/Dark Mode Toggle | Medium | [#52](https://github.com/mr-rishikesh/DevConnect/issues/52) |
@@ -528,24 +516,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
 | Implement JWT-Based Authentication Middleware | Medium | [#2](https://github.com/mr-rishikesh/DevConnect/issues/2) |
 | Implement Message Logic with WebSocket (Frontend + Backend Integration) | Hard | [#27](https://github.com/mr-rishikesh/DevConnect/issues/27) |
-
----
-
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Task: Update documentation for setup instructions | Easy | [#89](https://github.com/SandeepVashishtha/Eventra/issues/89) |
 
 ---
 
