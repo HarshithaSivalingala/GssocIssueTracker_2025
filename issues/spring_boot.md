@@ -46,9 +46,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| removed role update route | Medium | [#385](https://github.com/yuvrajsinghgmx/ShopSmart/pull/385) |
-| Fix: Logout Permissions & Safe Profile Image Handling | Medium | [#384](https://github.com/yuvrajsinghgmx/ShopSmart/pull/384) |
-| Remove `role` route. | Medium | [#382](https://github.com/yuvrajsinghgmx/ShopSmart/issues/382) |
+| Implemented ReviewScreen | Medium | [#387](https://github.com/yuvrajsinghgmx/ShopSmart/pull/387) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Firestore Implementation | Medium | [#379](https://github.com/yuvrajsinghgmx/ShopSmart/issues/379) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
@@ -85,24 +83,6 @@
 | Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/AnshulPanwarr/g1new/issues/3) |
 | 🚫 License Missing from Repository | Medium | [#2](https://github.com/AnshulPanwarr/g1new/issues/2) |
 | Add core infrastructure: README, CI pipelines, linting, and unit test suite | Medium | [#1](https://github.com/AnshulPanwarr/g1new/issues/1) |
-
----
-
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Task: Update documentation for setup instructions | Easy | [#89](https://github.com/SandeepVashishtha/Eventra/issues/89) |
 
 ---
 
