@@ -14,13 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| lenis smooth scroll feels irrelevant. | Medium | [#114](https://github.com/ShishuCard/Vaccination_Portal/issues/114) |
 | Problem with setup the project. | Medium | [#113](https://github.com/ShishuCard/Vaccination_Portal/issues/113) |
 | No data validation | Medium | [#112](https://github.com/ShishuCard/Vaccination_Portal/issues/112) |
 | Status tracking too simple | Medium | [#111](https://github.com/ShishuCard/Vaccination_Portal/issues/111) |
 | Vite config minimal | Medium | [#110](https://github.com/ShishuCard/Vaccination_Portal/issues/110) |
 | CODE_OF_CONDUCT.md exists  but no contribution guide. | Medium | [#109](https://github.com/ShishuCard/Vaccination_Portal/issues/109) |
-| Resolved the dark mode and light mode issues. | Medium | [#108](https://github.com/ShishuCard/Vaccination_Portal/pull/108) |
 | Login Issue | Medium | [#107](https://github.com/ShishuCard/Vaccination_Portal/issues/107) |
 | Fix: There were issue in package-lock.json | Medium | [#106](https://github.com/ShishuCard/Vaccination_Portal/issues/106) |
 | Add a CONTRIBUTING.md file | Medium | [#103](https://github.com/ShishuCard/Vaccination_Portal/issues/103) |
@@ -43,16 +41,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Collection Endpoint (User Option + Auto-Creation) | Medium | [#1209](https://github.com/Code-A2Z/code-a2z/pull/1209) |
+| Implement API to Send Collaboration Invite for a Project (#1191) | Medium | [#1208](https://github.com/Code-A2Z/code-a2z/pull/1208) |
+| Backend: Save a New Project to an Existing Collection (or Auto create the collection) | Medium | [#1207](https://github.com/Code-A2Z/code-a2z/pull/1207) |
 | Created the setup md solving issue #1189 | Medium | [#1202](https://github.com/Code-A2Z/code-a2z/pull/1202) |
 | Random quote generator | Medium | [#1198](https://github.com/Code-A2Z/code-a2z/pull/1198) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
-| 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
-| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
-| 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
-| 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
 
 ---
 
@@ -72,7 +69,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| update readme with gssoc logo | Medium | [#94](https://github.com/Bavanetha27/Refixly/pull/94) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
 
@@ -144,26 +140,6 @@
 
 ---
 
-## 📌 Project: Nagarvikas 
-
-📝 **Description:** An app that is built to file civic issues faced by citizens of india , they can easily track their complaint status in realtime , admins can check the complaints and after working on it they can update status accordingly , admin dashboard also has analytics option to keep data of all complaints for future use
-
-🔗 [View Project](https://github.com/Prateek9876/NagarVikas)
-
-💻 **Tech Stack:** Flutter, Dart, Firebase, OneSignal, Cloudinary
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Admins can access the discussion forum with special admin permissions | Medium | [#408](https://github.com/Prateek9876/NagarVikas/pull/408) |
-| Add admin feature to temporarily ban users in discussion.dart with a dashboard to view banned users and a grant-access option to reinstate them for better chat control and decorum | Medium | [#407](https://github.com/Prateek9876/NagarVikas/issues/407) |
-| Enhanced the Login Page UI #346 Level 2 | Medium | [#406](https://github.com/Prateek9876/NagarVikas/pull/406) |
-
----
-
 ## 📌 Project: Trip_assistant
 
 📝 **Description:** Project Title Trip Assistant – A Smart Travel Companion Platform  Organization Name Independent  Project Description Trip Assistant is a full-stack travel platform designed to simplify trip planning, booking, and social coordination for travelers. Inspired by platforms like Airbnb, Trip Assistant goes a step further by integrating social features such as a friend system, real-time chat, and a built-in AI chatbot for smart travel assistance.  The platform also includes dedicated dashboards for admin users and hotel/property partners, allowing seamless management of bookings, customer data, and platform activity.  The project is ideal for open-source contributors interested in modern web development, role-based access control, real-time applications, and AI integration.  Key Features ✈️ User Features Accommodation Discovery – Browse and explore stays and destinations  Friend System – Add and connect with fellow travelers  Real-Time Chat – Communicate with friends to plan trips collaboratively  AI Chatbot – Get destination suggestions and answers to FAQs  Secure Authentication – Firebase-based login and registration  🛠 Admin & Partner Features Admin Dashboard – Manage users, content, activity logs, and site moderation  Hotel Dashboard – Hotels/hosts can view bookings, manage properties, and analyze customer engagement  Tech Stack Frontend: React.js with Vite  Backend: Node.js with Express.js  Database & Authentication: Firebase (Firestore + Firebase Auth)  Real-Time Communication: Firebase listeners (Firestore/Realtime DB)  Chatbot Integration: Planned via Dialogflow or custom NLP API  Current Status Frontend development initiated using React + Vite  Firebase setup completed for future integration  Core UI components (homepage, partial authentication) under development  Backend and dashboard planning in progress  Clear roadmap defined for upcoming GSSoC contribution phase  Goals for GSSoC Finalize and optimize user flows and authentication  Implement friend system and real-time chat  Build fully functional admin and partner dashboards  Integrate chatbot for intelligent travel assistance  Improve UI/UX and ensure responsiveness across devices  Maintain clear documentation and contribution guidelines  Why This Project? Trip Assistant offers contributors an opportunity to work on a real-world, community-focused travel application using modern technologies. It is suitable for developers interested in:  Full-stack web development  Real-time applications  Firebase ecosystem  Role-based access systems  AI chatbot integration  This project combines technology and travel to create a practical, scalable platform with real social impact.
@@ -178,9 +154,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| used base env variables, removed redundant mongoDB code file | Medium | [#149](https://github.com/Richajaishwal0/Trip_assistant/pull/149) |
+| Modified the authentication part on client side using zod and react-hook-form for readable and maintainable code, added the VerifyToken endpoint and Context Api To manage the global state of user Loggedin state to manage the user flow of login and signup and logout and prevent unauthenticated users to got to certain pages. | Medium | [#148](https://github.com/Richajaishwal0/Trip_assistant/pull/148) |
+| "Add Privacy Policy Page" | Medium | [#147](https://github.com/Richajaishwal0/Trip_assistant/pull/147) |
+| "Add Privacy Policy Page" | Medium | [#146](https://github.com/Richajaishwal0/Trip_assistant/issues/146) |
+| Feat/contact us | Medium | [#145](https://github.com/Richajaishwal0/Trip_assistant/pull/145) |
+| "Add Contact Us Page" | Medium | [#144](https://github.com/Richajaishwal0/Trip_assistant/issues/144) |
+| Add user management routes for finding, updating, and deleting users | Medium | [#143](https://github.com/Richajaishwal0/Trip_assistant/pull/143) |
 | Fix footer social links  #139 | Medium | [#142](https://github.com/Richajaishwal0/Trip_assistant/pull/142) |
 | "Implement Authentication Backend and Frontend" | Medium | [#141](https://github.com/Richajaishwal0/Trip_assistant/pull/141) |
-| "Implement Login and Signup Authentication" | Medium | [#140](https://github.com/Richajaishwal0/Trip_assistant/issues/140) |
 | The footer social media icons (Facebook, Twitter, Google, Instagram) are not linked properly. | Medium | [#139](https://github.com/Richajaishwal0/Trip_assistant/issues/139) |
 | ENVIRONMENT: Missing Environment Variables | Medium | [#138](https://github.com/Richajaishwal0/Trip_assistant/pull/138) |
 | Add Login and Signup buttons to hero section for Issue #98 | Medium | [#136](https://github.com/Richajaishwal0/Trip_assistant/pull/136) |
@@ -197,7 +179,6 @@
 | feat: Add Ctrl+Enter/Cmd+Enter keyboard shortcut to chatbot | Medium | [#121](https://github.com/Richajaishwal0/Trip_assistant/pull/121) |
 | Fixed chatbot nlp integrated with gemini flash 1.5 | Medium | [#120](https://github.com/Richajaishwal0/Trip_assistant/pull/120) |
 | added gemeini powered trip buget estimator with server and client work | Medium | [#119](https://github.com/Richajaishwal0/Trip_assistant/pull/119) |
-| Improve the footer | Medium | [#105](https://github.com/Richajaishwal0/Trip_assistant/pull/105) |
 
 ---
 
@@ -294,6 +275,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Broken theme toggle feature | Medium | [#31](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/31) |
 | Addition of automate issue create message | Medium | [#30](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/30) |
 | Implement Dark/Light Mode Toggle | Medium | [#29](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/29) |
 | feat: add docker development setup | Medium | [#28](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/28) |
@@ -400,7 +382,6 @@
 |----------|----------------|---------|
 | Bug: Dark mode functionality | Easy | [#78](https://github.com/Skrache/crisisboard/issues/78) |
 | Add Favicon to Website | Easy | [#65](https://github.com/Skrache/crisisboard/issues/65) |
-| feed back page revamp | Medium | [#79](https://github.com/Skrache/crisisboard/issues/79) |
 | Add "Back to Top" button in README | Medium | [#72](https://github.com/Skrache/crisisboard/issues/72) |
 | Need About us Section | Medium | [#63](https://github.com/Skrache/crisisboard/issues/63) |
 | Added search and filter feature | Medium | [#48](https://github.com/Skrache/crisisboard/pull/48) |
@@ -448,6 +429,7 @@
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Implemented the gif in the Readme | Medium | [#143](https://github.com/Loop-Hive/ScheduleX/pull/143) |
 | Ask Export Location before Saving CSV | Medium | [#141](https://github.com/Loop-Hive/ScheduleX/issues/141) |
 | Improve the UI of Settings Page | Medium | [#136](https://github.com/Loop-Hive/ScheduleX/issues/136) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
@@ -481,6 +463,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add social link in the footer and product detailes | Medium | [#52](https://github.com/Devaki01/EcoStore/pull/52) |
 | ntegrating CI/CD into the project | Medium | [#51](https://github.com/Devaki01/EcoStore/issues/51) |
 | Add social links in footer | Medium | [#50](https://github.com/Devaki01/EcoStore/issues/50) |
 | ## Feature Request: Product Details Page | Medium | [#49](https://github.com/Devaki01/EcoStore/issues/49) |
@@ -532,7 +515,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Align Styling of "What Students Say" Cards with "Why Choose StudyMatePlus?" Cards | Medium | [#60](https://github.com/lovelymahor/StudyMatePlus/issues/60) |
+| Created and Added a logo on navbar,footer and Favicon. | Medium | [#61](https://github.com/lovelymahor/StudyMatePlus/pull/61) |
 | Enhance Subject Filter and Download Functionality in Analytics Component | Medium | [#59](https://github.com/lovelymahor/StudyMatePlus/pull/59) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Feature :Added the Mindmaps Section | Medium | [#55](https://github.com/lovelymahor/StudyMatePlus/pull/55) |
@@ -557,9 +540,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add new project in the project section | Medium | [#140](https://github.com/Varshitha713/CodeCanvas/issues/140) |
+| Chore/restructure readme | Medium | [#138](https://github.com/Varshitha713/CodeCanvas/pull/138) |
 | Portfolio Add: Portfolio Template Section | Medium | [#137](https://github.com/Varshitha713/CodeCanvas/pull/137) |
 | Improved footer design (Fixes #133) | Medium | [#136](https://github.com/Varshitha713/CodeCanvas/pull/136) |
-| Improved UI of filter section, non-overlapping filters, bordered buttons, dropdowns, and toggle switch. | Medium | [#134](https://github.com/Varshitha713/CodeCanvas/pull/134) |
 | Send Message button visible in hover Dark Mode | Medium | [#131](https://github.com/Varshitha713/CodeCanvas/pull/131) |
 | Adding new project | Medium | [#129](https://github.com/Varshitha713/CodeCanvas/issues/129) |
 | Add favicon to CodeCanvas pages (fixes #116) | Medium | [#125](https://github.com/Varshitha713/CodeCanvas/pull/125) |
@@ -594,16 +578,13 @@
 |----------|----------------|---------|
 | Feature/whatsapp share appointment | Medium | [#159](https://github.com/shandilya-rajnandini/DocAtHome/pull/159) |
 | Registration forms need field-specific validation messages | Medium | [#158](https://github.com/shandilya-rajnandini/DocAtHome/issues/158) |
-| replace loading word with skeleton placeholders in DoctorCard | Medium | [#157](https://github.com/shandilya-rajnandini/DocAtHome/pull/157) |
 | Implement Ambulance Booking System with Real-time Notifications | Medium | [#156](https://github.com/shandilya-rajnandini/DocAtHome/pull/156) |
-| Feat: Added AI Specialty Suggestion Feature | Medium | [#155](https://github.com/shandilya-rajnandini/DocAtHome/pull/155) |
 | Relay feature | Medium | [#148](https://github.com/shandilya-rajnandini/DocAtHome/pull/148) |
 | Migrate from Context API to a Zustand Store | Medium | [#147](https://github.com/shandilya-rajnandini/DocAtHome/pull/147) |
 | Request Refill Implemented | Medium | [#145](https://github.com/shandilya-rajnandini/DocAtHome/pull/145) |
 | Perform an accessibility audit and fix WCAG 2.1 AA issues | Hard | [#141](https://github.com/shandilya-rajnandini/DocAtHome/issues/141) |
 | Build an interactive body map for symptom checking | Hard | [#139](https://github.com/shandilya-rajnandini/DocAtHome/issues/139) |
 | Implement automated checks to flag suspicious professional registrations | Hard | [#124](https://github.com/shandilya-rajnandini/DocAtHome/issues/124) |
-| Develop a "Patient Acuity Score" for incoming appointment requests | Hard | [#123](https://github.com/shandilya-rajnandini/DocAtHome/issues/123) |
 | Create a "Demand Hotspot" map for doctors and nurses | Hard | [#122](https://github.com/shandilya-rajnandini/DocAtHome/issues/122) |
 
 ---
@@ -622,6 +603,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Login & Signup section ui enhancement | Medium | [#58](https://github.com/mr-rishikesh/DevConnect/issues/58) |
 | Password Reset Vulnerability | Medium | [#57](https://github.com/mr-rishikesh/DevConnect/issues/57) |
 | Weak Password Policy | Medium | [#56](https://github.com/mr-rishikesh/DevConnect/issues/56) |
 | Add Light/Dark Mode Toggle | Medium | [#52](https://github.com/mr-rishikesh/DevConnect/issues/52) |
@@ -653,7 +635,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dev | Medium | [#140](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/140) |
 | Add custom 404 page with navigation to home | Medium | [#139](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/139) |
 | Resource Page Template Redesign | Medium | [#130](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/130) |
 | Fixes: #75, Enhances navbar UI | Medium | [#119](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/119) |
@@ -682,24 +663,6 @@
 | Add mit license file to the project | Medium | [#7](https://github.com/smiti-jana/PrepWise/pull/7) |
 | Security fixes and feature improvements | Medium | [#6](https://github.com/smiti-jana/PrepWise/pull/6) |
 | add MIT License file to the project | Medium | [#5](https://github.com/smiti-jana/PrepWise/pull/5) |
-
----
-
-## 📌 Project: Dora-AI-Powered-Virtual-Personal-Assistant
-
-📝 **Description:** DORA is your AI-powered productivity companion designed to simplify your daily life. From task automation to smart reminders and intelligent information search, DORA leverages Generative AI, LLMs, RAG, and Agentic AI to bring you a truly smart virtual assistant experience.
-
-🔗 [View Project](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant)
-
-💻 **Tech Stack:** React, Python, FastAPI, Pinecone DB, LangChain, LangGraph, CrewAI, Eleven Lab, Firebase, Tailwind CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Regarding the GSSoC'25 | Medium | [#22](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/22) |
 
 ---
 
