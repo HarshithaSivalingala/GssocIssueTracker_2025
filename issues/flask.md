@@ -23,7 +23,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#57](https://github.com/Menthub-GSSoC/Menthub/issues/57) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
@@ -123,8 +122,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Missing of gitignore file | Medium | [#58](https://github.com/kaushav07/VisionMate/issues/58) |
 | Clarify or remove playsound dependency | Medium | [#57](https://github.com/kaushav07/VisionMate/issues/57) |
 | Add basic OCR function using pytesseract | Medium | [#56](https://github.com/kaushav07/VisionMate/issues/56) |
-| Restructure folder hierarchy for FastAPI integration | Medium | [#55](https://github.com/kaushav07/VisionMate/pull/55) |
-| Restructure folder hierarchy for FastAPI integration | Medium | [#54](https://github.com/kaushav07/VisionMate/issues/54) |
 | Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
@@ -178,10 +175,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Snake Trail Cursor Effect | Medium | [#345](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/345) |
-| #297 Resume Builder Shows 404 on Page Reload | Medium | [#344](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/344) |
-| Fix theme toggle icon | Medium | [#343](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/343) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
+| creating a aptitude preparation page | Medium | [#166](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/166) |
 
 ---
 
@@ -199,7 +194,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| improved dark mode inconsistencies | Medium | [#191](https://github.com/omroy07/AgriTech/pull/191) |
+| Make the login page like the register and fix all the frontend bugs. | Medium | [#193](https://github.com/omroy07/AgriTech/issues/193) |
+| Fixed password toggle eye placement | Medium | [#192](https://github.com/omroy07/AgriTech/pull/192) |
 | Inconsistent Footer Across Website Pages | Medium | [#188](https://github.com/omroy07/AgriTech/issues/188) |
 | Fix the Responsiveness of the website | Medium | [#183](https://github.com/omroy07/AgriTech/issues/183) |
 | Add Firebase Config to CONTRIBUTING.md | Medium | [#170](https://github.com/omroy07/AgriTech/issues/170) |
@@ -304,21 +300,16 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE : the different page need as per the theme or to add a night view tab | Medium | [#158](https://github.com/aayushraj1010/med-genie/issues/158) |
-| there is missing navbar section from the every section | Medium | [#157](https://github.com/aayushraj1010/med-genie/issues/157) |
+| Pre-loader conflict resolved | Medium | [#161](https://github.com/aayushraj1010/med-genie/pull/161) |
+| issue create automate message added | Medium | [#160](https://github.com/aayushraj1010/med-genie/pull/160) |
+| fix: improved the clear Button label to Reset #130 | Medium | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
-| BUG : on clicking over the med genie after login , it redirect to login page again. | Medium | [#155](https://github.com/aayushraj1010/med-genie/issues/155) |
-| Addition of automate issue create message | Medium | [#154](https://github.com/aayushraj1010/med-genie/issues/154) |
 | Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
 | Fix: auto-scroll chat window to latest message | Medium | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
 | Add multilingual support with language switcher 🌍 | Medium | [#134](https://github.com/aayushraj1010/med-genie/pull/134) |
-| Consistency in Buttons | Medium | [#132](https://github.com/aayushraj1010/med-genie/issues/132) |
-| Better Disclaimer Placement | Medium | [#131](https://github.com/aayushraj1010/med-genie/issues/131) |
-| 🔹 Issue: Improve Clear Button Label | Medium | [#130](https://github.com/aayushraj1010/med-genie/issues/130) |
-| Duplicate Feature Found | Medium | [#109](https://github.com/aayushraj1010/med-genie/issues/109) |
+| Missing Security Headers and CORS Configuration | Medium | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
 | Improve Navbar Responsiveness and UI | Medium | [#92](https://github.com/aayushraj1010/med-genie/issues/92) |
 | Missing Environment Variable Security and Configuration Management | Hard | [#149](https://github.com/aayushraj1010/med-genie/pull/149) |
-| Missing Security Headers and CORS Configuration | Hard | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
 
 ---
 
@@ -415,6 +406,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding Items under " Browse Items " Section | Medium | [#29](https://github.com/AKing-283/Rewear/issues/29) |
 | Updated navbar: added Add Item and Dashboard links, improved layout | Medium | [#15](https://github.com/AKing-283/Rewear/pull/15) |
 
 ---
@@ -433,7 +425,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Navbar UI Improvement Needed | Medium | [#46](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/46) |
+| ISSUE: "Add" button not enabling new chat session | Easy | [#40](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/40) |
+| FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| Refactor backend into modular folder structure (Flask Blueprint Setup) | Medium | [#8](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/8) |
 
 ---
 
