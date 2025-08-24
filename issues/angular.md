@@ -14,10 +14,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Not found page Ui issue | Easy | [#107](https://github.com/abhisek247767/PeopleHub-Frontend/issues/107) |
+| Dark Mode apply mode color not change | Easy | [#106](https://github.com/abhisek247767/PeopleHub-Frontend/issues/106) |
 | Update README.md file | Easy | [#42](https://github.com/abhisek247767/PeopleHub-Frontend/issues/42) |
+| fix(ui): update not-found page with header, footer, and working links | Medium | [#108](https://github.com/abhisek247767/PeopleHub-Frontend/pull/108) |
 | Improved README.md with badges, screenshots, and usage section | Medium | [#103](https://github.com/abhisek247767/PeopleHub-Frontend/pull/103) |
 | Update README.md file | Medium | [#70](https://github.com/abhisek247767/PeopleHub-Frontend/pull/70) |
 | Updated README.md | Medium | [#49](https://github.com/abhisek247767/PeopleHub-Frontend/pull/49) |
+| project tree structure rendering | Hard | [#96](https://github.com/abhisek247767/PeopleHub-Frontend/issues/96) |
 
 ---
 
