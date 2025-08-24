@@ -18,13 +18,13 @@
 | Add password reset functionality | Medium | [#63](https://github.com/Abhinavhaldiya/FinPilot/issues/63) |
 | middleware-and-protected-routes-for-user | Medium | [#60](https://github.com/Abhinavhaldiya/FinPilot/pull/60) |
 | feat: update login page with SVG wave background | Medium | [#59](https://github.com/Abhinavhaldiya/FinPilot/pull/59) |
-| An issue occurs | Medium | [#57](https://github.com/Abhinavhaldiya/FinPilot/issues/57) |
 | feat:Setup folder structure for modular features: users, expenses, ap… | Medium | [#53](https://github.com/Abhinavhaldiya/FinPilot/pull/53) |
 | Advanced ai technology | Medium | [#49](https://github.com/Abhinavhaldiya/FinPilot/issues/49) |
 | Create Ui for submit New Claim | Medium | [#47](https://github.com/Abhinavhaldiya/FinPilot/issues/47) |
 | Add prisma schema definition and seed data | Medium | [#35](https://github.com/Abhinavhaldiya/FinPilot/pull/35) |
 | Schema Definition using Prisma | Medium | [#32](https://github.com/Abhinavhaldiya/FinPilot/issues/32) |
 | Update README.md file | Medium | [#21](https://github.com/Abhinavhaldiya/FinPilot/issues/21) |
+| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#19](https://github.com/Abhinavhaldiya/FinPilot/issues/19) |
 
 ---
 
@@ -51,7 +51,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#57](https://github.com/Menthub-GSSoC/Menthub/issues/57) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
@@ -84,22 +83,32 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implementation of Data-Intensive SDRF Allocation & NFSA Beneficiary Visualization Module with Optimized API Pipeline and State-Synchronized Rendering Architecture | Medium | [#690](https://github.com/HarshS16/Civix/pull/690) |
-| High-Throughput Analytics Framework for Rendering & Evaluating Budget Estimates (BE/RE/Actuals). | Medium | [#689](https://github.com/HarshS16/Civix/pull/689) |
-| Integration of Context-Orchestrated Adaptive Dark Mode Rendering for Electricity & Water Outage Interface Utilizing Persistent Hydration, Atomic Color Tokenization, and WCAG 2.1 AA-Compliant Visual Semantics | Medium | [#688](https://github.com/HarshS16/Civix/pull/688) |
-| Civicstatitsticsui | Medium | [#687](https://github.com/HarshS16/Civix/pull/687) |
-| Download Option for statistics | Medium | [#686](https://github.com/HarshS16/Civix/issues/686) |
-| Filter | Medium | [#685](https://github.com/HarshS16/Civix/pull/685) |
-| Filter option in Complaints | Medium | [#684](https://github.com/HarshS16/Civix/issues/684) |
-| Feedback | Medium | [#683](https://github.com/HarshS16/Civix/pull/683) |
-| 📝 Issue: Add Citizen Feedback System | Medium | [#682](https://github.com/HarshS16/Civix/issues/682) |
-| Emergency | Medium | [#681](https://github.com/HarshS16/Civix/pull/681) |
-| High-Fidelity Fiscal Analytics & KPI Computation Subsystem | Medium | [#677](https://github.com/HarshS16/Civix/issues/677) |
-| Add more Emergency numbers | Medium | [#674](https://github.com/HarshS16/Civix/issues/674) |
+| Implements advanced data visualizations and interactive analytics for the Government Schemes dashboard (`/govt-schemes`) | Medium | [#723](https://github.com/HarshS16/Civix/pull/723) |
+| Implement Advanced Data Visualizations for Government Schemes Dashboard | Medium | [#722](https://github.com/HarshS16/Civix/issues/722) |
+| Transforms the **Electricity** page (`/electricity`) from a basic status view into a **real-time, interactive analytics dashboard** for electricity and water utilities | Medium | [#721](https://github.com/HarshS16/Civix/pull/721) |
+| Electricity Page Enhancement: Advanced Real-Time Visualizations & Analytics Dashboard | Medium | [#720](https://github.com/HarshS16/Civix/issues/720) |
+| Transforms the SDRF page from a basic CSV table display into a comprehensive government data analytics dashboard with advanced visualizations, interactive charts, and actionable insights | Medium | [#719](https://github.com/HarshS16/Civix/pull/719) |
+| SDRF Page Enhancement: Advanced Government Data Visualizations & Analytics Dashboard | Medium | [#718](https://github.com/HarshS16/Civix/issues/718) |
+| Comprehensive **Financial Analytics Dashboard** for the Budget page, transforming it from a basic CSV data table into an advanced, interactive financial visualization platform | Medium | [#717](https://github.com/HarshS16/Civix/pull/717) |
+| Budget Page Enhancement: Advanced Financial Visualizations & Analytics Dashboard | Medium | [#716](https://github.com/HarshS16/Civix/issues/716) |
+| Comprehensive modernization of the Train page (/train) with dark theme support, pagination system, and advanced search functionality | Medium | [#715](https://github.com/HarshS16/Civix/pull/715) |
+| Train Page Enhancement: Dark Theme, Pagination & Advanced Search | Medium | [#714](https://github.com/HarshS16/Civix/issues/714) |
+| Comprehensive MongoDB connection management and error handling system for the Civix backend | Medium | [#713](https://github.com/HarshS16/Civix/pull/713) |
+| MongoDB Connection Management & Error Handling Enhancement | Medium | [#712](https://github.com/HarshS16/Civix/issues/712) |
+| Enhance Feedback Page | Medium | [#711](https://github.com/HarshS16/Civix/issues/711) |
+| Footer Design Enhancement & Performance Optimization | Medium | [#710](https://github.com/HarshS16/Civix/pull/710) |
+| Footer Design Enhancement & Performance Optimization | Medium | [#709](https://github.com/HarshS16/Civix/issues/709) |
+| Feedback Page Dark Mode Implementation - Major UI/UX Overhaul Required | Medium | [#708](https://github.com/HarshS16/Civix/issues/708) |
+| Feat: Add Custom JS Validation & Signup Redirect Link on Login Page | Medium | [#707](https://github.com/HarshS16/Civix/pull/707) |
+| Enhanced Feedback page | Medium | [#706](https://github.com/HarshS16/Civix/pull/706) |
+| Enhance Feedback Page | Medium | [#705](https://github.com/HarshS16/Civix/issues/705) |
+| Community Page Updated | Medium | [#704](https://github.com/HarshS16/Civix/pull/704) |
+| Implementation of an Indexed Search and Retrieval Subsystem within the User Dashboard for High-Performance Data Querying | Medium | [#703](https://github.com/HarshS16/Civix/issues/703) |
+| Federated Data Ingestion and Visualization Framework for State/UT-wise Educational Governance Stratification and ICT Penetration Metrics | Medium | [#702](https://github.com/HarshS16/Civix/issues/702) |
+| Multilingual Support in the SOS System | Medium | [#700](https://github.com/HarshS16/Civix/issues/700) |
+| Integration of an AirSewa Service Card into Civix Dashboard: Micro-Frontend Deployment with Low-Latency API Orchestration, Streamed Telemetry, and Resilient UI Rendering | Medium | [#692](https://github.com/HarshS16/Civix/issues/692) |
 | Ui of community holiday page | Medium | [#673](https://github.com/HarshS16/Civix/issues/673) |
-| Integration of Dynamic Theme Engine for Dark Mode in Water & Electricity Schedule/Outage Information Module | Medium | [#671](https://github.com/HarshS16/Civix/issues/671) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
-| Want to improve the features section | Medium | [#539](https://github.com/HarshS16/Civix/issues/539) |
 
 ---
 
@@ -119,6 +128,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve README.md Design and Structure | Easy | [#334](https://github.com/Muneerali199/DocMagic/issues/334) |
+| Navbar not spanning full screen width | Medium | [#335](https://github.com/Muneerali199/DocMagic/issues/335) |
 | Fix Misaligned Scroll Buttons in Mobile View | Medium | [#333](https://github.com/Muneerali199/DocMagic/issues/333) |
 | Profile Sections Need a Stylish Modern Look [OSCI'25] | Medium | [#332](https://github.com/Muneerali199/DocMagic/issues/332) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
@@ -134,7 +145,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | issue create automate merge added | Medium | [#312](https://github.com/Muneerali199/DocMagic/pull/312) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
 | feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
-| Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 
 ---
 
@@ -331,29 +341,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(ui): correct password visibility toggle logic on Sign Up page | Easy | [#89](https://github.com/Promptzy/Nexara/pull/89) |
+| design | Easy | [#86](https://github.com/Promptzy/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
-| Dark Mode / Theme Customization for Nexara Dashboard | Medium | [#85](https://github.com/Promptzy/Nexara/issues/85) |
-| Want to add security.md file | Medium | [#83](https://github.com/Promptzy/Nexara/issues/83) |
-| 🎨 Design and Implement Nexara - an Automated AI Project Management Tool Logo Variants and Asset Structure | Medium | [#82](https://github.com/Promptzy/Nexara/issues/82) |
-| Issue and ticket API | Hard | [#84](https://github.com/Promptzy/Nexara/pull/84) |
-
----
-
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Task: Update documentation for setup instructions | Easy | [#89](https://github.com/SandeepVashishtha/Eventra/issues/89) |
 
 ---
 
@@ -395,10 +385,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Ai powered flashcard | Medium | [#116](https://github.com/vatsal-bhakodia/smriti-ai/pull/116) |
-| AI-Powered Flashcard Generation & Workspace Improvements | Medium | [#115](https://github.com/vatsal-bhakodia/smriti-ai/issues/115) |
 | Added dynamic metadata generation per page instead of hardcoded values | Medium | [#114](https://github.com/vatsal-bhakodia/smriti-ai/pull/114) |
-| Add a "Cursor Trail Effect " Matching to the Website | Medium | [#111](https://github.com/vatsal-bhakodia/smriti-ai/issues/111) |
-| feat: add Contentful-powered blogs page with dynamic routing and types | Medium | [#108](https://github.com/vatsal-bhakodia/smriti-ai/pull/108) |
 | AI Flashcards: Generate decks from YouTube, PDFs, and Notes + Review (SRS) + Export (TXT/CSV) + Notes input | Medium | [#99](https://github.com/vatsal-bhakodia/smriti-ai/pull/99) |
 
 ---
