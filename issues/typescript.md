@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Courses not rendering in categories (always empty) | Medium | [#226](https://github.com/iaadillatif/techxninjas-client/issues/226) |
 | Added the Resume Builder Feature | Medium | [#225](https://github.com/iaadillatif/techxninjas-client/pull/225) |
 | FIX: did comment in envlocal | Medium | [#224](https://github.com/iaadillatif/techxninjas-client/pull/224) |
 | 🛠Fix : Make footer copyright year dynamic | Medium | [#223](https://github.com/iaadillatif/techxninjas-client/pull/223) |
@@ -34,7 +35,6 @@
 | UI/UX Improvements for Better User Experience | Medium | [#194](https://github.com/iaadillatif/techxninjas-client/issues/194) |
 | Fix: inline ExternalLinkIcon in EventCard to resolve missing import error | Medium | [#193](https://github.com/iaadillatif/techxninjas-client/pull/193) |
 | Add logo "TX" icon to sidebar | Medium | [#192](https://github.com/iaadillatif/techxninjas-client/issues/192) |
-| Add Keyboard Accessibility Support for Modal Navigation & Close Actions | Medium | [#191](https://github.com/iaadillatif/techxninjas-client/issues/191) |
 | added chatbot | Hard | [#205](https://github.com/iaadillatif/techxninjas-client/pull/205) |
 
 ---
@@ -61,6 +61,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 8/24/2025 | Medium | [#385](https://github.com/abhisek2004/Dev-Elevate/issues/385) |
 | 📊 Weekly Project Summary - 8/23/2025 | Medium | [#382](https://github.com/abhisek2004/Dev-Elevate/issues/382) |
 | Replace Mock Functionality | Medium | [#373](https://github.com/abhisek2004/Dev-Elevate/pull/373) |
 | Replace Mock Data with Real Backend Integration in Coding Platform | Medium | [#372](https://github.com/abhisek2004/Dev-Elevate/pull/372) |
@@ -81,6 +82,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement in header links in light mode | Medium | [#2126](https://github.com/OWASP/Nest/issues/2126) |
+| fixes #2124: Refactored environment variable handling from credentials.ts to env.server.ts and env.client.ts | Medium | [#2125](https://github.com/OWASP/Nest/pull/2125) |
 | configure lighthouse for local development/testing | Medium | [#2122](https://github.com/OWASP/Nest/pull/2122) |
 | Update the SECURITY.md file | Medium | [#2118](https://github.com/OWASP/Nest/issues/2118) |
 | Implement Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
@@ -170,6 +173,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | <Improve the community highlight section> | Easy | [#429](https://github.com/divi-24/SheSync/issues/429) |
+| GSSOC'25|Contributor | Medium | [#443](https://github.com/divi-24/SheSync/issues/443) |
 | Fixed dark mode UI bugs in Health and Ovulation sections. | Medium | [#442](https://github.com/divi-24/SheSync/pull/442) |
 | Diet-Plan page is not compatable with light theme and also email section in shop page and login/create account is not compatable for dark theme and search bars in the some of pages not compatable for light theme | Medium | [#441](https://github.com/divi-24/SheSync/issues/441) |
 | Update CONTRIBUTING.md with beginner-friendly guide | Medium | [#440](https://github.com/divi-24/SheSync/pull/440) |
@@ -317,6 +321,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| contribution  guidance on how to contribute to a open source project. | Medium | [#21](https://github.com/Anjaliavv51/TuneCrate/issues/21) |
+| Code of Conduct | Medium | [#20](https://github.com/Anjaliavv51/TuneCrate/issues/20) |
 | Add CODE_OF_CONDUCT.md file | Medium | [#18](https://github.com/Anjaliavv51/TuneCrate/issues/18) |
 | MIT License | Medium | [#17](https://github.com/Anjaliavv51/TuneCrate/issues/17) |
 | Update README File for TuneCrate 🎵 | Medium | [#16](https://github.com/Anjaliavv51/TuneCrate/issues/16) |
@@ -396,11 +402,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat/contact-page | Medium | [#154](https://github.com/Richajaishwal0/Trip_assistant/pull/154) |
+| "Add Privacy Policy Page" #146 | Medium | [#153](https://github.com/Richajaishwal0/Trip_assistant/pull/153) |
+| Enhance Trip Budget Estimator: Extra Expenses, Currency Conversion, and Dark Mode Support | Medium | [#152](https://github.com/Richajaishwal0/Trip_assistant/pull/152) |
+| Remove duplicate icon in client/index.html | Medium | [#151](https://github.com/Richajaishwal0/Trip_assistant/issues/151) |
+| refactored backend config file structure and modified code to absolute uploads directory path | Medium | [#150](https://github.com/Richajaishwal0/Trip_assistant/pull/150) |
 | used base env variables, removed redundant mongoDB code file | Medium | [#149](https://github.com/Richajaishwal0/Trip_assistant/pull/149) |
 | Modified the authentication part on client side using zod and react-hook-form for readable and maintainable code, added the VerifyToken endpoint and Context Api To manage the global state of user Loggedin state to manage the user flow of login and signup and logout and prevent unauthenticated users to got to certain pages. | Medium | [#148](https://github.com/Richajaishwal0/Trip_assistant/pull/148) |
-| "Add Privacy Policy Page" | Medium | [#147](https://github.com/Richajaishwal0/Trip_assistant/pull/147) |
 | "Add Privacy Policy Page" | Medium | [#146](https://github.com/Richajaishwal0/Trip_assistant/issues/146) |
-| Feat/contact us | Medium | [#145](https://github.com/Richajaishwal0/Trip_assistant/pull/145) |
 | "Add Contact Us Page" | Medium | [#144](https://github.com/Richajaishwal0/Trip_assistant/issues/144) |
 | Add user management routes for finding, updating, and deleting users | Medium | [#143](https://github.com/Richajaishwal0/Trip_assistant/pull/143) |
 | Fix footer social links  #139 | Medium | [#142](https://github.com/Richajaishwal0/Trip_assistant/pull/142) |
@@ -411,7 +420,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Feature Request: Authentication Middleware & Conditional Rendering of Auth Buttons | Medium | [#135](https://github.com/Richajaishwal0/Trip_assistant/issues/135) |
 | UI: Improved Home & Places pages (chatbot, ratings, CSS fixes) | Medium | [#134](https://github.com/Richajaishwal0/Trip_assistant/pull/134) |
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
-| Fix search functionality to filter elements correctly | Medium | [#131](https://github.com/Richajaishwal0/Trip_assistant/issues/131) |
 | Remove unwanted white space from navbar | Medium | [#130](https://github.com/Richajaishwal0/Trip_assistant/issues/130) |
 | issue  create automate message added | Medium | [#129](https://github.com/Richajaishwal0/Trip_assistant/pull/129) |
 | budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
@@ -419,8 +427,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | feat: complete UI overhaul - fix navigation visibility, add theme sup… | Medium | [#125](https://github.com/Richajaishwal0/Trip_assistant/pull/125) |
 | add pull request template for contributions ✅ | Medium | [#124](https://github.com/Richajaishwal0/Trip_assistant/pull/124) |
 | feat: Add Ctrl+Enter/Cmd+Enter keyboard shortcut to chatbot | Medium | [#121](https://github.com/Richajaishwal0/Trip_assistant/pull/121) |
-| Fixed chatbot nlp integrated with gemini flash 1.5 | Medium | [#120](https://github.com/Richajaishwal0/Trip_assistant/pull/120) |
-| added gemeini powered trip buget estimator with server and client work | Medium | [#119](https://github.com/Richajaishwal0/Trip_assistant/pull/119) |
 
 ---
 
@@ -500,7 +506,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Create User Dashboard with Profile and Stats Sections | Medium | [#37](https://github.com/karmveershubham/CodeStreak/issues/37) |
 | To added your Github link in navbar section | Medium | [#33](https://github.com/karmveershubham/CodeStreak/issues/33) |
 | Add tooltip on "Settings" icon in dashboard | Medium | [#24](https://github.com/karmveershubham/CodeStreak/issues/24) |
-| Feature: Add Streak Reset Reminder Notification | Medium | [#1](https://github.com/karmveershubham/CodeStreak/issues/1) |
 
 ---
 
@@ -546,10 +551,13 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: addPayment | Easy | [#88](https://github.com/sristy17/next-payroll/issues/88) |
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Made hardcoded values dynamic | Medium | [#85](https://github.com/sristy17/next-payroll/pull/85) |
+| Keep nav visible on Help page and make "Contact Us" button functional | Medium | [#91](https://github.com/sristy17/next-payroll/issues/91) |
+| feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
+| feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
 
 ---
 
@@ -567,7 +575,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor the code, Fixed the JWT auth issue | Medium | [#184](https://github.com/SurajSG23/PrepBuddy/pull/184) |
+| resolved some conflicts | Medium | [#191](https://github.com/SurajSG23/PrepBuddy/pull/191) |
 
 ---
 
@@ -589,7 +597,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | modified model selection in chat page | Medium | [#109](https://github.com/yashvikram30/legalease/pull/109) |
 | Resources, and Company Links Unresponsive/Incorrectly Redirecte | Medium | [#108](https://github.com/yashvikram30/legalease/issues/108) |
 | Fix Response Handling & Add Input Validation | Medium | [#107](https://github.com/yashvikram30/legalease/issues/107) |
-| Fixing the document-simplifier not working in deployment | Medium | [#106](https://github.com/yashvikram30/legalease/pull/106) |
 | feat: add route-keyed page transitions with Framer Motion | Medium | [#100](https://github.com/yashvikram30/legalease/pull/100) |
 | Implement Route-Keyed Page Transitions with Framer Motion | Medium | [#99](https://github.com/yashvikram30/legalease/issues/99) |
 | fix #97: removed process.exit(1) to save server crash during invalid DB connection fails | Medium | [#98](https://github.com/yashvikram30/legalease/pull/98) |
@@ -605,6 +612,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | refactor: improve Terms & Privacy line styling on signup page | Medium | [#66](https://github.com/yashvikram30/legalease/pull/66) |
 | Revamp Dark Mode – UI/UX Enhancements | Medium | [#59](https://github.com/yashvikram30/legalease/pull/59) |
 | fixes : dark theme | Medium | [#58](https://github.com/yashvikram30/legalease/pull/58) |
+| Unclear Password Placeholders on Login/Signup Pages | Medium | [#55](https://github.com/yashvikram30/legalease/issues/55) |
 
 ---
 
@@ -622,6 +630,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
@@ -661,6 +670,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add open-telemetry | Easy | [#65](https://github.com/IntegerAlex/fingerprint-oss/issues/65) |
+| feat: Implement Back to Top button (#66) | Medium | [#67](https://github.com/IntegerAlex/fingerprint-oss/pull/67) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | feat : Added in config version == 'Test' | Medium | [#45](https://github.com/IntegerAlex/fingerprint-oss/pull/45) |
 | Add Toggle button for dark and light mode | Medium | [#43](https://github.com/IntegerAlex/fingerprint-oss/issues/43) |
@@ -769,6 +779,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| resolved the export csv for android 13+ | Medium | [#144](https://github.com/Loop-Hive/ScheduleX/pull/144) |
 | Implemented the gif in the Readme | Medium | [#143](https://github.com/Loop-Hive/ScheduleX/pull/143) |
 | Ask Export Location before Saving CSV | Medium | [#141](https://github.com/Loop-Hive/ScheduleX/issues/141) |
 | Improve the UI of Settings Page | Medium | [#136](https://github.com/Loop-Hive/ScheduleX/issues/136) |
