@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added the toggle button for light and dark theme change | Medium | [#41](https://github.com/kanikaa-3018/contest_onlinejudge/pull/41) |
 | Peer Room Chat + Collaboration | Medium | [#40](https://github.com/kanikaa-3018/contest_onlinejudge/issues/40) |
 | fix: Dark/Light Mode Toggle Implementation | Medium | [#39](https://github.com/kanikaa-3018/contest_onlinejudge/pull/39) |
 | improvement needed in dashboard section | Medium | [#38](https://github.com/kanikaa-3018/contest_onlinejudge/issues/38) |
