@@ -18,6 +18,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Update Services navbar link to navigate to dedicated services page | Medium | [#334](https://github.com/gyanshankar1708/GrowCraft/pull/334) |
+| Add Missing Scroll-to-Top Functionality Across All Pages | Medium | [#333](https://github.com/gyanshankar1708/GrowCraft/issues/333) |
+| Bug Report: Inconsistent Footer Design on Contact Page | Medium | [#332](https://github.com/gyanshankar1708/GrowCraft/issues/332) |
+| Bug Report: Inconsistent Navbar and Logo Visibility on Digital Marketing Page | Medium | [#331](https://github.com/gyanshankar1708/GrowCraft/issues/331) |
+| Bug Report: Underline appearing on service titles (UI issue) | Medium | [#330](https://github.com/gyanshankar1708/GrowCraft/issues/330) |
 | Added Social media Icon | Medium | [#329](https://github.com/gyanshankar1708/GrowCraft/pull/329) |
 | "Our Work" button in the homepage navbar is non-functional | Medium | [#328](https://github.com/gyanshankar1708/GrowCraft/issues/328) |
 | Footer section on "Contact Us" page is misaligned and lacks proper styling | Medium | [#327](https://github.com/gyanshankar1708/GrowCraft/issues/327) |
@@ -48,8 +53,13 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
-| Fix filter section visibility in marketplace section | Medium | [#86](https://github.com/Pujan-sarkar/FARMLOC/issues/86) |
-| Implement a Cart Page in FARMLOC where users can view, manage, and proceed with the products they have added to their cart while shopping in the marketplace. #OSCI | Medium | [#85](https://github.com/Pujan-sarkar/FARMLOC/issues/85) |
+| Add "Back to Top" button | Medium | [#103](https://github.com/Pujan-sarkar/FARMLOC/issues/103) |
+| Footer navigation links not working | Medium | [#102](https://github.com/Pujan-sarkar/FARMLOC/issues/102) |
+| <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
+| ChatBot Integration | Medium | [#100](https://github.com/Pujan-sarkar/FARMLOC/issues/100) |
+| Dark mode not applying on login page | Medium | [#99](https://github.com/Pujan-sarkar/FARMLOC/issues/99) |
+| <short summary> Image overlapping text in content section | Medium | [#97](https://github.com/Pujan-sarkar/FARMLOC/issues/97) |
+| feat: Add Geolocation + Interactive Map for Cold Storage Locations | Medium | [#90](https://github.com/Pujan-sarkar/FARMLOC/pull/90) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
 | fix: improve text visibility and placeholder styling on login & signup pages | Medium | [#79](https://github.com/Pujan-sarkar/FARMLOC/pull/79) |
 
@@ -70,6 +80,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Navbar Mobile View Overflow | Easy | [#216](https://github.com/sachiva1/sachiva/issues/216) |
+| Fix content alignment on About Us page (#217) | Medium | [#226](https://github.com/sachiva1/sachiva/pull/226) |
+| Solved #208 PR With UI/UX Changes | Medium | [#225](https://github.com/sachiva1/sachiva/pull/225) |
 | forum.html Footer Missing or Visually Inconsistent | Medium | [#224](https://github.com/sachiva1/sachiva/issues/224) |
 | portfolio.html Footer Not Responsive on Small Screens | Medium | [#223](https://github.com/sachiva1/sachiva/issues/223) |
 | blog.html Footer Not Responsive on Small Screens | Medium | [#222](https://github.com/sachiva1/sachiva/issues/222) |
