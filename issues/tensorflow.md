@@ -100,7 +100,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add "Back to top " button in README.md file | Medium | [#51](https://github.com/AditixAnand/Garbage_Classification/pull/51) |
 | Missing model_efficientnet.h5 file needed to run the project | Medium | [#38](https://github.com/AditixAnand/Garbage_Classification/issues/38) |
 
 ---
