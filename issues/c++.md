@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| contributing | Medium | [#84](https://github.com/Dipanita45/HEALCONNECT/issues/84) |
+| fixes ui/ux code | Medium | [#83](https://github.com/Dipanita45/HEALCONNECT/pull/83) |
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
@@ -38,7 +40,6 @@
 | issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
 | create_fcm_provider | Medium | [#128](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/128) |
 | Delete provider function | Medium | [#127](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/127) |
-| getProvider function | Medium | [#124](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/124) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
 | feat: update documents | Medium | [#45](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/45) |
