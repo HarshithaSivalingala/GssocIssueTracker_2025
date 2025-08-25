@@ -44,15 +44,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Make navigation bars consistent across the website | Medium | [#446](https://github.com/Bhavya1352/eventmappr/issues/446) |
-| Aboutdark | Medium | [#445](https://github.com/Bhavya1352/eventmappr/pull/445) |
-| Cookieui | Medium | [#444](https://github.com/Bhavya1352/eventmappr/pull/444) |
-| Darkonlets | Medium | [#443](https://github.com/Bhavya1352/eventmappr/pull/443) |
-| Dark mode issue on about page | Medium | [#439](https://github.com/Bhavya1352/eventmappr/issues/439) |
-| Cookie Policy ui page | Medium | [#438](https://github.com/Bhavya1352/eventmappr/issues/438) |
+| Create Routes for Event Controller | Medium | [#447](https://github.com/Bhavya1352/eventmappr/issues/447) |
 | Nearby page dark theme not applying to middle section | Medium | [#411](https://github.com/Bhavya1352/eventmappr/issues/411) |
 | feat: add search, category filter, and sorting to TouristPlacesPage | Medium | [#376](https://github.com/Bhavya1352/eventmappr/pull/376) |
 | Adjust padding in event tiles for smaller screens | Medium | [#367](https://github.com/Bhavya1352/eventmappr/issues/367) |
+| Intelligent Chatbot Integration for EventMappr – Enhancing User Support & Interaction | Medium | [#300](https://github.com/Bhavya1352/eventmappr/issues/300) |
 
 ---
 
@@ -231,7 +227,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Pre-loader conflict resolved | Medium | [#161](https://github.com/aayushraj1010/med-genie/pull/161) |
 | issue create automate message added | Medium | [#160](https://github.com/aayushraj1010/med-genie/pull/160) |
 | fix: improved the clear Button label to Reset #130 | Medium | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
@@ -258,27 +253,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Readme along gssoc logo | Medium | [#216](https://github.com/AditiGupta-tech/neonest/pull/216) |
+| Growth carousel enhancement fixes:#143 | Medium | [#214](https://github.com/AditiGupta-tech/neonest/pull/214) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 | Complete Dark Mode Feature Implementation with Consistent Styling | Medium | [#175](https://github.com/AditiGupta-tech/neonest/issues/175) |
-
----
-
-## 📌 Project: DevNotes
-
-📝 **Description:** DevNotes is a structured and beautifully designed learning hub for mastering full-stack web development. It covers everything from Frontend (HTML, CSS, JavaScript, React, Tailwind CSS) and Backend (Node.js, Express, MongoDB) to Deployment strategies and Miscellaneous dev topics.
-
-🔗 [View Project](https://github.com/Amarjha01/DevNotes)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Framer Motion, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| added ml/ai prepsheet | Medium | [#122](https://github.com/Amarjha01/DevNotes/pull/122) |
-| Feature req: add roadmap page for frontend section. | Medium | [#121](https://github.com/Amarjha01/DevNotes/issues/121) |
 
 ---
 
@@ -407,8 +385,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Google Sign-in Sign-up method | Medium | [#156](https://github.com/dipexplorer/LegalHuB/pull/156) |
-| Enhancement: Enhance Footer Design, UX & Accessibility | Medium | [#155](https://github.com/dipexplorer/LegalHuB/pull/155) |
 | Improve UI of Main Landing Page for Better Accessibility and Visual Appeal | Medium | [#110](https://github.com/dipexplorer/LegalHuB/issues/110) |
 
 ---
@@ -457,7 +433,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Created and Added a logo on navbar,footer and Favicon. | Medium | [#61](https://github.com/lovelymahor/StudyMatePlus/pull/61) |
-| Enhance Subject Filter and Download Functionality in Analytics Component | Medium | [#59](https://github.com/lovelymahor/StudyMatePlus/pull/59) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Feature :Added the Mindmaps Section | Medium | [#55](https://github.com/lovelymahor/StudyMatePlus/pull/55) |
 | bug:Hero section text cutoff on mobile view | Medium | [#51](https://github.com/lovelymahor/StudyMatePlus/issues/51) |
@@ -481,9 +456,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(ui): correct password visibility toggle logic on Sign Up page | Easy | [#89](https://github.com/Promptzy/Nexara/pull/89) |
-| design | Easy | [#86](https://github.com/Promptzy/Nexara/pull/86) |
-| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
+| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
 
 ---
 
