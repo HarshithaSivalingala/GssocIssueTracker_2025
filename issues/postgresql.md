@@ -83,32 +83,36 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implements advanced data visualizations and interactive analytics for the Government Schemes dashboard (`/govt-schemes`) | Medium | [#723](https://github.com/HarshS16/Civix/pull/723) |
-| Implement Advanced Data Visualizations for Government Schemes Dashboard | Medium | [#722](https://github.com/HarshS16/Civix/issues/722) |
-| Transforms the **Electricity** page (`/electricity`) from a basic status view into a **real-time, interactive analytics dashboard** for electricity and water utilities | Medium | [#721](https://github.com/HarshS16/Civix/pull/721) |
-| Electricity Page Enhancement: Advanced Real-Time Visualizations & Analytics Dashboard | Medium | [#720](https://github.com/HarshS16/Civix/issues/720) |
-| Transforms the SDRF page from a basic CSV table display into a comprehensive government data analytics dashboard with advanced visualizations, interactive charts, and actionable insights | Medium | [#719](https://github.com/HarshS16/Civix/pull/719) |
-| SDRF Page Enhancement: Advanced Government Data Visualizations & Analytics Dashboard | Medium | [#718](https://github.com/HarshS16/Civix/issues/718) |
-| Comprehensive **Financial Analytics Dashboard** for the Budget page, transforming it from a basic CSV data table into an advanced, interactive financial visualization platform | Medium | [#717](https://github.com/HarshS16/Civix/pull/717) |
-| Budget Page Enhancement: Advanced Financial Visualizations & Analytics Dashboard | Medium | [#716](https://github.com/HarshS16/Civix/issues/716) |
-| Comprehensive modernization of the Train page (/train) with dark theme support, pagination system, and advanced search functionality | Medium | [#715](https://github.com/HarshS16/Civix/pull/715) |
-| Train Page Enhancement: Dark Theme, Pagination & Advanced Search | Medium | [#714](https://github.com/HarshS16/Civix/issues/714) |
-| Comprehensive MongoDB connection management and error handling system for the Civix backend | Medium | [#713](https://github.com/HarshS16/Civix/pull/713) |
-| MongoDB Connection Management & Error Handling Enhancement | Medium | [#712](https://github.com/HarshS16/Civix/issues/712) |
-| Enhance Feedback Page | Medium | [#711](https://github.com/HarshS16/Civix/issues/711) |
-| Footer Design Enhancement & Performance Optimization | Medium | [#710](https://github.com/HarshS16/Civix/pull/710) |
-| Footer Design Enhancement & Performance Optimization | Medium | [#709](https://github.com/HarshS16/Civix/issues/709) |
-| Feedback Page Dark Mode Implementation - Major UI/UX Overhaul Required | Medium | [#708](https://github.com/HarshS16/Civix/issues/708) |
-| Feat: Add Custom JS Validation & Signup Redirect Link on Login Page | Medium | [#707](https://github.com/HarshS16/Civix/pull/707) |
-| Enhanced Feedback page | Medium | [#706](https://github.com/HarshS16/Civix/pull/706) |
-| Enhance Feedback Page | Medium | [#705](https://github.com/HarshS16/Civix/issues/705) |
-| Community Page Updated | Medium | [#704](https://github.com/HarshS16/Civix/pull/704) |
-| Implementation of an Indexed Search and Retrieval Subsystem within the User Dashboard for High-Performance Data Querying | Medium | [#703](https://github.com/HarshS16/Civix/issues/703) |
-| Federated Data Ingestion and Visualization Framework for State/UT-wise Educational Governance Stratification and ICT Penetration Metrics | Medium | [#702](https://github.com/HarshS16/Civix/issues/702) |
-| Multilingual Support in the SOS System | Medium | [#700](https://github.com/HarshS16/Civix/issues/700) |
-| Integration of an AirSewa Service Card into Civix Dashboard: Micro-Frontend Deployment with Low-Latency API Orchestration, Streamed Telemetry, and Resilient UI Rendering | Medium | [#692](https://github.com/HarshS16/Civix/issues/692) |
-| Ui of community holiday page | Medium | [#673](https://github.com/HarshS16/Civix/issues/673) |
-| fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
+| High-Fidelity UI Overhaul for Water & Electricity Scheduling with Progressive Data Visualization and Atomic Component Architecture | Medium | [#794](https://github.com/HarshS16/Civix/issues/794) |
+| Performance-Centric Redesign of Traffic Fines & Vehicle Info Page with Modular Architecture and GPU-Optimized Interaction and Visualization Pipeline | Medium | [#793](https://github.com/HarshS16/Civix/issues/793) |
+| Deterministic and Modular UI Revamp of Government Schemes with Progressive Rendering and Interaction-Driven Micro-Architecture | Medium | [#792](https://github.com/HarshS16/Civix/issues/792) |
+| High-Fidelity UI Overhaul for Election & Governance Module with Progressive Data Visualization and Atomic Component Architecture | Medium | [#791](https://github.com/HarshS16/Civix/issues/791) |
+| Performance-Centric Redesign of Civic Stats Module Leveraging Modular Architecture and GPU-Optimized Interaction and Visualization Pipeline | Medium | [#790](https://github.com/HarshS16/Civix/issues/790) |
+| High-Fidelity UI Overhaul for Public Transport with Progressive Rendering, Atomic Component Architecture, and Real-Time Data Hydration | Medium | [#789](https://github.com/HarshS16/Civix/issues/789) |
+| High-Performance Interactive Interface Redesign for Community Holidays with GPU-Accelerated Transitions | Medium | [#788](https://github.com/HarshS16/Civix/issues/788) |
+| Next-Generation UI Modernization for Lost and Found Module with Modular Component Architecture | Medium | [#787](https://github.com/HarshS16/Civix/issues/787) |
+| UI Overhaul of Nearby Service for High-Precision Rendering and Improved Usability | Medium | [#786](https://github.com/HarshS16/Civix/issues/786) |
+| Scalable UI Enhancement of Chat Room with Dynamic State Management and Visual Consistency | Medium | [#785](https://github.com/HarshS16/Civix/issues/785) |
+| Deterministic & Adaptive UI Overhaul of Resources Page with Optimized Rendering Stack | Medium | [#784](https://github.com/HarshS16/Civix/issues/784) |
+| Architectural Revamp of Community Voting Interface with Dynamic Rendering and State Synchronization | Medium | [#783](https://github.com/HarshS16/Civix/issues/783) |
+| High-Throughput Virtual DOM Diffing and Concurrent UI Composition for Contact Us Module | Medium | [#782](https://github.com/HarshS16/Civix/issues/782) |
+| Deployment of Deterministic and Adaptive My Complains Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline | Medium | [#781](https://github.com/HarshS16/Civix/pull/781) |
+| Deterministic and Adaptive Profile Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline | Medium | [#780](https://github.com/HarshS16/Civix/issues/780) |
+| Deployment of deterministic and Adaptive My Complains Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline | Medium | [#779](https://github.com/HarshS16/Civix/pull/779) |
+| Deterministic and Adaptive My Complains Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline | Medium | [#778](https://github.com/HarshS16/Civix/issues/778) |
+| Deployment of deterministic and Adaptive File a Complaint Page with Context-Driven Form Management and GPU-Accelerated Interaction Pipeline | Medium | [#777](https://github.com/HarshS16/Civix/pull/777) |
+| Deterministic and Adaptive File a Complaint Page with Context-Driven Form Management and GPU-Accelerated Interaction Pipeline | Medium | [#776](https://github.com/HarshS16/Civix/issues/776) |
+| Implmentation of Profile Setup Module with Adaptive Breakpoints, Context-Driven Form Logic, and Deterministic Rendering Pipeline | Medium | [#775](https://github.com/HarshS16/Civix/pull/775) |
+| Profile Setup Module with Adaptive Breakpoints, Context-Driven Form Logic, and Deterministic Rendering Pipeline | Medium | [#774](https://github.com/HarshS16/Civix/issues/774) |
+| Deployment of Geospatial UI Rendering Overhaul for User Map Module | Medium | [#773](https://github.com/HarshS16/Civix/pull/773) |
+| Geospatial UI Rendering Overhaul for User Map Module | Medium | [#772](https://github.com/HarshS16/Civix/issues/772) |
+| Deployment of adaptive Feedback Module with Progressive Rendering and Accessibility-Driven Layout Architecture | Medium | [#771](https://github.com/HarshS16/Civix/pull/771) |
+| UI/UX Overhaul: Adaptive Feedback Module with Progressive Rendering and Accessibility-Driven Layout Architecture | Medium | [#770](https://github.com/HarshS16/Civix/issues/770) |
+| Implementation of deterministic Dark Mode Integration with Lifecycle-Safe State Hydration and Scoped Theme Propagation in School Page Module | Medium | [#769](https://github.com/HarshS16/Civix/pull/769) |
+| State-Orchestrated Dark Mode Deployment with Reconciliation-Safe Theme Rendering Pipeline in School Page | Medium | [#768](https://github.com/HarshS16/Civix/issues/768) |
+| Enhanced Feedback system | Medium | [#767](https://github.com/HarshS16/Civix/pull/767) |
+| Deployment of reactive Dark Mode Implementation with Deterministic State Hydration and Lifecycle-Safe Theme Propagation in Air Seva Module | Medium | [#766](https://github.com/HarshS16/Civix/pull/766) |
+| Reactive Dark Mode Implementation with Deterministic State Hydration and Lifecycle-Safe Theme Propagation in Air Seva Module | Medium | [#765](https://github.com/HarshS16/Civix/issues/765) |
 
 ---
 
@@ -129,6 +133,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve README.md Design and Structure | Easy | [#334](https://github.com/Muneerali199/DocMagic/issues/334) |
+| hover effect in the customer love section. | Medium | [#337](https://github.com/Muneerali199/DocMagic/issues/337) |
+| Debounced Autosave with exit save | Medium | [#336](https://github.com/Muneerali199/DocMagic/pull/336) |
 | Navbar not spanning full screen width | Medium | [#335](https://github.com/Muneerali199/DocMagic/issues/335) |
 | Fix Misaligned Scroll Buttons in Mobile View | Medium | [#333](https://github.com/Muneerali199/DocMagic/issues/333) |
 | Profile Sections Need a Stylish Modern Look [OSCI'25] | Medium | [#332](https://github.com/Muneerali199/DocMagic/issues/332) |
@@ -144,7 +150,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
 | issue create automate merge added | Medium | [#312](https://github.com/Muneerali199/DocMagic/pull/312) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
-| feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
 
 ---
 
@@ -163,6 +168,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
 | Added profile delete feature | Medium | [#82](https://github.com/Er-luffy-D/SimplifAI/pull/82) |
 | Vmpranav/rag implementation | Medium | [#76](https://github.com/Er-luffy-D/SimplifAI/pull/76) |
@@ -341,9 +347,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(ui): correct password visibility toggle logic on Sign Up page | Easy | [#89](https://github.com/Promptzy/Nexara/pull/89) |
-| design | Easy | [#86](https://github.com/Promptzy/Nexara/pull/86) |
-| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
+| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
 
 ---
 
@@ -384,9 +389,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Ai powered flashcard | Medium | [#116](https://github.com/vatsal-bhakodia/smriti-ai/pull/116) |
+| Enhancement: Comprehensive Accessibility Improvements | Medium | [#124](https://github.com/vatsal-bhakodia/smriti-ai/issues/124) |
+| added PDF summarize feature | Medium | [#123](https://github.com/vatsal-bhakodia/smriti-ai/pull/123) |
+| Updated Readme | Medium | [#121](https://github.com/vatsal-bhakodia/smriti-ai/pull/121) |
+| Refactor: Implement Adaptive Quiz and Topic Progress | Medium | [#120](https://github.com/vatsal-bhakodia/smriti-ai/pull/120) |
 | Added dynamic metadata generation per page instead of hardcoded values | Medium | [#114](https://github.com/vatsal-bhakodia/smriti-ai/pull/114) |
-| AI Flashcards: Generate decks from YouTube, PDFs, and Notes + Review (SRS) + Export (TXT/CSV) + Notes input | Medium | [#99](https://github.com/vatsal-bhakodia/smriti-ai/pull/99) |
 
 ---
 
