@@ -106,9 +106,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(ui): correct password visibility toggle logic on Sign Up page | Easy | [#89](https://github.com/Promptzy/Nexara/pull/89) |
-| design | Easy | [#86](https://github.com/Promptzy/Nexara/pull/86) |
-| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
+| design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
+| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
 
 ---
 
