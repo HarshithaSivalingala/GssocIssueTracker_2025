@@ -125,6 +125,7 @@ User Profile: BMI calculator and fitness analytics.
 | [UPLOAD PAGE] EDIT WALLPAPER BUTTON | Easy | [#46](https://github.com/sayan0328/WallGodds-App/issues/46) |
 | [UPLOAD PAGE] INSTRUCTIONAL SNACKBAR | Easy | [#45](https://github.com/sayan0328/WallGodds-App/issues/45) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
+| Update: revamp upload popup UI | Medium | [#48](https://github.com/sayan0328/WallGodds-App/pull/48) |
 
 ---
 
@@ -160,10 +161,12 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implemented ReviewScreen | Medium | [#387](https://github.com/yuvrajsinghgmx/ShopSmart/pull/387) |
+| Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Firestore Implementation | Medium | [#379](https://github.com/yuvrajsinghgmx/ShopSmart/issues/379) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
+| Improve styling and add ShopSmart Logo | Medium | [#355](https://github.com/yuvrajsinghgmx/ShopSmart/issues/355) |
+| Introduce Email and Password Login through Firebase | Medium | [#354](https://github.com/yuvrajsinghgmx/ShopSmart/issues/354) |
 | Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
