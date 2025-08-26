@@ -23,6 +23,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Add Notifications for New Mentor Signups | Medium | [#58](https://github.com/Menthub-GSSoC/Menthub/issues/58) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
@@ -120,9 +121,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Missing of gitignore file | Medium | [#58](https://github.com/kaushav07/VisionMate/issues/58) |
-| Clarify or remove playsound dependency | Medium | [#57](https://github.com/kaushav07/VisionMate/issues/57) |
-| Add basic OCR function using pytesseract | Medium | [#56](https://github.com/kaushav07/VisionMate/issues/56) |
-| Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
 | feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
@@ -175,11 +173,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed theme issues | Medium | [#360](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/360) |
-| Profile page not implemented | Medium | [#359](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/359) |
-| User details not getting displayed in settings page | Medium | [#358](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/358) |
-| Go to dashboard button redirecting to register page even when user is logged in | Medium | [#357](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/357) |
-| Fixed routing | Medium | [#356](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/356) |
+| Implemented the integration of frontend and backend of resume builder | Medium | [#370](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/370) |
+| remove duplicate resume builder | Medium | [#369](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/369) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -199,8 +194,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Integrating Weather API | Medium | [#196](https://github.com/omroy07/AgriTech/issues/196) |
+| not opening main page after sign-in | Medium | [#195](https://github.com/omroy07/AgriTech/issues/195) |
+| Missing files | Medium | [#194](https://github.com/omroy07/AgriTech/issues/194) |
 | Make the login page like the register and fix all the frontend bugs. | Medium | [#193](https://github.com/omroy07/AgriTech/issues/193) |
-| Fixed password toggle eye placement | Medium | [#192](https://github.com/omroy07/AgriTech/pull/192) |
 | Inconsistent Footer Across Website Pages | Medium | [#188](https://github.com/omroy07/AgriTech/issues/188) |
 | Fix the Responsiveness of the website | Medium | [#183](https://github.com/omroy07/AgriTech/issues/183) |
 | Add Firebase Config to CONTRIBUTING.md | Medium | [#170](https://github.com/omroy07/AgriTech/issues/170) |
@@ -266,7 +263,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Animate the menubar(mobile view) | Medium | [#231](https://github.com/openml-stack/SentiLog-AI/issues/231) |
-| Implement Newsletter with Full Functionality | Medium | [#230](https://github.com/openml-stack/SentiLog-AI/issues/230) |
 | Addition of automate issue create message | Medium | [#229](https://github.com/openml-stack/SentiLog-AI/issues/229) |
 | Textfield UI in News Article Content (News Section) does not match overall UI | Medium | [#228](https://github.com/openml-stack/SentiLog-AI/issues/228) |
 | Login button not match the theme and toggle button not aligned properly | Medium | [#226](https://github.com/openml-stack/SentiLog-AI/issues/226) |
@@ -305,7 +301,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| issue create automate message added | Medium | [#160](https://github.com/aayushraj1010/med-genie/pull/160) |
 | fix: improved the clear Button label to Reset #130 | Medium | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
 | Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
@@ -331,6 +326,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Contribution for a feature | Medium | [#16](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/16) |
 | Added Code of Conduct | Medium | [#11](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/11) |
 
 ---
@@ -431,8 +427,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | ISSUE: "Add" button not enabling new chat session | Easy | [#40](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/40) |
-| Added scroll-to-top button feature | Medium | [#48](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/48) |
-| FEATURE: Scroll-to-top button feature | Medium | [#47](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/47) |
+| Completed Full Homepage Design | Medium | [#49](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/49) |
 | Refactor backend into modular folder structure (Flask Blueprint Setup) | Medium | [#8](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/8) |
 
 ---
