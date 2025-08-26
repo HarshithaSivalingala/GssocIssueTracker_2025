@@ -14,11 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update owasp app event model with calendar attributes | Medium | [#2128](https://github.com/OWASP/Nest/pull/2128) |
 | Enhancement in header links in light mode | Medium | [#2126](https://github.com/OWASP/Nest/issues/2126) |
 | fixes #2124: Refactored environment variable handling from credentials.ts to env.server.ts and env.client.ts | Medium | [#2125](https://github.com/OWASP/Nest/pull/2125) |
 | configure lighthouse for local development/testing | Medium | [#2122](https://github.com/OWASP/Nest/pull/2122) |
 | Update the SECURITY.md file | Medium | [#2118](https://github.com/OWASP/Nest/issues/2118) |
-| Implement Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
+| Implemented Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
 | Nestbot MVP | Medium | [#2113](https://github.com/OWASP/Nest/pull/2113) |
 | Feature/user badge model and implement them on frontend too | Medium | [#2101](https://github.com/OWASP/Nest/pull/2101) |
 | Fix homepage container flexibility | Medium | [#2100](https://github.com/OWASP/Nest/pull/2100) |
@@ -87,9 +88,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Missing of gitignore file | Medium | [#58](https://github.com/kaushav07/VisionMate/issues/58) |
-| Clarify or remove playsound dependency | Medium | [#57](https://github.com/kaushav07/VisionMate/issues/57) |
-| Add basic OCR function using pytesseract | Medium | [#56](https://github.com/kaushav07/VisionMate/issues/56) |
-| Add mising insightface: missing depency in requirements.txt #52 | Medium | [#53](https://github.com/kaushav07/VisionMate/pull/53) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
 | feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
@@ -250,6 +248,7 @@
 |----------|----------------|---------|
 | design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Medium | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
 
 ---
 
