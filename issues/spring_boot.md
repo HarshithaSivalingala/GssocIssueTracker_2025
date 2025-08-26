@@ -48,9 +48,7 @@
 |----------|----------------|---------|
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
-| Firestore Implementation | Medium | [#379](https://github.com/yuvrajsinghgmx/ShopSmart/issues/379) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
-| Improve styling and add ShopSmart Logo | Medium | [#355](https://github.com/yuvrajsinghgmx/ShopSmart/issues/355) |
 | Introduce Email and Password Login through Firebase | Medium | [#354](https://github.com/yuvrajsinghgmx/ShopSmart/issues/354) |
 | Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
@@ -85,6 +83,25 @@
 | Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/AnshulPanwarr/g1new/issues/3) |
 | 🚫 License Missing from Repository | Medium | [#2](https://github.com/AnshulPanwarr/g1new/issues/2) |
 | Add core infrastructure: README, CI pipelines, linting, and unit test suite | Medium | [#1](https://github.com/AnshulPanwarr/g1new/issues/1) |
+
+---
+
+## 📌 Project: Hospital Management System
+
+📝 **Description:** Medimate 8.4.3 is a user-friendly healthcare application that streamlines the workflow of hospitals, clinics, and medical facilities. It efficiently manages patient information, appointments, laboratory management, and administrative tasks through its Electronic Health Record (EHR) system. The app also includes appointment scheduling, and invoicing, inventory management, and comprehensive reporting and analytics capabilities. It is web-based software, Medimate 8.4.3 can be accessed from any device with an internet connection.
+
+🔗 [View Project](https://github.com/aashut0xhkr/HMS_PRJCT.git)
+
+💻 **Tech Stack:** Core Java, Java 8, Spring Boot, Hibernate JPA, Spring Security, JWT, MySQL, RESTful Services, Git
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Docs: Update README with Concise API Endpoint Table | Medium | [#52](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/52) |
+| Enhancement: Secure API Endpoints using JWT Authentication | Medium | [#51](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/51) |
 
 ---
 
