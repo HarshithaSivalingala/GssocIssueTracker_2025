@@ -143,6 +143,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Role Selection screen design added | Medium | [#177](https://github.com/sourabhkumar47/ResQFood/pull/177) |
 | Final update for buildgradle | Medium | [#174](https://github.com/sourabhkumar47/ResQFood/pull/174) |
 
 ---
@@ -163,9 +164,7 @@ User Profile: BMI calculator and fitness analytics.
 |----------|----------------|---------|
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
-| Firestore Implementation | Medium | [#379](https://github.com/yuvrajsinghgmx/ShopSmart/issues/379) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
-| Improve styling and add ShopSmart Logo | Medium | [#355](https://github.com/yuvrajsinghgmx/ShopSmart/issues/355) |
 | Introduce Email and Password Login through Firebase | Medium | [#354](https://github.com/yuvrajsinghgmx/ShopSmart/issues/354) |
 | Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
