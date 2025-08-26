@@ -14,6 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| NEEDS A SEPARATE CODE PLAYGROUND SECTION FOR USERS TO PRACTICE CODE | Medium | [#230](https://github.com/iaadillatif/techxninjas-client/issues/230) |
+| NEEDS  A PROFESSIONAL BACKGROUNG IN ALL SECTIONS | Medium | [#229](https://github.com/iaadillatif/techxninjas-client/issues/229) |
+| Add a list of  few Hackathons , Community Events and Articles | Medium | [#228](https://github.com/iaadillatif/techxninjas-client/issues/228) |
+| loign  page is not working | Medium | [#227](https://github.com/iaadillatif/techxninjas-client/issues/227) |
 | Bug: Courses not rendering in categories (always empty) | Medium | [#226](https://github.com/iaadillatif/techxninjas-client/issues/226) |
 | Added the Resume Builder Feature | Medium | [#225](https://github.com/iaadillatif/techxninjas-client/pull/225) |
 | FIX: did comment in envlocal | Medium | [#224](https://github.com/iaadillatif/techxninjas-client/pull/224) |
@@ -31,10 +35,6 @@
 | fixed sidebar transition | Medium | [#203](https://github.com/iaadillatif/techxninjas-client/pull/203) |
 | Navbar UI improvements | Medium | [#197](https://github.com/iaadillatif/techxninjas-client/pull/197) |
 | Fix: Add Import Maps Polyfill for Older Browsers | Medium | [#196](https://github.com/iaadillatif/techxninjas-client/pull/196) |
-| fix issue 140 | Medium | [#195](https://github.com/iaadillatif/techxninjas-client/pull/195) |
-| UI/UX Improvements for Better User Experience | Medium | [#194](https://github.com/iaadillatif/techxninjas-client/issues/194) |
-| Fix: inline ExternalLinkIcon in EventCard to resolve missing import error | Medium | [#193](https://github.com/iaadillatif/techxninjas-client/pull/193) |
-| Add logo "TX" icon to sidebar | Medium | [#192](https://github.com/iaadillatif/techxninjas-client/issues/192) |
 | added chatbot | Hard | [#205](https://github.com/iaadillatif/techxninjas-client/pull/205) |
 
 ---
@@ -61,6 +61,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 8/25/2025 | Medium | [#386](https://github.com/abhisek2004/Dev-Elevate/issues/386) |
 | 📊 Weekly Project Summary - 8/24/2025 | Medium | [#385](https://github.com/abhisek2004/Dev-Elevate/issues/385) |
 | 📊 Weekly Project Summary - 8/23/2025 | Medium | [#382](https://github.com/abhisek2004/Dev-Elevate/issues/382) |
 | Replace Mock Functionality | Medium | [#373](https://github.com/abhisek2004/Dev-Elevate/pull/373) |
@@ -82,11 +83,12 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update owasp app event model with calendar attributes | Medium | [#2128](https://github.com/OWASP/Nest/pull/2128) |
 | Enhancement in header links in light mode | Medium | [#2126](https://github.com/OWASP/Nest/issues/2126) |
 | fixes #2124: Refactored environment variable handling from credentials.ts to env.server.ts and env.client.ts | Medium | [#2125](https://github.com/OWASP/Nest/pull/2125) |
 | configure lighthouse for local development/testing | Medium | [#2122](https://github.com/OWASP/Nest/pull/2122) |
 | Update the SECURITY.md file | Medium | [#2118](https://github.com/OWASP/Nest/issues/2118) |
-| Implement Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
+| Implemented Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
 | Nestbot MVP | Medium | [#2113](https://github.com/OWASP/Nest/pull/2113) |
 | Feature/user badge model and implement them on frontend too | Medium | [#2101](https://github.com/OWASP/Nest/pull/2101) |
 | Fix homepage container flexibility | Medium | [#2100](https://github.com/OWASP/Nest/pull/2100) |
@@ -402,10 +404,13 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Removed unwanted space from navbar #130 | Medium | [#161](https://github.com/Richajaishwal0/Trip_assistant/pull/161) |
+| Optimize Map Loading Performance | Medium | [#160](https://github.com/Richajaishwal0/Trip_assistant/issues/160) |
+| Fix: #155 Mobile UI/UX issues | Medium | [#158](https://github.com/Richajaishwal0/Trip_assistant/pull/158) |
+| Fix: Add server-side validation for user registration | Medium | [#157](https://github.com/Richajaishwal0/Trip_assistant/pull/157) |
 | feat/contact-page | Medium | [#154](https://github.com/Richajaishwal0/Trip_assistant/pull/154) |
 | "Add Privacy Policy Page" #146 | Medium | [#153](https://github.com/Richajaishwal0/Trip_assistant/pull/153) |
 | Enhance Trip Budget Estimator: Extra Expenses, Currency Conversion, and Dark Mode Support | Medium | [#152](https://github.com/Richajaishwal0/Trip_assistant/pull/152) |
-| Remove duplicate icon in client/index.html | Medium | [#151](https://github.com/Richajaishwal0/Trip_assistant/issues/151) |
 | refactored backend config file structure and modified code to absolute uploads directory path | Medium | [#150](https://github.com/Richajaishwal0/Trip_assistant/pull/150) |
 | used base env variables, removed redundant mongoDB code file | Medium | [#149](https://github.com/Richajaishwal0/Trip_assistant/pull/149) |
 | Modified the authentication part on client side using zod and react-hook-form for readable and maintainable code, added the VerifyToken endpoint and Context Api To manage the global state of user Loggedin state to manage the user flow of login and signup and logout and prevent unauthenticated users to got to certain pages. | Medium | [#148](https://github.com/Richajaishwal0/Trip_assistant/pull/148) |
@@ -418,15 +423,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | ENVIRONMENT: Missing Environment Variables | Medium | [#138](https://github.com/Richajaishwal0/Trip_assistant/pull/138) |
 | Add Login and Signup buttons to hero section for Issue #98 | Medium | [#136](https://github.com/Richajaishwal0/Trip_assistant/pull/136) |
 | Feature Request: Authentication Middleware & Conditional Rendering of Auth Buttons | Medium | [#135](https://github.com/Richajaishwal0/Trip_assistant/issues/135) |
-| UI: Improved Home & Places pages (chatbot, ratings, CSS fixes) | Medium | [#134](https://github.com/Richajaishwal0/Trip_assistant/pull/134) |
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
 | Remove unwanted white space from navbar | Medium | [#130](https://github.com/Richajaishwal0/Trip_assistant/issues/130) |
 | issue  create automate message added | Medium | [#129](https://github.com/Richajaishwal0/Trip_assistant/pull/129) |
 | budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
-| View Details button not working | Medium | [#127](https://github.com/Richajaishwal0/Trip_assistant/issues/127) |
 | feat: complete UI overhaul - fix navigation visibility, add theme sup… | Medium | [#125](https://github.com/Richajaishwal0/Trip_assistant/pull/125) |
-| add pull request template for contributions ✅ | Medium | [#124](https://github.com/Richajaishwal0/Trip_assistant/pull/124) |
-| feat: Add Ctrl+Enter/Cmd+Enter keyboard shortcut to chatbot | Medium | [#121](https://github.com/Richajaishwal0/Trip_assistant/pull/121) |
 
 ---
 
@@ -479,6 +480,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| refactor(suggestions): Type-harden and refactor component suggestion logic | Medium | [#83](https://github.com/SamXop123/RigCrafter/pull/83) |
 | Type safety errors for 'possibly undefined' compatibility properties | Medium | [#79](https://github.com/SamXop123/RigCrafter/issues/79) |
 | added images in blog section | Medium | [#75](https://github.com/SamXop123/RigCrafter/pull/75) |
 
@@ -523,7 +525,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Make navbar sticky and improve footer design | Medium | [#224](https://github.com/souvikpramanikgit/LearnHub/pull/224) |
+| added Python tutorial | Medium | [#227](https://github.com/souvikpramanikgit/LearnHub/pull/227) |
+| Improve footer section | Medium | [#226](https://github.com/souvikpramanikgit/LearnHub/issues/226) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
 | Add Sign-In with Google and GitHub using Firebase Authentication | Medium | [#220](https://github.com/souvikpramanikgit/LearnHub/issues/220) |
 | Implement an FAQ Bot to Answer Common User Questions | Medium | [#213](https://github.com/souvikpramanikgit/LearnHub/issues/213) |
@@ -555,27 +558,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Keep nav visible on Help page and make "Contact Us" button functional | Medium | [#91](https://github.com/sristy17/next-payroll/issues/91) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
-
----
-
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| resolved some conflicts | Medium | [#191](https://github.com/SurajSG23/PrepBuddy/pull/191) |
 
 ---
 
@@ -652,6 +636,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Implement New UI Based on Figma Design Using Pure CSS (No TailwindCSS) | Easy | [#17](https://github.com/ajaynegi45/Old-School-Game/issues/17) |
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| Simon Says | Medium | [#105](https://github.com/ajaynegi45/Old-School-Game/issues/105) |
 
 ---
 
@@ -779,10 +764,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
-| resolved the export csv for android 13+ | Medium | [#144](https://github.com/Loop-Hive/ScheduleX/pull/144) |
-| Implemented the gif in the Readme | Medium | [#143](https://github.com/Loop-Hive/ScheduleX/pull/143) |
 | Ask Export Location before Saving CSV | Medium | [#141](https://github.com/Loop-Hive/ScheduleX/issues/141) |
-| Improve the UI of Settings Page | Medium | [#136](https://github.com/Loop-Hive/ScheduleX/issues/136) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
 | Edit Menu Button Delayed Activation | Medium | [#112](https://github.com/Loop-Hive/ScheduleX/issues/112) |
 | Overflowing Issue in Schedule Select Menu | Medium | [#111](https://github.com/Loop-Hive/ScheduleX/issues/111) |
@@ -794,7 +776,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
 | Add Time Slot Error on Specific days | Medium | [#82](https://github.com/Loop-Hive/ScheduleX/issues/82) |
 | Export tasks as pdf | Medium | [#10](https://github.com/Loop-Hive/ScheduleX/issues/10) |
-| Storage Permissions Fail on Android 13+ | Hard | [#135](https://github.com/Loop-Hive/ScheduleX/issues/135) |
 | QR Code Integrations | Hard | [#81](https://github.com/Loop-Hive/ScheduleX/issues/81) |
 | Cloud sync through Google Drive | Hard | [#14](https://github.com/Loop-Hive/ScheduleX/issues/14) |
 
@@ -965,25 +946,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| pre-commit autoupdate | Medium | [#79](https://github.com/Drago-03/GroqTales/pull/79) |
 | feat: Add 'Copy to Clipboard' button for generated stories | Medium | [#40](https://github.com/Drago-03/GroqTales/pull/40) |
-
----
-
-## 📌 Project: tech event
-
-📝 **Description:** using CSV file filter the events
-
-🔗 [View Project](https://github.com/muskan-fatim/Tech_event)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, TypeScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Light/Dark Mode Toggle | Medium | [#34](https://github.com/muskan-fatim/Tech_event/issues/34) |
 
 ---
 
