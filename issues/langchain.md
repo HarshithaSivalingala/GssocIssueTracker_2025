@@ -108,6 +108,7 @@
 |----------|----------------|---------|
 | design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Medium | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
 
 ---
 
