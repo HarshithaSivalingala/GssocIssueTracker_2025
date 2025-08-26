@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ui: Created new UI for adding new claim, with multiple file support also | Medium | [#66](https://github.com/Abhinavhaldiya/FinPilot/pull/66) |
+| Implement Full Backend for FinPilot (CRUD, Workflows, Dashboard APIs) | Medium | [#65](https://github.com/Abhinavhaldiya/FinPilot/issues/65) |
 | deployment | Medium | [#64](https://github.com/Abhinavhaldiya/FinPilot/issues/64) |
 | Add password reset functionality | Medium | [#63](https://github.com/Abhinavhaldiya/FinPilot/issues/63) |
 | middleware-and-protected-routes-for-user | Medium | [#60](https://github.com/Abhinavhaldiya/FinPilot/pull/60) |
@@ -23,8 +25,6 @@
 | Create Ui for submit New Claim | Medium | [#47](https://github.com/Abhinavhaldiya/FinPilot/issues/47) |
 | Add prisma schema definition and seed data | Medium | [#35](https://github.com/Abhinavhaldiya/FinPilot/pull/35) |
 | Schema Definition using Prisma | Medium | [#32](https://github.com/Abhinavhaldiya/FinPilot/issues/32) |
-| Update README.md file | Medium | [#21](https://github.com/Abhinavhaldiya/FinPilot/issues/21) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#19](https://github.com/Abhinavhaldiya/FinPilot/issues/19) |
 
 ---
 
@@ -51,6 +51,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Add Notifications for New Mentor Signups | Medium | [#58](https://github.com/Menthub-GSSoC/Menthub/issues/58) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
@@ -83,36 +84,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| High-Fidelity UI Overhaul for Water & Electricity Scheduling with Progressive Data Visualization and Atomic Component Architecture | Medium | [#794](https://github.com/HarshS16/Civix/issues/794) |
-| Performance-Centric Redesign of Traffic Fines & Vehicle Info Page with Modular Architecture and GPU-Optimized Interaction and Visualization Pipeline | Medium | [#793](https://github.com/HarshS16/Civix/issues/793) |
-| Deterministic and Modular UI Revamp of Government Schemes with Progressive Rendering and Interaction-Driven Micro-Architecture | Medium | [#792](https://github.com/HarshS16/Civix/issues/792) |
-| High-Fidelity UI Overhaul for Election & Governance Module with Progressive Data Visualization and Atomic Component Architecture | Medium | [#791](https://github.com/HarshS16/Civix/issues/791) |
-| Performance-Centric Redesign of Civic Stats Module Leveraging Modular Architecture and GPU-Optimized Interaction and Visualization Pipeline | Medium | [#790](https://github.com/HarshS16/Civix/issues/790) |
-| High-Fidelity UI Overhaul for Public Transport with Progressive Rendering, Atomic Component Architecture, and Real-Time Data Hydration | Medium | [#789](https://github.com/HarshS16/Civix/issues/789) |
-| High-Performance Interactive Interface Redesign for Community Holidays with GPU-Accelerated Transitions | Medium | [#788](https://github.com/HarshS16/Civix/issues/788) |
-| Next-Generation UI Modernization for Lost and Found Module with Modular Component Architecture | Medium | [#787](https://github.com/HarshS16/Civix/issues/787) |
-| UI Overhaul of Nearby Service for High-Precision Rendering and Improved Usability | Medium | [#786](https://github.com/HarshS16/Civix/issues/786) |
-| Scalable UI Enhancement of Chat Room with Dynamic State Management and Visual Consistency | Medium | [#785](https://github.com/HarshS16/Civix/issues/785) |
-| Deterministic & Adaptive UI Overhaul of Resources Page with Optimized Rendering Stack | Medium | [#784](https://github.com/HarshS16/Civix/issues/784) |
-| Architectural Revamp of Community Voting Interface with Dynamic Rendering and State Synchronization | Medium | [#783](https://github.com/HarshS16/Civix/issues/783) |
-| High-Throughput Virtual DOM Diffing and Concurrent UI Composition for Contact Us Module | Medium | [#782](https://github.com/HarshS16/Civix/issues/782) |
-| Deployment of Deterministic and Adaptive My Complains Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline | Medium | [#781](https://github.com/HarshS16/Civix/pull/781) |
-| Deterministic and Adaptive Profile Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline | Medium | [#780](https://github.com/HarshS16/Civix/issues/780) |
-| Deployment of deterministic and Adaptive My Complains Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline | Medium | [#779](https://github.com/HarshS16/Civix/pull/779) |
-| Deterministic and Adaptive My Complains Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline | Medium | [#778](https://github.com/HarshS16/Civix/issues/778) |
-| Deployment of deterministic and Adaptive File a Complaint Page with Context-Driven Form Management and GPU-Accelerated Interaction Pipeline | Medium | [#777](https://github.com/HarshS16/Civix/pull/777) |
-| Deterministic and Adaptive File a Complaint Page with Context-Driven Form Management and GPU-Accelerated Interaction Pipeline | Medium | [#776](https://github.com/HarshS16/Civix/issues/776) |
-| Implmentation of Profile Setup Module with Adaptive Breakpoints, Context-Driven Form Logic, and Deterministic Rendering Pipeline | Medium | [#775](https://github.com/HarshS16/Civix/pull/775) |
-| Profile Setup Module with Adaptive Breakpoints, Context-Driven Form Logic, and Deterministic Rendering Pipeline | Medium | [#774](https://github.com/HarshS16/Civix/issues/774) |
-| Deployment of Geospatial UI Rendering Overhaul for User Map Module | Medium | [#773](https://github.com/HarshS16/Civix/pull/773) |
-| Geospatial UI Rendering Overhaul for User Map Module | Medium | [#772](https://github.com/HarshS16/Civix/issues/772) |
-| Deployment of adaptive Feedback Module with Progressive Rendering and Accessibility-Driven Layout Architecture | Medium | [#771](https://github.com/HarshS16/Civix/pull/771) |
-| UI/UX Overhaul: Adaptive Feedback Module with Progressive Rendering and Accessibility-Driven Layout Architecture | Medium | [#770](https://github.com/HarshS16/Civix/issues/770) |
-| Implementation of deterministic Dark Mode Integration with Lifecycle-Safe State Hydration and Scoped Theme Propagation in School Page Module | Medium | [#769](https://github.com/HarshS16/Civix/pull/769) |
-| State-Orchestrated Dark Mode Deployment with Reconciliation-Safe Theme Rendering Pipeline in School Page | Medium | [#768](https://github.com/HarshS16/Civix/issues/768) |
-| Enhanced Feedback system | Medium | [#767](https://github.com/HarshS16/Civix/pull/767) |
-| Deployment of reactive Dark Mode Implementation with Deterministic State Hydration and Lifecycle-Safe Theme Propagation in Air Seva Module | Medium | [#766](https://github.com/HarshS16/Civix/pull/766) |
-| Reactive Dark Mode Implementation with Deterministic State Hydration and Lifecycle-Safe Theme Propagation in Air Seva Module | Medium | [#765](https://github.com/HarshS16/Civix/issues/765) |
+| fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 
 ---
 
@@ -133,7 +105,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve README.md Design and Structure | Easy | [#334](https://github.com/Muneerali199/DocMagic/issues/334) |
-| hover effect in the customer love section. | Medium | [#337](https://github.com/Muneerali199/DocMagic/issues/337) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 40 updates | Medium | [#339](https://github.com/Muneerali199/DocMagic/pull/339) |
 | Debounced Autosave with exit save | Medium | [#336](https://github.com/Muneerali199/DocMagic/pull/336) |
 | Navbar not spanning full screen width | Medium | [#335](https://github.com/Muneerali199/DocMagic/issues/335) |
 | Fix Misaligned Scroll Buttons in Mobile View | Medium | [#333](https://github.com/Muneerali199/DocMagic/issues/333) |
@@ -144,11 +116,9 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | improved :  updated readme with readme details  , Also do you want me… | Medium | [#326](https://github.com/Muneerali199/DocMagic/pull/326) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/DocMagic/pull/324) |
 | fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/DocMagic/pull/323) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 36 updates | Medium | [#322](https://github.com/Muneerali199/DocMagic/pull/322) |
 | Fix testimonial carousel and adjust layout/arrow positions | Medium | [#321](https://github.com/Muneerali199/DocMagic/pull/321) |
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
-| issue create automate merge added | Medium | [#312](https://github.com/Muneerali199/DocMagic/pull/312) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
 
 ---
@@ -349,6 +319,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Medium | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
 
 ---
 
@@ -389,8 +360,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Comprehensive Accessibility Improvements | Medium | [#124](https://github.com/vatsal-bhakodia/smriti-ai/issues/124) |
-| added PDF summarize feature | Medium | [#123](https://github.com/vatsal-bhakodia/smriti-ai/pull/123) |
+| feat: implement comprehensive accessibility improvements | Medium | [#127](https://github.com/vatsal-bhakodia/smriti-ai/pull/127) |
+| feat: add custom OTP input styling in SignUp component | Medium | [#126](https://github.com/vatsal-bhakodia/smriti-ai/pull/126) |
+| added PDF summarization feature | Medium | [#125](https://github.com/vatsal-bhakodia/smriti-ai/pull/125) |
 | Updated Readme | Medium | [#121](https://github.com/vatsal-bhakodia/smriti-ai/pull/121) |
 | Refactor: Implement Adaptive Quiz and Topic Progress | Medium | [#120](https://github.com/vatsal-bhakodia/smriti-ai/pull/120) |
 | Added dynamic metadata generation per page instead of hardcoded values | Medium | [#114](https://github.com/vatsal-bhakodia/smriti-ai/pull/114) |
