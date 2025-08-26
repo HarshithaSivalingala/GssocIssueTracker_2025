@@ -18,7 +18,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Update Services navbar link to navigate to dedicated services page | Medium | [#334](https://github.com/gyanshankar1708/GrowCraft/pull/334) |
+| Page title does not redirect to home page | Medium | [#336](https://github.com/gyanshankar1708/GrowCraft/issues/336) |
+| Add graphic design Service page | Medium | [#335](https://github.com/gyanshankar1708/GrowCraft/pull/335) |
 | Add Missing Scroll-to-Top Functionality Across All Pages | Medium | [#333](https://github.com/gyanshankar1708/GrowCraft/issues/333) |
 | Bug Report: Inconsistent Footer Design on Contact Page | Medium | [#332](https://github.com/gyanshankar1708/GrowCraft/issues/332) |
 | Bug Report: Inconsistent Navbar and Logo Visibility on Digital Marketing Page | Medium | [#331](https://github.com/gyanshankar1708/GrowCraft/issues/331) |
@@ -27,13 +28,7 @@
 | "Our Work" button in the homepage navbar is non-functional | Medium | [#328](https://github.com/gyanshankar1708/GrowCraft/issues/328) |
 | Footer section on "Contact Us" page is misaligned and lacks proper styling | Medium | [#327](https://github.com/gyanshankar1708/GrowCraft/issues/327) |
 | Make Navbar Sticky Across All Pages | Medium | [#325](https://github.com/gyanshankar1708/GrowCraft/pull/325) |
-| Add Search Bar | Medium | [#322](https://github.com/gyanshankar1708/GrowCraft/issues/322) |
-| Feature Request: Feedback Page | Medium | [#312](https://github.com/gyanshankar1708/GrowCraft/issues/312) |
 | Fix Our Work link, unify navbar, and standardize footer across pages | Medium | [#311](https://github.com/gyanshankar1708/GrowCraft/pull/311) |
-| complete footer UI redesign and standardization across contact.html | Medium | [#306](https://github.com/gyanshankar1708/GrowCraft/pull/306) |
-| navbar link spacing and alignment in work.html | Medium | [#298](https://github.com/gyanshankar1708/GrowCraft/pull/298) |
-| fix: navbar link spacing and visibility in services.html | Medium | [#297](https://github.com/gyanshankar1708/GrowCraft/pull/297) |
-| Fixed Footer in home page | Medium | [#288](https://github.com/gyanshankar1708/GrowCraft/pull/288) |
 
 ---
 
@@ -53,6 +48,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| Applied dark theme on the marketplace section | Medium | [#108](https://github.com/Pujan-sarkar/FARMLOC/pull/108) |
+| Bug Report – Dairy Product Category Filter Button Not Working | Medium | [#107](https://github.com/Pujan-sarkar/FARMLOC/issues/107) |
+| Bug Report- Category Filter Labels Not Visible Due to Low Contrast (UI/UX Issue) | Medium | [#106](https://github.com/Pujan-sarkar/FARMLOC/issues/106) |
+| Enhance Contact Form Validation & Email Sending + Deployment Request | Medium | [#105](https://github.com/Pujan-sarkar/FARMLOC/issues/105) |
+| Unexpected behaviour of Filter Section in Find Cold Storage Page | Medium | [#104](https://github.com/Pujan-sarkar/FARMLOC/issues/104) |
 | Add "Back to Top" button | Medium | [#103](https://github.com/Pujan-sarkar/FARMLOC/issues/103) |
 | Footer navigation links not working | Medium | [#102](https://github.com/Pujan-sarkar/FARMLOC/issues/102) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
@@ -80,6 +80,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Navbar Mobile View Overflow | Easy | [#216](https://github.com/sachiva1/sachiva/issues/216) |
+| NavBar dropdown menu added and text animation On heading of nav pages | Medium | [#228](https://github.com/sachiva1/sachiva/pull/228) |
+| Fix/about us page responsiveness | Medium | [#227](https://github.com/sachiva1/sachiva/pull/227) |
 | Fix content alignment on About Us page (#217) | Medium | [#226](https://github.com/sachiva1/sachiva/pull/226) |
 | Solved #208 PR With UI/UX Changes | Medium | [#225](https://github.com/sachiva1/sachiva/pull/225) |
 | forum.html Footer Missing or Visually Inconsistent | Medium | [#224](https://github.com/sachiva1/sachiva/issues/224) |
