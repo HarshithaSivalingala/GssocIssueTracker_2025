@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | contributing | Medium | [#84](https://github.com/Dipanita45/HEALCONNECT/issues/84) |
-| fixes ui/ux code | Medium | [#83](https://github.com/Dipanita45/HEALCONNECT/pull/83) |
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
