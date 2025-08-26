@@ -99,11 +99,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed theme issues | Medium | [#360](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/360) |
-| Profile page not implemented | Medium | [#359](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/359) |
-| User details not getting displayed in settings page | Medium | [#358](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/358) |
-| Go to dashboard button redirecting to register page even when user is logged in | Medium | [#357](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/357) |
-| Fixed routing | Medium | [#356](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/356) |
+| Implemented the integration of frontend and backend of resume builder | Medium | [#370](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/370) |
+| remove duplicate resume builder | Medium | [#369](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/369) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -123,6 +120,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Difficulty Levels (Easy/Medium/Hard) to  Game | Medium | [#93](https://github.com/whyvineet/orthoplay/issues/93) |
 | Added Play Again and Go Home buttons for improved user experience | Medium | [#92](https://github.com/whyvineet/orthoplay/pull/92) |
 | Enhance the Footer design. | Medium | [#90](https://github.com/whyvineet/orthoplay/issues/90) |
 | Improve Hompage  Layout | Medium | [#89](https://github.com/whyvineet/orthoplay/issues/89) |
@@ -150,16 +148,19 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| deps(deps): bump next from 15.4.1 to 15.5.0 in /optiblogai-site | Medium | [#87](https://github.com/solve-ease/OptiBlogAi/pull/87) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.541.0 in /optiblogai-site | Medium | [#86](https://github.com/solve-ease/OptiBlogAi/pull/86) |
+| deps(deps): bump beautifulsoup4 from 4.13.3 to 4.13.5 | Medium | [#85](https://github.com/solve-ease/OptiBlogAi/pull/85) |
+| deps(deps-dev): bump eslint from 9.31.0 to 9.34.0 in /optiblogai-site | Medium | [#84](https://github.com/solve-ease/OptiBlogAi/pull/84) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.0 in /optiblogai-site | Medium | [#83](https://github.com/solve-ease/OptiBlogAi/pull/83) |
+| deps(deps): bump lxml from 5.3.2 to 6.0.1 | Medium | [#82](https://github.com/solve-ease/OptiBlogAi/pull/82) |
+| deps(deps): bump requests from 2.32.3 to 2.32.5 | Medium | [#81](https://github.com/solve-ease/OptiBlogAi/pull/81) |
 | docker(deps): bump python from 3.12-slim to 3.13.7-slim | Medium | [#80](https://github.com/solve-ease/OptiBlogAi/pull/80) |
 | ci(deps): bump actions/checkout from 4 to 5 | Medium | [#79](https://github.com/solve-ease/OptiBlogAi/pull/79) |
 | deps(deps-dev): bump @types/node from 20.19.8 to 24.3.0 in /optiblogai-site | Medium | [#78](https://github.com/solve-ease/OptiBlogAi/pull/78) |
 | Broken Links in Footer Navigation #41 | Medium | [#77](https://github.com/solve-ease/OptiBlogAi/pull/77) |
 | Added Contact Us Page | Medium | [#76](https://github.com/solve-ease/OptiBlogAi/pull/76) |
 | deps(deps): bump certifi from 2025.1.31 to 2025.8.3 | Medium | [#75](https://github.com/solve-ease/OptiBlogAi/pull/75) |
-| deps(deps-dev): bump eslint from 9.31.0 to 9.33.0 in /optiblogai-site | Medium | [#74](https://github.com/solve-ease/OptiBlogAi/pull/74) |
-| deps(deps): bump next from 15.4.1 to 15.4.6 in /optiblogai-site | Medium | [#73](https://github.com/solve-ease/OptiBlogAi/pull/73) |
-| deps(deps): bump lucide-react from 0.525.0 to 0.539.0 in /optiblogai-site | Medium | [#71](https://github.com/solve-ease/OptiBlogAi/pull/71) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.4.6 in /optiblogai-site | Medium | [#70](https://github.com/solve-ease/OptiBlogAi/pull/70) |
 | deps(deps): bump playwright from 1.53.0 to 1.54.0 | Medium | [#64](https://github.com/solve-ease/OptiBlogAi/pull/64) |
 | deps(deps): bump react and @types/react in /optiblogai-site | Medium | [#62](https://github.com/solve-ease/OptiBlogAi/pull/62) |
 | deps(deps): bump react-dom and @types/react-dom in /optiblogai-site | Medium | [#61](https://github.com/solve-ease/OptiBlogAi/pull/61) |
@@ -170,7 +171,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | deps(deps): bump framer-motion from 12.23.6 to 12.23.12 in /optiblogai-site | Medium | [#55](https://github.com/solve-ease/OptiBlogAi/pull/55) |
 | Add Hover Effect to "Try demo" Button | Medium | [#52](https://github.com/solve-ease/OptiBlogAi/issues/52) |
 | Reolved the issue of the redirection of the links | Medium | [#44](https://github.com/solve-ease/OptiBlogAi/pull/44) |
-| Automated FAQ/Q&A Generation for Blog Posts | Medium | [#40](https://github.com/solve-ease/OptiBlogAi/issues/40) |
 
 ---
 
