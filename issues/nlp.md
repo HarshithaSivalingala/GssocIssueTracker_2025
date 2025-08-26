@@ -14,9 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integrate Real-Time APIs with Existing Frontend Features | Medium | [#43](https://github.com/CharithaReddy18/AI-health-chatbot/issues/43) |
-| Restructure Project Architecture: Migrate to Backend/Frontend Separation | Medium | [#42](https://github.com/CharithaReddy18/AI-health-chatbot/issues/42) |
-| Added Wellness Resource Hub | Medium | [#40](https://github.com/CharithaReddy18/AI-health-chatbot/pull/40) |
+| Rebuild Medibot’s RAG Pipeline for Reliable Self-Care Guidance | Medium | [#45](https://github.com/CharithaReddy18/AI-health-chatbot/issues/45) |
 
 ---
 
