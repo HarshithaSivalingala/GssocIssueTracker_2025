@@ -121,11 +121,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/sayan0328/WallGodds-App/issues/47) |
-| [UPLOAD PAGE] EDIT WALLPAPER BUTTON | Easy | [#46](https://github.com/sayan0328/WallGodds-App/issues/46) |
 | [UPLOAD PAGE] INSTRUCTIONAL SNACKBAR | Easy | [#45](https://github.com/sayan0328/WallGodds-App/issues/45) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
-| Update: revamp upload popup UI | Medium | [#48](https://github.com/sayan0328/WallGodds-App/pull/48) |
 
 ---
 
@@ -143,7 +140,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Role Selection screen design added | Medium | [#177](https://github.com/sourabhkumar47/ResQFood/pull/177) |
+| Navigation flow added when selected Restaurant during initial setup : Issue #176 | Medium | [#178](https://github.com/sourabhkumar47/ResQFood/pull/178) |
 | Final update for buildgradle | Medium | [#174](https://github.com/sourabhkumar47/ResQFood/pull/174) |
 
 ---
@@ -162,6 +159,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added types for shops and products | Medium | [#391](https://github.com/yuvrajsinghgmx/ShopSmart/pull/391) |
+| Choices in Product and Shop type. | Medium | [#390](https://github.com/yuvrajsinghgmx/ShopSmart/issues/390) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
