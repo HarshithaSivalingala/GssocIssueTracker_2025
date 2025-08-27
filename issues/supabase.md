@@ -75,10 +75,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve README.md Design and Structure | Easy | [#334](https://github.com/Muneerali199/DocMagic/issues/334) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 40 updates | Medium | [#339](https://github.com/Muneerali199/DocMagic/pull/339) |
-| Debounced Autosave with exit save | Medium | [#336](https://github.com/Muneerali199/DocMagic/pull/336) |
-| Navbar not spanning full screen width | Medium | [#335](https://github.com/Muneerali199/DocMagic/issues/335) |
+| fix: added hover effects to Customer Love and Social Proof components… | Medium | [#341](https://github.com/Muneerali199/DocMagic/pull/341) |
+| fix(README): corrected badge layout and markdown formatting in Getting Started and hero section | Medium | [#340](https://github.com/Muneerali199/DocMagic/pull/340) |
 | Fix Misaligned Scroll Buttons in Mobile View | Medium | [#333](https://github.com/Muneerali199/DocMagic/issues/333) |
 | Profile Sections Need a Stylish Modern Look [OSCI'25] | Medium | [#332](https://github.com/Muneerali199/DocMagic/issues/332) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
@@ -91,6 +89,7 @@
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
+| feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
 
 ---
 
@@ -140,6 +139,7 @@
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
 
@@ -179,6 +179,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Security: Disable Copy/Paste in Password Fields | Medium | [#40](https://github.com/Jyotibrat/AI-Flow/issues/40) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
@@ -286,6 +287,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix footer redirection and link pages of about us and privacy policy also upgrade navbar for that | Medium | [#43](https://github.com/Shantanu-Tiwari/TLDRify/pull/43) |
+| Feat: Create AI Generated Video and Put on Try TDRify Button | Medium | [#42](https://github.com/Shantanu-Tiwari/TLDRify/pull/42) |
 | Create Cursor Animation Effect | Medium | [#36](https://github.com/Shantanu-Tiwari/TLDRify/issues/36) |
 | Update ReadMe.md Pages Section | Medium | [#35](https://github.com/Shantanu-Tiwari/TLDRify/issues/35) |
 | Make the get started button, try tldrify button to highlight the text box area when clicked. | Medium | [#27](https://github.com/Shantanu-Tiwari/TLDRify/issues/27) |
