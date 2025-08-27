@@ -61,11 +61,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Navbar Animation Not Smooth on Small Viewports | Medium | [#389](https://github.com/abhisek2004/Dev-Elevate/issues/389) |
+| 📊 Weekly Project Summary - 8/26/2025 | Medium | [#388](https://github.com/abhisek2004/Dev-Elevate/issues/388) |
 | 📊 Weekly Project Summary - 8/25/2025 | Medium | [#386](https://github.com/abhisek2004/Dev-Elevate/issues/386) |
 | 📊 Weekly Project Summary - 8/24/2025 | Medium | [#385](https://github.com/abhisek2004/Dev-Elevate/issues/385) |
 | 📊 Weekly Project Summary - 8/23/2025 | Medium | [#382](https://github.com/abhisek2004/Dev-Elevate/issues/382) |
-| Replace Mock Functionality | Medium | [#373](https://github.com/abhisek2004/Dev-Elevate/pull/373) |
-| Replace Mock Data with Real Backend Integration in Coding Platform | Medium | [#372](https://github.com/abhisek2004/Dev-Elevate/pull/372) |
 
 ---
 
@@ -83,10 +83,13 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @apollo/client from 3.14.0 to 4.0.1 in /frontend | Medium | [#2133](https://github.com/OWASP/Nest/pull/2133) |
+| Bump @types/react-dom from 19.1.7 to 19.1.8 in /frontend | Medium | [#2132](https://github.com/OWASP/Nest/pull/2132) |
+| Bump typescript-eslint from 8.40.0 to 8.41.0 in /frontend | Medium | [#2131](https://github.com/OWASP/Nest/pull/2131) |
+| Bump @typescript-eslint/parser from 8.40.0 to 8.41.0 in /frontend | Medium | [#2130](https://github.com/OWASP/Nest/pull/2130) |
+| Bump @typescript-eslint/eslint-plugin from 8.40.0 to 8.41.0 in /frontend | Medium | [#2129](https://github.com/OWASP/Nest/pull/2129) |
 | Update owasp app event model with calendar attributes | Medium | [#2128](https://github.com/OWASP/Nest/pull/2128) |
 | Enhancement in header links in light mode | Medium | [#2126](https://github.com/OWASP/Nest/issues/2126) |
-| fixes #2124: Refactored environment variable handling from credentials.ts to env.server.ts and env.client.ts | Medium | [#2125](https://github.com/OWASP/Nest/pull/2125) |
-| configure lighthouse for local development/testing | Medium | [#2122](https://github.com/OWASP/Nest/pull/2122) |
 | Update the SECURITY.md file | Medium | [#2118](https://github.com/OWASP/Nest/issues/2118) |
 | Implemented Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
 | Nestbot MVP | Medium | [#2113](https://github.com/OWASP/Nest/pull/2113) |
@@ -116,6 +119,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| The Habit Heatmap Lacks a Color Legend | Medium | [#156](https://github.com/BaraniVA/Habitheat/issues/156) |
+| Missing Password Strength Indicator | Medium | [#155](https://github.com/BaraniVA/Habitheat/issues/155) |
 | Fix/responsive UI | Medium | [#154](https://github.com/BaraniVA/Habitheat/pull/154) |
 | Fix: Critical Backend Authentication and Configuration Issues | Medium | [#153](https://github.com/BaraniVA/Habitheat/issues/153) |
 | Functionality for edit username and Profile Picture | Medium | [#152](https://github.com/BaraniVA/Habitheat/issues/152) |
@@ -128,7 +133,6 @@ Accessibility features like dark mode,white.
 | Feature: Add Motivational Blogs with Like & Comment Functionality | Medium | [#115](https://github.com/BaraniVA/Habitheat/pull/115) |
 | Feature Proposal: Design an Attractive and Informative Front Page for New Users | Medium | [#96](https://github.com/BaraniVA/Habitheat/issues/96) |
 | Add CONTRIBUTING.md file | Medium | [#94](https://github.com/BaraniVA/Habitheat/issues/94) |
-| Update on : Habit Emergency Mode: One-click "Skip Today" with Reason (Sick, Traveling, etc.) Without Breaking Streak #45 | Medium | [#85](https://github.com/BaraniVA/Habitheat/pull/85) |
 
 ---
 
@@ -242,6 +246,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve text visibility  on about page content blocks | Medium | [#202](https://github.com/mansiruhil/fail-u-forward/issues/202) |
+| Make the "Welcome to failuforward" title visible. | Medium | [#201](https://github.com/mansiruhil/fail-u-forward/issues/201) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -404,8 +410,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added view details feature | Medium | [#163](https://github.com/Richajaishwal0/Trip_assistant/pull/163) |
+| Context Api for login state management and Optional rendering of signin/login and log out buttons. | Medium | [#162](https://github.com/Richajaishwal0/Trip_assistant/issues/162) |
 | Removed unwanted space from navbar #130 | Medium | [#161](https://github.com/Richajaishwal0/Trip_assistant/pull/161) |
-| Optimize Map Loading Performance | Medium | [#160](https://github.com/Richajaishwal0/Trip_assistant/issues/160) |
 | Fix: #155 Mobile UI/UX issues | Medium | [#158](https://github.com/Richajaishwal0/Trip_assistant/pull/158) |
 | Fix: Add server-side validation for user registration | Medium | [#157](https://github.com/Richajaishwal0/Trip_assistant/pull/157) |
 | feat/contact-page | Medium | [#154](https://github.com/Richajaishwal0/Trip_assistant/pull/154) |
@@ -427,7 +434,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Remove unwanted white space from navbar | Medium | [#130](https://github.com/Richajaishwal0/Trip_assistant/issues/130) |
 | issue  create automate message added | Medium | [#129](https://github.com/Richajaishwal0/Trip_assistant/pull/129) |
 | budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
-| feat: complete UI overhaul - fix navigation visibility, add theme sup… | Medium | [#125](https://github.com/Richajaishwal0/Trip_assistant/pull/125) |
 
 ---
 
@@ -445,6 +451,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add environment configuration and update dependencies | Medium | [#22](https://github.com/sailaja-adapa/GuruShish/pull/22) |
 | Clarify terminal commands for frontend and backend installation to avoid confusion | Medium | [#21](https://github.com/sailaja-adapa/GuruShish/issues/21) |
 | Issue with ui/ux | Medium | [#20](https://github.com/sailaja-adapa/GuruShish/issues/20) |
 | "Forgot password" feature | Medium | [#19](https://github.com/sailaja-adapa/GuruShish/issues/19) |
@@ -500,6 +507,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create a standard password policy for signing up | Medium | [#58](https://github.com/karmveershubham/CodeStreak/issues/58) |
 | Add 'Mark as Completed' Button for Challenges #50 | Medium | [#57](https://github.com/karmveershubham/CodeStreak/pull/57) |
 | <title>Show Current Streak Count in Navbar | Medium | [#49](https://github.com/karmveershubham/CodeStreak/issues/49) |
 | <title>Add Loading State Indicators or Skeleton Screens | Medium | [#48](https://github.com/karmveershubham/CodeStreak/issues/48) |
@@ -525,6 +533,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Text Visibility in Light Mode (Theme Issue) | Medium | [#228](https://github.com/souvikpramanikgit/LearnHub/issues/228) |
 | added Python tutorial | Medium | [#227](https://github.com/souvikpramanikgit/LearnHub/pull/227) |
 | Improve footer section | Medium | [#226](https://github.com/souvikpramanikgit/LearnHub/issues/226) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
@@ -558,6 +567,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
 
@@ -636,7 +646,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Implement New UI Based on Figma Design Using Pure CSS (No TailwindCSS) | Easy | [#17](https://github.com/ajaynegi45/Old-School-Game/issues/17) |
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
-| Simon Says | Medium | [#105](https://github.com/ajaynegi45/Old-School-Game/issues/105) |
 
 ---
 
@@ -828,6 +837,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Easy | [#9](https://github.com/dscnitrourkela/project-xangoes/issues/9) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
+| feat: Implement rate limit using sliding window | Medium | [#16](https://github.com/dscnitrourkela/project-xangoes/pull/16) |
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
 ---
@@ -846,6 +856,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Security: Disable Copy/Paste in Password Fields | Medium | [#40](https://github.com/Jyotibrat/AI-Flow/issues/40) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
@@ -904,6 +915,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Quick Links are not working | Medium | [#77](https://github.com/KrishChothani/CKsEdu/issues/77) |
+| Dark/light mode availability | Medium | [#76](https://github.com/KrishChothani/CKsEdu/issues/76) |
+| E-library UI | Medium | [#75](https://github.com/KrishChothani/CKsEdu/pull/75) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
@@ -1133,6 +1147,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: Chatbot Icon #123 | Medium | [#124](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/124) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
 | feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
