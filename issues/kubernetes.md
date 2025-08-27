@@ -14,9 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Easy | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
 | design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Medium | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
+| Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
+| Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
 
 ---
 
