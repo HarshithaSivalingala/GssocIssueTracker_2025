@@ -67,8 +67,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add mobile number column also in registeration screen | Easy | [#435](https://github.com/Prateek9876/NagarVikas/issues/435) |
-| Added the Feature to Search by Message or Username in Discussion Forum #360 Level 3 | Medium | [#440](https://github.com/Prateek9876/NagarVikas/pull/440) |
+| Add a complete functional reports section in admin's dashboard where the admin can see all the reported users with reasons and then they can take action accordingly. | Medium | [#446](https://github.com/Prateek9876/NagarVikas/issues/446) |
+| Add a report option in discussion forum so that the users can report any message to admin. | Medium | [#445](https://github.com/Prateek9876/NagarVikas/issues/445) |
 | On tapping the replied message it goes to the replied message | Medium | [#439](https://github.com/Prateek9876/NagarVikas/pull/439) |
 
 ---
@@ -87,8 +87,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Flutter: Logging in Tutorial Service | Easy | [#251](https://github.com/Yash159357/BREVITY/issues/251) |
-| Flutter:  Logging in Theme Service | Easy | [#250](https://github.com/Yash159357/BREVITY/issues/250) |
 | Flutter:  Logging in Notification Service | Easy | [#249](https://github.com/Yash159357/BREVITY/issues/249) |
 | Flutter: Logging in Firestore Service | Easy | [#246](https://github.com/Yash159357/BREVITY/issues/246) |
 | Flutter: Logging in Bookmark Service | Easy | [#245](https://github.com/Yash159357/BREVITY/issues/245) |
@@ -99,14 +97,14 @@
 | Flutter: Logging in News Scroll Bloc | Easy | [#240](https://github.com/Yash159357/BREVITY/issues/240) |
 | Flutter: Logging in Chat Bloc | Easy | [#239](https://github.com/Yash159357/BREVITY/issues/239) |
 | Flutter:  Logging in Bookmark Bloc | Easy | [#238](https://github.com/Yash159357/BREVITY/issues/238) |
-| Flutter: Add Logging to lib/main.dart | Easy | [#237](https://github.com/Yash159357/BREVITY/issues/237) |
-| Fetch the profile picture and name from local storage | Medium | [#230](https://github.com/Yash159357/BREVITY/pull/230) |
+| Account Deletion Route Integration | Medium | [#256](https://github.com/Yash159357/BREVITY/issues/256) |
+| Like / Dislike Route Integration | Medium | [#255](https://github.com/Yash159357/BREVITY/issues/255) |
+| Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Implement OAuth in Frontend | Medium | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
 | Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -172,8 +170,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Flutter: Logging in Tutorial Service | Easy | [#251](https://github.com/Yash159357/BREVITY/issues/251) |
-| Flutter:  Logging in Theme Service | Easy | [#250](https://github.com/Yash159357/BREVITY/issues/250) |
 | Flutter:  Logging in Notification Service | Easy | [#249](https://github.com/Yash159357/BREVITY/issues/249) |
 | Flutter: Logging in Firestore Service | Easy | [#246](https://github.com/Yash159357/BREVITY/issues/246) |
 | Flutter: Logging in Bookmark Service | Easy | [#245](https://github.com/Yash159357/BREVITY/issues/245) |
@@ -184,14 +180,14 @@
 | Flutter: Logging in News Scroll Bloc | Easy | [#240](https://github.com/Yash159357/BREVITY/issues/240) |
 | Flutter: Logging in Chat Bloc | Easy | [#239](https://github.com/Yash159357/BREVITY/issues/239) |
 | Flutter:  Logging in Bookmark Bloc | Easy | [#238](https://github.com/Yash159357/BREVITY/issues/238) |
-| Flutter: Add Logging to lib/main.dart | Easy | [#237](https://github.com/Yash159357/BREVITY/issues/237) |
-| Fetch the profile picture and name from local storage | Medium | [#230](https://github.com/Yash159357/BREVITY/pull/230) |
+| Account Deletion Route Integration | Medium | [#256](https://github.com/Yash159357/BREVITY/issues/256) |
+| Like / Dislike Route Integration | Medium | [#255](https://github.com/Yash159357/BREVITY/issues/255) |
+| Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Implement OAuth in Frontend | Medium | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
 | Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
