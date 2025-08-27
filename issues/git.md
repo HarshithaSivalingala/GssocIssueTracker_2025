@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added the Services Page | Medium | [#257](https://github.com/Amarjha01/InfantCareCompass/pull/257) |
 | Fix/hamburger visibility | Medium | [#254](https://github.com/Amarjha01/InfantCareCompass/pull/254) |
 | Fix: Menu and Close icons not visible in Navbar (#242) | Medium | [#252](https://github.com/Amarjha01/InfantCareCompass/pull/252) |
 | Added counter effect to contributors section | Medium | [#250](https://github.com/Amarjha01/InfantCareCompass/pull/250) |
@@ -44,6 +45,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Event Clustering on Map | Medium | [#450](https://github.com/Bhavya1352/eventmappr/issues/450) |
 | Nearby page dark theme not applying to middle section | Medium | [#411](https://github.com/Bhavya1352/eventmappr/issues/411) |
 | feat: add search, category filter, and sorting to TouristPlacesPage | Medium | [#376](https://github.com/Bhavya1352/eventmappr/pull/376) |
 | Adjust padding in event tiles for smaller screens | Medium | [#367](https://github.com/Bhavya1352/eventmappr/issues/367) |
@@ -248,6 +250,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Add MVP Chatbot for "AI-Powered Assistant" Section | Medium | [#221](https://github.com/AditiGupta-tech/neonest/issues/221) |
+| Theme Toggle | Medium | [#220](https://github.com/AditiGupta-tech/neonest/pull/220) |
+| Update Readme | Medium | [#219](https://github.com/AditiGupta-tech/neonest/pull/219) |
 | Updated Favicon and Resolved conflicts | Medium | [#218](https://github.com/AditiGupta-tech/neonest/pull/218) |
 | Successfully Added PDF download button to Navbar | Medium | [#217](https://github.com/AditiGupta-tech/neonest/pull/217) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -270,9 +275,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added code snippets with syntax highlighting and copy feature | Medium | [#129](https://github.com/Amarjha01/DevNotes/pull/129) |
-| Wrong page redirection | Medium | [#127](https://github.com/Amarjha01/DevNotes/issues/127) |
-| added android prep sheet | Medium | [#126](https://github.com/Amarjha01/DevNotes/pull/126) |
+| implement search across notes by keyword | Medium | [#131](https://github.com/Amarjha01/DevNotes/issues/131) |
 
 ---
 
@@ -402,6 +405,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Easy | [#9](https://github.com/dscnitrourkela/project-xangoes/issues/9) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
+| feat: Implement rate limit using sliding window | Medium | [#16](https://github.com/dscnitrourkela/project-xangoes/pull/16) |
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
 ---
@@ -420,6 +424,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/my contribution | Medium | [#158](https://github.com/dipexplorer/LegalHuB/pull/158) |
+| Backend Feature for Bookmark system | Medium | [#157](https://github.com/dipexplorer/LegalHuB/pull/157) |
 | Improve UI of Main Landing Page for Better Accessibility and Visual Appeal | Medium | [#110](https://github.com/dipexplorer/LegalHuB/issues/110) |
 
 ---
@@ -467,7 +473,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add dark mode toggle and styling | Medium | [#65](https://github.com/lovelymahor/StudyMatePlus/pull/65) |
+| Distorted back to top button shape | Medium | [#66](https://github.com/lovelymahor/StudyMatePlus/issues/66) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | bug:Hero section text cutoff on mobile view | Medium | [#51](https://github.com/lovelymahor/StudyMatePlus/issues/51) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
@@ -490,9 +496,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Easy | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
 | design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Medium | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
+| Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
+| Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
 
 ---
 
@@ -528,6 +536,25 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
 | Implement JWT-Based Authentication Middleware | Medium | [#2](https://github.com/mr-rishikesh/DevConnect/issues/2) |
 | Implement Message Logic with WebSocket (Frontend + Backend Integration) | Hard | [#27](https://github.com/mr-rishikesh/DevConnect/issues/27) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Inconsistent and Weak Color Palette on Hackathon Details Page | Medium | [#98](https://github.com/SandeepVashishtha/Eventra/issues/98) |
+| Irregular / Weak Hover Effect on Event Cards | Medium | [#97](https://github.com/SandeepVashishtha/Eventra/issues/97) |
 
 ---
 
