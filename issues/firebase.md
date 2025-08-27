@@ -41,7 +41,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend: Save a New Project to an Existing Collection (or Auto create the collection) | Medium | [#1213](https://github.com/Code-A2Z/code-a2z/pull/1213) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Created the setup md solving issue #1189 | Medium | [#1202](https://github.com/Code-A2Z/code-a2z/pull/1202) |
 | Random quote generator | Medium | [#1198](https://github.com/Code-A2Z/code-a2z/pull/1198) |
@@ -51,6 +50,8 @@
 | 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
 | 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
 | 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
+| 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
+| 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
 
 ---
 
@@ -70,8 +71,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Saved Tutorials Button not working | Medium | [#97](https://github.com/Bavanetha27/Refixly/issues/97) |
-| Fix: removed duplicate support email from Contact page | Medium | [#96](https://github.com/Bavanetha27/Refixly/pull/96) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
 
@@ -110,6 +109,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve text visibility  on about page content blocks | Medium | [#202](https://github.com/mansiruhil/fail-u-forward/issues/202) |
+| Make the "Welcome to failuforward" title visible. | Medium | [#201](https://github.com/mansiruhil/fail-u-forward/issues/201) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -136,8 +137,8 @@
 |----------|----------------|---------|
 | NEW FOOTER | Easy | [#136](https://github.com/Parnab03/WallGodds/issues/136) |
 | UPLOAD PAGE FOR TABLET WALLPAPERS | Easy | [#127](https://github.com/Parnab03/WallGodds/issues/127) |
+| 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/Parnab03/WallGodds/issues/87) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#8](https://github.com/Parnab03/WallGodds/issues/8) |
-| Full-Screen Preview for Desktop Wallpapers [Accepted and waiting for design] | Medium | [#139](https://github.com/Parnab03/WallGodds/issues/139) |
 | Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/Parnab03/WallGodds/issues/123) |
 | DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/Parnab03/WallGodds/issues/111) |
 | ABOUT US IN MOBILE VERSION | Medium | [#88](https://github.com/Parnab03/WallGodds/issues/88) |
@@ -159,8 +160,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add mobile number column also in registeration screen | Easy | [#435](https://github.com/Prateek9876/NagarVikas/issues/435) |
-| Added the Feature to Search by Message or Username in Discussion Forum #360 Level 3 | Medium | [#440](https://github.com/Prateek9876/NagarVikas/pull/440) |
+| Add a complete functional reports section in admin's dashboard where the admin can see all the reported users with reasons and then they can take action accordingly. | Medium | [#446](https://github.com/Prateek9876/NagarVikas/issues/446) |
+| Add a report option in discussion forum so that the users can report any message to admin. | Medium | [#445](https://github.com/Prateek9876/NagarVikas/issues/445) |
 | On tapping the replied message it goes to the replied message | Medium | [#439](https://github.com/Prateek9876/NagarVikas/pull/439) |
 
 ---
@@ -179,8 +180,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added view details feature | Medium | [#163](https://github.com/Richajaishwal0/Trip_assistant/pull/163) |
+| Context Api for login state management and Optional rendering of signin/login and log out buttons. | Medium | [#162](https://github.com/Richajaishwal0/Trip_assistant/issues/162) |
 | Removed unwanted space from navbar #130 | Medium | [#161](https://github.com/Richajaishwal0/Trip_assistant/pull/161) |
-| Optimize Map Loading Performance | Medium | [#160](https://github.com/Richajaishwal0/Trip_assistant/issues/160) |
 | Fix: #155 Mobile UI/UX issues | Medium | [#158](https://github.com/Richajaishwal0/Trip_assistant/pull/158) |
 | Fix: Add server-side validation for user registration | Medium | [#157](https://github.com/Richajaishwal0/Trip_assistant/pull/157) |
 | feat/contact-page | Medium | [#154](https://github.com/Richajaishwal0/Trip_assistant/pull/154) |
@@ -202,7 +204,6 @@
 | Remove unwanted white space from navbar | Medium | [#130](https://github.com/Richajaishwal0/Trip_assistant/issues/130) |
 | issue  create automate message added | Medium | [#129](https://github.com/Richajaishwal0/Trip_assistant/pull/129) |
 | budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
-| feat: complete UI overhaul - fix navigation visibility, add theme sup… | Medium | [#125](https://github.com/Richajaishwal0/Trip_assistant/pull/125) |
 
 ---
 
@@ -247,8 +248,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Flutter: Logging in Tutorial Service | Easy | [#251](https://github.com/Yash159357/BREVITY/issues/251) |
-| Flutter:  Logging in Theme Service | Easy | [#250](https://github.com/Yash159357/BREVITY/issues/250) |
 | Flutter:  Logging in Notification Service | Easy | [#249](https://github.com/Yash159357/BREVITY/issues/249) |
 | Flutter: Logging in Firestore Service | Easy | [#246](https://github.com/Yash159357/BREVITY/issues/246) |
 | Flutter: Logging in Bookmark Service | Easy | [#245](https://github.com/Yash159357/BREVITY/issues/245) |
@@ -259,14 +258,14 @@
 | Flutter: Logging in News Scroll Bloc | Easy | [#240](https://github.com/Yash159357/BREVITY/issues/240) |
 | Flutter: Logging in Chat Bloc | Easy | [#239](https://github.com/Yash159357/BREVITY/issues/239) |
 | Flutter:  Logging in Bookmark Bloc | Easy | [#238](https://github.com/Yash159357/BREVITY/issues/238) |
-| Flutter: Add Logging to lib/main.dart | Easy | [#237](https://github.com/Yash159357/BREVITY/issues/237) |
-| Fetch the profile picture and name from local storage | Medium | [#230](https://github.com/Yash159357/BREVITY/pull/230) |
+| Account Deletion Route Integration | Medium | [#256](https://github.com/Yash159357/BREVITY/issues/256) |
+| Like / Dislike Route Integration | Medium | [#255](https://github.com/Yash159357/BREVITY/issues/255) |
+| Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Implement OAuth in Frontend | Medium | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
 | Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -285,11 +284,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/sayan0328/WallGodds-App/issues/47) |
-| [UPLOAD PAGE] EDIT WALLPAPER BUTTON | Easy | [#46](https://github.com/sayan0328/WallGodds-App/issues/46) |
 | [UPLOAD PAGE] INSTRUCTIONAL SNACKBAR | Easy | [#45](https://github.com/sayan0328/WallGodds-App/issues/45) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
-| Update: revamp upload popup UI | Medium | [#48](https://github.com/sayan0328/WallGodds-App/pull/48) |
 
 ---
 
@@ -365,8 +361,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Flutter: Logging in Tutorial Service | Easy | [#251](https://github.com/Yash159357/BREVITY/issues/251) |
-| Flutter:  Logging in Theme Service | Easy | [#250](https://github.com/Yash159357/BREVITY/issues/250) |
 | Flutter:  Logging in Notification Service | Easy | [#249](https://github.com/Yash159357/BREVITY/issues/249) |
 | Flutter: Logging in Firestore Service | Easy | [#246](https://github.com/Yash159357/BREVITY/issues/246) |
 | Flutter: Logging in Bookmark Service | Easy | [#245](https://github.com/Yash159357/BREVITY/issues/245) |
@@ -377,14 +371,14 @@
 | Flutter: Logging in News Scroll Bloc | Easy | [#240](https://github.com/Yash159357/BREVITY/issues/240) |
 | Flutter: Logging in Chat Bloc | Easy | [#239](https://github.com/Yash159357/BREVITY/issues/239) |
 | Flutter:  Logging in Bookmark Bloc | Easy | [#238](https://github.com/Yash159357/BREVITY/issues/238) |
-| Flutter: Add Logging to lib/main.dart | Easy | [#237](https://github.com/Yash159357/BREVITY/issues/237) |
-| Fetch the profile picture and name from local storage | Medium | [#230](https://github.com/Yash159357/BREVITY/pull/230) |
+| Account Deletion Route Integration | Medium | [#256](https://github.com/Yash159357/BREVITY/issues/256) |
+| Like / Dislike Route Integration | Medium | [#255](https://github.com/Yash159357/BREVITY/issues/255) |
+| Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Implement OAuth in Frontend | Medium | [#186](https://github.com/Yash159357/BREVITY/issues/186) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
 | Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -538,7 +532,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add dark mode toggle and styling | Medium | [#65](https://github.com/lovelymahor/StudyMatePlus/pull/65) |
+| Distorted back to top button shape | Medium | [#66](https://github.com/lovelymahor/StudyMatePlus/issues/66) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | bug:Hero section text cutoff on mobile view | Medium | [#51](https://github.com/lovelymahor/StudyMatePlus/issues/51) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
@@ -561,6 +555,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add our contributer section and logo for the website and add spacing enhance UI of filter section | Medium | [#148](https://github.com/Varshitha713/CodeCanvas/issues/148) |
+| added the about and submit pages | Medium | [#147](https://github.com/Varshitha713/CodeCanvas/pull/147) |
 | idea about sign up and login page | Medium | [#146](https://github.com/Varshitha713/CodeCanvas/issues/146) |
 | Complete code overhaul: Fixed HTML structure and styling | Medium | [#142](https://github.com/Varshitha713/CodeCanvas/pull/142) |
 | Add favicon to CodeCanvas pages for consistent branding (#116) | Medium | [#141](https://github.com/Varshitha713/CodeCanvas/pull/141) |
@@ -596,10 +592,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add ambulance driver role and fields to user registration (Issue #88) | Medium | [#197](https://github.com/shandilya-rajnandini/DocAtHome/pull/197) |
-| added breadcrumbs feature | Medium | [#196](https://github.com/shandilya-rajnandini/DocAtHome/pull/196) |
-| Improve Accessibility for HomePage, LoginPage, and PatientDashboard | Medium | [#194](https://github.com/shandilya-rajnandini/DocAtHome/pull/194) |
-| feat: enhance registration form validation (#80) | Medium | [#191](https://github.com/shandilya-rajnandini/DocAtHome/pull/191) |
+| feat: Add availability status for doctors and nurses, update related … | Medium | [#201](https://github.com/shandilya-rajnandini/DocAtHome/pull/201) |
+| feat: Add autocomplete search filters for Specialty and City | Medium | [#200](https://github.com/shandilya-rajnandini/DocAtHome/pull/200) |
+| Merge pull request #1 from shandilya-rajnandini/main | Medium | [#198](https://github.com/shandilya-rajnandini/DocAtHome/pull/198) |
 | Page Does Not Scroll to Top on Navigation | Medium | [#190](https://github.com/shandilya-rajnandini/DocAtHome/issues/190) |
 | Implement Newsletter with Full Functionality | Medium | [#189](https://github.com/shandilya-rajnandini/DocAtHome/issues/189) |
 | Implement Google Calendar integration for appointment syncing | Medium | [#188](https://github.com/shandilya-rajnandini/DocAtHome/issues/188) |
@@ -610,7 +605,6 @@
 | Make the booking summary card "sticky" on the profile page | Medium | [#176](https://github.com/shandilya-rajnandini/DocAtHome/issues/176) |
 | Build a system for creating and managing discount codes | Hard | [#186](https://github.com/shandilya-rajnandini/DocAtHome/issues/186) |
 | Abstract API call logic into a reusableuseApicustom hook | Hard | [#185](https://github.com/shandilya-rajnandini/DocAtHome/issues/185) |
-| Implement a "Vacation Mode" to temporarily hide profile | Hard | [#183](https://github.com/shandilya-rajnandini/DocAtHome/issues/183) |
 | Generate a downloadable "Patient Intake Form" for professionals | Hard | [#182](https://github.com/shandilya-rajnandini/DocAtHome/issues/182) |
 | Implement a "Featured Professionals" section on the homepage | Hard | [#180](https://github.com/shandilya-rajnandini/DocAtHome/issues/180) |
 | Implement secure file uploads for patient reports using Multer | Hard | [#178](https://github.com/shandilya-rajnandini/DocAtHome/issues/178) |
@@ -667,7 +661,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Style change of Contact Us | Medium | [#143](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/143) |
 | Resource Page Template Redesign | Medium | [#130](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/130) |
 | Fixes: #75, Enhances navbar UI | Medium | [#119](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/119) |
 | 🎨 Enhancement: Professional UI/UX Redesign for HackerZGuide | Medium | [#117](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/117) |
