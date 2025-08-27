@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Are there any pending issues level  2 or level 3 | Medium | [#80](https://github.com/Ayush0316/KnockoutZone/issues/80) |
 | added user entity and service methods | Medium | [#79](https://github.com/Ayush0316/KnockoutZone/pull/79) |
 | Fix issue #61: Create User Login & Registration Backend with JWT | Medium | [#78](https://github.com/Ayush0316/KnockoutZone/pull/78) |
 | FEAT : Add a "Cursor Trail Effect " Matching to the Website | Medium | [#77](https://github.com/Ayush0316/KnockoutZone/issues/77) |
@@ -46,6 +47,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added types for shops and products | Medium | [#391](https://github.com/yuvrajsinghgmx/ShopSmart/pull/391) |
+| Choices in Product and Shop type. | Medium | [#390](https://github.com/yuvrajsinghgmx/ShopSmart/issues/390) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
@@ -102,6 +105,25 @@
 |----------|----------------|---------|
 | Docs: Update README with Concise API Endpoint Table | Medium | [#52](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/52) |
 | Enhancement: Secure API Endpoints using JWT Authentication | Medium | [#51](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/51) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Inconsistent and Weak Color Palette on Hackathon Details Page | Medium | [#98](https://github.com/SandeepVashishtha/Eventra/issues/98) |
+| Irregular / Weak Hover Effect on Event Cards | Medium | [#97](https://github.com/SandeepVashishtha/Eventra/issues/97) |
 
 ---
 
