@@ -123,25 +123,7 @@ User Profile: BMI calculator and fitness analytics.
 |----------|----------------|---------|
 | [UPLOAD PAGE] INSTRUCTIONAL SNACKBAR | Easy | [#45](https://github.com/sayan0328/WallGodds-App/issues/45) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
-
----
-
-## 📌 Project: ResqFood
-
-📝 **Description:** ResQFood is a platform dedicated to the noble cause of reducing food wastage by facilitating the redistribution of surplus food during late-night hours before restaurant closures.
-
-🔗 [View Project](https://github.com/sourabhkumar47/ResQFood)
-
-💻 **Tech Stack:** Android, Kotlin, Jetpack Compose
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Navigation flow added when selected Restaurant during initial setup : Issue #176 | Medium | [#178](https://github.com/sourabhkumar47/ResQFood/pull/178) |
-| Final update for buildgradle | Medium | [#174](https://github.com/sourabhkumar47/ResQFood/pull/174) |
+| About us can be enhanced | Medium | [#49](https://github.com/sayan0328/WallGodds-App/issues/49) |
 
 ---
 
@@ -159,8 +141,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added types for shops and products | Medium | [#391](https://github.com/yuvrajsinghgmx/ShopSmart/pull/391) |
-| Choices in Product and Shop type. | Medium | [#390](https://github.com/yuvrajsinghgmx/ShopSmart/issues/390) |
+| Added Product Category Filtering. | Medium | [#396](https://github.com/yuvrajsinghgmx/ShopSmart/pull/396) |
+| If no entities are present | Medium | [#395](https://github.com/yuvrajsinghgmx/ShopSmart/issues/395) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
