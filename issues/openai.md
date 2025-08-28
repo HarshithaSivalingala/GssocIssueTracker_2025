@@ -14,13 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added the Services Page | Medium | [#257](https://github.com/Amarjha01/InfantCareCompass/pull/257) |
-| Fix/hamburger visibility | Medium | [#254](https://github.com/Amarjha01/InfantCareCompass/pull/254) |
-| Fix: Menu and Close icons not visible in Navbar (#242) | Medium | [#252](https://github.com/Amarjha01/InfantCareCompass/pull/252) |
-| Added counter effect to contributors section | Medium | [#250](https://github.com/Amarjha01/InfantCareCompass/pull/250) |
-| feat: add dynamic stats counter to About Us page | Medium | [#249](https://github.com/Amarjha01/InfantCareCompass/pull/249) |
-| feat: add dark mode toggle with theme persistence | Medium | [#248](https://github.com/Amarjha01/InfantCareCompass/pull/248) |
-| Fix: link Contact in footer to correct page | Medium | [#247](https://github.com/Amarjha01/InfantCareCompass/pull/247) |
+| Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
+| feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 
@@ -40,9 +35,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Visibility of the text in Dark Mode | Easy | [#204](https://github.com/Ayushjhawar8/Flavor-ai/issues/204) |
-| Fix dark mode text | Medium | [#227](https://github.com/Ayushjhawar8/Flavor-ai/pull/227) |
-| Text visibility issue in Dark Mode for Category Dishes Description | Medium | [#226](https://github.com/Ayushjhawar8/Flavor-ai/pull/226) |
+| Fixed Diet Based filter and Updated RecipeSearchBar state management | Hard | [#229](https://github.com/Ayushjhawar8/Flavor-ai/pull/229) |
 
 ---
 
@@ -60,6 +53,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Sidebar does not highlight active page after navigation | Medium | [#43](https://github.com/kanikaa-3018/contest_onlinejudge/issues/43) |
+| Pending issues | Medium | [#42](https://github.com/kanikaa-3018/contest_onlinejudge/issues/42) |
 | added the toggle button for light and dark theme change | Medium | [#41](https://github.com/kanikaa-3018/contest_onlinejudge/pull/41) |
 | Peer Room Chat + Collaboration | Medium | [#40](https://github.com/kanikaa-3018/contest_onlinejudge/issues/40) |
 | fix: Dark/Light Mode Toggle Implementation | Medium | [#39](https://github.com/kanikaa-3018/contest_onlinejudge/pull/39) |
@@ -93,16 +88,18 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Mouse bubble effect causes lag and disrupts UX | Medium | [#378](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/378) |
-| Security: Disable Copy/Paste in Password Fields | Medium | [#377](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/377) |
-| Added the implementation of backend for Resume ATS | Medium | [#376](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/376) |
-| Add a standard password policy | Medium | [#375](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/375) |
-| Enhance Keyword Checker for More Accurate Matching | Medium | [#374](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/374) |
-| fixed go to dashboard button taking to register page issue | Medium | [#373](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/373) |
-| Added Job Schema in Backend | Medium | [#372](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/372) |
-| Added collaboration section in Company section | Medium | [#371](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/371) |
-| Implemented the integration of frontend and backend of resume builder | Medium | [#370](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/370) |
-| remove duplicate resume builder | Medium | [#369](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/369) |
+| Slow cursor effect | Medium | [#391](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/391) |
+| AI-powered Resume–to–Job Matchmaking with Skill Gap Insights | Medium | [#390](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/390) |
+| ATS Score Integration with Frontend | Medium | [#389](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/389) |
+| feat: Enhance Keyword Checker with Strict Matching Mode | Medium | [#388](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/388) |
+| Implement Job Posting Controller in backend | Medium | [#387](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/387) |
+| Fix: Prevent copy/paste in password fields | Medium | [#386](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/386) |
+| Interview Experience Page Lacks Functionality and Thematic Consistency | Medium | [#384](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/384) |
+| Unwanted Horizontal Scrollbar in Collapsed Sidebar | Medium | [#383](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/383) |
+| Irresponsive 3-Column Layout on Coding Page | Medium | [#382](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/382) |
+| Weekly Progress Card Overlaps Sidebar and Obstructs Content | Medium | [#381](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/381) |
+| when the user scrolls on top of navbar the dashboard content is getting scrolled instead of navbar. | Medium | [#380](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/380) |
+| Implemented profile viewing and updating feature in settings page | Medium | [#379](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/379) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -217,6 +214,7 @@ Why Jeanne?
 | Bug: Hydration Mismatch Error on Landing Page across All Browsers | Easy | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
 | design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| "Back to Top" button missing | Medium | [#97](https://github.com/Axelvyn/Nexara/issues/97) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 | Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
 
