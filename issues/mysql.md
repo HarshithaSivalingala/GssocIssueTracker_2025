@@ -113,6 +113,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| deploying on vercel | Medium | [#59](https://github.com/swarooppatilx/bit-by-query/issues/59) |
 | Added green Next/Prev buttons | Medium | [#58](https://github.com/swarooppatilx/bit-by-query/pull/58) |
 | pr create automate message added | Medium | [#56](https://github.com/swarooppatilx/bit-by-query/pull/56) |
 | Docs: Add SECURITY.md for responsible disclosure | Medium | [#55](https://github.com/swarooppatilx/bit-by-query/pull/55) |
