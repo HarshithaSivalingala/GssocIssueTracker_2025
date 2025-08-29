@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
@@ -35,7 +36,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed Diet Based filter and Updated RecipeSearchBar state management | Hard | [#229](https://github.com/Ayushjhawar8/Flavor-ai/pull/229) |
+| Fix build error (page.jsx → page.tsx) and confirm diet filter & table functionality | Hard | [#232](https://github.com/Ayushjhawar8/Flavor-ai/pull/232) |
 
 ---
 
@@ -88,18 +89,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Slow cursor effect | Medium | [#391](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/391) |
-| AI-powered Resume–to–Job Matchmaking with Skill Gap Insights | Medium | [#390](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/390) |
-| ATS Score Integration with Frontend | Medium | [#389](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/389) |
-| feat: Enhance Keyword Checker with Strict Matching Mode | Medium | [#388](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/388) |
-| Implement Job Posting Controller in backend | Medium | [#387](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/387) |
-| Fix: Prevent copy/paste in password fields | Medium | [#386](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/386) |
-| Interview Experience Page Lacks Functionality and Thematic Consistency | Medium | [#384](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/384) |
-| Unwanted Horizontal Scrollbar in Collapsed Sidebar | Medium | [#383](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/383) |
-| Irresponsive 3-Column Layout on Coding Page | Medium | [#382](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/382) |
-| Weekly Progress Card Overlaps Sidebar and Obstructs Content | Medium | [#381](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/381) |
-| when the user scrolls on top of navbar the dashboard content is getting scrolled instead of navbar. | Medium | [#380](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/380) |
-| Implemented profile viewing and updating feature in settings page | Medium | [#379](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/379) |
+| Add Newsletter Subscription with Toast Notifications | Medium | [#400](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/400) |
+| Add meta description tag for better SEO | Medium | [#399](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/399) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -211,10 +202,7 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Easy | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
-| design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| "Back to Top" button missing | Medium | [#97](https://github.com/Axelvyn/Nexara/issues/97) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 | Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
 
