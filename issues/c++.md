@@ -59,7 +59,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Dijkstra’s Shortest Path Algorithm | Medium | [#53](https://github.com/SharonIV0x86/CinderPeak/issues/53) |
+| Add Dijkstra’s Shortest Path Algorithm | Easy | [#53](https://github.com/SharonIV0x86/CinderPeak/issues/53) |
+| Feat/logging : Resolved | Medium | [#54](https://github.com/SharonIV0x86/CinderPeak/pull/54) |
+| feat(docs): Add "Back to Top" button in README | Medium | [#41](https://github.com/SharonIV0x86/CinderPeak/issues/41) |
 
 ---
 
