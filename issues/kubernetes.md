@@ -14,32 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Easy | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
-| design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| "Back to Top" button missing | Medium | [#97](https://github.com/Axelvyn/Nexara/issues/97) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 | Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
-
----
-
-## 📌 Project: Dream Pixel : AI IMAGE GENERATOR
-
-📝 **Description:** A full-stack AI image generator web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and powered by Hugging Face's Stable Diffusion API to convert text prompts into images. Users can generate images, view them in a community feed, and share their creations.
-
-🔗 [View Project](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN)
-
-💻 **Tech Stack:** MERN, Docker, Kubernetes, Jenkins
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added the toggle button for changing theme mode from light to dark | Medium | [#11](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/pull/11) |
-| Added Code of Conduct | Medium | [#10](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/pull/10) |
-| Added Contributing.md | Medium | [#9](https://github.com/SanmathiSedhupathi/AI_IMAGE_GENERATOR_MERN/pull/9) |
 
 ---
 
