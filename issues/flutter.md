@@ -46,7 +46,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | BUG: Google summer of code's filters are not working | Easy | [#319](https://github.com/andoriyaprashant/OpSo/issues/319) |
-| Remove Deprecated Libraries and Improve Linting Across Project | Medium | [#419](https://github.com/andoriyaprashant/OpSo/pull/419) |
 | BUG: The app is not running | Medium | [#418](https://github.com/andoriyaprashant/OpSo/issues/418) |
 | Use of Reusable widgets | Medium | [#379](https://github.com/andoriyaprashant/OpSo/issues/379) |
 | dark and light mode toggle | Medium | [#369](https://github.com/andoriyaprashant/OpSo/issues/369) |
@@ -76,7 +75,6 @@
 | Flutter: Logging in Theme Cubit | Easy | [#241](https://github.com/Yash159357/BREVITY/issues/241) |
 | Flutter: Logging in News Scroll Bloc | Easy | [#240](https://github.com/Yash159357/BREVITY/issues/240) |
 | Flutter: Logging in Chat Bloc | Easy | [#239](https://github.com/Yash159357/BREVITY/issues/239) |
-| Add logging and fix Firebase web configuration | Medium | [#257](https://github.com/Yash159357/BREVITY/pull/257) |
 | Account Deletion Route Integration | Medium | [#256](https://github.com/Yash159357/BREVITY/issues/256) |
 | Like / Dislike Route Integration | Medium | [#255](https://github.com/Yash159357/BREVITY/issues/255) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
@@ -84,6 +82,8 @@
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -158,7 +158,6 @@
 | Flutter: Logging in Theme Cubit | Easy | [#241](https://github.com/Yash159357/BREVITY/issues/241) |
 | Flutter: Logging in News Scroll Bloc | Easy | [#240](https://github.com/Yash159357/BREVITY/issues/240) |
 | Flutter: Logging in Chat Bloc | Easy | [#239](https://github.com/Yash159357/BREVITY/issues/239) |
-| Add logging and fix Firebase web configuration | Medium | [#257](https://github.com/Yash159357/BREVITY/pull/257) |
 | Account Deletion Route Integration | Medium | [#256](https://github.com/Yash159357/BREVITY/issues/256) |
 | Like / Dislike Route Integration | Medium | [#255](https://github.com/Yash159357/BREVITY/issues/255) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
@@ -166,6 +165,8 @@
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
