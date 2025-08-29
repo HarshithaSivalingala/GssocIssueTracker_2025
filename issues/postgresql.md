@@ -84,6 +84,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Newsletter Subscription in Footer with Toast Notifications + Footer Redesign | Medium | [#860](https://github.com/HarshS16/Civix/issues/860) |
 | Redesign Footer for a More Professional and Cleaner UI | Medium | [#859](https://github.com/HarshS16/Civix/issues/859) |
 | Fix Color, Gradient, and Spacing Problems on Voting and Reports Pages | Medium | [#858](https://github.com/HarshS16/Civix/issues/858) |
 | Fix Inconsistent Color Schemes Across Application | Medium | [#857](https://github.com/HarshS16/Civix/issues/857) |
@@ -109,19 +110,18 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 |----------|----------------|---------|
 | chore(deps): bump the minor-and-patch group across 1 directory with 41 updates | Medium | [#342](https://github.com/Muneerali199/DocMagic/pull/342) |
 | fix: added hover effects to Customer Love and Social Proof components… | Medium | [#341](https://github.com/Muneerali199/DocMagic/pull/341) |
-| fix(README): corrected badge layout and markdown formatting in Getting Started and hero section | Medium | [#340](https://github.com/Muneerali199/DocMagic/pull/340) |
-| Fix Misaligned Scroll Buttons in Mobile View | Medium | [#333](https://github.com/Muneerali199/DocMagic/issues/333) |
 | Profile Sections Need a Stylish Modern Look [OSCI'25] | Medium | [#332](https://github.com/Muneerali199/DocMagic/issues/332) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
 | feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/DocMagic/pull/330) |
 | added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/DocMagic/pull/329) |
-| improved :  updated readme with readme details  , Also do you want me… | Medium | [#326](https://github.com/Muneerali199/DocMagic/pull/326) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/DocMagic/pull/324) |
 | fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/DocMagic/pull/323) |
 | Fix testimonial carousel and adjust layout/arrow positions | Medium | [#321](https://github.com/Muneerali199/DocMagic/pull/321) |
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
+| feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
+| Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 
 ---
 
@@ -321,12 +321,30 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: Hydration Mismatch Error on Landing Page across All Browsers | Easy | [#93](https://github.com/Axelvyn/Nexara/issues/93) |
-| design | Easy | [#86](https://github.com/Axelvyn/Nexara/pull/86) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| "Back to Top" button missing | Medium | [#97](https://github.com/Axelvyn/Nexara/issues/97) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 | Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Improve Contributors Page with Separate Logic and Enhanced UI | Medium | [#102](https://github.com/SandeepVashishtha/Eventra/issues/102) |
+| Establish and Follow a Consistent Color Scheme for Better UI Coherence | Medium | [#101](https://github.com/SandeepVashishtha/Eventra/issues/101) |
+| Restructure Project for Better Organization | Medium | [#100](https://github.com/SandeepVashishtha/Eventra/issues/100) |
+| Improve Text Color Contrast on Home Page | Medium | [#99](https://github.com/SandeepVashishtha/Eventra/issues/99) |
 
 ---
 
@@ -344,7 +362,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Chatbot Icon #123 | Medium | [#124](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/124) |
+| Feature: Make the Navbar dropdown concise and clear. | Medium | [#125](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/125) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
 | feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
@@ -368,9 +386,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/Rich-text-editor using MDX | Medium | [#138](https://github.com/vatsal-bhakodia/smriti-ai/pull/138) |
 | Refactor: Implement Adaptive Quiz and Topic Progress | Medium | [#120](https://github.com/vatsal-bhakodia/smriti-ai/pull/120) |
 | Added dynamic metadata generation per page instead of hardcoded values | Medium | [#114](https://github.com/vatsal-bhakodia/smriti-ai/pull/114) |
+| Interview Preparation Section | Hard | [#141](https://github.com/vatsal-bhakodia/smriti-ai/issues/141) |
 
 ---
 
