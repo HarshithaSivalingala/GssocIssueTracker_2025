@@ -36,14 +36,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FIX: footer and contact detail in white/dark mode | Medium | [#350](https://github.com/gyanshankar1708/GrowCraft/pull/350) |
-| Bug Report:  Footer Theme Adaptation for Dark Mode (Home Page) | Medium | [#347](https://github.com/gyanshankar1708/GrowCraft/issues/347) |
-| Fix Footer Theme Consistency & Styling Across Service Page -  Content Writing | Medium | [#346](https://github.com/gyanshankar1708/GrowCraft/issues/346) |
-| Fix Footer UI and Light/Dark Mode Inconsistency on Website Development Page | Medium | [#345](https://github.com/gyanshankar1708/GrowCraft/issues/345) |
-| Create Dedicated About Us Page | Medium | [#344](https://github.com/gyanshankar1708/GrowCraft/issues/344) |
-| Fix Navbar UI & Hover Inconsistencies in both (dark mode also) | Medium | [#343](https://github.com/gyanshankar1708/GrowCraft/issues/343) |
-| Refactor Code: Separate CSS and JS into external files | Medium | [#342](https://github.com/gyanshankar1708/GrowCraft/issues/342) |
-| BlogWrite Page Navbar and Links | Medium | [#341](https://github.com/gyanshankar1708/GrowCraft/issues/341) |
+| Fix: Contact page dark mode styling for Get In Touch section and info boxes | Medium | [#354](https://github.com/gyanshankar1708/GrowCraft/pull/354) |
 | Added Social media Icon | Medium | [#329](https://github.com/gyanshankar1708/GrowCraft/pull/329) |
 | Make Navbar Sticky Across All Pages | Medium | [#325](https://github.com/gyanshankar1708/GrowCraft/pull/325) |
 
@@ -65,7 +58,13 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | “Update README with Improved Formatting and Contribution Guide” | Easy | [#117](https://github.com/Pujan-sarkar/FARMLOC/issues/117) |
-| Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| Create Explore page linking Marketplace and Cold Storage, style Explore Now button | Medium | [#130](https://github.com/Pujan-sarkar/FARMLOC/pull/130) |
+| fix(ui): improve alignment and size consistency between Navbar and Announcement Bar | Medium | [#129](https://github.com/Pujan-sarkar/FARMLOC/pull/129) |
+| fix(ui): Enhance Navbar and Announcement Bar alignment for consistent UI | Medium | [#128](https://github.com/Pujan-sarkar/FARMLOC/pull/128) |
+| Make Responsive Contact Section | Medium | [#126](https://github.com/Pujan-sarkar/FARMLOC/issues/126) |
+| Improved the user dashboard | Medium | [#125](https://github.com/Pujan-sarkar/FARMLOC/pull/125) |
+| Fix Navbar Top Margin, Farm Fresh Marketplace Color Contrast, and Footer Design Issues | Medium | [#124](https://github.com/Pujan-sarkar/FARMLOC/issues/124) |
+| Responsive Redesign: Footer & Contact Us Improvements for Mobile View[OSCI'25] | Medium | [#123](https://github.com/Pujan-sarkar/FARMLOC/issues/123) |
 | Most asked Questions? section looks odd as compare to others page.[OSCI 25] | Medium | [#122](https://github.com/Pujan-sarkar/FARMLOC/issues/122) |
 | Add Back to Top Button to FARMLOC Landing Page | Medium | [#121](https://github.com/Pujan-sarkar/FARMLOC/pull/121) |
 | "Back to Top" button | Medium | [#120](https://github.com/Pujan-sarkar/FARMLOC/issues/120) |
@@ -82,7 +81,6 @@
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | feat: Add Geolocation + Interactive Map for Cold Storage Locations | Medium | [#90](https://github.com/Pujan-sarkar/FARMLOC/pull/90) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
-| fix: improve text visibility and placeholder styling on login & signup pages | Medium | [#79](https://github.com/Pujan-sarkar/FARMLOC/pull/79) |
 
 ---
 
@@ -101,6 +99,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Navbar Mobile View Overflow | Easy | [#216](https://github.com/sachiva1/sachiva/issues/216) |
+| Fix/email contact us page | Medium | [#238](https://github.com/sachiva1/sachiva/pull/238) |
 | Add Newsletter Subscription with Toast Notifications | Medium | [#237](https://github.com/sachiva1/sachiva/pull/237) |
 | Fix: Prevent first FAQ from auto-expanding on page load | Medium | [#236](https://github.com/sachiva1/sachiva/pull/236) |
 | Navbar Hover Text Not Visible | Medium | [#233](https://github.com/sachiva1/sachiva/issues/233) |
