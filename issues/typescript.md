@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Betterment of Scrollbar for all pages | Medium | [#231](https://github.com/iaadillatif/techxninjas-client/issues/231) |
 | NEEDS A SEPARATE CODE PLAYGROUND SECTION FOR USERS TO PRACTICE CODE | Medium | [#230](https://github.com/iaadillatif/techxninjas-client/issues/230) |
 | NEEDS  A PROFESSIONAL BACKGROUNG IN ALL SECTIONS | Medium | [#229](https://github.com/iaadillatif/techxninjas-client/issues/229) |
 | loign  page is not working | Medium | [#227](https://github.com/iaadillatif/techxninjas-client/issues/227) |
@@ -30,7 +31,6 @@
 | Feature/infinite scroll | Medium | [#206](https://github.com/iaadillatif/techxninjas-client/pull/206) |
 | fixed sidebar transition | Medium | [#203](https://github.com/iaadillatif/techxninjas-client/pull/203) |
 | Navbar UI improvements | Medium | [#197](https://github.com/iaadillatif/techxninjas-client/pull/197) |
-| Fix: Add Import Maps Polyfill for Older Browsers | Medium | [#196](https://github.com/iaadillatif/techxninjas-client/pull/196) |
 | added chatbot | Hard | [#205](https://github.com/iaadillatif/techxninjas-client/pull/205) |
 
 ---
@@ -57,6 +57,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added content for AI/Ml module | Medium | [#395](https://github.com/abhisek2004/Dev-Elevate/pull/395) |
+| 📊 Weekly Project Summary - 8/28/2025 | Medium | [#394](https://github.com/abhisek2004/Dev-Elevate/issues/394) |
 | Add Complete Hackathon Management System | Medium | [#393](https://github.com/abhisek2004/Dev-Elevate/pull/393) |
 | 📊 Weekly Project Summary - 8/27/2025 | Medium | [#392](https://github.com/abhisek2004/Dev-Elevate/issues/392) |
 | 📊 Weekly Project Summary - 8/26/2025 | Medium | [#388](https://github.com/abhisek2004/Dev-Elevate/issues/388) |
@@ -80,16 +82,16 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Upgrade TailwindCSS to v.4.1.12 | Medium | [#2153](https://github.com/OWASP/Nest/pull/2153) |
+| Feature/graphql support for badges | Medium | [#2152](https://github.com/OWASP/Nest/pull/2152) |
 | Update owasp app event model with calendar attributes | Medium | [#2128](https://github.com/OWASP/Nest/pull/2128) |
 | Enhancement in header links in light mode | Medium | [#2126](https://github.com/OWASP/Nest/issues/2126) |
 | Update the SECURITY.md file | Medium | [#2118](https://github.com/OWASP/Nest/issues/2118) |
 | Implemented Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
 | Nestbot MVP | Medium | [#2113](https://github.com/OWASP/Nest/pull/2113) |
-| Feature/user badge model and implement them on frontend too | Medium | [#2101](https://github.com/OWASP/Nest/pull/2101) |
 | Fix homepage container flexibility | Medium | [#2100](https://github.com/OWASP/Nest/pull/2100) |
 | Integrate slack bot with google OAuth | Medium | [#2089](https://github.com/OWASP/Nest/pull/2089) |
 | fixed footer not sticking always to bottom when height is higher | Medium | [#2083](https://github.com/OWASP/Nest/pull/2083) |
-| Setup encryption and decryption for google oauth tokens using AWS KMS | Medium | [#2067](https://github.com/OWASP/Nest/pull/2067) |
 | feat(ui): enhance search results page with better filtering & responsive design | Medium | [#2065](https://github.com/OWASP/Nest/issues/2065) |
 | Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
 
@@ -169,6 +171,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | <Improve the community highlight section> | Easy | [#429](https://github.com/divi-24/SheSync/issues/429) |
+| Enhance the key section | Medium | [#444](https://github.com/divi-24/SheSync/pull/444) |
 | Fixed dark mode UI bugs in Health and Ovulation sections. | Medium | [#442](https://github.com/divi-24/SheSync/pull/442) |
 | Update CONTRIBUTING.md with beginner-friendly guide | Medium | [#440](https://github.com/divi-24/SheSync/pull/440) |
 | Enhance the key section | Medium | [#439](https://github.com/divi-24/SheSync/pull/439) |
@@ -232,8 +235,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve text visibility  on about page content blocks | Medium | [#202](https://github.com/mansiruhil/fail-u-forward/issues/202) |
-| Make the "Welcome to failuforward" title visible. | Medium | [#201](https://github.com/mansiruhil/fail-u-forward/issues/201) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -258,6 +259,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| frontend enhancement | Medium | [#26](https://github.com/mehak-ui/Student-Portal/issues/26) |
 | foter added | Medium | [#25](https://github.com/mehak-ui/Student-Portal/pull/25) |
 | Fixed overall flow and project structure | Medium | [#23](https://github.com/mehak-ui/Student-Portal/pull/23) |
 | Security | Medium | [#22](https://github.com/mehak-ui/Student-Portal/issues/22) |
@@ -363,25 +365,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: CineVerse
-
-📝 **Description:** A beautiful and modern movie search application which allows users to search for movies, view detailed information, and rate their favourites.
-
-🔗 [View Project](https://github.com/rahulkhandait-sde/movie-search)
-
-💻 **Tech Stack:** Next.js, TypeScript, Redux Toolkit, Tailwind CSS, React, OMDB API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| feat: upgraded Footer component with improved design and UX | Medium | [#67](https://github.com/rahulkhandait-sde/cineverse/pull/67) |
-| Added User Authentication System | Medium | [#55](https://github.com/rahulkhandait-sde/cineverse/pull/55) |
-
----
-
 ## 📌 Project: Trip_assistant
 
 📝 **Description:** Project Title Trip Assistant – A Smart Travel Companion Platform  Organization Name Independent  Project Description Trip Assistant is a full-stack travel platform designed to simplify trip planning, booking, and social coordination for travelers. Inspired by platforms like Airbnb, Trip Assistant goes a step further by integrating social features such as a friend system, real-time chat, and a built-in AI chatbot for smart travel assistance.  The platform also includes dedicated dashboards for admin users and hotel/property partners, allowing seamless management of bookings, customer data, and platform activity.  The project is ideal for open-source contributors interested in modern web development, role-based access control, real-time applications, and AI integration.  Key Features ✈️ User Features Accommodation Discovery – Browse and explore stays and destinations  Friend System – Add and connect with fellow travelers  Real-Time Chat – Communicate with friends to plan trips collaboratively  AI Chatbot – Get destination suggestions and answers to FAQs  Secure Authentication – Firebase-based login and registration  🛠 Admin & Partner Features Admin Dashboard – Manage users, content, activity logs, and site moderation  Hotel Dashboard – Hotels/hosts can view bookings, manage properties, and analyze customer engagement  Tech Stack Frontend: React.js with Vite  Backend: Node.js with Express.js  Database & Authentication: Firebase (Firestore + Firebase Auth)  Real-Time Communication: Firebase listeners (Firestore/Realtime DB)  Chatbot Integration: Planned via Dialogflow or custom NLP API  Current Status Frontend development initiated using React + Vite  Firebase setup completed for future integration  Core UI components (homepage, partial authentication) under development  Backend and dashboard planning in progress  Clear roadmap defined for upcoming GSSoC contribution phase  Goals for GSSoC Finalize and optimize user flows and authentication  Implement friend system and real-time chat  Build fully functional admin and partner dashboards  Integrate chatbot for intelligent travel assistance  Improve UI/UX and ensure responsiveness across devices  Maintain clear documentation and contribution guidelines  Why This Project? Trip Assistant offers contributors an opportunity to work on a real-world, community-focused travel application using modern technologies. It is suitable for developers interested in:  Full-stack web development  Real-time applications  Firebase ecosystem  Role-based access systems  AI chatbot integration  This project combines technology and travel to create a practical, scalable platform with real social impact.
@@ -396,6 +379,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incomplete Folder Structure in Repository | Medium | [#167](https://github.com/Richajaishwal0/Trip_assistant/issues/167) |
+| Added OptimizedMap component with points | Medium | [#166](https://github.com/Richajaishwal0/Trip_assistant/pull/166) |
+| fix: remove duplicate icon in client/index.html | Medium | [#165](https://github.com/Richajaishwal0/Trip_assistant/pull/165) |
 | Enhanced authentication using zod , and modified optional rendering of login/signup buttons and logout buttons using VerifyToken and Context Api. | Medium | [#164](https://github.com/Richajaishwal0/Trip_assistant/pull/164) |
 | Added view details feature | Medium | [#163](https://github.com/Richajaishwal0/Trip_assistant/pull/163) |
 | Removed unwanted space from navbar #130 | Medium | [#161](https://github.com/Richajaishwal0/Trip_assistant/pull/161) |
@@ -416,9 +402,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Login and Signup buttons to hero section for Issue #98 | Medium | [#136](https://github.com/Richajaishwal0/Trip_assistant/pull/136) |
 | Feature Request: Authentication Middleware & Conditional Rendering of Auth Buttons | Medium | [#135](https://github.com/Richajaishwal0/Trip_assistant/issues/135) |
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
-| Remove unwanted white space from navbar | Medium | [#130](https://github.com/Richajaishwal0/Trip_assistant/issues/130) |
-| issue  create automate message added | Medium | [#129](https://github.com/Richajaishwal0/Trip_assistant/pull/129) |
-| budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
 
 ---
 
@@ -472,9 +455,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding Toastify  notification for all the activities done | Medium | [#84](https://github.com/SamXop123/RigCrafter/issues/84) |
-| refactor(suggestions): Type-harden and refactor component suggestion logic | Medium | [#83](https://github.com/SamXop123/RigCrafter/pull/83) |
-| Type safety errors for 'possibly undefined' compatibility properties | Medium | [#79](https://github.com/SamXop123/RigCrafter/issues/79) |
+| Added React Toastify feature | Medium | [#88](https://github.com/SamXop123/RigCrafter/pull/88) |
 | added images in blog section | Medium | [#75](https://github.com/SamXop123/RigCrafter/pull/75) |
 
 ---
@@ -519,6 +500,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added CourseProgress with progress bar and styled video cards | Medium | [#230](https://github.com/souvikpramanikgit/LearnHub/pull/230) |
+| fix: Improve Text Visibility in Light Mode (Theme Issue) | Medium | [#229](https://github.com/souvikpramanikgit/LearnHub/pull/229) |
 | Improve Text Visibility in Light Mode (Theme Issue) | Medium | [#228](https://github.com/souvikpramanikgit/LearnHub/issues/228) |
 | added Python tutorial | Medium | [#227](https://github.com/souvikpramanikgit/LearnHub/pull/227) |
 | Improve footer section | Medium | [#226](https://github.com/souvikpramanikgit/LearnHub/issues/226) |
@@ -553,6 +536,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| feat: tanstack-integration | Medium | [#93](https://github.com/sristy17/next-payroll/pull/93) |
 | Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
@@ -710,6 +694,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Add Footer Section | Medium | [#20](https://github.com/Ananta025/VIDEO_MEET/issues/20) |
+| Feature Request: Add "About Us" Section | Medium | [#19](https://github.com/Ananta025/VIDEO_MEET/issues/19) |
 | Fixed: Camera mirroring and button | Medium | [#18](https://github.com/Ananta025/VIDEO_MEET/pull/18) |
 | Suggestion: Add a Code of Conduct | Medium | [#16](https://github.com/Ananta025/VIDEO_MEET/issues/16) |
 | Feature: Add Favicon to Website | Medium | [#14](https://github.com/Ananta025/VIDEO_MEET/issues/14) |
@@ -759,6 +745,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/Loop-Hive/ScheduleX/pull/147) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
 | Edit Menu Button Delayed Activation | Medium | [#112](https://github.com/Loop-Hive/ScheduleX/issues/112) |
 | Overflowing Issue in Schedule Select Menu | Medium | [#111](https://github.com/Loop-Hive/ScheduleX/issues/111) |
@@ -1009,6 +996,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @vitejs/plugin-react from 4.3.2 to 5.0.2 | Medium | [#89](https://github.com/Ojas-Arora/SapneSeSafar/pull/89) |
 | Bump @libsql/client from 0.5.6 to 0.15.14 | Medium | [#88](https://github.com/Ojas-Arora/SapneSeSafar/pull/88) |
 | Bump lucide-react from 0.344.0 to 0.542.0 | Medium | [#87](https://github.com/Ojas-Arora/SapneSeSafar/pull/87) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.56.0 | Medium | [#86](https://github.com/Ojas-Arora/SapneSeSafar/pull/86) |
@@ -1016,7 +1004,6 @@ Fast Workflow Tools
 | Bump eslint from 9.12.0 to 9.34.0 | Medium | [#83](https://github.com/Ojas-Arora/SapneSeSafar/pull/83) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
 | Bump vite from 5.4.17 to 7.1.3 | Medium | [#81](https://github.com/Ojas-Arora/SapneSeSafar/pull/81) |
-| Bump @vitejs/plugin-react from 4.3.2 to 5.0.1 | Medium | [#80](https://github.com/Ojas-Arora/SapneSeSafar/pull/80) |
 | Bump tailwindcss from 3.4.17 to 4.1.12 | Medium | [#75](https://github.com/Ojas-Arora/SapneSeSafar/pull/75) |
 | Bump recharts from 2.15.0 to 3.1.2 | Medium | [#64](https://github.com/Ojas-Arora/SapneSeSafar/pull/64) |
 | Bump three from 0.161.0 to 0.179.1 | Medium | [#63](https://github.com/Ojas-Arora/SapneSeSafar/pull/63) |
@@ -1133,7 +1120,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Chatbot Icon #123 | Medium | [#124](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/124) |
+| Feature: Make the Navbar dropdown concise and clear. | Medium | [#125](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/125) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
 | feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
@@ -1207,8 +1194,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: unresolve motion/react installation docs in interactive-tooltip.mdx | Medium | [#77](https://github.com/subhadeeproy3902/mvpblocks/pull/77) |
-| fix: unresolve motion/react installation docs in gradient-bars.mdx | Medium | [#76](https://github.com/subhadeeproy3902/mvpblocks/pull/76) |
 | /docs/mainsections/team image not fully covering the container, added a ss for understanding | Medium | [#75](https://github.com/subhadeeproy3902/mvpblocks/issues/75) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
@@ -1232,6 +1217,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: enhance idea submission with rate limiting, duplicate detection and certificate generation ISSUE #14 | Medium | [#39](https://github.com/vinit105/ideaVault/pull/39) |
 | 🌐 Feature Request: Public Idea Registry with Filters and Tags | Medium | [#1](https://github.com/vinit105/ideaVault/issues/1) |
 
 ---
