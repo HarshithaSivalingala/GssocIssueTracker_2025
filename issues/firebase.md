@@ -70,10 +70,29 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced Footer Component | Medium | [#101](https://github.com/Bavanetha27/Refixly/pull/101) |
 | Signup Backend not Functional | Medium | [#100](https://github.com/Bavanetha27/Refixly/issues/100) |
-| fixed the logo problem | Medium | [#99](https://github.com/Bavanetha27/Refixly/pull/99) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
+
+---
+
+## 📌 Project: Firebase Chat App
+
+📝 **Description:** A real-time chat application built using Firebase and React. It allows users to sign in with Google authentication, exchange messages instantly, and manage user sessions securely. The app showcases the power of serverless technologies with a sleek and responsive UI. Ideal for contributors interested in React, Firebase, and modern frontend/backend integration.
+
+🔗 [View Project](https://github.com/Dhruvi-tech/firebase-chat-app)
+
+💻 **Tech Stack:** React.js, Firebase Authentication, Firestore Database, HTML, CSS, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| delete message funtion | Medium | [#50](https://github.com/Dhruvi-tech/firebase-chat-app/pull/50) |
+| performance issues in the chat application | Medium | [#49](https://github.com/Dhruvi-tech/firebase-chat-app/issues/49) |
 
 ---
 
@@ -91,8 +110,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve text visibility  on about page content blocks | Medium | [#202](https://github.com/mansiruhil/fail-u-forward/issues/202) |
-| Make the "Welcome to failuforward" title visible. | Medium | [#201](https://github.com/mansiruhil/fail-u-forward/issues/201) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -142,6 +159,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incomplete Folder Structure in Repository | Medium | [#167](https://github.com/Richajaishwal0/Trip_assistant/issues/167) |
+| Added OptimizedMap component with points | Medium | [#166](https://github.com/Richajaishwal0/Trip_assistant/pull/166) |
+| fix: remove duplicate icon in client/index.html | Medium | [#165](https://github.com/Richajaishwal0/Trip_assistant/pull/165) |
 | Enhanced authentication using zod , and modified optional rendering of login/signup buttons and logout buttons using VerifyToken and Context Api. | Medium | [#164](https://github.com/Richajaishwal0/Trip_assistant/pull/164) |
 | Added view details feature | Medium | [#163](https://github.com/Richajaishwal0/Trip_assistant/pull/163) |
 | Removed unwanted space from navbar #130 | Medium | [#161](https://github.com/Richajaishwal0/Trip_assistant/pull/161) |
@@ -162,9 +182,6 @@
 | Add Login and Signup buttons to hero section for Issue #98 | Medium | [#136](https://github.com/Richajaishwal0/Trip_assistant/pull/136) |
 | Feature Request: Authentication Middleware & Conditional Rendering of Auth Buttons | Medium | [#135](https://github.com/Richajaishwal0/Trip_assistant/issues/135) |
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
-| Remove unwanted white space from navbar | Medium | [#130](https://github.com/Richajaishwal0/Trip_assistant/issues/130) |
-| issue  create automate message added | Medium | [#129](https://github.com/Richajaishwal0/Trip_assistant/pull/129) |
-| budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
 
 ---
 
@@ -218,7 +235,6 @@
 | Flutter: Logging in Theme Cubit | Easy | [#241](https://github.com/Yash159357/BREVITY/issues/241) |
 | Flutter: Logging in News Scroll Bloc | Easy | [#240](https://github.com/Yash159357/BREVITY/issues/240) |
 | Flutter: Logging in Chat Bloc | Easy | [#239](https://github.com/Yash159357/BREVITY/issues/239) |
-| Add logging and fix Firebase web configuration | Medium | [#257](https://github.com/Yash159357/BREVITY/pull/257) |
 | Account Deletion Route Integration | Medium | [#256](https://github.com/Yash159357/BREVITY/issues/256) |
 | Like / Dislike Route Integration | Medium | [#255](https://github.com/Yash159357/BREVITY/issues/255) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
@@ -226,6 +242,8 @@
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -331,7 +349,6 @@
 | Flutter: Logging in Theme Cubit | Easy | [#241](https://github.com/Yash159357/BREVITY/issues/241) |
 | Flutter: Logging in News Scroll Bloc | Easy | [#240](https://github.com/Yash159357/BREVITY/issues/240) |
 | Flutter: Logging in Chat Bloc | Easy | [#239](https://github.com/Yash159357/BREVITY/issues/239) |
-| Add logging and fix Firebase web configuration | Medium | [#257](https://github.com/Yash159357/BREVITY/pull/257) |
 | Account Deletion Route Integration | Medium | [#256](https://github.com/Yash159357/BREVITY/issues/256) |
 | Like / Dislike Route Integration | Medium | [#255](https://github.com/Yash159357/BREVITY/issues/255) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
@@ -339,6 +356,8 @@
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -359,6 +378,7 @@
 |----------|----------------|---------|
 | Bug: Dark mode functionality | Easy | [#78](https://github.com/Skrache/crisisboard/issues/78) |
 | Add Favicon to Website | Easy | [#65](https://github.com/Skrache/crisisboard/issues/65) |
+| Edit Profile Page UI is Inconsistent with Other Pages | Medium | [#83](https://github.com/Skrache/crisisboard/issues/83) |
 | favicon implementation | Medium | [#82](https://github.com/Skrache/crisisboard/issues/82) |
 | Add "Back to Top" button in README | Medium | [#72](https://github.com/Skrache/crisisboard/issues/72) |
 | Need About us Section | Medium | [#63](https://github.com/Skrache/crisisboard/issues/63) |
@@ -407,6 +427,7 @@
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Update UI for Sidebar | Easy | [#33](https://github.com/Loop-Hive/ScheduleX/issues/33) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/Loop-Hive/ScheduleX/pull/147) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
 | Edit Menu Button Delayed Activation | Medium | [#112](https://github.com/Loop-Hive/ScheduleX/issues/112) |
 | Overflowing Issue in Schedule Select Menu | Medium | [#111](https://github.com/Loop-Hive/ScheduleX/issues/111) |
@@ -490,7 +511,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Distorted back to top button shape | Easy | [#66](https://github.com/lovelymahor/StudyMatePlus/issues/66) |
-| Fixed shape of scroll to top button | Medium | [#69](https://github.com/lovelymahor/StudyMatePlus/pull/69) |
+| Made the submit feedback form | Medium | [#70](https://github.com/lovelymahor/StudyMatePlus/pull/70) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | bug:Hero section text cutoff on mobile view | Medium | [#51](https://github.com/lovelymahor/StudyMatePlus/issues/51) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
@@ -513,11 +534,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add favicon to improve better UI | Medium | [#149](https://github.com/Varshitha713/CodeCanvas/pull/149) |
 | Add our contributer section and logo for the website and add spacing enhance UI of filter section | Medium | [#148](https://github.com/Varshitha713/CodeCanvas/issues/148) |
-| added the about and submit pages | Medium | [#147](https://github.com/Varshitha713/CodeCanvas/pull/147) |
 | idea about sign up and login page | Medium | [#146](https://github.com/Varshitha713/CodeCanvas/issues/146) |
 | Complete code overhaul: Fixed HTML structure and styling | Medium | [#142](https://github.com/Varshitha713/CodeCanvas/pull/142) |
-| Add favicon to CodeCanvas pages for consistent branding (#116) | Medium | [#141](https://github.com/Varshitha713/CodeCanvas/pull/141) |
 | Chore/restructure readme | Medium | [#138](https://github.com/Varshitha713/CodeCanvas/pull/138) |
 | Improved footer design (Fixes #133) | Medium | [#136](https://github.com/Varshitha713/CodeCanvas/pull/136) |
 | Send Message button visible in hover Dark Mode | Medium | [#131](https://github.com/Varshitha713/CodeCanvas/pull/131) |
@@ -566,10 +586,7 @@
 | Implement a "Near Me" search using browser geolocation | Medium | [#181](https://github.com/shandilya-rajnandini/DocAtHome/issues/181) |
 | Track and store the "last active" timestamp for users | Medium | [#179](https://github.com/shandilya-rajnandini/DocAtHome/issues/179) |
 | Make the booking summary card "sticky" on the profile page | Medium | [#176](https://github.com/shandilya-rajnandini/DocAtHome/issues/176) |
-| Build a system for creating and managing discount codes | Hard | [#186](https://github.com/shandilya-rajnandini/DocAtHome/issues/186) |
-| Abstract API call logic into a reusableuseApicustom hook | Hard | [#185](https://github.com/shandilya-rajnandini/DocAtHome/issues/185) |
 | Generate a downloadable "Patient Intake Form" for professionals | Hard | [#182](https://github.com/shandilya-rajnandini/DocAtHome/issues/182) |
-| Implement a "Featured Professionals" section on the homepage | Hard | [#180](https://github.com/shandilya-rajnandini/DocAtHome/issues/180) |
 | Implement secure file uploads for patient reports using Multer | Hard | [#178](https://github.com/shandilya-rajnandini/DocAtHome/issues/178) |
 | Implement a "Save as Draft" feature for the doctor's profile | Hard | [#175](https://github.com/shandilya-rajnandini/DocAtHome/issues/175) |
 
@@ -589,9 +606,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Create Post Page & API Integration | Medium | [#61](https://github.com/mr-rishikesh/DevConnect/pull/61) |
-| Added Custom 404 Page and Improved Sign-In/Sign-Up UI with Eye Icon | Medium | [#60](https://github.com/mr-rishikesh/DevConnect/pull/60) |
-| Remade Navbar, Footer, and Home Landing Page with New Font & Color Themes | Medium | [#59](https://github.com/mr-rishikesh/DevConnect/pull/59) |
+| Structured Backend: Improved Route Imports, Refactored Server & App Logic, and Enhanced DB Connection | Medium | [#63](https://github.com/mr-rishikesh/DevConnect/pull/63) |
+| Added Ctrl + K Theme Toggle Shortcut and Enhanced Create Post Page UI | Medium | [#62](https://github.com/mr-rishikesh/DevConnect/pull/62) |
 | Login & Signup section ui enhancement | Medium | [#58](https://github.com/mr-rishikesh/DevConnect/issues/58) |
 | Password Reset Vulnerability | Medium | [#57](https://github.com/mr-rishikesh/DevConnect/issues/57) |
 | Weak Password Policy | Medium | [#56](https://github.com/mr-rishikesh/DevConnect/issues/56) |
@@ -624,6 +640,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Added Custom 404 Page with Navigation #139 | Medium | [#144](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/144) |
 | Resource Page Template Redesign | Medium | [#130](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/130) |
 | Fixes: #75, Enhances navbar UI | Medium | [#119](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/119) |
 | 🎨 Enhancement: Professional UI/UX Redesign for HackerZGuide | Medium | [#117](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/117) |
