@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
@@ -37,28 +38,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced Footer Component | Medium | [#101](https://github.com/Bavanetha27/Refixly/pull/101) |
 | Signup Backend not Functional | Medium | [#100](https://github.com/Bavanetha27/Refixly/issues/100) |
-| fixed the logo problem | Medium | [#99](https://github.com/Bavanetha27/Refixly/pull/99) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
-
----
-
-## 📌 Project: Medical Adherence Monitoring System
-
-📝 **Description:** An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle. Demo Video: https://res.cloudinary.com/dzl3qnjqk/video/upload/v1751681025/VID-20250419-WA0000_4_tycodg.mp4
-
-🔗 [View Project](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System)
-
-💻 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Solved issue of Harden-Backend-route #25(Issue) | Medium | [#29](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/29) |
 
 ---
 
