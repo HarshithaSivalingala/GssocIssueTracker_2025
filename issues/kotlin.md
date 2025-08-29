@@ -141,7 +141,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Product Category Filtering. | Medium | [#396](https://github.com/yuvrajsinghgmx/ShopSmart/pull/396) |
+| show nearest shops when none are in radius | Medium | [#398](https://github.com/yuvrajsinghgmx/ShopSmart/pull/398) |
 | If no entities are present | Medium | [#395](https://github.com/yuvrajsinghgmx/ShopSmart/issues/395) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
