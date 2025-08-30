@@ -15,8 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Integrate Leaves count And all emaillist in Leaves Tab | Easy | [#109](https://github.com/abhisek247767/PeopleHub-Frontend/issues/109) |
-| Dark Mode apply mode color not change | Easy | [#106](https://github.com/abhisek247767/PeopleHub-Frontend/issues/106) |
-| Dark Mode apply mode color not change | Medium | [#110](https://github.com/abhisek247767/PeopleHub-Frontend/pull/110) |
 
 ---
 
