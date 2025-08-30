@@ -106,6 +106,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Instruction box UI and Add Click-Outside-to-Close Behavior | Medium | [#61](https://github.com/swarooppatilx/bit-by-query/issues/61) |
+| Categorize Questions into Difficulty Levels (Easy, Medium, Hard) | Medium | [#60](https://github.com/swarooppatilx/bit-by-query/issues/60) |
 | deploying on vercel | Medium | [#59](https://github.com/swarooppatilx/bit-by-query/issues/59) |
 | Added green Next/Prev buttons | Medium | [#58](https://github.com/swarooppatilx/bit-by-query/pull/58) |
 | pr create automate message added | Medium | [#56](https://github.com/swarooppatilx/bit-by-query/pull/56) |
@@ -131,6 +133,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add API Endpoint Documentation to README | Medium | [#54](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/54) |
 | Docs: Update README with Concise API Endpoint Table | Medium | [#52](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/52) |
 | Enhancement: Secure API Endpoints using JWT Authentication | Medium | [#51](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/51) |
 
