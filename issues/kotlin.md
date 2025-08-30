@@ -123,7 +123,6 @@ User Profile: BMI calculator and fitness analytics.
 |----------|----------------|---------|
 | [UPLOAD PAGE] INSTRUCTIONAL SNACKBAR | Easy | [#45](https://github.com/sayan0328/WallGodds-App/issues/45) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
-| About us can be enhanced | Medium | [#49](https://github.com/sayan0328/WallGodds-App/issues/49) |
 
 ---
 
