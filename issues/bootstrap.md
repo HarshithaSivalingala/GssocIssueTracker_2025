@@ -36,7 +36,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Contact page dark mode styling for Get In Touch section and info boxes | Medium | [#354](https://github.com/gyanshankar1708/GrowCraft/pull/354) |
+| Social Media link is not present in footer. | Medium | [#368](https://github.com/gyanshankar1708/GrowCraft/issues/368) |
 | Added Social media Icon | Medium | [#329](https://github.com/gyanshankar1708/GrowCraft/pull/329) |
 | Make Navbar Sticky Across All Pages | Medium | [#325](https://github.com/gyanshankar1708/GrowCraft/pull/325) |
 
@@ -57,27 +57,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| “Update README with Improved Formatting and Contribution Guide” | Easy | [#117](https://github.com/Pujan-sarkar/FARMLOC/issues/117) |
+| Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| Fix Navbar & Announcement Bar Size Mismatch | Medium | [#134](https://github.com/Pujan-sarkar/FARMLOC/issues/134) |
+| Fix: Add dark mode support for login, signup, and pages | Medium | [#132](https://github.com/Pujan-sarkar/FARMLOC/pull/132) |
+| Marketplace section not clearly visible on hover. | Medium | [#131](https://github.com/Pujan-sarkar/FARMLOC/issues/131) |
 | Create Explore page linking Marketplace and Cold Storage, style Explore Now button | Medium | [#130](https://github.com/Pujan-sarkar/FARMLOC/pull/130) |
 | fix(ui): improve alignment and size consistency between Navbar and Announcement Bar | Medium | [#129](https://github.com/Pujan-sarkar/FARMLOC/pull/129) |
 | fix(ui): Enhance Navbar and Announcement Bar alignment for consistent UI | Medium | [#128](https://github.com/Pujan-sarkar/FARMLOC/pull/128) |
 | Make Responsive Contact Section | Medium | [#126](https://github.com/Pujan-sarkar/FARMLOC/issues/126) |
-| Improved the user dashboard | Medium | [#125](https://github.com/Pujan-sarkar/FARMLOC/pull/125) |
 | Fix Navbar Top Margin, Farm Fresh Marketplace Color Contrast, and Footer Design Issues | Medium | [#124](https://github.com/Pujan-sarkar/FARMLOC/issues/124) |
 | Responsive Redesign: Footer & Contact Us Improvements for Mobile View[OSCI'25] | Medium | [#123](https://github.com/Pujan-sarkar/FARMLOC/issues/123) |
 | Most asked Questions? section looks odd as compare to others page.[OSCI 25] | Medium | [#122](https://github.com/Pujan-sarkar/FARMLOC/issues/122) |
-| Add Back to Top Button to FARMLOC Landing Page | Medium | [#121](https://github.com/Pujan-sarkar/FARMLOC/pull/121) |
-| "Back to Top" button | Medium | [#120](https://github.com/Pujan-sarkar/FARMLOC/issues/120) |
 | Add smooth slide-down animation to FAQ answers | Medium | [#119](https://github.com/Pujan-sarkar/FARMLOC/issues/119) |
-| "Update README with Improved Formatting and Contribution Guide ”. | Medium | [#118](https://github.com/Pujan-sarkar/FARMLOC/pull/118) |
-| Improve "Our Services" section with Flip Card Animation | Medium | [#116](https://github.com/Pujan-sarkar/FARMLOC/pull/116) |
 | enhanced contact form and added nodemailer smtp server endpoint to se… | Medium | [#115](https://github.com/Pujan-sarkar/FARMLOC/pull/115) |
 | Login Submission Fails with 404: NOT_FOUND Error | Medium | [#114](https://github.com/Pujan-sarkar/FARMLOC/issues/114) |
 | added back to top component | Medium | [#113](https://github.com/Pujan-sarkar/FARMLOC/pull/113) |
-| Filter/feature filter | Medium | [#112](https://github.com/Pujan-sarkar/FARMLOC/pull/112) |
-| Applied dark theme on the marketplace section | Medium | [#111](https://github.com/Pujan-sarkar/FARMLOC/pull/111) |
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
-| Applied Dark Theme on Marketplace | Medium | [#109](https://github.com/Pujan-sarkar/FARMLOC/pull/109) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | feat: Add Geolocation + Interactive Map for Cold Storage Locations | Medium | [#90](https://github.com/Pujan-sarkar/FARMLOC/pull/90) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
