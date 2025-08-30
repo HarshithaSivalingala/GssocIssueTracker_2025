@@ -14,10 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added hover effect to stats card on dashboard screen | Medium | [#68](https://github.com/Abhinavhaldiya/FinPilot/pull/68) |
+| Update Export button functionality | Medium | [#67](https://github.com/Abhinavhaldiya/FinPilot/pull/67) |
 | ui: Created new UI for adding new claim, with multiple file support also | Medium | [#66](https://github.com/Abhinavhaldiya/FinPilot/pull/66) |
 | Implement Full Backend for FinPilot (CRUD, Workflows, Dashboard APIs) | Medium | [#65](https://github.com/Abhinavhaldiya/FinPilot/issues/65) |
 | deployment | Medium | [#64](https://github.com/Abhinavhaldiya/FinPilot/issues/64) |
-| Add password reset functionality | Medium | [#63](https://github.com/Abhinavhaldiya/FinPilot/issues/63) |
 | middleware-and-protected-routes-for-user | Medium | [#60](https://github.com/Abhinavhaldiya/FinPilot/pull/60) |
 | feat: update login page with SVG wave background | Medium | [#59](https://github.com/Abhinavhaldiya/FinPilot/pull/59) |
 | feat:Setup folder structure for modular features: users, expenses, ap… | Medium | [#53](https://github.com/Abhinavhaldiya/FinPilot/pull/53) |
@@ -84,10 +85,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Newsletter Subscription in Footer with Toast Notifications + Footer Redesign | Medium | [#860](https://github.com/HarshS16/Civix/issues/860) |
 | Redesign Footer for a More Professional and Cleaner UI | Medium | [#859](https://github.com/HarshS16/Civix/issues/859) |
-| Fix Color, Gradient, and Spacing Problems on Voting and Reports Pages | Medium | [#858](https://github.com/HarshS16/Civix/issues/858) |
-| Fix Inconsistent Color Schemes Across Application | Medium | [#857](https://github.com/HarshS16/Civix/issues/857) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 
 ---
@@ -108,6 +106,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Contact Feature | Medium | [#343](https://github.com/Muneerali199/DocMagic/issues/343) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 41 updates | Medium | [#342](https://github.com/Muneerali199/DocMagic/pull/342) |
 | fix: added hover effects to Customer Love and Social Proof components… | Medium | [#341](https://github.com/Muneerali199/DocMagic/pull/341) |
 | Profile Sections Need a Stylish Modern Look [OSCI'25] | Medium | [#332](https://github.com/Muneerali199/DocMagic/issues/332) |
@@ -143,7 +142,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
 | Added profile delete feature | Medium | [#82](https://github.com/Er-luffy-D/SimplifAI/pull/82) |
-| Vmpranav/rag implementation | Medium | [#76](https://github.com/Er-luffy-D/SimplifAI/pull/76) |
 
 ---
 
@@ -322,29 +320,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Feature Request: Implement Contact Feature using Nodemailer | Medium | [#99](https://github.com/Axelvyn/Nexara/issues/99) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 | Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
-
----
-
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improve Contributors Page with Separate Logic and Enhanced UI | Medium | [#102](https://github.com/SandeepVashishtha/Eventra/issues/102) |
-| Establish and Follow a Consistent Color Scheme for Better UI Coherence | Medium | [#101](https://github.com/SandeepVashishtha/Eventra/issues/101) |
-| Restructure Project for Better Organization | Medium | [#100](https://github.com/SandeepVashishtha/Eventra/issues/100) |
-| Improve Text Color Contrast on Home Page | Medium | [#99](https://github.com/SandeepVashishtha/Eventra/issues/99) |
 
 ---
 
@@ -362,7 +340,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Make the Navbar dropdown concise and clear. | Medium | [#125](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/125) |
+| feat/added-tooltip-for-navbar-dropdown | Medium | [#126](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/126) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
 | feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
@@ -386,8 +364,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(blogs): redesigned blogs page with card-based responsive layout … | Medium | [#147](https://github.com/vatsal-bhakodia/smriti-ai/pull/147) |
+| Feature Proposal: Learning Streak Tracker | Medium | [#146](https://github.com/vatsal-bhakodia/smriti-ai/issues/146) |
+| Add Sitemap for SEO | Medium | [#144](https://github.com/vatsal-bhakodia/smriti-ai/issues/144) |
 | Refactor: Implement Adaptive Quiz and Topic Progress | Medium | [#120](https://github.com/vatsal-bhakodia/smriti-ai/pull/120) |
-| Added dynamic metadata generation per page instead of hardcoded values | Medium | [#114](https://github.com/vatsal-bhakodia/smriti-ai/pull/114) |
+| Add Dynamic Meta Tags (Title, Keywords, Description) | Hard | [#143](https://github.com/vatsal-bhakodia/smriti-ai/issues/143) |
 | Interview Preparation Section | Hard | [#141](https://github.com/vatsal-bhakodia/smriti-ai/issues/141) |
 
 ---
