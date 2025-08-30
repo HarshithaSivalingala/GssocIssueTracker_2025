@@ -67,6 +67,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Feature Request: Implement Contact Feature using Nodemailer | Medium | [#99](https://github.com/Axelvyn/Nexara/issues/99) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 | Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
 
@@ -86,7 +87,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: enhance idea submission with rate limiting, duplicate detection and certificate generation ISSUE #14 | Medium | [#39](https://github.com/vinit105/ideaVault/pull/39) |
 | 🌐 Feature Request: Public Idea Registry with Filters and Tags | Medium | [#1](https://github.com/vinit105/ideaVault/issues/1) |
 
 ---
