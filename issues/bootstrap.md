@@ -18,30 +18,6 @@
 
 ---
 
-## 📌 Project: GrowCraft
-
-📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
- 
- This open-source project aims to bridge the gap between learning and practical exposure. It is built using HTML, CSS, JavaScript, and Bootstrap. Through GSSoC, contributors can enhance the UI/UX, optimize responsiveness, improve code structure, and add new features like a blog, portfolio showcase, and contact backend integration.
- 
- We welcome developers, designers, technical writers, and digital marketers to collaborate, learn, and grow with GrowCraft.
-
-🔗 [View Project](https://github.com/gyanshankar1708/GrowCraft)
-
-💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Social Media link is not present in footer. | Medium | [#368](https://github.com/gyanshankar1708/GrowCraft/issues/368) |
-| Added Social media Icon | Medium | [#329](https://github.com/gyanshankar1708/GrowCraft/pull/329) |
-| Make Navbar Sticky Across All Pages | Medium | [#325](https://github.com/gyanshankar1708/GrowCraft/pull/325) |
-
----
-
 ## 📌 Project: FARMLOC
 
 📝 **Description:** FARMLOC stands for Farmers-Agricultural-Resource-Management-and-Location-Of-Cold-storage.
@@ -58,6 +34,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| ui of login and signup page is very basic i will improve in it . | Medium | [#136](https://github.com/Pujan-sarkar/FARMLOC/issues/136) |
+| ui of login and signup page is very basic i will improve in it . | Medium | [#135](https://github.com/Pujan-sarkar/FARMLOC/issues/135) |
 | Fix Navbar & Announcement Bar Size Mismatch | Medium | [#134](https://github.com/Pujan-sarkar/FARMLOC/issues/134) |
 | Fix: Add dark mode support for login, signup, and pages | Medium | [#132](https://github.com/Pujan-sarkar/FARMLOC/pull/132) |
 | Marketplace section not clearly visible on hover. | Medium | [#131](https://github.com/Pujan-sarkar/FARMLOC/issues/131) |
@@ -95,8 +73,6 @@
 |----------|----------------|---------|
 | Navbar Mobile View Overflow | Easy | [#216](https://github.com/sachiva1/sachiva/issues/216) |
 | Fix/email contact us page | Medium | [#238](https://github.com/sachiva1/sachiva/pull/238) |
-| Add Newsletter Subscription with Toast Notifications | Medium | [#237](https://github.com/sachiva1/sachiva/pull/237) |
-| Fix: Prevent first FAQ from auto-expanding on page load | Medium | [#236](https://github.com/sachiva1/sachiva/pull/236) |
 | Navbar Hover Text Not Visible | Medium | [#233](https://github.com/sachiva1/sachiva/issues/233) |
 | Enhancement in buttons | Medium | [#232](https://github.com/sachiva1/sachiva/issues/232) |
 | Remove unnecessary two contact.html | Medium | [#231](https://github.com/sachiva1/sachiva/issues/231) |
@@ -115,6 +91,7 @@
 | Fixed Portfolio Cards | Medium | [#213](https://github.com/sachiva1/sachiva/pull/213) |
 | "Book service" functioning | Medium | [#211](https://github.com/sachiva1/sachiva/pull/211) |
 | Added location suggestion and improved date picker | Medium | [#209](https://github.com/sachiva1/sachiva/pull/209) |
+| Add Dynamic Leaderboard to fetch real time data | Medium | [#204](https://github.com/sachiva1/sachiva/pull/204) |
 
 ---
 
