@@ -41,8 +41,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend : Delete Entire Collection with Projects | Medium | [#1216](https://github.com/Code-A2Z/code-a2z/issues/1216) |
-| Added deleting the saved projects functionality | Medium | [#1215](https://github.com/Code-A2Z/code-a2z/pull/1215) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
@@ -90,7 +88,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| delete message funtion | Medium | [#50](https://github.com/Dhruvi-tech/firebase-chat-app/pull/50) |
 | performance issues in the chat application | Medium | [#49](https://github.com/Dhruvi-tech/firebase-chat-app/issues/49) |
 
 ---
@@ -159,7 +156,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Anonymous Complaint Toggle (#432) | Medium | [#458](https://github.com/Prateek9876/NagarVikas/pull/458) |
+| Add a feature in discussion forum We can tag @everyone and push notification will be sent to everyone same as discord | Hard | [#460](https://github.com/Prateek9876/NagarVikas/issues/460) |
 
 ---
 
@@ -177,30 +174,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| react-leaflet-cluster incompatible with react-leaflet@5.x | Medium | [#172](https://github.com/Richajaishwal0/Trip_assistant/issues/172) |
+| Comprehensive Mobile Optimization & Responsive Design System | Medium | [#171](https://github.com/Richajaishwal0/Trip_assistant/pull/171) |
 | add dynamic contributor sector | Medium | [#170](https://github.com/Richajaishwal0/Trip_assistant/issues/170) |
-| Added navbar to login page for better consistency | Medium | [#169](https://github.com/Richajaishwal0/Trip_assistant/pull/169) |
-| Add a navigation bar in the login page for better site navigation | Medium | [#168](https://github.com/Richajaishwal0/Trip_assistant/issues/168) |
 | Incomplete Folder Structure in Repository | Medium | [#167](https://github.com/Richajaishwal0/Trip_assistant/issues/167) |
-| Added OptimizedMap component with points | Medium | [#166](https://github.com/Richajaishwal0/Trip_assistant/pull/166) |
 | fix: remove duplicate icon in client/index.html | Medium | [#165](https://github.com/Richajaishwal0/Trip_assistant/pull/165) |
 | Enhanced authentication using zod , and modified optional rendering of login/signup buttons and logout buttons using VerifyToken and Context Api. | Medium | [#164](https://github.com/Richajaishwal0/Trip_assistant/pull/164) |
 | Added view details feature | Medium | [#163](https://github.com/Richajaishwal0/Trip_assistant/pull/163) |
-| Removed unwanted space from navbar #130 | Medium | [#161](https://github.com/Richajaishwal0/Trip_assistant/pull/161) |
 | Fix: #155 Mobile UI/UX issues | Medium | [#158](https://github.com/Richajaishwal0/Trip_assistant/pull/158) |
 | Fix: Add server-side validation for user registration | Medium | [#157](https://github.com/Richajaishwal0/Trip_assistant/pull/157) |
-| feat/contact-page | Medium | [#154](https://github.com/Richajaishwal0/Trip_assistant/pull/154) |
 | "Add Privacy Policy Page" #146 | Medium | [#153](https://github.com/Richajaishwal0/Trip_assistant/pull/153) |
-| Enhance Trip Budget Estimator: Extra Expenses, Currency Conversion, and Dark Mode Support | Medium | [#152](https://github.com/Richajaishwal0/Trip_assistant/pull/152) |
 | refactored backend config file structure and modified code to absolute uploads directory path | Medium | [#150](https://github.com/Richajaishwal0/Trip_assistant/pull/150) |
-| used base env variables, removed redundant mongoDB code file | Medium | [#149](https://github.com/Richajaishwal0/Trip_assistant/pull/149) |
 | "Add Privacy Policy Page" | Medium | [#146](https://github.com/Richajaishwal0/Trip_assistant/issues/146) |
-| "Add Contact Us Page" | Medium | [#144](https://github.com/Richajaishwal0/Trip_assistant/issues/144) |
-| Add user management routes for finding, updating, and deleting users | Medium | [#143](https://github.com/Richajaishwal0/Trip_assistant/pull/143) |
-| Fix footer social links  #139 | Medium | [#142](https://github.com/Richajaishwal0/Trip_assistant/pull/142) |
 | "Implement Authentication Backend and Frontend" | Medium | [#141](https://github.com/Richajaishwal0/Trip_assistant/pull/141) |
-| The footer social media icons (Facebook, Twitter, Google, Instagram) are not linked properly. | Medium | [#139](https://github.com/Richajaishwal0/Trip_assistant/issues/139) |
-| ENVIRONMENT: Missing Environment Variables | Medium | [#138](https://github.com/Richajaishwal0/Trip_assistant/pull/138) |
-| Add Login and Signup buttons to hero section for Issue #98 | Medium | [#136](https://github.com/Richajaishwal0/Trip_assistant/pull/136) |
+| Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
+| budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
+| feat: complete UI overhaul - fix navigation visibility, add theme sup… | Medium | [#125](https://github.com/Richajaishwal0/Trip_assistant/pull/125) |
+| Fixed chatbot nlp integrated with gemini flash 1.5 | Medium | [#120](https://github.com/Richajaishwal0/Trip_assistant/pull/120) |
 
 ---
 
@@ -251,14 +241,14 @@
 | Flutter:  Logging in Backend Service | Easy | [#244](https://github.com/Yash159357/BREVITY/issues/244) |
 | Flutter:  Logging in User Profile Cubit | Easy | [#242](https://github.com/Yash159357/BREVITY/issues/242) |
 | Flutter: Add Logging to lib/main.dart | Easy | [#237](https://github.com/Yash159357/BREVITY/issues/237) |
-| Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
+| Add detailed logging for authentication processes in AuthService | Medium | [#264](https://github.com/Yash159357/BREVITY/pull/264) |
+| Refactor logging in ThemeCubit and ThemeState for consistency and clarity | Medium | [#263](https://github.com/Yash159357/BREVITY/pull/263) |
+| Add logging to NewsBloc and NewsEvent classes for better debugging | Medium | [#262](https://github.com/Yash159357/BREVITY/pull/262) |
+| Add logging for ChatBloc events and states for better debugging | Medium | [#261](https://github.com/Yash159357/BREVITY/pull/261) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -361,14 +351,14 @@
 | Flutter:  Logging in Backend Service | Easy | [#244](https://github.com/Yash159357/BREVITY/issues/244) |
 | Flutter:  Logging in User Profile Cubit | Easy | [#242](https://github.com/Yash159357/BREVITY/issues/242) |
 | Flutter: Add Logging to lib/main.dart | Easy | [#237](https://github.com/Yash159357/BREVITY/issues/237) |
-| Media: Create App Showcase Videos | Easy | [#165](https://github.com/Yash159357/BREVITY/issues/165) |
+| Add detailed logging for authentication processes in AuthService | Medium | [#264](https://github.com/Yash159357/BREVITY/pull/264) |
+| Refactor logging in ThemeCubit and ThemeState for consistency and clarity | Medium | [#263](https://github.com/Yash159357/BREVITY/pull/263) |
+| Add logging to NewsBloc and NewsEvent classes for better debugging | Medium | [#262](https://github.com/Yash159357/BREVITY/pull/262) |
+| Add logging for ChatBloc events and states for better debugging | Medium | [#261](https://github.com/Yash159357/BREVITY/pull/261) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
-| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 
 ---
@@ -388,6 +378,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Favicon to Website | Easy | [#65](https://github.com/Skrache/crisisboard/issues/65) |
+| Added about & contact section | Medium | [#86](https://github.com/Skrache/crisisboard/pull/86) |
 | Addition of pr create automate message | Medium | [#85](https://github.com/Skrache/crisisboard/issues/85) |
 | Addition of automate issue create message | Medium | [#84](https://github.com/Skrache/crisisboard/issues/84) |
 | Edit Profile Page UI is Inconsistent with Other Pages | Medium | [#83](https://github.com/Skrache/crisisboard/issues/83) |
@@ -562,6 +553,7 @@
 | Add login and logout page | Medium | [#60](https://github.com/Varshitha713/CodeCanvas/issues/60) |
 | Add Hamburger Menu for Navbar on Small Screens | Medium | [#37](https://github.com/Varshitha713/CodeCanvas/issues/37) |
 | feat:Implemented responsive navbar design with animated hamburger menu | Medium | [#35](https://github.com/Varshitha713/CodeCanvas/pull/35) |
+| Navbar section not working | Medium | [#7](https://github.com/Varshitha713/CodeCanvas/issues/7) |
 
 ---
 
@@ -579,6 +571,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Modernize Contact Page UI | Medium | [#208](https://github.com/shandilya-rajnandini/DocAtHome/issues/208) |
 | Reintroduce Skeleton placeholders for loading states in Appointments, Search Doctor, and Doctor Appointment pages | Medium | [#207](https://github.com/shandilya-rajnandini/DocAtHome/pull/207) |
 | The Font Size and Text Style Should be more | Medium | [#206](https://github.com/shandilya-rajnandini/DocAtHome/issues/206) |
 | added lab-test-status | Medium | [#205](https://github.com/shandilya-rajnandini/DocAtHome/pull/205) |
