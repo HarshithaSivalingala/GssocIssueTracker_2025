@@ -59,10 +59,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Dijkstra’s Shortest Path Algorithm | Easy | [#53](https://github.com/SharonIV0x86/CinderPeak/issues/53) |
-| feat(optimization): Refactor redundant addEdge function overloads to use default parameters over entire code base | Medium | [#57](https://github.com/SharonIV0x86/CinderPeak/issues/57) |
-| feat(hybrid): Added unit tests for HybridCSR_COO storage format | Medium | [#56](https://github.com/SharonIV0x86/CinderPeak/pull/56) |
-| feat(storage): Add Bulk Insertion Support for Vertices and Edges in AdjacencyList.hpp | Medium | [#55](https://github.com/SharonIV0x86/CinderPeak/pull/55) |
-| feat(docs): Add "Back to Top" button in README | Medium | [#41](https://github.com/SharonIV0x86/CinderPeak/issues/41) |
 
 ---
 
@@ -82,6 +78,7 @@
 |----------|----------------|---------|
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
+| feat(i18n): One-Click, Any-Language (#59) | Medium | [#76](https://github.com/Aqsa4066/netflixclone/pull/76) |
 | Change: Design of FAQs section | Medium | [#75](https://github.com/Aqsa4066/netflixclone/pull/75) |
 | Change: Design of FAQs section | Medium | [#72](https://github.com/Aqsa4066/netflixclone/pull/72) |
 | Edited footer | Medium | [#71](https://github.com/Aqsa4066/netflixclone/pull/71) |
@@ -97,7 +94,6 @@
 | Website Ruined | Medium | [#26](https://github.com/Aqsa4066/netflixclone/issues/26) |
 | Enhance Navbar Design and Functionality in Netflix Clone | Medium | [#23](https://github.com/Aqsa4066/netflixclone/issues/23) |
 | feature: UI/UX Improvement Suggestions for Netflix Clone (GSSoC'25) | Medium | [#19](https://github.com/Aqsa4066/netflixclone/issues/19) |
-| Changed the styling | Medium | [#18](https://github.com/Aqsa4066/netflixclone/pull/18) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
