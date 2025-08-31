@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added MagicCursorTrail component with continuous cursor movement and click burst effects | Medium | [#263](https://github.com/Amarjha01/InfantCareCompass/pull/263) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
@@ -36,9 +37,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Search bar inconsistencies across pages | Easy | [#236](https://github.com/Ayushjhawar8/Flavor-ai/issues/236) |
 | Relocate Translate widget to Navbar | Easy | [#194](https://github.com/Ayushjhawar8/Flavor-ai/issues/194) |
-| Fix: Blur the background & search functionality consistently across all pages | Medium | [#237](https://github.com/Ayushjhawar8/Flavor-ai/pull/237) |
 
 ---
 
@@ -91,12 +90,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Resume Analysis Dashboard – Replace Hardcoded Data with Dynamic Backend Integration | Medium | [#408](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/408) |
-| Duplicate & Confusing Dashboard Navigation Links | Medium | [#407](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/407) |
-| Refactored schema and maitained consistency | Medium | [#406](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/406) |
-| Fixing UI Breakage in footer | Medium | [#405](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/405) |
-| Enhance Answer Accuracy with Fuzzy String Matching | Medium | [#404](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/404) |
-| Fixing ui breakage | Medium | [#403](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/403) |
+| fixed the ui breakage in chatbot component | Medium | [#411](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/411) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -209,7 +203,8 @@ Why Jeanne?
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Feature Request: Implement Contact Feature using Nodemailer | Medium | [#99](https://github.com/Axelvyn/Nexara/issues/99) |
+| Re-implement implementation task template | Medium | [#101](https://github.com/Axelvyn/Nexara/pull/101) |
+| remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 | Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
 
