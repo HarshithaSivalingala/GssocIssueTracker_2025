@@ -98,12 +98,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added table of contents with Toggle Button in README | Medium | [#31](https://github.com/Rajkumarbhakta/Canvas/pull/31) |
 | Made DrawingScreen mobile friendly | Medium | [#29](https://github.com/Rajkumarbhakta/Canvas/pull/29) |
 | <Enhance Navbar and footer like  responsive webpage/> | Medium | [#24](https://github.com/Rajkumarbhakta/Canvas/issues/24) |
-| Updated DrawingCanvas and ShapeSelector with shapes support | Medium | [#20](https://github.com/Rajkumarbhakta/Canvas/pull/20) |
-| feat: Replace preferences with SQLite database for drawing storage ( closes #3) | Medium | [#17](https://github.com/Rajkumarbhakta/Canvas/pull/17) |
-| UPDATE ON: feat: Implement Search Functionality and Improve Home Screen UI #1 | Medium | [#5](https://github.com/Rajkumarbhakta/Canvas/pull/5) |
 
 ---
 
@@ -140,8 +136,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| show nearest shops when none are in radius | Medium | [#398](https://github.com/yuvrajsinghgmx/ShopSmart/pull/398) |
-| If no entities are present | Medium | [#395](https://github.com/yuvrajsinghgmx/ShopSmart/issues/395) |
+| added API endpoints for handling reviews | Medium | [#399](https://github.com/yuvrajsinghgmx/ShopSmart/pull/399) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
