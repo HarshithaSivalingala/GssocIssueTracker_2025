@@ -35,6 +35,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Backend can’t find CSVs due to DATA_DIR and filename mismatch | Medium | [#179](https://github.com/SrigadaAkshayKumar/stock/issues/179) |
+| feat: add caching (Redis + in-memory fallback); fix sticky footer; ad… | Medium | [#178](https://github.com/SrigadaAkshayKumar/stock/pull/178) |
+| Contact Page Background Inconsistency | Medium | [#176](https://github.com/SrigadaAkshayKumar/stock/issues/176) |
 | Dark Mode Toggle Bug | Medium | [#172](https://github.com/SrigadaAkshayKumar/stock/issues/172) |
 | Fix watchlist service and dependenciesAdded watchlist service, src/services, and updated dependencies | Medium | [#160](https://github.com/SrigadaAkshayKumar/stock/pull/160) |
 | Updated Stockdata.jsx and Predict.jsx with backend API URL | Medium | [#151](https://github.com/SrigadaAkshayKumar/stock/pull/151) |
@@ -71,6 +74,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added MagicCursorTrail component with continuous cursor movement and click burst effects | Medium | [#263](https://github.com/Amarjha01/InfantCareCompass/pull/263) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
@@ -183,6 +187,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Layout fixes and redesigned login and register pages | Medium | [#60](https://github.com/Menthub-GSSoC/Menthub/pull/60) |
 | SECURITY.md | Medium | [#59](https://github.com/Menthub-GSSoC/Menthub/pull/59) |
 | Add Notifications for New Mentor Signups | Medium | [#58](https://github.com/Menthub-GSSoC/Menthub/issues/58) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
@@ -195,7 +200,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 | Prevent Duplicate Mentorship Requests (mentee_id + mentor_id) | Medium | [#23](https://github.com/Menthub-GSSoC/Menthub/issues/23) |
 | Contributor for Contribution | Medium | [#22](https://github.com/Menthub-GSSoC/Menthub/issues/22) |
-| Improve README.md file | Medium | [#17](https://github.com/Menthub-GSSoC/Menthub/issues/17) |
 
 ---
 
@@ -213,6 +217,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Convert singleton pattern in kms client to classic singleton | Medium | [#2158](https://github.com/OWASP/Nest/pull/2158) |
 | Integrate graphql-codegen to generate GraphQL types | Medium | [#2155](https://github.com/OWASP/Nest/pull/2155) |
 | Feature/graphql support for badges | Medium | [#2152](https://github.com/OWASP/Nest/pull/2152) |
 | Update owasp app event model with calendar attributes | Medium | [#2128](https://github.com/OWASP/Nest/pull/2128) |
@@ -221,7 +226,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Implemented Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
 | Nestbot MVP | Medium | [#2113](https://github.com/OWASP/Nest/pull/2113) |
 | Fix homepage container flexibility | Medium | [#2100](https://github.com/OWASP/Nest/pull/2100) |
-| Integrate slack bot with google OAuth | Medium | [#2089](https://github.com/OWASP/Nest/pull/2089) |
+| Migrate scraper to GitHub .md files parsing | Medium | [#2088](https://github.com/OWASP/Nest/issues/2088) |
 | fixed footer not sticking always to bottom when height is higher | Medium | [#2083](https://github.com/OWASP/Nest/pull/2083) |
 | feat(ui): enhance search results page with better filtering & responsive design | Medium | [#2065](https://github.com/OWASP/Nest/issues/2065) |
 | Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
@@ -282,6 +287,24 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Implement theming system with consistent border radius and spacing | Medium | [#125](https://github.com/Devasy23/splitwiser/pull/125) |
 | fix(web): Fix web build error with React 19 | Medium | [#122](https://github.com/Devasy23/splitwiser/pull/122) |
 | feat: Migrate to Material 3 with dynamic theming | Medium | [#120](https://github.com/Devasy23/splitwiser/pull/120) |
+
+---
+
+## 📌 Project: Medical Adherence Monitoring System
+
+📝 **Description:** An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle. Demo Video: https://res.cloudinary.com/dzl3qnjqk/video/upload/v1751681025/VID-20250419-WA0000_4_tycodg.mp4
+
+🔗 [View Project](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System)
+
+💻 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: Create comprehensive API documentation for AI and Backend layers | Medium | [#30](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/30) |
 
 ---
 
@@ -474,6 +497,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Privacy Policy link redirects to Home Page / Page missing | Medium | [#202](https://github.com/Khushi-Nigam/jobportal/issues/202) |
+| Blog Page Card & Comment Box Alignment | Medium | [#201](https://github.com/Khushi-Nigam/jobportal/issues/201) |
+| Social login icons in footer redirect to general websites instead of social profiles | Medium | [#200](https://github.com/Khushi-Nigam/jobportal/issues/200) |
 | Addition of pr create automate message | Medium | [#171](https://github.com/Khushi-Nigam/jobportal/issues/171) |
 | register button no working | Medium | [#111](https://github.com/Khushi-Nigam/jobportal/issues/111) |
 
@@ -524,12 +550,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Resume Analysis Dashboard – Replace Hardcoded Data with Dynamic Backend Integration | Medium | [#408](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/408) |
-| Duplicate & Confusing Dashboard Navigation Links | Medium | [#407](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/407) |
-| Refactored schema and maitained consistency | Medium | [#406](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/406) |
-| Fixing UI Breakage in footer | Medium | [#405](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/405) |
-| Enhance Answer Accuracy with Fuzzy String Matching | Medium | [#404](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/404) |
-| Fixing ui breakage | Medium | [#403](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/403) |
+| fixed the ui breakage in chatbot component | Medium | [#411](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/411) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -558,9 +579,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Password field eye icon misaligned on Register page — overflows outside input box | Medium | [#154](https://github.com/omroy07/AgriTech/issues/154) |
 | feat: password reset funtionality using smtp server connecting to the… | Medium | [#151](https://github.com/omroy07/AgriTech/pull/151) |
 | maize calendar is wrong schedule | Medium | [#148](https://github.com/omroy07/AgriTech/issues/148) |
-| Bug : shopkeeper.js & shopkeeper.html – No API Error Handling | Medium | [#143](https://github.com/omroy07/AgriTech/issues/143) |
-| bug : cropCalendar.html & croCalendar.js – Unvalidated Date Parsing | Medium | [#141](https://github.com/omroy07/AgriTech/issues/141) |
-| lock icon overlaps placeholder text in login page | Medium | [#138](https://github.com/omroy07/AgriTech/pull/138) |
 
 ---
 
@@ -611,6 +629,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| adding baseline boarding strategies for comparison | Medium | [#44](https://github.com/18Prachi/airplane-boarding-simulation/issues/44) |
 | Improve Readme | Medium | [#43](https://github.com/18Prachi/airplane-boarding-simulation/issues/43) |
 | Add CODE_OF_CONDUCT.md | Medium | [#42](https://github.com/18Prachi/airplane-boarding-simulation/pull/42) |
 | Enhance Robustness, Add Logging & Validation | Medium | [#39](https://github.com/18Prachi/airplane-boarding-simulation/pull/39) |
@@ -688,17 +707,19 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Pull Request of Reinforcement Learning for Market Hedging | Medium | [#660](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/660) |
+| Parkinson disease detection | Medium | [#668](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/668) |
+| Pull Request of Stock Price Prediction Using Facebook Prophet | Medium | [#667](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/667) |
+| Stock Price Prediction Using Facebook Prophet | Medium | [#666](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/666) |
+| Pull Request of Secure AI/ML Model using RSA-based Encryption | Medium | [#665](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/665) |
+| Secure AI/ML Model using RSA-based Encryption | Medium | [#664](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/664) |
+| Fake review clean | Medium | [#663](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/663) |
+| Pull Request of AlgoRisk: An Interactive Web Dashboard for Algorithmi… | Medium | [#662](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/662) |
+| AlgoRisk: An Interactive Web Dashboard for Algorithmic Trading Strategy Backtesting and Risk Assessment | Medium | [#661](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/661) |
 | Reinforcement Learning for Market Hedging | Medium | [#659](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/659) |
-| Pull Request of GDP Growth Prediction with Market Capital | Medium | [#658](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/658) |
 | GDP Growth Prediction with Market Capital | Medium | [#657](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/657) |
-| Pull Request of Forex Exchange Rate using LSTM | Medium | [#656](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/656) |
 | Forex Exchange Rate Prediction using LSTM | Medium | [#655](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/655) |
-| African Banking Crisis Prediction using Machine Learning | Medium | [#654](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/654) |
 | African Banking Crisis Prediction using Machine Learning | Medium | [#653](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/653) |
-| Pull Request of LSTM Model for Foreign Exchange Rate Prediction | Medium | [#652](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/652) |
 | LSTM Model for Foreign Exchange Rate Prediction | Medium | [#651](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/651) |
-| Pull Request of Exchange Rate Forecasting | Medium | [#650](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/650) |
 | Exchange Rate Forecasting using Machine Learning | Medium | [#649](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/649) |
 | Candlestick Pattern Technical Analysis App | Medium | [#647](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/647) |
 | Implement workflow of Tuning a Neural network | Medium | [#646](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/646) |
@@ -715,8 +736,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | ML Model - Add K-Means Clustering from Scratch | Medium | [#582](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/582) |
 | Add Wellness Resource Hub | Medium | [#565](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/565) |
 | Added a notebook on speech emotion recognition on audio dataset | Medium | [#562](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/562) |
-| Enhancement: Implement Yield Prediction using ANN (Deep Learning) with Kaggle Dataset | Medium | [#561](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/561) |
-| Added a guide to tune neural network's hyperparameters using keras tuner | Medium | [#557](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/557) |
 
 ---
 
@@ -845,6 +864,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| My Contribution | Medium | [#138](https://github.com/eccentriccoder01/TalkHeal/issues/138) |
 | Can add pinned conversation/notes feature | Medium | [#132](https://github.com/eccentriccoder01/TalkHeal/issues/132) |
 | Session Persistence – Clarification | Medium | [#129](https://github.com/eccentriccoder01/TalkHeal/issues/129) |
 | Add Multi Language Support | Medium | [#120](https://github.com/eccentriccoder01/TalkHeal/issues/120) |
@@ -902,10 +922,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue: Implement Caching Layer for Event & Project Data | Medium | [#61](https://github.com/sania28/clubmate/issues/61) |
-| Improve Footer Design and Add Essential Information | Medium | [#60](https://github.com/sania28/clubmate/issues/60) |
-| Add a live preview of the project using netlify | Medium | [#59](https://github.com/sania28/clubmate/issues/59) |
-| Fix: serve HTML and static files correctly in backend (#55) | Medium | [#58](https://github.com/sania28/clubmate/pull/58) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -1115,6 +1131,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| GEN AI-based Crop Planner | Medium | [#1781](https://github.com/UTSAVS26/PyVerse/issues/1781) |
 | Added UPI Fraud Detection | Medium | [#1628](https://github.com/UTSAVS26/PyVerse/pull/1628) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 
@@ -1770,24 +1787,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
-## 📌 Project: Rewear
-
-📝 **Description:** ReWear is a modern, community-driven clothing exchange platform that makes sustainable fashion fun and easy. List your unused clothes, earn points and swap for new styles with others - no money needed!
-
-🔗 [View Project](https://github.com/AKing-283/Rewear)
-
-💻 **Tech Stack:** Python, HTML, CSS, JavaScript, Gemini, Flask
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Scroll-to-Top button | Medium | [#31](https://github.com/AKing-283/Rewear/pull/31) |
-
----
-
 ## 📌 Project: Tic Tac Tor Game
 
 📝 **Description:** A two-player Tic Tac Toe game built using Python and Pygame. It allows players to take tirns and shows win/draw messages
@@ -1988,9 +1987,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add robust error handling for NewsAPI and yfinance requests | Medium | [#32](https://github.com/swayum1004/StockSentry/issues/32) |
+| Auto commnet on Issues | Medium | [#34](https://github.com/swayum1004/StockSentry/issues/34) |
+| Auto comment on Pull request | Medium | [#33](https://github.com/swayum1004/StockSentry/issues/33) |
 | Use of Polygon io Api | Medium | [#25](https://github.com/swayum1004/StockSentry/issues/25) |
-| Improve ML Model Using Time Series Approach | Medium | [#8](https://github.com/swayum1004/StockSentry/issues/8) |
 
 ---
 
