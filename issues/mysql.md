@@ -106,13 +106,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Instruction box UI and Add Click-Outside-to-Close Behavior | Medium | [#61](https://github.com/swarooppatilx/bit-by-query/issues/61) |
+| Improve Instruction box UI and Add Click-Outside-to-Close Behavior | Medium | [#68](https://github.com/swarooppatilx/bit-by-query/pull/68) |
+| bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
+| feat: admin panel | Medium | [#66](https://github.com/swarooppatilx/bit-by-query/issues/66) |
+| chore: improve UI UX of landing page | Medium | [#65](https://github.com/swarooppatilx/bit-by-query/issues/65) |
+| feat: display table schema below question description | Medium | [#64](https://github.com/swarooppatilx/bit-by-query/issues/64) |
+| feat: load problems from db | Medium | [#63](https://github.com/swarooppatilx/bit-by-query/issues/63) |
+| feat: fetch problems from remote source | Medium | [#62](https://github.com/swarooppatilx/bit-by-query/issues/62) |
 | Categorize Questions into Difficulty Levels (Easy, Medium, Hard) | Medium | [#60](https://github.com/swarooppatilx/bit-by-query/issues/60) |
-| deploying on vercel | Medium | [#59](https://github.com/swarooppatilx/bit-by-query/issues/59) |
-| Added green Next/Prev buttons | Medium | [#58](https://github.com/swarooppatilx/bit-by-query/pull/58) |
-| pr create automate message added | Medium | [#56](https://github.com/swarooppatilx/bit-by-query/pull/56) |
-| Docs: Add SECURITY.md for responsible disclosure | Medium | [#55](https://github.com/swarooppatilx/bit-by-query/pull/55) |
-| feat: added landing page | Medium | [#54](https://github.com/swarooppatilx/bit-by-query/pull/54) |
 | Make SQL Query Results Scrollable on Small Screens | Medium | [#42](https://github.com/swarooppatilx/bit-by-query/pull/42) |
 | Add Reset Button to Clear Query Input and Results Panel | Medium | [#41](https://github.com/swarooppatilx/bit-by-query/pull/41) |
 | ISSUE:-While Login And Signup Internal Server Failed Error | Medium | [#30](https://github.com/swarooppatilx/bit-by-query/issues/30) |
