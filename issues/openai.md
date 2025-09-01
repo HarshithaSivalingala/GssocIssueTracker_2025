@@ -38,6 +38,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Relocate Translate widget to Navbar | Easy | [#194](https://github.com/Ayushjhawar8/Flavor-ai/issues/194) |
+| Add Veg/Non-Veg filter and improve favorites UI | Medium | [#243](https://github.com/Ayushjhawar8/Flavor-ai/pull/243) |
+| Added nutrition API integration for recipe nutrients analysis | Medium | [#242](https://github.com/Ayushjhawar8/Flavor-ai/pull/242) |
 
 ---
 
@@ -90,7 +92,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed the ui breakage in chatbot component | Medium | [#411](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/411) |
+| Integrate Monaco Editor for Coding Practice Section | Medium | [#418](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/418) |
+| Fixed the duplication of some sidebar links | Medium | [#417](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/417) |
+| Relocation Of Theme Toggle Button And CSS Fix for Darkmode | Medium | [#416](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/416) |
+| Integrating Frontend & Backend for Interview Experience | Medium | [#415](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/415) |
+| Backend Setup for Interview Experience Submission | Medium | [#414](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/414) |
+| Create Frontend Form for Interview Experience Submission | Medium | [#413](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/413) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -133,9 +140,8 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add NProgress loading bar and subtle UI animations for enhanced UX | Medium | [#25](https://github.com/revxi/Jeanne-AI-Chatbot-Project/pull/25) |
+| Temp | Medium | [#26](https://github.com/revxi/Jeanne-AI-Chatbot-Project/pull/26) |
 | Added profile page | Medium | [#24](https://github.com/revxi/Jeanne-AI-Chatbot-Project/pull/24) |
-| Added firebase auth with google sign in | Medium | [#20](https://github.com/revxi/Jeanne-AI-Chatbot-Project/pull/20) |
 
 ---
 
@@ -188,6 +194,24 @@ Why Jeanne?
 
 ---
 
+## 📌 Project: Dev Resumes AI
+
+📝 **Description:** DevResume.AI is a modern, drag-and-drop resume builder powered by AI. Generate perfectly structured, ATS-compliant resumes with smart bullet points, summaries, and beautiful designs  all in your browser.
+
+🔗 [View Project](https://github.com/Anasmalik57/Dev-Resume-AI)
+
+💻 **Tech Stack:** React, Vite, Tailwind CSS, Framer Motion, html2pdf.js, Node.js, Express.js, OpenAI API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Setup backend with MongoDB and JWT auth | Medium | [#13](https://github.com/Anasmalik57/Dev-Resume-AI/pull/13) |
+
+---
+
 ## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
 
 📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
@@ -203,7 +227,6 @@ Why Jeanne?
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Re-implement implementation task template | Medium | [#101](https://github.com/Axelvyn/Nexara/pull/101) |
 | remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 | Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
