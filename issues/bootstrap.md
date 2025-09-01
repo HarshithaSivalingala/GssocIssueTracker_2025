@@ -18,6 +18,32 @@
 
 ---
 
+## 📌 Project: GrowCraft
+
+📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
+ 
+ This open-source project aims to bridge the gap between learning and practical exposure. It is built using HTML, CSS, JavaScript, and Bootstrap. Through GSSoC, contributors can enhance the UI/UX, optimize responsiveness, improve code structure, and add new features like a blog, portfolio showcase, and contact backend integration.
+ 
+ We welcome developers, designers, technical writers, and digital marketers to collaborate, learn, and grow with GrowCraft.
+
+🔗 [View Project](https://github.com/gyanshankar1708/GrowCraft)
+
+💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix Spacing an content overflow | Medium | [#394](https://github.com/gyanshankar1708/GrowCraft/issues/394) |
+| Navbar links not working on home page | Medium | [#393](https://github.com/gyanshankar1708/GrowCraft/issues/393) |
+| Ui Enhances of WebDev site , added sections  featurs | Medium | [#392](https://github.com/gyanshankar1708/GrowCraft/pull/392) |
+| Refactor: Move inline CSS & JS to external files and update paths accordingly | Medium | [#391](https://github.com/gyanshankar1708/GrowCraft/pull/391) |
+| Fixed :Enhancement of styling of 'Stop Breaches Before They Start' heading under Cyber Analyst page | Medium | [#390](https://github.com/gyanshankar1708/GrowCraft/pull/390) |
+
+---
+
 ## 📌 Project: FARMLOC
 
 📝 **Description:** FARMLOC stands for Farmers-Agricultural-Resource-Management-and-Location-Of-Cold-storage.
@@ -33,7 +59,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| Dark mode update | Medium | [#142](https://github.com/Pujan-sarkar/FARMLOC/pull/142) |
+| Low text contrast on login page (labels and headings are barely visible) | Medium | [#141](https://github.com/Pujan-sarkar/FARMLOC/issues/141) |
+| Add "Continue with Google" option to FARMLOC login page | Medium | [#140](https://github.com/Pujan-sarkar/FARMLOC/issues/140) |
+| Solved issue #68  -added real time map to the cold storage static image | Medium | [#139](https://github.com/Pujan-sarkar/FARMLOC/pull/139) |
+| Back To Home button in Loginpage | Medium | [#138](https://github.com/Pujan-sarkar/FARMLOC/issues/138) |
+| Explore More button in Homepage is not working | Medium | [#137](https://github.com/Pujan-sarkar/FARMLOC/issues/137) |
 | ui of login and signup page is very basic i will improve in it . | Medium | [#136](https://github.com/Pujan-sarkar/FARMLOC/issues/136) |
 | ui of login and signup page is very basic i will improve in it . | Medium | [#135](https://github.com/Pujan-sarkar/FARMLOC/issues/135) |
 | Fix Navbar & Announcement Bar Size Mismatch | Medium | [#134](https://github.com/Pujan-sarkar/FARMLOC/issues/134) |
@@ -53,7 +84,6 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | feat: Add Geolocation + Interactive Map for Cold Storage Locations | Medium | [#90](https://github.com/Pujan-sarkar/FARMLOC/pull/90) |
-| Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
 
 ---
 
