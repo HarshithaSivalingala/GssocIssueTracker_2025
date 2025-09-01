@@ -98,6 +98,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Dark Mode with Better UI Contrast | Medium | [#33](https://github.com/Rajkumarbhakta/Canvas/issues/33) |
+| Add Shape Drawing Tools (Circle, Square, Line) | Medium | [#32](https://github.com/Rajkumarbhakta/Canvas/issues/32) |
 | Made DrawingScreen mobile friendly | Medium | [#29](https://github.com/Rajkumarbhakta/Canvas/pull/29) |
 | <Enhance Navbar and footer like  responsive webpage/> | Medium | [#24](https://github.com/Rajkumarbhakta/Canvas/issues/24) |
 
@@ -136,7 +138,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added API endpoints for handling reviews | Medium | [#399](https://github.com/yuvrajsinghgmx/ShopSmart/pull/399) |
+| Feature/user model pref duplication removal | Medium | [#401](https://github.com/yuvrajsinghgmx/ShopSmart/pull/401) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
