@@ -45,24 +45,6 @@
 
 ---
 
-## 📌 Project: Medical Adherence Monitoring System
-
-📝 **Description:** An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle. Demo Video: https://res.cloudinary.com/dzl3qnjqk/video/upload/v1751681025/VID-20250419-WA0000_4_tycodg.mp4
-
-🔗 [View Project](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System)
-
-💻 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| feat: Create comprehensive API documentation for AI and Backend layers | Medium | [#30](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/30) |
-
----
-
 ## 📌 Project: Music Recommendation Using Facial Expressions
 
 📝 **Description:** This Python-based application uses computer vision and deep learning (TensorFlow/Keras) to detect real-time facial expressions via webcam. Based on the detected emotion, it automatically recommends and opens suitable music on YouTube. It integrates AI, sentiment analysis, and web browser automation to deliver an emotionally responsive user experience.
