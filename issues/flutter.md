@@ -52,24 +52,6 @@
 
 ---
 
-## 📌 Project: Nagarvikas 
-
-📝 **Description:** An app that is built to file civic issues faced by citizens of india , they can easily track their complaint status in realtime , admins can check the complaints and after working on it they can update status accordingly , admin dashboard also has analytics option to keep data of all complaints for future use
-
-🔗 [View Project](https://github.com/Prateek9876/NagarVikas)
-
-💻 **Tech Stack:** Flutter, Dart, Firebase, OneSignal, Cloudinary
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add a feature in discussion forum We can tag @everyone and push notification will be sent to everyone same as discord | Hard | [#460](https://github.com/Prateek9876/NagarVikas/issues/460) |
-
----
-
 ## 📌 Project: Brevity
 
 📝 **Description:** Brevity is an AI-powered news curation app that delivers seamless and concise news built with Flutter, Firebase, and upcoming with Chatbot and nodejs backend support. It aims to simplify how users consume news—through clean UI, fast performance, and future-ready AI features like summarization and myth-busting chatbot.
@@ -90,15 +72,19 @@
 | Flutter:  Logging in Backend Service | Easy | [#244](https://github.com/Yash159357/BREVITY/issues/244) |
 | Flutter:  Logging in User Profile Cubit | Easy | [#242](https://github.com/Yash159357/BREVITY/issues/242) |
 | Flutter: Add Logging to lib/main.dart | Easy | [#237](https://github.com/Yash159357/BREVITY/issues/237) |
-| Add detailed logging for authentication processes in AuthService | Medium | [#264](https://github.com/Yash159357/BREVITY/pull/264) |
-| Refactor logging in ThemeCubit and ThemeState for consistency and clarity | Medium | [#263](https://github.com/Yash159357/BREVITY/pull/263) |
-| Add logging to NewsBloc and NewsEvent classes for better debugging | Medium | [#262](https://github.com/Yash159357/BREVITY/pull/262) |
-| Add logging for ChatBloc events and states for better debugging | Medium | [#261](https://github.com/Yash159357/BREVITY/pull/261) |
+| Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
-| Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
+| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
+| Flutter: Implement Image Cropping Tool | Hard | [#199](https://github.com/Yash159357/BREVITY/issues/199) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
+| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
+| Backend: Implement OAuth 2.0 Login Flow | Hard | [#128](https://github.com/Yash159357/BREVITY/issues/128) |
+| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
@@ -150,15 +136,19 @@
 | Flutter:  Logging in Backend Service | Easy | [#244](https://github.com/Yash159357/BREVITY/issues/244) |
 | Flutter:  Logging in User Profile Cubit | Easy | [#242](https://github.com/Yash159357/BREVITY/issues/242) |
 | Flutter: Add Logging to lib/main.dart | Easy | [#237](https://github.com/Yash159357/BREVITY/issues/237) |
-| Add detailed logging for authentication processes in AuthService | Medium | [#264](https://github.com/Yash159357/BREVITY/pull/264) |
-| Refactor logging in ThemeCubit and ThemeState for consistency and clarity | Medium | [#263](https://github.com/Yash159357/BREVITY/pull/263) |
-| Add logging to NewsBloc and NewsEvent classes for better debugging | Medium | [#262](https://github.com/Yash159357/BREVITY/pull/262) |
-| Add logging for ChatBloc events and states for better debugging | Medium | [#261](https://github.com/Yash159357/BREVITY/pull/261) |
+| Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
-| Media: Developer Setup Tutorial Video | Medium | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
+| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
+| Flutter: Implement Image Cropping Tool | Hard | [#199](https://github.com/Yash159357/BREVITY/issues/199) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
+| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
+| Backend: Implement OAuth 2.0 Login Flow | Hard | [#128](https://github.com/Yash159357/BREVITY/issues/128) |
+| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
