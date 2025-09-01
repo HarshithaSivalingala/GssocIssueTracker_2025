@@ -45,7 +45,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added API endpoints for handling reviews | Medium | [#399](https://github.com/yuvrajsinghgmx/ShopSmart/pull/399) |
+| Feature/user model pref duplication removal | Medium | [#401](https://github.com/yuvrajsinghgmx/ShopSmart/pull/401) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
@@ -101,7 +101,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add API Endpoint Documentation to README | Medium | [#54](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/54) |
-| Docs: Update README with Concise API Endpoint Table | Medium | [#52](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/52) |
 | Enhancement: Secure API Endpoints using JWT Authentication | Medium | [#51](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/51) |
 
 ---
@@ -120,10 +119,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Complete Footer Revamp | Medium | [#110](https://github.com/SandeepVashishtha/Eventra/pull/110) |
-| Updated Projects and Hackathons Pages with Enhanced Filtering and Search | Medium | [#109](https://github.com/SandeepVashishtha/Eventra/pull/109) |
-| Events Page Revamp – UI Update, Search, and Create Event Redirect | Medium | [#108](https://github.com/SandeepVashishtha/Eventra/pull/108) |
-| Frontend Restructuring: Organized Files by Role & Improved Project Structure | Medium | [#107](https://github.com/SandeepVashishtha/Eventra/pull/107) |
+| added dyanimc leaderboard | Medium | [#114](https://github.com/SandeepVashishtha/Eventra/pull/114) |
 
 ---
 
