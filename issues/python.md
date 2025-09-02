@@ -35,7 +35,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add CSS styling to footer | Medium | [#184](https://github.com/SrigadaAkshayKumar/stock/issues/184) |
+| Enhancement of About Page | Medium | [#185](https://github.com/SrigadaAkshayKumar/stock/issues/185) |
 | Fix: Profile dropdown closes smoothly and on navigation | Medium | [#183](https://github.com/SrigadaAkshayKumar/stock/pull/183) |
 | improving model accuracy | Medium | [#181](https://github.com/SrigadaAkshayKumar/stock/issues/181) |
 | Backend can’t find CSVs due to DATA_DIR and filename mismatch | Medium | [#179](https://github.com/SrigadaAkshayKumar/stock/issues/179) |
@@ -56,7 +56,6 @@
 | fix: Move hardcoded API key to environment variable for security | Medium | [#74](https://github.com/SrigadaAkshayKumar/stock/pull/74) |
 | feat: Replace browser alerts with professional toast notifications | Medium | [#72](https://github.com/SrigadaAkshayKumar/stock/pull/72) |
 | Replace browser alerts with professional toast notifications for better UX | Medium | [#71](https://github.com/SrigadaAkshayKumar/stock/issues/71) |
-| New update regarding to reduce Yfinance API limit Error | Hard | [#62](https://github.com/SrigadaAkshayKumar/stock/issues/62) |
 
 ---
 
@@ -74,7 +73,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added MagicCursorTrail component with continuous cursor movement and click burst effects | Medium | [#263](https://github.com/Amarjha01/InfantCareCompass/pull/263) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
@@ -218,8 +216,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix Home Page container flexibility | Easy | [#2033](https://github.com/OWASP/Nest/issues/2033) |
-| added ids to frontend graphql queries | Medium | [#2161](https://github.com/OWASP/Nest/pull/2161) |
-| Use singleton pattern in kms client | Medium | [#2158](https://github.com/OWASP/Nest/pull/2158) |
+| Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
+| add effect on hovering | Medium | [#2163](https://github.com/OWASP/Nest/issues/2163) |
 | Integrate graphql-codegen to generate GraphQL types | Medium | [#2155](https://github.com/OWASP/Nest/pull/2155) |
 | Feature/graphql support for badges | Medium | [#2152](https://github.com/OWASP/Nest/pull/2152) |
 | Update owasp app event model with calendar attributes | Medium | [#2128](https://github.com/OWASP/Nest/pull/2128) |
@@ -232,6 +230,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | feat(ui): enhance search results page with better filtering & responsive design | Medium | [#2065](https://github.com/OWASP/Nest/issues/2065) |
 | Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2024](https://github.com/OWASP/Nest/pull/2024) |
+| Added management command for linking issue | Medium | [#2000](https://github.com/OWASP/Nest/pull/2000) |
+| Extend project health dashboard sorting capabilities | Hard | [#2002](https://github.com/OWASP/Nest/issues/2002) |
 
 ---
 
@@ -257,7 +257,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| My First PR | Medium | [#149](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/149) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
@@ -352,7 +351,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Add Voice Assistant Integration alongside CityBot | Medium | [#46](https://github.com/Jotthecode/CITY-PULSE/issues/46) |
 | Enhance CityBot with AI-powered, multi-tool conversational capabilities | Medium | [#45](https://github.com/Jotthecode/CITY-PULSE/issues/45) |
 | Create Crime News Aggregator | Medium | [#44](https://github.com/Jotthecode/CITY-PULSE/pull/44) |
-| Feat:Added Emergency Section using Streamlit (#37) | Medium | [#43](https://github.com/Jotthecode/CITY-PULSE/pull/43) |
 | Enhancement : Handled empty city selection with friendly placeholder and message (#17) | Medium | [#42](https://github.com/Jotthecode/CITY-PULSE/pull/42) |
 | Added CODE_OF_CONDUCT.md file | Medium | [#41](https://github.com/Jotthecode/CITY-PULSE/pull/41) |
 | feat:Added graphs and heatmaps | Medium | [#40](https://github.com/Jotthecode/CITY-PULSE/pull/40) |
@@ -481,9 +479,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Privacy Policy link redirects to Home Page / Page missing | Medium | [#202](https://github.com/Khushi-Nigam/jobportal/issues/202) |
-| Blog Page Card & Comment Box Alignment | Medium | [#201](https://github.com/Khushi-Nigam/jobportal/issues/201) |
-| Social login icons in footer redirect to general websites instead of social profiles | Medium | [#200](https://github.com/Khushi-Nigam/jobportal/issues/200) |
+| Blog page: Comment form reloads page instead of saving comment | Medium | [#205](https://github.com/Khushi-Nigam/jobportal/issues/205) |
+| Blog page layout issue : Cards overlap Share Your Thoughts section | Medium | [#204](https://github.com/Khushi-Nigam/jobportal/issues/204) |
+| Job search on home page reloads instead of prompting login | Medium | [#203](https://github.com/Khushi-Nigam/jobportal/issues/203) |
 | Addition of pr create automate message | Medium | [#171](https://github.com/Khushi-Nigam/jobportal/issues/171) |
 | register button no working | Medium | [#111](https://github.com/Khushi-Nigam/jobportal/issues/111) |
 
@@ -534,12 +532,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integrate Monaco Editor for Coding Practice Section | Medium | [#418](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/418) |
-| Fixed the duplication of some sidebar links | Medium | [#417](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/417) |
-| Relocation Of Theme Toggle Button And CSS Fix for Darkmode | Medium | [#416](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/416) |
-| Integrating Frontend & Backend for Interview Experience | Medium | [#415](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/415) |
-| Backend Setup for Interview Experience Submission | Medium | [#414](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/414) |
-| Create Frontend Form for Interview Experience Submission | Medium | [#413](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/413) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -559,8 +551,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Main page hover effect bug | Medium | [#230](https://github.com/omroy07/AgriTech/issues/230) |
-| Theme Toggle Not Switching Between Dark and Light Modes | Medium | [#229](https://github.com/omroy07/AgriTech/issues/229) |
+| Hover effect problem in dashboard cards | Medium | [#238](https://github.com/omroy07/AgriTech/issues/238) |
+| Theme dark mode not changing color of text | Medium | [#237](https://github.com/omroy07/AgriTech/issues/237) |
+| Pull Request of Fertilizer Recommendation System using Machine Learning | Medium | [#235](https://github.com/omroy07/AgriTech/pull/235) |
+| Integrating Weather Check System | Medium | [#232](https://github.com/omroy07/AgriTech/pull/232) |
 | Missing files | Medium | [#194](https://github.com/omroy07/AgriTech/issues/194) |
 | Fix the Responsiveness of the website | Medium | [#183](https://github.com/omroy07/AgriTech/issues/183) |
 | Add Firebase Config to CONTRIBUTING.md | Medium | [#170](https://github.com/omroy07/AgriTech/issues/170) |
@@ -569,7 +563,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | password placeholder | Medium | [#162](https://github.com/omroy07/AgriTech/issues/162) |
 | Password field eye icon misaligned on Register page — overflows outside input box | Medium | [#154](https://github.com/omroy07/AgriTech/issues/154) |
 | feat: password reset funtionality using smtp server connecting to the… | Medium | [#151](https://github.com/omroy07/AgriTech/pull/151) |
-| maize calendar is wrong schedule | Medium | [#148](https://github.com/omroy07/AgriTech/issues/148) |
 
 ---
 
@@ -654,8 +647,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve styling of progress messages during website generation | Easy | [#97](https://github.com/ProTecGames/Karbon/issues/97) |
-| Improve Visual Design and Content Richness of Generated Websites | Medium | [#99](https://github.com/ProTecGames/Karbon/issues/99) |
 | added UI end-to-end tests for example prompts and output panel | Medium | [#98](https://github.com/ProTecGames/Karbon/pull/98) |
 | Feature | Medium | [#90](https://github.com/ProTecGames/Karbon/pull/90) |
 | JSON parsing in ai_engine.py | Medium | [#82](https://github.com/ProTecGames/Karbon/pull/82) |
@@ -1061,7 +1052,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Cooldown for “Please Stand Still” Voice Alert | Medium | [#124](https://github.com/SomdattaNag/Security-Screening-System/issues/124) |
 | Add Suspicious Behavior Detection via Pose and Gait Estimation | Medium | [#42](https://github.com/SomdattaNag/Security-Screening-System/issues/42) |
 
 ---
@@ -1080,6 +1070,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Background Color to Footer Section | Medium | [#425](https://github.com/multiverseweb/Dataverse/issues/425) |
+| Fix Navbar to Stay on Top While Scrolling | Medium | [#424](https://github.com/multiverseweb/Dataverse/issues/424) |
 | Updated login button style | Medium | [#423](https://github.com/multiverseweb/Dataverse/pull/423) |
 | fix(web): ensure preloader video plays reliably across browsers | Medium | [#422](https://github.com/multiverseweb/Dataverse/pull/422) |
 | Secure DB config + Parameterized SQL + Unified schema (env-based) | Medium | [#421](https://github.com/multiverseweb/Dataverse/pull/421) |
@@ -1108,8 +1100,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add styles to Login and go to home buttons | Medium | [#397](https://github.com/multiverseweb/Dataverse/issues/397) |
 | fixes #394 | Medium | [#396](https://github.com/multiverseweb/Dataverse/pull/396) |
 | Feature Request: Add Padding/Margin to Image Containers | Medium | [#394](https://github.com/multiverseweb/Dataverse/issues/394) |
-| Add Social Media Logos to Footer | Medium | [#393](https://github.com/multiverseweb/Dataverse/issues/393) |
-| Improve navbar responsiveness and transitions on small screens | Medium | [#392](https://github.com/multiverseweb/Dataverse/issues/392) |
 
 ---
 
@@ -1127,8 +1117,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a Food Journal – Browser-Based Meal Tracking App | Medium | [#1782](https://github.com/UTSAVS26/PyVerse/issues/1782) |
-| GEN AI-based Crop Planner | Medium | [#1781](https://github.com/UTSAVS26/PyVerse/issues/1781) |
+| Add E-COMMERCE project in begineer_projects | Medium | [#1783](https://github.com/UTSAVS26/PyVerse/issues/1783) |
 | Added UPI Fraud Detection | Medium | [#1628](https://github.com/UTSAVS26/PyVerse/pull/1628) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 
@@ -1174,6 +1163,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Login Form to /login Page(Fix Login Option) | Medium | [#222](https://github.com/ygowthamr/WhitePaper/issues/222) |
 | Set current year in footer dynamically | Medium | [#221](https://github.com/ygowthamr/WhitePaper/pull/221) |
 | Add Search & Filter Functionality for Notes | Medium | [#220](https://github.com/ygowthamr/WhitePaper/issues/220) |
 | WIP: Dark theme fix | Medium | [#219](https://github.com/ygowthamr/WhitePaper/pull/219) |
@@ -1338,6 +1328,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| refactor: improve formatting and add comments to NodeBase | Medium | [#203](https://github.com/deskree-inc/blok/pull/203) |
 | There is no link in the license | Medium | [#202](https://github.com/deskree-inc/blok/issues/202) |
 | Footer-UI Enhancement | Medium | [#201](https://github.com/deskree-inc/blok/issues/201) |
 | Fix critical test suite failures and Windows compatibility (5/8 → 8/8 passing) | Medium | [#200](https://github.com/deskree-inc/blok/pull/200) |
@@ -1808,6 +1799,26 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add mit license file to the project | Medium | [#3](https://github.com/RafiaShafique/Tic-Tae-Toe-Game/issues/3) |
 | Improve and Enhance README.md File | Medium | [#2](https://github.com/RafiaShafique/Tic-Tae-Toe-Game/issues/2) |
 | Add Features | Medium | [#1](https://github.com/RafiaShafique/Tic-Tae-Toe-Game/issues/1) |
+
+---
+
+## 📌 Project: PriGPT Studio
+
+📝 **Description:** PrivGPT Studio Your Private AI Workspace: A privacyfirst AI platform that lets you run local and cloud AIML models side by side. Features include multichat management with crossreferences, PDF/image/audio/video analysis, voice input with transcription, offline fallback, latency tracking, session rename/export/delete, and privacyfocused design. Future scope †’ add generative AI for image/video/audio, enable multiuser support with authentication, build pages like About/Contact, enhance UI/UX with dashboards, add realtime collaboration, internationalization, and plugin support.
+
+🔗 [View Project](https://github.com/Rucha-Ambaliya/PrivGPT-Studio.git)
+
+💻 **Tech Stack:** Next.js, React, Tailwind CSS, Flask, Python, MongoDB, Ollama, Google Gemini API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Refractered the Backend Code | Medium | [#66](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/66) |
+| FEATURE: add loader feature on click | Medium | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
+| FEATURE:Enhance Homepage UI for a Cleaner, Modern Look | Medium | [#57](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/57) |
 
 ---
 
