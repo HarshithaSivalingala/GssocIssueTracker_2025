@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added MagicCursorTrail component with continuous cursor movement and click burst effects | Medium | [#263](https://github.com/Amarjha01/InfantCareCompass/pull/263) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
@@ -38,8 +37,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Relocate Translate widget to Navbar | Easy | [#194](https://github.com/Ayushjhawar8/Flavor-ai/issues/194) |
-| Add Veg/Non-Veg filter and improve favorites UI | Medium | [#243](https://github.com/Ayushjhawar8/Flavor-ai/pull/243) |
-| Added nutrition API integration for recipe nutrients analysis | Medium | [#242](https://github.com/Ayushjhawar8/Flavor-ai/pull/242) |
+| feat: relocated translate widget to navbar | Medium | [#246](https://github.com/Ayushjhawar8/Flavor-ai/pull/246) |
 
 ---
 
@@ -92,12 +90,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integrate Monaco Editor for Coding Practice Section | Medium | [#418](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/418) |
-| Fixed the duplication of some sidebar links | Medium | [#417](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/417) |
-| Relocation Of Theme Toggle Button And CSS Fix for Darkmode | Medium | [#416](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/416) |
-| Integrating Frontend & Backend for Interview Experience | Medium | [#415](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/415) |
-| Backend Setup for Interview Experience Submission | Medium | [#414](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/414) |
-| Create Frontend Form for Interview Experience Submission | Medium | [#413](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/413) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -227,9 +219,9 @@ Why Jeanne?
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Remove Back to Top button | Medium | [#105](https://github.com/Axelvyn/Nexara/pull/105) |
 | remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
-| Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
 
 ---
 
