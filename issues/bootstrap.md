@@ -36,11 +36,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make the heading dynamic with typewriter effect | Medium | [#397](https://github.com/gyanshankar1708/GrowCraft/issues/397) |
+| Enhance UI of our work page and fix footer bg in Home page | Medium | [#396](https://github.com/gyanshankar1708/GrowCraft/issues/396) |
+| Missing Footer in About Us Page | Medium | [#395](https://github.com/gyanshankar1708/GrowCraft/issues/395) |
 | Fix Spacing an content overflow | Medium | [#394](https://github.com/gyanshankar1708/GrowCraft/issues/394) |
 | Navbar links not working on home page | Medium | [#393](https://github.com/gyanshankar1708/GrowCraft/issues/393) |
-| Ui Enhances of WebDev site , added sections  featurs | Medium | [#392](https://github.com/gyanshankar1708/GrowCraft/pull/392) |
 | Refactor: Move inline CSS & JS to external files and update paths accordingly | Medium | [#391](https://github.com/gyanshankar1708/GrowCraft/pull/391) |
-| Fixed :Enhancement of styling of 'Stop Breaches Before They Start' heading under Cyber Analyst page | Medium | [#390](https://github.com/gyanshankar1708/GrowCraft/pull/390) |
 
 ---
 
@@ -59,7 +60,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dark mode update | Medium | [#142](https://github.com/Pujan-sarkar/FARMLOC/pull/142) |
 | Low text contrast on login page (labels and headings are barely visible) | Medium | [#141](https://github.com/Pujan-sarkar/FARMLOC/issues/141) |
 | Add "Continue with Google" option to FARMLOC login page | Medium | [#140](https://github.com/Pujan-sarkar/FARMLOC/issues/140) |
 | Solved issue #68  -added real time map to the cold storage static image | Medium | [#139](https://github.com/Pujan-sarkar/FARMLOC/pull/139) |
@@ -84,6 +84,7 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | feat: Add Geolocation + Interactive Map for Cold Storage Locations | Medium | [#90](https://github.com/Pujan-sarkar/FARMLOC/pull/90) |
+| Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
 
 ---
 
@@ -103,7 +104,6 @@
 |----------|----------------|---------|
 | Navbar Mobile View Overflow | Easy | [#216](https://github.com/sachiva1/sachiva/issues/216) |
 | Fix/email contact us page | Medium | [#238](https://github.com/sachiva1/sachiva/pull/238) |
-| Navbar Hover Text Not Visible | Medium | [#233](https://github.com/sachiva1/sachiva/issues/233) |
 | Enhancement in buttons | Medium | [#232](https://github.com/sachiva1/sachiva/issues/232) |
 | Remove unnecessary two contact.html | Medium | [#231](https://github.com/sachiva1/sachiva/issues/231) |
 | Problem in Readme File | Medium | [#230](https://github.com/sachiva1/sachiva/issues/230) |
@@ -122,6 +122,7 @@
 | "Book service" functioning | Medium | [#211](https://github.com/sachiva1/sachiva/pull/211) |
 | Added location suggestion and improved date picker | Medium | [#209](https://github.com/sachiva1/sachiva/pull/209) |
 | Add Dynamic Leaderboard to fetch real time data | Medium | [#204](https://github.com/sachiva1/sachiva/pull/204) |
+| Navbar Hover Text Not Visible | Hard | [#233](https://github.com/sachiva1/sachiva/issues/233) |
 
 ---
 
