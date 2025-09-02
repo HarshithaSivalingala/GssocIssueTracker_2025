@@ -61,7 +61,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| My First PR | Medium | [#149](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/149) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
@@ -174,12 +173,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integrate Monaco Editor for Coding Practice Section | Medium | [#418](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/418) |
-| Fixed the duplication of some sidebar links | Medium | [#417](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/417) |
-| Relocation Of Theme Toggle Button And CSS Fix for Darkmode | Medium | [#416](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/416) |
-| Integrating Frontend & Backend for Interview Experience | Medium | [#415](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/415) |
-| Backend Setup for Interview Experience Submission | Medium | [#414](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/414) |
-| Create Frontend Form for Interview Experience Submission | Medium | [#413](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/413) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -199,8 +192,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Main page hover effect bug | Medium | [#230](https://github.com/omroy07/AgriTech/issues/230) |
-| Theme Toggle Not Switching Between Dark and Light Modes | Medium | [#229](https://github.com/omroy07/AgriTech/issues/229) |
+| Hover effect problem in dashboard cards | Medium | [#238](https://github.com/omroy07/AgriTech/issues/238) |
+| Theme dark mode not changing color of text | Medium | [#237](https://github.com/omroy07/AgriTech/issues/237) |
+| Pull Request of Fertilizer Recommendation System using Machine Learning | Medium | [#235](https://github.com/omroy07/AgriTech/pull/235) |
+| Integrating Weather Check System | Medium | [#232](https://github.com/omroy07/AgriTech/pull/232) |
 | Missing files | Medium | [#194](https://github.com/omroy07/AgriTech/issues/194) |
 | Fix the Responsiveness of the website | Medium | [#183](https://github.com/omroy07/AgriTech/issues/183) |
 | Add Firebase Config to CONTRIBUTING.md | Medium | [#170](https://github.com/omroy07/AgriTech/issues/170) |
@@ -209,7 +204,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | password placeholder | Medium | [#162](https://github.com/omroy07/AgriTech/issues/162) |
 | Password field eye icon misaligned on Register page — overflows outside input box | Medium | [#154](https://github.com/omroy07/AgriTech/issues/154) |
 | feat: password reset funtionality using smtp server connecting to the… | Medium | [#151](https://github.com/omroy07/AgriTech/pull/151) |
-| maize calendar is wrong schedule | Medium | [#148](https://github.com/omroy07/AgriTech/issues/148) |
 
 ---
 
@@ -258,6 +252,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Privacy Policy page enhancement | Medium | [#236](https://github.com/openml-stack/SentiLog-AI/issues/236) |
 | Enhance README with screenshots or visuals for better clarity | Medium | [#235](https://github.com/openml-stack/SentiLog-AI/issues/235) |
 | BUG : Live AI Sentiment Demo returns "Failed to analyze sentiment" | Medium | [#234](https://github.com/openml-stack/SentiLog-AI/issues/234) |
 | Signup not working | Medium | [#233](https://github.com/openml-stack/SentiLog-AI/issues/233) |
@@ -280,7 +275,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Advanced Document Sentiment Analysis result is not comprehensive | Medium | [#192](https://github.com/openml-stack/SentiLog-AI/issues/192) |
 | BUG : The buttons need fixing | Medium | [#191](https://github.com/openml-stack/SentiLog-AI/issues/191) |
 | Added email validation | Medium | [#190](https://github.com/openml-stack/SentiLog-AI/pull/190) |
-| Ui needs Professional Look | Medium | [#189](https://github.com/openml-stack/SentiLog-AI/issues/189) |
 
 ---
 
@@ -392,6 +386,26 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | Code of conduct is missing in the code | Medium | [#20](https://github.com/madegowda11/online-voting-system/issues/20) |
 | Add README.md file to provide basic project overview and setup instructions | Medium | [#19](https://github.com/madegowda11/online-voting-system/issues/19) |
+
+---
+
+## 📌 Project: PriGPT Studio
+
+📝 **Description:** PrivGPT Studio Your Private AI Workspace: A privacyfirst AI platform that lets you run local and cloud AIML models side by side. Features include multichat management with crossreferences, PDF/image/audio/video analysis, voice input with transcription, offline fallback, latency tracking, session rename/export/delete, and privacyfocused design. Future scope †’ add generative AI for image/video/audio, enable multiuser support with authentication, build pages like About/Contact, enhance UI/UX with dashboards, add realtime collaboration, internationalization, and plugin support.
+
+🔗 [View Project](https://github.com/Rucha-Ambaliya/PrivGPT-Studio.git)
+
+💻 **Tech Stack:** Next.js, React, Tailwind CSS, Flask, Python, MongoDB, Ollama, Google Gemini API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Refractered the Backend Code | Medium | [#66](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/66) |
+| FEATURE: add loader feature on click | Medium | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
+| FEATURE:Enhance Homepage UI for a Cleaner, Modern Look | Medium | [#57](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/57) |
 
 ---
 
