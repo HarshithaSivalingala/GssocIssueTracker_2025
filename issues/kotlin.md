@@ -98,10 +98,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Dark Mode with Better UI Contrast | Medium | [#33](https://github.com/Rajkumarbhakta/Canvas/issues/33) |
 | Add Shape Drawing Tools (Circle, Square, Line) | Medium | [#32](https://github.com/Rajkumarbhakta/Canvas/issues/32) |
 | Made DrawingScreen mobile friendly | Medium | [#29](https://github.com/Rajkumarbhakta/Canvas/pull/29) |
-| <Enhance Navbar and footer like  responsive webpage/> | Medium | [#24](https://github.com/Rajkumarbhakta/Canvas/issues/24) |
 
 ---
 
@@ -138,12 +136,11 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/user model pref duplication removal | Medium | [#401](https://github.com/yuvrajsinghgmx/ShopSmart/pull/401) |
+| helpful feature for shop and product reviews | Medium | [#404](https://github.com/yuvrajsinghgmx/ShopSmart/pull/404) |
+| Helpful Count | Medium | [#402](https://github.com/yuvrajsinghgmx/ShopSmart/issues/402) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
-| Refactor: Remove duplicate user model & storage | Medium | [#381](https://github.com/yuvrajsinghgmx/ShopSmart/issues/381) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
 | Introduce Email and Password Login through Firebase | Medium | [#354](https://github.com/yuvrajsinghgmx/ShopSmart/issues/354) |
-| Implement Product Category Filtering on Customer Home Screen | Medium | [#313](https://github.com/yuvrajsinghgmx/ShopSmart/issues/313) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
@@ -162,6 +159,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat. Update screen. | Medium | [#26](https://github.com/Ajay-patidar0/GitSearch/pull/26) |
 | AutoComplete | Medium | [#23](https://github.com/Ajay-patidar0/GitSearch/pull/23) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
 
