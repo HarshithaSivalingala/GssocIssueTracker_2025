@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added MagicCursorTrail component with continuous cursor movement and click burst effects | Medium | [#263](https://github.com/Amarjha01/InfantCareCompass/pull/263) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
@@ -42,6 +41,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: apply dark theme to Nearby page middle section | Medium | [#456](https://github.com/Bhavya1352/eventmappr/pull/456) |
+| Bug :  Fix Currency Converter Dark Theme Issue | Medium | [#455](https://github.com/Bhavya1352/eventmappr/pull/455) |
 | fix(about-page): apply dark theme styles correctly to middle section | Medium | [#454](https://github.com/Bhavya1352/eventmappr/pull/454) |
 | Add User Authentication with Firebase Auth | Medium | [#453](https://github.com/Bhavya1352/eventmappr/issues/453) |
 | Add Keyboard Shortcut to Toggle Theme (Ctrl + K) | Medium | [#452](https://github.com/Bhavya1352/eventmappr/issues/452) |
@@ -49,7 +50,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Nearby page dark theme not applying to middle section | Medium | [#411](https://github.com/Bhavya1352/eventmappr/issues/411) |
 | feat: add search, category filter, and sorting to TouristPlacesPage | Medium | [#376](https://github.com/Bhavya1352/eventmappr/pull/376) |
 | Adjust padding in event tiles for smaller screens | Medium | [#367](https://github.com/Bhavya1352/eventmappr/issues/367) |
-| Intelligent Chatbot Integration for EventMappr – Enhancing User Support & Interaction | Medium | [#300](https://github.com/Bhavya1352/eventmappr/issues/300) |
 
 ---
 
@@ -253,6 +253,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Argon2 | Medium | [#244](https://github.com/AditiGupta-tech/neonest/pull/244) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
 ---
@@ -345,6 +346,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
+| Fix invalid CSS and improve responsiveness in style.css | Medium | [#77](https://github.com/Aqsa4066/netflixclone/issues/77) |
 | feat(i18n): One-Click, Any-Language (#59) | Medium | [#76](https://github.com/Aqsa4066/netflixclone/pull/76) |
 | Change: Design of FAQs section | Medium | [#75](https://github.com/Aqsa4066/netflixclone/pull/75) |
 | Change: Design of FAQs section | Medium | [#72](https://github.com/Aqsa4066/netflixclone/pull/72) |
@@ -360,7 +362,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Website Layout Broken- Please review Recent Changes | Medium | [#31](https://github.com/Aqsa4066/netflixclone/issues/31) |
 | Website Ruined | Medium | [#26](https://github.com/Aqsa4066/netflixclone/issues/26) |
 | Enhance Navbar Design and Functionality in Netflix Clone | Medium | [#23](https://github.com/Aqsa4066/netflixclone/issues/23) |
-| feature: UI/UX Improvement Suggestions for Netflix Clone (GSSoC'25) | Medium | [#19](https://github.com/Aqsa4066/netflixclone/issues/19) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
@@ -379,7 +380,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add API Endpoint Documentation to README | Medium | [#54](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/54) |
 | Enhancement: Secure API Endpoints using JWT Authentication | Medium | [#51](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/51) |
 
 ---
@@ -421,6 +421,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Added - Email Appointment PDF to Client | Medium | [#169](https://github.com/dipexplorer/LegalHuB/pull/169) |
 | Feature/my contribution | Medium | [#158](https://github.com/dipexplorer/LegalHuB/pull/158) |
 | Backend Feature for Bookmark system | Medium | [#157](https://github.com/dipexplorer/LegalHuB/pull/157) |
 | Improve Responsiveness Across Entire Site | Hard | [#167](https://github.com/dipexplorer/LegalHuB/issues/167) |
@@ -497,9 +498,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Remove Back to Top button | Medium | [#105](https://github.com/Axelvyn/Nexara/pull/105) |
 | remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
-| Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
 
 ---
 
@@ -517,15 +518,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Structured Backend: Improved Route Imports, Refactored Server & App Logic, and Enhanced DB Connection | Medium | [#63](https://github.com/mr-rishikesh/DevConnect/pull/63) |
-| Added Ctrl + K Theme Toggle Shortcut and Enhanced Create Post Page UI | Medium | [#62](https://github.com/mr-rishikesh/DevConnect/pull/62) |
 | Login & Signup section ui enhancement | Medium | [#58](https://github.com/mr-rishikesh/DevConnect/issues/58) |
 | Password Reset Vulnerability | Medium | [#57](https://github.com/mr-rishikesh/DevConnect/issues/57) |
 | Weak Password Policy | Medium | [#56](https://github.com/mr-rishikesh/DevConnect/issues/56) |
 | Add Light/Dark Mode Toggle | Medium | [#52](https://github.com/mr-rishikesh/DevConnect/issues/52) |
 | Footer overlaps or appears too close to Navbar on Earnings and Connect To Others pages | Medium | [#51](https://github.com/mr-rishikesh/DevConnect/issues/51) |
 | Refactor Frontend Codebase for Better Readability and Contribution | Medium | [#50](https://github.com/mr-rishikesh/DevConnect/issues/50) |
-| Keep Backend Awake by Implementing Auto-Ping Mechanism | Medium | [#47](https://github.com/mr-rishikesh/DevConnect/pull/47) |
 | Prevent Backend from Sleeping on Free Hosting Plan | Medium | [#46](https://github.com/mr-rishikesh/DevConnect/issues/46) |
 | Issue: Redesign Blog Upload Flow — Create a Full Page for Blog/Post Submission | Medium | [#38](https://github.com/mr-rishikesh/DevConnect/issues/38) |
 | Website doesnot have the privacy policy page which will define the privacy policy under the website as security! | Medium | [#30](https://github.com/mr-rishikesh/DevConnect/issues/30) |
@@ -551,7 +549,21 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added dyanimc leaderboard | Medium | [#114](https://github.com/SandeepVashishtha/Eventra/pull/114) |
+| Update Backend README | Easy | [#158](https://github.com/SandeepVashishtha/Eventra/issues/158) |
+| Update Frontend README | Easy | [#157](https://github.com/SandeepVashishtha/Eventra/issues/157) |
+| Update Main Project README | Easy | [#156](https://github.com/SandeepVashishtha/Eventra/issues/156) |
+| Sort Dropdown for Events List | Medium | [#155](https://github.com/SandeepVashishtha/Eventra/issues/155) |
+| Image Lazy-Loading and Aspect-Ratio Placeholders | Medium | [#154](https://github.com/SandeepVashishtha/Eventra/issues/154) |
+| Mobile Navigation Improvements | Medium | [#153](https://github.com/SandeepVashishtha/Eventra/issues/153) |
+| Dark Mode Toggle | Medium | [#152](https://github.com/SandeepVashishtha/Eventra/issues/152) |
+| Design Custom 404 Error Page | Medium | [#151](https://github.com/SandeepVashishtha/Eventra/issues/151) |
+| Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
+| Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
+| Not All Contributors Are Displayed | Medium | [#148](https://github.com/SandeepVashishtha/Eventra/issues/148) |
+| Revamp or Remove Features Section for Minimalist Matching Style | Medium | [#147](https://github.com/SandeepVashishtha/Eventra/issues/147) |
+| Add Carousel to 'What's Happening Now' Section | Medium | [#146](https://github.com/SandeepVashishtha/Eventra/issues/146) |
+| Revamp the Landing Page | Medium | [#145](https://github.com/SandeepVashishtha/Eventra/issues/145) |
+| Revamp the About Page | Medium | [#144](https://github.com/SandeepVashishtha/Eventra/issues/144) |
 
 ---
 
