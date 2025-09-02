@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added MagicCursorTrail component with continuous cursor movement and click burst effects | Medium | [#263](https://github.com/Amarjha01/InfantCareCompass/pull/263) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
