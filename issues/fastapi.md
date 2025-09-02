@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added MagicCursorTrail component with continuous cursor movement and click burst effects | Medium | [#263](https://github.com/Amarjha01/InfantCareCompass/pull/263) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
@@ -97,12 +96,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integrate Monaco Editor for Coding Practice Section | Medium | [#418](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/418) |
-| Fixed the duplication of some sidebar links | Medium | [#417](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/417) |
-| Relocation Of Theme Toggle Button And CSS Fix for Darkmode | Medium | [#416](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/416) |
-| Integrating Frontend & Backend for Interview Experience | Medium | [#415](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/415) |
-| Backend Setup for Interview Experience Submission | Medium | [#414](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/414) |
-| Create Frontend Form for Interview Experience Submission | Medium | [#413](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/413) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
