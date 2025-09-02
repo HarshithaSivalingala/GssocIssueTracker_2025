@@ -105,6 +105,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix bug and profile page [OSCI] | Medium | [#346](https://github.com/Muneerali199/DocMagic/pull/346) |
 | contact form implementation | Medium | [#345](https://github.com/Muneerali199/DocMagic/pull/345) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 43 updates | Medium | [#344](https://github.com/Muneerali199/DocMagic/pull/344) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
@@ -320,9 +321,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Remove Back to Top button | Medium | [#105](https://github.com/Axelvyn/Nexara/pull/105) |
 | remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
-| Add GitHub Actions workflow for lint & format checks | Medium | [#94](https://github.com/Axelvyn/Nexara/pull/94) |
 
 ---
 
@@ -340,7 +341,21 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added dyanimc leaderboard | Medium | [#114](https://github.com/SandeepVashishtha/Eventra/pull/114) |
+| Update Backend README | Easy | [#158](https://github.com/SandeepVashishtha/Eventra/issues/158) |
+| Update Frontend README | Easy | [#157](https://github.com/SandeepVashishtha/Eventra/issues/157) |
+| Update Main Project README | Easy | [#156](https://github.com/SandeepVashishtha/Eventra/issues/156) |
+| Sort Dropdown for Events List | Medium | [#155](https://github.com/SandeepVashishtha/Eventra/issues/155) |
+| Image Lazy-Loading and Aspect-Ratio Placeholders | Medium | [#154](https://github.com/SandeepVashishtha/Eventra/issues/154) |
+| Mobile Navigation Improvements | Medium | [#153](https://github.com/SandeepVashishtha/Eventra/issues/153) |
+| Dark Mode Toggle | Medium | [#152](https://github.com/SandeepVashishtha/Eventra/issues/152) |
+| Design Custom 404 Error Page | Medium | [#151](https://github.com/SandeepVashishtha/Eventra/issues/151) |
+| Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
+| Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
+| Not All Contributors Are Displayed | Medium | [#148](https://github.com/SandeepVashishtha/Eventra/issues/148) |
+| Revamp or Remove Features Section for Minimalist Matching Style | Medium | [#147](https://github.com/SandeepVashishtha/Eventra/issues/147) |
+| Add Carousel to 'What's Happening Now' Section | Medium | [#146](https://github.com/SandeepVashishtha/Eventra/issues/146) |
+| Revamp the Landing Page | Medium | [#145](https://github.com/SandeepVashishtha/Eventra/issues/145) |
+| Revamp the About Page | Medium | [#144](https://github.com/SandeepVashishtha/Eventra/issues/144) |
 
 ---
 
@@ -382,6 +397,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Dynamic Topic Progress Bar | Medium | [#153](https://github.com/vatsal-bhakodia/smriti-ai/pull/153) |
 | feat(seo): add sitemap.xml and robots.txt for SEO (#144) | Medium | [#152](https://github.com/vatsal-bhakodia/smriti-ai/pull/152) |
 | Refactor Navbar: responsive design for mobile and laptop views | Medium | [#151](https://github.com/vatsal-bhakodia/smriti-ai/pull/151) |
 | Fix Form Submission & Backend Integration | Medium | [#149](https://github.com/vatsal-bhakodia/smriti-ai/issues/149) |
