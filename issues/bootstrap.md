@@ -36,11 +36,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Make the heading dynamic with typewriter effect | Medium | [#397](https://github.com/gyanshankar1708/GrowCraft/issues/397) |
-| Enhance UI of our work page and fix footer bg in Home page | Medium | [#396](https://github.com/gyanshankar1708/GrowCraft/issues/396) |
-| Missing Footer in About Us Page | Medium | [#395](https://github.com/gyanshankar1708/GrowCraft/issues/395) |
-| Fix Spacing an content overflow | Medium | [#394](https://github.com/gyanshankar1708/GrowCraft/issues/394) |
-| Navbar links not working on home page | Medium | [#393](https://github.com/gyanshankar1708/GrowCraft/issues/393) |
+| Added typewriter effect  in heading | Medium | [#405](https://github.com/gyanshankar1708/GrowCraft/pull/405) |
+| Fixed :Enhancement of gradient under 'Graphic Design' page | Medium | [#404](https://github.com/gyanshankar1708/GrowCraft/pull/404) |
+| Fixed the Overflow in social media page | Medium | [#402](https://github.com/gyanshankar1708/GrowCraft/pull/402) |
+| Fixed Home page Links | Medium | [#401](https://github.com/gyanshankar1708/GrowCraft/pull/401) |
+| Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
 | Refactor: Move inline CSS & JS to external files and update paths accordingly | Medium | [#391](https://github.com/gyanshankar1708/GrowCraft/pull/391) |
 
 ---
