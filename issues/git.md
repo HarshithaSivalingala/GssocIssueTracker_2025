@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Add confirm password field to registration page | Medium | [#266](https://github.com/Amarjha01/InfantCareCompass/pull/266) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
@@ -41,6 +42,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesign GitHub Stats Section | Medium | [#457](https://github.com/Bhavya1352/eventmappr/issues/457) |
 | fix: apply dark theme to Nearby page middle section | Medium | [#456](https://github.com/Bhavya1352/eventmappr/pull/456) |
 | Bug :  Fix Currency Converter Dark Theme Issue | Medium | [#455](https://github.com/Bhavya1352/eventmappr/pull/455) |
 | fix(about-page): apply dark theme styles correctly to middle section | Medium | [#454](https://github.com/Bhavya1352/eventmappr/pull/454) |
@@ -421,7 +423,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Added - Email Appointment PDF to Client | Medium | [#169](https://github.com/dipexplorer/LegalHuB/pull/169) |
 | Feature/my contribution | Medium | [#158](https://github.com/dipexplorer/LegalHuB/pull/158) |
 | Backend Feature for Bookmark system | Medium | [#157](https://github.com/dipexplorer/LegalHuB/pull/157) |
 | Improve Responsiveness Across Entire Site | Hard | [#167](https://github.com/dipexplorer/LegalHuB/issues/167) |
@@ -474,6 +475,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Distorted back to top button shape | Easy | [#66](https://github.com/lovelymahor/StudyMatePlus/issues/66) |
+| Migrated to vite for faster development | Medium | [#74](https://github.com/lovelymahor/StudyMatePlus/pull/74) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | bug:Hero section text cutoff on mobile view | Medium | [#51](https://github.com/lovelymahor/StudyMatePlus/issues/51) |
@@ -497,8 +499,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Contact form implementation | Easy | [#106](https://github.com/Axelvyn/Nexara/pull/106) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Remove Back to Top button | Medium | [#105](https://github.com/Axelvyn/Nexara/pull/105) |
 | remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
@@ -549,21 +551,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Backend README | Easy | [#158](https://github.com/SandeepVashishtha/Eventra/issues/158) |
-| Update Frontend README | Easy | [#157](https://github.com/SandeepVashishtha/Eventra/issues/157) |
-| Update Main Project README | Easy | [#156](https://github.com/SandeepVashishtha/Eventra/issues/156) |
-| Sort Dropdown for Events List | Medium | [#155](https://github.com/SandeepVashishtha/Eventra/issues/155) |
+| Forgot Password link redirects to 404 page. | Medium | [#163](https://github.com/SandeepVashishtha/Eventra/issues/163) |
 | Image Lazy-Loading and Aspect-Ratio Placeholders | Medium | [#154](https://github.com/SandeepVashishtha/Eventra/issues/154) |
-| Mobile Navigation Improvements | Medium | [#153](https://github.com/SandeepVashishtha/Eventra/issues/153) |
-| Dark Mode Toggle | Medium | [#152](https://github.com/SandeepVashishtha/Eventra/issues/152) |
-| Design Custom 404 Error Page | Medium | [#151](https://github.com/SandeepVashishtha/Eventra/issues/151) |
 | Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
 | Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
-| Not All Contributors Are Displayed | Medium | [#148](https://github.com/SandeepVashishtha/Eventra/issues/148) |
-| Revamp or Remove Features Section for Minimalist Matching Style | Medium | [#147](https://github.com/SandeepVashishtha/Eventra/issues/147) |
-| Add Carousel to 'What's Happening Now' Section | Medium | [#146](https://github.com/SandeepVashishtha/Eventra/issues/146) |
 | Revamp the Landing Page | Medium | [#145](https://github.com/SandeepVashishtha/Eventra/issues/145) |
-| Revamp the About Page | Medium | [#144](https://github.com/SandeepVashishtha/Eventra/issues/144) |
 
 ---
 
