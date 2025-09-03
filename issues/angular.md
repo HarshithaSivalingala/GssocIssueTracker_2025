@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Integrate Leaves count And all emaillist in Leaves Tab | Easy | [#109](https://github.com/abhisek247767/PeopleHub-Frontend/issues/109) |
+| project tree structure rendering | Hard | [#96](https://github.com/abhisek247767/PeopleHub-Frontend/issues/96) |
 
 ---
 
