@@ -45,26 +45,6 @@
 
 ---
 
-## 📌 Project: CinderPeak
-
-📝 **Description:** CinderPeak is a fast and efficient, open-source C++ graph library designed to handle directed, undirected, and mixed graphs with customizable vertex and edge types. Built with modern C++ (C++17/C++20), it offers a flexible, templated API for graph manipulation and analysis. The library includes an integrated visualization engine powered by SFML, enabling intuitive graph rendering for visual insights. CinderPeak is thread-safe, portable, and optimized for integration into larger projects, making it ideal for graph theory applications, data analysis, and network modeling.
-
-🔗 [View Project](https://github.com/SharonIV0x86/CinderPeak)
-
-💻 **Tech Stack:** C++
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Dijkstra’s Shortest Path Algorithm | Easy | [#53](https://github.com/SharonIV0x86/CinderPeak/issues/53) |
-| feat(storage): Add Thread Safety to AdjacencyList Storage Format | Hard | [#65](https://github.com/SharonIV0x86/CinderPeak/issues/65) |
-| feat(vis): Improve visualization engine and interactive node dragging in SFML. | Hard | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
-
----
-
 ## 📌 Project: Netflix Clone
 
 📝 **Description:** This netflix clone is prepared by using HTML, CSS, and Javascript
