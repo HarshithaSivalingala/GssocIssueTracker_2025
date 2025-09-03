@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| Feature Request: Persistent Chat History with Search & Export | Medium | [#67](https://github.com/A-Akhil/Astra-Ai/issues/67) |
 | Suggestion to add a CONTRIBUTING.md file | Medium | [#66](https://github.com/A-Akhil/Astra-Ai/issues/66) |
 | update readme for Astra-Ai | Medium | [#64](https://github.com/A-Akhil/Astra-Ai/issues/64) |
 | Add Comprehensive KDoc Comments and Dokka Documentation Setup | Medium | [#62](https://github.com/A-Akhil/Astra-Ai/pull/62) |
@@ -136,8 +137,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| helpful feature for shop and product reviews | Medium | [#404](https://github.com/yuvrajsinghgmx/ShopSmart/pull/404) |
-| Helpful Count | Medium | [#402](https://github.com/yuvrajsinghgmx/ShopSmart/issues/402) |
+| API integration and UI improvements for Add Shop Screen. | Medium | [#407](https://github.com/yuvrajsinghgmx/ShopSmart/issues/407) |
+| Login Screen | Medium | [#406](https://github.com/yuvrajsinghgmx/ShopSmart/issues/406) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
 | Introduce Email and Password Login through Firebase | Medium | [#354](https://github.com/yuvrajsinghgmx/ShopSmart/issues/354) |
