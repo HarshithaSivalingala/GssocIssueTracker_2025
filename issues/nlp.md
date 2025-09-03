@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Rebuild Medibot’s RAG Pipeline for Reliable Self-Care Guidance | Medium | [#45](https://github.com/CharithaReddy18/AI-health-chatbot/issues/45) |
+| Update Readme | Medium | [#46](https://github.com/CharithaReddy18/AI-health-chatbot/issues/46) |
 
 ---
 
