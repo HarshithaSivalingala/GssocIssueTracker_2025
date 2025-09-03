@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Add confirm password field to registration page | Medium | [#266](https://github.com/Amarjha01/InfantCareCompass/pull/266) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
@@ -36,8 +37,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Relocate Translate widget to Navbar | Easy | [#194](https://github.com/Ayushjhawar8/Flavor-ai/issues/194) |
-| feat: relocated translate widget to navbar | Medium | [#246](https://github.com/Ayushjhawar8/Flavor-ai/pull/246) |
+| Feat: Hide home icon in mobile view | Medium | [#248](https://github.com/Ayushjhawar8/Flavor-ai/pull/248) |
 
 ---
 
@@ -90,6 +90,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: added backend setup for interview exp form | Medium | [#424](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/424) |
+| fix: fixed issues in landing page | Medium | [#423](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/423) |
+| feat: added form for taking interview experience response | Medium | [#422](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/422) |
+| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 | Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
@@ -218,8 +222,8 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Contact form implementation | Easy | [#106](https://github.com/Axelvyn/Nexara/pull/106) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Remove Back to Top button | Medium | [#105](https://github.com/Axelvyn/Nexara/pull/105) |
 | remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
