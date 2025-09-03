@@ -41,13 +41,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhanced coc | Medium | [#1219](https://github.com/Code-A2Z/code-a2z/pull/1219) |
-| Implement API to Accept/Reject Collaboration Invite (Backend) #1192 | Medium | [#1218](https://github.com/Code-A2Z/code-a2z/pull/1218) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
+| 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
+| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
 
 ---
 
@@ -67,9 +67,28 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| There is no error handling for backend | Medium | [#104](https://github.com/Bavanetha27/Refixly/issues/104) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
+
+---
+
+## 📌 Project: Firebase Chat App
+
+📝 **Description:** A real-time chat application built using Firebase and React. It allows users to sign in with Google authentication, exchange messages instantly, and manage user sessions securely. The app showcases the power of serverless technologies with a sleek and responsive UI. Ideal for contributors interested in React, Firebase, and modern frontend/backend integration.
+
+🔗 [View Project](https://github.com/Dhruvi-tech/firebase-chat-app)
+
+💻 **Tech Stack:** React.js, Firebase Authentication, Firestore Database, HTML, CSS, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: show device tags on each message | Medium | [#53](https://github.com/Dhruvi-tech/firebase-chat-app/pull/53) |
 
 ---
 
@@ -87,9 +106,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixes SignUp and Login Pages | Medium | [#214](https://github.com/mansiruhil/fail-u-forward/pull/214) |
-| Google Sign-In not creating user account / login fails | Medium | [#213](https://github.com/mansiruhil/fail-u-forward/issues/213) |
-| Fix: UI clustering on Home & About pages + improved responsiveness | Medium | [#212](https://github.com/mansiruhil/fail-u-forward/pull/212) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -142,14 +158,12 @@
 |----------|----------------|---------|
 | Fix: Updated Browse Destinations and Sign Up button colors for better visibilityFix: updated Browse Destinations button to yellow theme with hover | Easy | [#174](https://github.com/Richajaishwal0/Trip_assistant/pull/174) |
 | fix: remove duplicate icon in client/index.html | Easy | [#165](https://github.com/Richajaishwal0/Trip_assistant/pull/165) |
+| Modernize More Places page design with Framer Motion and improved responsiveness (Fixes #189) | Medium | [#192](https://github.com/Richajaishwal0/Trip_assistant/pull/192) |
 | Improve footer design for better UI consistency (Fixes #182) | Medium | [#191](https://github.com/Richajaishwal0/Trip_assistant/pull/191) |
-| Fix and Enhance Help Center Page Layout & Styling | Medium | [#190](https://github.com/Richajaishwal0/Trip_assistant/issues/190) |
-| UI Enhancement: Modernize More Places Page Design and Responsiveness | Medium | [#189](https://github.com/Richajaishwal0/Trip_assistant/issues/189) |
 | Implement User Authentication State in Navbar with Dropdown Menu | Medium | [#188](https://github.com/Richajaishwal0/Trip_assistant/pull/188) |
 | Implement Dark Mode Functionality in Currency Page | Medium | [#187](https://github.com/Richajaishwal0/Trip_assistant/pull/187) |
 | Fix broken layout and validations on Sign-up page (Fixes #181) | Medium | [#183](https://github.com/Richajaishwal0/Trip_assistant/pull/183) |
 | Fix sign-up API error to ensure proper user registration (Fixes #176) | Medium | [#179](https://github.com/Richajaishwal0/Trip_assistant/pull/179) |
-| Feature: Social Integration (Google/Facebook Login + Trip Sharing) | Medium | [#178](https://github.com/Richajaishwal0/Trip_assistant/issues/178) |
 | Comprehensive Mobile Optimization & Responsive Design System | Medium | [#171](https://github.com/Richajaishwal0/Trip_assistant/pull/171) |
 | add dynamic contributor sector | Medium | [#170](https://github.com/Richajaishwal0/Trip_assistant/issues/170) |
 | Incomplete Folder Structure in Repository | Medium | [#167](https://github.com/Richajaishwal0/Trip_assistant/issues/167) |
@@ -160,6 +174,7 @@
 | "Add Privacy Policy Page" #146 | Medium | [#153](https://github.com/Richajaishwal0/Trip_assistant/pull/153) |
 | refactored backend config file structure and modified code to absolute uploads directory path | Medium | [#150](https://github.com/Richajaishwal0/Trip_assistant/pull/150) |
 | "Add Privacy Policy Page" | Medium | [#146](https://github.com/Richajaishwal0/Trip_assistant/issues/146) |
+| "Implement Authentication Backend and Frontend" | Medium | [#141](https://github.com/Richajaishwal0/Trip_assistant/pull/141) |
 
 ---
 
@@ -204,7 +219,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Flutter:  Logging in Theme Service | Easy | [#250](https://github.com/Yash159357/BREVITY/issues/250) |
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
+| Implement account deletion | Medium | [#269](https://github.com/Yash159357/BREVITY/pull/269) |
+| Implement reaction handling with optimistic UI updates and reaction queue | Medium | [#268](https://github.com/Yash159357/BREVITY/pull/268) |
+| feat: add logging to BookmarkBloc with state,event, and error tracking | Medium | [#266](https://github.com/Yash159357/BREVITY/pull/266) |
 | Working Tutorial Overlay and enhanced its UI | Medium | [#265](https://github.com/Yash159357/BREVITY/pull/265) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
@@ -285,6 +304,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Light Mode UI and Fix Theme Toggle Functionality on Landing Page | Easy | [#194](https://github.com/SurajSG23/PrepBuddy/issues/194) |
 | Add Timer to all the technical test pages | Easy | [#193](https://github.com/SurajSG23/PrepBuddy/issues/193) |
 
 ---
@@ -305,7 +325,6 @@
 |----------|----------------|---------|
 | Issue in Athlete Dashboard with overflow issues | Easy | [#85](https://github.com/VJLIVE/Athletix/issues/85) |
 | Add Athletix Banner | Easy | [#84](https://github.com/VJLIVE/Athletix/issues/84) |
-| Docs: Add SECURITY.md for responsible disclosure | Medium | [#92](https://github.com/VJLIVE/Athletix/pull/92) |
 | Localization - Add support for English & Hindi #43 | Medium | [#90](https://github.com/VJLIVE/Athletix/pull/90) |
 | Forgot Password Feature #54 | Medium | [#89](https://github.com/VJLIVE/Athletix/pull/89) |
 | Fixed profile image issue | Medium | [#83](https://github.com/VJLIVE/Athletix/pull/83) |
@@ -331,7 +350,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Flutter:  Logging in Theme Service | Easy | [#250](https://github.com/Yash159357/BREVITY/issues/250) |
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
+| Implement account deletion | Medium | [#269](https://github.com/Yash159357/BREVITY/pull/269) |
+| Implement reaction handling with optimistic UI updates and reaction queue | Medium | [#268](https://github.com/Yash159357/BREVITY/pull/268) |
+| feat: add logging to BookmarkBloc with state,event, and error tracking | Medium | [#266](https://github.com/Yash159357/BREVITY/pull/266) |
 | Working Tutorial Overlay and enhanced its UI | Medium | [#265](https://github.com/Yash159357/BREVITY/pull/265) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
@@ -499,6 +522,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Distorted back to top button shape | Easy | [#66](https://github.com/lovelymahor/StudyMatePlus/issues/66) |
+| Migrated to vite for faster development | Medium | [#74](https://github.com/lovelymahor/StudyMatePlus/pull/74) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | bug:Hero section text cutoff on mobile view | Medium | [#51](https://github.com/lovelymahor/StudyMatePlus/issues/51) |
@@ -625,9 +649,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Merge pull request #146 from sneha-tech03/feature/hackguide
-
-Sending PR again | Medium | [#149](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/149) |
 | Feature: Added Custom 404 Page with Navigation #139 | Medium | [#147](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/147) |
 | Resource Page Template Redesign | Medium | [#130](https://github.com/shuvadeepmondal/HacKerZGuiDe/issues/130) |
 | Fixes: #75, Enhances navbar UI | Medium | [#119](https://github.com/shuvadeepmondal/HacKerZGuiDe/pull/119) |
