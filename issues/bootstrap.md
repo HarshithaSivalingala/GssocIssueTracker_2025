@@ -36,8 +36,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added typewriter effect  in heading | Medium | [#405](https://github.com/gyanshankar1708/GrowCraft/pull/405) |
-| Fixed :Enhancement of gradient under 'Graphic Design' page | Medium | [#404](https://github.com/gyanshankar1708/GrowCraft/pull/404) |
+| Style the About Us Page | Medium | [#409](https://github.com/gyanshankar1708/GrowCraft/issues/409) |
+| Issue: Update "Our Work" Section Page | Medium | [#408](https://github.com/gyanshankar1708/GrowCraft/issues/408) |
+| Issue: Footer Styling Inconsistency on Cyber Threat Page | Medium | [#407](https://github.com/gyanshankar1708/GrowCraft/issues/407) |
+| Issue: Footer Style Inconsistent on Our Work Page | Medium | [#406](https://github.com/gyanshankar1708/GrowCraft/issues/406) |
 | Fixed the Overflow in social media page | Medium | [#402](https://github.com/gyanshankar1708/GrowCraft/pull/402) |
 | Fixed Home page Links | Medium | [#401](https://github.com/gyanshankar1708/GrowCraft/pull/401) |
 | Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
@@ -60,19 +62,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Table of Contents in README | Easy | [#143](https://github.com/Pujan-sarkar/FARMLOC/issues/143) |
+| Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| Find Cold Storage section is not working | Medium | [#145](https://github.com/Pujan-sarkar/FARMLOC/issues/145) |
 | Low text contrast on login page (labels and headings are barely visible) | Medium | [#141](https://github.com/Pujan-sarkar/FARMLOC/issues/141) |
 | Add "Continue with Google" option to FARMLOC login page | Medium | [#140](https://github.com/Pujan-sarkar/FARMLOC/issues/140) |
-| Solved issue #68  -added real time map to the cold storage static image | Medium | [#139](https://github.com/Pujan-sarkar/FARMLOC/pull/139) |
-| Back To Home button in Loginpage | Medium | [#138](https://github.com/Pujan-sarkar/FARMLOC/issues/138) |
 | Explore More button in Homepage is not working | Medium | [#137](https://github.com/Pujan-sarkar/FARMLOC/issues/137) |
 | ui of login and signup page is very basic i will improve in it . | Medium | [#136](https://github.com/Pujan-sarkar/FARMLOC/issues/136) |
 | ui of login and signup page is very basic i will improve in it . | Medium | [#135](https://github.com/Pujan-sarkar/FARMLOC/issues/135) |
-| Fix Navbar & Announcement Bar Size Mismatch | Medium | [#134](https://github.com/Pujan-sarkar/FARMLOC/issues/134) |
 | Fix: Add dark mode support for login, signup, and pages | Medium | [#132](https://github.com/Pujan-sarkar/FARMLOC/pull/132) |
 | Marketplace section not clearly visible on hover. | Medium | [#131](https://github.com/Pujan-sarkar/FARMLOC/issues/131) |
 | Create Explore page linking Marketplace and Cold Storage, style Explore Now button | Medium | [#130](https://github.com/Pujan-sarkar/FARMLOC/pull/130) |
-| fix(ui): improve alignment and size consistency between Navbar and Announcement Bar | Medium | [#129](https://github.com/Pujan-sarkar/FARMLOC/pull/129) |
-| fix(ui): Enhance Navbar and Announcement Bar alignment for consistent UI | Medium | [#128](https://github.com/Pujan-sarkar/FARMLOC/pull/128) |
 | Make Responsive Contact Section | Medium | [#126](https://github.com/Pujan-sarkar/FARMLOC/issues/126) |
 | Fix Navbar Top Margin, Farm Fresh Marketplace Color Contrast, and Footer Design Issues | Medium | [#124](https://github.com/Pujan-sarkar/FARMLOC/issues/124) |
 | Responsive Redesign: Footer & Contact Us Improvements for Mobile View[OSCI'25] | Medium | [#123](https://github.com/Pujan-sarkar/FARMLOC/issues/123) |
@@ -80,7 +80,6 @@
 | Add smooth slide-down animation to FAQ answers | Medium | [#119](https://github.com/Pujan-sarkar/FARMLOC/issues/119) |
 | enhanced contact form and added nodemailer smtp server endpoint to se… | Medium | [#115](https://github.com/Pujan-sarkar/FARMLOC/pull/115) |
 | Login Submission Fails with 404: NOT_FOUND Error | Medium | [#114](https://github.com/Pujan-sarkar/FARMLOC/issues/114) |
-| added back to top component | Medium | [#113](https://github.com/Pujan-sarkar/FARMLOC/pull/113) |
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | feat: Add Geolocation + Interactive Map for Cold Storage Locations | Medium | [#90](https://github.com/Pujan-sarkar/FARMLOC/pull/90) |
