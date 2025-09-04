@@ -90,12 +90,15 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: added backend setup for interview exp form | Medium | [#424](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/424) |
-| fix: fixed issues in landing page | Medium | [#423](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/423) |
-| feat: added form for taking interview experience response | Medium | [#422](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/422) |
+| Added darkMode support and improved ui of company profile | Medium | [#438](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/438) |
+| Missing Dark Mode & Inconsistent Background in Company Profile Page | Medium | [#437](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/437) |
+| Enh/made changes 2025 09 03 | Medium | [#436](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/436) |
+| Improve Student Controller with Validation & Error Handling | Medium | [#435](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/435) |
+| Fix page load scroll position | Medium | [#434](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/434) |
+| Add Responsive Navbar to Role selection Page | Medium | [#433](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/433) |
+| feat: Integrate Linting and Auto-Formatting for ML Modules | Medium | [#432](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/432) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
-| Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
 ---
 
@@ -222,9 +225,10 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Contact form implementation | Easy | [#106](https://github.com/Axelvyn/Nexara/pull/106) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
+| feat: Enhance developer experience with theme switcher, Git insights, and AI helper foundation | Medium | [#108](https://github.com/Axelvyn/Nexara/pull/108) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
 ---
