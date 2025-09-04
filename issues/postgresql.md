@@ -83,7 +83,10 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: improved homepage hero positioning and visual appeal | Medium | [#862](https://github.com/HarshS16/Civix/pull/862) |
+| Add Mail service for newsletter using nodemailer | Medium | [#866](https://github.com/HarshS16/Civix/issues/866) |
+| fix the edit functionality of user profile | Medium | [#865](https://github.com/HarshS16/Civix/issues/865) |
+| fix the profile-setup form | Medium | [#864](https://github.com/HarshS16/Civix/issues/864) |
+| Dark Theme Inconsistency on Contact Us Page | Medium | [#863](https://github.com/HarshS16/Civix/issues/863) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 
 ---
@@ -104,6 +107,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
+| Feature Request: Add Lenis Smooth Scrolling | Medium | [#352](https://github.com/Muneerali199/DocMagic/issues/352) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Quick Resume Generator Fails to Generate Resume | Medium | [#350](https://github.com/Muneerali199/DocMagic/issues/350) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
@@ -120,7 +125,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | Fix testimonial carousel and adjust layout/arrow positions | Medium | [#321](https://github.com/Muneerali199/DocMagic/pull/321) |
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
-| Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
 
 ---
 
@@ -322,9 +326,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Contact form implementation | Easy | [#106](https://github.com/Axelvyn/Nexara/pull/106) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
+| feat: Enhance developer experience with theme switcher, Git insights, and AI helper foundation | Medium | [#108](https://github.com/Axelvyn/Nexara/pull/108) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
 ---
@@ -343,11 +348,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Forgot Password link redirects to 404 page. | Medium | [#163](https://github.com/SandeepVashishtha/Eventra/issues/163) |
-| Image Lazy-Loading and Aspect-Ratio Placeholders | Medium | [#154](https://github.com/SandeepVashishtha/Eventra/issues/154) |
+| Add Search functionality in the LeaderBoard | Medium | [#176](https://github.com/SandeepVashishtha/Eventra/issues/176) |
+| All contributers name displayed | Medium | [#175](https://github.com/SandeepVashishtha/Eventra/pull/175) |
 | Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
 | Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
-| Revamp the Landing Page | Medium | [#145](https://github.com/SandeepVashishtha/Eventra/issues/145) |
 
 ---
 
@@ -389,8 +393,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed PDF Summarization feature | Medium | [#154](https://github.com/vatsal-bhakodia/smriti-ai/pull/154) |
-| Dynamic Topic Progress Bar | Medium | [#153](https://github.com/vatsal-bhakodia/smriti-ai/pull/153) |
+| # Bug: Wrong Button Active State | Medium | [#155](https://github.com/vatsal-bhakodia/smriti-ai/issues/155) |
 | Fix Form Submission & Backend Integration | Medium | [#149](https://github.com/vatsal-bhakodia/smriti-ai/issues/149) |
 
 ---
