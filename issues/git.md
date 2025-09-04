@@ -234,7 +234,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
 | Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
 | Fix: auto-scroll chat window to latest message | Medium | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
-| Add multilingual support with language switcher 🌍 | Medium | [#134](https://github.com/aayushraj1010/med-genie/pull/134) |
 | Missing Security Headers and CORS Configuration | Medium | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
 | Improve Navbar Responsiveness and UI | Medium | [#92](https://github.com/aayushraj1010/med-genie/issues/92) |
 | Missing Environment Variable Security and Configuration Management | Hard | [#149](https://github.com/aayushraj1010/med-genie/pull/149) |
@@ -255,6 +254,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Progress Indicator for Uploads | Medium | [#249](https://github.com/AditiGupta-tech/neonest/issues/249) |
+| Bug: Lullaby upload fails silently on slow networks | Medium | [#248](https://github.com/AditiGupta-tech/neonest/issues/248) |
+| Feature Request: Enable Dark Mode for NeoNest | Medium | [#247](https://github.com/AditiGupta-tech/neonest/issues/247) |
+| Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | Add Argon2 | Medium | [#244](https://github.com/AditiGupta-tech/neonest/pull/244) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
@@ -499,9 +502,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Contact form implementation | Easy | [#106](https://github.com/Axelvyn/Nexara/pull/106) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
+| feat: Enhance developer experience with theme switcher, Git insights, and AI helper foundation | Medium | [#108](https://github.com/Axelvyn/Nexara/pull/108) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
 ---
@@ -551,11 +555,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Forgot Password link redirects to 404 page. | Medium | [#163](https://github.com/SandeepVashishtha/Eventra/issues/163) |
-| Image Lazy-Loading and Aspect-Ratio Placeholders | Medium | [#154](https://github.com/SandeepVashishtha/Eventra/issues/154) |
+| Add Search functionality in the LeaderBoard | Medium | [#176](https://github.com/SandeepVashishtha/Eventra/issues/176) |
+| All contributers name displayed | Medium | [#175](https://github.com/SandeepVashishtha/Eventra/pull/175) |
 | Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
 | Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
-| Revamp the Landing Page | Medium | [#145](https://github.com/SandeepVashishtha/Eventra/issues/145) |
 
 ---
 
