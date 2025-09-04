@@ -90,17 +90,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| LinkedIn Post Generator, Generate LinkedIn Post Not working | Medium | [#111](https://github.com/huamanraj/aitoolbox.software/issues/111) |
 | 🐞 Fix broken contribution links in README | Medium | [#107](https://github.com/huamanraj/aitoolbox.software/issues/107) |
-| Enhacement in footer design | Medium | [#106](https://github.com/huamanraj/aitoolbox.software/pull/106) |
 | "GitHub" Link Redirects to Incorrect Repository | Medium | [#105](https://github.com/huamanraj/aitoolbox.software/issues/105) |
 | UI/UX Consistency and Navigation Enhancements | Medium | [#102](https://github.com/huamanraj/aitoolbox.software/issues/102) |
-| footer UI UX update | Medium | [#99](https://github.com/huamanraj/aitoolbox.software/pull/99) |
 | landing page | Medium | [#94](https://github.com/huamanraj/aitoolbox.software/issues/94) |
 | Improve mobile layout: Single column grid feels empty, suggest 2-box layout | Medium | [#92](https://github.com/huamanraj/aitoolbox.software/issues/92) |
 | Translator overflow off-screen, Missing placeholder text & No copy notification. | Medium | [#59](https://github.com/huamanraj/aitoolbox.software/issues/59) |
 | UI Enhancement: Improve Homepage Design with Better Colors, Hover Effects, and Professional Card Layout | Medium | [#51](https://github.com/huamanraj/aitoolbox.software/issues/51) |
 | PDF Chat | Medium | [#35](https://github.com/huamanraj/aitoolbox.software/issues/35) |
-| Add New Tool – AI Resume Builder | Medium | [#25](https://github.com/huamanraj/aitoolbox.software/issues/25) |
 
 ---
 
@@ -154,23 +152,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix map tooltip color in dark mode | Easy | [#2168](https://github.com/OWASP/Nest/issues/2168) |
-| Fix Home Page container flexibility | Easy | [#2033](https://github.com/OWASP/Nest/issues/2033) |
-| Create unified UserSummary card | Medium | [#2167](https://github.com/OWASP/Nest/issues/2167) |
-| Bump @heroui/button from 2.2.24 to 2.2.25 in /frontend | Medium | [#2166](https://github.com/OWASP/Nest/pull/2166) |
-| Frontend Makefile missing dependency installation step | Medium | [#2165](https://github.com/OWASP/Nest/issues/2165) |
+| Bump @heroui/toast from 2.0.14 to 2.0.15 in /frontend | Medium | [#2197](https://github.com/OWASP/Nest/pull/2197) |
+| Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
+| Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
+| Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
 | Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
-| add effect on hovering | Medium | [#2163](https://github.com/OWASP/Nest/issues/2163) |
 | Feature/graphql support for badges | Medium | [#2152](https://github.com/OWASP/Nest/pull/2152) |
-| Enhancement in header links in light mode | Medium | [#2126](https://github.com/OWASP/Nest/issues/2126) |
+| Automated Metadata Population for OWASP Entities PoC | Medium | [#2123](https://github.com/OWASP/Nest/issues/2123) |
 | Update the SECURITY.md file | Medium | [#2118](https://github.com/OWASP/Nest/issues/2118) |
 | Implemented Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
 | Nestbot MVP | Medium | [#2113](https://github.com/OWASP/Nest/pull/2113) |
 | Migrate scraper to GitHub .md files parsing | Medium | [#2088](https://github.com/OWASP/Nest/issues/2088) |
-| fixed footer not sticking always to bottom when height is higher | Medium | [#2083](https://github.com/OWASP/Nest/pull/2083) |
 | feat(ui): enhance search results page with better filtering & responsive design | Medium | [#2065](https://github.com/OWASP/Nest/issues/2065) |
 | Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
-| Sync OWASP Awards data and integrate with user profiles | Medium | [#2024](https://github.com/OWASP/Nest/pull/2024) |
+| Implement management command for detecting non-compliant project levels and flagging them in score calculation | Hard | [#2039](https://github.com/OWASP/Nest/issues/2039) |
 
 ---
 
@@ -226,8 +221,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated service worker | Medium | [#85](https://github.com/Dipanita45/HEALCONNECT/pull/85) |
-| contributing | Medium | [#84](https://github.com/Dipanita45/HEALCONNECT/issues/84) |
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
@@ -386,6 +379,8 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
+| Feature Request: Add Lenis Smooth Scrolling | Medium | [#352](https://github.com/Muneerali199/DocMagic/issues/352) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Quick Resume Generator Fails to Generate Resume | Medium | [#350](https://github.com/Muneerali199/DocMagic/issues/350) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
@@ -402,7 +397,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | Fix testimonial carousel and adjust layout/arrow positions | Medium | [#321](https://github.com/Muneerali199/DocMagic/pull/321) |
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
-| Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
 
 ---
 
@@ -528,6 +522,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix the edit page link redirection | Medium | [#478](https://github.com/recodehive/recode-website/pull/478) |
+| roling effect  on footer stats | Medium | [#477](https://github.com/recodehive/recode-website/pull/477) |
+| fix the links  links in community page | Medium | [#476](https://github.com/recodehive/recode-website/pull/476) |
+| Update heading styles for light and dark themes | Medium | [#475](https://github.com/recodehive/recode-website/pull/475) |
+| feat: Add DevFolio - GitHub Profiles | Medium | [#474](https://github.com/recodehive/recode-website/pull/474) |
 | Revert "Merge pull request #465 from meetoza30/sponsors-page-update" | Medium | [#473](https://github.com/recodehive/recode-website/pull/473) |
 | 🐞[Bug]: Misleading Testimonies on the courses page | Medium | [#472](https://github.com/recodehive/recode-website/issues/472) |
 | 🐞[Bug]: Design issue for Hand-held devices | Medium | [#471](https://github.com/recodehive/recode-website/issues/471) |
@@ -579,7 +578,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| Removed submodule from the repo | Medium | [#284](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/284) |
+| chore: commit all workspace changes | Medium | [#288](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/288) |
 | Added animated multi-topic progress tracker | Medium | [#274](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/274) |
 | Update SheetContent.tsx and apply dark theme fixes | Medium | [#269](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/269) |
 | ⭕ Unnecessary repeated calls to /api/check-auth on every tab/page | Medium | [#144](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/144) |
@@ -779,8 +778,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Fix Response Handling & Add Input Validation | Medium | [#107](https://github.com/yashvikram30/legalease/issues/107) |
 | feat: add route-keyed page transitions with Framer Motion | Medium | [#100](https://github.com/yashvikram30/legalease/pull/100) |
 | Implement Route-Keyed Page Transitions with Framer Motion | Medium | [#99](https://github.com/yashvikram30/legalease/issues/99) |
-| fix #97: removed process.exit(1) to save server crash during invalid DB connection fails | Medium | [#98](https://github.com/yashvikram30/legalease/pull/98) |
-| Database connection failure causes entire application to crash with process.exit(1) | Medium | [#97](https://github.com/yashvikram30/legalease/issues/97) |
 | Made the footer links functionable | Medium | [#90](https://github.com/yashvikram30/legalease/pull/90) |
 | AI-Powered Case Outcome Predictor | Medium | [#80](https://github.com/yashvikram30/legalease/issues/80) |
 | New Landing page and fixed dark mode toggle | Medium | [#74](https://github.com/yashvikram30/legalease/pull/74) |
@@ -791,6 +788,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | refactor: improve Terms & Privacy line styling on signup page | Medium | [#66](https://github.com/yashvikram30/legalease/pull/66) |
 | Revamp Dark Mode – UI/UX Enhancements | Medium | [#59](https://github.com/yashvikram30/legalease/pull/59) |
 | fixes : dark theme | Medium | [#58](https://github.com/yashvikram30/legalease/pull/58) |
+| Unclear Password Placeholders on Login/Signup Pages | Medium | [#55](https://github.com/yashvikram30/legalease/issues/55) |
 
 ---
 
@@ -828,6 +826,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Progress Indicator for Uploads | Medium | [#249](https://github.com/AditiGupta-tech/neonest/issues/249) |
+| Bug: Lullaby upload fails silently on slow networks | Medium | [#248](https://github.com/AditiGupta-tech/neonest/issues/248) |
+| Feature Request: Enable Dark Mode for NeoNest | Medium | [#247](https://github.com/AditiGupta-tech/neonest/issues/247) |
+| Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | Add Argon2 | Medium | [#244](https://github.com/AditiGupta-tech/neonest/pull/244) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
@@ -849,9 +851,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Implement New UI Based on Figma Design Using Pure CSS (No TailwindCSS) | Easy | [#17](https://github.com/ajaynegi45/Old-School-Game/issues/17) |
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
-| Bullet Math | Medium | [#111](https://github.com/ajaynegi45/Old-School-Game/issues/111) |
-| Added Close button and enable background click to dismiss Congratulation dialog box | Medium | [#108](https://github.com/ajaynegi45/Old-School-Game/pull/108) |
-| Add Simon Says memory game with 3 difficulty levels and keyboard support | Medium | [#107](https://github.com/ajaynegi45/Old-School-Game/pull/107) |
 
 ---
 
@@ -1103,9 +1102,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Contact form implementation | Easy | [#106](https://github.com/Axelvyn/Nexara/pull/106) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| remove back to top button | Medium | [#100](https://github.com/Axelvyn/Nexara/issues/100) |
+| feat: Enhance developer experience with theme switcher, Git insights, and AI helper foundation | Medium | [#108](https://github.com/Axelvyn/Nexara/pull/108) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
 ---
@@ -1146,8 +1146,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Seo | Medium | [#68](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/68) |
 | To fix the footer and make it center aligned | Medium | [#67](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/67) |
-| Refractered the Backend Code | Medium | [#66](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/66) |
-| FEATURE: add loader feature on click | Medium | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
 | FEATURE:Enhance Homepage UI for a Cleaner, Modern Look | Medium | [#57](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/57) |
 
 ---
@@ -1383,8 +1381,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed PDF Summarization feature | Medium | [#154](https://github.com/vatsal-bhakodia/smriti-ai/pull/154) |
-| Dynamic Topic Progress Bar | Medium | [#153](https://github.com/vatsal-bhakodia/smriti-ai/pull/153) |
+| # Bug: Wrong Button Active State | Medium | [#155](https://github.com/vatsal-bhakodia/smriti-ai/issues/155) |
 | Fix Form Submission & Backend Integration | Medium | [#149](https://github.com/vatsal-bhakodia/smriti-ai/issues/149) |
 
 ---
