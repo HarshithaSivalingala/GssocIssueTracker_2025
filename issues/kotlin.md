@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| Refactor & Enhance: Improve item_message_assistant.xml Layout | Medium | [#68](https://github.com/A-Akhil/Astra-Ai/issues/68) |
 | Feature Request: Persistent Chat History with Search & Export | Medium | [#67](https://github.com/A-Akhil/Astra-Ai/issues/67) |
 | Suggestion to add a CONTRIBUTING.md file | Medium | [#66](https://github.com/A-Akhil/Astra-Ai/issues/66) |
 | update readme for Astra-Ai | Medium | [#64](https://github.com/A-Akhil/Astra-Ai/issues/64) |
@@ -137,6 +138,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/api integration UI improvement add shop screen | Medium | [#410](https://github.com/yuvrajsinghgmx/ShopSmart/pull/410) |
 | API integration and UI improvements for Add Shop Screen. | Medium | [#407](https://github.com/yuvrajsinghgmx/ShopSmart/issues/407) |
 | Login Screen | Medium | [#406](https://github.com/yuvrajsinghgmx/ShopSmart/issues/406) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
