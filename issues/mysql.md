@@ -108,8 +108,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat: partial marks | Medium | [#70](https://github.com/swarooppatilx/bit-by-query/issues/70) |
-| Enhance mysql to sqlite parser | Medium | [#69](https://github.com/swarooppatilx/bit-by-query/pull/69) |
-| Improve Instruction box UI and Add Click-Outside-to-Close Behavior | Medium | [#68](https://github.com/swarooppatilx/bit-by-query/pull/68) |
 | bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
 | feat: admin panel | Medium | [#66](https://github.com/swarooppatilx/bit-by-query/issues/66) |
 | chore: improve UI UX of landing page | Medium | [#65](https://github.com/swarooppatilx/bit-by-query/issues/65) |
