@@ -67,22 +67,16 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Added logs in main.dart | Medium | [#276](https://github.com/Yash159357/BREVITY/pull/276) |
-| Added logs in Backend Service | Medium | [#275](https://github.com/Yash159357/BREVITY/pull/275) |
-| Added logs in Theme Service | Medium | [#274](https://github.com/Yash159357/BREVITY/pull/274) |
-| Added logs in User Profile Cubit and User Profile State | Medium | [#273](https://github.com/Yash159357/BREVITY/pull/273) |
-| Added logs in Firestore Service | Medium | [#272](https://github.com/Yash159357/BREVITY/pull/272) |
-| Added logs in Bookmark Service | Medium | [#271](https://github.com/Yash159357/BREVITY/pull/271) |
-| Added logs in Notification Service | Medium | [#270](https://github.com/Yash159357/BREVITY/pull/270) |
-| Implement account deletion | Medium | [#269](https://github.com/Yash159357/BREVITY/pull/269) |
-| Implement reaction handling with optimistic UI updates and reaction queue | Medium | [#268](https://github.com/Yash159357/BREVITY/pull/268) |
-| feat: add logging to BookmarkBloc with state,event, and error tracking | Medium | [#266](https://github.com/Yash159357/BREVITY/pull/266) |
-| Working Tutorial Overlay and enhanced its UI | Medium | [#265](https://github.com/Yash159357/BREVITY/pull/265) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
+| Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
+| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 | Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
+| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
@@ -128,22 +122,16 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Added logs in main.dart | Medium | [#276](https://github.com/Yash159357/BREVITY/pull/276) |
-| Added logs in Backend Service | Medium | [#275](https://github.com/Yash159357/BREVITY/pull/275) |
-| Added logs in Theme Service | Medium | [#274](https://github.com/Yash159357/BREVITY/pull/274) |
-| Added logs in User Profile Cubit and User Profile State | Medium | [#273](https://github.com/Yash159357/BREVITY/pull/273) |
-| Added logs in Firestore Service | Medium | [#272](https://github.com/Yash159357/BREVITY/pull/272) |
-| Added logs in Bookmark Service | Medium | [#271](https://github.com/Yash159357/BREVITY/pull/271) |
-| Added logs in Notification Service | Medium | [#270](https://github.com/Yash159357/BREVITY/pull/270) |
-| Implement account deletion | Medium | [#269](https://github.com/Yash159357/BREVITY/pull/269) |
-| Implement reaction handling with optimistic UI updates and reaction queue | Medium | [#268](https://github.com/Yash159357/BREVITY/pull/268) |
-| feat: add logging to BookmarkBloc with state,event, and error tracking | Medium | [#266](https://github.com/Yash159357/BREVITY/pull/266) |
-| Working Tutorial Overlay and enhanced its UI | Medium | [#265](https://github.com/Yash159357/BREVITY/pull/265) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
+| Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
+| Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
+| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 | Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
+| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
