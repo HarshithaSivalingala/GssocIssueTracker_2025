@@ -14,13 +14,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Enhancement | Medium | [#237](https://github.com/iaadillatif/techxninjas-client/issues/237) |
+| Convert Testimonials section into an auto-scrolling carousel | Medium | [#236](https://github.com/iaadillatif/techxninjas-client/pull/236) |
+| Add Automatic Scrolling Animation to "Learners" and "Mentors" Sections | Medium | [#235](https://github.com/iaadillatif/techxninjas-client/issues/235) |
 | Light/Dark option for lesser width screen made available (closes #40) | Medium | [#234](https://github.com/iaadillatif/techxninjas-client/pull/234) |
 | Security Vulnerability: Password Field Allows Copy/Paste | Medium | [#233](https://github.com/iaadillatif/techxninjas-client/issues/233) |
-| Convert Testimonials section into an auto-scrolling carousel | Medium | [#232](https://github.com/iaadillatif/techxninjas-client/issues/232) |
 | Betterment of Scrollbar for all pages | Medium | [#231](https://github.com/iaadillatif/techxninjas-client/issues/231) |
 | NEEDS A SEPARATE CODE PLAYGROUND SECTION FOR USERS TO PRACTICE CODE | Medium | [#230](https://github.com/iaadillatif/techxninjas-client/issues/230) |
 | NEEDS  A PROFESSIONAL BACKGROUNG IN ALL SECTIONS | Medium | [#229](https://github.com/iaadillatif/techxninjas-client/issues/229) |
-| loign  page is not working | Medium | [#227](https://github.com/iaadillatif/techxninjas-client/issues/227) |
 | FIX: did comment in envlocal | Medium | [#224](https://github.com/iaadillatif/techxninjas-client/pull/224) |
 | fix: make footer copyright year dynamic | Medium | [#222](https://github.com/iaadillatif/techxninjas-client/pull/222) |
 | Continuous Sliding Carousel for Learners & Mentors Section | Medium | [#221](https://github.com/iaadillatif/techxninjas-client/issues/221) |
@@ -32,7 +33,6 @@
 | Fixes  #187 : Correct Gemini API Model for `generateContent` | Medium | [#208](https://github.com/iaadillatif/techxninjas-client/pull/208) |
 | Upgraded UI of home page with header | Medium | [#207](https://github.com/iaadillatif/techxninjas-client/pull/207) |
 | Feature/infinite scroll | Medium | [#206](https://github.com/iaadillatif/techxninjas-client/pull/206) |
-| fixed sidebar transition | Medium | [#203](https://github.com/iaadillatif/techxninjas-client/pull/203) |
 | added chatbot | Hard | [#205](https://github.com/iaadillatif/techxninjas-client/pull/205) |
 
 ---
@@ -90,9 +90,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| LinkedIn Post Generator, Generate LinkedIn Post Not working | Medium | [#111](https://github.com/huamanraj/aitoolbox.software/issues/111) |
-| 🐞 Fix broken contribution links in README | Medium | [#107](https://github.com/huamanraj/aitoolbox.software/issues/107) |
-| "GitHub" Link Redirects to Incorrect Repository | Medium | [#105](https://github.com/huamanraj/aitoolbox.software/issues/105) |
 | UI/UX Consistency and Navigation Enhancements | Medium | [#102](https://github.com/huamanraj/aitoolbox.software/issues/102) |
 | landing page | Medium | [#94](https://github.com/huamanraj/aitoolbox.software/issues/94) |
 | Improve mobile layout: Single column grid feels empty, suggest 2-box layout | Medium | [#92](https://github.com/huamanraj/aitoolbox.software/issues/92) |
@@ -152,7 +149,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump @heroui/toast from 2.0.14 to 2.0.15 in /frontend | Medium | [#2197](https://github.com/OWASP/Nest/pull/2197) |
+| fix(ui): improve mobile navigation menu in Header.tsx | Medium | [#2217](https://github.com/OWASP/Nest/pull/2217) |
+| Research and Implement IaC PoC for OWASP Nest Infrastructure | Medium | [#2215](https://github.com/OWASP/Nest/issues/2215) |
+| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
+| Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
+| Migrate jest to v30 | Medium | [#2212](https://github.com/OWASP/Nest/issues/2212) |
+| Implement calendar events scheduling | Medium | [#2211](https://github.com/OWASP/Nest/pull/2211) |
+| Migrate @fortawesome/* to v7 | Medium | [#2210](https://github.com/OWASP/Nest/issues/2210) |
+| Maked Unified UserSummaryCard | Medium | [#2208](https://github.com/OWASP/Nest/pull/2208) |
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
@@ -162,10 +166,6 @@
 | Update the SECURITY.md file | Medium | [#2118](https://github.com/OWASP/Nest/issues/2118) |
 | Implemented Initial Query Parser for Search Interfaces | Medium | [#2114](https://github.com/OWASP/Nest/pull/2114) |
 | Nestbot MVP | Medium | [#2113](https://github.com/OWASP/Nest/pull/2113) |
-| Migrate scraper to GitHub .md files parsing | Medium | [#2088](https://github.com/OWASP/Nest/issues/2088) |
-| feat(ui): enhance search results page with better filtering & responsive design | Medium | [#2065](https://github.com/OWASP/Nest/issues/2065) |
-| Fix #2019: Link OWASP entities to related Slack channels | Medium | [#2049](https://github.com/OWASP/Nest/pull/2049) |
-| Implement management command for detecting non-compliant project levels and flagging them in score calculation | Hard | [#2039](https://github.com/OWASP/Nest/issues/2039) |
 
 ---
 
@@ -221,6 +221,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| issue create automate message added | Medium | [#88](https://github.com/Dipanita45/HEALCONNECT/pull/88) |
+| Adding Automate issue create message | Medium | [#87](https://github.com/Dipanita45/HEALCONNECT/issues/87) |
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
@@ -319,6 +321,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| The "Find More On" section currently includes Discord and GitHub icons. To make it easier for users to connect on professional platforms, we should also add a LinkedIn icon with a link to the project/community’s LinkedIn page. | Medium | [#215](https://github.com/mansiruhil/fail-u-forward/issues/215) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -826,12 +829,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Progress Indicator for Uploads | Medium | [#249](https://github.com/AditiGupta-tech/neonest/issues/249) |
-| Bug: Lullaby upload fails silently on slow networks | Medium | [#248](https://github.com/AditiGupta-tech/neonest/issues/248) |
-| Feature Request: Enable Dark Mode for NeoNest | Medium | [#247](https://github.com/AditiGupta-tech/neonest/issues/247) |
+| bug: Remove duplicate welcome toast on sign-up | Easy | [#124](https://github.com/AditiGupta-tech/neonest/issues/124) |
+| Enhancement: Meta Data Fix, SEO Optimization & Favicon in Title Bar | Easy | [#27](https://github.com/AditiGupta-tech/neonest/issues/27) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
-| Add Argon2 | Medium | [#244](https://github.com/AditiGupta-tech/neonest/pull/244) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
+| Enhancement: Redesign Navbar as a Collapsible Menu | Medium | [#142](https://github.com/AditiGupta-tech/neonest/issues/142) |
+| Add Personalization & Analytics Widgets | Hard | [#6](https://github.com/AditiGupta-tech/neonest/issues/6) |
 
 ---
 
@@ -1027,6 +1030,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed the overlapping card issue in post tab | Medium | [#173](https://github.com/harsh3dev/DevMatchups/pull/173) |
 | Bug: Favorites not loading and cannot be added | Medium | [#172](https://github.com/harsh3dev/DevMatchups/issues/172) |
 | Add validation for No. of team members field | Medium | [#134](https://github.com/harsh3dev/DevMatchups/issues/134) |
 
@@ -1103,7 +1107,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
-| Contact form implementation | Easy | [#106](https://github.com/Axelvyn/Nexara/pull/106) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
 | feat: Enhance developer experience with theme switcher, Git insights, and AI helper foundation | Medium | [#108](https://github.com/Axelvyn/Nexara/pull/108) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
@@ -1144,9 +1147,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Seo | Medium | [#68](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/68) |
-| To fix the footer and make it center aligned | Medium | [#67](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/67) |
-| FEATURE:Enhance Homepage UI for a Cleaner, Modern Look | Medium | [#57](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/57) |
+| FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
+| FEATURE: Create Page for Settings | Medium | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
+| FEATURE: Create page for Terms & Condition Page | Medium | [#80](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/80) |
+| FEATURE: Implement DATABASE Connection | Medium | [#78](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/78) |
+| FEATURE: Add Login Signup Page When Click on Try Chat | Medium | [#74](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/74) |
+| Bug/fix navbar overflow bug | Medium | [#72](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/72) |
 
 ---
 
@@ -1381,8 +1387,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| # Bug: Wrong Button Active State | Medium | [#155](https://github.com/vatsal-bhakodia/smriti-ai/issues/155) |
-| Fix Form Submission & Backend Integration | Medium | [#149](https://github.com/vatsal-bhakodia/smriti-ai/issues/149) |
+| feat(smriti-ai): enhance UI with shadows, hover glow, transitions | Medium | [#159](https://github.com/vatsal-bhakodia/smriti-ai/pull/159) |
 
 ---
 
