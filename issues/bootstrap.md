@@ -36,10 +36,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Style the About Us Page | Medium | [#409](https://github.com/gyanshankar1708/GrowCraft/issues/409) |
-| Issue: Update "Our Work" Section Page | Medium | [#408](https://github.com/gyanshankar1708/GrowCraft/issues/408) |
-| Issue: Footer Styling Inconsistency on Cyber Threat Page | Medium | [#407](https://github.com/gyanshankar1708/GrowCraft/issues/407) |
-| Issue: Footer Style Inconsistent on Our Work Page | Medium | [#406](https://github.com/gyanshankar1708/GrowCraft/issues/406) |
+| UI issue : Services cards text not visible | Medium | [#421](https://github.com/gyanshankar1708/GrowCraft/issues/421) |
+| Footer text not fully visible across pages | Medium | [#420](https://github.com/gyanshankar1708/GrowCraft/issues/420) |
+| Redesign the complete Graphic design page | Medium | [#419](https://github.com/gyanshankar1708/GrowCraft/issues/419) |
+| footer seems broken on the cyber analyst page | Medium | [#418](https://github.com/gyanshankar1708/GrowCraft/issues/418) |
+| Update or design the navnbar | Medium | [#417](https://github.com/gyanshankar1708/GrowCraft/issues/417) |
+| Revamp : Redesign the complete contact us page | Medium | [#416](https://github.com/gyanshankar1708/GrowCraft/issues/416) |
 | Fixed the Overflow in social media page | Medium | [#402](https://github.com/gyanshankar1708/GrowCraft/pull/402) |
 | Fixed Home page Links | Medium | [#401](https://github.com/gyanshankar1708/GrowCraft/pull/401) |
 | Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
@@ -64,13 +66,14 @@
 |----------|----------------|---------|
 | Add Table of Contents in README | Easy | [#143](https://github.com/Pujan-sarkar/FARMLOC/issues/143) |
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| Add dark mode support for login, signup | Medium | [#147](https://github.com/Pujan-sarkar/FARMLOC/pull/147) |
+| Add Blogs Page for /blogs link in footer | Medium | [#146](https://github.com/Pujan-sarkar/FARMLOC/issues/146) |
 | Find Cold Storage section is not working | Medium | [#145](https://github.com/Pujan-sarkar/FARMLOC/issues/145) |
 | Low text contrast on login page (labels and headings are barely visible) | Medium | [#141](https://github.com/Pujan-sarkar/FARMLOC/issues/141) |
 | Add "Continue with Google" option to FARMLOC login page | Medium | [#140](https://github.com/Pujan-sarkar/FARMLOC/issues/140) |
 | Explore More button in Homepage is not working | Medium | [#137](https://github.com/Pujan-sarkar/FARMLOC/issues/137) |
 | ui of login and signup page is very basic i will improve in it . | Medium | [#136](https://github.com/Pujan-sarkar/FARMLOC/issues/136) |
 | ui of login and signup page is very basic i will improve in it . | Medium | [#135](https://github.com/Pujan-sarkar/FARMLOC/issues/135) |
-| Fix: Add dark mode support for login, signup, and pages | Medium | [#132](https://github.com/Pujan-sarkar/FARMLOC/pull/132) |
 | Marketplace section not clearly visible on hover. | Medium | [#131](https://github.com/Pujan-sarkar/FARMLOC/issues/131) |
 | Create Explore page linking Marketplace and Cold Storage, style Explore Now button | Medium | [#130](https://github.com/Pujan-sarkar/FARMLOC/pull/130) |
 | Make Responsive Contact Section | Medium | [#126](https://github.com/Pujan-sarkar/FARMLOC/issues/126) |
