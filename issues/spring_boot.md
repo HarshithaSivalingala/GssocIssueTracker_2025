@@ -45,7 +45,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/api integration UI improvement add shop screen | Medium | [#410](https://github.com/yuvrajsinghgmx/ShopSmart/pull/410) |
 | API integration and UI improvements for Add Shop Screen. | Medium | [#407](https://github.com/yuvrajsinghgmx/ShopSmart/issues/407) |
 | Login Screen | Medium | [#406](https://github.com/yuvrajsinghgmx/ShopSmart/issues/406) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
@@ -118,8 +117,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Search functionality in the LeaderBoard | Medium | [#176](https://github.com/SandeepVashishtha/Eventra/issues/176) |
-| All contributers name displayed | Medium | [#175](https://github.com/SandeepVashishtha/Eventra/pull/175) |
+| Password Reset Routed | Medium | [#188](https://github.com/SandeepVashishtha/Eventra/pull/188) |
+| Enhance Image Loading with Lazy, Aspect-Ratio & Blur-Up | Medium | [#187](https://github.com/SandeepVashishtha/Eventra/pull/187) |
 | Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
 | Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
 
