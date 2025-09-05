@@ -59,6 +59,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Lock scroll & trap focus in “Select Your Role” modal | Medium | [#151](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/151) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
@@ -171,15 +172,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added darkMode support and improved ui of company profile | Medium | [#438](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/438) |
-| Missing Dark Mode & Inconsistent Background in Company Profile Page | Medium | [#437](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/437) |
-| Enh/made changes 2025 09 03 | Medium | [#436](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/436) |
-| Improve Student Controller with Validation & Error Handling | Medium | [#435](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/435) |
-| Fix page load scroll position | Medium | [#434](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/434) |
-| Add Responsive Navbar to Role selection Page | Medium | [#433](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/433) |
-| feat: Integrate Linting and Auto-Formatting for ML Modules | Medium | [#432](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/432) |
+| Integrate Chatbot Frontend with New Secure Backend | Medium | [#445](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/445) |
+| Secure Backend for Chatbot (Gemini API Integration) | Medium | [#444](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/444) |
+| Frontend ↔ Backend Integration of Aptitude Section | Medium | [#443](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/443) |
+| AI-Powered Question Generation (Gemini API Integration) | Medium | [#442](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/442) |
+| Backend Setup: Models & Controllers - Aptitude Section | Medium | [#441](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/441) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
+| Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
 ---
 
@@ -197,17 +197,18 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#264](https://github.com/omroy07/AgriTech/pull/264) |
+| Dark and Light Theme Issue resolved in yield prediction | Medium | [#263](https://github.com/omroy07/AgriTech/pull/263) |
+| Pull Request : Deep Learning CNN Model for Tomato Leaf Disease Predic… | Medium | [#261](https://github.com/omroy07/AgriTech/pull/261) |
+| Deep Learning CNN Model for Tomato Leaf Disease Prediction | Medium | [#260](https://github.com/omroy07/AgriTech/issues/260) |
 | Modified hover effects | Medium | [#258](https://github.com/omroy07/AgriTech/pull/258) |
-| Pull Request of Plant Disease Detection | Medium | [#257](https://github.com/omroy07/AgriTech/pull/257) |
-| Plant Disease Detection | Medium | [#256](https://github.com/omroy07/AgriTech/issues/256) |
 | Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
 | under footer section in about us text is not visible properly | Medium | [#251](https://github.com/omroy07/AgriTech/issues/251) |
 | Designing hamberg menu for services on mobile view | Medium | [#250](https://github.com/omroy07/AgriTech/issues/250) |
-| Add dark mode support and improve UI styling | Medium | [#241](https://github.com/omroy07/AgriTech/pull/241) |
-| Pull Request : Automated Plant Seedlings Classification with CNN Arch… | Medium | [#240](https://github.com/omroy07/AgriTech/pull/240) |
 | Automated Plant Seedlings Classification with CNN Architectures | Medium | [#239](https://github.com/omroy07/AgriTech/issues/239) |
 | Theme dark mode not changing color of text | Medium | [#237](https://github.com/omroy07/AgriTech/issues/237) |
 | Missing files | Medium | [#194](https://github.com/omroy07/AgriTech/issues/194) |
+| Fix the Responsiveness of the website | Medium | [#183](https://github.com/omroy07/AgriTech/issues/183) |
 
 ---
 
@@ -293,6 +294,13 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Profile Page | Medium | [#172](https://github.com/aayushraj1010/med-genie/issues/172) |
+| Make Chat Page Responsive | Medium | [#171](https://github.com/aayushraj1010/med-genie/issues/171) |
+| Add Navbar to Some Pages where navbar not appear | Medium | [#170](https://github.com/aayushraj1010/med-genie/issues/170) |
+| Add Smooth Animation of scrolling to Quick Links in Footer | Medium | [#169](https://github.com/aayushraj1010/med-genie/issues/169) |
+| Add Floating Scroll To Top Button | Medium | [#168](https://github.com/aayushraj1010/med-genie/issues/168) |
+| Create Pages For Terms & Condition and Cookie Policy | Medium | [#167](https://github.com/aayushraj1010/med-genie/issues/167) |
+| Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
 | Add a "Scroll to top" button | Medium | [#165](https://github.com/aayushraj1010/med-genie/issues/165) |
 | Animating the menubar(mobile view) | Medium | [#164](https://github.com/aayushraj1010/med-genie/issues/164) |
 | fix: improved the clear Button label to Reset #130 | Medium | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
@@ -300,7 +308,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
 | Fix: auto-scroll chat window to latest message | Medium | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
 | Missing Security Headers and CORS Configuration | Medium | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
-| Improve Navbar Responsiveness and UI | Medium | [#92](https://github.com/aayushraj1010/med-genie/issues/92) |
 | Missing Environment Variable Security and Configuration Management | Hard | [#149](https://github.com/aayushraj1010/med-genie/pull/149) |
 
 ---
@@ -403,9 +410,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Seo | Medium | [#68](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/68) |
-| To fix the footer and make it center aligned | Medium | [#67](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/67) |
-| FEATURE:Enhance Homepage UI for a Cleaner, Modern Look | Medium | [#57](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/57) |
+| FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
+| FEATURE: Create Page for Settings | Medium | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
+| FEATURE: Create page for Terms & Condition Page | Medium | [#80](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/80) |
+| FEATURE: Implement DATABASE Connection | Medium | [#78](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/78) |
+| FEATURE: Add Login Signup Page When Click on Try Chat | Medium | [#74](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/74) |
+| Bug/fix navbar overflow bug | Medium | [#72](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/72) |
+
+---
+
+## 📌 Project: Factshare
+
+📝 **Description:** Engineered an AI-powered fact-checking platform that achieved 92% accuracy in misinformation detection using
+ 
+ Gemini APIs for claim analysis and image text extraction. Integrated Google Fact Check API for real-time news validation
+ 
+ and a version-controlled credibility tracking system. Enhanced engagement with a chatbot delivering live, verifiable news links.
+ 
+ Enabled a 30% boost in verification participation through a community-driven voting system.
+
+🔗 [View Project](https://github.com/Saathviga9605/Factshare)
+
+💻 **Tech Stack:** React, Flask, MongoDB, Gemini API, Google Search Fact Check API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Registration Form UI Overflow Bug + Improvements | Medium | [#6](https://github.com/Saathviga9605/FactShare/pull/6) |
 
 ---
 
