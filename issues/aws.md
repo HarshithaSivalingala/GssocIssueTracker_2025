@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Filter-Based Loading for Contest Dashboard | Medium | [#44](https://github.com/kanikaa-3018/contest_onlinejudge/issues/44) |
 | Sidebar does not highlight active page after navigation | Medium | [#43](https://github.com/kanikaa-3018/contest_onlinejudge/issues/43) |
 | Pending issues | Medium | [#42](https://github.com/kanikaa-3018/contest_onlinejudge/issues/42) |
 | added the toggle button for light and dark theme change | Medium | [#41](https://github.com/kanikaa-3018/contest_onlinejudge/pull/41) |
