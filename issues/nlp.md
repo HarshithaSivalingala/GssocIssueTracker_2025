@@ -14,8 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Corrected README instructions to run WellnessResourceHub.py instead of app.py | Medium | [#48](https://github.com/CharithaReddy18/AI-health-chatbot/issues/48) |
-| fix(docs): corrected Streamlit entry file | Medium | [#47](https://github.com/CharithaReddy18/AI-health-chatbot/pull/47) |
+| Enhance Wellness Resource Hub UI and Add Interactive Features | Medium | [#51](https://github.com/CharithaReddy18/AI-health-chatbot/issues/51) |
+| Enhance WellnessResourceHub: Enhance Wellness Resource Hub UI and User Interaction | Medium | [#50](https://github.com/CharithaReddy18/AI-health-chatbot/pull/50) |
+| Update Readme | Medium | [#49](https://github.com/CharithaReddy18/AI-health-chatbot/pull/49) |
 
 ---
 
