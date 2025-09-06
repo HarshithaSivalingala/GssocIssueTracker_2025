@@ -47,6 +47,7 @@
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
 | 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
+| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
 
 ---
 
@@ -105,7 +106,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| The "Find More On" section currently includes Discord and GitHub icons. To make it easier for users to connect on professional platforms, we should also add a LinkedIn icon with a link to the project/community’s LinkedIn page. | Medium | [#215](https://github.com/mansiruhil/fail-u-forward/issues/215) |
+| Enhancement: Add Hover Effects to About Page Cards | Medium | [#218](https://github.com/mansiruhil/fail-u-forward/issues/218) |
+| Feature Request: Add Custom 404 Page | Medium | [#217](https://github.com/mansiruhil/fail-u-forward/issues/217) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -157,6 +159,13 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: Updated Browse Destinations and Sign Up button colors for better visibilityFix: updated Browse Destinations button to yellow theme with hover | Easy | [#174](https://github.com/Richajaishwal0/Trip_assistant/pull/174) |
+| noUncheckedSideEffectImports not valid | Medium | [#204](https://github.com/Richajaishwal0/Trip_assistant/issues/204) |
+| Missing github-token | Medium | [#203](https://github.com/Richajaishwal0/Trip_assistant/issues/203) |
+| Fix/strong validation registration | Medium | [#201](https://github.com/Richajaishwal0/Trip_assistant/pull/201) |
+| Feature: Implement User Profile Page & API Integration | Medium | [#200](https://github.com/Richajaishwal0/Trip_assistant/issues/200) |
+| 🐛 CSS Layout Breaking: Duplicate Rules and Invalid Syntax in Places.css | Medium | [#199](https://github.com/Richajaishwal0/Trip_assistant/issues/199) |
+| fixes#197 : add password strength indicator with progress bar in Auth… | Medium | [#198](https://github.com/Richajaishwal0/Trip_assistant/pull/198) |
+| Add live password strength checklist on signup page | Medium | [#197](https://github.com/Richajaishwal0/Trip_assistant/issues/197) |
 | Will Add a new FAQ and Terms Of Service Page [OSCI'25] | Medium | [#196](https://github.com/Richajaishwal0/Trip_assistant/issues/196) |
 | Directly opens the gmail or call dialer when clicked on contact us on number or email [OSCI 25] | Medium | [#195](https://github.com/Richajaishwal0/Trip_assistant/issues/195) |
 | Enhance Help Center Page & UX Enhancements | Medium | [#193](https://github.com/Richajaishwal0/Trip_assistant/pull/193) |
@@ -169,13 +178,9 @@
 | Fix: #155 Mobile UI/UX issues | Medium | [#158](https://github.com/Richajaishwal0/Trip_assistant/pull/158) |
 | Fix: Add server-side validation for user registration | Medium | [#157](https://github.com/Richajaishwal0/Trip_assistant/pull/157) |
 | "Add Privacy Policy Page" #146 | Medium | [#153](https://github.com/Richajaishwal0/Trip_assistant/pull/153) |
-| refactored backend config file structure and modified code to absolute uploads directory path | Medium | [#150](https://github.com/Richajaishwal0/Trip_assistant/pull/150) |
 | "Add Privacy Policy Page" | Medium | [#146](https://github.com/Richajaishwal0/Trip_assistant/issues/146) |
 | "Implement Authentication Backend and Frontend" | Medium | [#141](https://github.com/Richajaishwal0/Trip_assistant/pull/141) |
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
-| budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
-| feat: complete UI overhaul - fix navigation visibility, add theme sup… | Medium | [#125](https://github.com/Richajaishwal0/Trip_assistant/pull/125) |
-| Fixed chatbot nlp integrated with gemini flash 1.5 | Medium | [#120](https://github.com/Richajaishwal0/Trip_assistant/pull/120) |
 
 ---
 
@@ -221,6 +226,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
+| Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
@@ -230,7 +236,6 @@
 | UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 | Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
-| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
@@ -345,6 +350,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
+| Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
@@ -354,7 +360,6 @@
 | UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 | Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
-| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
@@ -456,9 +461,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed issue #35, Adding User SignUp and SignIn page | Medium | [#54](https://github.com/Devaki01/EcoStore/pull/54) |
 | UI/UX Issues | Medium | [#53](https://github.com/Devaki01/EcoStore/issues/53) |
 | add social link in the footer and product detailes | Medium | [#52](https://github.com/Devaki01/EcoStore/pull/52) |
-| Integrating CI/CD into the project | Medium | [#51](https://github.com/Devaki01/EcoStore/issues/51) |
 | Add social links in footer | Medium | [#50](https://github.com/Devaki01/EcoStore/issues/50) |
 | ## Feature Request: Product Details Page | Medium | [#49](https://github.com/Devaki01/EcoStore/issues/49) |
 | Issue #42 resolved ,Implement shop page with responsive product grid, featured section | Medium | [#48](https://github.com/Devaki01/EcoStore/pull/48) |
@@ -509,6 +514,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Distorted back to top button shape | Easy | [#66](https://github.com/lovelymahor/StudyMatePlus/issues/66) |
+| feat: add scroll to top buttons to pages | Medium | [#75](https://github.com/lovelymahor/StudyMatePlus/pull/75) |
 | Migrated to vite for faster development | Medium | [#74](https://github.com/lovelymahor/StudyMatePlus/pull/74) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
@@ -532,8 +538,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make the heading dynamic with typewriter effect | Medium | [#154](https://github.com/Varshitha713/CodeCanvas/issues/154) |
+| created about page with footer | Medium | [#153](https://github.com/Varshitha713/CodeCanvas/pull/153) |
 | Adding basic Calculator | Medium | [#152](https://github.com/Varshitha713/CodeCanvas/pull/152) |
-| add about page | Medium | [#150](https://github.com/Varshitha713/CodeCanvas/pull/150) |
 | Add our contributer section and logo for the website and add spacing enhance UI of filter section | Medium | [#148](https://github.com/Varshitha713/CodeCanvas/issues/148) |
 | idea about sign up and login page | Medium | [#146](https://github.com/Varshitha713/CodeCanvas/issues/146) |
 | Chore/restructure readme | Medium | [#138](https://github.com/Varshitha713/CodeCanvas/pull/138) |
