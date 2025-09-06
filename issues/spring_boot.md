@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a LEARN.md added a learn file | Medium | [#81](https://github.com/Ayush0316/KnockoutZone/pull/81) |
 | Are there any pending issues level  2 or level 3 | Medium | [#80](https://github.com/Ayush0316/KnockoutZone/issues/80) |
 | added user entity and service methods | Medium | [#79](https://github.com/Ayush0316/KnockoutZone/pull/79) |
 | Fix issue #61: Create User Login & Registration Backend with JWT | Medium | [#78](https://github.com/Ayush0316/KnockoutZone/pull/78) |
@@ -45,6 +46,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Navigation from ProductDetailsScreen and ShopDetailsScreen to ReviewScreen | Medium | [#411](https://github.com/yuvrajsinghgmx/ShopSmart/pull/411) |
 | API integration and UI improvements for Add Shop Screen. | Medium | [#407](https://github.com/yuvrajsinghgmx/ShopSmart/issues/407) |
 | Login Screen | Medium | [#406](https://github.com/yuvrajsinghgmx/ShopSmart/issues/406) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
@@ -99,6 +101,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Readme | Medium | [#55](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/55) |
 | Enhancement: Secure API Endpoints using JWT Authentication | Medium | [#51](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/51) |
 
 ---
@@ -117,10 +120,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Password Reset Routed | Medium | [#188](https://github.com/SandeepVashishtha/Eventra/pull/188) |
-| Enhance Image Loading with Lazy, Aspect-Ratio & Blur-Up | Medium | [#187](https://github.com/SandeepVashishtha/Eventra/pull/187) |
-| Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
-| Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
+| Not All Contributors Are Displayed | Easy | [#148](https://github.com/SandeepVashishtha/Eventra/issues/148) |
 
 ---
 
