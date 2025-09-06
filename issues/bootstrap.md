@@ -36,6 +36,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed : Enhancement of alignment of content under 'Why Choose Our Content Writing Services?' section | Medium | [#429](https://github.com/gyanshankar1708/GrowCraft/pull/429) |
+| Style the About Page | Medium | [#425](https://github.com/gyanshankar1708/GrowCraft/pull/425) |
+| update footer of work page | Medium | [#424](https://github.com/gyanshankar1708/GrowCraft/pull/424) |
 | UI issue : Services cards text not visible | Medium | [#421](https://github.com/gyanshankar1708/GrowCraft/issues/421) |
 | Footer text not fully visible across pages | Medium | [#420](https://github.com/gyanshankar1708/GrowCraft/issues/420) |
 | Redesign the complete Graphic design page | Medium | [#419](https://github.com/gyanshankar1708/GrowCraft/issues/419) |
@@ -105,6 +108,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Navbar Mobile View Overflow | Easy | [#216](https://github.com/sachiva1/sachiva/issues/216) |
+| UI change of home page | Medium | [#239](https://github.com/sachiva1/sachiva/pull/239) |
 | Fix/email contact us page | Medium | [#238](https://github.com/sachiva1/sachiva/pull/238) |
 | Enhancement in buttons | Medium | [#232](https://github.com/sachiva1/sachiva/issues/232) |
 | Remove unnecessary two contact.html | Medium | [#231](https://github.com/sachiva1/sachiva/issues/231) |
@@ -120,10 +124,8 @@
 | contributors.html Footer Not Responsive on Small Screens | Medium | [#221](https://github.com/sachiva1/sachiva/issues/221) |
 | Mobile Navbar UI Needs Visual Refinement | Medium | [#220](https://github.com/sachiva1/sachiva/issues/220) |
 | Navbar issues fixed | Medium | [#215](https://github.com/sachiva1/sachiva/pull/215) |
-| Fixed Portfolio Cards | Medium | [#213](https://github.com/sachiva1/sachiva/pull/213) |
-| "Book service" functioning | Medium | [#211](https://github.com/sachiva1/sachiva/pull/211) |
-| Added location suggestion and improved date picker | Medium | [#209](https://github.com/sachiva1/sachiva/pull/209) |
-| Add Dynamic Leaderboard to fetch real time data | Medium | [#204](https://github.com/sachiva1/sachiva/pull/204) |
+| Updated contact.html | Medium | [#200](https://github.com/sachiva1/sachiva/pull/200) |
+| Fixed missing link + fixed overflow issue | Medium | [#197](https://github.com/sachiva1/sachiva/pull/197) |
 | Navbar Hover Text Not Visible | Hard | [#233](https://github.com/sachiva1/sachiva/issues/233) |
 
 ---
