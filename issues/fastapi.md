@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed : Enhancement: Improve 'Creating Magical Childhood Moments' Section | Medium | [#268](https://github.com/Amarjha01/InfantCareCompass/pull/268) |
 | feat: Add confirm password field to registration page | Medium | [#266](https://github.com/Amarjha01/InfantCareCompass/pull/266) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
@@ -68,15 +69,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Dark Mode Toggle with sidebar theme switch | Medium | [#57](https://github.com/manasvi-0/AlgoLab/pull/57) |
-| feat: enhance unsupervised learning module with 5 new algorithms and real-time visualizations | Medium | [#56](https://github.com/manasvi-0/AlgoLab/pull/56) |
 | Update README file | Medium | [#55](https://github.com/manasvi-0/AlgoLab/issues/55) |
-| Added Model Comparison Dashboard page | Medium | [#54](https://github.com/manasvi-0/AlgoLab/pull/54) |
 | Feature Request: Visualising the effect of various kernels in a Convolutional Neural Network | Medium | [#49](https://github.com/manasvi-0/AlgoLab/issues/49) |
 | Documentation | Medium | [#48](https://github.com/manasvi-0/AlgoLab/issues/48) |
 | Feature Request: Interactive ANN Playground for Custom Training & Visualization | Medium | [#47](https://github.com/manasvi-0/AlgoLab/issues/47) |
 | Feature Request: Add a Section to Visualize and Train TimeSeries Forecasting Data | Medium | [#46](https://github.com/manasvi-0/AlgoLab/issues/46) |
-| Video file plus images used in knn_thoery file | Medium | [#42](https://github.com/manasvi-0/AlgoLab/pull/42) |
 | Feature Request: Add a Section to Visualize Data Preprocessing for ML Algorithms | Medium | [#41](https://github.com/manasvi-0/AlgoLab/issues/41) |
 | Added KMeans and DBSCAN clustering with Streamlit UI and docs | Medium | [#29](https://github.com/manasvi-0/AlgoLab/pull/29) |
 | Linear and Logistic Regression | Medium | [#16](https://github.com/manasvi-0/AlgoLab/pull/16) |
@@ -100,14 +97,16 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integrate Chatbot Frontend with New Secure Backend | Medium | [#445](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/445) |
-| Secure Backend for Chatbot (Gemini API Integration) | Medium | [#444](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/444) |
-| Frontend ↔ Backend Integration of Aptitude Section | Medium | [#443](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/443) |
-| AI-Powered Question Generation (Gemini API Integration) | Medium | [#442](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/442) |
-| Backend Setup: Models & Controllers - Aptitude Section | Medium | [#441](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/441) |
+| Impriving dashboard design in mobile screen | Medium | [#466](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/466) |
+| Chatbot fails to understand "Tell me about this website | Medium | [#464](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/464) |
+| feat: Connect Chatbot frontend with backend API | Medium | [#463](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/463) |
+| feat: added backend integration in aptitute component | Medium | [#462](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/462) |
+| added backend setup for chatbot | Medium | [#461](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/461) |
+| Added withdraw application and applied jobs endpoints | Medium | [#460](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/460) |
+| Optimize ATS Controller (atsController.js) | Medium | [#459](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/459) |
+| Optimize Resume Controller (resumeController.js) | Medium | [#458](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/458) |
+| Optimize Resume Score Controller (resumeScoreController.js) | Medium | [#457](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/457) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
-| Added Ai Interviewer | Medium | [#254](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/254) |
 
 ---
 
