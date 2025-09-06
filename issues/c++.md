@@ -14,8 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| issue create automate message added | Medium | [#88](https://github.com/Dipanita45/HEALCONNECT/pull/88) |
-| Adding Automate issue create message | Medium | [#87](https://github.com/Dipanita45/HEALCONNECT/issues/87) |
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
@@ -60,7 +58,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(visualization): Add SFML Visualization Engine with Interactive Nodes/Edges and Standalone Module - fixes #19 | Medium | [#68](https://github.com/SharonIV0x86/CinderPeak/pull/68) |
+| feat(GraphList): Title: Implement ``clearEdges()`` in Graph List | Easy | [#78](https://github.com/SharonIV0x86/CinderPeak/issues/78) |
+| feat(GraphList): Implement ``removeEdge()`` in Graph List | Easy | [#75](https://github.com/SharonIV0x86/CinderPeak/issues/75) |
+| feat(GraphList): Implement ``clearVertices()`` in Graph List | Easy | [#74](https://github.com/SharonIV0x86/CinderPeak/issues/74) |
+| feat(GraphList): Implement ``numVertices()`` in Graph List. | Easy | [#73](https://github.com/SharonIV0x86/CinderPeak/issues/73) |
+| feat(GraphList): Implement ``hasVertex()`` in Graph List. | Easy | [#72](https://github.com/SharonIV0x86/CinderPeak/issues/72) |
 
 ---
 
