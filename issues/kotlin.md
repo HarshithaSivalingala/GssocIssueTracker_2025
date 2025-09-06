@@ -100,6 +100,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add dark mode canvas with drawing and bright brush colors | Medium | [#34](https://github.com/Rajkumarbhakta/Canvas/pull/34) |
 | Add Shape Drawing Tools (Circle, Square, Line) | Medium | [#32](https://github.com/Rajkumarbhakta/Canvas/issues/32) |
 | Made DrawingScreen mobile friendly | Medium | [#29](https://github.com/Rajkumarbhakta/Canvas/pull/29) |
 
@@ -138,6 +139,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Navigation from ProductDetailsScreen and ShopDetailsScreen to ReviewScreen | Medium | [#411](https://github.com/yuvrajsinghgmx/ShopSmart/pull/411) |
 | API integration and UI improvements for Add Shop Screen. | Medium | [#407](https://github.com/yuvrajsinghgmx/ShopSmart/issues/407) |
 | Login Screen | Medium | [#406](https://github.com/yuvrajsinghgmx/ShopSmart/issues/406) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
