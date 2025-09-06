@@ -67,6 +67,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
+| Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
@@ -76,7 +77,6 @@
 | UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 | Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
-| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
@@ -122,6 +122,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
+| Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
 | Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
@@ -131,7 +132,6 @@
 | UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 | Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
-| Multi-Language Support | Hard | [#80](https://github.com/Yash159357/BREVITY/issues/80) |
 
 ---
 
