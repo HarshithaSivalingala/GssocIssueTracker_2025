@@ -14,7 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Allow '#' symbol in password validation in frontend | Medium | [#116](https://github.com/abhisek247767/PeopleHub-Frontend/pull/116) |
+| Add API integration to /leave endpoint | Easy | [#119](https://github.com/abhisek247767/PeopleHub-Frontend/pull/119) |
+| Integrate Leaves count And all emaillist in Leaves Tab | Medium | [#118](https://github.com/abhisek247767/PeopleHub-Frontend/issues/118) |
 | project tree structure rendering | Hard | [#96](https://github.com/abhisek247767/PeopleHub-Frontend/issues/96) |
 
 ---
