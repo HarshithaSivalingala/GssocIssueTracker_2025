@@ -174,16 +174,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Impriving dashboard design in mobile screen | Medium | [#466](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/466) |
-| Chatbot fails to understand "Tell me about this website | Medium | [#464](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/464) |
-| feat: Connect Chatbot frontend with backend API | Medium | [#463](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/463) |
-| feat: added backend integration in aptitute component | Medium | [#462](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/462) |
-| added backend setup for chatbot | Medium | [#461](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/461) |
-| Added withdraw application and applied jobs endpoints | Medium | [#460](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/460) |
-| Optimize ATS Controller (atsController.js) | Medium | [#459](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/459) |
-| Optimize Resume Controller (resumeController.js) | Medium | [#458](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/458) |
-| Optimize Resume Score Controller (resumeScoreController.js) | Medium | [#457](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/457) |
+| Improved responsive design | Medium | [#471](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/471) |
+| I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -235,7 +229,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Enhance UI/UX and Functionality: Loading Indicator, Clear Button, Improved Results, Detailed Info, and History | Medium | [#30](https://github.com/EmailScript/EmailScript/issues/30) |
 | Readme File is missing | Medium | [#29](https://github.com/EmailScript/EmailScript/issues/29) |
 | Readme is missing | Medium | [#27](https://github.com/EmailScript/EmailScript/issues/27) |
-| 📄 Add deployed live app link to README | Medium | [#26](https://github.com/EmailScript/EmailScript/pull/26) |
 | UI Revamp: Modern, Accessible & Responsive Design for Email Checker Interface | Medium | [#24](https://github.com/EmailScript/EmailScript/issues/24) |
 | 🚀 Add Loading Spinner During Email Validation API Call | Medium | [#23](https://github.com/EmailScript/EmailScript/issues/23) |
 | Add live character counter for subject and message feilds | Medium | [#21](https://github.com/EmailScript/EmailScript/issues/21) |
@@ -373,10 +366,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Sidebar Navigation for Mobile App | Medium | [#79](https://github.com/KrishChothani/CKsEdu/pull/79) |
-| Quick Links are not working | Medium | [#77](https://github.com/KrishChothani/CKsEdu/issues/77) |
-| Dark/light mode availability | Medium | [#76](https://github.com/KrishChothani/CKsEdu/issues/76) |
-| E-library UI | Medium | [#75](https://github.com/KrishChothani/CKsEdu/pull/75) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
@@ -419,27 +408,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
-
----
-
-## 📌 Project: PriGPT Studio
-
-📝 **Description:** PrivGPT Studio Your Private AI Workspace: A privacyfirst AI platform that lets you run local and cloud AIML models side by side. Features include multichat management with crossreferences, PDF/image/audio/video analysis, voice input with transcription, offline fallback, latency tracking, session rename/export/delete, and privacyfocused design. Future scope †’ add generative AI for image/video/audio, enable multiuser support with authentication, build pages like About/Contact, enhance UI/UX with dashboards, add realtime collaboration, internationalization, and plugin support.
-
-🔗 [View Project](https://github.com/Rucha-Ambaliya/PrivGPT-Studio.git)
-
-💻 **Tech Stack:** Next.js, React, Tailwind CSS, Flask, Python, MongoDB, Ollama, Google Gemini API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Implement Animation in HomePage and Make Navbar Links hover animation… | Medium | [#83](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/83) |
-| FEATURE: Create page for Terms & Condition Page | Medium | [#80](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/80) |
-| FEATURE: Add Login Signup Page When Click on Try Chat | Medium | [#74](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/74) |
-| Bug/fix navbar overflow bug | Medium | [#72](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/72) |
 
 ---
 
