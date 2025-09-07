@@ -45,8 +45,6 @@
 | footer seems broken on the cyber analyst page | Medium | [#418](https://github.com/gyanshankar1708/GrowCraft/issues/418) |
 | Update or design the navnbar | Medium | [#417](https://github.com/gyanshankar1708/GrowCraft/issues/417) |
 | Revamp : Redesign the complete contact us page | Medium | [#416](https://github.com/gyanshankar1708/GrowCraft/issues/416) |
-| Fixed the Overflow in social media page | Medium | [#402](https://github.com/gyanshankar1708/GrowCraft/pull/402) |
-| Fixed Home page Links | Medium | [#401](https://github.com/gyanshankar1708/GrowCraft/pull/401) |
 | Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
 | Refactor: Move inline CSS & JS to external files and update paths accordingly | Medium | [#391](https://github.com/gyanshankar1708/GrowCraft/pull/391) |
 
