@@ -97,16 +97,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Impriving dashboard design in mobile screen | Medium | [#466](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/466) |
-| Chatbot fails to understand "Tell me about this website | Medium | [#464](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/464) |
-| feat: Connect Chatbot frontend with backend API | Medium | [#463](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/463) |
-| feat: added backend integration in aptitute component | Medium | [#462](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/462) |
-| added backend setup for chatbot | Medium | [#461](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/461) |
-| Added withdraw application and applied jobs endpoints | Medium | [#460](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/460) |
-| Optimize ATS Controller (atsController.js) | Medium | [#459](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/459) |
-| Optimize Resume Controller (resumeController.js) | Medium | [#458](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/458) |
-| Optimize Resume Score Controller (resumeScoreController.js) | Medium | [#457](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/457) |
+| Improved responsive design | Medium | [#471](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/471) |
+| I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
