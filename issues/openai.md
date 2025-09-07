@@ -38,9 +38,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Sticky Ingredients on desktop (non-sticky on mobile) | Medium | [#263](https://github.com/Ayushjhawar8/Flavor-ai/issues/263) |
+| Report Recipe Issue (prefilled GitHub issue) | Medium | [#262](https://github.com/Ayushjhawar8/Flavor-ai/issues/262) |
+| Unit Toggle (Metric ⟷ US) | Medium | [#261](https://github.com/Ayushjhawar8/Flavor-ai/issues/261) |
+| Serving Size Scaler (+/–) | Medium | [#260](https://github.com/Ayushjhawar8/Flavor-ai/issues/260) |
+| Shopping List (localStorage + Copy/Download) | Medium | [#259](https://github.com/Ayushjhawar8/Flavor-ai/issues/259) |
+| Feat: Add Print / PDF Recipe Card with print-friendly styles (#252) | Medium | [#258](https://github.com/Ayushjhawar8/Flavor-ai/pull/258) |
+| Fixed Distortion | Medium | [#257](https://github.com/Ayushjhawar8/Flavor-ai/pull/257) |
+| Feat: Copy Ingredients to clipboard (#250) | Medium | [#256](https://github.com/Ayushjhawar8/Flavor-ai/pull/256) |
+| feat: Implement community recipe feature with upload, view functionalities | Medium | [#255](https://github.com/Ayushjhawar8/Flavor-ai/pull/255) |
 | Feat: Add Share Recipe button with Web Share + clipboard fallback (#249) | Medium | [#254](https://github.com/Ayushjhawar8/Flavor-ai/pull/254) |
 | Feat: Add Recently Viewed Recipes on Home (#251) | Medium | [#253](https://github.com/Ayushjhawar8/Flavor-ai/pull/253) |
-| Feat: Hide home icon in mobile view | Medium | [#248](https://github.com/Ayushjhawar8/Flavor-ai/pull/248) |
 
 ---
 
@@ -58,7 +66,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug Report: Dark/Light mode toggle not working properly | Medium | [#45](https://github.com/kanikaa-3018/contest_onlinejudge/issues/45) |
 | Filter-Based Loading for Contest Dashboard | Medium | [#44](https://github.com/kanikaa-3018/contest_onlinejudge/issues/44) |
 | Sidebar does not highlight active page after navigation | Medium | [#43](https://github.com/kanikaa-3018/contest_onlinejudge/issues/43) |
 | Pending issues | Medium | [#42](https://github.com/kanikaa-3018/contest_onlinejudge/issues/42) |
@@ -95,16 +102,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Impriving dashboard design in mobile screen | Medium | [#466](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/466) |
-| Chatbot fails to understand "Tell me about this website | Medium | [#464](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/464) |
-| feat: Connect Chatbot frontend with backend API | Medium | [#463](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/463) |
-| feat: added backend integration in aptitute component | Medium | [#462](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/462) |
-| added backend setup for chatbot | Medium | [#461](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/461) |
-| Added withdraw application and applied jobs endpoints | Medium | [#460](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/460) |
-| Optimize ATS Controller (atsController.js) | Medium | [#459](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/459) |
-| Optimize Resume Controller (resumeController.js) | Medium | [#458](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/458) |
-| Optimize Resume Score Controller (resumeScoreController.js) | Medium | [#457](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/457) |
+| Improved responsive design | Medium | [#471](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/471) |
+| I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
