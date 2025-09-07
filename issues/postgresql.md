@@ -83,10 +83,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Mail service for newsletter using nodemailer | Medium | [#866](https://github.com/HarshS16/Civix/issues/866) |
-| fix the edit functionality of user profile | Medium | [#865](https://github.com/HarshS16/Civix/issues/865) |
-| fix the profile-setup form | Medium | [#864](https://github.com/HarshS16/Civix/issues/864) |
-| Dark Theme Inconsistency on Contact Us Page | Medium | [#863](https://github.com/HarshS16/Civix/issues/863) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 
 ---
@@ -348,7 +344,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Not All Contributors Are Displayed | Easy | [#148](https://github.com/SandeepVashishtha/Eventra/issues/148) |
+| Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
+| Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
 
 ---
 
@@ -366,6 +363,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| made some changes | Medium | [#128](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/128) |
 | refactor/modified-footer | Medium | [#127](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/127) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
 | feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
@@ -393,7 +391,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | bug : Error while signin with google | Medium | [#162](https://github.com/vatsal-bhakodia/smriti-ai/issues/162) |
 | bug : Image not added width and height | Medium | [#161](https://github.com/vatsal-bhakodia/smriti-ai/issues/161) |
-| feat(smriti-ai): enhance UI with shadows, hover glow, transitions | Medium | [#159](https://github.com/vatsal-bhakodia/smriti-ai/pull/159) |
 
 ---
 
