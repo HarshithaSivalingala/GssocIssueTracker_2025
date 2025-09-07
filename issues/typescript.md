@@ -59,25 +59,10 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed user payload console log | Medium | [#420](https://github.com/abhisek2004/Dev-Elevate/pull/420) |
-| 📊 Weekly Project Summary - 9/5/2025 | Medium | [#419](https://github.com/abhisek2004/Dev-Elevate/issues/419) |
+| [Enhancement] Expand & Automate Tech Feed to Display Dynamic Educational + Tech News | Easy | [#230](https://github.com/abhisek2004/Dev-Elevate/issues/230) |
 | adding image uploading to ask doubt | Medium | [#418](https://github.com/abhisek2004/Dev-Elevate/issues/418) |
-| 📊 Weekly Project Summary - 9/4/2025 | Medium | [#413](https://github.com/abhisek2004/Dev-Elevate/issues/413) |
 | Feature Request: Add Contests Module (LeetCode-style) | Medium | [#411](https://github.com/abhisek2004/Dev-Elevate/issues/411) |
 | Feature Request: Complete Problems Page (All Questions + Editor + Editorials) | Medium | [#410](https://github.com/abhisek2004/Dev-Elevate/issues/410) |
-| issue #251: **Fix and Integrate Real-Time Analytics in Admin Dashboard Overview** | Medium | [#409](https://github.com/abhisek2004/Dev-Elevate/pull/409) |
-| 📊 Weekly Project Summary - 9/3/2025 | Medium | [#408](https://github.com/abhisek2004/Dev-Elevate/issues/408) |
-| 📊 Weekly Project Summary - 9/2/2025 | Medium | [#403](https://github.com/abhisek2004/Dev-Elevate/issues/403) |
-| 📊 Weekly Project Summary - 9/1/2025 | Medium | [#402](https://github.com/abhisek2004/Dev-Elevate/issues/402) |
-| 📊 Weekly Project Summary - 8/31/2025 | Medium | [#399](https://github.com/abhisek2004/Dev-Elevate/issues/399) |
-| 📊 Weekly Project Summary - 8/30/2025 | Medium | [#398](https://github.com/abhisek2004/Dev-Elevate/issues/398) |
-| 📊 Weekly Project Summary - 8/29/2025 | Medium | [#396](https://github.com/abhisek2004/Dev-Elevate/issues/396) |
-| 📊 Weekly Project Summary - 8/28/2025 | Medium | [#394](https://github.com/abhisek2004/Dev-Elevate/issues/394) |
-| 📊 Weekly Project Summary - 8/27/2025 | Medium | [#392](https://github.com/abhisek2004/Dev-Elevate/issues/392) |
-| 📊 Weekly Project Summary - 8/26/2025 | Medium | [#388](https://github.com/abhisek2004/Dev-Elevate/issues/388) |
-| 📊 Weekly Project Summary - 8/25/2025 | Medium | [#386](https://github.com/abhisek2004/Dev-Elevate/issues/386) |
-| 📊 Weekly Project Summary - 8/24/2025 | Medium | [#385](https://github.com/abhisek2004/Dev-Elevate/issues/385) |
-| 📊 Weekly Project Summary - 8/23/2025 | Medium | [#382](https://github.com/abhisek2004/Dev-Elevate/issues/382) |
 
 ---
 
@@ -95,7 +80,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Move `Sign in` button to side nav | Easy | [#2226](https://github.com/OWASP/Nest/issues/2226) |
+| Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Feature/migrate scraper to GitHub md files | Medium | [#2223](https://github.com/OWASP/Nest/pull/2223) |
 | Research and Implement IaC PoC for OWASP Nest Infrastructure | Medium | [#2215](https://github.com/OWASP/Nest/issues/2215) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
@@ -104,11 +89,11 @@ Accessibility features like dark mode,white.
 | Implement calendar events scheduling | Medium | [#2211](https://github.com/OWASP/Nest/pull/2211) |
 | Migrate @fortawesome/* to v7 | Medium | [#2210](https://github.com/OWASP/Nest/issues/2210) |
 | Maked Unified UserSummaryCard | Medium | [#2208](https://github.com/OWASP/Nest/pull/2208) |
+| Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
 | Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
-| Feature/graphql support for badges | Medium | [#2152](https://github.com/OWASP/Nest/pull/2152) |
 | Automated Metadata Population for OWASP Entities PoC | Medium | [#2123](https://github.com/OWASP/Nest/issues/2123) |
 
 ---
@@ -134,7 +119,6 @@ Accessibility features like dark mode,white.
 | Add new HabitCard template and tidy up code | Medium | [#145](https://github.com/BaraniVA/Habitheat/pull/145) |
 | Feature: Add Motivational Blogs with Like & Comment Functionality | Medium | [#115](https://github.com/BaraniVA/Habitheat/pull/115) |
 | Feature Proposal: Design an Attractive and Informative Front Page for New Users | Medium | [#96](https://github.com/BaraniVA/Habitheat/issues/96) |
-| Add CONTRIBUTING.md file | Medium | [#94](https://github.com/BaraniVA/Habitheat/issues/94) |
 
 ---
 
@@ -227,6 +211,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Back to Top button in footer | Medium | [#71](https://github.com/HimanshuHeda/Zip_Tales/issues/71) |
+| Improve footer section with links and layout | Medium | [#70](https://github.com/HimanshuHeda/Zip_Tales/pull/70) |
 | Add a landing page to the app | Medium | [#67](https://github.com/HimanshuHeda/Zip_Tales/issues/67) |
 
 ---
@@ -245,8 +231,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix Google Sign-In & Firestore init; | Medium | [#219](https://github.com/mansiruhil/fail-u-forward/pull/219) |
 | Enhancement: Add Hover Effects to About Page Cards | Medium | [#218](https://github.com/mansiruhil/fail-u-forward/issues/218) |
-| Feature Request: Add Custom 404 Page | Medium | [#217](https://github.com/mansiruhil/fail-u-forward/issues/217) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -418,10 +404,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Fix: Updated Browse Destinations and Sign Up button colors for better visibilityFix: updated Browse Destinations button to yellow theme with hover | Easy | [#174](https://github.com/Richajaishwal0/Trip_assistant/pull/174) |
 | noUncheckedSideEffectImports not valid | Medium | [#204](https://github.com/Richajaishwal0/Trip_assistant/issues/204) |
-| Missing github-token | Medium | [#203](https://github.com/Richajaishwal0/Trip_assistant/issues/203) |
 | Fix/strong validation registration | Medium | [#201](https://github.com/Richajaishwal0/Trip_assistant/pull/201) |
-| Feature: Implement User Profile Page & API Integration | Medium | [#200](https://github.com/Richajaishwal0/Trip_assistant/issues/200) |
-| 🐛 CSS Layout Breaking: Duplicate Rules and Invalid Syntax in Places.css | Medium | [#199](https://github.com/Richajaishwal0/Trip_assistant/issues/199) |
 | fixes#197 : add password strength indicator with progress bar in Auth… | Medium | [#198](https://github.com/Richajaishwal0/Trip_assistant/pull/198) |
 | Add live password strength checklist on signup page | Medium | [#197](https://github.com/Richajaishwal0/Trip_assistant/issues/197) |
 | Will Add a new FAQ and Terms Of Service Page [OSCI'25] | Medium | [#196](https://github.com/Richajaishwal0/Trip_assistant/issues/196) |
@@ -432,13 +415,13 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Comprehensive Mobile Optimization & Responsive Design System | Medium | [#171](https://github.com/Richajaishwal0/Trip_assistant/pull/171) |
 | add dynamic contributor sector | Medium | [#170](https://github.com/Richajaishwal0/Trip_assistant/issues/170) |
 | Incomplete Folder Structure in Repository | Medium | [#167](https://github.com/Richajaishwal0/Trip_assistant/issues/167) |
-| Enhanced authentication using zod , and modified optional rendering of login/signup buttons and logout buttons using VerifyToken and Context Api. | Medium | [#164](https://github.com/Richajaishwal0/Trip_assistant/pull/164) |
 | Fix: #155 Mobile UI/UX issues | Medium | [#158](https://github.com/Richajaishwal0/Trip_assistant/pull/158) |
 | Fix: Add server-side validation for user registration | Medium | [#157](https://github.com/Richajaishwal0/Trip_assistant/pull/157) |
 | "Add Privacy Policy Page" #146 | Medium | [#153](https://github.com/Richajaishwal0/Trip_assistant/pull/153) |
 | "Add Privacy Policy Page" | Medium | [#146](https://github.com/Richajaishwal0/Trip_assistant/issues/146) |
 | "Implement Authentication Backend and Frontend" | Medium | [#141](https://github.com/Richajaishwal0/Trip_assistant/pull/141) |
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
+| budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
 
 ---
 
@@ -545,9 +528,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhancement needed for Footer section | Medium | [#235](https://github.com/souvikpramanikgit/LearnHub/issues/235) |
-| Add Programming Language Foundation Courses (Java, C, C++, Python) | Medium | [#234](https://github.com/souvikpramanikgit/LearnHub/issues/234) |
-| Enhancement of content under "JavaScript Introduction" page | Medium | [#233](https://github.com/souvikpramanikgit/LearnHub/issues/233) |
-| Add Social Media Links to Footer | Medium | [#231](https://github.com/souvikpramanikgit/LearnHub/issues/231) |
 | added Python tutorial | Medium | [#227](https://github.com/souvikpramanikgit/LearnHub/pull/227) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
 | Add Sign-In with Google and GitHub using Firebase Authentication | Medium | [#220](https://github.com/souvikpramanikgit/LearnHub/issues/220) |
@@ -578,29 +558,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Fix/add payment page validation | Medium | [#101](https://github.com/sristy17/next-payroll/pull/101) |
 | Feature/signupissue | Medium | [#99](https://github.com/sristy17/next-payroll/pull/99) |
 | Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
-
----
-
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Implement Light Mode UI and Fix Theme Toggle Functionality on Landing Page | Easy | [#194](https://github.com/SurajSG23/PrepBuddy/issues/194) |
-| Add Timer to all the technical test pages | Easy | [#193](https://github.com/SurajSG23/PrepBuddy/issues/193) |
 
 ---
 
@@ -619,6 +581,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 404 Page Not Visible in Light Theme | Easy | [#85](https://github.com/yashvikram30/legalease/issues/85) |
+| Changed the Twitter Old Logo to X logo | Medium | [#115](https://github.com/yashvikram30/legalease/pull/115) |
 | Enhance the ui of dashboard | Medium | [#112](https://github.com/yashvikram30/legalease/issues/112) |
 | Go To Top Button | Medium | [#110](https://github.com/yashvikram30/legalease/issues/110) |
 | Resources, and Company Links Unresponsive/Incorrectly Redirecte | Medium | [#108](https://github.com/yashvikram30/legalease/issues/108) |
@@ -635,7 +598,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | refactor: improve Terms & Privacy line styling on signup page | Medium | [#66](https://github.com/yashvikram30/legalease/pull/66) |
 | Revamp Dark Mode – UI/UX Enhancements | Medium | [#59](https://github.com/yashvikram30/legalease/pull/59) |
 | fixes : dark theme | Medium | [#58](https://github.com/yashvikram30/legalease/pull/58) |
-| Unclear Password Placeholders on Login/Signup Pages | Medium | [#55](https://github.com/yashvikram30/legalease/issues/55) |
 
 ---
 
@@ -653,8 +615,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Footer UI and accessibility improvements | Medium | [#73](https://github.com/LarytheLord/Adventurers-Guild/pull/73) |
-| Revamp footer: added structured sections and accessibility improvements | Medium | [#72](https://github.com/LarytheLord/Adventurers-Guild/pull/72) |
+| Text Visibility Problem in Dark and Light Mode | Medium | [#75](https://github.com/LarytheLord/Adventurers-Guild/issues/75) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -952,10 +913,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Sidebar Navigation for Mobile App | Medium | [#79](https://github.com/KrishChothani/CKsEdu/pull/79) |
-| Quick Links are not working | Medium | [#77](https://github.com/KrishChothani/CKsEdu/issues/77) |
-| Dark/light mode availability | Medium | [#76](https://github.com/KrishChothani/CKsEdu/issues/76) |
-| E-library UI | Medium | [#75](https://github.com/KrishChothani/CKsEdu/pull/75) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
@@ -1202,6 +1159,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| made some changes | Medium | [#128](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/128) |
 | refactor/modified-footer | Medium | [#127](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/127) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
 | feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
@@ -1277,6 +1235,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a premium button | Medium | [#83](https://github.com/subhadeeproy3902/mvpblocks/pull/83) |
 | /docs/mainsections/team image not fully covering the container, added a ss for understanding | Medium | [#75](https://github.com/subhadeeproy3902/mvpblocks/issues/75) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
