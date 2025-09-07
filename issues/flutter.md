@@ -68,7 +68,6 @@
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
-| Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
@@ -77,6 +76,25 @@
 | UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
 | Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
+
+---
+
+## 📌 Project: TextEditingApp
+
+📝 **Description:** This is a basic text editing app made for fun, any contributions are welcome, Let's make a fun app with a lot more cool features.
+
+🔗 [View Project](https://github.com/may-tas/TextEditingApp)
+
+💻 **Tech Stack:** Flutter, Dart, Cubit
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add label and color preview to Saved Pages | Medium | [#89](https://github.com/may-tas/TextEditingApp/pull/89) |
+| Improve Text Shadow & Glow | Medium | [#74](https://github.com/may-tas/TextEditingApp/issues/74) |
 
 ---
 
@@ -123,7 +141,6 @@
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
-| Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
