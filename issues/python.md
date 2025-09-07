@@ -36,25 +36,25 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhancement of About Page | Easy | [#185](https://github.com/SrigadaAkshayKumar/stock/issues/185) |
+| forgot password with credentials | Easy | [#100](https://github.com/SrigadaAkshayKumar/stock/issues/100) |
+| Homepage enchancement | Medium | [#194](https://github.com/SrigadaAkshayKumar/stock/pull/194) |
+| search feature is not fetching results | Medium | [#193](https://github.com/SrigadaAkshayKumar/stock/issues/193) |
 | feat(auth):Disable paste on registration password fields | Medium | [#192](https://github.com/SrigadaAkshayKumar/stock/pull/192) |
-| 🐞 Bug Report: Page does not scroll to top on navigation | Medium | [#191](https://github.com/SrigadaAkshayKumar/stock/issues/191) |
-| 🐞 Bug Report: Refreshing any page except Home shows “Not Found” | Medium | [#190](https://github.com/SrigadaAkshayKumar/stock/issues/190) |
 | Add content in Terms of Service & Privacy Policy | Medium | [#186](https://github.com/SrigadaAkshayKumar/stock/issues/186) |
 | Fix: Profile dropdown closes smoothly and on navigation | Medium | [#183](https://github.com/SrigadaAkshayKumar/stock/pull/183) |
 | improving model accuracy | Medium | [#181](https://github.com/SrigadaAkshayKumar/stock/issues/181) |
 | Backend can’t find CSVs due to DATA_DIR and filename mismatch | Medium | [#179](https://github.com/SrigadaAkshayKumar/stock/issues/179) |
 | feat: add caching (Redis + in-memory fallback); fix sticky footer; ad… | Medium | [#178](https://github.com/SrigadaAkshayKumar/stock/pull/178) |
 | Contact Page Background Inconsistency | Medium | [#176](https://github.com/SrigadaAkshayKumar/stock/issues/176) |
-| Dark Mode Toggle Bug | Medium | [#172](https://github.com/SrigadaAkshayKumar/stock/issues/172) |
 | Fix watchlist service and dependenciesAdded watchlist service, src/services, and updated dependencies | Medium | [#160](https://github.com/SrigadaAkshayKumar/stock/pull/160) |
 | Updated Stockdata.jsx and Predict.jsx with backend API URL | Medium | [#151](https://github.com/SrigadaAkshayKumar/stock/pull/151) |
-| 🎯 Issue: Improve UI/UX with Hero Section, Styled Tables, and Theme Toggle | Medium | [#150](https://github.com/SrigadaAkshayKumar/stock/issues/150) |
 | ChatBot for Stock Knowledge & Predictions | Medium | [#145](https://github.com/SrigadaAkshayKumar/stock/issues/145) |
 | Redesign of the pages | Medium | [#131](https://github.com/SrigadaAkshayKumar/stock/issues/131) |
 | changes made for deployment for login issue | Medium | [#116](https://github.com/SrigadaAkshayKumar/stock/pull/116) |
 | Improve button styling on stock dashboard | Medium | [#110](https://github.com/SrigadaAkshayKumar/stock/issues/110) |
-| <Login and contat page ui enhance> | Medium | [#97](https://github.com/SrigadaAkshayKumar/stock/issues/97) |
-| <Enhancement title here>Embed mini line charts (sparklines) inside index cards | Medium | [#85](https://github.com/SrigadaAkshayKumar/stock/issues/85) |
+| feat: Add PropTypes validation and code cleanup improvements | Medium | [#76](https://github.com/SrigadaAkshayKumar/stock/pull/76) |
+| fix: Move hardcoded API key to environment variable for security | Medium | [#74](https://github.com/SrigadaAkshayKumar/stock/pull/74) |
+| feat: Replace browser alerts with professional toast notifications | Medium | [#72](https://github.com/SrigadaAkshayKumar/stock/pull/72) |
 
 ---
 
@@ -216,7 +216,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Move `Sign in` button to side nav | Easy | [#2226](https://github.com/OWASP/Nest/issues/2226) |
+| Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Feature/migrate scraper to GitHub md files | Medium | [#2223](https://github.com/OWASP/Nest/pull/2223) |
 | Research and Implement IaC PoC for OWASP Nest Infrastructure | Medium | [#2215](https://github.com/OWASP/Nest/issues/2215) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
@@ -225,11 +225,11 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Implement calendar events scheduling | Medium | [#2211](https://github.com/OWASP/Nest/pull/2211) |
 | Migrate @fortawesome/* to v7 | Medium | [#2210](https://github.com/OWASP/Nest/issues/2210) |
 | Maked Unified UserSummaryCard | Medium | [#2208](https://github.com/OWASP/Nest/pull/2208) |
+| Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
 | Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
-| Feature/graphql support for badges | Medium | [#2152](https://github.com/OWASP/Nest/pull/2152) |
 | Automated Metadata Population for OWASP Entities PoC | Medium | [#2123](https://github.com/OWASP/Nest/issues/2123) |
 
 ---
@@ -357,7 +357,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Create Crime News Aggregator | Medium | [#44](https://github.com/Jotthecode/CITY-PULSE/pull/44) |
 | Enhancement : Handled empty city selection with friendly placeholder and message (#17) | Medium | [#42](https://github.com/Jotthecode/CITY-PULSE/pull/42) |
 | Added CODE_OF_CONDUCT.md file | Medium | [#41](https://github.com/Jotthecode/CITY-PULSE/pull/41) |
-| Add CODE_OF_CONDUCT.md | Medium | [#39](https://github.com/Jotthecode/CITY-PULSE/pull/39) |
 | Finalize City Pulse animation with tested improvements (Closes #31) | Medium | [#33](https://github.com/Jotthecode/CITY-PULSE/pull/33) |
 | Add Safety Routes with Geo-Location + Nearby Stay Options | Medium | [#32](https://github.com/Jotthecode/CITY-PULSE/issues/32) |
 | Fix/realtime pulse anim | Medium | [#31](https://github.com/Jotthecode/CITY-PULSE/pull/31) |
@@ -385,7 +384,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug Report: Dark/Light mode toggle not working properly | Medium | [#45](https://github.com/kanikaa-3018/contest_onlinejudge/issues/45) |
 | Filter-Based Loading for Contest Dashboard | Medium | [#44](https://github.com/kanikaa-3018/contest_onlinejudge/issues/44) |
 | Sidebar does not highlight active page after navigation | Medium | [#43](https://github.com/kanikaa-3018/contest_onlinejudge/issues/43) |
 | Pending issues | Medium | [#42](https://github.com/kanikaa-3018/contest_onlinejudge/issues/42) |
@@ -484,8 +482,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Redirect social section links in footer | Medium | [#208](https://github.com/Khushi-Nigam/jobportal/issues/208) |
-| Enhanced the colour and size of the companies logo | Medium | [#207](https://github.com/Khushi-Nigam/jobportal/pull/207) |
 | Addition of pr create automate message | Medium | [#171](https://github.com/Khushi-Nigam/jobportal/issues/171) |
 
 ---
@@ -532,16 +528,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Impriving dashboard design in mobile screen | Medium | [#466](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/466) |
-| Chatbot fails to understand "Tell me about this website | Medium | [#464](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/464) |
-| feat: Connect Chatbot frontend with backend API | Medium | [#463](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/463) |
-| feat: added backend integration in aptitute component | Medium | [#462](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/462) |
-| added backend setup for chatbot | Medium | [#461](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/461) |
-| Added withdraw application and applied jobs endpoints | Medium | [#460](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/460) |
-| Optimize ATS Controller (atsController.js) | Medium | [#459](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/459) |
-| Optimize Resume Controller (resumeController.js) | Medium | [#458](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/458) |
-| Optimize Resume Score Controller (resumeScoreController.js) | Medium | [#457](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/457) |
+| Improved responsive design | Medium | [#471](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/471) |
+| I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -593,7 +583,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Enhance UI/UX and Functionality: Loading Indicator, Clear Button, Improved Results, Detailed Info, and History | Medium | [#30](https://github.com/EmailScript/EmailScript/issues/30) |
 | Readme File is missing | Medium | [#29](https://github.com/EmailScript/EmailScript/issues/29) |
 | Readme is missing | Medium | [#27](https://github.com/EmailScript/EmailScript/issues/27) |
-| 📄 Add deployed live app link to README | Medium | [#26](https://github.com/EmailScript/EmailScript/pull/26) |
 | UI Revamp: Modern, Accessible & Responsive Design for Email Checker Interface | Medium | [#24](https://github.com/EmailScript/EmailScript/issues/24) |
 | 🚀 Add Loading Spinner During Email Validation API Call | Medium | [#23](https://github.com/EmailScript/EmailScript/issues/23) |
 | Add live character counter for subject and message feilds | Medium | [#21](https://github.com/EmailScript/EmailScript/issues/21) |
@@ -659,8 +648,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improved styling of progress messages during website generation | Medium | [#101](https://github.com/ProTecGames/Karbon/pull/101) |
-| feat: add responsive view toggle and preview improvements | Medium | [#100](https://github.com/ProTecGames/Karbon/pull/100) |
 | added UI end-to-end tests for example prompts and output panel | Medium | [#98](https://github.com/ProTecGames/Karbon/pull/98) |
 | Feature | Medium | [#90](https://github.com/ProTecGames/Karbon/pull/90) |
 | JSON parsing in ai_engine.py | Medium | [#82](https://github.com/ProTecGames/Karbon/pull/82) |
@@ -707,21 +694,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Pull Request : Stock Volatility Forecasting using GARCH Models | Medium | [#696](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/696) |
-| Stock Volatility Forecasting using GARCH Models | Medium | [#695](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/695) |
-| Pull Request : Stock Price Analysis with Hidden Markov Models | Medium | [#694](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/694) |
-| Stock Price Analysis with Hidden Markov Models | Medium | [#693](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/693) |
-| Pull Request : Stock Price Prediction using Geometric Brownian Motion … | Medium | [#692](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/692) |
-| Stock Price Prediction using Geometric Brownian Motion (GBM) | Medium | [#691](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/691) |
-| Pull Request : Imbalanced Personal Bank Loan Classification & Analysis | Medium | [#690](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/690) |
-| Imbalanced Personal Bank Loan Classification & Analysis | Medium | [#689](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/689) |
+| SMS spam detection model - Text classification | Medium | [#697](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/697) |
 | Visa Approval Prediction Model (Classification) | Medium | [#688](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/688) |
-| Add sleep apnea detection model | Medium | [#687](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/687) |
-| Pull Request of Indian Election Prediction App | Medium | [#686](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/686) |
-| Indian Election Prediction App | Medium | [#685](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/685) |
-| Pull Request of Indian Currency Detection and Recognition | Medium | [#684](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/684) |
-| Indian Currency Detection and Recognition | Medium | [#683](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/683) |
-| Pull Request of House Price Prediction Streamlit App | Medium | [#682](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/682) |
 | House Price Prediction Streamlit App | Medium | [#681](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/681) |
 | Nifty Close Price Prediction using Neural Networks | Medium | [#679](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/679) |
 | Nifty 50 Stock Price Prediction Model | Medium | [#677](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/677) |
@@ -737,6 +711,18 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Reinforcement Learning for Market Hedging | Medium | [#659](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/659) |
 | GDP Growth Prediction with Market Capital | Medium | [#657](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/657) |
 | Forex Exchange Rate Prediction using LSTM | Medium | [#655](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/655) |
+| African Banking Crisis Prediction using Machine Learning | Medium | [#653](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/653) |
+| LSTM Model for Foreign Exchange Rate Prediction | Medium | [#651](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/651) |
+| Exchange Rate Forecasting using Machine Learning | Medium | [#649](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/649) |
+| Candlestick Pattern Technical Analysis App | Medium | [#647](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/647) |
+| Implement workflow of Tuning a Neural network | Medium | [#646](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/646) |
+| Speech emotion recognition on audio dataset | Medium | [#645](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/645) |
+| Financial Document OCR Tool | Medium | [#643](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/643) |
+| Market Hedging Sentiment Analysis | Medium | [#641](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/641) |
+| Implement Car Price Prediction using Linear Regression | Medium | [#599](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/599) |
+| Add Earthquake-prediction-using-Machine-learning-models | Medium | [#598](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/598) |
+| Streamlit App for GDP prediction model (Closes #52) | Medium | [#583](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/583) |
+| ML Model - Add K-Means Clustering from Scratch | Medium | [#582](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/582) |
 
 ---
 
@@ -917,6 +903,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a Basic Chatbot UI for ClubMate | Medium | [#67](https://github.com/sania28/clubmate/issues/67) |
+| Add Favicon and Title for ClubMate Website | Medium | [#66](https://github.com/sania28/clubmate/issues/66) |
+| Responsive Navbar with Active Section Highlight | Medium | [#65](https://github.com/sania28/clubmate/issues/65) |
 | PR-#61 Implemented Caching Middleware with Verbose Logging for Project Routes | Medium | [#64](https://github.com/sania28/clubmate/pull/64) |
 | Add a Responsive Landing Page for ClubMate | Medium | [#63](https://github.com/sania28/clubmate/issues/63) |
 | Add Landing Page UI for ClubMate | Medium | [#62](https://github.com/sania28/clubmate/issues/62) |
@@ -1132,7 +1121,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🧑‍💻: Add more info the Data_Analysis.md file | Medium | [#1789](https://github.com/UTSAVS26/PyVerse/issues/1789) |
+| ## [FEATURE] Add YouTube Channel Data Analysis Dashboard to DataScience Folder | Medium | [#1792](https://github.com/UTSAVS26/PyVerse/issues/1792) |
+| ## [FEATURE] Add Power BI Supply Chain Dashboard to DataScience Folder | Medium | [#1791](https://github.com/UTSAVS26/PyVerse/issues/1791) |
 | Added UPI Fraud Detection | Medium | [#1628](https://github.com/UTSAVS26/PyVerse/pull/1628) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 
@@ -1839,27 +1829,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add mit license file to the project | Medium | [#3](https://github.com/RafiaShafique/Tic-Tae-Toe-Game/issues/3) |
 | Improve and Enhance README.md File | Medium | [#2](https://github.com/RafiaShafique/Tic-Tae-Toe-Game/issues/2) |
 | Add Features | Medium | [#1](https://github.com/RafiaShafique/Tic-Tae-Toe-Game/issues/1) |
-
----
-
-## 📌 Project: PriGPT Studio
-
-📝 **Description:** PrivGPT Studio Your Private AI Workspace: A privacyfirst AI platform that lets you run local and cloud AIML models side by side. Features include multichat management with crossreferences, PDF/image/audio/video analysis, voice input with transcription, offline fallback, latency tracking, session rename/export/delete, and privacyfocused design. Future scope †’ add generative AI for image/video/audio, enable multiuser support with authentication, build pages like About/Contact, enhance UI/UX with dashboards, add realtime collaboration, internationalization, and plugin support.
-
-🔗 [View Project](https://github.com/Rucha-Ambaliya/PrivGPT-Studio.git)
-
-💻 **Tech Stack:** Next.js, React, Tailwind CSS, Flask, Python, MongoDB, Ollama, Google Gemini API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Implement Animation in HomePage and Make Navbar Links hover animation… | Medium | [#83](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/83) |
-| FEATURE: Create page for Terms & Condition Page | Medium | [#80](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/80) |
-| FEATURE: Add Login Signup Page When Click on Try Chat | Medium | [#74](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/74) |
-| Bug/fix navbar overflow bug | Medium | [#72](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/72) |
 
 ---
 
