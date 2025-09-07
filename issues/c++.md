@@ -34,8 +34,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| LIST_PROVIDER_LOGS FUNCTION | Medium | [#133](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/133) |
-| create fcm provider function | Medium | [#132](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/132) |
 | feat/list_topic_logs | Medium | [#130](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/130) |
 | issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
