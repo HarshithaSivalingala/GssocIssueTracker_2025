@@ -41,13 +41,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: implement rate limiting to prevent brute-force attacks (#1210) | Medium | [#1222](https://github.com/Code-A2Z/code-a2z/pull/1222) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
 | 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
-| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
 
 ---
 
@@ -67,6 +67,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Logged-in Users See Irrelevant "Get Started" Link Redirecting to Login Page | Medium | [#105](https://github.com/Bavanetha27/Refixly/issues/105) |
 | There is no error handling for backend | Medium | [#104](https://github.com/Bavanetha27/Refixly/issues/104) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
@@ -106,8 +107,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix Google Sign-In & Firestore init; | Medium | [#219](https://github.com/mansiruhil/fail-u-forward/pull/219) |
 | Enhancement: Add Hover Effects to About Page Cards | Medium | [#218](https://github.com/mansiruhil/fail-u-forward/issues/218) |
-| Feature Request: Add Custom 404 Page | Medium | [#217](https://github.com/mansiruhil/fail-u-forward/issues/217) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -160,10 +161,7 @@
 |----------|----------------|---------|
 | Fix: Updated Browse Destinations and Sign Up button colors for better visibilityFix: updated Browse Destinations button to yellow theme with hover | Easy | [#174](https://github.com/Richajaishwal0/Trip_assistant/pull/174) |
 | noUncheckedSideEffectImports not valid | Medium | [#204](https://github.com/Richajaishwal0/Trip_assistant/issues/204) |
-| Missing github-token | Medium | [#203](https://github.com/Richajaishwal0/Trip_assistant/issues/203) |
 | Fix/strong validation registration | Medium | [#201](https://github.com/Richajaishwal0/Trip_assistant/pull/201) |
-| Feature: Implement User Profile Page & API Integration | Medium | [#200](https://github.com/Richajaishwal0/Trip_assistant/issues/200) |
-| 🐛 CSS Layout Breaking: Duplicate Rules and Invalid Syntax in Places.css | Medium | [#199](https://github.com/Richajaishwal0/Trip_assistant/issues/199) |
 | fixes#197 : add password strength indicator with progress bar in Auth… | Medium | [#198](https://github.com/Richajaishwal0/Trip_assistant/pull/198) |
 | Add live password strength checklist on signup page | Medium | [#197](https://github.com/Richajaishwal0/Trip_assistant/issues/197) |
 | Will Add a new FAQ and Terms Of Service Page [OSCI'25] | Medium | [#196](https://github.com/Richajaishwal0/Trip_assistant/issues/196) |
@@ -174,13 +172,13 @@
 | Comprehensive Mobile Optimization & Responsive Design System | Medium | [#171](https://github.com/Richajaishwal0/Trip_assistant/pull/171) |
 | add dynamic contributor sector | Medium | [#170](https://github.com/Richajaishwal0/Trip_assistant/issues/170) |
 | Incomplete Folder Structure in Repository | Medium | [#167](https://github.com/Richajaishwal0/Trip_assistant/issues/167) |
-| Enhanced authentication using zod , and modified optional rendering of login/signup buttons and logout buttons using VerifyToken and Context Api. | Medium | [#164](https://github.com/Richajaishwal0/Trip_assistant/pull/164) |
 | Fix: #155 Mobile UI/UX issues | Medium | [#158](https://github.com/Richajaishwal0/Trip_assistant/pull/158) |
 | Fix: Add server-side validation for user registration | Medium | [#157](https://github.com/Richajaishwal0/Trip_assistant/pull/157) |
 | "Add Privacy Policy Page" #146 | Medium | [#153](https://github.com/Richajaishwal0/Trip_assistant/pull/153) |
 | "Add Privacy Policy Page" | Medium | [#146](https://github.com/Richajaishwal0/Trip_assistant/issues/146) |
 | "Implement Authentication Backend and Frontend" | Medium | [#141](https://github.com/Richajaishwal0/Trip_assistant/pull/141) |
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
+| budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
 
 ---
 
@@ -198,6 +196,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| No Password Strength Indicator on Signup Form | Medium | [#55](https://github.com/robinsingh-ai/AutomataVerse/issues/55) |
+| Add Animation Effects for Hero Section | Medium | [#54](https://github.com/robinsingh-ai/AutomataVerse/issues/54) |
 | Add "Back to Top" Button for Easy Navigation | Medium | [#53](https://github.com/robinsingh-ai/AutomataVerse/issues/53) |
 | Testing and Edge Cases | Medium | [#48](https://github.com/robinsingh-ai/AutomataVerse/issues/48) |
 | Keyboard Shortcuts Support | Medium | [#47](https://github.com/robinsingh-ai/AutomataVerse/issues/47) |
@@ -227,7 +227,6 @@
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
-| Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
@@ -289,25 +288,6 @@
 
 ---
 
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Implement Light Mode UI and Fix Theme Toggle Functionality on Landing Page | Easy | [#194](https://github.com/SurajSG23/PrepBuddy/issues/194) |
-| Add Timer to all the technical test pages | Easy | [#193](https://github.com/SurajSG23/PrepBuddy/issues/193) |
-
----
-
 ## 📌 Project: Athletix
 
 📝 **Description:** Athletix is a Flutter, Firebase and Gemini API based platform for athlete management in India, offering performance tracking, injury management, AI recovery, and real-time messaging. Future upgrades include dashboards, finance and AI career planning
@@ -351,7 +331,6 @@
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
 | Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
-| Share News Feature | Medium | [#254](https://github.com/Yash159357/BREVITY/issues/254) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
@@ -379,7 +358,6 @@
 |----------|----------------|---------|
 | Add Favicon to Website | Easy | [#65](https://github.com/Skrache/crisisboard/issues/65) |
 | Signin to view profile button performing wrong functionality | Medium | [#88](https://github.com/Skrache/crisisboard/issues/88) |
-| Updated Profile.html  Redesign profile page and add dynamic features | Medium | [#87](https://github.com/Skrache/crisisboard/pull/87) |
 | Added about & contact section | Medium | [#86](https://github.com/Skrache/crisisboard/pull/86) |
 | Addition of pr create automate message | Medium | [#85](https://github.com/Skrache/crisisboard/issues/85) |
 | Addition of automate issue create message | Medium | [#84](https://github.com/Skrache/crisisboard/issues/84) |
@@ -514,7 +492,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Distorted back to top button shape | Easy | [#66](https://github.com/lovelymahor/StudyMatePlus/issues/66) |
-| feat: add scroll to top buttons to pages | Medium | [#75](https://github.com/lovelymahor/StudyMatePlus/pull/75) |
 | Migrated to vite for faster development | Medium | [#74](https://github.com/lovelymahor/StudyMatePlus/pull/74) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
@@ -538,6 +515,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding project-Memory card Game | Medium | [#156](https://github.com/Varshitha713/CodeCanvas/issues/156) |
+| Typewriter Effect and Basic Calculator Project | Medium | [#155](https://github.com/Varshitha713/CodeCanvas/pull/155) |
 | Make the heading dynamic with typewriter effect | Medium | [#154](https://github.com/Varshitha713/CodeCanvas/issues/154) |
 | created about page with footer | Medium | [#153](https://github.com/Varshitha713/CodeCanvas/pull/153) |
 | Adding basic Calculator | Medium | [#152](https://github.com/Varshitha713/CodeCanvas/pull/152) |
@@ -571,6 +550,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix issue Page Does Not Scroll to Top on Navigation | Medium | [#211](https://github.com/shandilya-rajnandini/DocAtHome/pull/211) |
 | DocAtHome - Quality Healthcare at Your Doorstep | Medium | [#210](https://github.com/shandilya-rajnandini/DocAtHome/pull/210) |
 | Reintroduce Skeleton placeholders for loading states in Appointments, Search Doctor, and Doctor Appointment pages | Medium | [#207](https://github.com/shandilya-rajnandini/DocAtHome/pull/207) |
 | added lab-test-status | Medium | [#205](https://github.com/shandilya-rajnandini/DocAtHome/pull/205) |
