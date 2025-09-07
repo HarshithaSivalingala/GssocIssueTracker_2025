@@ -36,7 +36,6 @@
 - [React Projects](react.md)
 - [React Native Projects](react_native.md)
 - [Redis Projects](redis.md)
-- [Ruby Projects](ruby.md)
 - [Rust Projects](rust.md)
 - [Selenium Projects](selenium.md)
 - [Solidity Projects](solidity.md)
