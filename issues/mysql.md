@@ -85,7 +85,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Favicon to Housify Website | Medium | [#56](https://github.com/Naveenkumar30838/Housify/issues/56) |
 | City filter working and visible | Medium | [#55](https://github.com/Naveenkumar30838/Housify/pull/55) |
 | Feat: added Add New Listing button next to login in header | Medium | [#54](https://github.com/Naveenkumar30838/Housify/pull/54) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
@@ -108,10 +107,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(db)!: run queries on real MySQL instead of sqlite in-memory instance | Medium | [#74](https://github.com/swarooppatilx/bit-by-query/pull/74) |
+| Add click event on "Start Contest" on Landing + + replace "Start Registration" button when logged in | Medium | [#76](https://github.com/swarooppatilx/bit-by-query/issues/76) |
+| feat: add a env flag for sqlite mode | Medium | [#75](https://github.com/swarooppatilx/bit-by-query/issues/75) |
 | Issue: Add rate limiting to authentication routes for security | Medium | [#73](https://github.com/swarooppatilx/bit-by-query/issues/73) |
 | feat(auth): switch auth handling from localStorage to cookies | Medium | [#72](https://github.com/swarooppatilx/bit-by-query/pull/72) |
-| feat: partial marks | Medium | [#70](https://github.com/swarooppatilx/bit-by-query/issues/70) |
 | bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
 | feat: admin panel | Medium | [#66](https://github.com/swarooppatilx/bit-by-query/issues/66) |
 | chore: improve UI UX of landing page | Medium | [#65](https://github.com/swarooppatilx/bit-by-query/issues/65) |
