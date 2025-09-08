@@ -107,10 +107,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add click event on "Start Contest" on Landing + + replace "Start Registration" button when logged in | Medium | [#76](https://github.com/swarooppatilx/bit-by-query/issues/76) |
 | feat: add a env flag for sqlite mode | Medium | [#75](https://github.com/swarooppatilx/bit-by-query/issues/75) |
-| Issue: Add rate limiting to authentication routes for security | Medium | [#73](https://github.com/swarooppatilx/bit-by-query/issues/73) |
-| feat(auth): switch auth handling from localStorage to cookies | Medium | [#72](https://github.com/swarooppatilx/bit-by-query/pull/72) |
 | bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
 | feat: admin panel | Medium | [#66](https://github.com/swarooppatilx/bit-by-query/issues/66) |
 | chore: improve UI UX of landing page | Medium | [#65](https://github.com/swarooppatilx/bit-by-query/issues/65) |
