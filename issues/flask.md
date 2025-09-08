@@ -174,7 +174,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improved responsive design | Medium | [#471](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/471) |
+| Implement AI-driven resume-job matching feature with dashboard integation | Medium | [#480](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/480) |
+| fixed the chatbot's text color in dark mode | Medium | [#479](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/479) |
 | I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
@@ -195,6 +196,17 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Email Notification Capabilities | Medium | [#279](https://github.com/omroy07/AgriTech/issues/279) |
+| Forgot Password Workflow (Frontend + Backend) | Medium | [#278](https://github.com/omroy07/AgriTech/issues/278) |
+| Integrate Authentication with Frontend Application | Medium | [#277](https://github.com/omroy07/AgriTech/issues/277) |
+| Add Swagger Documentation for Backend APIs | Medium | [#276](https://github.com/omroy07/AgriTech/issues/276) |
+| Integrate Authentication with Social Providers | Medium | [#275](https://github.com/omroy07/AgriTech/issues/275) |
+| Add "Scroll to Top" Button on Dashboard Page | Medium | [#274](https://github.com/omroy07/AgriTech/issues/274) |
+| Misaligned bullet points in About Us page | Medium | [#273](https://github.com/omroy07/AgriTech/issues/273) |
+| Login page is not mobile responsive | Medium | [#272](https://github.com/omroy07/AgriTech/issues/272) |
+| Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
+| Pull Request : UI/UX Enhancement: About Us Page | Medium | [#270](https://github.com/omroy07/AgriTech/pull/270) |
+| UI/UX Enhancement: About Us Page (SEO, Accessibility, Styling & Animations) | Medium | [#269](https://github.com/omroy07/AgriTech/issues/269) |
 | Resolved Issues: Fertiliser Recommendation System UI/UX & Accuracy, and Disease Prediction UI/UX Enhancements. | Medium | [#268](https://github.com/omroy07/AgriTech/pull/268) |
 | Farmer Form Validated | Medium | [#267](https://github.com/omroy07/AgriTech/pull/267) |
 | Dark theme button not working on Yield Prediction ML analytics | Medium | [#266](https://github.com/omroy07/AgriTech/issues/266) |
@@ -208,7 +220,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | under footer section in about us text is not visible properly | Medium | [#251](https://github.com/omroy07/AgriTech/issues/251) |
 | Designing hamberg menu for services on mobile view | Medium | [#250](https://github.com/omroy07/AgriTech/issues/250) |
 | Automated Plant Seedlings Classification with CNN Architectures | Medium | [#239](https://github.com/omroy07/AgriTech/issues/239) |
-| Theme dark mode not changing color of text | Medium | [#237](https://github.com/omroy07/AgriTech/issues/237) |
 
 ---
 
@@ -295,19 +306,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create Profile Page | Medium | [#172](https://github.com/aayushraj1010/med-genie/issues/172) |
-| Make Chat Page Responsive | Medium | [#171](https://github.com/aayushraj1010/med-genie/issues/171) |
-| Add Navbar to Some Pages where navbar not appear | Medium | [#170](https://github.com/aayushraj1010/med-genie/issues/170) |
-| Add Smooth Animation of scrolling to Quick Links in Footer | Medium | [#169](https://github.com/aayushraj1010/med-genie/issues/169) |
-| Add Floating Scroll To Top Button | Medium | [#168](https://github.com/aayushraj1010/med-genie/issues/168) |
-| Create Pages For Terms & Condition and Cookie Policy | Medium | [#167](https://github.com/aayushraj1010/med-genie/issues/167) |
+| fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
+| Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
 | Add a "Scroll to top" button | Medium | [#165](https://github.com/aayushraj1010/med-genie/issues/165) |
-| Animating the menubar(mobile view) | Medium | [#164](https://github.com/aayushraj1010/med-genie/issues/164) |
-| fix: improved the clear Button label to Reset #130 | Medium | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
 | Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
-| Fix: auto-scroll chat window to latest message | Medium | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
 | Missing Security Headers and CORS Configuration | Medium | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
 | Missing Environment Variable Security and Configuration Management | Hard | [#149](https://github.com/aayushraj1010/med-genie/pull/149) |
 
@@ -366,6 +370,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug/dark light mode | Medium | [#81](https://github.com/KrishChothani/CKsEdu/pull/81) |
+| Bug Fix: Quick-Links | Medium | [#80](https://github.com/KrishChothani/CKsEdu/pull/80) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
@@ -408,6 +414,24 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
+
+---
+
+## 📌 Project: PriGPT Studio
+
+📝 **Description:** PrivGPT Studio Your Private AI Workspace: A privacyfirst AI platform that lets you run local and cloud AIML models side by side. Features include multichat management with crossreferences, PDF/image/audio/video analysis, voice input with transcription, offline fallback, latency tracking, session rename/export/delete, and privacyfocused design. Future scope †’ add generative AI for image/video/audio, enable multiuser support with authentication, build pages like About/Contact, enhance UI/UX with dashboards, add realtime collaboration, internationalization, and plugin support.
+
+🔗 [View Project](https://github.com/Rucha-Ambaliya/PrivGPT-Studio.git)
+
+💻 **Tech Stack:** Next.js, React, Tailwind CSS, Flask, Python, MongoDB, Ollama, Google Gemini API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: Update branding and add live project link | Medium | [#87](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/87) |
 
 ---
 
