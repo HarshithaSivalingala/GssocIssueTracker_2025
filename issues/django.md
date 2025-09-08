@@ -193,6 +193,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Addition of pr create automate message | Medium | [#227](https://github.com/ygowthamr/WhitePaper/issues/227) |
 | Fixed Critical Security & Performance Issues | Medium | [#226](https://github.com/ygowthamr/WhitePaper/pull/226) |
 | Bug: [Critical] Missing import statement causing runtime crash in note creation and editing | Medium | [#225](https://github.com/ygowthamr/WhitePaper/issues/225) |
 | Fix: [Security] SQL Injection vulnerability in note filtering via user-controlled input | Medium | [#224](https://github.com/ygowthamr/WhitePaper/issues/224) |
@@ -222,7 +223,6 @@
 | Add Real-Time Autosave Feature for Notes | Medium | [#184](https://github.com/ygowthamr/WhitePaper/pull/184) |
 | Want to add contributors section | Medium | [#181](https://github.com/ygowthamr/WhitePaper/issues/181) |
 | feat: implement secure environment variable configuration | Medium | [#180](https://github.com/ygowthamr/WhitePaper/pull/180) |
-| ADD PRIVACY POLICY PAGE | Medium | [#178](https://github.com/ygowthamr/WhitePaper/issues/178) |
 
 ---
 
@@ -242,7 +242,7 @@
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| feat: Enhance developer experience with theme switcher, Git insights, and AI helper foundation | Medium | [#108](https://github.com/Axelvyn/Nexara/pull/108) |
+| Backend Routes Updated | Medium | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
 ---
