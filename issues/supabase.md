@@ -291,6 +291,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Users Profile Page | Medium | [#62](https://github.com/Shantanu-Tiwari/TLDRify/issues/62) |
+| Feature Request: Add Feedback Form | Medium | [#61](https://github.com/Shantanu-Tiwari/TLDRify/issues/61) |
 | Customizable Summary Lenght | Medium | [#60](https://github.com/Shantanu-Tiwari/TLDRify/issues/60) |
 | Missing setup commands in 🚀 Getting Started section | Medium | [#59](https://github.com/Shantanu-Tiwari/TLDRify/issues/59) |
 | Authentication buttons (Get Started, Sign-In, Forgot Password) not functional | Medium | [#58](https://github.com/Shantanu-Tiwari/TLDRify/issues/58) |
