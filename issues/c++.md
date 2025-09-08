@@ -56,11 +56,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(GraphList): Title: Implement ``clearEdges()`` in Graph List | Easy | [#78](https://github.com/SharonIV0x86/CinderPeak/issues/78) |
 | feat(GraphList): Implement ``removeEdge()`` in Graph List | Easy | [#75](https://github.com/SharonIV0x86/CinderPeak/issues/75) |
 | feat(GraphList): Implement ``clearVertices()`` in Graph List | Easy | [#74](https://github.com/SharonIV0x86/CinderPeak/issues/74) |
-| feat(GraphList): Implement ``numVertices()`` in Graph List. | Easy | [#73](https://github.com/SharonIV0x86/CinderPeak/issues/73) |
-| feat(GraphList): Implement ``hasVertex()`` in Graph List. | Easy | [#72](https://github.com/SharonIV0x86/CinderPeak/issues/72) |
+| feat(GraphList): added ``hasVertex()`` method. | Medium | [#86](https://github.com/SharonIV0x86/CinderPeak/pull/86) |
 
 ---
 
