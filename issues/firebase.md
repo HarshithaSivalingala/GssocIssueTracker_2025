@@ -41,13 +41,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement rate limiting to prevent brute-force attacks (#1210) | Medium | [#1222](https://github.com/Code-A2Z/code-a2z/pull/1222) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
 | 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
+| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
+| 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
 
 ---
 
@@ -89,6 +90,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding Loading Indicators | Medium | [#57](https://github.com/Dhruvi-tech/firebase-chat-app/issues/57) |
+| Auto-Scroll to Bottom on New Messages | Medium | [#56](https://github.com/Dhruvi-tech/firebase-chat-app/issues/56) |
+| Add Dark Mode Toggle Button | Medium | [#55](https://github.com/Dhruvi-tech/firebase-chat-app/issues/55) |
+| Add Emoji Picker Integration | Medium | [#54](https://github.com/Dhruvi-tech/firebase-chat-app/issues/54) |
 | feat: show device tags on each message | Medium | [#53](https://github.com/Dhruvi-tech/firebase-chat-app/pull/53) |
 
 ---
@@ -145,6 +150,24 @@
 
 ---
 
+## 📌 Project: Nagarvikas 
+
+📝 **Description:** An app that is built to file civic issues faced by citizens of india , they can easily track their complaint status in realtime , admins can check the complaints and after working on it they can update status accordingly , admin dashboard also has analytics option to keep data of all complaints for future use
+
+🔗 [View Project](https://github.com/Prateek9876/NagarVikas)
+
+💻 **Tech Stack:** Flutter, Dart, Firebase, OneSignal, Cloudinary
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| The discussion forum interface has become interface (like the message box) | Medium | [#477](https://github.com/Prateek9876/NagarVikas/issues/477) |
+
+---
+
 ## 📌 Project: Trip_assistant
 
 📝 **Description:** Project Title Trip Assistant – A Smart Travel Companion Platform  Organization Name Independent  Project Description Trip Assistant is a full-stack travel platform designed to simplify trip planning, booking, and social coordination for travelers. Inspired by platforms like Airbnb, Trip Assistant goes a step further by integrating social features such as a friend system, real-time chat, and a built-in AI chatbot for smart travel assistance.  The platform also includes dedicated dashboards for admin users and hotel/property partners, allowing seamless management of bookings, customer data, and platform activity.  The project is ideal for open-source contributors interested in modern web development, role-based access control, real-time applications, and AI integration.  Key Features ✈️ User Features Accommodation Discovery – Browse and explore stays and destinations  Friend System – Add and connect with fellow travelers  Real-Time Chat – Communicate with friends to plan trips collaboratively  AI Chatbot – Get destination suggestions and answers to FAQs  Secure Authentication – Firebase-based login and registration  🛠 Admin & Partner Features Admin Dashboard – Manage users, content, activity logs, and site moderation  Hotel Dashboard – Hotels/hosts can view bookings, manage properties, and analyze customer engagement  Tech Stack Frontend: React.js with Vite  Backend: Node.js with Express.js  Database & Authentication: Firebase (Firestore + Firebase Auth)  Real-Time Communication: Firebase listeners (Firestore/Realtime DB)  Chatbot Integration: Planned via Dialogflow or custom NLP API  Current Status Frontend development initiated using React + Vite  Firebase setup completed for future integration  Core UI components (homepage, partial authentication) under development  Backend and dashboard planning in progress  Clear roadmap defined for upcoming GSSoC contribution phase  Goals for GSSoC Finalize and optimize user flows and authentication  Implement friend system and real-time chat  Build fully functional admin and partner dashboards  Integrate chatbot for intelligent travel assistance  Improve UI/UX and ensure responsiveness across devices  Maintain clear documentation and contribution guidelines  Why This Project? Trip Assistant offers contributors an opportunity to work on a real-world, community-focused travel application using modern technologies. It is suitable for developers interested in:  Full-stack web development  Real-time applications  Firebase ecosystem  Role-based access systems  AI chatbot integration  This project combines technology and travel to create a practical, scalable platform with real social impact.
@@ -166,19 +189,19 @@
 | Add live password strength checklist on signup page | Medium | [#197](https://github.com/Richajaishwal0/Trip_assistant/issues/197) |
 | Will Add a new FAQ and Terms Of Service Page [OSCI'25] | Medium | [#196](https://github.com/Richajaishwal0/Trip_assistant/issues/196) |
 | Directly opens the gmail or call dialer when clicked on contact us on number or email [OSCI 25] | Medium | [#195](https://github.com/Richajaishwal0/Trip_assistant/issues/195) |
-| Enhance Help Center Page & UX Enhancements | Medium | [#193](https://github.com/Richajaishwal0/Trip_assistant/pull/193) |
 | Modernize More Places page design with Framer Motion and improved responsiveness (Fixes #189) | Medium | [#192](https://github.com/Richajaishwal0/Trip_assistant/pull/192) |
 | Fix broken layout and validations on Sign-up page (Fixes #181) | Medium | [#183](https://github.com/Richajaishwal0/Trip_assistant/pull/183) |
 | Comprehensive Mobile Optimization & Responsive Design System | Medium | [#171](https://github.com/Richajaishwal0/Trip_assistant/pull/171) |
 | add dynamic contributor sector | Medium | [#170](https://github.com/Richajaishwal0/Trip_assistant/issues/170) |
 | Incomplete Folder Structure in Repository | Medium | [#167](https://github.com/Richajaishwal0/Trip_assistant/issues/167) |
-| Fix: #155 Mobile UI/UX issues | Medium | [#158](https://github.com/Richajaishwal0/Trip_assistant/pull/158) |
 | Fix: Add server-side validation for user registration | Medium | [#157](https://github.com/Richajaishwal0/Trip_assistant/pull/157) |
 | "Add Privacy Policy Page" #146 | Medium | [#153](https://github.com/Richajaishwal0/Trip_assistant/pull/153) |
 | "Add Privacy Policy Page" | Medium | [#146](https://github.com/Richajaishwal0/Trip_assistant/issues/146) |
 | "Implement Authentication Backend and Frontend" | Medium | [#141](https://github.com/Richajaishwal0/Trip_assistant/pull/141) |
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
 | budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
+| feat: complete UI overhaul - fix navigation visibility, add theme sup… | Medium | [#125](https://github.com/Richajaishwal0/Trip_assistant/pull/125) |
+| Fixed chatbot nlp integrated with gemini flash 1.5 | Medium | [#120](https://github.com/Richajaishwal0/Trip_assistant/pull/120) |
 
 ---
 
@@ -226,15 +249,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
-| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
 | Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
-| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 
 ---
 
@@ -330,15 +349,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BREVITY/issues/185) |
-| Crop image | Medium | [#278](https://github.com/Yash159357/BREVITY/pull/278) |
-| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BREVITY/issues/200) |
 | UI/UX: Create Website Landing Page UI Design | Medium | [#175](https://github.com/Yash159357/BREVITY/issues/175) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BREVITY/issues/168) |
-| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BREVITY/issues/167) |
 | Backend: GNews API Integration | Medium | [#166](https://github.com/Yash159357/BREVITY/issues/166) |
 | UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BREVITY/issues/164) |
 | Website: Create Website Landing Page | Hard | [#172](https://github.com/Yash159357/BREVITY/issues/172) |
-| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BREVITY/issues/170) |
 
 ---
 
@@ -357,6 +372,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Favicon to Website | Easy | [#65](https://github.com/Skrache/crisisboard/issues/65) |
+| Fixed:dark mode styling issues | Medium | [#89](https://github.com/Skrache/crisisboard/pull/89) |
 | Signin to view profile button performing wrong functionality | Medium | [#88](https://github.com/Skrache/crisisboard/issues/88) |
 | Added about & contact section | Medium | [#86](https://github.com/Skrache/crisisboard/pull/86) |
 | Addition of pr create automate message | Medium | [#85](https://github.com/Skrache/crisisboard/issues/85) |
