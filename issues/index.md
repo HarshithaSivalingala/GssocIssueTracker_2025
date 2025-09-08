@@ -27,6 +27,7 @@
 - [Mongodb Projects](mongodb.md)
 - [Mysql Projects](mysql.md)
 - [Next.Js Projects](next.js.md)
+- [Nlp Projects](nlp.md)
 - [Node.Js Projects](node.js.md)
 - [Openai Projects](openai.md)
 - [Php Projects](php.md)
