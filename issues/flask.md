@@ -152,6 +152,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Integration of RAG-based PDF Question-Answering Tool as an MCP Server for Claude Desktop | Medium | [#45](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/45) |
 | #42 Content Disappears After Reload on All Pages | Medium | [#44](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/44) |
 | Make UI Responsive for Mobile Devices | Medium | [#23](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/23) |
 | Update README.md | Medium | [#19](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/19) |
@@ -174,8 +175,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement AI-driven resume-job matching feature with dashboard integation | Medium | [#480](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/480) |
-| fixed the chatbot's text color in dark mode | Medium | [#479](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/479) |
+| Inconsistent Password Validation & Missing Form Blocking (Student Registration Form) | Medium | [#488](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/488) |
 | I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
@@ -196,30 +196,20 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Icons replacement | Medium | [#283](https://github.com/omroy07/AgriTech/pull/283) |
+| Add Hover Effect to Footer Links on Home Page | Medium | [#282](https://github.com/omroy07/AgriTech/issues/282) |
+| Add Floating Chatbot Access Button on All Pages | Medium | [#281](https://github.com/omroy07/AgriTech/issues/281) |
 | Email Notification Capabilities | Medium | [#279](https://github.com/omroy07/AgriTech/issues/279) |
-| Forgot Password Workflow (Frontend + Backend) | Medium | [#278](https://github.com/omroy07/AgriTech/issues/278) |
-| Integrate Authentication with Frontend Application | Medium | [#277](https://github.com/omroy07/AgriTech/issues/277) |
-| Add Swagger Documentation for Backend APIs | Medium | [#276](https://github.com/omroy07/AgriTech/issues/276) |
-| Integrate Authentication with Social Providers | Medium | [#275](https://github.com/omroy07/AgriTech/issues/275) |
-| Add "Scroll to Top" Button on Dashboard Page | Medium | [#274](https://github.com/omroy07/AgriTech/issues/274) |
-| Misaligned bullet points in About Us page | Medium | [#273](https://github.com/omroy07/AgriTech/issues/273) |
 | Login page is not mobile responsive | Medium | [#272](https://github.com/omroy07/AgriTech/issues/272) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
-| Pull Request : UI/UX Enhancement: About Us Page | Medium | [#270](https://github.com/omroy07/AgriTech/pull/270) |
-| UI/UX Enhancement: About Us Page (SEO, Accessibility, Styling & Animations) | Medium | [#269](https://github.com/omroy07/AgriTech/issues/269) |
-| Resolved Issues: Fertiliser Recommendation System UI/UX & Accuracy, and Disease Prediction UI/UX Enhancements. | Medium | [#268](https://github.com/omroy07/AgriTech/pull/268) |
 | Farmer Form Validated | Medium | [#267](https://github.com/omroy07/AgriTech/pull/267) |
 | Dark theme button not working on Yield Prediction ML analytics | Medium | [#266](https://github.com/omroy07/AgriTech/issues/266) |
 | logout button updated in mobile view | Medium | [#265](https://github.com/omroy07/AgriTech/pull/265) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#264](https://github.com/omroy07/AgriTech/pull/264) |
-| Dark and Light Theme Issue resolved in yield prediction | Medium | [#263](https://github.com/omroy07/AgriTech/pull/263) |
-| Pull Request : Deep Learning CNN Model for Tomato Leaf Disease Predic… | Medium | [#261](https://github.com/omroy07/AgriTech/pull/261) |
-| Deep Learning CNN Model for Tomato Leaf Disease Prediction | Medium | [#260](https://github.com/omroy07/AgriTech/issues/260) |
-| Modified hover effects | Medium | [#258](https://github.com/omroy07/AgriTech/pull/258) |
 | Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
-| under footer section in about us text is not visible properly | Medium | [#251](https://github.com/omroy07/AgriTech/issues/251) |
 | Designing hamberg menu for services on mobile view | Medium | [#250](https://github.com/omroy07/AgriTech/issues/250) |
 | Automated Plant Seedlings Classification with CNN Architectures | Medium | [#239](https://github.com/omroy07/AgriTech/issues/239) |
+| Theme dark mode not changing color of text | Medium | [#237](https://github.com/omroy07/AgriTech/issues/237) |
 
 ---
 
@@ -308,6 +298,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Specialist recommendation text not fully visible and faded | Medium | [#174](https://github.com/aayushraj1010/med-genie/issues/174) |
+| The footer links Cookie Policy and Terms of Use are not working — both lead to missing/404 pages. | Medium | [#173](https://github.com/aayushraj1010/med-genie/issues/173) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
 | Add a "Scroll to top" button | Medium | [#165](https://github.com/aayushraj1010/med-genie/issues/165) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
@@ -331,6 +323,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a Live link | Medium | [#17](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/17) |
 | Contribution for a feature | Medium | [#16](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/issues/16) |
 | Added Code of Conduct | Medium | [#11](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/11) |
 
@@ -413,6 +406,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed:  Enhancement of README.md | Medium | [#40](https://github.com/AKing-283/Rewear/pull/40) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
 
 ---
@@ -431,7 +425,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Update branding and add live project link | Medium | [#87](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/87) |
+| FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
+| ## 🔗 Related Issue Fixes #91  --- This PR addresses the branding improvements discussed in issue #91. | Medium | [#87](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/87) |
+| FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
+| FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
 ---
 
