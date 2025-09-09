@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Back to top button in readme.md not working | Medium | [#54](https://github.com/CharithaReddy18/AI-health-chatbot/issues/54) |
 | NLP Enhancement: Added Multilingual Support and Advanced Models | Medium | [#53](https://github.com/CharithaReddy18/AI-health-chatbot/pull/53) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
