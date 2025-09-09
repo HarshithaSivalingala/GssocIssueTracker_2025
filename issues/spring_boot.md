@@ -46,7 +46,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Login Screen | Medium | [#406](https://github.com/yuvrajsinghgmx/ShopSmart/issues/406) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
 | Introduce Email and Password Login through Firebase | Medium | [#354](https://github.com/yuvrajsinghgmx/ShopSmart/issues/354) |
@@ -118,6 +117,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Confirm Password Field in Signup Form | Medium | [#222](https://github.com/SandeepVashishtha/Eventra/issues/222) |
+| Add Contact Number Field with Country Code Option in Contact Form | Medium | [#221](https://github.com/SandeepVashishtha/Eventra/issues/221) |
+| Improve Sidebar UI (Colors & Scrolling) | Medium | [#220](https://github.com/SandeepVashishtha/Eventra/issues/220) |
+| Fix Horizontal Scrolling | Medium | [#219](https://github.com/SandeepVashishtha/Eventra/pull/219) |
+| correct contributor data | Medium | [#217](https://github.com/SandeepVashishtha/Eventra/pull/217) |
 | Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
 | Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
 
