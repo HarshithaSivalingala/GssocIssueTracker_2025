@@ -52,24 +52,6 @@
 
 ---
 
-## 📌 Project: Nagarvikas 
-
-📝 **Description:** An app that is built to file civic issues faced by citizens of india , they can easily track their complaint status in realtime , admins can check the complaints and after working on it they can update status accordingly , admin dashboard also has analytics option to keep data of all complaints for future use
-
-🔗 [View Project](https://github.com/Prateek9876/NagarVikas)
-
-💻 **Tech Stack:** Flutter, Dart, Firebase, OneSignal, Cloudinary
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| The discussion forum interface has become interface (like the message box) | Medium | [#477](https://github.com/Prateek9876/NagarVikas/issues/477) |
-
----
-
 ## 📌 Project: Brevity
 
 📝 **Description:** Brevity is an AI-powered news curation app that delivers seamless and concise news built with Flutter, Firebase, and upcoming with Chatbot and nodejs backend support. It aims to simplify how users consume news—through clean UI, fast performance, and future-ready AI features like summarization and myth-busting chatbot.
