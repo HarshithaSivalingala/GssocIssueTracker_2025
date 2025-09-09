@@ -14,11 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed : Enhancement: Improve 'Creating Magical Childhood Moments' Section | Medium | [#268](https://github.com/Amarjha01/InfantCareCompass/pull/268) |
-| feat: Add confirm password field to registration page | Medium | [#266](https://github.com/Amarjha01/InfantCareCompass/pull/266) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
-| feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 
@@ -97,8 +94,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement AI-driven resume-job matching feature with dashboard integation | Medium | [#480](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/480) |
-| fixed the chatbot's text color in dark mode | Medium | [#479](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/479) |
+| Inconsistent Password Validation & Missing Form Blocking (Student Registration Form) | Medium | [#488](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/488) |
 | I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
@@ -147,27 +143,31 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| deps(deps): bump lucide-react from 0.525.0 to 0.542.0 in /optiblogai-site | Medium | [#101](https://github.com/solve-ease/OptiBlogAi/pull/101) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.3.1 in /optiblogai-site | Medium | [#100](https://github.com/solve-ease/OptiBlogAi/pull/100) |
+| deps(deps): bump soupsieve from 2.6 to 2.8 | Medium | [#99](https://github.com/solve-ease/OptiBlogAi/pull/99) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.2 in /optiblogai-site | Medium | [#98](https://github.com/solve-ease/OptiBlogAi/pull/98) |
+| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.7.0 | Medium | [#97](https://github.com/solve-ease/OptiBlogAi/pull/97) |
+| deps(deps): bump next from 15.4.1 to 15.5.2 in /optiblogai-site | Medium | [#96](https://github.com/solve-ease/OptiBlogAi/pull/96) |
+| deps(deps): bump playwright from 1.53.0 to 1.55.0 | Medium | [#95](https://github.com/solve-ease/OptiBlogAi/pull/95) |
+| deps(deps-dev): bump eslint from 9.31.0 to 9.35.0 in /optiblogai-site | Medium | [#94](https://github.com/solve-ease/OptiBlogAi/pull/94) |
+| ci(deps): bump actions/setup-python from 5 to 6 | Medium | [#93](https://github.com/solve-ease/OptiBlogAi/pull/93) |
+| ci(deps): bump actions/setup-node from 4 to 5 | Medium | [#92](https://github.com/solve-ease/OptiBlogAi/pull/92) |
+| deps(deps): bump cachetools from 5.5.2 to 6.2.0 | Medium | [#91](https://github.com/solve-ease/OptiBlogAi/pull/91) |
+| deps(deps): bump typing-extensions from 4.13.2 to 4.15.0 | Medium | [#90](https://github.com/solve-ease/OptiBlogAi/pull/90) |
 | SITE ENHANCEMENT | Medium | [#89](https://github.com/solve-ease/OptiBlogAi/issues/89) |
 | ⬇️ Feature Request: Scroll to Bottom Button | Medium | [#88](https://github.com/solve-ease/OptiBlogAi/issues/88) |
-| deps(deps): bump next from 15.4.1 to 15.5.0 in /optiblogai-site | Medium | [#87](https://github.com/solve-ease/OptiBlogAi/pull/87) |
-| deps(deps): bump lucide-react from 0.525.0 to 0.541.0 in /optiblogai-site | Medium | [#86](https://github.com/solve-ease/OptiBlogAi/pull/86) |
 | deps(deps): bump beautifulsoup4 from 4.13.3 to 4.13.5 | Medium | [#85](https://github.com/solve-ease/OptiBlogAi/pull/85) |
-| deps(deps-dev): bump eslint from 9.31.0 to 9.34.0 in /optiblogai-site | Medium | [#84](https://github.com/solve-ease/OptiBlogAi/pull/84) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.0 in /optiblogai-site | Medium | [#83](https://github.com/solve-ease/OptiBlogAi/pull/83) |
 | deps(deps): bump lxml from 5.3.2 to 6.0.1 | Medium | [#82](https://github.com/solve-ease/OptiBlogAi/pull/82) |
 | deps(deps): bump requests from 2.32.3 to 2.32.5 | Medium | [#81](https://github.com/solve-ease/OptiBlogAi/pull/81) |
 | docker(deps): bump python from 3.12-slim to 3.13.7-slim | Medium | [#80](https://github.com/solve-ease/OptiBlogAi/pull/80) |
 | ci(deps): bump actions/checkout from 4 to 5 | Medium | [#79](https://github.com/solve-ease/OptiBlogAi/pull/79) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.3.0 in /optiblogai-site | Medium | [#78](https://github.com/solve-ease/OptiBlogAi/pull/78) |
 | Broken Links in Footer Navigation #41 | Medium | [#77](https://github.com/solve-ease/OptiBlogAi/pull/77) |
 | Added Contact Us Page | Medium | [#76](https://github.com/solve-ease/OptiBlogAi/pull/76) |
 | deps(deps): bump certifi from 2025.1.31 to 2025.8.3 | Medium | [#75](https://github.com/solve-ease/OptiBlogAi/pull/75) |
-| deps(deps): bump playwright from 1.53.0 to 1.54.0 | Medium | [#64](https://github.com/solve-ease/OptiBlogAi/pull/64) |
 | deps(deps): bump react and @types/react in /optiblogai-site | Medium | [#62](https://github.com/solve-ease/OptiBlogAi/pull/62) |
 | deps(deps): bump react-dom and @types/react-dom in /optiblogai-site | Medium | [#61](https://github.com/solve-ease/OptiBlogAi/pull/61) |
 | deps(deps): bump @types/mermaid from 9.1.0 to 9.2.0 in /optiblogai-site | Medium | [#59](https://github.com/solve-ease/OptiBlogAi/pull/59) |
-| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.6.18 | Medium | [#58](https://github.com/solve-ease/OptiBlogAi/pull/58) |
-| deps(deps): bump cachetools from 5.5.2 to 6.1.0 | Medium | [#57](https://github.com/solve-ease/OptiBlogAi/pull/57) |
 | deps(deps-dev): bump typescript from 5.8.3 to 5.9.2 in /optiblogai-site | Medium | [#56](https://github.com/solve-ease/OptiBlogAi/pull/56) |
 | deps(deps): bump framer-motion from 12.23.6 to 12.23.12 in /optiblogai-site | Medium | [#55](https://github.com/solve-ease/OptiBlogAi/pull/55) |
 | Add Hover Effect to "Try demo" Button | Medium | [#52](https://github.com/solve-ease/OptiBlogAi/issues/52) |
@@ -218,7 +218,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update readme file | Medium | [#40](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/40) |
+| Add GSSoC Banner and Project insights | Medium | [#41](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/41) |
 
 ---
 
