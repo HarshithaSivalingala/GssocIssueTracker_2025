@@ -14,11 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed : Enhancement: Improve 'Creating Magical Childhood Moments' Section | Medium | [#268](https://github.com/Amarjha01/InfantCareCompass/pull/268) |
-| feat: Add confirm password field to registration page | Medium | [#266](https://github.com/Amarjha01/InfantCareCompass/pull/266) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
-| feat: add Growth Tracker feature (Issue #62) | Medium | [#258](https://github.com/Amarjha01/InfantCareCompass/pull/258) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 | Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 
@@ -38,7 +35,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feat: Copy Ingredients to clipboard (#250) | Medium | [#256](https://github.com/Ayushjhawar8/Flavor-ai/pull/256) |
+| UI: Polish “Preparation Steps” section — spacing/readability + aligned TTS controls | Medium | [#269](https://github.com/Ayushjhawar8/Flavor-ai/pull/269) |
+| Feat: Report Recipe Issue button in Navbar (#262) | Medium | [#268](https://github.com/Ayushjhawar8/Flavor-ai/pull/268) |
+| I asked for vegetarian diet plan, I got non vegetarian diet plan | Medium | [#267](https://github.com/Ayushjhawar8/Flavor-ai/issues/267) |
+| Shopping List (localStorage + Copy/Download) (#259) | Medium | [#266](https://github.com/Ayushjhawar8/Flavor-ai/pull/266) |
 | feat: Implement community recipe feature with upload, view functionalities | Medium | [#255](https://github.com/Ayushjhawar8/Flavor-ai/pull/255) |
 | Feat: Add Print / PDF Recipe Card with print-friendly styles (#252) | Hard | [#258](https://github.com/Ayushjhawar8/Flavor-ai/pull/258) |
 
@@ -94,8 +94,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement AI-driven resume-job matching feature with dashboard integation | Medium | [#480](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/480) |
-| fixed the chatbot's text color in dark mode | Medium | [#479](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/479) |
+| Inconsistent Password Validation & Missing Form Blocking (Student Registration Form) | Medium | [#488](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/488) |
 | I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
@@ -225,9 +224,10 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Backend Routes Updated | Easy | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Backend Routes Updated | Medium | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
+| Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
 ---
