@@ -107,6 +107,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Start Contest Updated | Medium | [#79](https://github.com/swarooppatilx/bit-by-query/pull/79) |
+| feat: add rate limiting to authentication routes | Medium | [#78](https://github.com/swarooppatilx/bit-by-query/pull/78) |
 | feat: add a env flag for sqlite mode | Medium | [#75](https://github.com/swarooppatilx/bit-by-query/issues/75) |
 | bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
 | feat: admin panel | Medium | [#66](https://github.com/swarooppatilx/bit-by-query/issues/66) |
@@ -180,6 +182,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add CONTRIBUTION.md | Medium | [#31](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/31) |
+| Add CODE_OF_CONDUCT | Medium | [#30](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/30) |
 | Added stats and recommendation algorithm | Medium | [#28](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/28) |
 | Add CSV Download Option for Recommended Products | Medium | [#26](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/26) |
 | Add Dropdown for Top-N Recommended Products Selection | Medium | [#25](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/25) |
