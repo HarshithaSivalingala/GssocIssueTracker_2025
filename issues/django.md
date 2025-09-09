@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Move Sign in button from Header to Side nav when on small devices. | Medium | [#2231](https://github.com/OWASP/Nest/pull/2231) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Feature/migrate scraper to GitHub md files | Medium | [#2223](https://github.com/OWASP/Nest/pull/2223) |
 | Research and Implement IaC PoC for OWASP Nest Infrastructure | Medium | [#2215](https://github.com/OWASP/Nest/issues/2215) |
@@ -240,9 +241,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Backend Routes Updated | Easy | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Backend Routes Updated | Medium | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
+| Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
 ---
