@@ -69,7 +69,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC Banner and Project insights | Medium | [#41](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/41) |
+| improved readme: Added GSSoC Banner and project insights | Medium | [#42](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/42) |
 
 ---
 
@@ -87,6 +87,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add Nexara logo variants (light & dark modes) | Easy | [#114](https://github.com/Axelvyn/Nexara/pull/114) |
 | Backend Routes Updated | Easy | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
