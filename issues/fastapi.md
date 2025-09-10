@@ -94,8 +94,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Inconsistent Password Validation & Missing Form Blocking (Student Registration Form) | Medium | [#488](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/488) |
-| I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
+| Feature Request: Make Notification Bell Clickable | Medium | [#491](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/491) |
+| Feedback Page Missing Navigation Options (No Back/Quit/Home Buttons) | Medium | [#490](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/490) |
+| Adding to back to home button in practice interview section | Medium | [#489](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/489) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
@@ -218,7 +219,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC Banner and Project insights | Medium | [#41](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/41) |
+| improved readme: Added GSSoC Banner and project insights | Medium | [#42](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/42) |
 
 ---
 
