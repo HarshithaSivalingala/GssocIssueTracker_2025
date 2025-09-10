@@ -106,7 +106,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | chore(deps): bump the minor-and-patch group across 1 directory with 44 updates | Medium | [#354](https://github.com/Muneerali199/DocMagic/pull/354) |
 | Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
-| Quick Resume Generator Fails to Generate Resume | Medium | [#350](https://github.com/Muneerali199/DocMagic/issues/350) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
 | Add structure.txt file | Medium | [#348](https://github.com/Muneerali199/DocMagic/pull/348) |
 | Add project structure documentation | Medium | [#347](https://github.com/Muneerali199/DocMagic/issues/347) |
@@ -180,30 +179,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
 | Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
 | Issue with the setup instructions | Medium | [#2](https://github.com/sailaja-adapa/GuruShish/issues/2) |
-
----
-
-## 📌 Project: Hackgrid
-
-📝 **Description:** An advanced and customizable Learning Management System (LMS) built using modern web technologies. This platform includes key features for students, teachers, and course creators, supporting course browsing, creation, management, and secure payment processing.
-
-🔗 [View Project](https://github.com/Sarthak027/Hackgrid)
-
-💻 **Tech Stack:** React, Next.js 13, Prisma, Xata, PostgreSQL, Razorpay, UploadThing, Mux, Clerk, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Redesign Dashboard | Medium | [#9](https://github.com/Sarthak027/Hackgrid/issues/9) |
-| README.md lacks clarity | Medium | [#8](https://github.com/Sarthak027/Hackgrid/issues/8) |
-| Adding a separate CodeOfConduct.md file | Medium | [#7](https://github.com/Sarthak027/Hackgrid/issues/7) |
-| Implement comprehensive client-side form validation using Zod and React Hook Form | Medium | [#6](https://github.com/Sarthak027/Hackgrid/issues/6) |
-| seacrch bar+ prisma and search bar fix + security implementation | Medium | [#5](https://github.com/Sarthak027/Hackgrid/issues/5) |
-| Add Public Landing Page and Prevent Default Sign-In Redirect | Medium | [#4](https://github.com/Sarthak027/Hackgrid/pull/4) |
-| Separate Dashboards for Students, Teachers, Admins | Medium | [#3](https://github.com/Sarthak027/Hackgrid/issues/3) |
 
 ---
 
@@ -294,7 +269,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC Banner and Project insights | Medium | [#41](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/41) |
+| improved readme: Added GSSoC Banner and project insights | Medium | [#42](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/42) |
 
 ---
 
@@ -341,35 +316,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add Nexara logo variants (light & dark modes) | Easy | [#114](https://github.com/Axelvyn/Nexara/pull/114) |
 | Backend Routes Updated | Easy | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
-
----
-
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Confirm Password Field in Signup Form | Medium | [#222](https://github.com/SandeepVashishtha/Eventra/issues/222) |
-| Add Contact Number Field with Country Code Option in Contact Form | Medium | [#221](https://github.com/SandeepVashishtha/Eventra/issues/221) |
-| Improve Sidebar UI (Colors & Scrolling) | Medium | [#220](https://github.com/SandeepVashishtha/Eventra/issues/220) |
-| Fix Horizontal Scrolling | Medium | [#219](https://github.com/SandeepVashishtha/Eventra/pull/219) |
-| correct contributor data | Medium | [#217](https://github.com/SandeepVashishtha/Eventra/pull/217) |
-| Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
-| Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
 
 ---
 
@@ -387,7 +339,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Interactive Mobile responsiveness | Medium | [#129](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/129) |
 | made some changes | Medium | [#128](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/128) |
 | refactor/modified-footer | Medium | [#127](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/127) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
