@@ -148,7 +148,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Move Sign in button from Header to Side nav when on small devices. | Medium | [#2231](https://github.com/OWASP/Nest/pull/2231) |
+| Refactor API to a separate app, add v0 | Medium | [#2245](https://github.com/OWASP/Nest/pull/2245) |
+| UI/ux mentorship program update | Medium | [#2244](https://github.com/OWASP/Nest/pull/2244) |
+| Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
+| Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Feature/migrate scraper to GitHub md files | Medium | [#2223](https://github.com/OWASP/Nest/pull/2223) |
 | Research and Implement IaC PoC for OWASP Nest Infrastructure | Medium | [#2215](https://github.com/OWASP/Nest/issues/2215) |
@@ -162,8 +165,6 @@
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
-| Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
-| Automated Metadata Population for OWASP Entities PoC | Medium | [#2123](https://github.com/OWASP/Nest/issues/2123) |
 
 ---
 
@@ -182,11 +183,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | UI: Polish “Preparation Steps” section — spacing/readability + aligned TTS controls | Medium | [#269](https://github.com/Ayushjhawar8/Flavor-ai/pull/269) |
-| Feat: Report Recipe Issue button in Navbar (#262) | Medium | [#268](https://github.com/Ayushjhawar8/Flavor-ai/pull/268) |
-| I asked for vegetarian diet plan, I got non vegetarian diet plan | Medium | [#267](https://github.com/Ayushjhawar8/Flavor-ai/issues/267) |
-| Shopping List (localStorage + Copy/Download) (#259) | Medium | [#266](https://github.com/Ayushjhawar8/Flavor-ai/pull/266) |
-| feat: Implement community recipe feature with upload, view functionalities | Medium | [#255](https://github.com/Ayushjhawar8/Flavor-ai/pull/255) |
-| Feat: Add Print / PDF Recipe Card with print-friendly styles (#252) | Hard | [#258](https://github.com/Ayushjhawar8/Flavor-ai/pull/258) |
+| feat: Implement community recipe feature with upload, view functionalities | Hard | [#255](https://github.com/Ayushjhawar8/Flavor-ai/pull/255) |
 
 ---
 
@@ -323,7 +320,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Google Sign-In & Firestore init; | Medium | [#219](https://github.com/mansiruhil/fail-u-forward/pull/219) |
 | Enhancement: Add Hover Effects to About Page Cards | Medium | [#218](https://github.com/mansiruhil/fail-u-forward/issues/218) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
@@ -388,7 +384,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | chore(deps): bump the minor-and-patch group across 1 directory with 44 updates | Medium | [#354](https://github.com/Muneerali199/DocMagic/pull/354) |
 | Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
-| Quick Resume Generator Fails to Generate Resume | Medium | [#350](https://github.com/Muneerali199/DocMagic/issues/350) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
 | Add structure.txt file | Medium | [#348](https://github.com/Muneerali199/DocMagic/pull/348) |
 | Add project structure documentation | Medium | [#347](https://github.com/Muneerali199/DocMagic/issues/347) |
@@ -532,32 +527,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | [Feature]: Improve Functionality of Searchbar | Easy | [#303](https://github.com/recodehive/recode-website/issues/303) |
+| Added backend for leaderbaord | Medium | [#490](https://github.com/recodehive/recode-website/pull/490) |
 | [Feature]: redesign the /showcase page (making design consistent across the whole website) | Medium | [#460](https://github.com/recodehive/recode-website/issues/460) |
 | [Feature]: Enhance UI/UX of the Projects Showcase Page | Medium | [#437](https://github.com/recodehive/recode-website/issues/437) |
-
----
-
-## 📌 Project: Hackgrid
-
-📝 **Description:** An advanced and customizable Learning Management System (LMS) built using modern web technologies. This platform includes key features for students, teachers, and course creators, supporting course browsing, creation, management, and secure payment processing.
-
-🔗 [View Project](https://github.com/Sarthak027/Hackgrid)
-
-💻 **Tech Stack:** React, Next.js 13, Prisma, Xata, PostgreSQL, Razorpay, UploadThing, Mux, Clerk, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Redesign Dashboard | Medium | [#9](https://github.com/Sarthak027/Hackgrid/issues/9) |
-| README.md lacks clarity | Medium | [#8](https://github.com/Sarthak027/Hackgrid/issues/8) |
-| Adding a separate CodeOfConduct.md file | Medium | [#7](https://github.com/Sarthak027/Hackgrid/issues/7) |
-| Implement comprehensive client-side form validation using Zod and React Hook Form | Medium | [#6](https://github.com/Sarthak027/Hackgrid/issues/6) |
-| seacrch bar+ prisma and search bar fix + security implementation | Medium | [#5](https://github.com/Sarthak027/Hackgrid/issues/5) |
-| Add Public Landing Page and Prevent Default Sign-In Redirect | Medium | [#4](https://github.com/Sarthak027/Hackgrid/pull/4) |
-| Separate Dashboards for Students, Teachers, Admins | Medium | [#3](https://github.com/Sarthak027/Hackgrid/issues/3) |
 
 ---
 
@@ -576,7 +548,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| fixed issue in responsive ness | Medium | [#301](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/301) |
 | fix: implement theme consistency for Problem of the Day section | Medium | [#295](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/295) |
 | feat: Implement Company-wise Questions Page and UI improvements | Medium | [#291](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/291) |
 | Update SheetContent.tsx and apply dark theme fixes | Medium | [#269](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/269) |
@@ -733,6 +704,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| about us page | Medium | [#83](https://github.com/vishalmaurya850/Product-Ledger/issues/83) |
 | Enhancement | Medium | [#82](https://github.com/vishalmaurya850/Product-Ledger/issues/82) |
 | Feature : FAQ Page Implementation | Medium | [#81](https://github.com/vishalmaurya850/Product-Ledger/issues/81) |
 | Feature : Contact Us Page Implementation | Medium | [#80](https://github.com/vishalmaurya850/Product-Ledger/issues/80) |
@@ -808,6 +780,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Inconsistent background color and poor content visibility in "WHY JOIN" cards | Medium | [#79](https://github.com/LarytheLord/Adventurers-Guild/issues/79) |
+| Navbar navlinks should use bg-primary text-color with smooth hover animation for consistency | Medium | [#78](https://github.com/LarytheLord/Adventurers-Guild/issues/78) |
+| Improve visibility of numbered bullet points in "The Problem" section | Medium | [#77](https://github.com/LarytheLord/Adventurers-Guild/issues/77) |
+| Inconsistent color theme for "FORGE YOUR PATH" section in dark mode | Medium | [#76](https://github.com/LarytheLord/Adventurers-Guild/issues/76) |
 | Text Visibility Problem in Dark and Light Mode | Medium | [#75](https://github.com/LarytheLord/Adventurers-Guild/issues/75) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
@@ -833,7 +809,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 | Enhancement: Redesign Navbar as a Collapsible Menu | Medium | [#142](https://github.com/AditiGupta-tech/neonest/issues/142) |
-| Add Personalization & Analytics Widgets | Hard | [#6](https://github.com/AditiGupta-tech/neonest/issues/6) |
 
 ---
 
@@ -1051,7 +1026,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC Banner and Project insights | Medium | [#41](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/41) |
+| improved readme: Added GSSoC Banner and project insights | Medium | [#42](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/42) |
 
 ---
 
@@ -1106,7 +1081,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add CONTRIBUTING.md | Medium | [#63](https://github.com/EasyGoDocs/easygodocs/pull/63) |
 | V1 oindil | Medium | [#60](https://github.com/EasyGoDocs/easygodocs/pull/60) |
 | Docs must be simpler. We provide simple solutions. | Medium | [#58](https://github.com/EasyGoDocs/easygodocs/issues/58) |
 
@@ -1126,6 +1100,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add Nexara logo variants (light & dark modes) | Easy | [#114](https://github.com/Axelvyn/Nexara/pull/114) |
 | Backend Routes Updated | Easy | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
@@ -1169,8 +1144,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
+| Added links to the icons in Footer | Medium | [#95](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/95) |
 | ## 🔗 Related Issue Fixes #91  --- This PR addresses the branding improvements discussed in issue #91. | Medium | [#87](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/87) |
-| FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
 ---
@@ -1291,7 +1266,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Interactive Mobile responsiveness | Medium | [#129](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/129) |
 | made some changes | Medium | [#128](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/128) |
 | refactor/modified-footer | Medium | [#127](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/127) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
