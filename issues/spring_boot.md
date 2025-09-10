@@ -46,6 +46,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(login): add validation for phone number and OTP | Medium | [#419](https://github.com/yuvrajsinghgmx/ShopSmart/pull/419) |
+| Implement Get API for  Favorite Shops and Products. | Medium | [#417](https://github.com/yuvrajsinghgmx/ShopSmart/issues/417) |
+| Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
+| Handle upload of multiple images in Add Shop Screen | Medium | [#415](https://github.com/yuvrajsinghgmx/ShopSmart/issues/415) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
 | Introduce Email and Password Login through Firebase | Medium | [#354](https://github.com/yuvrajsinghgmx/ShopSmart/issues/354) |
@@ -100,30 +104,6 @@
 |----------|----------------|---------|
 | Update Readme | Medium | [#55](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/55) |
 | Enhancement: Secure API Endpoints using JWT Authentication | Medium | [#51](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/51) |
-
----
-
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Confirm Password Field in Signup Form | Medium | [#222](https://github.com/SandeepVashishtha/Eventra/issues/222) |
-| Add Contact Number Field with Country Code Option in Contact Form | Medium | [#221](https://github.com/SandeepVashishtha/Eventra/issues/221) |
-| Improve Sidebar UI (Colors & Scrolling) | Medium | [#220](https://github.com/SandeepVashishtha/Eventra/issues/220) |
-| Fix Horizontal Scrolling | Medium | [#219](https://github.com/SandeepVashishtha/Eventra/pull/219) |
-| correct contributor data | Medium | [#217](https://github.com/SandeepVashishtha/Eventra/pull/217) |
-| Event Cards Display Only Mock Data Instead of Database Data | Medium | [#150](https://github.com/SandeepVashishtha/Eventra/issues/150) |
-| Backend Error: Project Gallery Fails to Load Projects | Medium | [#149](https://github.com/SandeepVashishtha/Eventra/issues/149) |
 
 ---
 
