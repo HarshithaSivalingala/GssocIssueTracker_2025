@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added video modal and open documentation in new tab | Medium | [#1362](https://github.com/vishanurag/Canvas-Editor/pull/1362) |
 | Enhance Canvas Editor: UI Improvements, Toolbar Responsiveness & Export Options | Medium | [#1361](https://github.com/vishanurag/Canvas-Editor/issues/1361) |
 | Added toggle darkmode button in the editor | Medium | [#1359](https://github.com/vishanurag/Canvas-Editor/pull/1359) |
 
@@ -38,7 +37,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Navbar font can be improvised | Medium | [#438](https://github.com/gyanshankar1708/GrowCraft/issues/438) |
+| Refactored dark mode initialization and updated toggle button icon state | Medium | [#453](https://github.com/gyanshankar1708/GrowCraft/pull/453) |
+| additional space below footer in blogwrite page | Medium | [#449](https://github.com/gyanshankar1708/GrowCraft/issues/449) |
+| Improve Flashcards Theme & Revamp Homepage About Us Section | Medium | [#448](https://github.com/gyanshankar1708/GrowCraft/issues/448) |
+| Enahance the issue templates | Medium | [#447](https://github.com/gyanshankar1708/GrowCraft/issues/447) |
+| Add Autocomment on PR | Medium | [#446](https://github.com/gyanshankar1708/GrowCraft/issues/446) |
+| Add the workflows for autocomment on Issue creation | Medium | [#445](https://github.com/gyanshankar1708/GrowCraft/issues/445) |
+| Redesign the complete  homepage | Medium | [#444](https://github.com/gyanshankar1708/GrowCraft/issues/444) |
+| Add  Service page | Medium | [#443](https://github.com/gyanshankar1708/GrowCraft/issues/443) |
+| Add The Privacy page | Medium | [#442](https://github.com/gyanshankar1708/GrowCraft/issues/442) |
+| Redesign the page | Medium | [#441](https://github.com/gyanshankar1708/GrowCraft/pull/441) |
 | Style the About Page | Medium | [#425](https://github.com/gyanshankar1708/GrowCraft/pull/425) |
 | Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
 | Refactor: Move inline CSS & JS to external files and update paths accordingly | Medium | [#391](https://github.com/gyanshankar1708/GrowCraft/pull/391) |
@@ -75,7 +83,6 @@
 | Responsive Redesign: Footer & Contact Us Improvements for Mobile View[OSCI'25] | Medium | [#123](https://github.com/Pujan-sarkar/FARMLOC/issues/123) |
 | Most asked Questions? section looks odd as compare to others page.[OSCI 25] | Medium | [#122](https://github.com/Pujan-sarkar/FARMLOC/issues/122) |
 | Add smooth slide-down animation to FAQ answers | Medium | [#119](https://github.com/Pujan-sarkar/FARMLOC/issues/119) |
-| enhanced contact form and added nodemailer smtp server endpoint to se… | Medium | [#115](https://github.com/Pujan-sarkar/FARMLOC/pull/115) |
 | Login Submission Fails with 404: NOT_FOUND Error | Medium | [#114](https://github.com/Pujan-sarkar/FARMLOC/issues/114) |
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
@@ -98,6 +105,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Navbar Mobile View Overflow | Easy | [#216](https://github.com/sachiva1/sachiva/issues/216) |
+| Text not clearly visible on blog page | Medium | [#240](https://github.com/sachiva1/sachiva/issues/240) |
 | UI change of home page | Medium | [#239](https://github.com/sachiva1/sachiva/pull/239) |
 | Fix/email contact us page | Medium | [#238](https://github.com/sachiva1/sachiva/pull/238) |
 | Enhancement in buttons | Medium | [#232](https://github.com/sachiva1/sachiva/issues/232) |
