@@ -59,7 +59,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | [Enhancement] Expand & Automate Tech Feed to Display Dynamic Educational + Tech News | Easy | [#230](https://github.com/abhisek2004/Dev-Elevate/issues/230) |
-| Feature Request: Add Contests Module (LeetCode-style) | Medium | [#411](https://github.com/abhisek2004/Dev-Elevate/issues/411) |
 | Feature Request: Complete Problems Page (All Questions + Editor + Editorials) | Medium | [#410](https://github.com/abhisek2004/Dev-Elevate/issues/410) |
 
 ---
@@ -78,7 +77,10 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Move Sign in button from Header to Side nav when on small devices. | Medium | [#2231](https://github.com/OWASP/Nest/pull/2231) |
+| Refactor API to a separate app, add v0 | Medium | [#2245](https://github.com/OWASP/Nest/pull/2245) |
+| UI/ux mentorship program update | Medium | [#2244](https://github.com/OWASP/Nest/pull/2244) |
+| Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
+| Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Feature/migrate scraper to GitHub md files | Medium | [#2223](https://github.com/OWASP/Nest/pull/2223) |
 | Research and Implement IaC PoC for OWASP Nest Infrastructure | Medium | [#2215](https://github.com/OWASP/Nest/issues/2215) |
@@ -92,8 +94,6 @@ Accessibility features like dark mode,white.
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
-| Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
-| Automated Metadata Population for OWASP Entities PoC | Medium | [#2123](https://github.com/OWASP/Nest/issues/2123) |
 
 ---
 
@@ -135,7 +135,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Filtering and Search to Customers Page | Medium | [#71](https://github.com/Altair-05/CodeBrosPlatform/issues/71) |
 | Fix: Implement real-time fetching of mutual connections | Medium | [#70](https://github.com/Altair-05/CodeBrosPlatform/pull/70) |
 | Fix Connection Request Flow + Client/Server Type Alignment | Medium | [#69](https://github.com/Altair-05/CodeBrosPlatform/pull/69) |
 | feat: mutual connections on profile page; remove temp render from App | Medium | [#68](https://github.com/Altair-05/CodeBrosPlatform/pull/68) |
@@ -210,7 +209,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Google Sign-In & Firestore init; | Medium | [#219](https://github.com/mansiruhil/fail-u-forward/pull/219) |
 | Enhancement: Add Hover Effects to About Page Cards | Medium | [#218](https://github.com/mansiruhil/fail-u-forward/issues/218) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
@@ -455,9 +453,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Dark/Light Mode Compatibility | Medium | [#91](https://github.com/SamXop123/RigCrafter/issues/91) |
-| Footer Social Media Links Not Working (Except GitHub) | Medium | [#89](https://github.com/SamXop123/RigCrafter/issues/89) |
-| added images in blog section | Medium | [#75](https://github.com/SamXop123/RigCrafter/pull/75) |
+| Add images/thumbnails to the blog pages | Medium | [#92](https://github.com/SamXop123/RigCrafter/issues/92) |
 | Add more components to the "Builder" | Hard | [#90](https://github.com/SamXop123/RigCrafter/issues/90) |
 
 ---
@@ -508,6 +504,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced the Footer section | Medium | [#238](https://github.com/souvikpramanikgit/LearnHub/pull/238) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
 | Add Sign-In with Google and GitHub using Firebase Authentication | Medium | [#220](https://github.com/souvikpramanikgit/LearnHub/issues/220) |
 | Implement an FAQ Bot to Answer Common User Questions | Medium | [#213](https://github.com/souvikpramanikgit/LearnHub/issues/213) |
@@ -558,7 +555,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added practice timer functionality across multiple components | Medium | [#195](https://github.com/SurajSG23/PrepBuddy/pull/195) |
+| feat: Implement dark+light mode support across the website | Medium | [#196](https://github.com/SurajSG23/PrepBuddy/pull/196) |
 
 ---
 
@@ -611,6 +608,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Inconsistent background color and poor content visibility in "WHY JOIN" cards | Medium | [#79](https://github.com/LarytheLord/Adventurers-Guild/issues/79) |
+| Navbar navlinks should use bg-primary text-color with smooth hover animation for consistency | Medium | [#78](https://github.com/LarytheLord/Adventurers-Guild/issues/78) |
+| Improve visibility of numbered bullet points in "The Problem" section | Medium | [#77](https://github.com/LarytheLord/Adventurers-Guild/issues/77) |
+| Inconsistent color theme for "FORGE YOUR PATH" section in dark mode | Medium | [#76](https://github.com/LarytheLord/Adventurers-Guild/issues/76) |
 | Text Visibility Problem in Dark and Light Mode | Medium | [#75](https://github.com/LarytheLord/Adventurers-Guild/issues/75) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
@@ -888,7 +889,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC Banner and Project insights | Medium | [#41](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/41) |
+| improved readme: Added GSSoC Banner and project insights | Medium | [#42](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/42) |
 
 ---
 
@@ -926,8 +927,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug/dark light mode | Medium | [#81](https://github.com/KrishChothani/CKsEdu/pull/81) |
-| Bug Fix: Quick-Links | Medium | [#80](https://github.com/KrishChothani/CKsEdu/pull/80) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
@@ -1033,7 +1032,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add CONTRIBUTING.md | Medium | [#63](https://github.com/EasyGoDocs/easygodocs/pull/63) |
 | V1 oindil | Medium | [#60](https://github.com/EasyGoDocs/easygodocs/pull/60) |
 | Docs must be simpler. We provide simple solutions. | Medium | [#58](https://github.com/EasyGoDocs/easygodocs/issues/58) |
 
@@ -1053,17 +1051,17 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.543.0 | Medium | [#101](https://github.com/Ojas-Arora/SapneSeSafar/pull/101) |
+| Bump recharts from 2.15.0 to 3.2.0 | Medium | [#100](https://github.com/Ojas-Arora/SapneSeSafar/pull/100) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.57.4 | Medium | [#99](https://github.com/Ojas-Arora/SapneSeSafar/pull/99) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
 | Bump vite from 5.4.17 to 7.1.5 | Medium | [#97](https://github.com/Ojas-Arora/SapneSeSafar/pull/97) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.57.2 | Medium | [#96](https://github.com/Ojas-Arora/SapneSeSafar/pull/96) |
 | Bump eslint from 9.12.0 to 9.35.0 | Medium | [#95](https://github.com/Ojas-Arora/SapneSeSafar/pull/95) |
 | Bump tailwindcss from 3.4.17 to 4.1.13 | Medium | [#94](https://github.com/Ojas-Arora/SapneSeSafar/pull/94) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.2 | Medium | [#89](https://github.com/Ojas-Arora/SapneSeSafar/pull/89) |
-| Bump lucide-react from 0.344.0 to 0.542.0 | Medium | [#87](https://github.com/Ojas-Arora/SapneSeSafar/pull/87) |
 | Bump react-router-dom from 6.28.2 to 7.8.2 | Medium | [#85](https://github.com/Ojas-Arora/SapneSeSafar/pull/85) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
-| Bump recharts from 2.15.0 to 3.1.2 | Medium | [#64](https://github.com/Ojas-Arora/SapneSeSafar/pull/64) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
@@ -1176,7 +1174,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Interactive Mobile responsiveness | Medium | [#129](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/129) |
 | made some changes | Medium | [#128](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/128) |
 | refactor/modified-footer | Medium | [#127](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/127) |
 | Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
