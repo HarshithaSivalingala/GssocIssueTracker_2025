@@ -175,8 +175,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Inconsistent Password Validation & Missing Form Blocking (Student Registration Form) | Medium | [#488](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/488) |
-| I improved the project's code quality with stricter linting and formatting, added a testing framework to the backend, and enhanced frontend   performance through code splitting and build optimizations. | Medium | [#467](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/467) |
+| Feature Request: Make Notification Bell Clickable | Medium | [#491](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/491) |
+| Feedback Page Missing Navigation Options (No Back/Quit/Home Buttons) | Medium | [#490](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/490) |
+| Adding to back to home button in practice interview section | Medium | [#489](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/489) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
@@ -196,15 +197,16 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Icons replacement | Medium | [#283](https://github.com/omroy07/AgriTech/pull/283) |
-| Add Hover Effect to Footer Links on Home Page | Medium | [#282](https://github.com/omroy07/AgriTech/issues/282) |
-| Add Floating Chatbot Access Button on All Pages | Medium | [#281](https://github.com/omroy07/AgriTech/issues/281) |
+| Redesign the cards  on the home page | Medium | [#293](https://github.com/omroy07/AgriTech/issues/293) |
+| Added search bar | Medium | [#292](https://github.com/omroy07/AgriTech/pull/292) |
+| Add floating AI chatbot button on all pages | Medium | [#291](https://github.com/omroy07/AgriTech/pull/291) |
+| Logout Button updated now working | Medium | [#290](https://github.com/omroy07/AgriTech/pull/290) |
+| Add visible hover effects to footer links for improved UX | Medium | [#289](https://github.com/omroy07/AgriTech/pull/289) |
 | Email Notification Capabilities | Medium | [#279](https://github.com/omroy07/AgriTech/issues/279) |
 | Login page is not mobile responsive | Medium | [#272](https://github.com/omroy07/AgriTech/issues/272) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
 | Farmer Form Validated | Medium | [#267](https://github.com/omroy07/AgriTech/pull/267) |
 | Dark theme button not working on Yield Prediction ML analytics | Medium | [#266](https://github.com/omroy07/AgriTech/issues/266) |
-| logout button updated in mobile view | Medium | [#265](https://github.com/omroy07/AgriTech/pull/265) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#264](https://github.com/omroy07/AgriTech/pull/264) |
 | Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
 | Designing hamberg menu for services on mobile view | Medium | [#250](https://github.com/omroy07/AgriTech/issues/250) |
@@ -259,6 +261,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| improved menubar | Medium | [#238](https://github.com/openml-stack/SentiLog-AI/pull/238) |
 | Add "Show/Hide Password" Eye Icon in Signup and login form | Medium | [#237](https://github.com/openml-stack/SentiLog-AI/issues/237) |
 | Privacy Policy page enhancement | Medium | [#236](https://github.com/openml-stack/SentiLog-AI/issues/236) |
 | Enhance README with screenshots or visuals for better clarity | Medium | [#235](https://github.com/openml-stack/SentiLog-AI/issues/235) |
@@ -363,8 +366,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug/dark light mode | Medium | [#81](https://github.com/KrishChothani/CKsEdu/pull/81) |
-| Bug Fix: Quick-Links | Medium | [#80](https://github.com/KrishChothani/CKsEdu/pull/80) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
@@ -426,8 +427,8 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
+| Added links to the icons in Footer | Medium | [#95](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/95) |
 | ## 🔗 Related Issue Fixes #91  --- This PR addresses the branding improvements discussed in issue #91. | Medium | [#87](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/87) |
-| FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
 ---
