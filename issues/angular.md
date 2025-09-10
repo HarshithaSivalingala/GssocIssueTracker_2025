@@ -14,10 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add API integration to /leave endpoint | Easy | [#119](https://github.com/abhisek247767/PeopleHub-Frontend/pull/119) |
-| Update README Problem Statement | Medium | [#121](https://github.com/abhisek247767/PeopleHub-Frontend/issues/121) |
-| Not able to login as an Admin or Superadmin | Medium | [#120](https://github.com/abhisek247767/PeopleHub-Frontend/issues/120) |
-| Integrate Leaves count And all emaillist in Leaves Tab | Medium | [#118](https://github.com/abhisek247767/PeopleHub-Frontend/issues/118) |
+| Not able to login as an Admin or Superadmin | Easy | [#120](https://github.com/abhisek247767/PeopleHub-Frontend/issues/120) |
+| docs: add problem statement and improve README clarity | Medium | [#124](https://github.com/abhisek247767/PeopleHub-Frontend/pull/124) |
 | project tree structure rendering | Hard | [#96](https://github.com/abhisek247767/PeopleHub-Frontend/issues/96) |
 
 ---
