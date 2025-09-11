@@ -76,6 +76,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add: animations | Medium | [#80](https://github.com/LarytheLord/Adventurers-Guild/pull/80) |
 | Inconsistent background color and poor content visibility in "WHY JOIN" cards | Medium | [#79](https://github.com/LarytheLord/Adventurers-Guild/issues/79) |
 | Navbar navlinks should use bg-primary text-color with smooth hover animation for consistency | Medium | [#78](https://github.com/LarytheLord/Adventurers-Guild/issues/78) |
 | Improve visibility of numbered bullet points in "The Problem" section | Medium | [#77](https://github.com/LarytheLord/Adventurers-Guild/issues/77) |
