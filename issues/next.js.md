@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Events Page: Missing Search Button (Only Filter Available) | Medium | [#243](https://github.com/iaadillatif/techxninjas-client/issues/243) |
+| notification button not working | Medium | [#242](https://github.com/iaadillatif/techxninjas-client/issues/242) |
+| Edit profile Size issue | Medium | [#241](https://github.com/iaadillatif/techxninjas-client/issues/241) |
 | Add FAQ Page | Medium | [#240](https://github.com/iaadillatif/techxninjas-client/issues/240) |
 | Uneven Text Alignment in mentors meet | Medium | [#239](https://github.com/iaadillatif/techxninjas-client/issues/239) |
 | feat(auth): Disable paste for password fields on the registration form. | Medium | [#238](https://github.com/iaadillatif/techxninjas-client/pull/238) |
@@ -31,8 +34,6 @@
 | Added theme toggle | Medium | [#216](https://github.com/iaadillatif/techxninjas-client/pull/216) |
 | Add eye button to toggle password visibility in login and registratio… | Medium | [#214](https://github.com/iaadillatif/techxninjas-client/pull/214) |
 | Fix: Blue background extending incorrectly on Homepage (#204) | Medium | [#212](https://github.com/iaadillatif/techxninjas-client/pull/212) |
-| Revamp Footer Component with Modern Layout and Social Links | Medium | [#209](https://github.com/iaadillatif/techxninjas-client/pull/209) |
-| Fixes  #187 : Correct Gemini API Model for `generateContent` | Medium | [#208](https://github.com/iaadillatif/techxninjas-client/pull/208) |
 
 ---
 
@@ -50,6 +51,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Social Login Options on Signup Page | Medium | [#85](https://github.com/AdityaRalhan/Aluma/issues/85) |
 | the bots are not responding to the prompts i will be working on this issue | Medium | [#84](https://github.com/AdityaRalhan/Aluma/issues/84) |
 | Addition of automate issue create message | Medium | [#83](https://github.com/AdityaRalhan/Aluma/issues/83) |
 | Persistent Chatbot Memory | Medium | [#82](https://github.com/AdityaRalhan/Aluma/issues/82) |
@@ -71,7 +73,6 @@
 | We can add talk to professionals feature | Medium | [#56](https://github.com/AdityaRalhan/Aluma/issues/56) |
 | no descripton in the about section | Medium | [#55](https://github.com/AdityaRalhan/Aluma/issues/55) |
 | Add Signup, Signin, User Profile, Usage Limit & Premium Upgrade Feature | Medium | [#52](https://github.com/AdityaRalhan/Aluma/issues/52) |
-| Add Guided Breathing & Meditation Section | Medium | [#49](https://github.com/AdityaRalhan/Aluma/issues/49) |
 
 ---
 
@@ -112,6 +113,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Password Strength Indicator and Category Feature | Medium | [#129](https://github.com/amitkumardemo/EdgeCareer/issues/129) |
+| Add Placeholder for Username Field | Medium | [#128](https://github.com/amitkumardemo/EdgeCareer/issues/128) |
+| Add Navigation Bar for Home, About, Features, How it Works, FAQ | Medium | [#127](https://github.com/amitkumardemo/EdgeCareer/issues/127) |
+| Logo Not Visible in Dark Mode | Medium | [#126](https://github.com/amitkumardemo/EdgeCareer/issues/126) |
 | Registration: Missing "Confirm Password" Field | Medium | [#125](https://github.com/amitkumardemo/EdgeCareer/issues/125) |
 | Clerk Dev Mode User Limit Reached | Medium | [#124](https://github.com/amitkumardemo/EdgeCareer/issues/124) |
 | Mobile View Responsiveness Issue in "How It Works" Section | Medium | [#122](https://github.com/amitkumardemo/EdgeCareer/issues/122) |
@@ -129,8 +134,6 @@
 | Fix Beautifull Layout for Career Features on Smaller Screens and make it responsive | Medium | [#102](https://github.com/amitkumardemo/EdgeCareer/issues/102) |
 | Added Contribution Steps Infographic to README | Medium | [#100](https://github.com/amitkumardemo/EdgeCareer/pull/100) |
 | Improve Footer and Industry Insight Form UI for Better Visual Appeal | Medium | [#99](https://github.com/amitkumardemo/EdgeCareer/issues/99) |
-| Improve Loading States Across Gemini-API-Powered Components | Medium | [#97](https://github.com/amitkumardemo/EdgeCareer/pull/97) |
-| Footer Issues – Broken Resources Links & Mail Icon | Medium | [#95](https://github.com/amitkumardemo/EdgeCareer/issues/95) |
 
 ---
 
@@ -148,7 +151,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor API to a separate app, add v0 | Medium | [#2245](https://github.com/OWASP/Nest/pull/2245) |
+| Add sponsors API endpoints | Medium | [#2256](https://github.com/OWASP/Nest/issues/2256) |
 | UI/ux mentorship program update | Medium | [#2244](https://github.com/OWASP/Nest/pull/2244) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
@@ -159,12 +162,11 @@
 | Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
 | Migrate jest to v30 | Medium | [#2212](https://github.com/OWASP/Nest/issues/2212) |
 | Implement calendar events scheduling | Medium | [#2211](https://github.com/OWASP/Nest/pull/2211) |
-| Migrate @fortawesome/* to v7 | Medium | [#2210](https://github.com/OWASP/Nest/issues/2210) |
-| Maked Unified UserSummaryCard | Medium | [#2208](https://github.com/OWASP/Nest/pull/2208) |
 | Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
+| Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
 
 ---
 
@@ -182,6 +184,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(units): Metric/US toggle with instant conversions + persisted preference (#261) | Medium | [#271](https://github.com/Ayushjhawar8/Flavor-ai/pull/271) |
+| AI-Powered Ingredient Explore - added | Medium | [#270](https://github.com/Ayushjhawar8/Flavor-ai/pull/270) |
 | UI: Polish “Preparation Steps” section — spacing/readability + aligned TTS controls | Medium | [#269](https://github.com/Ayushjhawar8/Flavor-ai/pull/269) |
 | feat: Implement community recipe feature with upload, view functionalities | Hard | [#255](https://github.com/Ayushjhawar8/Flavor-ai/pull/255) |
 
@@ -320,13 +324,11 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Add Hover Effects to About Page Cards | Medium | [#218](https://github.com/mansiruhil/fail-u-forward/issues/218) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
 | Fixing entire css components of welcome page and main page | Medium | [#197](https://github.com/mansiruhil/fail-u-forward/issues/197) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
-| Improve Authentication Page UI and Error Handling | Medium | [#178](https://github.com/mansiruhil/fail-u-forward/issues/178) |
 | Add feature to connect any user from username or add friend section directly. | Medium | [#168](https://github.com/mansiruhil/fail-u-forward/issues/168) |
 
 ---
@@ -527,7 +529,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | [Feature]: Improve Functionality of Searchbar | Easy | [#303](https://github.com/recodehive/recode-website/issues/303) |
-| Added backend for leaderbaord | Medium | [#490](https://github.com/recodehive/recode-website/pull/490) |
+| 🐞[Bug]: Click Event on Python page | Medium | [#491](https://github.com/recodehive/recode-website/issues/491) |
 | [Feature]: redesign the /showcase page (making design consistent across the whole website) | Medium | [#460](https://github.com/recodehive/recode-website/issues/460) |
 | [Feature]: Enhance UI/UX of the Projects Showcase Page | Medium | [#437](https://github.com/recodehive/recode-website/issues/437) |
 
@@ -780,6 +782,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add: animations | Medium | [#80](https://github.com/LarytheLord/Adventurers-Guild/pull/80) |
 | Inconsistent background color and poor content visibility in "WHY JOIN" cards | Medium | [#79](https://github.com/LarytheLord/Adventurers-Guild/issues/79) |
 | Navbar navlinks should use bg-primary text-color with smooth hover animation for consistency | Medium | [#78](https://github.com/LarytheLord/Adventurers-Guild/issues/78) |
 | Improve visibility of numbered bullet points in "The Problem" section | Medium | [#77](https://github.com/LarytheLord/Adventurers-Guild/issues/77) |
@@ -805,10 +808,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Meta Data Fix, SEO Optimization & Favicon in Title Bar | Easy | [#27](https://github.com/AditiGupta-tech/neonest/issues/27) |
+| Optimize hero image for faster loading and dynamic appearance. | Medium | [#254](https://github.com/AditiGupta-tech/neonest/issues/254) |
+| Enhanced SEO with metadata and added favicon | Medium | [#253](https://github.com/AditiGupta-tech/neonest/pull/253) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
-| Enhancement: Redesign Navbar as a Collapsible Menu | Medium | [#142](https://github.com/AditiGupta-tech/neonest/issues/142) |
 
 ---
 
@@ -1009,24 +1012,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Fixed the overlapping card issue in post tab | Medium | [#173](https://github.com/harsh3dev/DevMatchups/pull/173) |
 | Bug: Favorites not loading and cannot be added | Medium | [#172](https://github.com/harsh3dev/DevMatchups/issues/172) |
 | Add validation for No. of team members field | Medium | [#134](https://github.com/harsh3dev/DevMatchups/issues/134) |
-
----
-
-## 📌 Project: Voice Marketing Agents
-
-📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
-
-🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
-
-💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| improved readme: Added GSSoC Banner and project insights | Medium | [#42](https://github.com/OpenVoiceX/Voice-Marketing-Agent/pull/42) |
 
 ---
 
@@ -1339,7 +1324,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| /docs/mainsections/team image not fully covering the container, added a ss for understanding | Medium | [#75](https://github.com/subhadeeproy3902/mvpblocks/issues/75) |
+| add a progress download button | Medium | [#87](https://github.com/subhadeeproy3902/mvpblocks/pull/87) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
@@ -1383,8 +1368,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| bug : Error while signin with google | Medium | [#162](https://github.com/vatsal-bhakodia/smriti-ai/issues/162) |
-| bug : Image not added width and height | Medium | [#161](https://github.com/vatsal-bhakodia/smriti-ai/issues/161) |
+| Enhanced visual appeal for How Smriti AI Works section | Medium | [#165](https://github.com/vatsal-bhakodia/smriti-ai/pull/165) |
 
 ---
 
