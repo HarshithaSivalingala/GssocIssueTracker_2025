@@ -60,7 +60,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
-| feat: Added confirm password field and enhanced the code | Medium | [#152](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/152) |
 | Lock scroll & trap focus in “Select Your Role” modal | Medium | [#151](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/151) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
@@ -86,11 +85,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Setup .gitignore to Clean Up the Project Structure | Medium | [#52](https://github.com/indra7777/frostiq/issues/52) |
 | Add a clear README.md to the project | Medium | [#51](https://github.com/indra7777/frostiq/issues/51) |
 | Resource-level authorization for deletion | Medium | [#50](https://github.com/indra7777/frostiq/issues/50) |
-| updated code_of_conduct.md | Medium | [#49](https://github.com/indra7777/frostiq/pull/49) |
 | improve code_of_conduct.md | Medium | [#48](https://github.com/indra7777/frostiq/issues/48) |
 | Add UUID field to Favorite model for secure and unique API identification | Medium | [#47](https://github.com/indra7777/frostiq/issues/47) |
 | Implement FastAPI Email Verification and JWT based login Auth | Medium | [#46](https://github.com/indra7777/frostiq/issues/46) |
-| feat: Implement comprehensive global exception handling system for FastAPI backend #21 | Medium | [#45](https://github.com/indra7777/frostiq/pull/45) |
 | Add Authentication & Authorization | Medium | [#44](https://github.com/indra7777/frostiq/issues/44) |
 | Create authAPI.py | Medium | [#43](https://github.com/indra7777/frostiq/pull/43) |
 | Create admins.py | Medium | [#42](https://github.com/indra7777/frostiq/pull/42) |
@@ -175,9 +172,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Request: Make Notification Bell Clickable | Medium | [#491](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/491) |
-| Feedback Page Missing Navigation Options (No Back/Quit/Home Buttons) | Medium | [#490](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/490) |
-| Adding to back to home button in practice interview section | Medium | [#489](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/489) |
+| added close 'X' btn to navigate back to the previous page | Medium | [#493](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/493) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
@@ -197,6 +192,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesigning of about us page footer | Medium | [#297](https://github.com/omroy07/AgriTech/issues/297) |
+| Incorrect Dark/Light Mode Icons | Medium | [#296](https://github.com/omroy07/AgriTech/issues/296) |
+| Remove list style | Medium | [#295](https://github.com/omroy07/AgriTech/pull/295) |
 | Redesign the cards  on the home page | Medium | [#293](https://github.com/omroy07/AgriTech/issues/293) |
 | Added search bar | Medium | [#292](https://github.com/omroy07/AgriTech/pull/292) |
 | Add floating AI chatbot button on all pages | Medium | [#291](https://github.com/omroy07/AgriTech/pull/291) |
@@ -206,12 +204,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Login page is not mobile responsive | Medium | [#272](https://github.com/omroy07/AgriTech/issues/272) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
 | Farmer Form Validated | Medium | [#267](https://github.com/omroy07/AgriTech/pull/267) |
-| Dark theme button not working on Yield Prediction ML analytics | Medium | [#266](https://github.com/omroy07/AgriTech/issues/266) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#264](https://github.com/omroy07/AgriTech/pull/264) |
 | Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
 | Designing hamberg menu for services on mobile view | Medium | [#250](https://github.com/omroy07/AgriTech/issues/250) |
 | Automated Plant Seedlings Classification with CNN Architectures | Medium | [#239](https://github.com/omroy07/AgriTech/issues/239) |
-| Theme dark mode not changing color of text | Medium | [#237](https://github.com/omroy07/AgriTech/issues/237) |
 
 ---
 
@@ -301,6 +297,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Specialist recommendation text not fully visible and faded | Medium | [#174](https://github.com/aayushraj1010/med-genie/issues/174) |
 | The footer links Cookie Policy and Terms of Use are not working — both lead to missing/404 pages. | Medium | [#173](https://github.com/aayushraj1010/med-genie/issues/173) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
