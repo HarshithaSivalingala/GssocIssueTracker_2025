@@ -90,7 +90,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add label and color preview to Saved Pages | Medium | [#89](https://github.com/may-tas/TextEditingApp/pull/89) |
 | Improve Text Shadow & Glow | Medium | [#74](https://github.com/may-tas/TextEditingApp/issues/74) |
 
 ---
