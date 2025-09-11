@@ -37,16 +37,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactored dark mode initialization and updated toggle button icon state | Medium | [#453](https://github.com/gyanshankar1708/GrowCraft/pull/453) |
-| additional space below footer in blogwrite page | Medium | [#449](https://github.com/gyanshankar1708/GrowCraft/issues/449) |
-| Improve Flashcards Theme & Revamp Homepage About Us Section | Medium | [#448](https://github.com/gyanshankar1708/GrowCraft/issues/448) |
-| Enahance the issue templates | Medium | [#447](https://github.com/gyanshankar1708/GrowCraft/issues/447) |
-| Add Autocomment on PR | Medium | [#446](https://github.com/gyanshankar1708/GrowCraft/issues/446) |
+| In home Our Work tab link issue resolve | Medium | [#465](https://github.com/gyanshankar1708/GrowCraft/pull/465) |
 | Add the workflows for autocomment on Issue creation | Medium | [#445](https://github.com/gyanshankar1708/GrowCraft/issues/445) |
 | Redesign the complete  homepage | Medium | [#444](https://github.com/gyanshankar1708/GrowCraft/issues/444) |
-| Add  Service page | Medium | [#443](https://github.com/gyanshankar1708/GrowCraft/issues/443) |
-| Add The Privacy page | Medium | [#442](https://github.com/gyanshankar1708/GrowCraft/issues/442) |
-| Redesign the page | Medium | [#441](https://github.com/gyanshankar1708/GrowCraft/pull/441) |
 | Style the About Page | Medium | [#425](https://github.com/gyanshankar1708/GrowCraft/pull/425) |
 | Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
 | Refactor: Move inline CSS & JS to external files and update paths accordingly | Medium | [#391](https://github.com/gyanshankar1708/GrowCraft/pull/391) |
@@ -69,6 +62,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| Fix issue #85 | Medium | [#152](https://github.com/Pujan-sarkar/FARMLOC/pull/152) |
 | Enhanced Contact Form and Added the SMTP Server service to send email to user and owner. | Medium | [#151](https://github.com/Pujan-sarkar/FARMLOC/pull/151) |
 | <in login/ sign up pages buttons are not working> | Medium | [#148](https://github.com/Pujan-sarkar/FARMLOC/issues/148) |
 | Find Cold Storage section is not working | Medium | [#145](https://github.com/Pujan-sarkar/FARMLOC/issues/145) |
