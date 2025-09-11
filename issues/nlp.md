@@ -14,11 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement GitHub Bot to Auto-Respond to New Pull Requests | Medium | [#59](https://github.com/CharithaReddy18/AI-health-chatbot/issues/59) |
-| Implement GitHub Bot to Auto-Respond to New Issues | Medium | [#58](https://github.com/CharithaReddy18/AI-health-chatbot/issues/58) |
-| Create GitHub Issue Template for Standardized Reporting | Medium | [#57](https://github.com/CharithaReddy18/AI-health-chatbot/issues/57) |
-| Added back to top redirection in readme.md | Medium | [#56](https://github.com/CharithaReddy18/AI-health-chatbot/pull/56) |
-| Refactor: Clean Up Root Directory File Structure | Medium | [#55](https://github.com/CharithaReddy18/AI-health-chatbot/issues/55) |
+| Modernize Project README for Enhanced Professional Presentation | Medium | [#61](https://github.com/CharithaReddy18/AI-health-chatbot/issues/61) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
