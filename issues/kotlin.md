@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| Refactor: Replace magic number with constant in LlamaClient | Medium | [#69](https://github.com/A-Akhil/Astra-Ai/pull/69) |
 | Refactor & Enhance: Improve item_message_assistant.xml Layout | Medium | [#68](https://github.com/A-Akhil/Astra-Ai/issues/68) |
 | Feature Request: Persistent Chat History with Search & Export | Medium | [#67](https://github.com/A-Akhil/Astra-Ai/issues/67) |
 | Suggestion to add a CONTRIBUTING.md file | Medium | [#66](https://github.com/A-Akhil/Astra-Ai/issues/66) |
@@ -120,7 +120,6 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [UPLOAD PAGE] INSTRUCTIONAL SNACKBAR | Easy | [#45](https://github.com/sayan0328/WallGodds-App/issues/45) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
 
 ---
@@ -139,6 +138,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a CONTRIBUTING.md File to project | Medium | [#420](https://github.com/yuvrajsinghgmx/ShopSmart/issues/420) |
 | fix(login): add validation for phone number and OTP | Medium | [#419](https://github.com/yuvrajsinghgmx/ShopSmart/pull/419) |
 | Implement Get API for  Favorite Shops and Products. | Medium | [#417](https://github.com/yuvrajsinghgmx/ShopSmart/issues/417) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
