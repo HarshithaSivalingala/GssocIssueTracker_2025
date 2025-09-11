@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Deploy project on free hosting platforms for easy access by contributors | Medium | [#42](https://github.com/sachiikrish/AttendanceTracker/issues/42) |
 | Added calendar UI with attendance tracking feature | Medium | [#41](https://github.com/sachiikrish/AttendanceTracker/pull/41) |
 | Add the toaster notifications. | Medium | [#40](https://github.com/sachiikrish/AttendanceTracker/pull/40) |
 | Adding Contributing.md | Medium | [#39](https://github.com/sachiikrish/AttendanceTracker/issues/39) |
