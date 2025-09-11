@@ -115,13 +115,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Add Hover Effects to About Page Cards | Medium | [#218](https://github.com/mansiruhil/fail-u-forward/issues/218) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Transform landing page to improve user friendly | Medium | [#199](https://github.com/mansiruhil/fail-u-forward/issues/199) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
 | Fixing entire css components of welcome page and main page | Medium | [#197](https://github.com/mansiruhil/fail-u-forward/issues/197) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
-| Improve Authentication Page UI and Error Handling | Medium | [#178](https://github.com/mansiruhil/fail-u-forward/issues/178) |
 | Add feature to connect any user from username or add friend section directly. | Medium | [#168](https://github.com/mansiruhil/fail-u-forward/issues/168) |
 
 ---
@@ -144,7 +142,6 @@
 | UPLOAD PAGE FOR TABLET WALLPAPERS | Easy | [#127](https://github.com/Parnab03/WallGodds/issues/127) |
 | 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/Parnab03/WallGodds/issues/87) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#8](https://github.com/Parnab03/WallGodds/issues/8) |
-| Feature | Medium | [#144](https://github.com/Parnab03/WallGodds/pull/144) |
 | Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/Parnab03/WallGodds/issues/123) |
 | DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/Parnab03/WallGodds/issues/111) |
 | ABOUT US IN MOBILE VERSION | Medium | [#88](https://github.com/Parnab03/WallGodds/issues/88) |
@@ -257,7 +254,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [UPLOAD PAGE] INSTRUCTIONAL SNACKBAR | Easy | [#45](https://github.com/sayan0328/WallGodds-App/issues/45) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
 
 ---
@@ -290,24 +286,6 @@
 | Implementation of TImeTable | Medium | [#18](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/18) |
 | Make it a progressive web app (PWA) | Medium | [#16](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/16) |
 | Fixed the issue | Medium | [#4](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/4) |
-
----
-
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| feat: Implement dark+light mode support across the website | Medium | [#196](https://github.com/SurajSG23/PrepBuddy/pull/196) |
 
 ---
 
@@ -512,6 +490,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Made Student Reviews Banner Auto-Scroll | Medium | [#85](https://github.com/lovelymahor/StudyMatePlus/pull/85) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Feat/dark mode global issue #82 | Medium | [#83](https://github.com/lovelymahor/StudyMatePlus/pull/83) |
 | Add global Dark/Light mode with persistent toggle | Medium | [#82](https://github.com/lovelymahor/StudyMatePlus/issues/82) |
