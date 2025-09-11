@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+|  | Medium | [#73](https://github.com/HimanshuHeda/Zip_Tales/issues/73) |
+| Implement a User Contact Form | Medium | [#72](https://github.com/HimanshuHeda/Zip_Tales/issues/72) |
 | Add Back to Top button in footer | Medium | [#71](https://github.com/HimanshuHeda/Zip_Tales/issues/71) |
 | Improve footer section with links and layout | Medium | [#70](https://github.com/HimanshuHeda/Zip_Tales/pull/70) |
 | Add a landing page to the app | Medium | [#67](https://github.com/HimanshuHeda/Zip_Tales/issues/67) |
@@ -162,6 +164,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add: animations | Medium | [#80](https://github.com/LarytheLord/Adventurers-Guild/pull/80) |
 | Inconsistent background color and poor content visibility in "WHY JOIN" cards | Medium | [#79](https://github.com/LarytheLord/Adventurers-Guild/issues/79) |
 | Navbar navlinks should use bg-primary text-color with smooth hover animation for consistency | Medium | [#78](https://github.com/LarytheLord/Adventurers-Guild/issues/78) |
 | Improve visibility of numbered bullet points in "The Problem" section | Medium | [#77](https://github.com/LarytheLord/Adventurers-Guild/issues/77) |
