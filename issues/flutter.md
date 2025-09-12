@@ -90,6 +90,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add text alignment support in editor | Medium | [#91](https://github.com/may-tas/TextEditingApp/pull/91) |
 | Improve Text Shadow & Glow | Medium | [#74](https://github.com/may-tas/TextEditingApp/issues/74) |
 
 ---
