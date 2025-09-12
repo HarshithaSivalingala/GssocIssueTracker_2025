@@ -37,8 +37,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| In home Our Work tab link issue resolve | Medium | [#465](https://github.com/gyanshankar1708/GrowCraft/pull/465) |
-| Add the workflows for autocomment on Issue creation | Medium | [#445](https://github.com/gyanshankar1708/GrowCraft/issues/445) |
+| Glassmorphic services flashcards and modern About Us section (single … | Medium | [#477](https://github.com/gyanshankar1708/GrowCraft/pull/477) |
+| Fix logo color when theme is toggled | Medium | [#476](https://github.com/gyanshankar1708/GrowCraft/pull/476) |
+| fix the color of search box in light theme and fix the spacing inside the about-us cards | Medium | [#474](https://github.com/gyanshankar1708/GrowCraft/issues/474) |
 | Redesign the complete  homepage | Medium | [#444](https://github.com/gyanshankar1708/GrowCraft/issues/444) |
 | Style the About Page | Medium | [#425](https://github.com/gyanshankar1708/GrowCraft/pull/425) |
 | Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
