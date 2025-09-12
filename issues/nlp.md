@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Modernize Project README for Enhanced Professional Presentation | Medium | [#61](https://github.com/CharithaReddy18/AI-health-chatbot/issues/61) |
+| Project structure Improved | Medium | [#66](https://github.com/CharithaReddy18/AI-health-chatbot/pull/66) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
