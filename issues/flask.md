@@ -59,6 +59,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue A: Improve Input Validation for Auth & API Routes | Medium | [#154](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/154) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | Lock scroll & trap focus in “Select Your Role” modal | Medium | [#151](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/151) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
@@ -172,7 +173,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added close 'X' btn to navigate back to the previous page | Medium | [#493](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/493) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
@@ -192,14 +192,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Redesigning of about us page footer | Medium | [#297](https://github.com/omroy07/AgriTech/issues/297) |
 | Incorrect Dark/Light Mode Icons | Medium | [#296](https://github.com/omroy07/AgriTech/issues/296) |
 | Remove list style | Medium | [#295](https://github.com/omroy07/AgriTech/pull/295) |
 | Redesign the cards  on the home page | Medium | [#293](https://github.com/omroy07/AgriTech/issues/293) |
 | Added search bar | Medium | [#292](https://github.com/omroy07/AgriTech/pull/292) |
 | Add floating AI chatbot button on all pages | Medium | [#291](https://github.com/omroy07/AgriTech/pull/291) |
-| Logout Button updated now working | Medium | [#290](https://github.com/omroy07/AgriTech/pull/290) |
-| Add visible hover effects to footer links for improved UX | Medium | [#289](https://github.com/omroy07/AgriTech/pull/289) |
 | Email Notification Capabilities | Medium | [#279](https://github.com/omroy07/AgriTech/issues/279) |
 | Login page is not mobile responsive | Medium | [#272](https://github.com/omroy07/AgriTech/issues/272) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
@@ -208,6 +205,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
 | Designing hamberg menu for services on mobile view | Medium | [#250](https://github.com/omroy07/AgriTech/issues/250) |
 | Automated Plant Seedlings Classification with CNN Architectures | Medium | [#239](https://github.com/omroy07/AgriTech/issues/239) |
+| Theme dark mode not changing color of text | Medium | [#237](https://github.com/omroy07/AgriTech/issues/237) |
 
 ---
 
@@ -424,8 +422,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
-| Added links to the icons in Footer | Medium | [#95](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/95) |
-| ## 🔗 Related Issue Fixes #91  --- This PR addresses the branding improvements discussed in issue #91. | Medium | [#87](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/87) |
+| Added links for icons of footer | Medium | [#96](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/96) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
 ---
