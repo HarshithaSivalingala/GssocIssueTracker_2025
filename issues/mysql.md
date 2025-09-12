@@ -136,6 +136,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Concurrency Issue in Appointment Booking | Medium | [#56](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/56) |
 | Update Readme | Medium | [#55](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/55) |
 | Enhancement: Secure API Endpoints using JWT Authentication | Medium | [#51](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/51) |
 
