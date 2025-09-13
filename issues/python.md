@@ -73,11 +73,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add advanced custom form validation to CareCoPilot form | Medium | [#285](https://github.com/Amarjha01/InfantCareCompass/pull/285) |
+| Navbar Desktop Alignment Fixed | Medium | [#280](https://github.com/Amarjha01/InfantCareCompass/pull/280) |
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
-| Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 
 ---
 
@@ -219,6 +220,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add cursor pointer to Sign In button | Easy | [#2269](https://github.com/OWASP/Nest/issues/2269) |
+| fix: added pointer cursor to Upcoming Events links | Medium | [#2271](https://github.com/OWASP/Nest/pull/2271) |
 | add cursor pointer in login buttons | Medium | [#2270](https://github.com/OWASP/Nest/pull/2270) |
 | UI/ux mentorship program update | Medium | [#2244](https://github.com/OWASP/Nest/pull/2244) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
@@ -233,7 +235,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
-| Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
 
 ---
 
@@ -259,6 +260,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Issue A: Improve Input Validation for Auth & API Routes | Medium | [#154](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/154) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | Lock scroll & trap focus in “Select Your Role” modal | Medium | [#151](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/151) |
@@ -531,7 +533,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Incorrect Dark/Light Mode Icons | Medium | [#296](https://github.com/omroy07/AgriTech/issues/296) |
-| Remove list style | Medium | [#295](https://github.com/omroy07/AgriTech/pull/295) |
 | Redesign the cards  on the home page | Medium | [#293](https://github.com/omroy07/AgriTech/issues/293) |
 | Added search bar | Medium | [#292](https://github.com/omroy07/AgriTech/pull/292) |
 | Add floating AI chatbot button on all pages | Medium | [#291](https://github.com/omroy07/AgriTech/pull/291) |
@@ -835,15 +836,14 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | README cleanup (duplicate banner + missing alt text) | Easy | [#151](https://github.com/eccentriccoder01/TalkHeal/issues/151) |
+| User profile name not syncing between signup, sidebar, and main window | Medium | [#169](https://github.com/eccentriccoder01/TalkHeal/issues/169) |
+| Mood Trend Analytics & Predictive Alerts | Medium | [#164](https://github.com/eccentriccoder01/TalkHeal/issues/164) |
+| Add Feedback Buttons for Chatbot Responses | Medium | [#162](https://github.com/eccentriccoder01/TalkHeal/issues/162) |
 | Authentication-related messages are barely visible. | Medium | [#160](https://github.com/eccentriccoder01/TalkHeal/issues/160) |
 | Improve User Interface for Emotional Journaling | Medium | [#159](https://github.com/eccentriccoder01/TalkHeal/issues/159) |
-| Bug: Login Page button Text Visibility problem on Hover | Medium | [#158](https://github.com/eccentriccoder01/TalkHeal/issues/158) |
 | Add Dark Mode & High-Contrast Theme for Accessibility | Medium | [#147](https://github.com/eccentriccoder01/TalkHeal/issues/147) |
 | Session Persistence – Clarification | Medium | [#129](https://github.com/eccentriccoder01/TalkHeal/issues/129) |
 | Add Multi Language Support | Medium | [#120](https://github.com/eccentriccoder01/TalkHeal/issues/120) |
-| Enhance Emotion Detection with Specialized Transformer Model | Medium | [#89](https://github.com/eccentriccoder01/TalkHeal/pull/89) |
-| Enhance Emotion Detection with Specialized Transformer Model | Medium | [#88](https://github.com/eccentriccoder01/TalkHeal/issues/88) |
-| 🧠 Feature Request: Smart Conversation History with Multi-Threaded Support | Medium | [#87](https://github.com/eccentriccoder01/TalkHeal/issues/87) |
 
 ---
 
@@ -861,6 +861,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added initial EDA notebook: Contributes to progress on #24 | Medium | [#40](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/40) |
 | Fixed: Add Advanced ML Model (XGBoost or SVR) for Price Prediction | Medium | [#39](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/39) |
 | Enhancing the ui of the website | Medium | [#38](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/38) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
@@ -887,6 +888,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added team roles | Medium | [#71](https://github.com/sania28/clubmate/pull/71) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -907,6 +909,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Allow Users to Cancel or Modify Their Reservations | Medium | [#22](https://github.com/santhoshkumar1204/hotel-table-reservation-system/issues/22) |
 | feat: Add password hashing and security enhancements #18 | Medium | [#21](https://github.com/santhoshkumar1204/hotel-table-reservation-system/pull/21) |
 | Implement Sign Up & Login Validation | Medium | [#20](https://github.com/santhoshkumar1204/hotel-table-reservation-system/issues/20) |
 | Add a Responsive Home Screen GUI | Medium | [#19](https://github.com/santhoshkumar1204/hotel-table-reservation-system/issues/19) |
@@ -1145,6 +1148,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement of Hero Section | Medium | [#228](https://github.com/ygowthamr/WhitePaper/issues/228) |
 | Addition of pr create automate message | Medium | [#227](https://github.com/ygowthamr/WhitePaper/issues/227) |
 | Fixed Critical Security & Performance Issues | Medium | [#226](https://github.com/ygowthamr/WhitePaper/pull/226) |
 | Bug: [Critical] Missing import statement causing runtime crash in note creation and editing | Medium | [#225](https://github.com/ygowthamr/WhitePaper/issues/225) |
@@ -1174,7 +1178,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | feat: implement secure environment variable configuration | Medium | [#180](https://github.com/ygowthamr/WhitePaper/pull/180) |
 | ADD PRIVACY POLICY PAGE | Medium | [#178](https://github.com/ygowthamr/WhitePaper/issues/178) |
 | to add a toggle button | Medium | [#177](https://github.com/ygowthamr/WhitePaper/issues/177) |
-| Fix: Exposed GitHub OAuth Credentials and Hardcoded Secret Key | Medium | [#176](https://github.com/ygowthamr/WhitePaper/pull/176) |
 
 ---
 
@@ -1194,6 +1197,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Specialist recommendation text not fully visible and faded | Medium | [#174](https://github.com/aayushraj1010/med-genie/issues/174) |
 | The footer links Cookie Policy and Terms of Use are not working — both lead to missing/404 pages. | Medium | [#173](https://github.com/aayushraj1010/med-genie/issues/173) |
@@ -1717,7 +1721,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Project structure Improved | Medium | [#66](https://github.com/CharithaReddy18/AI-health-chatbot/pull/66) |
+| Add GitHub Issue Templates for Consistent Reporting | Medium | [#68](https://github.com/CharithaReddy18/AI-health-chatbot/pull/68) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
@@ -1799,7 +1803,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed:  Enhancement of README.md | Medium | [#40](https://github.com/AKing-283/Rewear/pull/40) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
 
 ---
