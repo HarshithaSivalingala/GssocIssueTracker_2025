@@ -62,6 +62,7 @@ Accessibility features like dark mode,white.
 | Feature Sync Admin-Added Courses with User Course Display | Easy | [#350](https://github.com/abhisek2004/Dev-Elevate/issues/350) |
 | [Enhancement] Expand Job Opportunities Feed with Multiple Platforms | Easy | [#229](https://github.com/abhisek2004/Dev-Elevate/issues/229) |
 | [Feature] Integrate ATS Scanner into Resume Builder – #NewFeature | Easy | [#228](https://github.com/abhisek2004/Dev-Elevate/issues/228) |
+| Add Monitoring Setup (Phase 1: UptimeRobot) | Medium | [#444](https://github.com/abhisek2004/Dev-Elevate/pull/444) |
 | Add Header and Hero components | Medium | [#437](https://github.com/abhisek2004/Dev-Elevate/pull/437) |
 
 ---
@@ -81,6 +82,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add cursor pointer to Sign In button | Easy | [#2269](https://github.com/OWASP/Nest/issues/2269) |
+| fix: added pointer cursor to Upcoming Events links | Medium | [#2271](https://github.com/OWASP/Nest/pull/2271) |
 | add cursor pointer in login buttons | Medium | [#2270](https://github.com/OWASP/Nest/pull/2270) |
 | UI/ux mentorship program update | Medium | [#2244](https://github.com/OWASP/Nest/pull/2244) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
@@ -95,7 +97,6 @@ Accessibility features like dark mode,white.
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
-| Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
 
 ---
 
@@ -137,6 +138,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Add search and filter options to Customers page | Medium | [#72](https://github.com/Altair-05/CodeBrosPlatform/pull/72) |
 | Fix: Implement real-time fetching of mutual connections | Medium | [#70](https://github.com/Altair-05/CodeBrosPlatform/pull/70) |
 | Fix Connection Request Flow + Client/Server Type Alignment | Medium | [#69](https://github.com/Altair-05/CodeBrosPlatform/pull/69) |
 | feat: mutual connections on profile page; remove temp render from App | Medium | [#68](https://github.com/Altair-05/CodeBrosPlatform/pull/68) |
@@ -191,6 +193,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Header component fails to render, causing layout collapse and hiding page content | Medium | [#75](https://github.com/HimanshuHeda/Zip_Tales/issues/75) |
+| Implement User Contact Form | Medium | [#74](https://github.com/HimanshuHeda/Zip_Tales/pull/74) |
 |  | Medium | [#73](https://github.com/HimanshuHeda/Zip_Tales/issues/73) |
 | Implement a User Contact Form | Medium | [#72](https://github.com/HimanshuHeda/Zip_Tales/issues/72) |
 | Add Back to Top button in footer | Medium | [#71](https://github.com/HimanshuHeda/Zip_Tales/issues/71) |
@@ -213,7 +217,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Invalid or null Linkedin url | Medium | [#227](https://github.com/mansiruhil/fail-u-forward/issues/227) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -359,7 +362,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Newsletter subscription redirects to homepage instead of showing toast | Easy | [#71](https://github.com/rahulkhandait-sde/cineverse/issues/71) |
+| Updating Github About section | Easy | [#75](https://github.com/rahulkhandait-sde/cineverse/issues/75) |
+| Add Google Authentication using Firebase to enable secure and seamless login for CineVerse users. | Easy | [#74](https://github.com/rahulkhandait-sde/cineverse/issues/74) |
 | feat: add CONTRIBUTING.md file (addresses #19) | Medium | [#73](https://github.com/rahulkhandait-sde/cineverse/pull/73) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 | Improve Dark Mode with "Cinematic Glow" | Medium | [#70](https://github.com/rahulkhandait-sde/cineverse/issues/70) |
@@ -420,6 +424,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding Feedback box section on the website | Medium | [#25](https://github.com/sailaja-adapa/GuruShish/issues/25) |
 | issue with UI of login form and home page UI | Medium | [#24](https://github.com/sailaja-adapa/GuruShish/issues/24) |
 | Add Online Class Integration (Video Call Feature) | Medium | [#23](https://github.com/sailaja-adapa/GuruShish/issues/23) |
 | Add environment configuration and update dependencies | Medium | [#22](https://github.com/sailaja-adapa/GuruShish/pull/22) |
@@ -458,7 +463,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add more components to the "Builder" | Hard | [#90](https://github.com/SamXop123/RigCrafter/issues/90) |
+| Feature: Implement Price Tracking and Alerts for Components | Medium | [#95](https://github.com/SamXop123/RigCrafter/issues/95) |
+| Enhancement: Add Filter by Availability for Components | Medium | [#94](https://github.com/SamXop123/RigCrafter/issues/94) |
+| Add more components to the Builder | Hard | [#96](https://github.com/SamXop123/RigCrafter/issues/96) |
 
 ---
 
@@ -594,7 +601,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhance benefit cards with hover effect and light/dark mode support | Medium | [#81](https://github.com/LarytheLord/Adventurers-Guild/pull/81) |
-| Add: animations | Medium | [#80](https://github.com/LarytheLord/Adventurers-Guild/pull/80) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -615,7 +621,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement New UI Based on Figma Design Using Pure CSS (No TailwindCSS) | Easy | [#17](https://github.com/ajaynegi45/Old-School-Game/issues/17) |
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
 
@@ -978,6 +983,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| line remove(contributors.md) | Medium | [#65](https://github.com/EasyGoDocs/easygodocs/pull/65) |
+| line remove(readme.md) | Medium | [#64](https://github.com/EasyGoDocs/easygodocs/pull/64) |
 | V1 oindil | Medium | [#60](https://github.com/EasyGoDocs/easygodocs/pull/60) |
 | Docs must be simpler. We provide simple solutions. | Medium | [#58](https://github.com/EasyGoDocs/easygodocs/issues/58) |
 
@@ -997,8 +1004,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump react-router-dom from 6.28.2 to 7.9.0 | Medium | [#105](https://github.com/Ojas-Arora/SapneSeSafar/pull/105) |
+| Bump axios from 1.7.9 to 1.12.1 | Medium | [#104](https://github.com/Ojas-Arora/SapneSeSafar/pull/104) |
 | Bump lucide-react from 0.344.0 to 0.544.0 | Medium | [#103](https://github.com/Ojas-Arora/SapneSeSafar/pull/103) |
-| Bump axios from 1.7.9 to 1.12.0 | Medium | [#102](https://github.com/Ojas-Arora/SapneSeSafar/pull/102) |
 | Bump recharts from 2.15.0 to 3.2.0 | Medium | [#100](https://github.com/Ojas-Arora/SapneSeSafar/pull/100) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.57.4 | Medium | [#99](https://github.com/Ojas-Arora/SapneSeSafar/pull/99) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
@@ -1007,7 +1015,6 @@ Fast Workflow Tools
 | Bump tailwindcss from 3.4.17 to 4.1.13 | Medium | [#94](https://github.com/Ojas-Arora/SapneSeSafar/pull/94) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.2 | Medium | [#89](https://github.com/Ojas-Arora/SapneSeSafar/pull/89) |
-| Bump react-router-dom from 6.28.2 to 7.8.2 | Medium | [#85](https://github.com/Ojas-Arora/SapneSeSafar/pull/85) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
@@ -1079,6 +1086,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Lack of animation | Medium | [#43](https://github.com/open-xyz/xmail/issues/43) |
 | Implement User Login & Registration with Clerk for Enhanced Authentication & Trust | Medium | [#42](https://github.com/open-xyz/xmail/issues/42) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#41](https://github.com/open-xyz/xmail/issues/41) |
 | 💄 UI  : GSSoC'25 Contributor Issue: Heading Misalignment in Hero Section | Medium | [#40](https://github.com/open-xyz/xmail/issues/40) |
@@ -1196,7 +1204,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add a progress download button | Medium | [#87](https://github.com/subhadeeproy3902/mvpblocks/pull/87) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
