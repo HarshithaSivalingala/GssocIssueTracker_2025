@@ -46,6 +46,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implemented get API for favorite Shops and Products | Medium | [#425](https://github.com/yuvrajsinghgmx/ShopSmart/pull/425) |
 | Add a CONTRIBUTING.md File to project | Medium | [#420](https://github.com/yuvrajsinghgmx/ShopSmart/issues/420) |
 | Implement Get API for  Favorite Shops and Products. | Medium | [#417](https://github.com/yuvrajsinghgmx/ShopSmart/issues/417) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
@@ -123,7 +124,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update readme file | Easy | [#250](https://github.com/SandeepVashishtha/Eventra/issues/250) |
-| Card improvements community | Medium | [#257](https://github.com/SandeepVashishtha/Eventra/pull/257) |
 | Missing Role Selection Field in React Signup Form | Medium | [#248](https://github.com/SandeepVashishtha/Eventra/issues/248) |
 
 ---
