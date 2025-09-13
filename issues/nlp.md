@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Project structure Improved | Medium | [#66](https://github.com/CharithaReddy18/AI-health-chatbot/pull/66) |
+| Add GitHub Issue Templates for Consistent Reporting | Medium | [#68](https://github.com/CharithaReddy18/AI-health-chatbot/pull/68) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
