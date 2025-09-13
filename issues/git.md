@@ -14,11 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add advanced custom form validation to CareCoPilot form | Medium | [#285](https://github.com/Amarjha01/InfantCareCompass/pull/285) |
+| Navbar Desktop Alignment Fixed | Medium | [#280](https://github.com/Amarjha01/InfantCareCompass/pull/280) |
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
-| Fix: Footer Services scroll functionality | Medium | [#215](https://github.com/Amarjha01/InfantCareCompass/pull/215) |
 
 ---
 
@@ -41,6 +42,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement: Add Budget Manager & ML-based Hotel/Restaurant Recommendations | Medium | [#462](https://github.com/Bhavya1352/eventmappr/issues/462) |
 | Registration: Missing "Confirm Password" Field | Medium | [#461](https://github.com/Bhavya1352/eventmappr/issues/461) |
 | about us page enhancement | Medium | [#460](https://github.com/Bhavya1352/eventmappr/issues/460) |
 | Show Recently Searched Events on Search Page | Medium | [#459](https://github.com/Bhavya1352/eventmappr/issues/459) |
@@ -72,6 +74,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Footer with social links is not properly designed | Medium | [#113](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/113) |
 | Feature Request: Add Password Visibility Toggle (Eye Icon) to Password Fields | Medium | [#112](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/112) |
 | Added pagination | Medium | [#111](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/111) |
 | UI improvements for Teacher Leave Requests page | Medium | [#109](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/109) |
@@ -232,6 +235,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Specialist recommendation text not fully visible and faded | Medium | [#174](https://github.com/aayushraj1010/med-genie/issues/174) |
 | The footer links Cookie Policy and Terms of Use are not working — both lead to missing/404 pages. | Medium | [#173](https://github.com/aayushraj1010/med-genie/issues/173) |
@@ -258,8 +262,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Optimize hero image for faster loading and dynamic appearance. | Medium | [#254](https://github.com/AditiGupta-tech/neonest/issues/254) |
-| Enhanced SEO with metadata and added favicon | Medium | [#253](https://github.com/AditiGupta-tech/neonest/pull/253) |
+| fix: Redesign navbar with collapsible sidebar | Medium | [#260](https://github.com/AditiGupta-tech/neonest/pull/260) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
@@ -431,6 +434,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| improved UI of the landing page | Medium | [#196](https://github.com/dipexplorer/LegalHuB/pull/196) |
 | Integrate Google OAuth for User Authentication | Medium | [#185](https://github.com/dipexplorer/LegalHuB/pull/185) |
 | Add Dedicated Admin Dashboard Navbar for Easy Access | Hard | [#170](https://github.com/dipexplorer/LegalHuB/issues/170) |
 
@@ -479,7 +483,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Made Student Reviews Banner Auto-Scroll | Medium | [#85](https://github.com/lovelymahor/StudyMatePlus/pull/85) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Feat/dark mode global issue #82 | Medium | [#83](https://github.com/lovelymahor/StudyMatePlus/pull/83) |
 | Add global Dark/Light mode with persistent toggle | Medium | [#82](https://github.com/lovelymahor/StudyMatePlus/issues/82) |
@@ -561,7 +564,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update readme file | Easy | [#250](https://github.com/SandeepVashishtha/Eventra/issues/250) |
-| Card improvements community | Medium | [#257](https://github.com/SandeepVashishtha/Eventra/pull/257) |
 | Missing Role Selection Field in React Signup Form | Medium | [#248](https://github.com/SandeepVashishtha/Eventra/issues/248) |
 
 ---
