@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add cursor pointer to Sign In button | Easy | [#2269](https://github.com/OWASP/Nest/issues/2269) |
+| fix: added pointer cursor to Upcoming Events links | Medium | [#2271](https://github.com/OWASP/Nest/pull/2271) |
 | add cursor pointer in login buttons | Medium | [#2270](https://github.com/OWASP/Nest/pull/2270) |
 | UI/ux mentorship program update | Medium | [#2244](https://github.com/OWASP/Nest/pull/2244) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
@@ -29,7 +30,6 @@
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
-| Sync www-repopsitories | Medium | [#2164](https://github.com/OWASP/Nest/pull/2164) |
 
 ---
 
@@ -149,6 +149,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added initial EDA notebook: Contributes to progress on #24 | Medium | [#40](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/40) |
 | Fixed: Add Advanced ML Model (XGBoost or SVR) for Price Prediction | Medium | [#39](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/39) |
 | Enhancing the ui of the website | Medium | [#38](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/38) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
@@ -174,6 +175,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement of Hero Section | Medium | [#228](https://github.com/ygowthamr/WhitePaper/issues/228) |
 | Addition of pr create automate message | Medium | [#227](https://github.com/ygowthamr/WhitePaper/issues/227) |
 | Fixed Critical Security & Performance Issues | Medium | [#226](https://github.com/ygowthamr/WhitePaper/pull/226) |
 | Bug: [Critical] Missing import statement causing runtime crash in note creation and editing | Medium | [#225](https://github.com/ygowthamr/WhitePaper/issues/225) |
@@ -203,7 +205,6 @@
 | feat: implement secure environment variable configuration | Medium | [#180](https://github.com/ygowthamr/WhitePaper/pull/180) |
 | ADD PRIVACY POLICY PAGE | Medium | [#178](https://github.com/ygowthamr/WhitePaper/issues/178) |
 | to add a toggle button | Medium | [#177](https://github.com/ygowthamr/WhitePaper/issues/177) |
-| Fix: Exposed GitHub OAuth Credentials and Hardcoded Secret Key | Medium | [#176](https://github.com/ygowthamr/WhitePaper/pull/176) |
 
 ---
 
