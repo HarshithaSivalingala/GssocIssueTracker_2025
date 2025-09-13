@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| "Download Layered Project" and "Explore Blending Effects" Buttons Not Working | Medium | [#1364](https://github.com/vishanurag/Canvas-Editor/issues/1364) |
+| "Practice Exercises and "Advanced Brush Techniques" buttons not working | Medium | [#1363](https://github.com/vishanurag/Canvas-Editor/issues/1363) |
 | Enhance Canvas Editor: UI Improvements, Toolbar Responsiveness & Export Options | Medium | [#1361](https://github.com/vishanurag/Canvas-Editor/issues/1361) |
 | Added toggle darkmode button in the editor | Medium | [#1359](https://github.com/vishanurag/Canvas-Editor/pull/1359) |
 
@@ -37,9 +39,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Glassmorphic services flashcards and modern About Us section (single … | Medium | [#477](https://github.com/gyanshankar1708/GrowCraft/pull/477) |
 | Fix logo color when theme is toggled | Medium | [#476](https://github.com/gyanshankar1708/GrowCraft/pull/476) |
-| fix the color of search box in light theme and fix the spacing inside the about-us cards | Medium | [#474](https://github.com/gyanshankar1708/GrowCraft/issues/474) |
 | Redesign the complete  homepage | Medium | [#444](https://github.com/gyanshankar1708/GrowCraft/issues/444) |
 | Style the About Page | Medium | [#425](https://github.com/gyanshankar1708/GrowCraft/pull/425) |
 | Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
@@ -100,6 +100,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Navbar Mobile View Overflow | Easy | [#216](https://github.com/sachiva1/sachiva/issues/216) |
+| Alignment issues throughout the website | Medium | [#241](https://github.com/sachiva1/sachiva/issues/241) |
 | Text not clearly visible on blog page | Medium | [#240](https://github.com/sachiva1/sachiva/issues/240) |
 | UI change of home page | Medium | [#239](https://github.com/sachiva1/sachiva/pull/239) |
 | Fix/email contact us page | Medium | [#238](https://github.com/sachiva1/sachiva/pull/238) |
@@ -119,7 +120,6 @@
 | Navbar issues fixed | Medium | [#215](https://github.com/sachiva1/sachiva/pull/215) |
 | Updated contact.html | Medium | [#200](https://github.com/sachiva1/sachiva/pull/200) |
 | Fixed missing link + fixed overflow issue | Medium | [#197](https://github.com/sachiva1/sachiva/pull/197) |
-| Navbar Hover Text Not Visible | Hard | [#233](https://github.com/sachiva1/sachiva/issues/233) |
 
 ---
 
