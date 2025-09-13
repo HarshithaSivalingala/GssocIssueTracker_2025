@@ -77,7 +77,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhance benefit cards with hover effect and light/dark mode support | Medium | [#81](https://github.com/LarytheLord/Adventurers-Guild/pull/81) |
-| Add: animations | Medium | [#80](https://github.com/LarytheLord/Adventurers-Guild/pull/80) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
