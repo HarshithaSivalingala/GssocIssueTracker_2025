@@ -52,8 +52,6 @@ Accessibility features like dark mode,white.
 | Feature Sync Admin-Added Courses with User Course Display | Easy | [#350](https://github.com/abhisek2004/Dev-Elevate/issues/350) |
 | [Enhancement] Expand Job Opportunities Feed with Multiple Platforms | Easy | [#229](https://github.com/abhisek2004/Dev-Elevate/issues/229) |
 | [Feature] Integrate ATS Scanner into Resume Builder – #NewFeature | Easy | [#228](https://github.com/abhisek2004/Dev-Elevate/issues/228) |
-| Add Monitoring Setup (Phase 1: UptimeRobot) | Medium | [#444](https://github.com/abhisek2004/Dev-Elevate/pull/444) |
-| Add Header and Hero components | Medium | [#437](https://github.com/abhisek2004/Dev-Elevate/pull/437) |
 
 ---
 
@@ -72,6 +70,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Not able to login as an Admin or Superadmin | Easy | [#120](https://github.com/abhisek247767/PeopleHub-Frontend/issues/120) |
+| Feature: enhance footer with quick links and improved navigation | Medium | [#130](https://github.com/abhisek247767/PeopleHub-Frontend/pull/130) |
 | Enhance Footer with Quick Links | Medium | [#126](https://github.com/abhisek247767/PeopleHub-Frontend/issues/126) |
 | Improve Navbar Design & Responsiveness | Medium | [#125](https://github.com/abhisek247767/PeopleHub-Frontend/issues/125) |
 | docs: add problem statement and improve README clarity | Medium | [#124](https://github.com/abhisek247767/PeopleHub-Frontend/pull/124) |
@@ -164,7 +163,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
-| Upgrade Project JSX to TSX: Complete migration from frontend to client directory with TypeScript support and deployment compatibility | Medium | [#1227](https://github.com/Code-A2Z/code-a2z/pull/1227) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | Add Back Navigation to New Project Page | Medium | [#1173](https://github.com/Code-A2Z/code-a2z/issues/1173) |
@@ -176,6 +174,8 @@ Accessibility features like dark mode,white.
 | 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
 | 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
 | 📃: House Price Prediction | Medium | [#1145](https://github.com/Code-A2Z/code-a2z/issues/1145) |
+| 📃: Daily Habit Tracker | Medium | [#1036](https://github.com/Code-A2Z/code-a2z/issues/1036) |
+| 📃: TextUtils | Medium | [#1032](https://github.com/Code-A2Z/code-a2z/issues/1032) |
 
 ---
 
@@ -193,6 +193,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Code of Conduct | Medium | [#115](https://github.com/AyushSharma72/Skill_Trade/issues/115) |
+| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#114](https://github.com/AyushSharma72/Skill_Trade/issues/114) |
 | Feature Request: Dark/Light Theme Support | Medium | [#113](https://github.com/AyushSharma72/Skill_Trade/issues/113) |
 | IT REQUIRES MORE PROFESSIONAL ENHANCEMENT IN NAVBAR SECTION AND ALSO MISSING ABOUT US SECTION | Medium | [#111](https://github.com/AyushSharma72/Skill_Trade/issues/111) |
 | Improve UI components and animations to match theme consistency of home page | Medium | [#110](https://github.com/AyushSharma72/Skill_Trade/issues/110) |
@@ -215,6 +217,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#112](https://github.com/Bavanetha27/Refixly/issues/112) |
 | Responsive layout, user Authentication, new pages addition | Medium | [#111](https://github.com/Bavanetha27/Refixly/issues/111) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | Refactor Error Handling in AIDamageDetection.jsx | Medium | [#109](https://github.com/Bavanetha27/Refixly/issues/109) |
@@ -427,6 +430,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Registration: Missing "Confirm Password" Field | Medium | [#867](https://github.com/HarshS16/Civix/issues/867) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 
 ---
@@ -542,8 +546,13 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refactor emailController.js for cleaner validation and consistency | Medium | [#524](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/524) |
+| Refactor feedbackController.js for cleaner structure and maintainability | Medium | [#523](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/523) |
+| Fix: Prefetch Institution Profile Data & Improve Dynamic Profile Form | Medium | [#514](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/514) |
+| Fix: Resolve Horizontal Overflow in Institution Settings Page | Medium | [#513](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/513) |
+| Fix: Make StudentPerformance Component Fully Responsive with Sidebar State | Medium | [#512](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/512) |
+| fix(backend): add required models | Medium | [#509](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/509) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -589,6 +598,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue: Update latest logos to the social link Icons | Medium | [#71](https://github.com/nishantharkut/W3nity/issues/71) |
 | Lock.sol Contract Refactor | Medium | [#68](https://github.com/nishantharkut/W3nity/pull/68) |
 | Refactor Lock.sol Contract to Follow Modern Solidity Best Practices | Medium | [#67](https://github.com/nishantharkut/W3nity/issues/67) |
 | Refactor event ticket Contract | Medium | [#66](https://github.com/nishantharkut/W3nity/pull/66) |
@@ -642,6 +652,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Leaderboard System to Track Ranks, Accuracy & Attempts | Medium | [#18](https://github.com/Piyush-t24/NBG/issues/18) |
 | Implement Dark/Light Mode Toggle | Medium | [#17](https://github.com/Piyush-t24/NBG/issues/17) |
 | feat: Enhanced homepage with dynamic gaming UI/UX | Medium | [#15](https://github.com/Piyush-t24/NBG/pull/15) |
 | Code of Conduct & README Update for NBG under GSSoC'25 | Medium | [#14](https://github.com/Piyush-t24/NBG/issues/14) |
@@ -667,6 +678,12 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Newest Recipe Cards not in same dimensions | Medium | [#266](https://github.com/Prashanti-Hebbar/FoodIO/issues/266) |
+| Update Header Based on User Login Status | Medium | [#265](https://github.com/Prashanti-Hebbar/FoodIO/issues/265) |
+| Enhancing the favorite, saved and share button actions. | Medium | [#264](https://github.com/Prashanti-Hebbar/FoodIO/issues/264) |
+| The Ingredients list to be modified in dark mode due to the text color and theme making them unreadable | Medium | [#263](https://github.com/Prashanti-Hebbar/FoodIO/issues/263) |
+| fixes navbar toggle theme in mobile screen | Medium | [#262](https://github.com/Prashanti-Hebbar/FoodIO/pull/262) |
+| Navabar in mobile section does not change according to the theme | Medium | [#261](https://github.com/Prashanti-Hebbar/FoodIO/issues/261) |
 | Register button is visible even after login | Medium | [#259](https://github.com/Prashanti-Hebbar/FoodIO/issues/259) |
 | Ingredients text not visible in dark mode | Medium | [#258](https://github.com/Prashanti-Hebbar/FoodIO/issues/258) |
 | Missing Recipe Data On Dashboard | Medium | [#257](https://github.com/Prashanti-Hebbar/FoodIO/pull/257) |
@@ -781,7 +798,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding Feedback box section on the website | Medium | [#25](https://github.com/sailaja-adapa/GuruShish/issues/25) |
-| issue with UI of login form and home page UI | Medium | [#24](https://github.com/sailaja-adapa/GuruShish/issues/24) |
 | Add Online Class Integration (Video Call Feature) | Medium | [#23](https://github.com/sailaja-adapa/GuruShish/issues/23) |
 | Add environment configuration and update dependencies | Medium | [#22](https://github.com/sailaja-adapa/GuruShish/pull/22) |
 | Clarify terminal commands for frontend and backend installation to avoid confusion | Medium | [#21](https://github.com/sailaja-adapa/GuruShish/issues/21) |
@@ -1139,6 +1155,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| refactor: update message template for weather agent node | Medium | [#205](https://github.com/deskree-inc/blok/pull/205) |
 | Update README badge links | Medium | [#204](https://github.com/deskree-inc/blok/pull/204) |
 | There is no link in the license | Medium | [#202](https://github.com/deskree-inc/blok/issues/202) |
 | Footer-UI Enhancement | Medium | [#201](https://github.com/deskree-inc/blok/issues/201) |
@@ -1158,7 +1175,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Implement Metrics Collection in Python3 Runtime (Prometheus Export) | Medium | [#133](https://github.com/deskree-inc/blok/pull/133) |
 | Added a  dedicated section on creating workflows | Medium | [#131](https://github.com/deskree-inc/blok/pull/131) |
 | Add Configurable Observability Backend to nanoservice-ts (Prometheus/InfluxDB) | Medium | [#126](https://github.com/deskree-inc/blok/issues/126) |
-| Bump fastify from 5.2.2 to 5.3.2 | Medium | [#119](https://github.com/deskree-inc/blok/pull/119) |
 
 ---
 
@@ -1251,6 +1267,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat: Validate Email Address During Signup Using Hunter.io API | Medium | [#115](https://github.com/DevSyncx/DevSync/issues/115) |
 | Dark theme not working properly for the profile page | Medium | [#114](https://github.com/DevSyncx/DevSync/issues/114) |
 | Fix server startup | Medium | [#113](https://github.com/DevSyncx/DevSync/pull/113) |
 | Added user feedback popup with rating and comment form | Medium | [#109](https://github.com/DevSyncx/DevSync/pull/109) |
@@ -1260,7 +1277,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Added AI powered chatbot integration in DevSync | Medium | [#103](https://github.com/DevSyncx/DevSync/pull/103) |
 | Backbutton | Medium | [#102](https://github.com/DevSyncx/DevSync/pull/102) |
 | Design a Logo for DevSync | Medium | [#86](https://github.com/DevSyncx/DevSync/issues/86) |
-| Enhance Hero Section with Interactive Carousel | Medium | [#44](https://github.com/DevSyncx/DevSync/pull/44) |
 | Feature: GitHub Profile Info Integration | Hard | [#94](https://github.com/DevSyncx/DevSync/issues/94) |
 
 ---
@@ -1283,7 +1299,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Easy | [#9](https://github.com/dscnitrourkela/project-xangoes/issues/9) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
 | chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
-| feat: Implement rate limit using sliding window | Medium | [#16](https://github.com/dscnitrourkela/project-xangoes/pull/16) |
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
 ---
@@ -1492,6 +1507,24 @@ Fast Workflow Tools
 
 ---
 
+## 📌 Project: Dev Resumes AI
+
+📝 **Description:** DevResume.AI is a modern, drag-and-drop resume builder powered by AI. Generate perfectly structured, ATS-compliant resumes with smart bullet points, summaries, and beautiful designs  all in your browser.
+
+🔗 [View Project](https://github.com/Anasmalik57/Dev-Resume-AI)
+
+💻 **Tech Stack:** React, Vite, Tailwind CSS, Framer Motion, html2pdf.js, Node.js, Express.js, OpenAI API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Feature: Setup User Dashboard | Medium | [#14](https://github.com/Anasmalik57/Dev-Resume-AI/issues/14) |
+
+---
+
 ## 📌 Project: YuktiBot
 
 📝 **Description:** Its a combo of interview preparation anad code editor application
@@ -1574,7 +1607,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add Nexara logo variants (light & dark modes) | Easy | [#114](https://github.com/Axelvyn/Nexara/pull/114) |
 | Backend Routes Updated | Easy | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
@@ -1615,9 +1647,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <To change the favicon to transparent> | Medium | [#738](https://github.com/Premkolte/AnimateHub/issues/738) |
-| NaN | Medium | [#736](https://github.com/Premkolte/AnimateHub/issues/736) |
-| Footer dark mode issues | Medium | [#735](https://github.com/Premkolte/AnimateHub/issues/735) |
+| Refactor googleAuth.controller.js for consistency and reliability | Medium | [#748](https://github.com/Premkolte/AnimateHub/issues/748) |
+| Refactor comment.controller.js for reusability and performance | Medium | [#747](https://github.com/Premkolte/AnimateHub/issues/747) |
+| Refactor auth.controller.js for consistency and maintainability | Medium | [#746](https://github.com/Premkolte/AnimateHub/issues/746) |
+| Separate form for Blog Posting | Medium | [#745](https://github.com/Premkolte/AnimateHub/pull/745) |
 | 🚨 Important Admin Notice 🚨 | Medium | [#662](https://github.com/Premkolte/AnimateHub/issues/662) |
 | #500 - Congratulations to All Contributors | Hard | [#500](https://github.com/Premkolte/AnimateHub/issues/500) |
 
@@ -1687,7 +1720,6 @@ Fast Workflow Tools
 | feat(#123): implement patient acuity score for appointment requests | Medium | [#204](https://github.com/shandilya-rajnandini/DocAtHome/pull/204) |
 | Feature/recently viewed doctors | Medium | [#203](https://github.com/shandilya-rajnandini/DocAtHome/pull/203) |
 | Enhance Theme Colors & Improve UX for Better Visual Consistency | Medium | [#202](https://github.com/shandilya-rajnandini/DocAtHome/pull/202) |
-| feat: Add availability status for doctors and nurses, update related … | Medium | [#201](https://github.com/shandilya-rajnandini/DocAtHome/pull/201) |
 | feat: Add autocomplete search filters for Specialty and City | Medium | [#200](https://github.com/shandilya-rajnandini/DocAtHome/pull/200) |
 | Improve the responsive design of the Patient and Doctor Dashboards | Medium | [#177](https://github.com/shandilya-rajnandini/DocAtHome/issues/177) |
 | Implement a dynamic, AI-driven pre-consultation intake form | Hard | [#213](https://github.com/shandilya-rajnandini/DocAtHome/issues/213) |
