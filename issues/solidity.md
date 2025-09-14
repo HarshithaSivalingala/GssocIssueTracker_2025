@@ -19,6 +19,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue: Update latest logos to the social link Icons | Medium | [#71](https://github.com/nishantharkut/W3nity/issues/71) |
 | Lock.sol Contract Refactor | Medium | [#68](https://github.com/nishantharkut/W3nity/pull/68) |
 | Refactor Lock.sol Contract to Follow Modern Solidity Best Practices | Medium | [#67](https://github.com/nishantharkut/W3nity/issues/67) |
 | Refactor event ticket Contract | Medium | [#66](https://github.com/nishantharkut/W3nity/pull/66) |
