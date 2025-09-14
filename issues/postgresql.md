@@ -81,6 +81,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Registration: Missing "Confirm Password" Field | Medium | [#867](https://github.com/HarshS16/Civix/issues/867) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 
 ---
@@ -158,7 +159,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding Feedback box section on the website | Medium | [#25](https://github.com/sailaja-adapa/GuruShish/issues/25) |
-| issue with UI of login form and home page UI | Medium | [#24](https://github.com/sailaja-adapa/GuruShish/issues/24) |
 | Add Online Class Integration (Video Call Feature) | Medium | [#23](https://github.com/sailaja-adapa/GuruShish/issues/23) |
 | Add environment configuration and update dependencies | Medium | [#22](https://github.com/sailaja-adapa/GuruShish/pull/22) |
 | Clarify terminal commands for frontend and backend installation to avoid confusion | Medium | [#21](https://github.com/sailaja-adapa/GuruShish/issues/21) |
@@ -230,7 +230,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Easy | [#9](https://github.com/dscnitrourkela/project-xangoes/issues/9) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
 | chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
-| feat: Implement rate limit using sliding window | Medium | [#16](https://github.com/dscnitrourkela/project-xangoes/pull/16) |
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
 ---
@@ -298,7 +297,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add Nexara logo variants (light & dark modes) | Easy | [#114](https://github.com/Axelvyn/Nexara/pull/114) |
 | Backend Routes Updated | Easy | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
@@ -322,7 +320,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update readme file | Easy | [#250](https://github.com/SandeepVashishtha/Eventra/issues/250) |
-| Missing Role Selection Field in React Signup Form | Medium | [#248](https://github.com/SandeepVashishtha/Eventra/issues/248) |
+| UI Enhancement: Improve Newsletter Subscription Section | Medium | [#318](https://github.com/SandeepVashishtha/Eventra/issues/318) |
+| Enhance "Ready to create your first event?" CTA Section | Medium | [#317](https://github.com/SandeepVashishtha/Eventra/issues/317) |
+| Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
+| Unauthenticated Project Submissions | Medium | [#315](https://github.com/SandeepVashishtha/Eventra/issues/315) |
+| User Dashboard UI | Medium | [#314](https://github.com/SandeepVashishtha/Eventra/pull/314) |
+| Bug fix: Make All Community Links in Footer Functional and add more links | Medium | [#313](https://github.com/SandeepVashishtha/Eventra/issues/313) |
+| Fix Overlapping Issue in Privacy Page Due to Animation (Responsive) | Medium | [#312](https://github.com/SandeepVashishtha/Eventra/issues/312) |
+| Add "About GSSoC + Contribution Info" Section in Leaderboard Page | Medium | [#311](https://github.com/SandeepVashishtha/Eventra/issues/311) |
+| Bug:  Improve CTA in Project Page & Make "Browse Issues" Button Functional | Medium | [#310](https://github.com/SandeepVashishtha/Eventra/issues/310) |
+| Bug: fix Submit Project Form Floating & Redirect to New Page | Medium | [#309](https://github.com/SandeepVashishtha/Eventra/issues/309) |
+| Add CTA Sections in Events Page | Medium | [#308](https://github.com/SandeepVashishtha/Eventra/issues/308) |
+| Add CTA Section in Hackathon Page | Medium | [#307](https://github.com/SandeepVashishtha/Eventra/issues/307) |
+| Redesign "No Hackathon Found" Page | Medium | [#306](https://github.com/SandeepVashishtha/Eventra/issues/306) |
+| Redesign "No Event Found" Page | Medium | [#305](https://github.com/SandeepVashishtha/Eventra/issues/305) |
+| Make "Explore Hackathon" button scroll to hackathon section | Medium | [#304](https://github.com/SandeepVashishtha/Eventra/issues/304) |
+| Required fields not marked with red asterisk on Sign Up page | Medium | [#303](https://github.com/SandeepVashishtha/Eventra/issues/303) |
+| 3rd rank color looks too similar to gold (1st rank) | Medium | [#302](https://github.com/SandeepVashishtha/Eventra/issues/302) |
+| Contact Us page missing phone number field | Medium | [#301](https://github.com/SandeepVashishtha/Eventra/issues/301) |
 
 ---
 
@@ -349,6 +364,26 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
 | feat: IMPLEMENT DARK MODE | Hard | [#6](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/6) |
+
+---
+
+## 📌 Project: Smriti AI
+
+📝 **Description:** Smriti AI is an intelligent, all-in-one learning assistant that helps you organize, understand, and retain everything you study from notes and youtube videos.
+
+🔗 [View Project](https://github.com/vatsal-bhakodia/smriti-ai)
+
+💻 **Tech Stack:** Next.js, Prisma, PostgreSQL, Clerk Auth
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| scripts: make backfill for QuizResults safe and batched | Medium | [#168](https://github.com/vatsal-bhakodia/smriti-ai/issues/168) |
+| Currently, the repository does not have standardized templates for issues and pull requests. Adding these templates will improve collaboration and streamline contributions. | Medium | [#167](https://github.com/vatsal-bhakodia/smriti-ai/issues/167) |
+| Multilingual Headline on Landing Page | Medium | [#166](https://github.com/vatsal-bhakodia/smriti-ai/issues/166) |
 
 ---
 
