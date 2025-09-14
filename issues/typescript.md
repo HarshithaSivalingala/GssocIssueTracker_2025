@@ -62,8 +62,6 @@ Accessibility features like dark mode,white.
 | Feature Sync Admin-Added Courses with User Course Display | Easy | [#350](https://github.com/abhisek2004/Dev-Elevate/issues/350) |
 | [Enhancement] Expand Job Opportunities Feed with Multiple Platforms | Easy | [#229](https://github.com/abhisek2004/Dev-Elevate/issues/229) |
 | [Feature] Integrate ATS Scanner into Resume Builder – #NewFeature | Easy | [#228](https://github.com/abhisek2004/Dev-Elevate/issues/228) |
-| Add Monitoring Setup (Phase 1: UptimeRobot) | Medium | [#444](https://github.com/abhisek2004/Dev-Elevate/pull/444) |
-| Add Header and Hero components | Medium | [#437](https://github.com/abhisek2004/Dev-Elevate/pull/437) |
 
 ---
 
@@ -81,9 +79,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add cursor pointer to Sign In button | Easy | [#2269](https://github.com/OWASP/Nest/issues/2269) |
-| fix: added pointer cursor to Upcoming Events links | Medium | [#2271](https://github.com/OWASP/Nest/pull/2271) |
-| add cursor pointer in login buttons | Medium | [#2270](https://github.com/OWASP/Nest/pull/2270) |
+| test: add comprehensive LogoCarousel unit tests | Medium | [#2275](https://github.com/OWASP/Nest/pull/2275) |
+| Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | UI/ux mentorship program update | Medium | [#2244](https://github.com/OWASP/Nest/pull/2244) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
@@ -95,7 +92,6 @@ Accessibility features like dark mode,white.
 | Implement calendar events scheduling | Medium | [#2211](https://github.com/OWASP/Nest/pull/2211) |
 | Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
-| Sync OWASP Board of Directors Members Data | Medium | [#2177](https://github.com/OWASP/Nest/issues/2177) |
 | Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
 
 ---
@@ -114,13 +110,14 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update README.md file | Medium | [#163](https://github.com/BaraniVA/Habitheat/issues/163) |
+| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#162](https://github.com/BaraniVA/Habitheat/issues/162) |
 | Docs : Added Table of contents with Toggle Button in README | Medium | [#160](https://github.com/BaraniVA/Habitheat/pull/160) |
 | 🔒 Add Password Strength Indicator for Signup Page | Medium | [#159](https://github.com/BaraniVA/Habitheat/pull/159) |
 | Fix/responsive UI | Medium | [#154](https://github.com/BaraniVA/Habitheat/pull/154) |
 | Designed and Implemented Efficient Database Schema for HabitHeat | Medium | [#149](https://github.com/BaraniVA/Habitheat/pull/149) |
 | Add new HabitCard template and tidy up code | Medium | [#145](https://github.com/BaraniVA/Habitheat/pull/145) |
 | Feature: Add Motivational Blogs with Like & Comment Functionality | Medium | [#115](https://github.com/BaraniVA/Habitheat/pull/115) |
-| Feature Proposal: Design an Attractive and Informative Front Page for New Users | Medium | [#96](https://github.com/BaraniVA/Habitheat/issues/96) |
 
 ---
 
@@ -217,6 +214,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Currently, the repository does not have standardized templates for issues and pull requests. Adding these templates will improve collaboration and streamline contributions. | Medium | [#229](https://github.com/mansiruhil/fail-u-forward/issues/229) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Add language feature at login/signup page | Medium | [#198](https://github.com/mansiruhil/fail-u-forward/issues/198) |
@@ -337,6 +335,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Leaderboard System to Track Ranks, Accuracy & Attempts | Medium | [#18](https://github.com/Piyush-t24/NBG/issues/18) |
 | Implement Dark/Light Mode Toggle | Medium | [#17](https://github.com/Piyush-t24/NBG/issues/17) |
 | feat: Enhanced homepage with dynamic gaming UI/UX | Medium | [#15](https://github.com/Piyush-t24/NBG/pull/15) |
 | Code of Conduct & README Update for NBG under GSSoC'25 | Medium | [#14](https://github.com/Piyush-t24/NBG/issues/14) |
@@ -425,7 +424,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding Feedback box section on the website | Medium | [#25](https://github.com/sailaja-adapa/GuruShish/issues/25) |
-| issue with UI of login form and home page UI | Medium | [#24](https://github.com/sailaja-adapa/GuruShish/issues/24) |
 | Add Online Class Integration (Video Call Feature) | Medium | [#23](https://github.com/sailaja-adapa/GuruShish/issues/23) |
 | Add environment configuration and update dependencies | Medium | [#22](https://github.com/sailaja-adapa/GuruShish/pull/22) |
 | Clarify terminal commands for frontend and backend installation to avoid confusion | Medium | [#21](https://github.com/sailaja-adapa/GuruShish/issues/21) |
@@ -483,6 +481,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| <title> AI chatbot for answering Platform related queries | Medium | [#68](https://github.com/karmveershubham/CodeStreak/issues/68) |
+| <title> Strong Password generator | Medium | [#67](https://github.com/karmveershubham/CodeStreak/issues/67) |
 | <title>User Auth Bug: Registration not persisting, login/forgot password failing, empty profile | Medium | [#66](https://github.com/karmveershubham/CodeStreak/issues/66) |
 | Fix responsive layout for mobile screens | Medium | [#65](https://github.com/karmveershubham/CodeStreak/issues/65) |
 | <title> add algo visuvailizer in nav bar | Medium | [#62](https://github.com/karmveershubham/CodeStreak/issues/62) |
@@ -663,6 +663,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| refactor: update message template for weather agent node | Medium | [#205](https://github.com/deskree-inc/blok/pull/205) |
 | Update README badge links | Medium | [#204](https://github.com/deskree-inc/blok/pull/204) |
 | There is no link in the license | Medium | [#202](https://github.com/deskree-inc/blok/issues/202) |
 | Footer-UI Enhancement | Medium | [#201](https://github.com/deskree-inc/blok/issues/201) |
@@ -682,7 +683,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Implement Metrics Collection in Python3 Runtime (Prometheus Export) | Medium | [#133](https://github.com/deskree-inc/blok/pull/133) |
 | Added a  dedicated section on creating workflows | Medium | [#131](https://github.com/deskree-inc/blok/pull/131) |
 | Add Configurable Observability Backend to nanoservice-ts (Prometheus/InfluxDB) | Medium | [#126](https://github.com/deskree-inc/blok/issues/126) |
-| Bump fastify from 5.2.2 to 5.3.2 | Medium | [#119](https://github.com/deskree-inc/blok/pull/119) |
 
 ---
 
@@ -817,7 +817,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Easy | [#9](https://github.com/dscnitrourkela/project-xangoes/issues/9) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
 | chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
-| feat: Implement rate limit using sliding window | Medium | [#16](https://github.com/dscnitrourkela/project-xangoes/pull/16) |
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
 ---
@@ -1204,6 +1203,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add a glow button | Medium | [#88](https://github.com/subhadeeproy3902/mvpblocks/pull/88) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
