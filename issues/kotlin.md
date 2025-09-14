@@ -138,6 +138,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update readme | Medium | [#426](https://github.com/yuvrajsinghgmx/ShopSmart/pull/426) |
 | Implemented get API for favorite Shops and Products | Medium | [#425](https://github.com/yuvrajsinghgmx/ShopSmart/pull/425) |
 | Add a CONTRIBUTING.md File to project | Medium | [#420](https://github.com/yuvrajsinghgmx/ShopSmart/issues/420) |
 | Implement Get API for  Favorite Shops and Products. | Medium | [#417](https://github.com/yuvrajsinghgmx/ShopSmart/issues/417) |
