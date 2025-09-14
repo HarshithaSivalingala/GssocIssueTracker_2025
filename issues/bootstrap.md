@@ -39,6 +39,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Dark Mode Feature to services.html | Medium | [#484](https://github.com/gyanshankar1708/GrowCraft/issues/484) |
+| Redesign the “Let’s Build Something Great” Section with Modern UI & Interactive Design | Medium | [#483](https://github.com/gyanshankar1708/GrowCraft/issues/483) |
+| Redesign & Extend “Social Media Highlights” to Include Strategic Insights | Medium | [#482](https://github.com/gyanshankar1708/GrowCraft/issues/482) |
+| Expand "Our Graphic Design Work" Section | Medium | [#481](https://github.com/gyanshankar1708/GrowCraft/issues/481) |
+| Standardize navbar across all pages - make them identical to index.html | Medium | [#480](https://github.com/gyanshankar1708/GrowCraft/pull/480) |
+| Fixed: Footer Section Enhancement Needed for Better UX and Visual Appeal | Medium | [#479](https://github.com/gyanshankar1708/GrowCraft/pull/479) |
+| Navbar and UI improvements needed on About Us Page | Medium | [#478](https://github.com/gyanshankar1708/GrowCraft/issues/478) |
 | Fix logo color when theme is toggled | Medium | [#476](https://github.com/gyanshankar1708/GrowCraft/pull/476) |
 | Redesign the complete  homepage | Medium | [#444](https://github.com/gyanshankar1708/GrowCraft/issues/444) |
 | Style the About Page | Medium | [#425](https://github.com/gyanshankar1708/GrowCraft/pull/425) |
