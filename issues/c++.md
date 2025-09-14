@@ -58,6 +58,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat(ci + tests): Restructure Tests and Update CI + CMake | Easy | [#90](https://github.com/SharonIV0x86/CinderPeak/issues/90) |
+| feat(GraphList): added ``clearEdges()`` method to remove all the edges | Medium | [#93](https://github.com/SharonIV0x86/CinderPeak/pull/93) |
+| feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
 
 ---
 
