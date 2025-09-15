@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| feat(layout): Enhance assistant message item | Medium | [#70](https://github.com/A-Akhil/Astra-Ai/pull/70) |
 | Refactor & Enhance: Improve item_message_assistant.xml Layout | Medium | [#68](https://github.com/A-Akhil/Astra-Ai/issues/68) |
 | Feature Request: Persistent Chat History with Search & Export | Medium | [#67](https://github.com/A-Akhil/Astra-Ai/issues/67) |
 | Suggestion to add a CONTRIBUTING.md file | Medium | [#66](https://github.com/A-Akhil/Astra-Ai/issues/66) |
@@ -138,7 +138,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update readme | Medium | [#426](https://github.com/yuvrajsinghgmx/ShopSmart/pull/426) |
+| feat: added email based login to admin panel | Medium | [#427](https://github.com/yuvrajsinghgmx/ShopSmart/pull/427) |
 | Implemented get API for favorite Shops and Products | Medium | [#425](https://github.com/yuvrajsinghgmx/ShopSmart/pull/425) |
 | Add a CONTRIBUTING.md File to project | Medium | [#420](https://github.com/yuvrajsinghgmx/ShopSmart/issues/420) |
 | Implement Get API for  Favorite Shops and Products. | Medium | [#417](https://github.com/yuvrajsinghgmx/ShopSmart/issues/417) |
