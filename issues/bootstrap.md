@@ -14,9 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| "Download Layered Project" and "Explore Blending Effects" Buttons Not Working | Medium | [#1364](https://github.com/vishanurag/Canvas-Editor/issues/1364) |
-| "Practice Exercises and "Advanced Brush Techniques" buttons not working | Medium | [#1363](https://github.com/vishanurag/Canvas-Editor/issues/1363) |
-| Enhance Canvas Editor: UI Improvements, Toolbar Responsiveness & Export Options | Medium | [#1361](https://github.com/vishanurag/Canvas-Editor/issues/1361) |
 | Added toggle darkmode button in the editor | Medium | [#1359](https://github.com/vishanurag/Canvas-Editor/pull/1359) |
 
 ---
@@ -39,14 +36,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Dark Mode Feature to services.html | Medium | [#484](https://github.com/gyanshankar1708/GrowCraft/issues/484) |
-| Redesign the “Let’s Build Something Great” Section with Modern UI & Interactive Design | Medium | [#483](https://github.com/gyanshankar1708/GrowCraft/issues/483) |
-| Redesign & Extend “Social Media Highlights” to Include Strategic Insights | Medium | [#482](https://github.com/gyanshankar1708/GrowCraft/issues/482) |
-| Expand "Our Graphic Design Work" Section | Medium | [#481](https://github.com/gyanshankar1708/GrowCraft/issues/481) |
 | Standardize navbar across all pages - make them identical to index.html | Medium | [#480](https://github.com/gyanshankar1708/GrowCraft/pull/480) |
-| Fixed: Footer Section Enhancement Needed for Better UX and Visual Appeal | Medium | [#479](https://github.com/gyanshankar1708/GrowCraft/pull/479) |
 | Navbar and UI improvements needed on About Us Page | Medium | [#478](https://github.com/gyanshankar1708/GrowCraft/issues/478) |
-| Fix logo color when theme is toggled | Medium | [#476](https://github.com/gyanshankar1708/GrowCraft/pull/476) |
 | Redesign the complete  homepage | Medium | [#444](https://github.com/gyanshankar1708/GrowCraft/issues/444) |
 | Style the About Page | Medium | [#425](https://github.com/gyanshankar1708/GrowCraft/pull/425) |
 | Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
@@ -89,44 +80,6 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
-
----
-
-## 📌 Project: sachiva
-
-📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
-
-🔗 [View Project](https://github.com/sachiva1/sachiva)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Navbar Mobile View Overflow | Easy | [#216](https://github.com/sachiva1/sachiva/issues/216) |
-| Alignment issues throughout the website | Medium | [#241](https://github.com/sachiva1/sachiva/issues/241) |
-| Text not clearly visible on blog page | Medium | [#240](https://github.com/sachiva1/sachiva/issues/240) |
-| UI change of home page | Medium | [#239](https://github.com/sachiva1/sachiva/pull/239) |
-| Fix/email contact us page | Medium | [#238](https://github.com/sachiva1/sachiva/pull/238) |
-| Enhancement in buttons | Medium | [#232](https://github.com/sachiva1/sachiva/issues/232) |
-| Remove unnecessary two contact.html | Medium | [#231](https://github.com/sachiva1/sachiva/issues/231) |
-| Problem in Readme File | Medium | [#230](https://github.com/sachiva1/sachiva/issues/230) |
-| Enhancement in the Faqs | Medium | [#229](https://github.com/sachiva1/sachiva/issues/229) |
-| NavBar dropdown menu added and text animation On heading of nav pages | Medium | [#228](https://github.com/sachiva1/sachiva/pull/228) |
-| Fix/about us page responsiveness | Medium | [#227](https://github.com/sachiva1/sachiva/pull/227) |
-| Fix content alignment on About Us page (#217) | Medium | [#226](https://github.com/sachiva1/sachiva/pull/226) |
-| Solved #208 PR With UI/UX Changes | Medium | [#225](https://github.com/sachiva1/sachiva/pull/225) |
-| forum.html Footer Missing or Visually Inconsistent | Medium | [#224](https://github.com/sachiva1/sachiva/issues/224) |
-| portfolio.html Footer Not Responsive on Small Screens | Medium | [#223](https://github.com/sachiva1/sachiva/issues/223) |
-| blog.html Footer Not Responsive on Small Screens | Medium | [#222](https://github.com/sachiva1/sachiva/issues/222) |
-| contributors.html Footer Not Responsive on Small Screens | Medium | [#221](https://github.com/sachiva1/sachiva/issues/221) |
-| Mobile Navbar UI Needs Visual Refinement | Medium | [#220](https://github.com/sachiva1/sachiva/issues/220) |
-| Navbar issues fixed | Medium | [#215](https://github.com/sachiva1/sachiva/pull/215) |
-| Updated contact.html | Medium | [#200](https://github.com/sachiva1/sachiva/pull/200) |
-| Fixed missing link + fixed overflow issue | Medium | [#197](https://github.com/sachiva1/sachiva/pull/197) |
 
 ---
 
