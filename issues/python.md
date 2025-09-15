@@ -35,6 +35,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhancement of About Page | Easy | [#185](https://github.com/SrigadaAkshayKumar/stock/issues/185) |
+| Add Sentiment Analysis for Stocks from News & Social Media | Medium | [#209](https://github.com/SrigadaAkshayKumar/stock/issues/209) |
 | Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
 | Redesign the About Page for Better Visual Appeal and Clarity | Medium | [#207](https://github.com/SrigadaAkshayKumar/stock/issues/207) |
 | Add “Back to Top” Button on Long Pages | Medium | [#204](https://github.com/SrigadaAkshayKumar/stock/issues/204) |
@@ -73,6 +74,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
 | Pull Request: Update GrowthTracker UI with Glassmorphic Purple Gradient Design | Medium | [#288](https://github.com/Amarjha01/InfantCareCompass/pull/288) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
 | Add advanced custom form validation to CareCoPilot form | Medium | [#285](https://github.com/Amarjha01/InfantCareCompass/pull/285) |
@@ -221,9 +223,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| test: add comprehensive LogoCarousel unit tests | Medium | [#2275](https://github.com/OWASP/Nest/pull/2275) |
+| Migrate Scraper to GitHub .md Files | Medium | [#2277](https://github.com/OWASP/Nest/pull/2277) |
+| add sponsor api endpoint | Medium | [#2276](https://github.com/OWASP/Nest/pull/2276) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
-| UI/ux mentorship program update | Medium | [#2244](https://github.com/OWASP/Nest/pull/2244) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
@@ -234,7 +236,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Implement calendar events scheduling | Medium | [#2211](https://github.com/OWASP/Nest/pull/2211) |
 | Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
-| Sync OWASP Board of Directors Candidates Data | Medium | [#2176](https://github.com/OWASP/Nest/issues/2176) |
 
 ---
 
@@ -260,6 +261,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced Footer | Medium | [#156](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/156) |
 | Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Issue A: Improve Input Validation for Auth & API Routes | Medium | [#154](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/154) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
@@ -471,6 +473,25 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 ---
 
+## 📌 Project: DreamJobs-Job Portal 
+
+📝 **Description:** this project aims to bridge the gap between job seekers and employers 
+
+🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Only Image Scales on Hover, Not the Whole Blog Card | Medium | [#215](https://github.com/Khushi-Nigam/jobportal/issues/215) |
+| GitHub Actions workflow for basic code and docs checks | Medium | [#214](https://github.com/Khushi-Nigam/jobportal/issues/214) |
+
+---
+
 ## 📌 Project: AlgoLab-Learn Ml algos Visually 
 
 📝 **Description:** AlgoLab is an open-source project built to help students, developers, and enthusiasts understand Machine Learning algorithms through visual and interactive demonstrations.  Whether you're a beginner curious about how KNN or Decision Trees work, or someone who learns better by seeing algorithms in action, AlgoLab is for you.
@@ -513,13 +534,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor emailController.js for cleaner validation and consistency | Medium | [#524](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/524) |
-| Refactor feedbackController.js for cleaner structure and maintainability | Medium | [#523](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/523) |
-| Fix: Prefetch Institution Profile Data & Improve Dynamic Profile Form | Medium | [#514](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/514) |
-| Fix: Resolve Horizontal Overflow in Institution Settings Page | Medium | [#513](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/513) |
-| Fix: Make StudentPerformance Component Fully Responsive with Sidebar State | Medium | [#512](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/512) |
-| fix(backend): add required models | Medium | [#509](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/509) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -537,10 +553,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Crop Planner Not Changing Based on Input | Medium | [#301](https://github.com/omroy07/AgriTech/issues/301) |
 | The text written while searching on chatbot is not visible | Medium | [#300](https://github.com/omroy07/AgriTech/issues/300) |
 | Incorrect Dark/Light Mode Icons | Medium | [#296](https://github.com/omroy07/AgriTech/issues/296) |
 | Redesign the cards  on the home page | Medium | [#293](https://github.com/omroy07/AgriTech/issues/293) |
-| Added search bar | Medium | [#292](https://github.com/omroy07/AgriTech/pull/292) |
 | Email Notification Capabilities | Medium | [#279](https://github.com/omroy07/AgriTech/issues/279) |
 | Login page is not mobile responsive | Medium | [#272](https://github.com/omroy07/AgriTech/issues/272) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
@@ -856,8 +872,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | User Authentication Lost on Page Navigation in Journaling Section | Medium | [#170](https://github.com/eccentriccoder01/TalkHeal/issues/170) |
 | Authentication-related messages are barely visible. | Medium | [#160](https://github.com/eccentriccoder01/TalkHeal/issues/160) |
 | Add Dark Mode & High-Contrast Theme for Accessibility | Medium | [#147](https://github.com/eccentriccoder01/TalkHeal/issues/147) |
-| Session Persistence – Clarification | Medium | [#129](https://github.com/eccentriccoder01/TalkHeal/issues/129) |
-| Add Multi Language Support | Medium | [#120](https://github.com/eccentriccoder01/TalkHeal/issues/120) |
 
 ---
 
@@ -876,7 +890,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added initial EDA notebook: Contributes to progress on #24 | Medium | [#40](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/40) |
-| Fixed: Add Advanced ML Model (XGBoost or SVR) for Price Prediction | Medium | [#39](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/39) |
 | Enhancing the ui of the website | Medium | [#38](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/38) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
 | Linear Regression for price [GSSoC 25] | Medium | [#21](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/21) |
@@ -1866,8 +1879,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 |----------|----------------|---------|
 | FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
-| Refractor the Layout of Navbar and Footer of Privacy Policy and Terms Page using layout.tsx to enhance design uniformity | Medium | [#99](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/99) |
-| Added links for icons of footer | Medium | [#96](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/96) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
 ---
