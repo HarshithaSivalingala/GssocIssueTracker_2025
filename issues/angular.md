@@ -15,10 +15,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Not able to login as an Admin or Superadmin | Easy | [#120](https://github.com/abhisek247767/PeopleHub-Frontend/issues/120) |
-| Feature: enhance footer with quick links and improved navigation | Medium | [#130](https://github.com/abhisek247767/PeopleHub-Frontend/pull/130) |
+| feat: Implement project tree view and fix related API calls | Medium | [#131](https://github.com/abhisek247767/PeopleHub-Frontend/pull/131) |
 | Enhance Footer with Quick Links | Medium | [#126](https://github.com/abhisek247767/PeopleHub-Frontend/issues/126) |
-| Improve Navbar Design & Responsiveness | Medium | [#125](https://github.com/abhisek247767/PeopleHub-Frontend/issues/125) |
 | docs: add problem statement and improve README clarity | Medium | [#124](https://github.com/abhisek247767/PeopleHub-Frontend/pull/124) |
+| Feature: enhance footer with quick links and improved navigation | Hard | [#130](https://github.com/abhisek247767/PeopleHub-Frontend/pull/130) |
 
 ---
 
