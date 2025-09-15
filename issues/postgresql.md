@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding basic multi-language support with i18n | Medium | [#70](https://github.com/Abhinavhaldiya/FinPilot/issues/70) |
 | Connect frontend Auth.tsx with backend login/register API | Medium | [#69](https://github.com/Abhinavhaldiya/FinPilot/issues/69) |
 | Implement Full Backend for FinPilot (CRUD, Workflows, Dashboard APIs) | Medium | [#65](https://github.com/Abhinavhaldiya/FinPilot/issues/65) |
 | deployment | Medium | [#64](https://github.com/Abhinavhaldiya/FinPilot/issues/64) |
@@ -81,6 +80,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Twitter Icon to Latest X Logo | Medium | [#868](https://github.com/HarshS16/Civix/issues/868) |
 | Registration: Missing "Confirm Password" Field | Medium | [#867](https://github.com/HarshS16/Civix/issues/867) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 
@@ -137,6 +137,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat: Implement Robust Error Handling for Forgot Password Component | Medium | [#107](https://github.com/Er-luffy-D/SimplifAI/pull/107) |
 | Add dark mode toggle, update card styles, and tailwind config | Medium | [#103](https://github.com/Er-luffy-D/SimplifAI/pull/103) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
@@ -305,42 +306,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Update readme file | Easy | [#250](https://github.com/SandeepVashishtha/Eventra/issues/250) |
-| UI Enhancement: Improve Newsletter Subscription Section | Medium | [#318](https://github.com/SandeepVashishtha/Eventra/issues/318) |
-| Enhance "Ready to create your first event?" CTA Section | Medium | [#317](https://github.com/SandeepVashishtha/Eventra/issues/317) |
-| Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
-| Unauthenticated Project Submissions | Medium | [#315](https://github.com/SandeepVashishtha/Eventra/issues/315) |
-| User Dashboard UI | Medium | [#314](https://github.com/SandeepVashishtha/Eventra/pull/314) |
-| Bug fix: Make All Community Links in Footer Functional and add more links | Medium | [#313](https://github.com/SandeepVashishtha/Eventra/issues/313) |
-| Fix Overlapping Issue in Privacy Page Due to Animation (Responsive) | Medium | [#312](https://github.com/SandeepVashishtha/Eventra/issues/312) |
-| Add "About GSSoC + Contribution Info" Section in Leaderboard Page | Medium | [#311](https://github.com/SandeepVashishtha/Eventra/issues/311) |
-| Bug:  Improve CTA in Project Page & Make "Browse Issues" Button Functional | Medium | [#310](https://github.com/SandeepVashishtha/Eventra/issues/310) |
-| Bug: fix Submit Project Form Floating & Redirect to New Page | Medium | [#309](https://github.com/SandeepVashishtha/Eventra/issues/309) |
-| Add CTA Sections in Events Page | Medium | [#308](https://github.com/SandeepVashishtha/Eventra/issues/308) |
-| Add CTA Section in Hackathon Page | Medium | [#307](https://github.com/SandeepVashishtha/Eventra/issues/307) |
-| Redesign "No Hackathon Found" Page | Medium | [#306](https://github.com/SandeepVashishtha/Eventra/issues/306) |
-| Redesign "No Event Found" Page | Medium | [#305](https://github.com/SandeepVashishtha/Eventra/issues/305) |
-| Make "Explore Hackathon" button scroll to hackathon section | Medium | [#304](https://github.com/SandeepVashishtha/Eventra/issues/304) |
-| Required fields not marked with red asterisk on Sign Up page | Medium | [#303](https://github.com/SandeepVashishtha/Eventra/issues/303) |
-| 3rd rank color looks too similar to gold (1st rank) | Medium | [#302](https://github.com/SandeepVashishtha/Eventra/issues/302) |
-| Contact Us page missing phone number field | Medium | [#301](https://github.com/SandeepVashishtha/Eventra/issues/301) |
-
----
-
 ## 📌 Project: Prepnerdz
 
 📝 **Description:** College students waste countless hours wandering WhatsApp groups, requesting seniors or digging through unorganised drive for study materials and all. Prepnerdz solves this Chaos by providing the centralised and organised platform of RGPV previous year papers, final semester, mid semester, lab manuals, important questions, topics, reference books, best academic notes and many more.
@@ -381,6 +346,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📱 Make Footer Mobile Responsive | Medium | [#169](https://github.com/vatsal-bhakodia/smriti-ai/issues/169) |
 | scripts: make backfill for QuizResults safe and batched | Medium | [#168](https://github.com/vatsal-bhakodia/smriti-ai/issues/168) |
 | Currently, the repository does not have standardized templates for issues and pull requests. Adding these templates will improve collaboration and streamline contributions. | Medium | [#167](https://github.com/vatsal-bhakodia/smriti-ai/issues/167) |
 | Multilingual Headline on Landing Page | Medium | [#166](https://github.com/vatsal-bhakodia/smriti-ai/issues/166) |
