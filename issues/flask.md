@@ -59,6 +59,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced Footer | Medium | [#156](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/156) |
 | Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Issue A: Improve Input Validation for Auth & API Routes | Medium | [#154](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/154) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
@@ -174,13 +175,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor emailController.js for cleaner validation and consistency | Medium | [#524](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/524) |
-| Refactor feedbackController.js for cleaner structure and maintainability | Medium | [#523](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/523) |
-| Fix: Prefetch Institution Profile Data & Improve Dynamic Profile Form | Medium | [#514](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/514) |
-| Fix: Resolve Horizontal Overflow in Institution Settings Page | Medium | [#513](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/513) |
-| Fix: Make StudentPerformance Component Fully Responsive with Sidebar State | Medium | [#512](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/512) |
-| fix(backend): add required models | Medium | [#509](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/509) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -198,10 +194,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Crop Planner Not Changing Based on Input | Medium | [#301](https://github.com/omroy07/AgriTech/issues/301) |
 | The text written while searching on chatbot is not visible | Medium | [#300](https://github.com/omroy07/AgriTech/issues/300) |
 | Incorrect Dark/Light Mode Icons | Medium | [#296](https://github.com/omroy07/AgriTech/issues/296) |
 | Redesign the cards  on the home page | Medium | [#293](https://github.com/omroy07/AgriTech/issues/293) |
-| Added search bar | Medium | [#292](https://github.com/omroy07/AgriTech/pull/292) |
 | Email Notification Capabilities | Medium | [#279](https://github.com/omroy07/AgriTech/issues/279) |
 | Login page is not mobile responsive | Medium | [#272](https://github.com/omroy07/AgriTech/issues/272) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
@@ -365,6 +361,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Twitter Icon to Latest X Logo | Medium | [#82](https://github.com/KrishChothani/CKsEdu/issues/82) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
 | Inappropriate responses from  AIAssist | Medium | [#60](https://github.com/KrishChothani/CKsEdu/issues/60) |
@@ -428,8 +425,6 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
-| Refractor the Layout of Navbar and Footer of Privacy Policy and Terms Page using layout.tsx to enhance design uniformity | Medium | [#99](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/99) |
-| Added links for icons of footer | Medium | [#96](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/96) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
 ---
