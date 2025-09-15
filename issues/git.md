@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
 | Pull Request: Update GrowthTracker UI with Glassmorphic Purple Gradient Design | Medium | [#288](https://github.com/Amarjha01/InfantCareCompass/pull/288) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
 | Add advanced custom form validation to CareCoPilot form | Medium | [#285](https://github.com/Amarjha01/InfantCareCompass/pull/285) |
@@ -264,6 +265,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Hover Animation of Shadow and Border on Boxes | Medium | [#262](https://github.com/AditiGupta-tech/neonest/issues/262) |
 | SECURITY.md is added #192 | Medium | [#261](https://github.com/AditiGupta-tech/neonest/pull/261) |
 | fix: Redesign navbar with collapsible sidebar | Medium | [#260](https://github.com/AditiGupta-tech/neonest/pull/260) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
@@ -360,8 +362,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
-| Deployment of the Netflix UI Clone | Medium | [#78](https://github.com/Aqsa4066/netflixclone/issues/78) |
-| Fix invalid CSS and improve responsiveness in style.css | Medium | [#77](https://github.com/Aqsa4066/netflixclone/issues/77) |
+| Improve Overall UI/UX Responsiveness and Styling | Medium | [#80](https://github.com/Aqsa4066/netflixclone/issues/80) |
+| Deployment of the Netflix Clone | Medium | [#79](https://github.com/Aqsa4066/netflixclone/pull/79) |
 | feat(i18n): One-Click, Any-Language (#59) | Medium | [#76](https://github.com/Aqsa4066/netflixclone/pull/76) |
 | Change: Design of FAQs section | Medium | [#75](https://github.com/Aqsa4066/netflixclone/pull/75) |
 | Change: Design of FAQs section | Medium | [#72](https://github.com/Aqsa4066/netflixclone/pull/72) |
@@ -374,8 +376,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | enhance ui | Medium | [#56](https://github.com/Aqsa4066/netflixclone/pull/56) |
 | Enhanced the footer section and added a  "back to top" button | Medium | [#54](https://github.com/Aqsa4066/netflixclone/pull/54) |
 | Fix: Improve Hero Section Readability (Issue #36) | Medium | [#46](https://github.com/Aqsa4066/netflixclone/pull/46) |
-| Website Layout Broken- Please review Recent Changes | Medium | [#31](https://github.com/Aqsa4066/netflixclone/issues/31) |
-| Website Ruined | Medium | [#26](https://github.com/Aqsa4066/netflixclone/issues/26) |
 | 🔐 Feature Request: Integrate Firebase Authentication (Google + Email/Password) | Hard | [#64](https://github.com/Aqsa4066/netflixclone/issues/64) |
 
 ---
@@ -436,7 +436,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| improved UI of the landing page | Medium | [#196](https://github.com/dipexplorer/LegalHuB/pull/196) |
 | Integrate Google OAuth for User Authentication | Medium | [#185](https://github.com/dipexplorer/LegalHuB/pull/185) |
 | Add Dedicated Admin Dashboard Navbar for Easy Access | Hard | [#170](https://github.com/dipexplorer/LegalHuB/issues/170) |
 
@@ -547,42 +546,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
 | Implement JWT-Based Authentication Middleware | Medium | [#2](https://github.com/mr-rishikesh/DevConnect/issues/2) |
 | Implement Message Logic with WebSocket (Frontend + Backend Integration) | Hard | [#27](https://github.com/mr-rishikesh/DevConnect/issues/27) |
-
----
-
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Update readme file | Easy | [#250](https://github.com/SandeepVashishtha/Eventra/issues/250) |
-| UI Enhancement: Improve Newsletter Subscription Section | Medium | [#318](https://github.com/SandeepVashishtha/Eventra/issues/318) |
-| Enhance "Ready to create your first event?" CTA Section | Medium | [#317](https://github.com/SandeepVashishtha/Eventra/issues/317) |
-| Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
-| Unauthenticated Project Submissions | Medium | [#315](https://github.com/SandeepVashishtha/Eventra/issues/315) |
-| User Dashboard UI | Medium | [#314](https://github.com/SandeepVashishtha/Eventra/pull/314) |
-| Bug fix: Make All Community Links in Footer Functional and add more links | Medium | [#313](https://github.com/SandeepVashishtha/Eventra/issues/313) |
-| Fix Overlapping Issue in Privacy Page Due to Animation (Responsive) | Medium | [#312](https://github.com/SandeepVashishtha/Eventra/issues/312) |
-| Add "About GSSoC + Contribution Info" Section in Leaderboard Page | Medium | [#311](https://github.com/SandeepVashishtha/Eventra/issues/311) |
-| Bug:  Improve CTA in Project Page & Make "Browse Issues" Button Functional | Medium | [#310](https://github.com/SandeepVashishtha/Eventra/issues/310) |
-| Bug: fix Submit Project Form Floating & Redirect to New Page | Medium | [#309](https://github.com/SandeepVashishtha/Eventra/issues/309) |
-| Add CTA Sections in Events Page | Medium | [#308](https://github.com/SandeepVashishtha/Eventra/issues/308) |
-| Add CTA Section in Hackathon Page | Medium | [#307](https://github.com/SandeepVashishtha/Eventra/issues/307) |
-| Redesign "No Hackathon Found" Page | Medium | [#306](https://github.com/SandeepVashishtha/Eventra/issues/306) |
-| Redesign "No Event Found" Page | Medium | [#305](https://github.com/SandeepVashishtha/Eventra/issues/305) |
-| Make "Explore Hackathon" button scroll to hackathon section | Medium | [#304](https://github.com/SandeepVashishtha/Eventra/issues/304) |
-| Required fields not marked with red asterisk on Sign Up page | Medium | [#303](https://github.com/SandeepVashishtha/Eventra/issues/303) |
-| 3rd rank color looks too similar to gold (1st rank) | Medium | [#302](https://github.com/SandeepVashishtha/Eventra/issues/302) |
-| Contact Us page missing phone number field | Medium | [#301](https://github.com/SandeepVashishtha/Eventra/issues/301) |
 
 ---
 
