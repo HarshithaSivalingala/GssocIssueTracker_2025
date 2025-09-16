@@ -57,7 +57,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(build): Add a Central ``build.py`` Orchestrator for CinderPeak. | Medium | [#84](https://github.com/SharonIV0x86/CinderPeak/issues/84) |
+| feat(GraphList): Implement ``removeEdge()`` in Graph List | Easy | [#75](https://github.com/SharonIV0x86/CinderPeak/issues/75) |
+| "Fix issue #74: Implement clear vertices functionality" | Medium | [#97](https://github.com/SharonIV0x86/CinderPeak/issues/97) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
 
 ---
