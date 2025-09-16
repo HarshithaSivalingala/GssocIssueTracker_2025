@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix : added cursor-pointer to signin button | Medium | [#2279](https://github.com/OWASP/Nest/pull/2279) |
+| fix: add cursor:pointer to Sign In button for improved UX (#2269) | Medium | [#2278](https://github.com/OWASP/Nest/pull/2278) |
 | Migrate Scraper to GitHub .md Files | Medium | [#2277](https://github.com/OWASP/Nest/pull/2277) |
 | add sponsor api endpoint | Medium | [#2276](https://github.com/OWASP/Nest/pull/2276) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
@@ -146,6 +148,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Website is not mobile-friendly #212 | Medium | [#216](https://github.com/Khushi-Nigam/jobportal/pull/216) |
 | Only Image Scales on Hover, Not the Whole Blog Card | Medium | [#215](https://github.com/Khushi-Nigam/jobportal/issues/215) |
 | GitHub Actions workflow for basic code and docs checks | Medium | [#214](https://github.com/Khushi-Nigam/jobportal/issues/214) |
 
@@ -165,6 +168,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Suggestion: Integrate Hyperparameter Tuning for LSTM Model using Optuna | Medium | [#44](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/44) |
+| Suggestion: Using N-BEATS / N-HITS for Enhanced Sneaker Price Prediction | Medium | [#43](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/43) |
+| Update to README.md | Medium | [#42](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/42) |
 | Added initial EDA notebook: Contributes to progress on #24 | Medium | [#40](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/40) |
 | Enhancing the ui of the website | Medium | [#38](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/38) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
