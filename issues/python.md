@@ -35,6 +35,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhancement of About Page | Easy | [#185](https://github.com/SrigadaAkshayKumar/stock/issues/185) |
+| docs: Improve Readability of Contribution Guide | Medium | [#210](https://github.com/SrigadaAkshayKumar/stock/pull/210) |
 | Add Sentiment Analysis for Stocks from News & Social Media | Medium | [#209](https://github.com/SrigadaAkshayKumar/stock/issues/209) |
 | Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
 | Redesign the About Page for Better Visual Appeal and Clarity | Medium | [#207](https://github.com/SrigadaAkshayKumar/stock/issues/207) |
@@ -74,6 +75,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
+| Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
 | Pull Request: Update GrowthTracker UI with Glassmorphic Purple Gradient Design | Medium | [#288](https://github.com/Amarjha01/InfantCareCompass/pull/288) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
@@ -223,6 +226,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix : added cursor-pointer to signin button | Medium | [#2279](https://github.com/OWASP/Nest/pull/2279) |
+| fix: add cursor:pointer to Sign In button for improved UX (#2269) | Medium | [#2278](https://github.com/OWASP/Nest/pull/2278) |
 | Migrate Scraper to GitHub .md Files | Medium | [#2277](https://github.com/OWASP/Nest/pull/2277) |
 | add sponsor api endpoint | Medium | [#2276](https://github.com/OWASP/Nest/pull/2276) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
@@ -263,7 +268,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 |----------|----------------|---------|
 | Enhanced Footer | Medium | [#156](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/156) |
 | Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
-| Issue A: Improve Input Validation for Auth & API Routes | Medium | [#154](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/154) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | Lock scroll & trap focus in “Select Your Role” modal | Medium | [#151](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/151) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
@@ -285,6 +289,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a SECURITY.md file for responsible disclosure guidelines | Easy | [#164](https://github.com/Devasy23/splitwiser/issues/164) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
 | Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
@@ -487,6 +492,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Website is not mobile-friendly #212 | Medium | [#216](https://github.com/Khushi-Nigam/jobportal/pull/216) |
 | Only Image Scales on Hover, Not the Whole Blog Card | Medium | [#215](https://github.com/Khushi-Nigam/jobportal/issues/215) |
 | GitHub Actions workflow for basic code and docs checks | Medium | [#214](https://github.com/Khushi-Nigam/jobportal/issues/214) |
 
@@ -534,6 +540,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Navbar Missing on Contact Page | Medium | [#537](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/537) |
+| Back to Top Arrow Positioned on Bottom-Left Instead of Standard Bottom-Right | Medium | [#536](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/536) |
+| Wrong logo | Medium | [#535](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/535) |
+| Label should trigger form | Medium | [#534](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/534) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
@@ -553,12 +563,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: enhance login page layout with responsive design adjustments | Medium | [#305](https://github.com/omroy07/AgriTech/pull/305) |
 | Crop Planner Not Changing Based on Input | Medium | [#301](https://github.com/omroy07/AgriTech/issues/301) |
 | The text written while searching on chatbot is not visible | Medium | [#300](https://github.com/omroy07/AgriTech/issues/300) |
 | Incorrect Dark/Light Mode Icons | Medium | [#296](https://github.com/omroy07/AgriTech/issues/296) |
-| Redesign the cards  on the home page | Medium | [#293](https://github.com/omroy07/AgriTech/issues/293) |
 | Email Notification Capabilities | Medium | [#279](https://github.com/omroy07/AgriTech/issues/279) |
-| Login page is not mobile responsive | Medium | [#272](https://github.com/omroy07/AgriTech/issues/272) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
 | Farmer Form Validated | Medium | [#267](https://github.com/omroy07/AgriTech/pull/267) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#264](https://github.com/omroy07/AgriTech/pull/264) |
@@ -617,11 +626,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implementing a Data-Driven Analysis and Reporting Module | Medium | [#48](https://github.com/18Prachi/airplane-boarding-simulation/issues/48) |
 | Added the feature Issue#41 | Medium | [#47](https://github.com/18Prachi/airplane-boarding-simulation/pull/47) |
 | to make website for the same | Medium | [#46](https://github.com/18Prachi/airplane-boarding-simulation/issues/46) |
 | resolve the cascading movement bug | Medium | [#45](https://github.com/18Prachi/airplane-boarding-simulation/pull/45) |
 | adding baseline boarding strategies for comparison | Medium | [#44](https://github.com/18Prachi/airplane-boarding-simulation/issues/44) |
-| Improve Readme | Medium | [#43](https://github.com/18Prachi/airplane-boarding-simulation/issues/43) |
 | Add CODE_OF_CONDUCT.md | Medium | [#42](https://github.com/18Prachi/airplane-boarding-simulation/pull/42) |
 | Enhance Robustness, Add Logging & Validation | Medium | [#39](https://github.com/18Prachi/airplane-boarding-simulation/pull/39) |
 | Bugs issue | Medium | [#38](https://github.com/18Prachi/airplane-boarding-simulation/issues/38) |
@@ -787,6 +796,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Hyperparameter Tuning to Improve Model Performance -[GsSoc 2025] | Medium | [#29](https://github.com/ritikka06/Tariff-Fashion/issues/29) |
 | Add Auto Multi-Model Support, Enhance UI/UX, and Improve Documentation | Medium | [#28](https://github.com/ritikka06/Tariff-Fashion/issues/28) |
 | docs: enhance README with project overview, setup, and contribution guide | Medium | [#27](https://github.com/ritikka06/Tariff-Fashion/pull/27) |
 | Enhance Streamlit UI with Custom Theme and Visual Elements | Medium | [#26](https://github.com/ritikka06/Tariff-Fashion/issues/26) |
@@ -857,6 +867,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Footer Navigation with Essential and Legal Pages - Extension | Easy | [#204](https://github.com/eccentriccoder01/TalkHeal/issues/204) |
+| Fix: Poor text readability in App Overview page | Medium | [#205](https://github.com/eccentriccoder01/TalkHeal/issues/205) |
 | Create an Interactive Onboarding Flow | Medium | [#182](https://github.com/eccentriccoder01/TalkHeal/issues/182) |
 | Develop a Peer Matching System | Medium | [#181](https://github.com/eccentriccoder01/TalkHeal/issues/181) |
 | Implement Expert-Led Q&A Sessions | Medium | [#180](https://github.com/eccentriccoder01/TalkHeal/issues/180) |
@@ -889,6 +901,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Suggestion: Integrate Hyperparameter Tuning for LSTM Model using Optuna | Medium | [#44](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/44) |
+| Suggestion: Using N-BEATS / N-HITS for Enhanced Sneaker Price Prediction | Medium | [#43](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/43) |
+| Update to README.md | Medium | [#42](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/42) |
 | Added initial EDA notebook: Contributes to progress on #24 | Medium | [#40](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/40) |
 | Enhancing the ui of the website | Medium | [#38](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/38) |
 | Implement Sneaker Price Prediction Model Using XGBoost with GridSearchCV and Streamlit UI-GSSoC25 | Medium | [#23](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/23) |
@@ -1081,6 +1096,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance footer design and add social media links | Medium | [#428](https://github.com/multiverseweb/Dataverse/issues/428) |
 | Typo Readme Line 112 | Medium | [#427](https://github.com/multiverseweb/Dataverse/issues/427) |
 | Hamburger menu and Cross icon looking a little big in size | Medium | [#426](https://github.com/multiverseweb/Dataverse/issues/426) |
 | Add Background Color to Footer Section | Medium | [#425](https://github.com/multiverseweb/Dataverse/issues/425) |
@@ -1110,7 +1126,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | improving the UI/UX of the authentication pages | Medium | [#400](https://github.com/multiverseweb/Dataverse/issues/400) |
 | Feature Request: Language Toggle for Multilingual UI | Medium | [#399](https://github.com/multiverseweb/Dataverse/issues/399) |
 | Improved UI: Dark Mode Toggle, Corrected the stunning visuals page by solving 4044 error | Medium | [#398](https://github.com/multiverseweb/Dataverse/pull/398) |
-| Add styles to Login and go to home buttons | Medium | [#397](https://github.com/multiverseweb/Dataverse/issues/397) |
 
 ---
 
@@ -1128,6 +1143,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| New Project Proposal On Fraud detection using Explainable AI | Medium | [#1796](https://github.com/UTSAVS26/PyVerse/issues/1796) |
 | Added UPI Fraud Detection | Medium | [#1628](https://github.com/UTSAVS26/PyVerse/pull/1628) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 | ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
@@ -1254,12 +1270,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| deps(deps): bump lucide-react from 0.525.0 to 0.542.0 in /optiblogai-site | Medium | [#101](https://github.com/solve-ease/OptiBlogAi/pull/101) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.3.1 in /optiblogai-site | Medium | [#100](https://github.com/solve-ease/OptiBlogAi/pull/100) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.544.0 in /optiblogai-site | Medium | [#105](https://github.com/solve-ease/OptiBlogAi/pull/105) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.4.0 in /optiblogai-site | Medium | [#104](https://github.com/solve-ease/OptiBlogAi/pull/104) |
+| deps(deps): bump next from 15.4.1 to 15.5.3 in /optiblogai-site | Medium | [#103](https://github.com/solve-ease/OptiBlogAi/pull/103) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.3 in /optiblogai-site | Medium | [#102](https://github.com/solve-ease/OptiBlogAi/pull/102) |
 | deps(deps): bump soupsieve from 2.6 to 2.8 | Medium | [#99](https://github.com/solve-ease/OptiBlogAi/pull/99) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.2 in /optiblogai-site | Medium | [#98](https://github.com/solve-ease/OptiBlogAi/pull/98) |
 | deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.7.0 | Medium | [#97](https://github.com/solve-ease/OptiBlogAi/pull/97) |
-| deps(deps): bump next from 15.4.1 to 15.5.2 in /optiblogai-site | Medium | [#96](https://github.com/solve-ease/OptiBlogAi/pull/96) |
 | deps(deps): bump playwright from 1.53.0 to 1.55.0 | Medium | [#95](https://github.com/solve-ease/OptiBlogAi/pull/95) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.35.0 in /optiblogai-site | Medium | [#94](https://github.com/solve-ease/OptiBlogAi/pull/94) |
 | ci(deps): bump actions/setup-python from 5 to 6 | Medium | [#93](https://github.com/solve-ease/OptiBlogAi/pull/93) |
@@ -1450,6 +1466,24 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
+## 📌 Project: Shakti app
+
+📝 **Description:** Shakti is a safe, anonymous, and multilingual platform empowering survivors and everyday heroes to share their truths — through voice or text — in their own words and languages.
+
+🔗 [View Project](https://github.com/my-projects-it/shakti-app)
+
+💻 **Tech Stack:** Python, Streamlit
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Integrating NLP Model for Automated Emotion Analysis of English Submissions | Medium | [#33](https://github.com/my-projects-it/Shakti-app/issues/33) |
+
+---
+
 ## 📌 Project: ZBOT
 
 📝 **Description:** Its a personal AI agent like harvis used to automate stuffs
@@ -1637,6 +1671,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| New Features | Medium | [#39](https://github.com/Sindhuchowdhary23/CODSOFT/issues/39) |
 | Adding Optional Due Date Field to Tasks | Medium | [#38](https://github.com/Sindhuchowdhary23/CODSOFT/issues/38) |
 | Added Django Todo project | Medium | [#37](https://github.com/Sindhuchowdhary23/CODSOFT/pull/37) |
 | Feature Request: Add Daily Task Reminders to CLI To-Do List | Medium | [#36](https://github.com/Sindhuchowdhary23/CODSOFT/issues/36) |
@@ -1747,7 +1782,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GitHub Issue Templates for Consistent Reporting | Medium | [#68](https://github.com/CharithaReddy18/AI-health-chatbot/pull/68) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
@@ -1766,6 +1800,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Contributions and enhancements | Medium | [#40](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/40) |
 | Implement Support Vector Regression (SVR) for Crop Yield Prediction | Medium | [#39](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/39) |
 | Add AgriBot – AI Chatbot Using Gemini Model | Medium | [#38](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/38) |
 | Sidebar Text Visibility Bug + Dashboard Styling Improvements | Medium | [#37](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/37) |
