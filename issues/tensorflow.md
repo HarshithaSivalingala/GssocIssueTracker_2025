@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
+| Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
 | Pull Request: Update GrowthTracker UI with Glassmorphic Purple Gradient Design | Medium | [#288](https://github.com/Amarjha01/InfantCareCompass/pull/288) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
@@ -42,14 +44,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Twitter Icon to Latest X Logo | Medium | [#113](https://github.com/Bavanetha27/Refixly/issues/113) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#112](https://github.com/Bavanetha27/Refixly/issues/112) |
-| Responsive layout, user Authentication, new pages addition | Medium | [#111](https://github.com/Bavanetha27/Refixly/issues/111) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
-| Refactor Error Handling in AIDamageDetection.jsx | Medium | [#109](https://github.com/Bavanetha27/Refixly/issues/109) |
-| about us page | Medium | [#108](https://github.com/Bavanetha27/Refixly/issues/108) |
 | Irrelevant get started button removed | Medium | [#107](https://github.com/Bavanetha27/Refixly/pull/107) |
-| Registration: Missing "Confirm Password" Field | Medium | [#106](https://github.com/Bavanetha27/Refixly/issues/106) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
