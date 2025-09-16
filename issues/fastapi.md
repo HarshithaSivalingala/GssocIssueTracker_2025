@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
+| Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
 | Pull Request: Update GrowthTracker UI with Glassmorphic Purple Gradient Design | Medium | [#288](https://github.com/Amarjha01/InfantCareCompass/pull/288) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
@@ -40,6 +42,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a SECURITY.md file for responsible disclosure guidelines | Easy | [#164](https://github.com/Devasy23/splitwiser/issues/164) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
 | Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
@@ -99,6 +102,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Navbar Missing on Contact Page | Medium | [#537](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/537) |
+| Back to Top Arrow Positioned on Bottom-Left Instead of Standard Bottom-Right | Medium | [#536](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/536) |
+| Wrong logo | Medium | [#535](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/535) |
+| Label should trigger form | Medium | [#534](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/534) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
@@ -147,12 +154,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| deps(deps): bump lucide-react from 0.525.0 to 0.542.0 in /optiblogai-site | Medium | [#101](https://github.com/solve-ease/OptiBlogAi/pull/101) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.3.1 in /optiblogai-site | Medium | [#100](https://github.com/solve-ease/OptiBlogAi/pull/100) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.544.0 in /optiblogai-site | Medium | [#105](https://github.com/solve-ease/OptiBlogAi/pull/105) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.4.0 in /optiblogai-site | Medium | [#104](https://github.com/solve-ease/OptiBlogAi/pull/104) |
+| deps(deps): bump next from 15.4.1 to 15.5.3 in /optiblogai-site | Medium | [#103](https://github.com/solve-ease/OptiBlogAi/pull/103) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.3 in /optiblogai-site | Medium | [#102](https://github.com/solve-ease/OptiBlogAi/pull/102) |
 | deps(deps): bump soupsieve from 2.6 to 2.8 | Medium | [#99](https://github.com/solve-ease/OptiBlogAi/pull/99) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.2 in /optiblogai-site | Medium | [#98](https://github.com/solve-ease/OptiBlogAi/pull/98) |
 | deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.7.0 | Medium | [#97](https://github.com/solve-ease/OptiBlogAi/pull/97) |
-| deps(deps): bump next from 15.4.1 to 15.5.2 in /optiblogai-site | Medium | [#96](https://github.com/solve-ease/OptiBlogAi/pull/96) |
 | deps(deps): bump playwright from 1.53.0 to 1.55.0 | Medium | [#95](https://github.com/solve-ease/OptiBlogAi/pull/95) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.35.0 in /optiblogai-site | Medium | [#94](https://github.com/solve-ease/OptiBlogAi/pull/94) |
 | ci(deps): bump actions/setup-python from 5 to 6 | Medium | [#93](https://github.com/solve-ease/OptiBlogAi/pull/93) |
