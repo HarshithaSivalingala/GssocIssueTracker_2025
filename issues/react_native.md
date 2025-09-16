@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a SECURITY.md file for responsible disclosure guidelines | Easy | [#164](https://github.com/Devasy23/splitwiser/issues/164) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
 | Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
@@ -45,6 +46,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Revamp the chats page | Medium | [#26](https://github.com/SyedImtiyaz-1/Swapify/issues/26) |
 | ⭐ Feature: Add “Saved Listings” Section | Medium | [#25](https://github.com/SyedImtiyaz-1/Swapify/issues/25) |
 | 🚩 Feature: Add “Report Listing” Option | Medium | [#24](https://github.com/SyedImtiyaz-1/Swapify/issues/24) |
 | 🔄 Feature: Add Sorting Options to Listings | Medium | [#23](https://github.com/SyedImtiyaz-1/Swapify/issues/23) |
@@ -113,7 +115,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Save Card should Redirect to Subject Page | Easy | [#109](https://github.com/Loop-Hive/ScheduleX/issues/109) |
 | Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/Loop-Hive/ScheduleX/issues/95) |
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
@@ -127,7 +128,6 @@
 | Duplicate Card Add on Add or Edit Card | Medium | [#106](https://github.com/Loop-Hive/ScheduleX/issues/106) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/Loop-Hive/ScheduleX/issues/98) |
 | Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
-| Add Time Slot Error on Specific days | Medium | [#82](https://github.com/Loop-Hive/ScheduleX/issues/82) |
 | Export tasks as pdf | Medium | [#10](https://github.com/Loop-Hive/ScheduleX/issues/10) |
 | Cloud sync through Google Drive | Hard | [#14](https://github.com/Loop-Hive/ScheduleX/issues/14) |
 
