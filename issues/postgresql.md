@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add missing form validation on expense claim submission | Medium | [#71](https://github.com/Abhinavhaldiya/FinPilot/issues/71) |
 | Connect frontend Auth.tsx with backend login/register API | Medium | [#69](https://github.com/Abhinavhaldiya/FinPilot/issues/69) |
 | Implement Full Backend for FinPilot (CRUD, Workflows, Dashboard APIs) | Medium | [#65](https://github.com/Abhinavhaldiya/FinPilot/issues/65) |
 | deployment | Medium | [#64](https://github.com/Abhinavhaldiya/FinPilot/issues/64) |
@@ -22,7 +23,6 @@
 | Schema Definition using Prisma | Medium | [#32](https://github.com/Abhinavhaldiya/FinPilot/issues/32) |
 | Update README.md file | Medium | [#21](https://github.com/Abhinavhaldiya/FinPilot/issues/21) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#19](https://github.com/Abhinavhaldiya/FinPilot/issues/19) |
-| Feature & Tech Suggestions | Medium | [#17](https://github.com/Abhinavhaldiya/FinPilot/issues/17) |
 
 ---
 
@@ -230,6 +230,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
+| Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
 | chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
@@ -252,6 +253,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Fixed the overlapping card issue in post tab | Medium | [#173](https://github.com/harsh3dev/DevMatchups/pull/173) |
 | Bug: Favorites not loading and cannot be added | Medium | [#172](https://github.com/harsh3dev/DevMatchups/issues/172) |
 | Add validation for No. of team members field | Medium | [#134](https://github.com/harsh3dev/DevMatchups/issues/134) |
+
+---
+
+## 📌 Project: Voice Marketing Agents
+
+📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
+
+🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
+
+💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 📂 Add Project Folder Structure | Medium | [#43](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/43) |
 
 ---
 
@@ -306,6 +325,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Bug | Medium | [#400](https://github.com/SandeepVashishtha/Eventra/issues/400) |
+
+---
+
 ## 📌 Project: Prepnerdz
 
 📝 **Description:** College students waste countless hours wandering WhatsApp groups, requesting seniors or digging through unorganised drive for study materials and all. Prepnerdz solves this Chaos by providing the centralised and organised platform of RGPV previous year papers, final semester, mid semester, lab manuals, important questions, topics, reference books, best academic notes and many more.
@@ -346,10 +383,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📱 Make Footer Mobile Responsive | Medium | [#169](https://github.com/vatsal-bhakodia/smriti-ai/issues/169) |
-| scripts: make backfill for QuizResults safe and batched | Medium | [#168](https://github.com/vatsal-bhakodia/smriti-ai/issues/168) |
-| Currently, the repository does not have standardized templates for issues and pull requests. Adding these templates will improve collaboration and streamline contributions. | Medium | [#167](https://github.com/vatsal-bhakodia/smriti-ai/issues/167) |
-| Multilingual Headline on Landing Page | Medium | [#166](https://github.com/vatsal-bhakodia/smriti-ai/issues/166) |
+| Fixed overflow issue in the About section. | Medium | [#174](https://github.com/vatsal-bhakodia/smriti-ai/pull/174) |
+| fix(backfill): add batching, dry-run, and transactional updates for QuizResult backfill | Medium | [#173](https://github.com/vatsal-bhakodia/smriti-ai/pull/173) |
+| Adding New Features | Medium | [#172](https://github.com/vatsal-bhakodia/smriti-ai/issues/172) |
+| Feature Request: Dynamic Testimonials with Form & API | Medium | [#90](https://github.com/vatsal-bhakodia/smriti-ai/issues/90) |
 
 ---
 
