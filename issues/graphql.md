@@ -14,8 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix : added cursor-pointer to signin button | Medium | [#2279](https://github.com/OWASP/Nest/pull/2279) |
-| fix: add cursor:pointer to Sign In button for improved UX (#2269) | Medium | [#2278](https://github.com/OWASP/Nest/pull/2278) |
+| UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
+| fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Migrate Scraper to GitHub .md Files | Medium | [#2277](https://github.com/OWASP/Nest/pull/2277) |
 | add sponsor api endpoint | Medium | [#2276](https://github.com/OWASP/Nest/pull/2276) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
