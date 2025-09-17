@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added toggle darkmode button in the editor | Medium | [#1359](https://github.com/vishanurag/Canvas-Editor/pull/1359) |
+| chatbot using LLM | Medium | [#1365](https://github.com/vishanurag/Canvas-Editor/pull/1365) |
 
 ---
 
@@ -36,13 +36,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Unify Blog Page Header & Footer with Homepage Design for Consistency | Medium | [#518](https://github.com/gyanshankar1708/GrowCraft/issues/518) |
+| Enhance Homepage "About Us" Section with Improved Design & Content | Medium | [#517](https://github.com/gyanshankar1708/GrowCraft/issues/517) |
+| Add "FAQ" Link to Header Navigation (Open Dedicated FAQ Page) | Medium | [#516](https://github.com/gyanshankar1708/GrowCraft/pull/516) |
+| Added dark mode feature to services.html | Medium | [#515](https://github.com/gyanshankar1708/GrowCraft/pull/515) |
+| Footer design issues: unwanted green background & misaligned underline | Medium | [#514](https://github.com/gyanshankar1708/GrowCraft/issues/514) |
+| Add Feedback & Reviews Section Above Footer in homepage | Medium | [#513](https://github.com/gyanshankar1708/GrowCraft/pull/513) |
+| UI/UX Improvements for Service Page | Medium | [#512](https://github.com/gyanshankar1708/GrowCraft/issues/512) |
+| Title styling fix on web dev page  & whole page structuring changes | Medium | [#511](https://github.com/gyanshankar1708/GrowCraft/issues/511) |
+| Fix : structuring and redesigning of about us section on homepage | Medium | [#510](https://github.com/gyanshankar1708/GrowCraft/issues/510) |
+| Redesign of cards on services page | Medium | [#509](https://github.com/gyanshankar1708/GrowCraft/issues/509) |
+| Content writing Redesigned | Medium | [#507](https://github.com/gyanshankar1708/GrowCraft/pull/507) |
+| Text Visibility in About Us Card for Dark Mode | Medium | [#506](https://github.com/gyanshankar1708/GrowCraft/issues/506) |
 | fix text-color of search placeholder og navBar and fixes space and font-size in ABout section | Medium | [#503](https://github.com/gyanshankar1708/GrowCraft/pull/503) |
 | Refine Footer Layout for Better Alignment and Readability | Medium | [#502](https://github.com/gyanshankar1708/GrowCraft/issues/502) |
-| Create CONTRIBUTING.md with contribution guidelines | Medium | [#501](https://github.com/gyanshankar1708/GrowCraft/pull/501) |
 | Standardize navbar across all pages - make them identical to index.html | Medium | [#480](https://github.com/gyanshankar1708/GrowCraft/pull/480) |
 | Redesign the complete  homepage | Medium | [#444](https://github.com/gyanshankar1708/GrowCraft/issues/444) |
 | Style the About Page | Medium | [#425](https://github.com/gyanshankar1708/GrowCraft/pull/425) |
-| Added missing footer in about page | Medium | [#400](https://github.com/gyanshankar1708/GrowCraft/pull/400) |
 
 ---
 
@@ -82,6 +92,25 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
+
+---
+
+## 📌 Project: sachiva
+
+📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
+
+🔗 [View Project](https://github.com/sachiva1/sachiva)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix/navbar mobile overflow 216 | Medium | [#258](https://github.com/sachiva1/sachiva/pull/258) |
+| fix/about-page-content-alignment-217 | Medium | [#257](https://github.com/sachiva1/sachiva/pull/257) |
 
 ---
 
