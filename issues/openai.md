@@ -42,9 +42,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Made Changes | Medium | [#281](https://github.com/Ayushjhawar8/Flavor-ai/pull/281) |
-| feat(ingredients): compact Servings UI + reliable per-row Metric/US conversion & scaling | Medium | [#277](https://github.com/Ayushjhawar8/Flavor-ai/pull/277) |
-| Feature/google translate fix | Medium | [#275](https://github.com/Ayushjhawar8/Flavor-ai/pull/275) |
+| Feat: create festive dishes page | Medium | [#290](https://github.com/Ayushjhawar8/Flavor-ai/pull/290) |
+| Fix footer issue and update festivals page | Medium | [#289](https://github.com/Ayushjhawar8/Flavor-ai/pull/289) |
+| Fix footer issue and update festivals page | Medium | [#288](https://github.com/Ayushjhawar8/Flavor-ai/pull/288) |
+| Update layout.jsx | Medium | [#286](https://github.com/Ayushjhawar8/Flavor-ai/pull/286) |
+| Update layout.jsx | Medium | [#285](https://github.com/Ayushjhawar8/Flavor-ai/pull/285) |
+| Idea Hub Feature Added | Hard | [#282](https://github.com/Ayushjhawar8/Flavor-ai/pull/282) |
 
 ---
 
@@ -98,10 +101,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Navbar Missing on Contact Page | Medium | [#537](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/537) |
-| Back to Top Arrow Positioned on Bottom-Left Instead of Standard Bottom-Right | Medium | [#536](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/536) |
-| Wrong logo | Medium | [#535](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/535) |
-| Label should trigger form | Medium | [#534](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/534) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
