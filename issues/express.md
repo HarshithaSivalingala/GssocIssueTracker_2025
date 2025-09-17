@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add missing form validation on expense claim submission | Medium | [#71](https://github.com/Abhinavhaldiya/FinPilot/issues/71) |
 | Connect frontend Auth.tsx with backend login/register API | Medium | [#69](https://github.com/Abhinavhaldiya/FinPilot/issues/69) |
 | Implement Full Backend for FinPilot (CRUD, Workflows, Dashboard APIs) | Medium | [#65](https://github.com/Abhinavhaldiya/FinPilot/issues/65) |
 | deployment | Medium | [#64](https://github.com/Abhinavhaldiya/FinPilot/issues/64) |
@@ -22,7 +23,6 @@
 | Schema Definition using Prisma | Medium | [#32](https://github.com/Abhinavhaldiya/FinPilot/issues/32) |
 | Update README.md file | Medium | [#21](https://github.com/Abhinavhaldiya/FinPilot/issues/21) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#19](https://github.com/Abhinavhaldiya/FinPilot/issues/19) |
-| Feature & Tech Suggestions | Medium | [#17](https://github.com/Abhinavhaldiya/FinPilot/issues/17) |
 
 ---
 
@@ -48,12 +48,16 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add alt text to all images in the README and static pages | Easy | [#476](https://github.com/abhisek2004/Dev-Elevate/issues/476) |
+| Advanced Analytics Dashboard for Admins | Easy | [#472](https://github.com/abhisek2004/Dev-Elevate/issues/472) |
 | Feature: Mentorship / Experts Connect | Easy | [#365](https://github.com/abhisek2004/Dev-Elevate/issues/365) |
 | Feature Sync Admin-Added Courses with User Course Display | Easy | [#350](https://github.com/abhisek2004/Dev-Elevate/issues/350) |
 | 🐛 Issue: Content Management Not Functioning Properly | Easy | [#343](https://github.com/abhisek2004/Dev-Elevate/issues/343) |
 | Feature AI Interview Simulator – Backend Setup | Easy | [#341](https://github.com/abhisek2004/Dev-Elevate/issues/341) |
 | [Enhancement] Expand Job Opportunities Feed with Multiple Platforms | Easy | [#229](https://github.com/abhisek2004/Dev-Elevate/issues/229) |
 | [Feature] Integrate ATS Scanner into Resume Builder – #NewFeature | Easy | [#228](https://github.com/abhisek2004/Dev-Elevate/issues/228) |
+| Refactor AdminLog structure and update log handling in AdminSystemLog… | Medium | [#478](https://github.com/abhisek2004/Dev-Elevate/pull/478) |
+| Add Helmet and hpp middleware for improved security | Medium | [#477](https://github.com/abhisek2004/Dev-Elevate/issues/477) |
 
 ---
 
@@ -71,6 +75,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Mobile Responsiveness for Navbar | Medium | [#331](https://github.com/adityagarwal15/JobSync/issues/331) |
 | 🐛 : button not working | Medium | [#330](https://github.com/adityagarwal15/JobSync/issues/330) |
 | Improve Styling of Secondary Paragraphs for Better Readability and Aesthetic | Medium | [#329](https://github.com/adityagarwal15/JobSync/issues/329) |
 | Navbar UI Improvements | Medium | [#328](https://github.com/adityagarwal15/JobSync/issues/328) |
@@ -144,8 +149,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat(auth): Add departement validation to signup route | Medium | [#1235](https://github.com/Code-A2Z/code-a2z/pull/1235) |
-| Enhancement Request: Add express-validator | Medium | [#1234](https://github.com/Code-A2Z/code-a2z/issues/1234) |
-| Enhancement Request: Add sanitize-html | Medium | [#1233](https://github.com/Code-A2Z/code-a2z/issues/1233) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
@@ -174,6 +177,10 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(ui): integrate toast notifications for upload feedback | Medium | [#117](https://github.com/Bavanetha27/Refixly/pull/117) |
+| SECURITY.md | Medium | [#116](https://github.com/Bavanetha27/Refixly/pull/116) |
+| Added confirm password field | Medium | [#115](https://github.com/Bavanetha27/Refixly/pull/115) |
+| Updated Twitter icon | Medium | [#114](https://github.com/Bavanetha27/Refixly/pull/114) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | Irrelevant get started button removed | Medium | [#107](https://github.com/Bavanetha27/Refixly/pull/107) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
@@ -351,9 +358,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Custom xssFilter is instantiated but never used | Easy | [#296](https://github.com/GauravKarakoti/Weather-API/issues/296) |
 | Replace disruptive window.alert() with non-blocking UI notifications | Easy | [#295](https://github.com/GauravKarakoti/Weather-API/issues/295) |
 | Utility functions are duplicated in server.js and /src/utils/ | Easy | [#290](https://github.com/GauravKarakoti/Weather-API/issues/290) |
-| npm(deps): bump axios from 1.11.0 to 1.12.2 | Medium | [#311](https://github.com/GauravKarakoti/Weather-API/pull/311) |
-| npm(deps-dev): bump jsdom from 26.1.0 to 27.0.0 | Medium | [#310](https://github.com/GauravKarakoti/Weather-API/pull/310) |
-| npm(deps): bump uuid from 12.0.0 to 13.0.0 | Medium | [#309](https://github.com/GauravKarakoti/Weather-API/pull/309) |
 | connect Weather route with OpenWeatherMap API | Medium | [#288](https://github.com/GauravKarakoti/Weather-API/pull/288) |
 | showTab function relies on deprecated global event object | Hard | [#294](https://github.com/GauravKarakoti/Weather-API/issues/294) |
 | Admin credentials are saved in plaintext (Base64) in sessionStorage | Hard | [#289](https://github.com/GauravKarakoti/Weather-API/issues/289) |
@@ -429,10 +433,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Navbar Missing on Contact Page | Medium | [#537](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/537) |
-| Back to Top Arrow Positioned on Bottom-Left Instead of Standard Bottom-Right | Medium | [#536](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/536) |
-| Wrong logo | Medium | [#535](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/535) |
-| Label should trigger form | Medium | [#534](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/534) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
@@ -696,6 +696,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixing some css and adding some pages | Medium | [#97](https://github.com/SamXop123/RigCrafter/issues/97) |
 | Feature: Implement Price Tracking and Alerts for Components | Medium | [#95](https://github.com/SamXop123/RigCrafter/issues/95) |
 | Enhancement: Add Filter by Availability for Components | Medium | [#94](https://github.com/SamXop123/RigCrafter/issues/94) |
 | Add more components to the Builder | Hard | [#96](https://github.com/SamXop123/RigCrafter/issues/96) |
@@ -751,6 +752,25 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Implementation of TImeTable | Medium | [#18](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/18) |
 | Make it a progressive web app (PWA) | Medium | [#16](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/16) |
 | Fixed the issue | Medium | [#4](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/4) |
+
+---
+
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add workflow for automate comment for issue | Medium | [#201](https://github.com/SurajSG23/PrepBuddy/issues/201) |
+| Add template for pull request | Medium | [#200](https://github.com/SurajSG23/PrepBuddy/issues/200) |
 
 ---
 
@@ -899,6 +919,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Help Center Page is missing | Medium | [#239](https://github.com/openml-stack/SentiLog-AI/issues/239) |
 | improved menubar | Medium | [#238](https://github.com/openml-stack/SentiLog-AI/pull/238) |
 | Add "Show/Hide Password" Eye Icon in Signup and login form | Medium | [#237](https://github.com/openml-stack/SentiLog-AI/issues/237) |
 | Privacy Policy page enhancement | Medium | [#236](https://github.com/openml-stack/SentiLog-AI/issues/236) |
@@ -919,7 +940,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Ui needs Professional Look | Medium | [#189](https://github.com/openml-stack/SentiLog-AI/issues/189) |
 | Help Center Link is Present but Page Doesn’t Exist | Medium | [#188](https://github.com/openml-stack/SentiLog-AI/issues/188) |
 | Add Mood Tracker or Calendar View for Visualizing Logs | Medium | [#187](https://github.com/openml-stack/SentiLog-AI/issues/187) |
-| Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
 
 ---
 
@@ -995,6 +1015,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added top 3 contributors in home page as well as another section for all contributors | Medium | [#124](https://github.com/DevSyncx/DevSync/pull/124) |
 | Implements Pomodoro Timer feature | Medium | [#123](https://github.com/DevSyncx/DevSync/pull/123) |
 | Personalized Unified Dashboard for Logged-In Users | Medium | [#121](https://github.com/DevSyncx/DevSync/issues/121) |
 | Add productivity challenge section | Medium | [#119](https://github.com/DevSyncx/DevSync/pull/119) |
@@ -1190,6 +1211,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat/theme contrast | Medium | [#89](https://github.com/lovelymahor/StudyMatePlus/pull/89) |
+| Font consistency issue | Medium | [#88](https://github.com/lovelymahor/StudyMatePlus/issues/88) |
 | Feat/testimonials horizontal | Medium | [#87](https://github.com/lovelymahor/StudyMatePlus/pull/87) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Feat/dark mode global issue #82 | Medium | [#83](https://github.com/lovelymahor/StudyMatePlus/pull/83) |
@@ -1317,12 +1340,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Level 3 Improvements: Routing, UX, and Deploy-Ready Enhancements | Medium | [#770](https://github.com/Premkolte/AnimateHub/issues/770) |
-| Level 3 Update: Routing, UX, and Deploy-ready Improvements | Medium | [#769](https://github.com/Premkolte/AnimateHub/pull/769) |
-| SignUp form Create button is responding to click now and redirecting to signin form | Medium | [#768](https://github.com/Premkolte/AnimateHub/pull/768) |
-| Added validations for password field in signup form. | Medium | [#767](https://github.com/Premkolte/AnimateHub/pull/767) |
-| Feature cards enlarge on hover with glow effect. | Medium | [#766](https://github.com/Premkolte/AnimateHub/pull/766) |
+| Level 3: Update PostCSS Configuration for Deploy-Ready Setup | Medium | [#776](https://github.com/Premkolte/AnimateHub/issues/776) |
+| Level 3: fix(postcss) – add missing plugins and update config for deployment | Medium | [#775](https://github.com/Premkolte/AnimateHub/pull/775) |
 | 🚨 Important Admin Notice 🚨 | Medium | [#662](https://github.com/Premkolte/AnimateHub/issues/662) |
+| #500 - Congratulations to All Contributors | Hard | [#500](https://github.com/Premkolte/AnimateHub/issues/500) |
 
 ---
 
@@ -1379,13 +1400,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement medication adherence feature, models, and UI improvements | Medium | [#221](https://github.com/shandilya-rajnandini/DocAtHome/pull/221) |
 | Set up CI pipeline and fix failing auth tests | Medium | [#219](https://github.com/shandilya-rajnandini/DocAtHome/pull/219) |
-| Create a structured "Second Opinion" service workflow | Medium | [#218](https://github.com/shandilya-rajnandini/DocAtHome/issues/218) |
-| Create anonymous, moderated peer support chat groups | Medium | [#217](https://github.com/shandilya-rajnandini/DocAtHome/issues/217) |
-| Implement a "Family Bridge" one-way video call for consultations | Medium | [#216](https://github.com/shandilya-rajnandini/DocAtHome/issues/216) |
 | Design and implement a "Post-Discharge Concierge" booking flow | Medium | [#215](https://github.com/shandilya-rajnandini/DocAtHome/issues/215) |
-| Develop a "Medication Adherence Score" for patients | Medium | [#214](https://github.com/shandilya-rajnandini/DocAtHome/issues/214) |
-| DocAtHome - Quality Healthcare at Your Doorstep | Medium | [#210](https://github.com/shandilya-rajnandini/DocAtHome/pull/210) |
 | Reintroduce Skeleton placeholders for loading states in Appointments, Search Doctor, and Doctor Appointment pages | Medium | [#207](https://github.com/shandilya-rajnandini/DocAtHome/pull/207) |
 | added lab-test-status | Medium | [#205](https://github.com/shandilya-rajnandini/DocAtHome/pull/205) |
 | feat(#123): implement patient acuity score for appointment requests | Medium | [#204](https://github.com/shandilya-rajnandini/DocAtHome/pull/204) |
@@ -1393,7 +1410,6 @@ Fast Workflow Tools
 | Enhance Theme Colors & Improve UX for Better Visual Consistency | Medium | [#202](https://github.com/shandilya-rajnandini/DocAtHome/pull/202) |
 | feat: Add autocomplete search filters for Specialty and City | Medium | [#200](https://github.com/shandilya-rajnandini/DocAtHome/pull/200) |
 | Improve the responsive design of the Patient and Doctor Dashboards | Medium | [#177](https://github.com/shandilya-rajnandini/DocAtHome/issues/177) |
-| Implement a dynamic, AI-driven pre-consultation intake form | Hard | [#213](https://github.com/shandilya-rajnandini/DocAtHome/issues/213) |
 
 ---
 
@@ -1725,9 +1741,7 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding more LLM providers and a button to choose your LLM provider and enter your key | Medium | [#97](https://github.com/Coden-inja/alchEmaiLyst/issues/97) |
 | Add Email Format Validation | Medium | [#96](https://github.com/Coden-inja/alchEmaiLyst/pull/96) |
-| feat: improved About Us section with gradient heading, glass card. | Medium | [#95](https://github.com/Coden-inja/alchEmaiLyst/pull/95) |
 | Google g-mail OAuth not working/responding | Medium | [#48](https://github.com/Coden-inja/alchEmaiLyst/issues/48) |
 
 ---
