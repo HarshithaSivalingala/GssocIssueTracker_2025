@@ -14,8 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI Issue | Easy | [#134](https://github.com/abhisek247767/PeopleHub-Frontend/issues/134) |
 | Not able to login as an Admin or Superadmin | Easy | [#120](https://github.com/abhisek247767/PeopleHub-Frontend/issues/120) |
+| Improve Mobile Responsiveness for Navbar | Medium | [#137](https://github.com/abhisek247767/PeopleHub-Frontend/issues/137) |
+| fix(ui): UI Issue #134 | Medium | [#136](https://github.com/abhisek247767/PeopleHub-Frontend/pull/136) |
 
 ---
 
