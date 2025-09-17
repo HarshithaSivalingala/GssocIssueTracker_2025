@@ -42,8 +42,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat(auth): Add departement validation to signup route | Medium | [#1235](https://github.com/Code-A2Z/code-a2z/pull/1235) |
-| Enhancement Request: Add express-validator | Medium | [#1234](https://github.com/Code-A2Z/code-a2z/issues/1234) |
-| Enhancement Request: Add sanitize-html | Medium | [#1233](https://github.com/Code-A2Z/code-a2z/issues/1233) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
@@ -72,6 +70,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(ui): integrate toast notifications for upload feedback | Medium | [#117](https://github.com/Bavanetha27/Refixly/pull/117) |
+| SECURITY.md | Medium | [#116](https://github.com/Bavanetha27/Refixly/pull/116) |
+| Added confirm password field | Medium | [#115](https://github.com/Bavanetha27/Refixly/pull/115) |
+| Updated Twitter icon | Medium | [#114](https://github.com/Bavanetha27/Refixly/pull/114) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | Irrelevant get started button removed | Medium | [#107](https://github.com/Bavanetha27/Refixly/pull/107) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
@@ -187,7 +189,6 @@
 | fixes#197 : add password strength indicator with progress bar in Auth… | Medium | [#198](https://github.com/Richajaishwal0/Trip_assistant/pull/198) |
 | Add live password strength checklist on signup page | Medium | [#197](https://github.com/Richajaishwal0/Trip_assistant/issues/197) |
 | Will Add a new FAQ and Terms Of Service Page [OSCI'25] | Medium | [#196](https://github.com/Richajaishwal0/Trip_assistant/issues/196) |
-| Directly opens the gmail or call dialer when clicked on contact us on number or email [OSCI 25] | Medium | [#195](https://github.com/Richajaishwal0/Trip_assistant/issues/195) |
 | Modernize More Places page design with Framer Motion and improved responsiveness (Fixes #189) | Medium | [#192](https://github.com/Richajaishwal0/Trip_assistant/pull/192) |
 | Fix broken layout and validations on Sign-up page (Fixes #181) | Medium | [#183](https://github.com/Richajaishwal0/Trip_assistant/pull/183) |
 | Feature: Social Integration (Google/Facebook Login + Trip Sharing) | Medium | [#178](https://github.com/Richajaishwal0/Trip_assistant/issues/178) |
@@ -308,6 +309,25 @@
 
 ---
 
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add workflow for automate comment for issue | Medium | [#201](https://github.com/SurajSG23/PrepBuddy/issues/201) |
+| Add template for pull request | Medium | [#200](https://github.com/SurajSG23/PrepBuddy/issues/200) |
+
+---
+
 ## 📌 Project: Athletix
 
 📝 **Description:** Athletix is a Flutter, Firebase and Gemini API based platform for athlete management in India, offering performance tracking, injury management, AI recovery, and real-time messaging. Future upgrades include dashboards, finance and AI career planning
@@ -423,6 +443,8 @@
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Fix: Save button redirects to previous page instead of Home | Medium | [#150](https://github.com/Loop-Hive/ScheduleX/pull/150) |
+| Fix dropdown overflow | Medium | [#149](https://github.com/Loop-Hive/ScheduleX/pull/149) |
 | made UI changes in the settings page | Medium | [#148](https://github.com/Loop-Hive/ScheduleX/pull/148) |
 | Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/Loop-Hive/ScheduleX/pull/147) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
@@ -503,6 +525,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat/theme contrast | Medium | [#89](https://github.com/lovelymahor/StudyMatePlus/pull/89) |
+| Font consistency issue | Medium | [#88](https://github.com/lovelymahor/StudyMatePlus/issues/88) |
 | Feat/testimonials horizontal | Medium | [#87](https://github.com/lovelymahor/StudyMatePlus/pull/87) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Feat/dark mode global issue #82 | Medium | [#83](https://github.com/lovelymahor/StudyMatePlus/pull/83) |
@@ -530,6 +554,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a project details page | Medium | [#158](https://github.com/Varshitha713/CodeCanvas/issues/158) |
+| Improve Navbar: About link is inactive | Medium | [#157](https://github.com/Varshitha713/CodeCanvas/issues/157) |
 | Adding project-Memory card Game | Medium | [#156](https://github.com/Varshitha713/CodeCanvas/issues/156) |
 | Typewriter Effect and Basic Calculator Project | Medium | [#155](https://github.com/Varshitha713/CodeCanvas/pull/155) |
 | Make the heading dynamic with typewriter effect | Medium | [#154](https://github.com/Varshitha713/CodeCanvas/issues/154) |
@@ -546,7 +572,6 @@
 | Add Hamburger Menu for Navbar on Small Screens | Medium | [#37](https://github.com/Varshitha713/CodeCanvas/issues/37) |
 | feat:Implemented responsive navbar design with animated hamburger menu | Medium | [#35](https://github.com/Varshitha713/CodeCanvas/pull/35) |
 | Navbar section not working | Medium | [#7](https://github.com/Varshitha713/CodeCanvas/issues/7) |
-| Enable user authentication for personalized project submissions | Medium | [#1](https://github.com/Varshitha713/CodeCanvas/issues/1) |
 
 ---
 
@@ -564,13 +589,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement medication adherence feature, models, and UI improvements | Medium | [#221](https://github.com/shandilya-rajnandini/DocAtHome/pull/221) |
 | Set up CI pipeline and fix failing auth tests | Medium | [#219](https://github.com/shandilya-rajnandini/DocAtHome/pull/219) |
-| Create a structured "Second Opinion" service workflow | Medium | [#218](https://github.com/shandilya-rajnandini/DocAtHome/issues/218) |
-| Create anonymous, moderated peer support chat groups | Medium | [#217](https://github.com/shandilya-rajnandini/DocAtHome/issues/217) |
-| Implement a "Family Bridge" one-way video call for consultations | Medium | [#216](https://github.com/shandilya-rajnandini/DocAtHome/issues/216) |
 | Design and implement a "Post-Discharge Concierge" booking flow | Medium | [#215](https://github.com/shandilya-rajnandini/DocAtHome/issues/215) |
-| Develop a "Medication Adherence Score" for patients | Medium | [#214](https://github.com/shandilya-rajnandini/DocAtHome/issues/214) |
-| DocAtHome - Quality Healthcare at Your Doorstep | Medium | [#210](https://github.com/shandilya-rajnandini/DocAtHome/pull/210) |
 | Reintroduce Skeleton placeholders for loading states in Appointments, Search Doctor, and Doctor Appointment pages | Medium | [#207](https://github.com/shandilya-rajnandini/DocAtHome/pull/207) |
 | added lab-test-status | Medium | [#205](https://github.com/shandilya-rajnandini/DocAtHome/pull/205) |
 | feat(#123): implement patient acuity score for appointment requests | Medium | [#204](https://github.com/shandilya-rajnandini/DocAtHome/pull/204) |
@@ -578,7 +599,6 @@
 | Enhance Theme Colors & Improve UX for Better Visual Consistency | Medium | [#202](https://github.com/shandilya-rajnandini/DocAtHome/pull/202) |
 | feat: Add autocomplete search filters for Specialty and City | Medium | [#200](https://github.com/shandilya-rajnandini/DocAtHome/pull/200) |
 | Improve the responsive design of the Patient and Doctor Dashboards | Medium | [#177](https://github.com/shandilya-rajnandini/DocAtHome/issues/177) |
-| Implement a dynamic, AI-driven pre-consultation intake form | Hard | [#213](https://github.com/shandilya-rajnandini/DocAtHome/issues/213) |
 
 ---
 
