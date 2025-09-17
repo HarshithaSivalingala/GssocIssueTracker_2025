@@ -219,6 +219,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Website not working | Medium | [#78](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/78) |
 | Deployment issue | Medium | [#74](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/74) |
 | Add Charging Cost Prediction REST API | Medium | [#49](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/49) |
 | Missing Code of Conduct File in Repository | Medium | [#39](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/39) |
@@ -269,7 +270,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | SECURITY.md is added #192 | Medium | [#261](https://github.com/AditiGupta-tech/neonest/pull/261) |
-| fix: Redesign navbar with collapsible sidebar | Medium | [#260](https://github.com/AditiGupta-tech/neonest/pull/260) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
@@ -418,6 +418,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
+| Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
 | chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
@@ -441,6 +442,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Convert CommonJS ( require ) to ES module ( import / export ) in backend | Medium | [#198](https://github.com/dipexplorer/LegalHuB/issues/198) |
 | Integrate Google OAuth for User Authentication | Medium | [#185](https://github.com/dipexplorer/LegalHuB/pull/185) |
 | Add Dedicated Admin Dashboard Navbar for Easy Access | Hard | [#170](https://github.com/dipexplorer/LegalHuB/issues/170) |
+
+---
+
+## 📌 Project: Voice Marketing Agents
+
+📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
+
+🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
+
+💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 📂 Add Project Folder Structure | Medium | [#43](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/43) |
 
 ---
 
@@ -487,6 +506,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat/theme contrast | Medium | [#89](https://github.com/lovelymahor/StudyMatePlus/pull/89) |
+| Font consistency issue | Medium | [#88](https://github.com/lovelymahor/StudyMatePlus/issues/88) |
 | Feat/testimonials horizontal | Medium | [#87](https://github.com/lovelymahor/StudyMatePlus/pull/87) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Feat/dark mode global issue #82 | Medium | [#83](https://github.com/lovelymahor/StudyMatePlus/pull/83) |
@@ -550,6 +571,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
 | Implement JWT-Based Authentication Middleware | Medium | [#2](https://github.com/mr-rishikesh/DevConnect/issues/2) |
 | Implement Message Logic with WebSocket (Frontend + Backend Integration) | Hard | [#27](https://github.com/mr-rishikesh/DevConnect/issues/27) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Bug | Medium | [#400](https://github.com/SandeepVashishtha/Eventra/issues/400) |
 
 ---
 
