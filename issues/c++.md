@@ -35,7 +35,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat: Added API for list_Topic_logs | Medium | [#135](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/135) |
-| List provider logs | Medium | [#134](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/134) |
 | issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
@@ -57,8 +56,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix-74 | Easy | [#98](https://github.com/SharonIV0x86/CinderPeak/pull/98) |
 | feat(GraphList): Implement ``removeEdge()`` in Graph List | Easy | [#75](https://github.com/SharonIV0x86/CinderPeak/issues/75) |
-| "Fix issue #74: Implement clear vertices functionality" | Medium | [#97](https://github.com/SharonIV0x86/CinderPeak/issues/97) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
 
 ---
