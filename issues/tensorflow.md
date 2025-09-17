@@ -44,6 +44,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(ui): integrate toast notifications for upload feedback | Medium | [#117](https://github.com/Bavanetha27/Refixly/pull/117) |
+| SECURITY.md | Medium | [#116](https://github.com/Bavanetha27/Refixly/pull/116) |
+| Added confirm password field | Medium | [#115](https://github.com/Bavanetha27/Refixly/pull/115) |
+| Updated Twitter icon | Medium | [#114](https://github.com/Bavanetha27/Refixly/pull/114) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | Irrelevant get started button removed | Medium | [#107](https://github.com/Bavanetha27/Refixly/pull/107) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
