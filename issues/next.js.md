@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix spelling / grammar typo on HomePage or Static Page | Medium | [#245](https://github.com/iaadillatif/techxninjas-client/issues/245) |
+| Add Skeleton Loaders / Shimmers | Medium | [#244](https://github.com/iaadillatif/techxninjas-client/issues/244) |
 | notification button not working | Medium | [#242](https://github.com/iaadillatif/techxninjas-client/issues/242) |
 | Edit profile Size issue | Medium | [#241](https://github.com/iaadillatif/techxninjas-client/issues/241) |
 | Add FAQ Page | Medium | [#240](https://github.com/iaadillatif/techxninjas-client/issues/240) |
@@ -32,7 +34,6 @@
 | Add a Chatbot | Medium | [#220](https://github.com/iaadillatif/techxninjas-client/issues/220) |
 | Added theme toggle | Medium | [#216](https://github.com/iaadillatif/techxninjas-client/pull/216) |
 | Add eye button to toggle password visibility in login and registratio… | Medium | [#214](https://github.com/iaadillatif/techxninjas-client/pull/214) |
-| Fix: Blue background extending incorrectly on Homepage (#204) | Medium | [#212](https://github.com/iaadillatif/techxninjas-client/pull/212) |
 
 ---
 
@@ -89,7 +90,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Dark theme toggle feature in the Settings page | Medium | [#113](https://github.com/huamanraj/aitoolbox.software/issues/113) |
 | Add social links in footer | Medium | [#112](https://github.com/huamanraj/aitoolbox.software/issues/112) |
 | UI/UX Consistency and Navigation Enhancements | Medium | [#102](https://github.com/huamanraj/aitoolbox.software/issues/102) |
 | landing page | Medium | [#94](https://github.com/huamanraj/aitoolbox.software/issues/94) |
@@ -152,8 +152,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix : added cursor-pointer to signin button | Medium | [#2279](https://github.com/OWASP/Nest/pull/2279) |
-| fix: add cursor:pointer to Sign In button for improved UX (#2269) | Medium | [#2278](https://github.com/OWASP/Nest/pull/2278) |
+| UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
+| fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Migrate Scraper to GitHub .md Files | Medium | [#2277](https://github.com/OWASP/Nest/pull/2277) |
 | add sponsor api endpoint | Medium | [#2276](https://github.com/OWASP/Nest/pull/2276) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
@@ -184,9 +184,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Made Changes | Medium | [#281](https://github.com/Ayushjhawar8/Flavor-ai/pull/281) |
-| feat(ingredients): compact Servings UI + reliable per-row Metric/US conversion & scaling | Medium | [#277](https://github.com/Ayushjhawar8/Flavor-ai/pull/277) |
-| Feature/google translate fix | Medium | [#275](https://github.com/Ayushjhawar8/Flavor-ai/pull/275) |
+| Feat: create festive dishes page | Medium | [#290](https://github.com/Ayushjhawar8/Flavor-ai/pull/290) |
+| Fix footer issue and update festivals page | Medium | [#289](https://github.com/Ayushjhawar8/Flavor-ai/pull/289) |
+| Fix footer issue and update festivals page | Medium | [#288](https://github.com/Ayushjhawar8/Flavor-ai/pull/288) |
+| Update layout.jsx | Medium | [#286](https://github.com/Ayushjhawar8/Flavor-ai/pull/286) |
+| Update layout.jsx | Medium | [#285](https://github.com/Ayushjhawar8/Flavor-ai/pull/285) |
+| Idea Hub Feature Added | Hard | [#282](https://github.com/Ayushjhawar8/Flavor-ai/pull/282) |
 
 ---
 
@@ -444,7 +447,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Updating Github About section | Easy | [#75](https://github.com/rahulkhandait-sde/cineverse/issues/75) |
 | Add Google Authentication using Firebase to enable secure and seamless login for CineVerse users. | Easy | [#74](https://github.com/rahulkhandait-sde/cineverse/issues/74) |
 | Update Twitter Icon to Latest X Logo | Medium | [#76](https://github.com/rahulkhandait-sde/cineverse/issues/76) |
-| feat: add CONTRIBUTING.md file (addresses #19) | Medium | [#73](https://github.com/rahulkhandait-sde/cineverse/pull/73) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 | Improve Dark Mode with "Cinematic Glow" | Medium | [#70](https://github.com/rahulkhandait-sde/cineverse/issues/70) |
 | Add Trailers to Movie Details Page | Medium | [#69](https://github.com/rahulkhandait-sde/cineverse/issues/69) |
@@ -536,6 +538,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | [Feature]: Improve Functionality of Searchbar | Easy | [#303](https://github.com/recodehive/recode-website/issues/303) |
+| [Feature]: Feature Request: Implement Advanced Custom Form Validations | Medium | [#513](https://github.com/recodehive/recode-website/issues/513) |
 | [Feature]: | Medium | [#494](https://github.com/recodehive/recode-website/issues/494) |
 | 🐞[Bug]: Click Event on Python page | Medium | [#491](https://github.com/recodehive/recode-website/issues/491) |
 | [Feature]: Light theme feature | Medium | [#436](https://github.com/recodehive/recode-website/issues/436) |
@@ -565,10 +568,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| UI/UX: Missing Scroll Down Button at Top of Page | Medium | [#329](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/329) |
-| Docs: Add Complete Folder Structure with Descriptions in README | Medium | [#328](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/328) |
+| Improvement: Updated bot size and positioning, move 'Report Problem' link… | Medium | [#332](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/332) |
 | Made the Editor Chnages | Medium | [#322](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/322) |
-| Added new recursion flashcard | Medium | [#320](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/320) |
+| Issue #315 completed please merge the pull request | Medium | [#320](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/320) |
 | Improved visibility of Terms of Service and Privacy Policy button | Medium | [#312](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/312) |
 | feat: Implement Company-wise Questions Page and UI improvements | Medium | [#291](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/291) |
 | Update SheetContent.tsx and apply dark theme fixes | Medium | [#269](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/269) |
@@ -675,6 +677,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| fix css | Medium | [#102](https://github.com/sristy17/next-payroll/issues/102) |
 | Fix/add payment page validation | Medium | [#101](https://github.com/sristy17/next-payroll/pull/101) |
 | Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
@@ -804,7 +807,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance benefit cards with hover effect and light/dark mode support | Medium | [#81](https://github.com/LarytheLord/Adventurers-Guild/pull/81) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -826,7 +828,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | SECURITY.md is added #192 | Medium | [#261](https://github.com/AditiGupta-tech/neonest/pull/261) |
-| fix: Redesign navbar with collapsible sidebar | Medium | [#260](https://github.com/AditiGupta-tech/neonest/pull/260) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
@@ -939,6 +940,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
 | Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
+| Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
 | chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
@@ -1028,6 +1030,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Fixed the overlapping card issue in post tab | Medium | [#173](https://github.com/harsh3dev/DevMatchups/pull/173) |
 | Bug: Favorites not loading and cannot be added | Medium | [#172](https://github.com/harsh3dev/DevMatchups/issues/172) |
 | Add validation for No. of team members field | Medium | [#134](https://github.com/harsh3dev/DevMatchups/issues/134) |
+
+---
+
+## 📌 Project: Voice Marketing Agents
+
+📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
+
+🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
+
+💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 📂 Add Project Folder Structure | Medium | [#43](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/43) |
 
 ---
 
@@ -1146,6 +1166,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
+| Enhanced the look of the live demo chat | Medium | [#104](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/104) |
+| FEATURE: New Pages | Medium | [#103](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/103) |
+| Fix: Set first available model as default in chat page (#75) | Medium | [#102](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/102) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
@@ -1384,10 +1407,10 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📱 Make Footer Mobile Responsive | Medium | [#169](https://github.com/vatsal-bhakodia/smriti-ai/issues/169) |
-| scripts: make backfill for QuizResults safe and batched | Medium | [#168](https://github.com/vatsal-bhakodia/smriti-ai/issues/168) |
-| Currently, the repository does not have standardized templates for issues and pull requests. Adding these templates will improve collaboration and streamline contributions. | Medium | [#167](https://github.com/vatsal-bhakodia/smriti-ai/issues/167) |
-| Multilingual Headline on Landing Page | Medium | [#166](https://github.com/vatsal-bhakodia/smriti-ai/issues/166) |
+| Fixed overflow issue in the About section. | Medium | [#174](https://github.com/vatsal-bhakodia/smriti-ai/pull/174) |
+| fix(backfill): add batching, dry-run, and transactional updates for QuizResult backfill | Medium | [#173](https://github.com/vatsal-bhakodia/smriti-ai/pull/173) |
+| Adding New Features | Medium | [#172](https://github.com/vatsal-bhakodia/smriti-ai/issues/172) |
+| Feature Request: Dynamic Testimonials with Form & API | Medium | [#90](https://github.com/vatsal-bhakodia/smriti-ai/issues/90) |
 
 ---
 
