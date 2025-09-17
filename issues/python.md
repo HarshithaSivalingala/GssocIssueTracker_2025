@@ -226,8 +226,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix : added cursor-pointer to signin button | Medium | [#2279](https://github.com/OWASP/Nest/pull/2279) |
-| fix: add cursor:pointer to Sign In button for improved UX (#2269) | Medium | [#2278](https://github.com/OWASP/Nest/pull/2278) |
+| UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
+| fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Migrate Scraper to GitHub .md Files | Medium | [#2277](https://github.com/OWASP/Nest/pull/2277) |
 | add sponsor api endpoint | Medium | [#2276](https://github.com/OWASP/Nest/pull/2276) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
@@ -266,7 +266,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhanced Footer | Medium | [#156](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/156) |
+| Removal of redundant Procfile | Medium | [#157](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/157) |
 | Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | Lock scroll & trap focus in “Select Your Role” modal | Medium | [#151](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/151) |
@@ -303,7 +303,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Feat: Update frontend UI to be modern and minimal | Medium | [#127](https://github.com/Devasy23/splitwiser/pull/127) |
 | Implement theming system with consistent border radius and spacing | Medium | [#125](https://github.com/Devasy23/splitwiser/pull/125) |
 | fix(web): Fix web build error with React 19 | Medium | [#122](https://github.com/Devasy23/splitwiser/pull/122) |
-| feat: Migrate to Material 3 with dynamic theming | Medium | [#120](https://github.com/Devasy23/splitwiser/pull/120) |
 
 ---
 
@@ -492,9 +491,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Website is not mobile-friendly #212 | Medium | [#216](https://github.com/Khushi-Nigam/jobportal/pull/216) |
-| Only Image Scales on Hover, Not the Whole Blog Card | Medium | [#215](https://github.com/Khushi-Nigam/jobportal/issues/215) |
-| GitHub Actions workflow for basic code and docs checks | Medium | [#214](https://github.com/Khushi-Nigam/jobportal/issues/214) |
+| Added Hover Effect over the Whole blog card | Medium | [#218](https://github.com/Khushi-Nigam/jobportal/pull/218) |
+| Navbar not opening on "Apply Now" page #210 | Medium | [#217](https://github.com/Khushi-Nigam/jobportal/pull/217) |
 
 ---
 
@@ -540,10 +538,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Navbar Missing on Contact Page | Medium | [#537](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/537) |
-| Back to Top Arrow Positioned on Bottom-Left Instead of Standard Bottom-Right | Medium | [#536](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/536) |
-| Wrong logo | Medium | [#535](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/535) |
-| Label should trigger form | Medium | [#534](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/534) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
@@ -563,11 +557,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Pull Request : UI Enhancement: Modernize Weather PagUI Enhancement: M… | Medium | [#309](https://github.com/omroy07/AgriTech/pull/309) |
+| UI Enhancement: Modernize Weather Page Design | Medium | [#308](https://github.com/omroy07/AgriTech/issues/308) |
 | feat: enhance login page layout with responsive design adjustments | Medium | [#305](https://github.com/omroy07/AgriTech/pull/305) |
 | Crop Planner Not Changing Based on Input | Medium | [#301](https://github.com/omroy07/AgriTech/issues/301) |
 | The text written while searching on chatbot is not visible | Medium | [#300](https://github.com/omroy07/AgriTech/issues/300) |
 | Incorrect Dark/Light Mode Icons | Medium | [#296](https://github.com/omroy07/AgriTech/issues/296) |
-| Email Notification Capabilities | Medium | [#279](https://github.com/omroy07/AgriTech/issues/279) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
 | Farmer Form Validated | Medium | [#267](https://github.com/omroy07/AgriTech/pull/267) |
 | Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#264](https://github.com/omroy07/AgriTech/pull/264) |
@@ -708,35 +703,27 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| SMS spam detection model - Text classification | Medium | [#697](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/697) |
-| Visa Approval Prediction Model (Classification) | Medium | [#688](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/688) |
-| House Price Prediction Streamlit App | Medium | [#681](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/681) |
-| Nifty Close Price Prediction using Neural Networks | Medium | [#679](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/679) |
-| Nifty 50 Stock Price Prediction Model | Medium | [#677](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/677) |
-| Implement Time Series Forecasting for Stock Market Data Using ARIMA | Medium | [#675](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/675) |
-| Loan Status Prediction | Medium | [#673](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/673) |
-| Value at Risk (VaR) Project | Medium | [#671](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/671) |
-| AI-Powered Trading Bot with Sentiment Analysis | Medium | [#669](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/669) |
-| Parkinson disease detection | Medium | [#668](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/668) |
-| Stock Price Prediction Using Facebook Prophet | Medium | [#666](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/666) |
-| Secure AI/ML Model using RSA-based Encryption | Medium | [#664](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/664) |
+| Added beginner-friendly EDA on Titanic dataset | Easy | [#540](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/540) |
+| Pull Request : Financial APIs Explorer & Knowledge Hub | Medium | [#703](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/703) |
+| Financial APIs Explorer & Knowledge Hub | Medium | [#702](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/702) |
+| Pull Request : Enhancing Financial Course Analysis with Advanced EDA … | Medium | [#701](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/701) |
+| Enhancing Financial Course Analysis with Advanced EDA and Data Visualization | Medium | [#700](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/700) |
+| Pull Request : India Finance – Data Analysis & Forecasting | Medium | [#699](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/699) |
+| India Finance – Data Analysis & Forecasting | Medium | [#698](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/698) |
 | Fake review clean | Medium | [#663](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/663) |
-| AlgoRisk: An Interactive Web Dashboard for Algorithmic Trading Strategy Backtesting and Risk Assessment | Medium | [#661](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/661) |
-| Reinforcement Learning for Market Hedging | Medium | [#659](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/659) |
-| GDP Growth Prediction with Market Capital | Medium | [#657](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/657) |
-| Forex Exchange Rate Prediction using LSTM | Medium | [#655](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/655) |
-| African Banking Crisis Prediction using Machine Learning | Medium | [#653](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/653) |
-| LSTM Model for Foreign Exchange Rate Prediction | Medium | [#651](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/651) |
-| Exchange Rate Forecasting using Machine Learning | Medium | [#649](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/649) |
-| Candlestick Pattern Technical Analysis App | Medium | [#647](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/647) |
-| Implement workflow of Tuning a Neural network | Medium | [#646](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/646) |
-| Speech emotion recognition on audio dataset | Medium | [#645](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/645) |
-| Financial Document OCR Tool | Medium | [#643](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/643) |
-| Market Hedging Sentiment Analysis | Medium | [#641](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/641) |
-| Implement Car Price Prediction using Linear Regression | Medium | [#599](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/599) |
-| Add Earthquake-prediction-using-Machine-learning-models | Medium | [#598](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/598) |
-| Streamlit App for GDP prediction model (Closes #52) | Medium | [#583](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/583) |
-| ML Model - Add K-Means Clustering from Scratch | Medium | [#582](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/582) |
+| Enhancement / Contribution Suggestion for Synthetic Liver Cancer Dataset | Medium | [#529](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/529) |
+| Added Streamlit Web App Interface for Email Classifier + Updated Notebook with Model Saving (#358) | Medium | [#497](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/497) |
+| Add Matplotlib Basics Notebook to Machine Learning Folder | Medium | [#479](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/479) |
+| AIDice Master | Medium | [#466](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/466) |
+| Add Logistic Regression–Based Diabetes Prediction for Pregnant Females | Medium | [#446](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/446) |
+| GSSoC'25 : Real-Time Market Sentiment-Driven Trading Signal Generator | Medium | [#412](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/412) |
+| Feature Request: Instagram Caption Recommendation System | Medium | [#352](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/352) |
+| Add Baseline Sales Forecasting Model using M5 Dataset #GSSOC'25 | Medium | [#350](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/350) |
+| Integration of Multilingual LLM-Powered Chatbot and Domain-Specific NLP and Deep learning Models for Enhanced User Interaction | Medium | [#275](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/275) |
+| Network Intrusion Detection System | Medium | [#262](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/262) |
+| Medical Chatbot | Medium | [#232](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/232) |
+| Add NVIDIA Stock Price Prediction Module | Medium | [#223](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/223) |
+| A Polling Page | Medium | [#34](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/34) |
 
 ---
 
@@ -776,6 +763,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Website not working | Medium | [#78](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/78) |
 | Deployment issue | Medium | [#74](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/74) |
 | Add Charging Cost Prediction REST API | Medium | [#49](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/49) |
 | Missing Code of Conduct File in Repository | Medium | [#39](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/39) |
@@ -867,23 +855,14 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Footer Navigation with Essential and Legal Pages - Extension | Easy | [#204](https://github.com/eccentriccoder01/TalkHeal/issues/204) |
-| Fix: Poor text readability in App Overview page | Medium | [#205](https://github.com/eccentriccoder01/TalkHeal/issues/205) |
-| Create an Interactive Onboarding Flow | Medium | [#182](https://github.com/eccentriccoder01/TalkHeal/issues/182) |
-| Develop a Peer Matching System | Medium | [#181](https://github.com/eccentriccoder01/TalkHeal/issues/181) |
-| Implement Expert-Led Q&A Sessions | Medium | [#180](https://github.com/eccentriccoder01/TalkHeal/issues/180) |
 | Create a Community Forum for Peer Support | Medium | [#179](https://github.com/eccentriccoder01/TalkHeal/issues/179) |
 | Implement Passive Symptom Tracking with Wearables | Medium | [#178](https://github.com/eccentriccoder01/TalkHeal/issues/178) |
 | Integrate Emotional Recognition via Camera | Medium | [#177](https://github.com/eccentriccoder01/TalkHeal/issues/177) |
-| Implement Social Leaderboards (Anonymous) | Medium | [#176](https://github.com/eccentriccoder01/TalkHeal/issues/176) |
 | Develop a Habit Builder and Daily Challenges | Medium | [#175](https://github.com/eccentriccoder01/TalkHeal/issues/175) |
 | Integrate Gamification for User Engagement | Medium | [#174](https://github.com/eccentriccoder01/TalkHeal/issues/174) |
 | Create a Virtual Therapy Simulation | Medium | [#173](https://github.com/eccentriccoder01/TalkHeal/issues/173) |
 | Implement AI-Guided CBT/DBT Modules | Medium | [#172](https://github.com/eccentriccoder01/TalkHeal/issues/172) |
-| Issue Title: UI Components Lose Readability on Narrow Screens | Medium | [#171](https://github.com/eccentriccoder01/TalkHeal/issues/171) |
 | User Authentication Lost on Page Navigation in Journaling Section | Medium | [#170](https://github.com/eccentriccoder01/TalkHeal/issues/170) |
-| Authentication-related messages are barely visible. | Medium | [#160](https://github.com/eccentriccoder01/TalkHeal/issues/160) |
-| Add Dark Mode & High-Contrast Theme for Accessibility | Medium | [#147](https://github.com/eccentriccoder01/TalkHeal/issues/147) |
 
 ---
 
@@ -901,6 +880,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update greetings.yml | Medium | [#47](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/47) |
+| Update greetings.yml | Medium | [#46](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/46) |
+| Added EDA & Data Summary Report Generator | Medium | [#45](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/45) |
 | Suggestion: Integrate Hyperparameter Tuning for LSTM Model using Optuna | Medium | [#44](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/44) |
 | Suggestion: Using N-BEATS / N-HITS for Enhanced Sneaker Price Prediction | Medium | [#43](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/43) |
 | Update to README.md | Medium | [#42](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/42) |
@@ -1143,11 +1125,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| New Project Proposal On Fraud detection using Explainable AI | Medium | [#1796](https://github.com/UTSAVS26/PyVerse/issues/1796) |
 | Added UPI Fraud Detection | Medium | [#1628](https://github.com/UTSAVS26/PyVerse/pull/1628) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 | ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
 | NLP Project autocorrect algorithm | Medium | [#1506](https://github.com/UTSAVS26/PyVerse/issues/1506) |
+| Added pyverse_tip CLI command to show random Python tips | Medium | [#1480](https://github.com/UTSAVS26/PyVerse/pull/1480) |
 
 ---
 
@@ -1366,7 +1348,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| refactor: update message template for weather agent node | Medium | [#205](https://github.com/deskree-inc/blok/pull/205) |
+| refactor: update message template for weather agent node | Medium | [#206](https://github.com/deskree-inc/blok/pull/206) |
 | Update README badge links | Medium | [#204](https://github.com/deskree-inc/blok/pull/204) |
 | There is no link in the license | Medium | [#202](https://github.com/deskree-inc/blok/issues/202) |
 | Footer-UI Enhancement | Medium | [#201](https://github.com/deskree-inc/blok/issues/201) |
@@ -1433,6 +1415,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Contribution GSSoC | Medium | [#39](https://github.com/Archita0905/Student-Grade-Tracker/issues/39) |
 | Add requirements.txt for dependency management | Medium | [#38](https://github.com/Archita0905/Student-Grade-Tracker/issues/38) |
 | Add Streamlit app for better UI & graphs for mark tracking | Medium | [#37](https://github.com/Archita0905/Student-Grade-Tracker/issues/37) |
 | Improve Student Record System: Roll No Access, Authentication, Sorting, Redundancy Handling | Medium | [#36](https://github.com/Archita0905/Student-Grade-Tracker/issues/36) |
@@ -1462,7 +1445,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Feature Request | Medium | [#11](https://github.com/Archita0905/Student-Grade-Tracker/issues/11) |
 | 🚫 License Missing from Repository | Medium | [#10](https://github.com/Archita0905/Student-Grade-Tracker/issues/10) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#9](https://github.com/Archita0905/Student-Grade-Tracker/issues/9) |
-| Feature: Track and Plot Student Performance Over Time | Medium | [#8](https://github.com/Archita0905/Student-Grade-Tracker/issues/8) |
 
 ---
 
@@ -1559,6 +1541,24 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Adding a CodeOfConduct.md file to the project | Medium | [#3](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/3) |
 | Update README.md | Medium | [#2](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/2) |
 | Add CONTRIBUTING.md file | Medium | [#1](https://github.com/harshajain6114/Federated-learning-for-crpto-fraud/issues/1) |
+
+---
+
+## 📌 Project: Voice Marketing Agents
+
+📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
+
+🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
+
+💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 📂 Add Project Folder Structure | Medium | [#43](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/43) |
 
 ---
 
@@ -1913,6 +1913,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
+| Enhanced the look of the live demo chat | Medium | [#104](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/104) |
+| FEATURE: New Pages | Medium | [#103](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/103) |
+| Fix: Set first available model as default in chat page (#75) | Medium | [#102](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/102) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
