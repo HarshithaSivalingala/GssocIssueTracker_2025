@@ -42,11 +42,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Veg and Non Veg diet plan display bug fixed | Medium | [#293](https://github.com/Ayushjhawar8/Flavor-ai/pull/293) |
+| Recipe Rating & Review System | Medium | [#292](https://github.com/Ayushjhawar8/Flavor-ai/issues/292) |
+| added scroll up button  functionality to AI ingredient explorer page … | Medium | [#291](https://github.com/Ayushjhawar8/Flavor-ai/pull/291) |
 | Feat: create festive dishes page | Medium | [#290](https://github.com/Ayushjhawar8/Flavor-ai/pull/290) |
 | Fix footer issue and update festivals page | Medium | [#289](https://github.com/Ayushjhawar8/Flavor-ai/pull/289) |
-| Fix footer issue and update festivals page | Medium | [#288](https://github.com/Ayushjhawar8/Flavor-ai/pull/288) |
 | Update layout.jsx | Medium | [#286](https://github.com/Ayushjhawar8/Flavor-ai/pull/286) |
-| Update layout.jsx | Medium | [#285](https://github.com/Ayushjhawar8/Flavor-ai/pull/285) |
 | Idea Hub Feature Added | Hard | [#282](https://github.com/Ayushjhawar8/Flavor-ai/pull/282) |
 
 ---
