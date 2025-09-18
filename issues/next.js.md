@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
+| Enhancement of Card Carousel | Medium | [#246](https://github.com/iaadillatif/techxninjas-client/issues/246) |
 | Fix spelling / grammar typo on HomePage or Static Page | Medium | [#245](https://github.com/iaadillatif/techxninjas-client/issues/245) |
 | Add Skeleton Loaders / Shimmers | Medium | [#244](https://github.com/iaadillatif/techxninjas-client/issues/244) |
 | notification button not working | Medium | [#242](https://github.com/iaadillatif/techxninjas-client/issues/242) |
@@ -33,7 +35,6 @@
 | Continuous Sliding Carousel for Learners & Mentors Section | Medium | [#221](https://github.com/iaadillatif/techxninjas-client/issues/221) |
 | Add a Chatbot | Medium | [#220](https://github.com/iaadillatif/techxninjas-client/issues/220) |
 | Added theme toggle | Medium | [#216](https://github.com/iaadillatif/techxninjas-client/pull/216) |
-| Add eye button to toggle password visibility in login and registratio… | Medium | [#214](https://github.com/iaadillatif/techxninjas-client/pull/214) |
 
 ---
 
@@ -96,7 +97,6 @@
 | Improve mobile layout: Single column grid feels empty, suggest 2-box layout | Medium | [#92](https://github.com/huamanraj/aitoolbox.software/issues/92) |
 | Translator overflow off-screen, Missing placeholder text & No copy notification. | Medium | [#59](https://github.com/huamanraj/aitoolbox.software/issues/59) |
 | UI Enhancement: Improve Homepage Design with Better Colors, Hover Effects, and Professional Card Layout | Medium | [#51](https://github.com/huamanraj/aitoolbox.software/issues/51) |
-| PDF Chat | Medium | [#35](https://github.com/huamanraj/aitoolbox.software/issues/35) |
 
 ---
 
@@ -155,7 +155,6 @@
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Migrate Scraper to GitHub .md Files | Medium | [#2277](https://github.com/OWASP/Nest/pull/2277) |
-| add sponsor api endpoint | Medium | [#2276](https://github.com/OWASP/Nest/pull/2276) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
@@ -184,11 +183,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Veg and Non Veg diet plan display bug fixed | Medium | [#293](https://github.com/Ayushjhawar8/Flavor-ai/pull/293) |
+| Recipe Rating & Review System | Medium | [#292](https://github.com/Ayushjhawar8/Flavor-ai/issues/292) |
+| added scroll up button  functionality to AI ingredient explorer page … | Medium | [#291](https://github.com/Ayushjhawar8/Flavor-ai/pull/291) |
 | Feat: create festive dishes page | Medium | [#290](https://github.com/Ayushjhawar8/Flavor-ai/pull/290) |
 | Fix footer issue and update festivals page | Medium | [#289](https://github.com/Ayushjhawar8/Flavor-ai/pull/289) |
-| Fix footer issue and update festivals page | Medium | [#288](https://github.com/Ayushjhawar8/Flavor-ai/pull/288) |
 | Update layout.jsx | Medium | [#286](https://github.com/Ayushjhawar8/Flavor-ai/pull/286) |
-| Update layout.jsx | Medium | [#285](https://github.com/Ayushjhawar8/Flavor-ai/pull/285) |
 | Idea Hub Feature Added | Hard | [#282](https://github.com/Ayushjhawar8/Flavor-ai/pull/282) |
 
 ---
@@ -421,8 +421,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixing Mobile Menu Closing Behavior | Medium | [#109](https://github.com/Er-luffy-D/SimplifAI/pull/109) |
-| Feat: Implement Robust Error Handling for Forgot Password Component | Medium | [#107](https://github.com/Er-luffy-D/SimplifAI/pull/107) |
+| Comprehensive Error Handling in ForgotPasswordPage | Medium | [#111](https://github.com/Er-luffy-D/SimplifAI/pull/111) |
+| Mobile Menu Does Not Close on Outside Click or Link Click | Medium | [#110](https://github.com/Er-luffy-D/SimplifAI/pull/110) |
 | Add dark mode toggle, update card styles, and tailwind config | Medium | [#103](https://github.com/Er-luffy-D/SimplifAI/pull/103) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
@@ -538,18 +538,15 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | [Feature]: Improve Functionality of Searchbar | Easy | [#303](https://github.com/recodehive/recode-website/issues/303) |
-| [Feature]: Feature Request: Implement Advanced Custom Form Validations | Medium | [#513](https://github.com/recodehive/recode-website/issues/513) |
+| Similar badge system | Medium | [#521](https://github.com/recodehive/recode-website/issues/521) |
+| 🐞[Bug]: Contact us page UI improvement | Medium | [#518](https://github.com/recodehive/recode-website/issues/518) |
 | [Feature]: | Medium | [#494](https://github.com/recodehive/recode-website/issues/494) |
 | 🐞[Bug]: Click Event on Python page | Medium | [#491](https://github.com/recodehive/recode-website/issues/491) |
 | [Feature]: Light theme feature | Medium | [#436](https://github.com/recodehive/recode-website/issues/436) |
 | 🐞[Bug]: Roadmap Page Link Under “More” Navigation Not Working | Medium | [#249](https://github.com/recodehive/recode-website/issues/249) |
 | Create Resource Vault for Cheat Sheets, Data Sets & Tools | Medium | [#248](https://github.com/recodehive/recode-website/issues/248) |
 | Refactor Homepage and Shared Components for Performance and Maintainability | Medium | [#243](https://github.com/recodehive/recode-website/issues/243) |
-| 📢 Help Needed: Documentation | Medium | [#198](https://github.com/recodehive/recode-website/issues/198) |
-| Our Team Page | Medium | [#118](https://github.com/recodehive/recode-website/issues/118) |
-| Portfolio Page | Medium | [#48](https://github.com/recodehive/recode-website/issues/48) |
 | Discussion Box Update Request | Hard | [#200](https://github.com/recodehive/recode-website/issues/200) |
-| Sign in With GitHUB is not working | Hard | [#153](https://github.com/recodehive/recode-website/issues/153) |
 
 ---
 
@@ -827,7 +824,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| SECURITY.md is added #192 | Medium | [#261](https://github.com/AditiGupta-tech/neonest/pull/261) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
@@ -1070,24 +1066,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
-## 📌 Project: tech event
-
-📝 **Description:** using CSV file filter the events
-
-🔗 [View Project](https://github.com/muskan-fatim/Tech_event)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, TypeScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Filter Functionality and also Added the "Event added successfully!" message. | Medium | [#44](https://github.com/muskan-fatim/Tech_event/pull/44) |
-
----
-
 ## 📌 Project: EasyGoDocs
 
 📝 **Description:** EasyGoDocs is an open-source project dedicated to making documentation reading and authoring effortless, beautiful, and accessible for everyone. Were excited to have you help us expand our library of documentation across different fields.
@@ -1165,10 +1143,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
-| Enhanced the look of the live demo chat | Medium | [#104](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/104) |
 | FEATURE: New Pages | Medium | [#103](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/103) |
-| Fix: Set first available model as default in chat page (#75) | Medium | [#102](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/102) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
@@ -1407,7 +1382,11 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed overflow issue in the About section. | Medium | [#174](https://github.com/vatsal-bhakodia/smriti-ai/pull/174) |
+| feat: add rotating Hindi + English headline on landing page | Medium | [#179](https://github.com/vatsal-bhakodia/smriti-ai/pull/179) |
+| Footer links pages missing | Medium | [#178](https://github.com/vatsal-bhakodia/smriti-ai/issues/178) |
+| Make footer mobile responsive | Medium | [#177](https://github.com/vatsal-bhakodia/smriti-ai/pull/177) |
+| Added multilinguage text in hero section | Medium | [#176](https://github.com/vatsal-bhakodia/smriti-ai/pull/176) |
+| Garbage Code Removed | Medium | [#175](https://github.com/vatsal-bhakodia/smriti-ai/pull/175) |
 | fix(backfill): add batching, dry-run, and transactional updates for QuizResult backfill | Medium | [#173](https://github.com/vatsal-bhakodia/smriti-ai/pull/173) |
 | Adding New Features | Medium | [#172](https://github.com/vatsal-bhakodia/smriti-ai/issues/172) |
 | Feature Request: Dynamic Testimonials with Form & API | Medium | [#90](https://github.com/vatsal-bhakodia/smriti-ai/issues/90) |
