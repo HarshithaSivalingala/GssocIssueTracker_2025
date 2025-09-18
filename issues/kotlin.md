@@ -120,6 +120,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/sayan0328/WallGodds-App/issues/47) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
 
 ---
@@ -138,7 +139,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: added email based login to admin panel | Medium | [#427](https://github.com/yuvrajsinghgmx/ShopSmart/pull/427) |
+| Add Dark Mode / Theme Toggle to ShopSmart [GSSoC’25] | Medium | [#429](https://github.com/yuvrajsinghgmx/ShopSmart/issues/429) |
+| Duplicate Contribution Sections in README | Medium | [#428](https://github.com/yuvrajsinghgmx/ShopSmart/issues/428) |
 | Add a CONTRIBUTING.md File to project | Medium | [#420](https://github.com/yuvrajsinghgmx/ShopSmart/issues/420) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
 | Handle upload of multiple images in Add Shop Screen | Medium | [#415](https://github.com/yuvrajsinghgmx/ShopSmart/issues/415) |
