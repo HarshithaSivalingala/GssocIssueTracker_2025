@@ -23,7 +23,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
-| Layout fixes and redesigned login and register pages | Medium | [#60](https://github.com/Menthub-GSSoC/Menthub/pull/60) |
+| ⚙️:Add Unit & Integration Test Suite | Medium | [#63](https://github.com/Menthub-GSSoC/Menthub/issues/63) |
+| [Feature] Implement User Profile Picture Upload | Medium | [#62](https://github.com/Menthub-GSSoC/Menthub/issues/62) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
@@ -193,18 +194,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Pull Request : Interactive Crop Calendar Enhancement | Medium | [#312](https://github.com/omroy07/AgriTech/pull/312) |
+| Interactive Crop Calendar Enhancement | Medium | [#311](https://github.com/omroy07/AgriTech/issues/311) |
 | Pull Request : UI Enhancement: Modernize Weather PagUI Enhancement: M… | Medium | [#309](https://github.com/omroy07/AgriTech/pull/309) |
-| UI Enhancement: Modernize Weather Page Design | Medium | [#308](https://github.com/omroy07/AgriTech/issues/308) |
-| feat: enhance login page layout with responsive design adjustments | Medium | [#305](https://github.com/omroy07/AgriTech/pull/305) |
-| Crop Planner Not Changing Based on Input | Medium | [#301](https://github.com/omroy07/AgriTech/issues/301) |
-| The text written while searching on chatbot is not visible | Medium | [#300](https://github.com/omroy07/AgriTech/issues/300) |
-| Incorrect Dark/Light Mode Icons | Medium | [#296](https://github.com/omroy07/AgriTech/issues/296) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
-| Farmer Form Validated | Medium | [#267](https://github.com/omroy07/AgriTech/pull/267) |
-| Change Hover Color for Login and Register Buttons for Better UI Consistency | Medium | [#264](https://github.com/omroy07/AgriTech/pull/264) |
 | Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
-| Designing hamberg menu for services on mobile view | Medium | [#250](https://github.com/omroy07/AgriTech/issues/250) |
-| Automated Plant Seedlings Classification with CNN Architectures | Medium | [#239](https://github.com/omroy07/AgriTech/issues/239) |
 | Theme dark mode not changing color of text | Medium | [#237](https://github.com/omroy07/AgriTech/issues/237) |
 
 ---
@@ -256,18 +250,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Help Center Page is missing | Medium | [#239](https://github.com/openml-stack/SentiLog-AI/issues/239) |
-| improved menubar | Medium | [#238](https://github.com/openml-stack/SentiLog-AI/pull/238) |
-| Add "Show/Hide Password" Eye Icon in Signup and login form | Medium | [#237](https://github.com/openml-stack/SentiLog-AI/issues/237) |
-| Privacy Policy page enhancement | Medium | [#236](https://github.com/openml-stack/SentiLog-AI/issues/236) |
-| Enhance README with screenshots or visuals for better clarity | Medium | [#235](https://github.com/openml-stack/SentiLog-AI/issues/235) |
-| Signup not working | Medium | [#233](https://github.com/openml-stack/SentiLog-AI/issues/233) |
-| Textfield UI in News Article Content (News Section) does not match overall UI | Medium | [#228](https://github.com/openml-stack/SentiLog-AI/issues/228) |
-| Login button not match the theme and toggle button not aligned properly | Medium | [#226](https://github.com/openml-stack/SentiLog-AI/issues/226) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
-| Feature Request: Add Dynamic Date in Footer | Medium | [#217](https://github.com/openml-stack/SentiLog-AI/issues/217) |
-| Section Retains Dark Theme Styling in Light Mode | Medium | [#215](https://github.com/openml-stack/SentiLog-AI/issues/215) |
-| logo change | Medium | [#212](https://github.com/openml-stack/SentiLog-AI/pull/212) |
-| Mood Insights – Feature Enhancement for User Profile Page | Medium | [#199](https://github.com/openml-stack/SentiLog-AI/issues/199) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
 | Feature Request: Add Emoji Mood Selector in Journal Section | Medium | [#195](https://github.com/openml-stack/SentiLog-AI/issues/195) |
 | 🧠 Feature Request: Media Bias Detection & Balanced Opinion Support | Medium | [#193](https://github.com/openml-stack/SentiLog-AI/issues/193) |
@@ -276,6 +259,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Ui needs Professional Look | Medium | [#189](https://github.com/openml-stack/SentiLog-AI/issues/189) |
 | Help Center Link is Present but Page Doesn’t Exist | Medium | [#188](https://github.com/openml-stack/SentiLog-AI/issues/188) |
 | Add Mood Tracker or Calendar View for Visualizing Logs | Medium | [#187](https://github.com/openml-stack/SentiLog-AI/issues/187) |
+| Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
+| Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
+| Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
+| fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
 
 ---
 
@@ -295,6 +282,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Add Forgot Password Functionality | Medium | [#178](https://github.com/aayushraj1010/med-genie/issues/178) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Specialist recommendation text not fully visible and faded | Medium | [#174](https://github.com/aayushraj1010/med-genie/issues/174) |
@@ -303,7 +291,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Add a "Scroll to top" button | Medium | [#165](https://github.com/aayushraj1010/med-genie/issues/165) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
 | Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
-| Missing Security Headers and CORS Configuration | Medium | [#121](https://github.com/aayushraj1010/med-genie/issues/121) |
 | Missing Environment Variable Security and Configuration Management | Hard | [#149](https://github.com/aayushraj1010/med-genie/pull/149) |
 
 ---
@@ -422,10 +409,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: add loader feature on click | Easy | [#64](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/64) |
-| Enhanced the look of the live demo chat | Medium | [#104](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/104) |
 | FEATURE: New Pages | Medium | [#103](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/103) |
-| Fix: Set first available model as default in chat page (#75) | Medium | [#102](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/102) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
