@@ -57,7 +57,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fix-74 | Easy | [#98](https://github.com/SharonIV0x86/CinderPeak/pull/98) |
-| feat(GraphList): Implement ``removeEdge()`` in Graph List | Easy | [#75](https://github.com/SharonIV0x86/CinderPeak/issues/75) |
+| chore(vis): Drop visualization engine and remove all traces. | Medium | [#100](https://github.com/SharonIV0x86/CinderPeak/pull/100) |
+| feat(GraphList): added ``removeEdge()`` method to remove all the edges | Medium | [#99](https://github.com/SharonIV0x86/CinderPeak/pull/99) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
 
 ---
