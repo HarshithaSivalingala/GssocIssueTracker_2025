@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
+| Enhancement of Card Carousel | Medium | [#246](https://github.com/iaadillatif/techxninjas-client/issues/246) |
 | Fix spelling / grammar typo on HomePage or Static Page | Medium | [#245](https://github.com/iaadillatif/techxninjas-client/issues/245) |
 | Add Skeleton Loaders / Shimmers | Medium | [#244](https://github.com/iaadillatif/techxninjas-client/issues/244) |
 | notification button not working | Medium | [#242](https://github.com/iaadillatif/techxninjas-client/issues/242) |
@@ -33,7 +35,6 @@
 | Continuous Sliding Carousel for Learners & Mentors Section | Medium | [#221](https://github.com/iaadillatif/techxninjas-client/issues/221) |
 | Add a Chatbot | Medium | [#220](https://github.com/iaadillatif/techxninjas-client/issues/220) |
 | Added theme toggle | Medium | [#216](https://github.com/iaadillatif/techxninjas-client/pull/216) |
-| Add eye button to toggle password visibility in login and registratio… | Medium | [#214](https://github.com/iaadillatif/techxninjas-client/pull/214) |
 
 ---
 
@@ -59,16 +60,13 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add alt text to all images in the README and static pages | Easy | [#476](https://github.com/abhisek2004/Dev-Elevate/issues/476) |
-| Advanced Analytics Dashboard for Admins | Easy | [#472](https://github.com/abhisek2004/Dev-Elevate/issues/472) |
 | Feature: Mentorship / Experts Connect | Easy | [#365](https://github.com/abhisek2004/Dev-Elevate/issues/365) |
 | Feature Sync Admin-Added Courses with User Course Display | Easy | [#350](https://github.com/abhisek2004/Dev-Elevate/issues/350) |
 | 🐛 Issue: Content Management Not Functioning Properly | Easy | [#343](https://github.com/abhisek2004/Dev-Elevate/issues/343) |
 | Feature AI Interview Simulator – Backend Setup | Easy | [#341](https://github.com/abhisek2004/Dev-Elevate/issues/341) |
 | [Enhancement] Expand Job Opportunities Feed with Multiple Platforms | Easy | [#229](https://github.com/abhisek2004/Dev-Elevate/issues/229) |
 | [Feature] Integrate ATS Scanner into Resume Builder – #NewFeature | Easy | [#228](https://github.com/abhisek2004/Dev-Elevate/issues/228) |
-| Refactor AdminLog structure and update log handling in AdminSystemLog… | Medium | [#478](https://github.com/abhisek2004/Dev-Elevate/pull/478) |
-| Add Helmet and hpp middleware for improved security | Medium | [#477](https://github.com/abhisek2004/Dev-Elevate/issues/477) |
+| feat: add Advanced Analytics component with comprehensive data visualization and reporting features | Medium | [#480](https://github.com/abhisek2004/Dev-Elevate/pull/480) |
 
 ---
 
@@ -89,7 +87,6 @@ Accessibility features like dark mode,white.
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Migrate Scraper to GitHub .md Files | Medium | [#2277](https://github.com/OWASP/Nest/pull/2277) |
-| add sponsor api endpoint | Medium | [#2276](https://github.com/OWASP/Nest/pull/2276) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
@@ -547,25 +544,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add workflow for automate comment for issue | Medium | [#201](https://github.com/SurajSG23/PrepBuddy/issues/201) |
-| Add template for pull request | Medium | [#200](https://github.com/SurajSG23/PrepBuddy/issues/200) |
-
----
-
 ## 📌 Project: Legalease
 
 📝 **Description:** A platform built for people to get legal advice on, you can directly track your cases, converse with a AI-legal chat bot and find real life lawyers, working on the issues.
@@ -971,24 +949,6 @@ Fast Workflow Tools
 
 ---
 
-## 📌 Project: tech event
-
-📝 **Description:** using CSV file filter the events
-
-🔗 [View Project](https://github.com/muskan-fatim/Tech_event)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, TypeScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Filter Functionality and also Added the "Event added successfully!" message. | Medium | [#44](https://github.com/muskan-fatim/Tech_event/pull/44) |
-
----
-
 ## 📌 Project: GameStore
 
 📝 **Description:** A comprehensive gaming website featuring engaging mini-games with user authentication, statistics tracking, leaderboards, and a robust backend API.
@@ -1050,7 +1010,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.23.13 | Medium | [#109](https://github.com/Ojas-Arora/SapneSeSafar/pull/109) |
+| Bump @vitejs/plugin-react from 4.3.2 to 5.0.3 | Medium | [#111](https://github.com/Ojas-Arora/SapneSeSafar/pull/111) |
+| Bump framer-motion from 11.18.2 to 12.23.14 | Medium | [#110](https://github.com/Ojas-Arora/SapneSeSafar/pull/110) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump react-router-dom from 6.28.2 to 7.9.1 | Medium | [#107](https://github.com/Ojas-Arora/SapneSeSafar/pull/107) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
@@ -1061,7 +1022,6 @@ Fast Workflow Tools
 | Bump eslint from 9.12.0 to 9.35.0 | Medium | [#95](https://github.com/Ojas-Arora/SapneSeSafar/pull/95) |
 | Bump tailwindcss from 3.4.17 to 4.1.13 | Medium | [#94](https://github.com/Ojas-Arora/SapneSeSafar/pull/94) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
-| Bump @vitejs/plugin-react from 4.3.2 to 5.0.2 | Medium | [#89](https://github.com/Ojas-Arora/SapneSeSafar/pull/89) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
@@ -1289,7 +1249,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Redisgn volume detail page | Easy | [#137](https://github.com/fordevio/wharf/issues/137) |
 | Redisgn image detail page | Easy | [#136](https://github.com/fordevio/wharf/issues/136) |
 | Redisgn network details page | Easy | [#135](https://github.com/fordevio/wharf/issues/135) |
 | Enhance User page | Easy | [#130](https://github.com/fordevio/wharf/issues/130) |
@@ -1298,6 +1257,7 @@ Fast Workflow Tools
 | Write tests for pkg/store | Easy | [#5](https://github.com/fordevio/wharf/issues/5) |
 | Write  tests for pkg/volume | Easy | [#4](https://github.com/fordevio/wharf/issues/4) |
 | Write  tests for pkg/network | Easy | [#3](https://github.com/fordevio/wharf/issues/3) |
+| Write  tests for pkg/image | Easy | [#2](https://github.com/fordevio/wharf/issues/2) |
 | fix(login): Prevent layout shift of header on login page | Medium | [#120](https://github.com/fordevio/wharf/pull/120) |
 | New Layout is not Responsive | Medium | [#111](https://github.com/fordevio/wharf/issues/111) |
 | Edit labels of a  volume | Medium | [#81](https://github.com/fordevio/wharf/issues/81) |
