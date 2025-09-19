@@ -113,6 +113,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding CONTRIBUTING.md | Medium | [#20](https://github.com/byteom/Interview01/issues/20) |
 | Add Scroll to top button | Medium | [#19](https://github.com/byteom/Interview01/issues/19) |
 | Search bar is non-functional | Medium | [#17](https://github.com/byteom/Interview01/issues/17) |
 | Enhance Stats & Testimonials with Engaging Animations for Improved UX | Medium | [#16](https://github.com/byteom/Interview01/issues/16) |
@@ -167,6 +168,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Improve visibility of numbered bullet points in Problem section | Medium | [#82](https://github.com/LarytheLord/Adventurers-Guild/pull/82) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -207,15 +209,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump vite from 5.4.17 to 7.1.6 | Medium | [#113](https://github.com/Ojas-Arora/SapneSeSafar/pull/113) |
+| Bump framer-motion from 11.18.2 to 12.23.15 | Medium | [#112](https://github.com/Ojas-Arora/SapneSeSafar/pull/112) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.3 | Medium | [#111](https://github.com/Ojas-Arora/SapneSeSafar/pull/111) |
-| Bump framer-motion from 11.18.2 to 12.23.14 | Medium | [#110](https://github.com/Ojas-Arora/SapneSeSafar/pull/110) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump react-router-dom from 6.28.2 to 7.9.1 | Medium | [#107](https://github.com/Ojas-Arora/SapneSeSafar/pull/107) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
 | Bump lucide-react from 0.344.0 to 0.544.0 | Medium | [#103](https://github.com/Ojas-Arora/SapneSeSafar/pull/103) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.57.4 | Medium | [#99](https://github.com/Ojas-Arora/SapneSeSafar/pull/99) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
-| Bump vite from 5.4.17 to 7.1.5 | Medium | [#97](https://github.com/Ojas-Arora/SapneSeSafar/pull/97) |
 | Bump eslint from 9.12.0 to 9.35.0 | Medium | [#95](https://github.com/Ojas-Arora/SapneSeSafar/pull/95) |
 | Bump tailwindcss from 3.4.17 to 4.1.13 | Medium | [#94](https://github.com/Ojas-Arora/SapneSeSafar/pull/94) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
