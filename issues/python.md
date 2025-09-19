@@ -227,9 +227,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Narrow down PLC0415 global ignore to per-file-ignores in pyproject.toml | Easy | [#2297](https://github.com/OWASP/Nest/issues/2297) |
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
-| Migrate Scraper to GitHub .md Files | Medium | [#2277](https://github.com/OWASP/Nest/pull/2277) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
@@ -358,6 +358,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: Remove hardcoded API keys security vulnerability | Medium | [#52](https://github.com/Jotthecode/CITY-PULSE/pull/52) |
+| Hard-coded API Keys in Source Code (Security Vulnerability) GSSOC-25 | Medium | [#51](https://github.com/Jotthecode/CITY-PULSE/issues/51) |
 | docs: add MIT license | Medium | [#49](https://github.com/Jotthecode/CITY-PULSE/pull/49) |
 | Update Readme.Md | Medium | [#47](https://github.com/Jotthecode/CITY-PULSE/issues/47) |
 | Add Voice Assistant Integration alongside CityBot | Medium | [#46](https://github.com/Jotthecode/CITY-PULSE/issues/46) |
@@ -537,12 +539,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Pull Request : Interactive Crop Calendar Enhancement | Medium | [#312](https://github.com/omroy07/AgriTech/pull/312) |
-| Interactive Crop Calendar Enhancement | Medium | [#311](https://github.com/omroy07/AgriTech/issues/311) |
+| Add Deep Learning CNN Model for Tomato Leaf Disease Prediction (#316) | Medium | [#317](https://github.com/omroy07/AgriTech/pull/317) |
+| Add Deep Learning CNN Model for Tomato Leaf Disease Prediction | Medium | [#316](https://github.com/omroy07/AgriTech/issues/316) |
+| Navbar Inconsistency Across Pages | Medium | [#314](https://github.com/omroy07/AgriTech/issues/314) |
 | Pull Request : UI Enhancement: Modernize Weather PagUI Enhancement: M… | Medium | [#309](https://github.com/omroy07/AgriTech/pull/309) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
 | Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
-| Theme dark mode not changing color of text | Medium | [#237](https://github.com/omroy07/AgriTech/issues/237) |
 
 ---
 
@@ -594,8 +596,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| new features | Medium | [#49](https://github.com/18Prachi/airplane-boarding-simulation/issues/49) |
 | Implementing a Data-Driven Analysis and Reporting Module | Medium | [#48](https://github.com/18Prachi/airplane-boarding-simulation/issues/48) |
-| Added the feature Issue#41 | Medium | [#47](https://github.com/18Prachi/airplane-boarding-simulation/pull/47) |
 | to make website for the same | Medium | [#46](https://github.com/18Prachi/airplane-boarding-simulation/issues/46) |
 | resolve the cascading movement bug | Medium | [#45](https://github.com/18Prachi/airplane-boarding-simulation/pull/45) |
 | adding baseline boarding strategies for comparison | Medium | [#44](https://github.com/18Prachi/airplane-boarding-simulation/issues/44) |
@@ -650,6 +652,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement: Validate feature names and improve CLI error messages | Medium | [#46](https://github.com/etsi-ai/etsi-watchdog/issues/46) |
 | Fix login/signup flow and add favicon (issue #44) | Medium | [#45](https://github.com/etsi-ai/etsi-watchdog/pull/45) |
 | Glassmorphism Auth Pages + Dashboard Enhancements+ python code tester | Medium | [#44](https://github.com/etsi-ai/etsi-watchdog/issues/44) |
 | Added Website Style + More examples | Medium | [#43](https://github.com/etsi-ai/etsi-watchdog/pull/43) |
@@ -677,6 +680,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added beginner-friendly EDA on Titanic dataset | Easy | [#540](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/540) |
+| Added Crop Yield Prediction ANN project files | Medium | [#711](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/711) |
 | Add comment classification | Medium | [#710](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/710) |
 | Pull Request : Gold Price Prediction using Machine Learning | Medium | [#709](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/709) |
 | Gold Price Prediction using Machine Learning | Medium | [#708](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/708) |
@@ -697,7 +701,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | AIDice Master | Medium | [#466](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/466) |
 | Add Logistic Regression–Based Diabetes Prediction for Pregnant Females | Medium | [#446](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/446) |
 | GSSoC'25 : Real-Time Market Sentiment-Driven Trading Signal Generator | Medium | [#412](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/412) |
-| Feature Request: Instagram Caption Recommendation System | Medium | [#352](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/352) |
 
 ---
 
@@ -829,12 +832,13 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Content of pages/FAQs.py is not in FAQ format | Medium | [#236](https://github.com/eccentriccoder01/TalkHeal/issues/236) |
+| Bug: UnboundLocalError on Guest Login | Medium | [#235](https://github.com/eccentriccoder01/TalkHeal/issues/235) |
+| Improve button font size, visibility, and alignment for better UI/UX | Medium | [#233](https://github.com/eccentriccoder01/TalkHeal/issues/233) |
 | Implement Passive Symptom Tracking with Wearables | Medium | [#178](https://github.com/eccentriccoder01/TalkHeal/issues/178) |
 | Integrate Emotional Recognition via Camera | Medium | [#177](https://github.com/eccentriccoder01/TalkHeal/issues/177) |
-| Integrate Gamification for User Engagement | Medium | [#174](https://github.com/eccentriccoder01/TalkHeal/issues/174) |
 | Create a Virtual Therapy Simulation | Medium | [#173](https://github.com/eccentriccoder01/TalkHeal/issues/173) |
 | Implement AI-Guided CBT/DBT Modules | Medium | [#172](https://github.com/eccentriccoder01/TalkHeal/issues/172) |
-| User Authentication Lost on Page Navigation in Journaling Section | Medium | [#170](https://github.com/eccentriccoder01/TalkHeal/issues/170) |
 | Add Dark Mode & High-Contrast Theme for Accessibility | Medium | [#147](https://github.com/eccentriccoder01/TalkHeal/issues/147) |
 | Session Persistence – Clarification | Medium | [#129](https://github.com/eccentriccoder01/TalkHeal/issues/129) |
 | Add Multi Language Support | Medium | [#120](https://github.com/eccentriccoder01/TalkHeal/issues/120) |
@@ -1100,11 +1104,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Additional Maths Questions under Algorithms_and_Data_Structures | Medium | [#1797](https://github.com/UTSAVS26/PyVerse/issues/1797) |
 | Added UPI Fraud Detection | Medium | [#1628](https://github.com/UTSAVS26/PyVerse/pull/1628) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 | ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
 | NLP Project autocorrect algorithm | Medium | [#1506](https://github.com/UTSAVS26/PyVerse/issues/1506) |
-| Added pyverse_tip CLI command to show random Python tips | Medium | [#1480](https://github.com/UTSAVS26/PyVerse/pull/1480) |
 
 ---
 
@@ -1290,6 +1294,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement automatic scroll-to-top on navigation - Fixes #63 | Medium | [#68](https://github.com/Xenonesis/code-guardian-report/pull/68) |
 | Google Signup/Signin Not Working | Medium | [#67](https://github.com/Xenonesis/code-guardian-report/issues/67) |
 | Scroll to top button added globally | Medium | [#65](https://github.com/Xenonesis/code-guardian-report/pull/65) |
 | Homepage Enhanced | Medium | [#62](https://github.com/Xenonesis/code-guardian-report/pull/62) |
@@ -1302,7 +1307,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Mobile reponsive | Medium | [#46](https://github.com/Xenonesis/code-guardian-report/pull/46) |
 | fix: added inline styles and visible content for responsive layout | Medium | [#40](https://github.com/Xenonesis/code-guardian-report/pull/40) |
 | Feat: #14 Implement live code diff viewer with local data source | Medium | [#33](https://github.com/Xenonesis/code-guardian-report/pull/33) |
-| Add more info support | Medium | [#25](https://github.com/Xenonesis/code-guardian-report/issues/25) |
 
 ---
 
@@ -1754,6 +1758,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add ChatInput validation | Medium | [#70](https://github.com/CharithaReddy18/AI-health-chatbot/pull/70) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
@@ -1836,8 +1841,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed: Enhancement of Feedback Page UI | Medium | [#45](https://github.com/AKing-283/Rewear/pull/45) |
-| Fix : #12 | Medium | [#44](https://github.com/AKing-283/Rewear/pull/44) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
 
 ---
