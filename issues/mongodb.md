@@ -28,7 +28,7 @@ Accessibility features like dark mode,white.
 | Feature AI Interview Simulator – Backend Setup | Easy | [#341](https://github.com/abhisek2004/Dev-Elevate/issues/341) |
 | [Enhancement] Expand Job Opportunities Feed with Multiple Platforms | Easy | [#229](https://github.com/abhisek2004/Dev-Elevate/issues/229) |
 | [Feature] Integrate ATS Scanner into Resume Builder – #NewFeature | Easy | [#228](https://github.com/abhisek2004/Dev-Elevate/issues/228) |
-| feat: add Advanced Analytics component with comprehensive data visualization and reporting features | Medium | [#480](https://github.com/abhisek2004/Dev-Elevate/pull/480) |
+| feat: implement API rate limiting (#436) | Medium | [#483](https://github.com/abhisek2004/Dev-Elevate/pull/483) |
 
 ---
 
@@ -47,8 +47,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Not able to login as an Admin or Superadmin | Easy | [#120](https://github.com/abhisek247767/PeopleHub-Frontend/issues/120) |
-| Fix: Make navbar sticky while scrolling | Medium | [#138](https://github.com/abhisek247767/PeopleHub-Frontend/pull/138) |
-| fix(ui): UI Issue #134 | Medium | [#136](https://github.com/abhisek247767/PeopleHub-Frontend/pull/136) |
 
 ---
 
@@ -101,6 +99,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Suggestions Logic & Validation Issues in Assessment Controller | Medium | [#87](https://github.com/AdityaRalhan/Aluma/issues/87) |
 | NLP Keyword/Topic Extraction for User Journals | Medium | [#86](https://github.com/AdityaRalhan/Aluma/issues/86) |
 | Add Social Login Options on Signup Page | Medium | [#85](https://github.com/AdityaRalhan/Aluma/issues/85) |
 | the bots are not responding to the prompts i will be working on this issue | Medium | [#84](https://github.com/AdityaRalhan/Aluma/issues/84) |
@@ -140,6 +139,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(backend): express-validator for update-profile + package.json fix | Medium | [#1237](https://github.com/Code-A2Z/code-a2z/pull/1237) |
 | Feature Request: Add helmet and hpp Middleware | Medium | [#1236](https://github.com/Code-A2Z/code-a2z/issues/1236) |
 | feat(auth): Add departement validation to signup route | Medium | [#1235](https://github.com/Code-A2Z/code-a2z/pull/1235) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -152,7 +152,6 @@ Accessibility features like dark mode,white.
 | 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
 | 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
 | 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
-| 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
 
 ---
 
@@ -199,8 +198,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added testimonials section | Easy | [#221](https://github.com/BhaktiMore18/Pouranik/pull/221) |
-| Issue: Fix Spacing & Alignment on Book Detail Page | Medium | [#233](https://github.com/BhaktiMore18/Pouranik/issues/233) |
-| Book Icon Disappears in Light Mode | Medium | [#232](https://github.com/BhaktiMore18/Pouranik/issues/232) |
 | Eye icon visible | Medium | [#229](https://github.com/BhaktiMore18/Pouranik/pull/229) |
 | privacy policy page | Medium | [#228](https://github.com/BhaktiMore18/Pouranik/pull/228) |
 | Addition of pr create automate message | Medium | [#224](https://github.com/BhaktiMore18/Pouranik/issues/224) |
@@ -546,8 +543,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Revamp Navbar: Fully Responsive, Light/Dark Theme, Professional Design | Medium | [#274](https://github.com/Prashanti-Hebbar/FoodIO/pull/274) |
-| Hide register button after login/register using isLoggedIn state(ternary operator) | Medium | [#272](https://github.com/Prashanti-Hebbar/FoodIO/pull/272) |
 | Update Header Based on User Login Status | Medium | [#265](https://github.com/Prashanti-Hebbar/FoodIO/issues/265) |
 | Enhancing the favorite, saved and share button actions. | Medium | [#264](https://github.com/Prashanti-Hebbar/FoodIO/issues/264) |
 | feat: add image upload support for recipes | Medium | [#241](https://github.com/Prashanti-Hebbar/FoodIO/pull/241) |
@@ -723,6 +718,28 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 ---
 
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Smooth scroll not working for Features and How It Works sections | Easy | [#207](https://github.com/SurajSG23/PrepBuddy/issues/207) |
+| main title not responsive on home page | Easy | [#206](https://github.com/SurajSG23/PrepBuddy/issues/206) |
+| Add Workflow for autocomment on PR | Medium | [#205](https://github.com/SurajSG23/PrepBuddy/issues/205) |
+| Added Workflow for autocomment on issues | Medium | [#204](https://github.com/SurajSG23/PrepBuddy/pull/204) |
+| Create pull request template for contributions | Medium | [#203](https://github.com/SurajSG23/PrepBuddy/pull/203) |
+
+---
+
 ## 📌 Project: Syed Imtiyaz Ali 
 
 📝 **Description:** Swapify is a secure, add-free, and community-driven platform designed to revolutionize how Indians buy and sell pre-owned products.
@@ -769,6 +786,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add "FAQ" Link to Header Navigation (Open Dedicated FAQ Page) | Medium | [#313](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/313) |
 | Updated Twitter Icon | Medium | [#312](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/312) |
 | Add More Songs to Calming Corner for Enhanced User Experience | Medium | [#310](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/310) |
 | Revamp the navbar | Medium | [#309](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/309) |
@@ -798,6 +816,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Visual Improvement for the Dashboard page | Medium | [#240](https://github.com/openml-stack/SentiLog-AI/issues/240) |
 | Help Center Page is missing | Medium | [#239](https://github.com/openml-stack/SentiLog-AI/issues/239) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
@@ -938,13 +957,14 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Ensure Backend Starts Only If Database is Connected | Medium | [#127](https://github.com/DevSyncx/DevSync/issues/127) |
+| Enhance email verification process and update environment configuration | Medium | [#126](https://github.com/DevSyncx/DevSync/pull/126) |
 | Responsive Issues in Profile Cards | Medium | [#125](https://github.com/DevSyncx/DevSync/issues/125) |
 | added top 3 contributors in home page as well as another section for all contributors | Medium | [#124](https://github.com/DevSyncx/DevSync/pull/124) |
 | Implements Pomodoro Timer feature | Medium | [#123](https://github.com/DevSyncx/DevSync/pull/123) |
 | Personalized Unified Dashboard for Logged-In Users | Medium | [#121](https://github.com/DevSyncx/DevSync/issues/121) |
 | Add productivity challenge section | Medium | [#119](https://github.com/DevSyncx/DevSync/pull/119) |
 | GitHub oauth fresh | Medium | [#118](https://github.com/DevSyncx/DevSync/pull/118) |
-| Feat: Validate Email Address During Signup Using Hunter.io API | Medium | [#115](https://github.com/DevSyncx/DevSync/issues/115) |
 | Dark theme not working properly for the profile page | Medium | [#114](https://github.com/DevSyncx/DevSync/issues/114) |
 | Fix server startup | Medium | [#113](https://github.com/DevSyncx/DevSync/pull/113) |
 | Added user feedback popup with rating and comment form | Medium | [#109](https://github.com/DevSyncx/DevSync/pull/109) |
@@ -1027,7 +1047,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Integrate Google OAuth for User Authentication | Medium | [#185](https://github.com/dipexplorer/LegalHuB/pull/185) |
-| Add Dedicated Admin Dashboard Navbar for Easy Access | Hard | [#170](https://github.com/dipexplorer/LegalHuB/issues/170) |
+| Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
 
 ---
 
@@ -1207,10 +1227,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: when input is in focus now the icons are visible | Medium | [#778](https://github.com/Premkolte/AnimateHub/pull/778) |
-| Added a reusbale BlogCard component | Medium | [#777](https://github.com/Premkolte/AnimateHub/pull/777) |
-| Level 3: Update PostCSS Configuration for Deploy-Ready Setup | Medium | [#776](https://github.com/Premkolte/AnimateHub/issues/776) |
-| Level 3: fix(postcss) – add missing plugins and update config for deployment | Medium | [#775](https://github.com/Premkolte/AnimateHub/pull/775) |
 | 🚨 Important Admin Notice 🚨 | Medium | [#662](https://github.com/Premkolte/AnimateHub/issues/662) |
 | #500 - Congratulations to All Contributors | Hard | [#500](https://github.com/Premkolte/AnimateHub/issues/500) |
 
@@ -1565,6 +1581,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding attractive homepage | Medium | [#86](https://github.com/Vijayaa21/Blabber/issues/86) |
 | Add Template for Pull Request | Medium | [#85](https://github.com/Vijayaa21/Blabber/issues/85) |
 | 🔑 Add "Continue with Google" Button | Medium | [#84](https://github.com/Vijayaa21/Blabber/issues/84) |
 | chore: update Sidebar.jsx and other changes | Medium | [#83](https://github.com/Vijayaa21/Blabber/pull/83) |
