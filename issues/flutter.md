@@ -108,6 +108,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Add Drawing/Doodling Capability to Text Editing App | Medium | [#93](https://github.com/may-tas/TextEditingApp/issues/93) |
 | Streamline Color Management by Using a ColorConstants Class | Medium | [#85](https://github.com/may-tas/TextEditingApp/issues/85) |
 | Improve Text Shadow & Glow | Medium | [#74](https://github.com/may-tas/TextEditingApp/issues/74) |
 
