@@ -60,13 +60,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Add Build Verification GitHub Action for Pull Requests | Easy | [#15](https://github.com/thedevyashsaini/rusticle/issues/15) |
 | Enhancement: Add Repository Templates for Better Open Source Workflow | Easy | [#5](https://github.com/thedevyashsaini/rusticle/issues/5) |
 | Documentation : Updating README.md File for Better Project Documentation | Medium | [#21](https://github.com/thedevyashsaini/rusticle/issues/21) |
 | Added Contributing.md | Medium | [#20](https://github.com/thedevyashsaini/rusticle/pull/20) |
 | Added Code of Conduct file | Medium | [#19](https://github.com/thedevyashsaini/rusticle/pull/19) |
 | Added License | Medium | [#18](https://github.com/thedevyashsaini/rusticle/pull/18) |
-| Enhancement: Add Support for Arrays/Lists Data Type | Medium | [#12](https://github.com/thedevyashsaini/rusticle/issues/12) |
 | Enhancement: Implement Variable Scoping and Block Scope | Medium | [#7](https://github.com/thedevyashsaini/rusticle/issues/7) |
 | Added LICENSE | Medium | [#6](https://github.com/thedevyashsaini/rusticle/pull/6) |
 | Enhancement: Implement Closures and Lexical Scoping | Hard | [#11](https://github.com/thedevyashsaini/rusticle/issues/11) |
