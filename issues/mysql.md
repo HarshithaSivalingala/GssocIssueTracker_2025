@@ -106,9 +106,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Login Page Improvements | Medium | [#80](https://github.com/swarooppatilx/bit-by-query/issues/80) |
-| Start Contest Updated | Medium | [#79](https://github.com/swarooppatilx/bit-by-query/pull/79) |
-| feat: add rate limiting to authentication routes | Medium | [#78](https://github.com/swarooppatilx/bit-by-query/pull/78) |
+| feat : Added the WatchEye Icon in the password field for users to Toggle and see their password | Medium | [#81](https://github.com/swarooppatilx/bit-by-query/pull/81) |
 | feat: add a env flag for sqlite mode | Medium | [#75](https://github.com/swarooppatilx/bit-by-query/issues/75) |
 | bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
 | feat: admin panel | Medium | [#66](https://github.com/swarooppatilx/bit-by-query/issues/66) |
@@ -116,8 +114,6 @@
 | feat: display table schema below question description | Medium | [#64](https://github.com/swarooppatilx/bit-by-query/issues/64) |
 | feat: fetch problems from remote source | Medium | [#62](https://github.com/swarooppatilx/bit-by-query/issues/62) |
 | Categorize Questions into Difficulty Levels (Easy, Medium, Hard) | Medium | [#60](https://github.com/swarooppatilx/bit-by-query/issues/60) |
-| Make SQL Query Results Scrollable on Small Screens | Medium | [#42](https://github.com/swarooppatilx/bit-by-query/pull/42) |
-| Add Reset Button to Clear Query Input and Results Panel | Medium | [#41](https://github.com/swarooppatilx/bit-by-query/pull/41) |
 | ISSUE:-While Login And Signup Internal Server Failed Error | Medium | [#30](https://github.com/swarooppatilx/bit-by-query/issues/30) |
 
 ---
