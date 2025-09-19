@@ -34,6 +34,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added ``createSms`` method to create a new message | Medium | [#137](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/137) |
 | feat: Added API for list_Topic_logs | Medium | [#135](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/135) |
 | issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
@@ -57,8 +58,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fix-74 | Easy | [#98](https://github.com/SharonIV0x86/CinderPeak/pull/98) |
-| chore(vis): Drop visualization engine and remove all traces. | Medium | [#100](https://github.com/SharonIV0x86/CinderPeak/pull/100) |
-| feat(GraphList): added ``removeEdge()`` method to remove all the edges | Medium | [#99](https://github.com/SharonIV0x86/CinderPeak/pull/99) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
 
 ---
