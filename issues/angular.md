@@ -15,8 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Not able to login as an Admin or Superadmin | Easy | [#120](https://github.com/abhisek247767/PeopleHub-Frontend/issues/120) |
-| Fix: Make navbar sticky while scrolling | Medium | [#138](https://github.com/abhisek247767/PeopleHub-Frontend/pull/138) |
-| fix(ui): UI Issue #134 | Medium | [#136](https://github.com/abhisek247767/PeopleHub-Frontend/pull/136) |
 
 ---
 
