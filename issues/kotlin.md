@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Typo in README.md (secratary → secretary) | Medium | [#71](https://github.com/A-Akhil/Astra-Ai/issues/71) |
 | feat(layout): Enhance assistant message item | Medium | [#70](https://github.com/A-Akhil/Astra-Ai/pull/70) |
 | Refactor & Enhance: Improve item_message_assistant.xml Layout | Medium | [#68](https://github.com/A-Akhil/Astra-Ai/issues/68) |
 | Feature Request: Persistent Chat History with Search & Export | Medium | [#67](https://github.com/A-Akhil/Astra-Ai/issues/67) |
@@ -40,6 +39,7 @@
 | Add My Application to initialize Logger | Medium | [#30](https://github.com/A-Akhil/Astra-Ai/pull/30) |
 | Update Llama Client.kt | Medium | [#29](https://github.com/A-Akhil/Astra-Ai/pull/29) |
 | Suggested Advanced Additions to Scale Astra-AI to a Full-Fledged Assistant | Medium | [#26](https://github.com/A-Akhil/Astra-Ai/issues/26) |
+| Add support for running LLMs fully on device with Ollama (for low-RAM systems) | Medium | [#25](https://github.com/A-Akhil/Astra-Ai/issues/25) |
 
 ---
 
@@ -139,14 +139,15 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Dark Mode / Theme Toggle to ShopSmart [GSSoC’25] | Medium | [#429](https://github.com/yuvrajsinghgmx/ShopSmart/issues/429) |
-| Duplicate Contribution Sections in README | Medium | [#428](https://github.com/yuvrajsinghgmx/ShopSmart/issues/428) |
-| Add a CONTRIBUTING.md File to project | Medium | [#420](https://github.com/yuvrajsinghgmx/ShopSmart/issues/420) |
+| Back button not working on Shop Details screen | Easy | [#433](https://github.com/yuvrajsinghgmx/ShopSmart/issues/433) |
+| Product category filter list is not functional | Medium | [#435](https://github.com/yuvrajsinghgmx/ShopSmart/issues/435) |
+| Search bar on top of home screen is not functional | Medium | [#434](https://github.com/yuvrajsinghgmx/ShopSmart/issues/434) |
+| Implemented the customer profile screen and refresh token logic | Medium | [#432](https://github.com/yuvrajsinghgmx/ShopSmart/pull/432) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
 | Handle upload of multiple images in Add Shop Screen | Medium | [#415](https://github.com/yuvrajsinghgmx/ShopSmart/issues/415) |
+| Logout API integration | Medium | [#408](https://github.com/yuvrajsinghgmx/ShopSmart/issues/408) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
-| Introduce Email and Password Login through Firebase | Medium | [#354](https://github.com/yuvrajsinghgmx/ShopSmart/issues/354) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
