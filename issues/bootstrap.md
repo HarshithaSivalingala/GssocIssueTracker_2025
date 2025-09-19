@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create and Link "Terms & Conditions" Page | Medium | [#1366](https://github.com/vishanurag/Canvas-Editor/issues/1366) |
 | chatbot using LLM | Medium | [#1365](https://github.com/vishanurag/Canvas-Editor/pull/1365) |
 
 ---
@@ -36,13 +37,27 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Custom UI/UX Box Sometimes Not Visible | Medium | [#553](https://github.com/gyanshankar1708/GrowCraft/issues/553) |
+| Search Bar Not Switching to Dark Mode | Medium | [#552](https://github.com/gyanshankar1708/GrowCraft/issues/552) |
+| Contribution Guide Text Visibility Issue | Medium | [#551](https://github.com/gyanshankar1708/GrowCraft/issues/551) |
+| Dark Mode and Light Mode UI/UX Not Working Properly | Medium | [#550](https://github.com/gyanshankar1708/GrowCraft/issues/550) |
+| Inconsistent Layout in "Our Approach" Section | Medium | [#549](https://github.com/gyanshankar1708/GrowCraft/issues/549) |
+| Footer Layout Alignment Improvement About Page | Medium | [#548](https://github.com/gyanshankar1708/GrowCraft/issues/548) |
+| Inconsistent Hover Effects in Section Headings | Medium | [#547](https://github.com/gyanshankar1708/GrowCraft/issues/547) |
+| Improve Blog Section Spacing & Hover Animation | Medium | [#546](https://github.com/gyanshankar1708/GrowCraft/issues/546) |
+| Fix Footer Icons Visibility & Spacing | Medium | [#545](https://github.com/gyanshankar1708/GrowCraft/issues/545) |
+| Fix "Learn more" Button & Add Slide Navigation Button in index.html | Medium | [#544](https://github.com/gyanshankar1708/GrowCraft/issues/544) |
+| Add dedicated Privacy Policy and Terms & Conditions pages | Medium | [#543](https://github.com/gyanshankar1708/GrowCraft/issues/543) |
+| Bug : cyber analyst page and graphic design page not linked with cards on homepage | Medium | [#542](https://github.com/gyanshankar1708/GrowCraft/issues/542) |
+| Bug : Redirection of some services cards not working | Medium | [#541](https://github.com/gyanshankar1708/GrowCraft/issues/541) |
+| Remove Duplicate files in project directory | Medium | [#540](https://github.com/gyanshankar1708/GrowCraft/issues/540) |
+| Enhance Website Development Section with Modern GIF & Updated Heading | Medium | [#539](https://github.com/gyanshankar1708/GrowCraft/pull/539) |
+| Added Careers page | Medium | [#538](https://github.com/gyanshankar1708/GrowCraft/pull/538) |
+| Redesigned the social media management page | Medium | [#537](https://github.com/gyanshankar1708/GrowCraft/pull/537) |
+| Add Feedback & Reviews Section Above Footer in homepage | Medium | [#531](https://github.com/gyanshankar1708/GrowCraft/pull/531) |
+| Add "FAQ" Link to Header Navigation (Open Dedicated FAQ Page) | Medium | [#530](https://github.com/gyanshankar1708/GrowCraft/pull/530) |
 | Fix footer layout and styling for screens up to 768px width | Medium | [#528](https://github.com/gyanshankar1708/GrowCraft/pull/528) |
-| Add Feedback & Reviews Section Above Footer in homepage | Medium | [#527](https://github.com/gyanshankar1708/GrowCraft/pull/527) |
-| Added Careers page | Medium | [#526](https://github.com/gyanshankar1708/GrowCraft/pull/526) |
-| Fixed  text visibility in about us | Medium | [#525](https://github.com/gyanshankar1708/GrowCraft/pull/525) |
 | fix text-color of search placeholder og navBar and fixes space and font-size in ABout section | Medium | [#503](https://github.com/gyanshankar1708/GrowCraft/pull/503) |
-| Redesign the complete  homepage | Medium | [#444](https://github.com/gyanshankar1708/GrowCraft/issues/444) |
-| Style the About Page | Medium | [#425](https://github.com/gyanshankar1708/GrowCraft/pull/425) |
 
 ---
 
@@ -82,6 +97,24 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
+
+---
+
+## 📌 Project: sachiva
+
+📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
+
+🔗 [View Project](https://github.com/sachiva1/sachiva)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 🚀 Feature Request: Add AOS Animations for Better UI/UX | Medium | [#263](https://github.com/sachiva1/sachiva/issues/263) |
 
 ---
 
