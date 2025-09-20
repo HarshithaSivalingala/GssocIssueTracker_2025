@@ -175,8 +175,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Github icons | Medium | [#549](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/549) |
+| Integrated backend to update and delete Job | Medium | [#548](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/548) |
+| Optimize Edit Job Page (Update/Delete Integration, Toast Feedback, Reduced API Calls) | Medium | [#547](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/547) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
+| icons not visible | Hard | [#543](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/543) |
 
 ---
 
@@ -194,6 +198,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Footer Layout and Mission Statement Display | Medium | [#322](https://github.com/omroy07/AgriTech/issues/322) |
+| Add FAQ Section to header(open dedicated page) | Medium | [#321](https://github.com/omroy07/AgriTech/issues/321) |
+| Enhance Dark-Themed UI, Fonts, and Transitions | Medium | [#320](https://github.com/omroy07/AgriTech/issues/320) |
+| Back to Home button in chat.html not redirecting to main page | Medium | [#319](https://github.com/omroy07/AgriTech/issues/319) |
+| added Email util | Medium | [#318](https://github.com/omroy07/AgriTech/pull/318) |
 | Add Deep Learning CNN Model for Tomato Leaf Disease Prediction (#316) | Medium | [#317](https://github.com/omroy07/AgriTech/pull/317) |
 | Add Deep Learning CNN Model for Tomato Leaf Disease Prediction | Medium | [#316](https://github.com/omroy07/AgriTech/issues/316) |
 | Navbar Inconsistency Across Pages | Medium | [#314](https://github.com/omroy07/AgriTech/issues/314) |
@@ -249,6 +258,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Sign in not working | Medium | [#241](https://github.com/openml-stack/SentiLog-AI/issues/241) |
 | Visual Improvement for the Dashboard page | Medium | [#240](https://github.com/openml-stack/SentiLog-AI/issues/240) |
 | Help Center Page is missing | Medium | [#239](https://github.com/openml-stack/SentiLog-AI/issues/239) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
@@ -263,7 +273,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
 | Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
-| fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
 
 ---
 
@@ -283,6 +292,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Build ML Diagnosis Engine / Model for Health Prediction | Medium | [#179](https://github.com/aayushraj1010/med-genie/issues/179) |
 | Add Forgot Password Functionality | Medium | [#178](https://github.com/aayushraj1010/med-genie/issues/178) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
