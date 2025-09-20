@@ -37,27 +37,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Custom UI/UX Box Sometimes Not Visible | Medium | [#553](https://github.com/gyanshankar1708/GrowCraft/issues/553) |
-| Search Bar Not Switching to Dark Mode | Medium | [#552](https://github.com/gyanshankar1708/GrowCraft/issues/552) |
-| Contribution Guide Text Visibility Issue | Medium | [#551](https://github.com/gyanshankar1708/GrowCraft/issues/551) |
-| Dark Mode and Light Mode UI/UX Not Working Properly | Medium | [#550](https://github.com/gyanshankar1708/GrowCraft/issues/550) |
-| Inconsistent Layout in "Our Approach" Section | Medium | [#549](https://github.com/gyanshankar1708/GrowCraft/issues/549) |
-| Footer Layout Alignment Improvement About Page | Medium | [#548](https://github.com/gyanshankar1708/GrowCraft/issues/548) |
-| Inconsistent Hover Effects in Section Headings | Medium | [#547](https://github.com/gyanshankar1708/GrowCraft/issues/547) |
-| Improve Blog Section Spacing & Hover Animation | Medium | [#546](https://github.com/gyanshankar1708/GrowCraft/issues/546) |
-| Fix Footer Icons Visibility & Spacing | Medium | [#545](https://github.com/gyanshankar1708/GrowCraft/issues/545) |
-| Fix "Learn more" Button & Add Slide Navigation Button in index.html | Medium | [#544](https://github.com/gyanshankar1708/GrowCraft/issues/544) |
-| Add dedicated Privacy Policy and Terms & Conditions pages | Medium | [#543](https://github.com/gyanshankar1708/GrowCraft/issues/543) |
-| Bug : cyber analyst page and graphic design page not linked with cards on homepage | Medium | [#542](https://github.com/gyanshankar1708/GrowCraft/issues/542) |
-| Bug : Redirection of some services cards not working | Medium | [#541](https://github.com/gyanshankar1708/GrowCraft/issues/541) |
-| Remove Duplicate files in project directory | Medium | [#540](https://github.com/gyanshankar1708/GrowCraft/issues/540) |
-| Enhance Website Development Section with Modern GIF & Updated Heading | Medium | [#539](https://github.com/gyanshankar1708/GrowCraft/pull/539) |
+| Update : Removed the unused code and cleaned files with unnecessary code | Medium | [#572](https://github.com/gyanshankar1708/GrowCraft/pull/572) |
+| Fix : Redirect issue solved on services cards | Medium | [#571](https://github.com/gyanshankar1708/GrowCraft/pull/571) |
+| fixed | Medium | [#569](https://github.com/gyanshankar1708/GrowCraft/pull/569) |
+| Spacing fixes in about us section | Medium | [#568](https://github.com/gyanshankar1708/GrowCraft/pull/568) |
+| fixed | Medium | [#567](https://github.com/gyanshankar1708/GrowCraft/pull/567) |
+| Fix : Homepage cards redirect issue solved | Medium | [#566](https://github.com/gyanshankar1708/GrowCraft/pull/566) |
 | Added Careers page | Medium | [#538](https://github.com/gyanshankar1708/GrowCraft/pull/538) |
-| Redesigned the social media management page | Medium | [#537](https://github.com/gyanshankar1708/GrowCraft/pull/537) |
-| Add Feedback & Reviews Section Above Footer in homepage | Medium | [#531](https://github.com/gyanshankar1708/GrowCraft/pull/531) |
-| Add "FAQ" Link to Header Navigation (Open Dedicated FAQ Page) | Medium | [#530](https://github.com/gyanshankar1708/GrowCraft/pull/530) |
-| Fix footer layout and styling for screens up to 768px width | Medium | [#528](https://github.com/gyanshankar1708/GrowCraft/pull/528) |
-| fix text-color of search placeholder og navBar and fixes space and font-size in ABout section | Medium | [#503](https://github.com/gyanshankar1708/GrowCraft/pull/503) |
 
 ---
 
@@ -114,6 +100,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI forum webpage | Medium | [#267](https://github.com/sachiva1/sachiva/issues/267) |
+| Bug and UI fix of about page | Medium | [#266](https://github.com/sachiva1/sachiva/issues/266) |
+| Improve Text Visibility in Blog Section Cards | Medium | [#265](https://github.com/sachiva1/sachiva/issues/265) |
+| Update Logo Colors | Medium | [#264](https://github.com/sachiva1/sachiva/issues/264) |
 | 🚀 Feature Request: Add AOS Animations for Better UI/UX | Medium | [#263](https://github.com/sachiva1/sachiva/issues/263) |
 
 ---
