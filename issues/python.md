@@ -34,7 +34,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement of About Page | Easy | [#185](https://github.com/SrigadaAkshayKumar/stock/issues/185) |
+| Add Forgot Password component | Medium | [#212](https://github.com/SrigadaAkshayKumar/stock/pull/212) |
+| Duplicate stock entries when adding the same stock multiple times | Medium | [#211](https://github.com/SrigadaAkshayKumar/stock/issues/211) |
 | docs: Improve Readability of Contribution Guide | Medium | [#210](https://github.com/SrigadaAkshayKumar/stock/pull/210) |
 | Add Sentiment Analysis for Stocks from News & Social Media | Medium | [#209](https://github.com/SrigadaAkshayKumar/stock/issues/209) |
 | Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
@@ -53,11 +54,9 @@
 | Add content in Terms of Service & Privacy Policy | Medium | [#186](https://github.com/SrigadaAkshayKumar/stock/issues/186) |
 | improving model accuracy | Medium | [#181](https://github.com/SrigadaAkshayKumar/stock/issues/181) |
 | Backend can’t find CSVs due to DATA_DIR and filename mismatch | Medium | [#179](https://github.com/SrigadaAkshayKumar/stock/issues/179) |
-| Contact Page Background Inconsistency | Medium | [#176](https://github.com/SrigadaAkshayKumar/stock/issues/176) |
 | Updated Stockdata.jsx and Predict.jsx with backend API URL | Medium | [#151](https://github.com/SrigadaAkshayKumar/stock/pull/151) |
-| ChatBot for Stock Knowledge & Predictions | Medium | [#145](https://github.com/SrigadaAkshayKumar/stock/issues/145) |
-| Improve button styling on stock dashboard | Medium | [#110](https://github.com/SrigadaAkshayKumar/stock/issues/110) |
 | forgot password with credentials | Medium | [#100](https://github.com/SrigadaAkshayKumar/stock/issues/100) |
+| New update regarding to reduce Yfinance API limit Error | Hard | [#62](https://github.com/SrigadaAkshayKumar/stock/issues/62) |
 
 ---
 
@@ -227,7 +226,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Narrow down PLC0415 global ignore to per-file-ignores in pyproject.toml | Easy | [#2297](https://github.com/OWASP/Nest/issues/2297) |
+| refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
@@ -302,6 +301,24 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
 | Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
 | Feat: Update frontend UI to be modern and minimal | Medium | [#127](https://github.com/Devasy23/splitwiser/pull/127) |
+
+---
+
+## 📌 Project: Medical Adherence Monitoring System
+
+📝 **Description:** An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle. Demo Video: https://res.cloudinary.com/dzl3qnjqk/video/upload/v1751681025/VID-20250419-WA0000_4_tycodg.mp4
+
+🔗 [View Project](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System)
+
+💻 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#31](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/31) |
 
 ---
 
@@ -478,6 +495,24 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 ---
 
+## 📌 Project: DreamJobs-Job Portal 
+
+📝 **Description:** this project aims to bridge the gap between job seekers and employers 
+
+🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Redesign Hero Section for Modern UX and Engagement | Medium | [#220](https://github.com/Khushi-Nigam/jobportal/pull/220) |
+
+---
+
 ## 📌 Project: AlgoLab-Learn Ml algos Visually 
 
 📝 **Description:** AlgoLab is an open-source project built to help students, developers, and enthusiasts understand Machine Learning algorithms through visual and interactive demonstrations.  Whether you're a beginner curious about how KNN or Decision Trees work, or someone who learns better by seeing algorithms in action, AlgoLab is for you.
@@ -520,8 +555,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Github icons | Medium | [#549](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/549) |
+| Integrated backend to update and delete Job | Medium | [#548](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/548) |
+| Optimize Edit Job Page (Update/Delete Integration, Toast Feedback, Reduced API Calls) | Medium | [#547](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/547) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
+| icons not visible | Hard | [#543](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/543) |
 
 ---
 
@@ -539,6 +578,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Footer Layout and Mission Statement Display | Medium | [#322](https://github.com/omroy07/AgriTech/issues/322) |
+| Add FAQ Section to header(open dedicated page) | Medium | [#321](https://github.com/omroy07/AgriTech/issues/321) |
+| Enhance Dark-Themed UI, Fonts, and Transitions | Medium | [#320](https://github.com/omroy07/AgriTech/issues/320) |
+| Back to Home button in chat.html not redirecting to main page | Medium | [#319](https://github.com/omroy07/AgriTech/issues/319) |
+| added Email util | Medium | [#318](https://github.com/omroy07/AgriTech/pull/318) |
 | Add Deep Learning CNN Model for Tomato Leaf Disease Prediction (#316) | Medium | [#317](https://github.com/omroy07/AgriTech/pull/317) |
 | Add Deep Learning CNN Model for Tomato Leaf Disease Prediction | Medium | [#316](https://github.com/omroy07/AgriTech/issues/316) |
 | Navbar Inconsistency Across Pages | Medium | [#314](https://github.com/omroy07/AgriTech/issues/314) |
@@ -596,6 +640,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Baseline Boarding Strategies (Random, Back-to-Front, WilMA, etc.) with Benchmarking | Medium | [#50](https://github.com/18Prachi/airplane-boarding-simulation/issues/50) |
 | new features | Medium | [#49](https://github.com/18Prachi/airplane-boarding-simulation/issues/49) |
 | Implementing a Data-Driven Analysis and Reporting Module | Medium | [#48](https://github.com/18Prachi/airplane-boarding-simulation/issues/48) |
 | to make website for the same | Medium | [#46](https://github.com/18Prachi/airplane-boarding-simulation/issues/46) |
@@ -680,6 +725,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added beginner-friendly EDA on Titanic dataset | Easy | [#540](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/540) |
+| Pull Request : Housing Pricing in India | Medium | [#715](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/715) |
+| Add House Price Visualization and Analysis Project | Medium | [#714](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/714) |
+| Pull Request : Gold Price Prediction by using LSTM | Medium | [#713](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/713) |
+| Add Gold Price Prediction using Machine Learning and Deep Learning Models | Medium | [#712](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/712) |
 | Added Crop Yield Prediction ANN project files | Medium | [#711](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/711) |
 | Add comment classification | Medium | [#710](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/710) |
 | Pull Request : Gold Price Prediction using Machine Learning | Medium | [#709](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/709) |
@@ -699,8 +748,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Added Streamlit Web App Interface for Email Classifier + Updated Notebook with Model Saving (#358) | Medium | [#497](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/497) |
 | Add Matplotlib Basics Notebook to Machine Learning Folder | Medium | [#479](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/479) |
 | AIDice Master | Medium | [#466](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/466) |
-| Add Logistic Regression–Based Diabetes Prediction for Pregnant Females | Medium | [#446](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/446) |
-| GSSoC'25 : Real-Time Market Sentiment-Driven Trading Signal Generator | Medium | [#412](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/412) |
 
 ---
 
@@ -740,7 +787,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Website not working | Medium | [#78](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/78) |
 | Deployment issue | Medium | [#74](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/74) |
 | Add Charging Cost Prediction REST API | Medium | [#49](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/49) |
 | Missing Code of Conduct File in Repository | Medium | [#39](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/39) |
@@ -761,6 +807,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Project cleanup: Enhanced Streamlit app, improved training pipeline, README overhaul | Medium | [#30](https://github.com/ritikka06/Tariff-Fashion/pull/30) |
 | Add Hyperparameter Tuning to Improve Model Performance -[GsSoc 2025] | Medium | [#29](https://github.com/ritikka06/Tariff-Fashion/issues/29) |
 | Add Auto Multi-Model Support, Enhance UI/UX, and Improve Documentation | Medium | [#28](https://github.com/ritikka06/Tariff-Fashion/issues/28) |
 | docs: enhance README with project overview, setup, and contribution guide | Medium | [#27](https://github.com/ritikka06/Tariff-Fashion/pull/27) |
@@ -832,6 +879,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat: Implement Native Blog System in pages/Blog.py | Medium | [#238](https://github.com/eccentriccoder01/TalkHeal/issues/238) |
+| Enhance Help Center Page with Detailed Content and Interactive UI | Medium | [#237](https://github.com/eccentriccoder01/TalkHeal/issues/237) |
 | Content of pages/FAQs.py is not in FAQ format | Medium | [#236](https://github.com/eccentriccoder01/TalkHeal/issues/236) |
 | Bug: UnboundLocalError on Guest Login | Medium | [#235](https://github.com/eccentriccoder01/TalkHeal/issues/235) |
 | Improve button font size, visibility, and alignment for better UI/UX | Medium | [#233](https://github.com/eccentriccoder01/TalkHeal/issues/233) |
@@ -840,8 +889,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Create a Virtual Therapy Simulation | Medium | [#173](https://github.com/eccentriccoder01/TalkHeal/issues/173) |
 | Implement AI-Guided CBT/DBT Modules | Medium | [#172](https://github.com/eccentriccoder01/TalkHeal/issues/172) |
 | Add Dark Mode & High-Contrast Theme for Accessibility | Medium | [#147](https://github.com/eccentriccoder01/TalkHeal/issues/147) |
-| Session Persistence – Clarification | Medium | [#129](https://github.com/eccentriccoder01/TalkHeal/issues/129) |
-| Add Multi Language Support | Medium | [#120](https://github.com/eccentriccoder01/TalkHeal/issues/120) |
 
 ---
 
@@ -1104,7 +1151,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Additional Maths Questions under Algorithms_and_Data_Structures | Medium | [#1797](https://github.com/UTSAVS26/PyVerse/issues/1797) |
 | Added UPI Fraud Detection | Medium | [#1628](https://github.com/UTSAVS26/PyVerse/pull/1628) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 | ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
@@ -1202,6 +1248,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Build ML Diagnosis Engine / Model for Health Prediction | Medium | [#179](https://github.com/aayushraj1010/med-genie/issues/179) |
 | Add Forgot Password Functionality | Medium | [#178](https://github.com/aayushraj1010/med-genie/issues/178) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
