@@ -168,7 +168,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Improve visibility of numbered bullet points in Problem section | Medium | [#82](https://github.com/LarytheLord/Adventurers-Guild/pull/82) |
+| Fix: Improved carousel cards background | Medium | [#83](https://github.com/LarytheLord/Adventurers-Guild/pull/83) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -209,8 +209,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump framer-motion from 11.18.2 to 12.23.16 | Medium | [#115](https://github.com/Ojas-Arora/SapneSeSafar/pull/115) |
+| Bump eslint from 9.12.0 to 9.36.0 | Medium | [#114](https://github.com/Ojas-Arora/SapneSeSafar/pull/114) |
 | Bump vite from 5.4.17 to 7.1.6 | Medium | [#113](https://github.com/Ojas-Arora/SapneSeSafar/pull/113) |
-| Bump framer-motion from 11.18.2 to 12.23.15 | Medium | [#112](https://github.com/Ojas-Arora/SapneSeSafar/pull/112) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.3 | Medium | [#111](https://github.com/Ojas-Arora/SapneSeSafar/pull/111) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump react-router-dom from 6.28.2 to 7.9.1 | Medium | [#107](https://github.com/Ojas-Arora/SapneSeSafar/pull/107) |
@@ -218,7 +219,6 @@
 | Bump lucide-react from 0.344.0 to 0.544.0 | Medium | [#103](https://github.com/Ojas-Arora/SapneSeSafar/pull/103) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.57.4 | Medium | [#99](https://github.com/Ojas-Arora/SapneSeSafar/pull/99) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
-| Bump eslint from 9.12.0 to 9.35.0 | Medium | [#95](https://github.com/Ojas-Arora/SapneSeSafar/pull/95) |
 | Bump tailwindcss from 3.4.17 to 4.1.13 | Medium | [#94](https://github.com/Ojas-Arora/SapneSeSafar/pull/94) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
@@ -254,6 +254,8 @@
 | ♿ Accessibility Improvements | Easy | [#100](https://github.com/Rohit-Dnath/LOL-URL/issues/100) |
 | 🧪 Add More Unit & Integration Tests | Easy | [#99](https://github.com/Rohit-Dnath/LOL-URL/issues/99) |
 | 📦 Export Analytics Data as CSV | Easy | [#98](https://github.com/Rohit-Dnath/LOL-URL/issues/98) |
+| Add theme toggle | Medium | [#127](https://github.com/Rohit-Dnath/LOL-URL/pull/127) |
+| improve overall UI, implement dark mode light mode toggle support | Medium | [#126](https://github.com/Rohit-Dnath/LOL-URL/pull/126) |
 | Redesign Footer | Medium | [#125](https://github.com/Rohit-Dnath/LOL-URL/issues/125) |
 | enhance : Addition of Logo for Website Tab Bar (Favicon) | Medium | [#123](https://github.com/Rohit-Dnath/LOL-URL/issues/123) |
 | enhance: File tree not rendering properly in Markdown editor | Medium | [#122](https://github.com/Rohit-Dnath/LOL-URL/issues/122) |
@@ -272,8 +274,6 @@
 | 📅 Add Calendar View for Link Activity | Medium | [#102](https://github.com/Rohit-Dnath/LOL-URL/issues/102) |
 | 🌍 Add Internationalization (i18n) Support | Medium | [#97](https://github.com/Rohit-Dnath/LOL-URL/issues/97) |
 | 🔔 Add Push Notifications for Important Events | Medium | [#94](https://github.com/Rohit-Dnath/LOL-URL/issues/94) |
-| 🔑 Add Apple Login (OAuth2) Support | Medium | [#90](https://github.com/Rohit-Dnath/LOL-URL/issues/90) |
-| 🔑 Add Microsoft Login (OAuth2) Support | Medium | [#89](https://github.com/Rohit-Dnath/LOL-URL/issues/89) |
 | 🧑‍💼 Add Admin Panel for User & Link Moderation | Hard | [#96](https://github.com/Rohit-Dnath/LOL-URL/issues/96) |
 | 🛡️ Add Rate Limiting to Public APIs | Hard | [#95](https://github.com/Rohit-Dnath/LOL-URL/issues/95) |
 | 🔒 Add Two-Factor Authentication (2FA) | Hard | [#92](https://github.com/Rohit-Dnath/LOL-URL/issues/92) |
