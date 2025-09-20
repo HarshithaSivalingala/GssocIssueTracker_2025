@@ -61,6 +61,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhancement: Add Repository Templates for Better Open Source Workflow | Easy | [#5](https://github.com/thedevyashsaini/rusticle/issues/5) |
+| Add build verification GitHub Action | Medium | [#22](https://github.com/thedevyashsaini/rusticle/pull/22) |
 | Documentation : Updating README.md File for Better Project Documentation | Medium | [#21](https://github.com/thedevyashsaini/rusticle/issues/21) |
 | Added Contributing.md | Medium | [#20](https://github.com/thedevyashsaini/rusticle/pull/20) |
 | Added Code of Conduct file | Medium | [#19](https://github.com/thedevyashsaini/rusticle/pull/19) |
