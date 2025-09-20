@@ -83,6 +83,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enable Users to Submit Ratings and Reviews | Medium | [#60](https://github.com/Naveenkumar30838/Housify/issues/60) |
+| Enhance Login Error Handling | Medium | [#59](https://github.com/Naveenkumar30838/Housify/issues/59) |
+| Allow Property Owners to Edit Their Listings | Medium | [#58](https://github.com/Naveenkumar30838/Housify/issues/58) |
 | Add favicon for Housify site | Medium | [#57](https://github.com/Naveenkumar30838/Housify/pull/57) |
 | City filter working and visible | Medium | [#55](https://github.com/Naveenkumar30838/Housify/pull/55) |
 | Feat: added Add New Listing button next to login in header | Medium | [#54](https://github.com/Naveenkumar30838/Housify/pull/54) |
