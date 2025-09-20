@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Contribution: Dockerfile to streamline local dev / CI | Medium | [#74](https://github.com/Abhinavhaldiya/FinPilot/issues/74) |
 | Add multi-language support with i18n for all pages (ENG default) | Medium | [#73](https://github.com/Abhinavhaldiya/FinPilot/pull/73) |
 | Add Currency Converter Widget | Medium | [#72](https://github.com/Abhinavhaldiya/FinPilot/issues/72) |
 | Add missing form validation on expense claim submission | Medium | [#71](https://github.com/Abhinavhaldiya/FinPilot/issues/71) |
@@ -367,14 +368,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add rotating Hindi + English headline on landing page | Medium | [#179](https://github.com/vatsal-bhakodia/smriti-ai/pull/179) |
-| Footer links pages missing | Medium | [#178](https://github.com/vatsal-bhakodia/smriti-ai/issues/178) |
+| add feature | Medium | [#185](https://github.com/vatsal-bhakodia/smriti-ai/pull/185) |
+| Add Standardized Issue and Pull Request Templates | Medium | [#184](https://github.com/vatsal-bhakodia/smriti-ai/issues/184) |
+| Update README.md | Medium | [#183](https://github.com/vatsal-bhakodia/smriti-ai/pull/183) |
+| Fixed Routes of footer links | Medium | [#180](https://github.com/vatsal-bhakodia/smriti-ai/pull/180) |
 | Make footer mobile responsive | Medium | [#177](https://github.com/vatsal-bhakodia/smriti-ai/pull/177) |
-| Added multilinguage text in hero section | Medium | [#176](https://github.com/vatsal-bhakodia/smriti-ai/pull/176) |
-| Garbage Code Removed | Medium | [#175](https://github.com/vatsal-bhakodia/smriti-ai/pull/175) |
 | fix(backfill): add batching, dry-run, and transactional updates for QuizResult backfill | Medium | [#173](https://github.com/vatsal-bhakodia/smriti-ai/pull/173) |
-| Adding New Features | Medium | [#172](https://github.com/vatsal-bhakodia/smriti-ai/issues/172) |
-| Feature Request: Dynamic Testimonials with Form & API | Medium | [#90](https://github.com/vatsal-bhakodia/smriti-ai/issues/90) |
 
 ---
 
