@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
 | Glowing indicator misaligned in Category cards (UI Bug) | Medium | [#248](https://github.com/iaadillatif/techxninjas-client/issues/248) |
 | fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 | Enhancement of Card Carousel | Medium | [#246](https://github.com/iaadillatif/techxninjas-client/issues/246) |
@@ -62,9 +63,7 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Feature: Mentorship / Experts Connect | Easy | [#365](https://github.com/abhisek2004/Dev-Elevate/issues/365) |
 | Feature Sync Admin-Added Courses with User Course Display | Easy | [#350](https://github.com/abhisek2004/Dev-Elevate/issues/350) |
-| 🐛 Issue: Content Management Not Functioning Properly | Easy | [#343](https://github.com/abhisek2004/Dev-Elevate/issues/343) |
 | Feature AI Interview Simulator – Backend Setup | Easy | [#341](https://github.com/abhisek2004/Dev-Elevate/issues/341) |
-| [Enhancement] Expand Job Opportunities Feed with Multiple Platforms | Easy | [#229](https://github.com/abhisek2004/Dev-Elevate/issues/229) |
 | [Feature] Integrate ATS Scanner into Resume Builder – #NewFeature | Easy | [#228](https://github.com/abhisek2004/Dev-Elevate/issues/228) |
 | feat: implement API rate limiting (#436) | Medium | [#483](https://github.com/abhisek2004/Dev-Elevate/pull/483) |
 
@@ -84,7 +83,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Narrow down PLC0415 global ignore to per-file-ignores in pyproject.toml | Easy | [#2297](https://github.com/OWASP/Nest/issues/2297) |
+| refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
@@ -208,7 +207,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Folder Structure Section to README.md | Medium | [#232](https://github.com/mansiruhil/fail-u-forward/issues/232) |
+| Enhance Favicon Implementation for Better Cross-Platform Support and Brand Recognition | Medium | [#238](https://github.com/mansiruhil/fail-u-forward/issues/238) |
+| Add sitemap.xml and robot.txt | Medium | [#237](https://github.com/mansiruhil/fail-u-forward/issues/237) |
+| SEO & Meta Tag Optimization | Medium | [#236](https://github.com/mansiruhil/fail-u-forward/pull/236) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Fixing entire css components of welcome page and main page | Medium | [#197](https://github.com/mansiruhil/fail-u-forward/issues/197) |
@@ -561,11 +562,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Smooth scroll not working for Features and How It Works sections | Easy | [#207](https://github.com/SurajSG23/PrepBuddy/issues/207) |
-| main title not responsive on home page | Easy | [#206](https://github.com/SurajSG23/PrepBuddy/issues/206) |
-| Add Workflow for autocomment on PR | Medium | [#205](https://github.com/SurajSG23/PrepBuddy/issues/205) |
-| Added Workflow for autocomment on issues | Medium | [#204](https://github.com/SurajSG23/PrepBuddy/pull/204) |
-| Create pull request template for contributions | Medium | [#203](https://github.com/SurajSG23/PrepBuddy/pull/203) |
+| Fixes homepage main title, text and cursor responsiveness | Medium | [#209](https://github.com/SurajSG23/PrepBuddy/pull/209) |
+| Fix: added smooth scrolling for navbar links | Medium | [#208](https://github.com/SurajSG23/PrepBuddy/pull/208) |
 
 ---
 
@@ -618,7 +616,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Improve visibility of numbered bullet points in Problem section | Medium | [#82](https://github.com/LarytheLord/Adventurers-Guild/pull/82) |
+| Fix: Improved carousel cards background | Medium | [#83](https://github.com/LarytheLord/Adventurers-Guild/pull/83) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -1038,8 +1036,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump framer-motion from 11.18.2 to 12.23.16 | Medium | [#115](https://github.com/Ojas-Arora/SapneSeSafar/pull/115) |
+| Bump eslint from 9.12.0 to 9.36.0 | Medium | [#114](https://github.com/Ojas-Arora/SapneSeSafar/pull/114) |
 | Bump vite from 5.4.17 to 7.1.6 | Medium | [#113](https://github.com/Ojas-Arora/SapneSeSafar/pull/113) |
-| Bump framer-motion from 11.18.2 to 12.23.15 | Medium | [#112](https://github.com/Ojas-Arora/SapneSeSafar/pull/112) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.3 | Medium | [#111](https://github.com/Ojas-Arora/SapneSeSafar/pull/111) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump react-router-dom from 6.28.2 to 7.9.1 | Medium | [#107](https://github.com/Ojas-Arora/SapneSeSafar/pull/107) |
@@ -1047,7 +1046,6 @@ Fast Workflow Tools
 | Bump lucide-react from 0.344.0 to 0.544.0 | Medium | [#103](https://github.com/Ojas-Arora/SapneSeSafar/pull/103) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.57.4 | Medium | [#99](https://github.com/Ojas-Arora/SapneSeSafar/pull/99) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
-| Bump eslint from 9.12.0 to 9.35.0 | Medium | [#95](https://github.com/Ojas-Arora/SapneSeSafar/pull/95) |
 | Bump tailwindcss from 3.4.17 to 4.1.13 | Medium | [#94](https://github.com/Ojas-Arora/SapneSeSafar/pull/94) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
@@ -1237,6 +1235,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add a ball bouncing loader | Medium | [#90](https://github.com/subhadeeproy3902/mvpblocks/pull/90) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
