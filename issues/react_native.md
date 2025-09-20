@@ -76,7 +76,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Improve visibility of numbered bullet points in Problem section | Medium | [#82](https://github.com/LarytheLord/Adventurers-Guild/pull/82) |
+| Fix: Improved carousel cards background | Medium | [#83](https://github.com/LarytheLord/Adventurers-Guild/pull/83) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
