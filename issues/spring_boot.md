@@ -48,9 +48,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Back button not working on Shop Details screen | Easy | [#433](https://github.com/yuvrajsinghgmx/ShopSmart/issues/433) |
+| Implemented toggle favorite API for products and shops | Medium | [#438](https://github.com/yuvrajsinghgmx/ShopSmart/pull/438) |
+| Add Shop screen opens after onboarding even when role = Customer | Medium | [#437](https://github.com/yuvrajsinghgmx/ShopSmart/issues/437) |
 | Product category filter list is not functional | Medium | [#435](https://github.com/yuvrajsinghgmx/ShopSmart/issues/435) |
 | Search bar on top of home screen is not functional | Medium | [#434](https://github.com/yuvrajsinghgmx/ShopSmart/issues/434) |
-| Implemented the customer profile screen and refresh token logic | Medium | [#432](https://github.com/yuvrajsinghgmx/ShopSmart/pull/432) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
 | Handle upload of multiple images in Add Shop Screen | Medium | [#415](https://github.com/yuvrajsinghgmx/ShopSmart/issues/415) |
 | Logout API integration | Medium | [#408](https://github.com/yuvrajsinghgmx/ShopSmart/issues/408) |
