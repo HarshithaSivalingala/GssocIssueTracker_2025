@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Narrow down PLC0415 global ignore to per-file-ignores in pyproject.toml | Easy | [#2297](https://github.com/OWASP/Nest/issues/2297) |
+| refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
