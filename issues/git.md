@@ -219,7 +219,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Website not working | Medium | [#78](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/78) |
 | Deployment issue | Medium | [#74](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/74) |
 | Add Charging Cost Prediction REST API | Medium | [#49](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/49) |
 | Missing Code of Conduct File in Repository | Medium | [#39](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/39) |
@@ -242,6 +241,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Build ML Diagnosis Engine / Model for Health Prediction | Medium | [#179](https://github.com/aayushraj1010/med-genie/issues/179) |
 | Add Forgot Password Functionality | Medium | [#178](https://github.com/aayushraj1010/med-genie/issues/178) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
@@ -269,6 +269,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
@@ -555,6 +556,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix Alignment & Text Contrast in "Why DevConnect?" Section (Dark Mode) | Medium | [#65](https://github.com/mr-rishikesh/DevConnect/issues/65) |
+| Fix Text Contrast and Alignment in About Page | Medium | [#64](https://github.com/mr-rishikesh/DevConnect/issues/64) |
 | Login & Signup section ui enhancement | Medium | [#58](https://github.com/mr-rishikesh/DevConnect/issues/58) |
 | Password Reset Vulnerability | Medium | [#57](https://github.com/mr-rishikesh/DevConnect/issues/57) |
 | Weak Password Policy | Medium | [#56](https://github.com/mr-rishikesh/DevConnect/issues/56) |
