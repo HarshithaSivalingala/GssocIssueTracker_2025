@@ -161,7 +161,6 @@
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
-| Research and Implement IaC PoC for OWASP Nest Infrastructure | Medium | [#2215](https://github.com/OWASP/Nest/issues/2215) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 | Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
 | Migrate jest to v30 | Medium | [#2212](https://github.com/OWASP/Nest/issues/2212) |
@@ -185,14 +184,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Add Idea Hub section with community-driven feature ideas | Medium | [#296](https://github.com/Ayushjhawar8/Flavor-ai/pull/296) |
 | Add Toggle for Normal Cursor Option in navebar | Medium | [#294](https://github.com/Ayushjhawar8/Flavor-ai/pull/294) |
-| Veg and Non Veg diet plan display bug fixed | Medium | [#293](https://github.com/Ayushjhawar8/Flavor-ai/pull/293) |
-| Recipe Rating & Review System | Medium | [#292](https://github.com/Ayushjhawar8/Flavor-ai/issues/292) |
-| added scroll up button  functionality to AI ingredient explorer page … | Medium | [#291](https://github.com/Ayushjhawar8/Flavor-ai/pull/291) |
-| Feat: create festive dishes page | Medium | [#290](https://github.com/Ayushjhawar8/Flavor-ai/pull/290) |
-| Fix footer issue and update festivals page | Medium | [#289](https://github.com/Ayushjhawar8/Flavor-ai/pull/289) |
-| Update layout.jsx | Medium | [#286](https://github.com/Ayushjhawar8/Flavor-ai/pull/286) |
-| Idea Hub Feature Added | Hard | [#282](https://github.com/Ayushjhawar8/Flavor-ai/pull/282) |
 
 ---
 
@@ -254,7 +247,6 @@
 |----------|----------------|---------|
 | Flight Alerts  Temporary Local Storage Support for store that in local browser | Easy | [#26](https://github.com/Dnyaneshpise/skywatch_alerts/issues/26) |
 | Add Footer component and integrate into layout (Issue #2) | Medium | [#58](https://github.com/Dnyaneshpise/skywatch_alerts/pull/58) |
-| Submitting a message through About us page results in error | Medium | [#57](https://github.com/Dnyaneshpise/skywatch_alerts/issues/57) |
 | Footer is not present | Medium | [#56](https://github.com/Dnyaneshpise/skywatch_alerts/issues/56) |
 | Pull Request: Add Responsive Footer Component | Medium | [#55](https://github.com/Dnyaneshpise/skywatch_alerts/pull/55) |
 | Alert History Module | Medium | [#49](https://github.com/Dnyaneshpise/skywatch_alerts/pull/49) |
@@ -333,11 +325,11 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 |----------|----------------|---------|
 | Enhance Favicon Implementation for Better Cross-Platform Support and Brand Recognition | Medium | [#238](https://github.com/mansiruhil/fail-u-forward/issues/238) |
 | Add sitemap.xml and robot.txt | Medium | [#237](https://github.com/mansiruhil/fail-u-forward/issues/237) |
-| SEO & Meta Tag Optimization | Medium | [#236](https://github.com/mansiruhil/fail-u-forward/pull/236) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Fixing entire css components of welcome page and main page | Medium | [#197](https://github.com/mansiruhil/fail-u-forward/issues/197) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
+| Improve Authentication Page UI and Error Handling | Medium | [#178](https://github.com/mansiruhil/fail-u-forward/issues/178) |
 | Add feature to connect any user from username or add friend section directly. | Medium | [#168](https://github.com/mansiruhil/fail-u-forward/issues/168) |
 
 ---
@@ -405,7 +397,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/DocMagic/pull/329) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/DocMagic/pull/324) |
 | fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/DocMagic/pull/323) |
-| Fix testimonial carousel and adjust layout/arrow positions | Medium | [#321](https://github.com/Muneerali199/DocMagic/pull/321) |
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
@@ -428,7 +419,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Comprehensive Error Handling in ForgotPasswordPage | Medium | [#111](https://github.com/Er-luffy-D/SimplifAI/pull/111) |
-| Mobile Menu Does Not Close on Outside Click or Link Click | Medium | [#110](https://github.com/Er-luffy-D/SimplifAI/pull/110) |
 | Add dark mode toggle, update card styles, and tailwind config | Medium | [#103](https://github.com/Er-luffy-D/SimplifAI/pull/103) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
@@ -543,11 +533,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📢 Help Needed: Documentation | Medium | [#198](https://github.com/recodehive/recode-website/issues/198) |
-| Our Team Page | Medium | [#118](https://github.com/recodehive/recode-website/issues/118) |
-| Portfolio Page | Medium | [#48](https://github.com/recodehive/recode-website/issues/48) |
-| Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
-| Sign in With GitHUB is not working | Hard | [#153](https://github.com/recodehive/recode-website/issues/153) |
+| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
+| Review Blog: | Medium | [#567](https://github.com/recodehive/recode-website/issues/567) |
+| GitHub contributor profile badge | Medium | [#566](https://github.com/recodehive/recode-website/issues/566) |
+| Add link to community page | Medium | [#565](https://github.com/recodehive/recode-website/issues/565) |
+| Add the link to in community page | Medium | [#564](https://github.com/recodehive/recode-website/issues/564) |
+| Add roadmaps links | Medium | [#561](https://github.com/recodehive/recode-website/issues/561) |
+| Next button not visible in broadcast page | Medium | [#546](https://github.com/recodehive/recode-website/issues/546) |
 
 ---
 
@@ -565,7 +557,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
+| Misaligned icons overlapping the text on the Footer | Medium | [#344](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/344) |
+| Wording and structure in 'Why DSAMate?' docs | Medium | [#341](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/341) |
+| updated toggle eye icon | Medium | [#340](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/340) |
 | feat: add text styling tools (bold, italics, bullets, headings) in No… | Medium | [#336](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/336) |
 | Improvement: Updated bot size and positioning, move 'Report Problem' link… | Medium | [#332](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/332) |
 | Made the Editor Chnages | Medium | [#322](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/322) |
@@ -672,7 +666,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: addPayment | Easy | [#88](https://github.com/sristy17/next-payroll/issues/88) |
 |  | Easy | [#74](https://github.com/sristy17/next-payroll/issues/74) |
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
@@ -772,6 +765,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 404 Page Not Visible in Light Theme | Easy | [#85](https://github.com/yashvikram30/legalease/issues/85) |
+| about us page | Medium | [#119](https://github.com/yashvikram30/legalease/issues/119) |
 | Added complete dashboard backend and frontend for dynamic data | Medium | [#117](https://github.com/yashvikram30/legalease/pull/117) |
 | Broken Social Media Icon Link in Footer | Medium | [#116](https://github.com/yashvikram30/legalease/issues/116) |
 | Changed the Twitter Old Logo to X logo | Medium | [#115](https://github.com/yashvikram30/legalease/pull/115) |
@@ -827,6 +821,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add Contact Us feature and "Sign in Google option" | Medium | [#266](https://github.com/AditiGupta-tech/neonest/issues/266) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -1066,6 +1061,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| total UI enhancement for giving professional ecommerce website look | Medium | [#27](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/27) |
 | Feature: Add "Contact Us" page and link in footer | Medium | [#26](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/26) |
 | Refactor: Remove hardcoded product data in src/app/uiux/page.tsx | Medium | [#25](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/25) |
 | Dynamically Update Copyright Year in Footer | Medium | [#24](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/24) |
@@ -1171,7 +1167,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: New Pages | Medium | [#103](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/103) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
@@ -1411,10 +1406,14 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| “DOB styling inconsistent with text input fields in the registration form”. | Medium | [#190](https://github.com/vatsal-bhakodia/smriti-ai/issues/190) |
+| The Blog Route in the footer does not link to the Blogs page | Medium | [#189](https://github.com/vatsal-bhakodia/smriti-ai/issues/189) |
+| Go-To-Top Arrow is overlapping with text on the footer | Medium | [#188](https://github.com/vatsal-bhakodia/smriti-ai/issues/188) |
+| login page issue | Medium | [#187](https://github.com/vatsal-bhakodia/smriti-ai/pull/187) |
+| Implement AI Backend for File Processing and Learning Features | Medium | [#186](https://github.com/vatsal-bhakodia/smriti-ai/issues/186) |
 | add feature | Medium | [#185](https://github.com/vatsal-bhakodia/smriti-ai/pull/185) |
 | Add Standardized Issue and Pull Request Templates | Medium | [#184](https://github.com/vatsal-bhakodia/smriti-ai/issues/184) |
 | Update README.md | Medium | [#183](https://github.com/vatsal-bhakodia/smriti-ai/pull/183) |
-| Fixed Routes of footer links | Medium | [#180](https://github.com/vatsal-bhakodia/smriti-ai/pull/180) |
 | Make footer mobile responsive | Medium | [#177](https://github.com/vatsal-bhakodia/smriti-ai/pull/177) |
 | fix(backfill): add batching, dry-run, and transactional updates for QuizResult backfill | Medium | [#173](https://github.com/vatsal-bhakodia/smriti-ai/pull/173) |
 
