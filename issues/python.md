@@ -34,6 +34,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Replaced alert with toast notifications in StockList | Medium | [#213](https://github.com/SrigadaAkshayKumar/stock/pull/213) |
 | Add Forgot Password component | Medium | [#212](https://github.com/SrigadaAkshayKumar/stock/pull/212) |
 | Duplicate stock entries when adding the same stock multiple times | Medium | [#211](https://github.com/SrigadaAkshayKumar/stock/issues/211) |
 | docs: Improve Readability of Contribution Guide | Medium | [#210](https://github.com/SrigadaAkshayKumar/stock/pull/210) |
@@ -84,7 +85,6 @@
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
-| 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 
 ---
 
@@ -198,7 +198,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | ⚙️:Add Unit & Integration Test Suite | Medium | [#63](https://github.com/Menthub-GSSoC/Menthub/issues/63) |
-| [Feature] Implement User Profile Picture Upload | Medium | [#62](https://github.com/Menthub-GSSoC/Menthub/issues/62) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
@@ -233,7 +232,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
-| Research and Implement IaC PoC for OWASP Nest Infrastructure | Medium | [#2215](https://github.com/OWASP/Nest/issues/2215) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 | Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
 | Migrate jest to v30 | Medium | [#2212](https://github.com/OWASP/Nest/issues/2212) |
@@ -265,6 +263,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| oauth via google not working | Medium | [#158](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/158) |
 | Removal of redundant Procfile | Medium | [#157](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/157) |
 | Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
@@ -555,12 +554,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Github icons | Medium | [#549](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/549) |
-| Integrated backend to update and delete Job | Medium | [#548](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/548) |
-| Optimize Edit Job Page (Update/Delete Integration, Toast Feedback, Reduced API Calls) | Medium | [#547](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/547) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
-| icons not visible | Hard | [#543](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/543) |
 
 ---
 
@@ -578,17 +572,16 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance Footer Layout and Mission Statement Display | Medium | [#322](https://github.com/omroy07/AgriTech/issues/322) |
-| Add FAQ Section to header(open dedicated page) | Medium | [#321](https://github.com/omroy07/AgriTech/issues/321) |
+| Fix Back to Home Button Redirect in chat.html | Medium | [#325](https://github.com/omroy07/AgriTech/pull/325) |
+| feat: Redesign Smart Crop Recommender with modern UI and enhanced UX | Medium | [#324](https://github.com/omroy07/AgriTech/pull/324) |
+| Reorganize Project Directory | Medium | [#323](https://github.com/omroy07/AgriTech/pull/323) |
 | Enhance Dark-Themed UI, Fonts, and Transitions | Medium | [#320](https://github.com/omroy07/AgriTech/issues/320) |
-| Back to Home button in chat.html not redirecting to main page | Medium | [#319](https://github.com/omroy07/AgriTech/issues/319) |
 | added Email util | Medium | [#318](https://github.com/omroy07/AgriTech/pull/318) |
 | Add Deep Learning CNN Model for Tomato Leaf Disease Prediction (#316) | Medium | [#317](https://github.com/omroy07/AgriTech/pull/317) |
 | Add Deep Learning CNN Model for Tomato Leaf Disease Prediction | Medium | [#316](https://github.com/omroy07/AgriTech/issues/316) |
 | Navbar Inconsistency Across Pages | Medium | [#314](https://github.com/omroy07/AgriTech/issues/314) |
 | Pull Request : UI Enhancement: Modernize Weather PagUI Enhancement: M… | Medium | [#309](https://github.com/omroy07/AgriTech/pull/309) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
-| Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
 
 ---
 
@@ -640,13 +633,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Baseline Boarding Strategies (Random, Back-to-Front, WilMA, etc.) with Benchmarking | Medium | [#50](https://github.com/18Prachi/airplane-boarding-simulation/issues/50) |
 | new features | Medium | [#49](https://github.com/18Prachi/airplane-boarding-simulation/issues/49) |
 | Implementing a Data-Driven Analysis and Reporting Module | Medium | [#48](https://github.com/18Prachi/airplane-boarding-simulation/issues/48) |
 | to make website for the same | Medium | [#46](https://github.com/18Prachi/airplane-boarding-simulation/issues/46) |
 | resolve the cascading movement bug | Medium | [#45](https://github.com/18Prachi/airplane-boarding-simulation/pull/45) |
 | adding baseline boarding strategies for comparison | Medium | [#44](https://github.com/18Prachi/airplane-boarding-simulation/issues/44) |
-| Add CODE_OF_CONDUCT.md | Medium | [#42](https://github.com/18Prachi/airplane-boarding-simulation/pull/42) |
 | Enhance Robustness, Add Logging & Validation | Medium | [#39](https://github.com/18Prachi/airplane-boarding-simulation/pull/39) |
 | Bugs issue | Medium | [#38](https://github.com/18Prachi/airplane-boarding-simulation/issues/38) |
 | Update airplane_boarding.py | Medium | [#35](https://github.com/18Prachi/airplane-boarding-simulation/pull/35) |
@@ -879,16 +870,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feat: Implement Native Blog System in pages/Blog.py | Medium | [#238](https://github.com/eccentriccoder01/TalkHeal/issues/238) |
-| Enhance Help Center Page with Detailed Content and Interactive UI | Medium | [#237](https://github.com/eccentriccoder01/TalkHeal/issues/237) |
-| Content of pages/FAQs.py is not in FAQ format | Medium | [#236](https://github.com/eccentriccoder01/TalkHeal/issues/236) |
-| Bug: UnboundLocalError on Guest Login | Medium | [#235](https://github.com/eccentriccoder01/TalkHeal/issues/235) |
-| Improve button font size, visibility, and alignment for better UI/UX | Medium | [#233](https://github.com/eccentriccoder01/TalkHeal/issues/233) |
 | Implement Passive Symptom Tracking with Wearables | Medium | [#178](https://github.com/eccentriccoder01/TalkHeal/issues/178) |
-| Integrate Emotional Recognition via Camera | Medium | [#177](https://github.com/eccentriccoder01/TalkHeal/issues/177) |
-| Create a Virtual Therapy Simulation | Medium | [#173](https://github.com/eccentriccoder01/TalkHeal/issues/173) |
 | Implement AI-Guided CBT/DBT Modules | Medium | [#172](https://github.com/eccentriccoder01/TalkHeal/issues/172) |
 | Add Dark Mode & High-Contrast Theme for Accessibility | Medium | [#147](https://github.com/eccentriccoder01/TalkHeal/issues/147) |
+| Session Persistence – Clarification | Medium | [#129](https://github.com/eccentriccoder01/TalkHeal/issues/129) |
+| Add Multi Language Support | Medium | [#120](https://github.com/eccentriccoder01/TalkHeal/issues/120) |
+| Enhance Emotion Detection with Specialized Transformer Model | Medium | [#89](https://github.com/eccentriccoder01/TalkHeal/pull/89) |
 
 ---
 
@@ -938,7 +925,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added team roles | Medium | [#71](https://github.com/sania28/clubmate/pull/71) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -1061,6 +1047,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Organize Project Structure and Add Missing Developer Page | Medium | [#49](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/49) |
+| updated folder structure,added missing developers.html | Medium | [#48](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/pull/48) |
 | MediGuide README | Medium | [#29](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/pull/29) |
 | Connect Speech Recognition to Symptom Input | Medium | [#24](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/24) |
 | Improve Disease Prediction Output | Medium | [#20](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/pull/20) |
@@ -1151,6 +1139,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Airbnb Data Analysis Project under datascience folder | Medium | [#1799](https://github.com/UTSAVS26/PyVerse/issues/1799) |
 | Added UPI Fraud Detection | Medium | [#1628](https://github.com/UTSAVS26/PyVerse/pull/1628) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 | ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
@@ -1489,24 +1478,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
-## 📌 Project: ZBOT
-
-📝 **Description:** Its a personal AI agent like harvis used to automate stuffs
-
-🔗 [View Project](https://github.com/DishaA06/ZBOT)
-
-💻 **Tech Stack:** Python
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Regarding the LeaderBoard for GSSoC'25 | Medium | [#19](https://github.com/DishaA06/ZBOT/issues/19) |
-
----
-
 ## 📌 Project: Metal Sheet Defect Detector
 
 📝 **Description:** Detect Defects in metal sheets used to make the body of vehicles
@@ -1694,6 +1665,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| This PR adds persistent storage to the To-Do list CLI app. Tasks are now saved to tasks.json and automatically loaded when the program starts. | Medium | [#40](https://github.com/Sindhuchowdhary23/CODSOFT/pull/40) |
 | New Features | Medium | [#39](https://github.com/Sindhuchowdhary23/CODSOFT/issues/39) |
 | Adding Optional Due Date Field to Tasks | Medium | [#38](https://github.com/Sindhuchowdhary23/CODSOFT/issues/38) |
 | Added Django Todo project | Medium | [#37](https://github.com/Sindhuchowdhary23/CODSOFT/pull/37) |
@@ -1805,7 +1777,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add ChatInput validation | Medium | [#70](https://github.com/CharithaReddy18/AI-health-chatbot/pull/70) |
+| Feature/added validation | Medium | [#71](https://github.com/CharithaReddy18/AI-health-chatbot/pull/71) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
@@ -1934,7 +1906,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: New Pages | Medium | [#103](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/103) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
