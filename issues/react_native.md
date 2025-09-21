@@ -123,7 +123,6 @@
 | made UI changes in the settings page | Medium | [#148](https://github.com/Loop-Hive/ScheduleX/pull/148) |
 | Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/Loop-Hive/ScheduleX/pull/147) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
-| Adding a Indexed DB for Tasks Chat Data Storage | Medium | [#110](https://github.com/Loop-Hive/ScheduleX/issues/110) |
 | Tab Memorization | Medium | [#108](https://github.com/Loop-Hive/ScheduleX/issues/108) |
 | Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/Loop-Hive/ScheduleX/issues/107) |
 | Duplicate Card Add on Add or Edit Card | Medium | [#106](https://github.com/Loop-Hive/ScheduleX/issues/106) |
