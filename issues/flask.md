@@ -24,7 +24,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | ⚙️:Add Unit & Integration Test Suite | Medium | [#63](https://github.com/Menthub-GSSoC/Menthub/issues/63) |
-| [Feature] Implement User Profile Picture Upload | Medium | [#62](https://github.com/Menthub-GSSoC/Menthub/issues/62) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
@@ -60,6 +59,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| oauth via google not working | Medium | [#158](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/158) |
 | Removal of redundant Procfile | Medium | [#157](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/157) |
 | Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
@@ -175,12 +175,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Github icons | Medium | [#549](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/549) |
-| Integrated backend to update and delete Job | Medium | [#548](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/548) |
-| Optimize Edit Job Page (Update/Delete Integration, Toast Feedback, Reduced API Calls) | Medium | [#547](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/547) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
-| icons not visible | Hard | [#543](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/543) |
 
 ---
 
@@ -198,17 +193,16 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance Footer Layout and Mission Statement Display | Medium | [#322](https://github.com/omroy07/AgriTech/issues/322) |
-| Add FAQ Section to header(open dedicated page) | Medium | [#321](https://github.com/omroy07/AgriTech/issues/321) |
+| Fix Back to Home Button Redirect in chat.html | Medium | [#325](https://github.com/omroy07/AgriTech/pull/325) |
+| feat: Redesign Smart Crop Recommender with modern UI and enhanced UX | Medium | [#324](https://github.com/omroy07/AgriTech/pull/324) |
+| Reorganize Project Directory | Medium | [#323](https://github.com/omroy07/AgriTech/pull/323) |
 | Enhance Dark-Themed UI, Fonts, and Transitions | Medium | [#320](https://github.com/omroy07/AgriTech/issues/320) |
-| Back to Home button in chat.html not redirecting to main page | Medium | [#319](https://github.com/omroy07/AgriTech/issues/319) |
 | added Email util | Medium | [#318](https://github.com/omroy07/AgriTech/pull/318) |
 | Add Deep Learning CNN Model for Tomato Leaf Disease Prediction (#316) | Medium | [#317](https://github.com/omroy07/AgriTech/pull/317) |
 | Add Deep Learning CNN Model for Tomato Leaf Disease Prediction | Medium | [#316](https://github.com/omroy07/AgriTech/issues/316) |
 | Navbar Inconsistency Across Pages | Medium | [#314](https://github.com/omroy07/AgriTech/issues/314) |
 | Pull Request : UI Enhancement: Modernize Weather PagUI Enhancement: M… | Medium | [#309](https://github.com/omroy07/AgriTech/pull/309) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
-| Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
 
 ---
 
@@ -418,7 +412,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: New Pages | Medium | [#103](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/103) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
