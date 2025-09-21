@@ -51,7 +51,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | ⚙️:Add Unit & Integration Test Suite | Medium | [#63](https://github.com/Menthub-GSSoC/Menthub/issues/63) |
-| [Feature] Implement User Profile Picture Upload | Medium | [#62](https://github.com/Menthub-GSSoC/Menthub/issues/62) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
@@ -82,6 +81,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Twitter icon to latest X logo #868 | Medium | [#869](https://github.com/HarshS16/Civix/pull/869) |
 | Update Twitter Icon to Latest X Logo | Medium | [#868](https://github.com/HarshS16/Civix/issues/868) |
 | Registration: Missing "Confirm Password" Field | Medium | [#867](https://github.com/HarshS16/Civix/issues/867) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
@@ -117,7 +117,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/DocMagic/pull/329) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/DocMagic/pull/324) |
 | fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/DocMagic/pull/323) |
-| Fix testimonial carousel and adjust layout/arrow positions | Medium | [#321](https://github.com/Muneerali199/DocMagic/pull/321) |
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
 | Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
@@ -140,7 +139,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Comprehensive Error Handling in ForgotPasswordPage | Medium | [#111](https://github.com/Er-luffy-D/SimplifAI/pull/111) |
-| Mobile Menu Does Not Close on Outside Click or Link Click | Medium | [#110](https://github.com/Er-luffy-D/SimplifAI/pull/110) |
 | Add dark mode toggle, update card styles, and tailwind config | Medium | [#103](https://github.com/Er-luffy-D/SimplifAI/pull/103) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
@@ -368,10 +366,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| “DOB styling inconsistent with text input fields in the registration form”. | Medium | [#190](https://github.com/vatsal-bhakodia/smriti-ai/issues/190) |
+| The Blog Route in the footer does not link to the Blogs page | Medium | [#189](https://github.com/vatsal-bhakodia/smriti-ai/issues/189) |
+| Go-To-Top Arrow is overlapping with text on the footer | Medium | [#188](https://github.com/vatsal-bhakodia/smriti-ai/issues/188) |
+| login page issue | Medium | [#187](https://github.com/vatsal-bhakodia/smriti-ai/pull/187) |
+| Implement AI Backend for File Processing and Learning Features | Medium | [#186](https://github.com/vatsal-bhakodia/smriti-ai/issues/186) |
 | add feature | Medium | [#185](https://github.com/vatsal-bhakodia/smriti-ai/pull/185) |
 | Add Standardized Issue and Pull Request Templates | Medium | [#184](https://github.com/vatsal-bhakodia/smriti-ai/issues/184) |
 | Update README.md | Medium | [#183](https://github.com/vatsal-bhakodia/smriti-ai/pull/183) |
-| Fixed Routes of footer links | Medium | [#180](https://github.com/vatsal-bhakodia/smriti-ai/pull/180) |
 | Make footer mobile responsive | Medium | [#177](https://github.com/vatsal-bhakodia/smriti-ai/pull/177) |
 | fix(backfill): add batching, dry-run, and transactional updates for QuizResult backfill | Medium | [#173](https://github.com/vatsal-bhakodia/smriti-ai/pull/173) |
 
