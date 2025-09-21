@@ -24,7 +24,6 @@
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 | Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
-| 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 
 ---
 
@@ -100,12 +99,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Github icons | Medium | [#549](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/549) |
-| Integrated backend to update and delete Job | Medium | [#548](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/548) |
-| Optimize Edit Job Page (Update/Delete Integration, Toast Feedback, Reduced API Calls) | Medium | [#547](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/547) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
-| icons not visible | Hard | [#543](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/543) |
 
 ---
 
