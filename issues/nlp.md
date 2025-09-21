@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add ChatInput validation | Medium | [#70](https://github.com/CharithaReddy18/AI-health-chatbot/pull/70) |
+| Feature/added validation | Medium | [#71](https://github.com/CharithaReddy18/AI-health-chatbot/pull/71) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
