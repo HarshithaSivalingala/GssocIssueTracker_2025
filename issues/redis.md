@@ -16,6 +16,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Simplify Folder Structure | Medium | [#74](https://github.com/harshendram/Advanced-Discord-Bot/pull/74) |
+| Simplifying Folder Structure | Medium | [#73](https://github.com/harshendram/Advanced-Discord-Bot/issues/73) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
 | Navbar Theme Inconsistency | Medium | [#71](https://github.com/harshendram/Advanced-Discord-Bot/issues/71) |
 | Inconsistent Theme and White Strips in VAISH Discord Bot Section | Medium | [#70](https://github.com/harshendram/Advanced-Discord-Bot/issues/70) |
