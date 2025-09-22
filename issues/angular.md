@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Not able to login as an Admin or Superadmin | Easy | [#120](https://github.com/abhisek247767/PeopleHub-Frontend/issues/120) |
+| Add an "About Us" page to the website | Medium | [#140](https://github.com/abhisek247767/PeopleHub-Frontend/issues/140) |
 
 ---
 
