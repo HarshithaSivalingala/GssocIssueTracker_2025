@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
@@ -41,8 +42,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add Idea Hub section with community-driven feature ideas | Medium | [#296](https://github.com/Ayushjhawar8/Flavor-ai/pull/296) |
-| Add Toggle for Normal Cursor Option in navebar | Medium | [#294](https://github.com/Ayushjhawar8/Flavor-ai/pull/294) |
+| Resolve .dockerignore conflict and update README | Medium | [#300](https://github.com/Ayushjhawar8/Flavor-ai/pull/300) |
+| Master | Medium | [#297](https://github.com/Ayushjhawar8/Flavor-ai/pull/297) |
 
 ---
 
@@ -96,6 +97,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Fix the issue with filters in user job page | Medium | [#562](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/562) |
+| Resume Analysis Section ReferenceError | Medium | [#561](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/561) |
+| feat: adding background elements in landing page and fixing sidebar responsiveness | Medium | [#560](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/560) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
