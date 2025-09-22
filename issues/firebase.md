@@ -42,18 +42,16 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Login Signup UI improvement | Medium | [#1239](https://github.com/Code-A2Z/code-a2z/issues/1239) |
-| Remove duplicate "Sign Up" option from navbar | Medium | [#1238](https://github.com/Code-A2Z/code-a2z/issues/1238) |
-| feat(backend): express-validator for update-profile + package.json fix | Medium | [#1237](https://github.com/Code-A2Z/code-a2z/pull/1237) |
 | Feature Request: Add helmet and hpp Middleware | Medium | [#1236](https://github.com/Code-A2Z/code-a2z/issues/1236) |
 | feat(auth): Add departement validation to signup route | Medium | [#1235](https://github.com/Code-A2Z/code-a2z/pull/1235) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| Add Back Navigation to New Project Page | Medium | [#1173](https://github.com/Code-A2Z/code-a2z/issues/1173) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
 | 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
+| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
 
 ---
 
@@ -99,6 +97,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| About Page UI enhancement | Medium | [#242](https://github.com/mansiruhil/fail-u-forward/issues/242) |
+| Add GSSoC Banner to README | Medium | [#241](https://github.com/mansiruhil/fail-u-forward/pull/241) |
 | Enhance Favicon Implementation for Better Cross-Platform Support and Brand Recognition | Medium | [#238](https://github.com/mansiruhil/fail-u-forward/issues/238) |
 | Add sitemap.xml and robot.txt | Medium | [#237](https://github.com/mansiruhil/fail-u-forward/issues/237) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
@@ -124,15 +124,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| PROFILE PAGE | Easy | [#130](https://github.com/Parnab03/WallGodds/issues/130) |
 | UPLOAD PAGE FOR MOBILE WALLPAPERS | Easy | [#128](https://github.com/Parnab03/WallGodds/issues/128) |
 | UPLOAD PAGE FOR TABLET WALLPAPERS | Easy | [#127](https://github.com/Parnab03/WallGodds/issues/127) |
+| ABOUT US IN MOBILE VERSION | Easy | [#88](https://github.com/Parnab03/WallGodds/issues/88) |
 | 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/Parnab03/WallGodds/issues/87) |
+| HOME PAGE IN MOBILE VERSION | Easy | [#82](https://github.com/Parnab03/WallGodds/issues/82) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#8](https://github.com/Parnab03/WallGodds/issues/8) |
 | Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/Parnab03/WallGodds/issues/123) |
 | DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/Parnab03/WallGodds/issues/111) |
-| ABOUT US IN MOBILE VERSION | Medium | [#88](https://github.com/Parnab03/WallGodds/issues/88) |
-| HOME PAGE IN MOBILE VERSION | Medium | [#82](https://github.com/Parnab03/WallGodds/issues/82) |
-| PROFILE PAGE | Hard | [#130](https://github.com/Parnab03/WallGodds/issues/130) |
 
 ---
 
@@ -150,7 +150,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed the back button issue | Medium | [#498](https://github.com/Prateek9876/NagarVikas/pull/498) |
+| Level 3 Issue: Optimize firebase.json for Deployment | Medium | [#506](https://github.com/Prateek9876/NagarVikas/issues/506) |
+| chore: optimize firebase.json with safe level 3 config | Medium | [#505](https://github.com/Prateek9876/NagarVikas/pull/505) |
+| Commit | Medium | [#504](https://github.com/Prateek9876/NagarVikas/pull/504) |
+| updates | Medium | [#503](https://github.com/Prateek9876/NagarVikas/pull/503) |
+| The options of Nagar Vikas Assistant should be working, and the text in message box blends with its background so fix that too | Medium | [#502](https://github.com/Prateek9876/NagarVikas/issues/502) |
+| Fixed Discussion Forum Formatting | Medium | [#501](https://github.com/Prateek9876/NagarVikas/pull/501) |
+| Fixed #489 | Medium | [#500](https://github.com/Prateek9876/NagarVikas/pull/500) |
+| Added collapsable feature in search complaints of admin dashboard | Medium | [#499](https://github.com/Prateek9876/NagarVikas/pull/499) |
 | On Changing the Phone number from the Profile section, no OTP is needed right now but i OTP should be needed otherwise anyone can enter any number. | Medium | [#488](https://github.com/Prateek9876/NagarVikas/issues/488) |
 
 ---
@@ -239,8 +246,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BlyFt/issues/185) |
+| Banner for PlayStore App Listing | Medium | [#291](https://github.com/Yash159357/BlyFt/pull/291) |
+| Share News Feature | Medium | [#254](https://github.com/Yash159357/BlyFt/issues/254) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BlyFt/issues/164) |
+| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BlyFt/issues/170) |
 
 ---
 
@@ -294,6 +304,24 @@
 
 ---
 
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Newsletter with Toast Notifications & Fix Footer Alignment | Medium | [#213](https://github.com/SurajSG23/PrepBuddy/pull/213) |
+
+---
+
 ## 📌 Project: Athletix
 
 📝 **Description:** Athletix is a Flutter, Firebase and Gemini API based platform for athlete management in India, offering performance tracking, injury management, AI recovery, and real-time messaging. Future upgrades include dashboards, finance and AI career planning
@@ -336,8 +364,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BlyFt/issues/185) |
+| Banner for PlayStore App Listing | Medium | [#291](https://github.com/Yash159357/BlyFt/pull/291) |
+| Share News Feature | Medium | [#254](https://github.com/Yash159357/BlyFt/issues/254) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BlyFt/issues/164) |
+| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BlyFt/issues/170) |
 
 ---
 
@@ -551,8 +582,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Major Healthcare Platform Enhancements | Medium | [#225](https://github.com/shandilya-rajnandini/DocAtHome/pull/225) |
-| Added a real-time notification system | Medium | [#222](https://github.com/shandilya-rajnandini/DocAtHome/pull/222) |
+| feat: Add technician dashboard for lab test management | Medium | [#226](https://github.com/shandilya-rajnandini/DocAtHome/pull/226) |
 | Set up CI pipeline and fix failing auth tests | Medium | [#219](https://github.com/shandilya-rajnandini/DocAtHome/pull/219) |
 | Reintroduce Skeleton placeholders for loading states in Appointments, Search Doctor, and Doctor Appointment pages | Medium | [#207](https://github.com/shandilya-rajnandini/DocAtHome/pull/207) |
 | added lab-test-status | Medium | [#205](https://github.com/shandilya-rajnandini/DocAtHome/pull/205) |
@@ -560,6 +590,7 @@
 | Feature/recently viewed doctors | Medium | [#203](https://github.com/shandilya-rajnandini/DocAtHome/pull/203) |
 | Enhance Theme Colors & Improve UX for Better Visual Consistency | Medium | [#202](https://github.com/shandilya-rajnandini/DocAtHome/pull/202) |
 | feat: Add autocomplete search filters for Specialty and City | Medium | [#200](https://github.com/shandilya-rajnandini/DocAtHome/pull/200) |
+| Migrate from Context API to a Zustand Store | Medium | [#147](https://github.com/shandilya-rajnandini/DocAtHome/pull/147) |
 
 ---
 
