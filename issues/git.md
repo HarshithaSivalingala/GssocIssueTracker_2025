@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
@@ -268,7 +269,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add Contact Us feature and "Sign in Google option" | Medium | [#266](https://github.com/AditiGupta-tech/neonest/issues/266) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -572,6 +572,25 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
 | Implement JWT-Based Authentication Middleware | Medium | [#2](https://github.com/mr-rishikesh/DevConnect/issues/2) |
 | Implement Message Logic with WebSocket (Frontend + Backend Integration) | Hard | [#27](https://github.com/mr-rishikesh/DevConnect/issues/27) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Update readme file | Easy | [#250](https://github.com/SandeepVashishtha/Eventra/issues/250) |
+| Missing Role Selection Field in React Signup Form | Medium | [#248](https://github.com/SandeepVashishtha/Eventra/issues/248) |
 
 ---
 
