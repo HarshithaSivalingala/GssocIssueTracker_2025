@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
-| Glowing indicator misaligned in Category cards (UI Bug) | Medium | [#248](https://github.com/iaadillatif/techxninjas-client/issues/248) |
 | fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 | Enhancement of Card Carousel | Medium | [#246](https://github.com/iaadillatif/techxninjas-client/issues/246) |
 | Fix spelling / grammar typo on HomePage or Static Page | Medium | [#245](https://github.com/iaadillatif/techxninjas-client/issues/245) |
@@ -156,14 +155,12 @@
 |----------|----------------|---------|
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
-| fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 | Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
-| Migrate jest to v30 | Medium | [#2212](https://github.com/OWASP/Nest/issues/2212) |
 | Implement calendar events scheduling | Medium | [#2211](https://github.com/OWASP/Nest/pull/2211) |
 | Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
@@ -184,8 +181,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add Idea Hub section with community-driven feature ideas | Medium | [#296](https://github.com/Ayushjhawar8/Flavor-ai/pull/296) |
-| Add Toggle for Normal Cursor Option in navebar | Medium | [#294](https://github.com/Ayushjhawar8/Flavor-ai/pull/294) |
+| Resolve .dockerignore conflict and update README | Medium | [#300](https://github.com/Ayushjhawar8/Flavor-ai/pull/300) |
+| Master | Medium | [#297](https://github.com/Ayushjhawar8/Flavor-ai/pull/297) |
 
 ---
 
@@ -203,6 +200,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| "Enhance UI: Add Hover Effect to Testimonial Cards in 'What Our Users Say' Section" | Medium | [#116](https://github.com/AyushSharma72/Skill_Trade/issues/116) |
 | Add Code of Conduct | Medium | [#115](https://github.com/AyushSharma72/Skill_Trade/issues/115) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#114](https://github.com/AyushSharma72/Skill_Trade/issues/114) |
 | Feature Request: Dark/Light Theme Support | Medium | [#113](https://github.com/AyushSharma72/Skill_Trade/issues/113) |
@@ -246,8 +244,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Flight Alerts  Temporary Local Storage Support for store that in local browser | Easy | [#26](https://github.com/Dnyaneshpise/skywatch_alerts/issues/26) |
-| Add Footer component and integrate into layout (Issue #2) | Medium | [#58](https://github.com/Dnyaneshpise/skywatch_alerts/pull/58) |
-| Footer is not present | Medium | [#56](https://github.com/Dnyaneshpise/skywatch_alerts/issues/56) |
 | Pull Request: Add Responsive Footer Component | Medium | [#55](https://github.com/Dnyaneshpise/skywatch_alerts/pull/55) |
 | Alert History Module | Medium | [#49](https://github.com/Dnyaneshpise/skywatch_alerts/pull/49) |
 | Dashboard route leads to 404 | Medium | [#47](https://github.com/Dnyaneshpise/skywatch_alerts/issues/47) |
@@ -272,7 +268,6 @@ Maintain consistency with the design of other pages.
 
 Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/skywatch_alerts/issues/45) |
 | 🛫 Flight Alerts Now Survive Page Reloads! (Temporary Local Storage Support) | Medium | [#44](https://github.com/Dnyaneshpise/skywatch_alerts/issues/44) |
-| Add Smooth Loading Animation to About Page for Better UX | Medium | [#43](https://github.com/Dnyaneshpise/skywatch_alerts/issues/43) |
 | Add CONTRIBUTING.md file | Medium | [#41](https://github.com/Dnyaneshpise/skywatch_alerts/issues/41) |
 | Fixed logo | Medium | [#31](https://github.com/Dnyaneshpise/skywatch_alerts/pull/31) |
 | Enhance the About Page with Loading and rendering Animation | Medium | [#15](https://github.com/Dnyaneshpise/skywatch_alerts/issues/15) |
@@ -323,6 +318,8 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| About Page UI enhancement | Medium | [#242](https://github.com/mansiruhil/fail-u-forward/issues/242) |
+| Add GSSoC Banner to README | Medium | [#241](https://github.com/mansiruhil/fail-u-forward/pull/241) |
 | Enhance Favicon Implementation for Better Cross-Platform Support and Brand Recognition | Medium | [#238](https://github.com/mansiruhil/fail-u-forward/issues/238) |
 | Add sitemap.xml and robot.txt | Medium | [#237](https://github.com/mansiruhil/fail-u-forward/issues/237) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
@@ -534,12 +531,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
-| Review Blog: | Medium | [#567](https://github.com/recodehive/recode-website/issues/567) |
-| GitHub contributor profile badge | Medium | [#566](https://github.com/recodehive/recode-website/issues/566) |
-| Add link to community page | Medium | [#565](https://github.com/recodehive/recode-website/issues/565) |
-| Add the link to in community page | Medium | [#564](https://github.com/recodehive/recode-website/issues/564) |
 | Add roadmaps links | Medium | [#561](https://github.com/recodehive/recode-website/issues/561) |
-| Next button not visible in broadcast page | Medium | [#546](https://github.com/recodehive/recode-website/issues/546) |
+| 📢 Help Needed: Documentation | Medium | [#198](https://github.com/recodehive/recode-website/issues/198) |
+| Sign in With GitHUB is not working | Hard | [#153](https://github.com/recodehive/recode-website/issues/153) |
 
 ---
 
@@ -557,16 +551,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| DSAMate logo submission | Medium | [#353](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/353) |
+| Add enhancement to DSA sheet page #335 | Medium | [#352](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/352) |
+| fixed the alignment issue in the footer | Medium | [#350](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/350) |
 | Misaligned icons overlapping the text on the Footer | Medium | [#344](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/344) |
-| Wording and structure in 'Why DSAMate?' docs | Medium | [#341](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/341) |
-| updated toggle eye icon | Medium | [#340](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/340) |
-| feat: add text styling tools (bold, italics, bullets, headings) in No… | Medium | [#336](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/336) |
 | Improvement: Updated bot size and positioning, move 'Report Problem' link… | Medium | [#332](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/332) |
 | Made the Editor Chnages | Medium | [#322](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/322) |
 | Issue #315 completed please merge the pull request | Medium | [#320](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/320) |
 | Improved visibility of Terms of Service and Privacy Policy button | Medium | [#312](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/312) |
-| feat: Implement Company-wise Questions Page and UI improvements | Medium | [#291](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/291) |
-| Update SheetContent.tsx and apply dark theme fixes | Medium | [#269](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/269) |
 
 ---
 
@@ -821,7 +813,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add Contact Us feature and "Sign in Google option" | Medium | [#266](https://github.com/AditiGupta-tech/neonest/issues/266) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -843,6 +834,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| <Recall Rally> | Medium | [#118](https://github.com/ajaynegi45/Old-School-Game/issues/118) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
 
@@ -1061,13 +1053,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| total UI enhancement for giving professional ecommerce website look | Medium | [#27](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/27) |
-| Feature: Add "Contact Us" page and link in footer | Medium | [#26](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/26) |
-| Refactor: Remove hardcoded product data in src/app/uiux/page.tsx | Medium | [#25](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/25) |
-| Dynamically Update Copyright Year in Footer | Medium | [#24](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/24) |
-| Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Medium | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
-| Update Website Title and Description | Medium | [#22](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/22) |
-| Add Email Validation and Success Message to Join the club and get the benefits Section in the home page | Medium | [#21](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/21) |
+| Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Easy | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
+| feat(homepage): add email subscription form with validation | Medium | [#32](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/32) |
+| Add contact page and link in footer | Medium | [#31](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/31) |
+| feat(uiux): add product data and component for ecommerce ui | Medium | [#30](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/30) |
+| fix(footer): update copyright year to be dynamic | Medium | [#29](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/29) |
+| Updated website title and description for the seo | Medium | [#28](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/28) |
 
 ---
 
@@ -1104,7 +1095,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| line remove(contributors.md) | Medium | [#65](https://github.com/EasyGoDocs/easygodocs/pull/65) |
 | line remove(readme.md) | Medium | [#64](https://github.com/EasyGoDocs/easygodocs/pull/64) |
 | V1 oindil | Medium | [#60](https://github.com/EasyGoDocs/easygodocs/pull/60) |
 | Docs must be simpler. We provide simple solutions. | Medium | [#58](https://github.com/EasyGoDocs/easygodocs/issues/58) |
@@ -1167,6 +1157,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added page | Medium | [#105](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/105) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
@@ -1406,15 +1397,9 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| “DOB styling inconsistent with text input fields in the registration form”. | Medium | [#190](https://github.com/vatsal-bhakodia/smriti-ai/issues/190) |
-| The Blog Route in the footer does not link to the Blogs page | Medium | [#189](https://github.com/vatsal-bhakodia/smriti-ai/issues/189) |
-| Go-To-Top Arrow is overlapping with text on the footer | Medium | [#188](https://github.com/vatsal-bhakodia/smriti-ai/issues/188) |
-| login page issue | Medium | [#187](https://github.com/vatsal-bhakodia/smriti-ai/pull/187) |
-| Implement AI Backend for File Processing and Learning Features | Medium | [#186](https://github.com/vatsal-bhakodia/smriti-ai/issues/186) |
-| add feature | Medium | [#185](https://github.com/vatsal-bhakodia/smriti-ai/pull/185) |
+| feat: Add dark-to-light transitions for form inputs | Medium | [#191](https://github.com/vatsal-bhakodia/smriti-ai/pull/191) |
 | Add Standardized Issue and Pull Request Templates | Medium | [#184](https://github.com/vatsal-bhakodia/smriti-ai/issues/184) |
 | Update README.md | Medium | [#183](https://github.com/vatsal-bhakodia/smriti-ai/pull/183) |
-| Make footer mobile responsive | Medium | [#177](https://github.com/vatsal-bhakodia/smriti-ai/pull/177) |
 | fix(backfill): add batching, dry-run, and transactional updates for QuizResult backfill | Medium | [#173](https://github.com/vatsal-bhakodia/smriti-ai/pull/173) |
 
 ---
