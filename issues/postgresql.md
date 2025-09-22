@@ -326,6 +326,25 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Update readme file | Easy | [#250](https://github.com/SandeepVashishtha/Eventra/issues/250) |
+| Missing Role Selection Field in React Signup Form | Medium | [#248](https://github.com/SandeepVashishtha/Eventra/issues/248) |
+
+---
+
 ## 📌 Project: Prepnerdz
 
 📝 **Description:** College students waste countless hours wandering WhatsApp groups, requesting seniors or digging through unorganised drive for study materials and all. Prepnerdz solves this Chaos by providing the centralised and organised platform of RGPV previous year papers, final semester, mid semester, lab manuals, important questions, topics, reference books, best academic notes and many more.
@@ -366,15 +385,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| “DOB styling inconsistent with text input fields in the registration form”. | Medium | [#190](https://github.com/vatsal-bhakodia/smriti-ai/issues/190) |
-| The Blog Route in the footer does not link to the Blogs page | Medium | [#189](https://github.com/vatsal-bhakodia/smriti-ai/issues/189) |
-| Go-To-Top Arrow is overlapping with text on the footer | Medium | [#188](https://github.com/vatsal-bhakodia/smriti-ai/issues/188) |
-| login page issue | Medium | [#187](https://github.com/vatsal-bhakodia/smriti-ai/pull/187) |
-| Implement AI Backend for File Processing and Learning Features | Medium | [#186](https://github.com/vatsal-bhakodia/smriti-ai/issues/186) |
-| add feature | Medium | [#185](https://github.com/vatsal-bhakodia/smriti-ai/pull/185) |
+| feat: Add dark-to-light transitions for form inputs | Medium | [#191](https://github.com/vatsal-bhakodia/smriti-ai/pull/191) |
 | Add Standardized Issue and Pull Request Templates | Medium | [#184](https://github.com/vatsal-bhakodia/smriti-ai/issues/184) |
 | Update README.md | Medium | [#183](https://github.com/vatsal-bhakodia/smriti-ai/pull/183) |
-| Make footer mobile responsive | Medium | [#177](https://github.com/vatsal-bhakodia/smriti-ai/pull/177) |
 | fix(backfill): add batching, dry-run, and transactional updates for QuizResult backfill | Medium | [#173](https://github.com/vatsal-bhakodia/smriti-ai/pull/173) |
 
 ---
