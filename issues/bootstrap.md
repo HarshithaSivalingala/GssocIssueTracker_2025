@@ -38,25 +38,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Style change About us | Medium | [#593](https://github.com/gyanshankar1708/GrowCraft/pull/593) |
+| Card Design in Digital Services Section Completed | Medium | [#592](https://github.com/gyanshankar1708/GrowCraft/pull/592) |
 | replaced old twitter icon | Medium | [#585](https://github.com/gyanshankar1708/GrowCraft/pull/585) |
 | Added a slide navigation button,fixed "learn more" buttons to redirec… | Medium | [#584](https://github.com/gyanshankar1708/GrowCraft/pull/584) |
-| About Us Styling | Medium | [#583](https://github.com/gyanshankar1708/GrowCraft/issues/583) |
-| Inconsistent Card Design in "Digital Marketing Services" Section | Medium | [#582](https://github.com/gyanshankar1708/GrowCraft/issues/582) |
-| Card Design Inconsistency | Medium | [#581](https://github.com/gyanshankar1708/GrowCraft/issues/581) |
-| Card Hover Description Overlaps Page Heading | Medium | [#580](https://github.com/gyanshankar1708/GrowCraft/issues/580) |
-| Inconsistent Header Design Across Pages | Medium | [#579](https://github.com/gyanshankar1708/GrowCraft/issues/579) |
-| Fix Button Spacing & Link Styling in Service Cards | Medium | [#578](https://github.com/gyanshankar1708/GrowCraft/issues/578) |
-| 545 footer logo visibility fix | Medium | [#577](https://github.com/gyanshankar1708/GrowCraft/pull/577) |
-| 546 blog spacing hover fix | Medium | [#576](https://github.com/gyanshankar1708/GrowCraft/pull/576) |
-| 547 hover effects headings | Medium | [#575](https://github.com/gyanshankar1708/GrowCraft/pull/575) |
-| 549 our approach layout fix | Medium | [#574](https://github.com/gyanshankar1708/GrowCraft/pull/574) |
-| fix(footer): align footer layout on about page (#548) | Medium | [#573](https://github.com/gyanshankar1708/GrowCraft/pull/573) |
 | Update : Removed the unused code and cleaned files with unnecessary code | Medium | [#572](https://github.com/gyanshankar1708/GrowCraft/pull/572) |
-| Fix : Redirect issue solved on services cards | Medium | [#571](https://github.com/gyanshankar1708/GrowCraft/pull/571) |
 | fixed | Medium | [#569](https://github.com/gyanshankar1708/GrowCraft/pull/569) |
-| Spacing fixes in about us section | Medium | [#568](https://github.com/gyanshankar1708/GrowCraft/pull/568) |
 | fixed | Medium | [#567](https://github.com/gyanshankar1708/GrowCraft/pull/567) |
-| Fix : Homepage cards redirect issue solved | Medium | [#566](https://github.com/gyanshankar1708/GrowCraft/pull/566) |
+| Added Careers page | Medium | [#538](https://github.com/gyanshankar1708/GrowCraft/pull/538) |
 
 ---
 
