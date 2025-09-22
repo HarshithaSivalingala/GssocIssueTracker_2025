@@ -1,6 +1,7 @@
 # 🧭 Explore Projects by Tech Stack
 
 - [Ai Projects](ai.md)
+- [Angular Projects](angular.md)
 - [Aws Projects](aws.md)
 - [Blockchain Projects](blockchain.md)
 - [Bootstrap Projects](bootstrap.md)
