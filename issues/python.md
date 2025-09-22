@@ -34,6 +34,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Twitter Icon to Latest X Logo | Medium | [#214](https://github.com/SrigadaAkshayKumar/stock/issues/214) |
 | Replaced alert with toast notifications in StockList | Medium | [#213](https://github.com/SrigadaAkshayKumar/stock/pull/213) |
 | Add Forgot Password component | Medium | [#212](https://github.com/SrigadaAkshayKumar/stock/pull/212) |
 | Duplicate stock entries when adding the same stock multiple times | Medium | [#211](https://github.com/SrigadaAkshayKumar/stock/issues/211) |
@@ -75,6 +76,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
@@ -227,14 +229,12 @@ Make informed mentorship choices through intelligent matching and profile-based 
 |----------|----------------|---------|
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
-| fix params and remove refresh params | Medium | [#2287](https://github.com/OWASP/Nest/pull/2287) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 | Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
-| Migrate jest to v30 | Medium | [#2212](https://github.com/OWASP/Nest/issues/2212) |
 | Implement calendar events scheduling | Medium | [#2211](https://github.com/OWASP/Nest/pull/2211) |
 | Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
@@ -494,24 +494,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 ---
 
-## 📌 Project: DreamJobs-Job Portal 
-
-📝 **Description:** this project aims to bridge the gap between job seekers and employers 
-
-🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Redesign Hero Section for Modern UX and Engagement | Medium | [#220](https://github.com/Khushi-Nigam/jobportal/pull/220) |
-
----
-
 ## 📌 Project: AlgoLab-Learn Ml algos Visually 
 
 📝 **Description:** AlgoLab is an open-source project built to help students, developers, and enthusiasts understand Machine Learning algorithms through visual and interactive demonstrations.  Whether you're a beginner curious about how KNN or Decision Trees work, or someone who learns better by seeing algorithms in action, AlgoLab is for you.
@@ -554,6 +536,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Fix the issue with filters in user job page | Medium | [#562](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/562) |
+| Resume Analysis Section ReferenceError | Medium | [#561](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/561) |
+| feat: adding background elements in landing page and fixing sidebar responsiveness | Medium | [#560](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/560) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -572,16 +557,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Back to Home Button Redirect in chat.html | Medium | [#325](https://github.com/omroy07/AgriTech/pull/325) |
-| feat: Redesign Smart Crop Recommender with modern UI and enhanced UX | Medium | [#324](https://github.com/omroy07/AgriTech/pull/324) |
-| Reorganize Project Directory | Medium | [#323](https://github.com/omroy07/AgriTech/pull/323) |
-| Enhance Dark-Themed UI, Fonts, and Transitions | Medium | [#320](https://github.com/omroy07/AgriTech/issues/320) |
-| added Email util | Medium | [#318](https://github.com/omroy07/AgriTech/pull/318) |
-| Add Deep Learning CNN Model for Tomato Leaf Disease Prediction (#316) | Medium | [#317](https://github.com/omroy07/AgriTech/pull/317) |
-| Add Deep Learning CNN Model for Tomato Leaf Disease Prediction | Medium | [#316](https://github.com/omroy07/AgriTech/issues/316) |
-| Navbar Inconsistency Across Pages | Medium | [#314](https://github.com/omroy07/AgriTech/issues/314) |
-| Pull Request : UI Enhancement: Modernize Weather PagUI Enhancement: M… | Medium | [#309](https://github.com/omroy07/AgriTech/pull/309) |
+| Blog Page UI Enhancements | Medium | [#342](https://github.com/omroy07/AgriTech/issues/342) |
+| Organise folder structure | Medium | [#331](https://github.com/omroy07/AgriTech/issues/331) |
 | Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
+| Redirect to homepage on clicking logo | Medium | [#252](https://github.com/omroy07/AgriTech/issues/252) |
 
 ---
 
@@ -716,29 +695,26 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added beginner-friendly EDA on Titanic dataset | Easy | [#540](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/540) |
-| Pull Request : Housing Pricing in India | Medium | [#715](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/715) |
-| Add House Price Visualization and Analysis Project | Medium | [#714](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/714) |
-| Pull Request : Gold Price Prediction by using LSTM | Medium | [#713](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/713) |
-| Add Gold Price Prediction using Machine Learning and Deep Learning Models | Medium | [#712](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/712) |
+| Pull Request : Company Bankruptcy Prediction Project | Medium | [#719](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/719) |
+| Add Company Bankruptcy Prediction Project | Medium | [#718](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/718) |
+| Pull Request : Beta-Weighted Stock Portfolio Project | Medium | [#717](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/717) |
+| Add Beta-Weighted Stock Portfolio Project | Medium | [#716](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/716) |
 | Added Crop Yield Prediction ANN project files | Medium | [#711](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/711) |
 | Add comment classification | Medium | [#710](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/710) |
-| Pull Request : Gold Price Prediction using Machine Learning | Medium | [#709](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/709) |
-| Gold Price Prediction using Machine Learning | Medium | [#708](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/708) |
-| Pull Request : Bank Customer Segmentation Web App | Medium | [#707](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/707) |
-| Bank Customer Segmentation Web App | Medium | [#706](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/706) |
-| Pull Request : CurrencyHedge Pro | Medium | [#705](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/705) |
-| CurrencyHedge Pro: Interactive Dashboard for Currency Risk Analysis & Hedging Simulation | Medium | [#704](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/704) |
-| Pull Request : Financial APIs Explorer & Knowledge Hub | Medium | [#703](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/703) |
-| Financial APIs Explorer & Knowledge Hub | Medium | [#702](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/702) |
-| Pull Request : Enhancing Financial Course Analysis with Advanced EDA … | Medium | [#701](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/701) |
-| Enhancing Financial Course Analysis with Advanced EDA and Data Visualization | Medium | [#700](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/700) |
-| Pull Request : India Finance – Data Analysis & Forecasting | Medium | [#699](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/699) |
-| India Finance – Data Analysis & Forecasting | Medium | [#698](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/698) |
 | Fake review clean | Medium | [#663](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/663) |
 | Enhancement / Contribution Suggestion for Synthetic Liver Cancer Dataset | Medium | [#529](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/529) |
 | Added Streamlit Web App Interface for Email Classifier + Updated Notebook with Model Saving (#358) | Medium | [#497](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/497) |
 | Add Matplotlib Basics Notebook to Machine Learning Folder | Medium | [#479](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/479) |
 | AIDice Master | Medium | [#466](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/466) |
+| Add Logistic Regression–Based Diabetes Prediction for Pregnant Females | Medium | [#446](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/446) |
+| GSSoC'25 : Real-Time Market Sentiment-Driven Trading Signal Generator | Medium | [#412](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/412) |
+| Feature Request: Instagram Caption Recommendation System | Medium | [#352](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/352) |
+| Add Baseline Sales Forecasting Model using M5 Dataset #GSSOC'25 | Medium | [#350](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/350) |
+| Integration of Multilingual LLM-Powered Chatbot and Domain-Specific NLP and Deep learning Models for Enhanced User Interaction | Medium | [#275](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/275) |
+| Network Intrusion Detection System | Medium | [#262](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/262) |
+| Medical Chatbot | Medium | [#232](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/232) |
+| Add NVIDIA Stock Price Prediction Module | Medium | [#223](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/223) |
+| A Polling Page | Medium | [#34](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/34) |
 
 ---
 
@@ -1906,6 +1882,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added page | Medium | [#105](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/105) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
