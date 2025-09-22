@@ -66,7 +66,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed the back button issue | Medium | [#498](https://github.com/Prateek9876/NagarVikas/pull/498) |
+| Level 3 Issue: Optimize firebase.json for Deployment | Medium | [#506](https://github.com/Prateek9876/NagarVikas/issues/506) |
+| chore: optimize firebase.json with safe level 3 config | Medium | [#505](https://github.com/Prateek9876/NagarVikas/pull/505) |
+| Commit | Medium | [#504](https://github.com/Prateek9876/NagarVikas/pull/504) |
+| updates | Medium | [#503](https://github.com/Prateek9876/NagarVikas/pull/503) |
+| The options of Nagar Vikas Assistant should be working, and the text in message box blends with its background so fix that too | Medium | [#502](https://github.com/Prateek9876/NagarVikas/issues/502) |
+| Fixed Discussion Forum Formatting | Medium | [#501](https://github.com/Prateek9876/NagarVikas/pull/501) |
+| Fixed #489 | Medium | [#500](https://github.com/Prateek9876/NagarVikas/pull/500) |
+| Added collapsable feature in search complaints of admin dashboard | Medium | [#499](https://github.com/Prateek9876/NagarVikas/pull/499) |
 | On Changing the Phone number from the Profile section, no OTP is needed right now but i OTP should be needed otherwise anyone can enter any number. | Medium | [#488](https://github.com/Prateek9876/NagarVikas/issues/488) |
 
 ---
@@ -86,8 +93,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BlyFt/issues/185) |
+| Banner for PlayStore App Listing | Medium | [#291](https://github.com/Yash159357/BlyFt/pull/291) |
+| Share News Feature | Medium | [#254](https://github.com/Yash159357/BlyFt/issues/254) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BlyFt/issues/164) |
+| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BlyFt/issues/170) |
 
 ---
 
@@ -105,6 +115,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updating markup file with automation | Medium | [#96](https://github.com/may-tas/TextEditingApp/pull/96) |
 | feat: centralize color management with const-compatible ColorConstants class and comprehensive documentation | Medium | [#95](https://github.com/may-tas/TextEditingApp/pull/95) |
 | Improve Text Shadow & Glow | Medium | [#74](https://github.com/may-tas/TextEditingApp/issues/74) |
 
@@ -152,8 +163,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BlyFt/issues/185) |
+| Banner for PlayStore App Listing | Medium | [#291](https://github.com/Yash159357/BlyFt/pull/291) |
+| Share News Feature | Medium | [#254](https://github.com/Yash159357/BlyFt/issues/254) |
+| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
-| UI/UX: Create Play Store Banner | Medium | [#164](https://github.com/Yash159357/BlyFt/issues/164) |
+| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BlyFt/issues/170) |
 
 ---
 
