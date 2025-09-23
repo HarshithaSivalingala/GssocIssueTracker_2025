@@ -38,14 +38,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Style change About us | Medium | [#593](https://github.com/gyanshankar1708/GrowCraft/pull/593) |
-| Card Design in Digital Services Section Completed | Medium | [#592](https://github.com/gyanshankar1708/GrowCraft/pull/592) |
-| replaced old twitter icon | Medium | [#585](https://github.com/gyanshankar1708/GrowCraft/pull/585) |
-| Added a slide navigation button,fixed "learn more" buttons to redirec… | Medium | [#584](https://github.com/gyanshankar1708/GrowCraft/pull/584) |
-| Update : Removed the unused code and cleaned files with unnecessary code | Medium | [#572](https://github.com/gyanshankar1708/GrowCraft/pull/572) |
-| fixed | Medium | [#569](https://github.com/gyanshankar1708/GrowCraft/pull/569) |
-| fixed | Medium | [#567](https://github.com/gyanshankar1708/GrowCraft/pull/567) |
-| Added Careers page | Medium | [#538](https://github.com/gyanshankar1708/GrowCraft/pull/538) |
+| Footer links not directing to respective pages on Learn More page | Medium | [#615](https://github.com/gyanshankar1708/GrowCraft/issues/615) |
+| Navbar not properly styled on Our Work page (affects both Dark and Light modes) | Medium | [#614](https://github.com/gyanshankar1708/GrowCraft/issues/614) |
+| Pages not directing properly on FAQ page | Medium | [#613](https://github.com/gyanshankar1708/GrowCraft/issues/613) |
+| Navbar styling inconsistent on FAQ page | Medium | [#612](https://github.com/gyanshankar1708/GrowCraft/issues/612) |
+| Navbar styling inconsistency on About page | Medium | [#611](https://github.com/gyanshankar1708/GrowCraft/issues/611) |
+| Search bar not working properly in Blog page | Medium | [#610](https://github.com/gyanshankar1708/GrowCraft/issues/610) |
+| Added Careers page | Medium | [#599](https://github.com/gyanshankar1708/GrowCraft/pull/599) |
 
 ---
 
@@ -85,28 +84,6 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
-
----
-
-## 📌 Project: sachiva
-
-📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
-
-🔗 [View Project](https://github.com/sachiva1/sachiva)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| UI forum webpage | Medium | [#267](https://github.com/sachiva1/sachiva/issues/267) |
-| Bug and UI fix of about page | Medium | [#266](https://github.com/sachiva1/sachiva/issues/266) |
-| Improve Text Visibility in Blog Section Cards | Medium | [#265](https://github.com/sachiva1/sachiva/issues/265) |
-| Update Logo Colors | Medium | [#264](https://github.com/sachiva1/sachiva/issues/264) |
-| 🚀 Feature Request: Add AOS Animations for Better UI/UX | Medium | [#263](https://github.com/sachiva1/sachiva/issues/263) |
 
 ---
 
