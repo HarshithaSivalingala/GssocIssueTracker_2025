@@ -16,6 +16,7 @@
 |----------|----------------|---------|
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
 | Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
+| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy23/splitwiser/pull/174) |
 | SECURITY.md | Medium | [#169](https://github.com/Devasy23/splitwiser/pull/169) |
 | add SECURITY.md file for responsible disclosure | Medium | [#168](https://github.com/Devasy23/splitwiser/pull/168) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
@@ -26,7 +27,6 @@
 | Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 | Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
 | Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
-| Feat: Update frontend UI to be modern and minimal | Medium | [#127](https://github.com/Devasy23/splitwiser/pull/127) |
 
 ---
 
@@ -76,7 +76,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Improved carousel cards background | Medium | [#83](https://github.com/LarytheLord/Adventurers-Guild/pull/83) |
+| Add missing files in .github | Medium | [#86](https://github.com/LarytheLord/Adventurers-Guild/issues/86) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
