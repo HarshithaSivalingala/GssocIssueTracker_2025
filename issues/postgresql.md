@@ -50,6 +50,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| ML Model for the profile based matching system | Medium | [#64](https://github.com/Menthub-GSSoC/Menthub/issues/64) |
 | ⚙️:Add Unit & Integration Test Suite | Medium | [#63](https://github.com/Menthub-GSSoC/Menthub/issues/63) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
@@ -81,7 +82,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Twitter icon to latest X logo #868 | Medium | [#869](https://github.com/HarshS16/Civix/pull/869) |
 | Update Twitter Icon to Latest X Logo | Medium | [#868](https://github.com/HarshS16/Civix/issues/868) |
 | Registration: Missing "Confirm Password" Field | Medium | [#867](https://github.com/HarshS16/Civix/issues/867) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
@@ -104,7 +104,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 44 updates | Medium | [#354](https://github.com/Muneerali199/DocMagic/pull/354) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 45 updates | Medium | [#356](https://github.com/Muneerali199/DocMagic/pull/356) |
 | Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
@@ -385,6 +385,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: prevent back-to-top button from overlapping footer | Medium | [#193](https://github.com/vatsal-bhakodia/smriti-ai/pull/193) |
+| fixed the blogs route in the footer | Medium | [#192](https://github.com/vatsal-bhakodia/smriti-ai/pull/192) |
 | feat: Add dark-to-light transitions for form inputs | Medium | [#191](https://github.com/vatsal-bhakodia/smriti-ai/pull/191) |
 | Add Standardized Issue and Pull Request Templates | Medium | [#184](https://github.com/vatsal-bhakodia/smriti-ai/issues/184) |
 | Update README.md | Medium | [#183](https://github.com/vatsal-bhakodia/smriti-ai/pull/183) |
