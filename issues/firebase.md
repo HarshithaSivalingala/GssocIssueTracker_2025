@@ -41,6 +41,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/backend/list of collaborators | Medium | [#1244](https://github.com/Code-A2Z/code-a2z/pull/1244) |
+| Feature/backend/delete entire collection | Medium | [#1243](https://github.com/Code-A2Z/code-a2z/pull/1243) |
+| Add sign out confirmation modal | Medium | [#1242](https://github.com/Code-A2Z/code-a2z/pull/1242) |
 | Login Signup UI improvement | Medium | [#1239](https://github.com/Code-A2Z/code-a2z/issues/1239) |
 | Feature Request: Add helmet and hpp Middleware | Medium | [#1236](https://github.com/Code-A2Z/code-a2z/issues/1236) |
 | feat(auth): Add departement validation to signup route | Medium | [#1235](https://github.com/Code-A2Z/code-a2z/pull/1235) |
@@ -48,10 +51,6 @@
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
-| Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
-| 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
-| 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
-| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
 
 ---
 
@@ -150,14 +149,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Level 3 Issue: Optimize firebase.json for Deployment | Medium | [#506](https://github.com/Prateek9876/NagarVikas/issues/506) |
-| chore: optimize firebase.json with safe level 3 config | Medium | [#505](https://github.com/Prateek9876/NagarVikas/pull/505) |
 | Commit | Medium | [#504](https://github.com/Prateek9876/NagarVikas/pull/504) |
-| updates | Medium | [#503](https://github.com/Prateek9876/NagarVikas/pull/503) |
+| fixes back button alingment issue | Medium | [#503](https://github.com/Prateek9876/NagarVikas/pull/503) |
 | The options of Nagar Vikas Assistant should be working, and the text in message box blends with its background so fix that too | Medium | [#502](https://github.com/Prateek9876/NagarVikas/issues/502) |
-| Fixed Discussion Forum Formatting | Medium | [#501](https://github.com/Prateek9876/NagarVikas/pull/501) |
-| Fixed #489 | Medium | [#500](https://github.com/Prateek9876/NagarVikas/pull/500) |
-| Added collapsable feature in search complaints of admin dashboard | Medium | [#499](https://github.com/Prateek9876/NagarVikas/pull/499) |
 | On Changing the Phone number from the Profile section, no OTP is needed right now but i OTP should be needed otherwise anyone can enter any number. | Medium | [#488](https://github.com/Prateek9876/NagarVikas/issues/488) |
 
 ---
@@ -304,24 +298,6 @@
 
 ---
 
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Newsletter with Toast Notifications & Fix Footer Alignment | Medium | [#213](https://github.com/SurajSG23/PrepBuddy/pull/213) |
-
----
-
 ## 📌 Project: Athletix
 
 📝 **Description:** Athletix is a Flutter, Firebase and Gemini API based platform for athlete management in India, offering performance tracking, injury management, AI recovery, and real-time messaging. Future upgrades include dashboards, finance and AI career planning
@@ -387,6 +363,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Favicon to Website | Easy | [#65](https://github.com/Skrache/crisisboard/issues/65) |
+| Website Not Functioning Properly | Medium | [#90](https://github.com/Skrache/crisisboard/issues/90) |
 | Signin to view profile button performing wrong functionality | Medium | [#88](https://github.com/Skrache/crisisboard/issues/88) |
 | Addition of pr create automate message | Medium | [#85](https://github.com/Skrache/crisisboard/issues/85) |
 | Addition of automate issue create message | Medium | [#84](https://github.com/Skrache/crisisboard/issues/84) |
@@ -547,6 +524,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Add Signup & Login Pages | Medium | [#161](https://github.com/Varshitha713/CodeCanvas/issues/161) |
+| "Send Message" button not clearly styled in dark mode | Medium | [#160](https://github.com/Varshitha713/CodeCanvas/issues/160) |
+| Footer "About" and "Submit" links not redirecting | Medium | [#159](https://github.com/Varshitha713/CodeCanvas/issues/159) |
 | Add a project details page | Medium | [#158](https://github.com/Varshitha713/CodeCanvas/issues/158) |
 | Improve Navbar: About link is inactive | Medium | [#157](https://github.com/Varshitha713/CodeCanvas/issues/157) |
 | Adding project-Memory card Game | Medium | [#156](https://github.com/Varshitha713/CodeCanvas/issues/156) |
@@ -564,7 +544,6 @@
 | Add login and logout page | Medium | [#60](https://github.com/Varshitha713/CodeCanvas/issues/60) |
 | Add Hamburger Menu for Navbar on Small Screens | Medium | [#37](https://github.com/Varshitha713/CodeCanvas/issues/37) |
 | feat:Implemented responsive navbar design with animated hamburger menu | Medium | [#35](https://github.com/Varshitha713/CodeCanvas/pull/35) |
-| Navbar section not working | Medium | [#7](https://github.com/Varshitha713/CodeCanvas/issues/7) |
 
 ---
 
@@ -582,7 +561,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add technician dashboard for lab test management | Medium | [#226](https://github.com/shandilya-rajnandini/DocAtHome/pull/226) |
+| Map view | Medium | [#228](https://github.com/shandilya-rajnandini/DocAtHome/pull/228) |
+| Implement Automated Fraud Detection for Professional Sign-ups | Medium | [#227](https://github.com/shandilya-rajnandini/DocAtHome/pull/227) |
 | Set up CI pipeline and fix failing auth tests | Medium | [#219](https://github.com/shandilya-rajnandini/DocAtHome/pull/219) |
 | Reintroduce Skeleton placeholders for loading states in Appointments, Search Doctor, and Doctor Appointment pages | Medium | [#207](https://github.com/shandilya-rajnandini/DocAtHome/pull/207) |
 | added lab-test-status | Medium | [#205](https://github.com/shandilya-rajnandini/DocAtHome/pull/205) |
@@ -590,7 +570,6 @@
 | Feature/recently viewed doctors | Medium | [#203](https://github.com/shandilya-rajnandini/DocAtHome/pull/203) |
 | Enhance Theme Colors & Improve UX for Better Visual Consistency | Medium | [#202](https://github.com/shandilya-rajnandini/DocAtHome/pull/202) |
 | feat: Add autocomplete search filters for Specialty and City | Medium | [#200](https://github.com/shandilya-rajnandini/DocAtHome/pull/200) |
-| Migrate from Context API to a Zustand Store | Medium | [#147](https://github.com/shandilya-rajnandini/DocAtHome/pull/147) |
 
 ---
 
@@ -668,6 +647,24 @@
 | Add mit license file to the project | Medium | [#7](https://github.com/smiti-jana/PrepWise/pull/7) |
 | Security fixes and feature improvements | Medium | [#6](https://github.com/smiti-jana/PrepWise/pull/6) |
 | add MIT License file to the project | Medium | [#5](https://github.com/smiti-jana/PrepWise/pull/5) |
+
+---
+
+## 📌 Project: Dora-AI-Powered-Virtual-Personal-Assistant
+
+📝 **Description:** DORA is your AI-powered productivity companion designed to simplify your daily life. From task automation to smart reminders and intelligent information search, DORA leverages Generative AI, LLMs, RAG, and Agentic AI to bring you a truly smart virtual assistant experience.
+
+🔗 [View Project](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant)
+
+💻 **Tech Stack:** React, Python, FastAPI, Pinecone DB, LangChain, LangGraph, CrewAI, Eleven Lab, Firebase, Tailwind CSS, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/23) |
 
 ---
 
