@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI/UX improvements for user dashboard | Medium | [#47](https://github.com/kanikaa-3018/contest_onlinejudge/issues/47) |
+| Add another Tab like resources | Medium | [#46](https://github.com/kanikaa-3018/contest_onlinejudge/issues/46) |
 | Filter-Based Loading for Contest Dashboard | Medium | [#44](https://github.com/kanikaa-3018/contest_onlinejudge/issues/44) |
 | Sidebar does not highlight active page after navigation | Medium | [#43](https://github.com/kanikaa-3018/contest_onlinejudge/issues/43) |
 | Pending issues | Medium | [#42](https://github.com/kanikaa-3018/contest_onlinejudge/issues/42) |
