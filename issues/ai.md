@@ -65,34 +65,6 @@
 
 ---
 
-## 📌 Project: DevElevate
-
-📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
-Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
-An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
-Personalized dashboards for learners, including progress tracking, daily planners, and goals.
-A tech feed offering real-time internship updates, hackathon events, and developer news.
-Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
-Role-based authentication for users and admins, with profile management and admin dashboard.
-Integrated coding practice links (GFG, LeetCode, HackerRank).
-Accessibility features like dark mode,white.
-
-🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
-
-💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Feature: Mentorship / Experts Connect | Easy | [#365](https://github.com/abhisek2004/Dev-Elevate/issues/365) |
-| Feature AI Interview Simulator – Backend Setup | Easy | [#341](https://github.com/abhisek2004/Dev-Elevate/issues/341) |
-| [Enhancement] Expand Job Opportunities Feed with Multiple Platforms | Easy | [#229](https://github.com/abhisek2004/Dev-Elevate/issues/229) |
-
----
-
 ## 📌 Project: Aluma
 
 📝 **Description:** With the growing need for mental health support and the lack of accessible or affordable resources , Aluma aims to provide a simple and supportive platform for emotjonal well being, for people of all ages. Aluma combines helpful tools like mood tracking, AI powered chatbots which personalise the response based on the information the user gives and music to support users in their daily mental health journey. The platform features 2 chatbots, Elena for emotional support and Jess for motivation, offering friendly conversations and helpful suggestions. Users can track their daily mood and events in a virtual Journal, take emotional assessments and receive AI generated tips for their specific situation. Aluma also offers relaxing music and meditation video links to help with anxiety and stress. This project has been shaped by feedback from over 60 users and focuses on providing a safe anf welcoming space for emotional care.
@@ -236,6 +208,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| test(frontend): migrate to Jest v30, bump @types/jest, add VM modules… | Medium | [#2304](https://github.com/OWASP/Nest/pull/2304) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
@@ -296,6 +269,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/backend/list of collaborators | Medium | [#1244](https://github.com/Code-A2Z/code-a2z/pull/1244) |
+| Feature/backend/delete entire collection | Medium | [#1243](https://github.com/Code-A2Z/code-a2z/pull/1243) |
+| Add sign out confirmation modal | Medium | [#1242](https://github.com/Code-A2Z/code-a2z/pull/1242) |
 | Login Signup UI improvement | Medium | [#1239](https://github.com/Code-A2Z/code-a2z/issues/1239) |
 | Feature Request: Add helmet and hpp Middleware | Medium | [#1236](https://github.com/Code-A2Z/code-a2z/issues/1236) |
 | feat(auth): Add departement validation to signup route | Medium | [#1235](https://github.com/Code-A2Z/code-a2z/pull/1235) |
@@ -303,10 +279,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
-| Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
-| 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
-| 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
-| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
 
 ---
 
@@ -399,14 +371,14 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 |----------|----------------|---------|
 | Eye icon visible | Easy | [#229](https://github.com/BhaktiMore18/Pouranik/pull/229) |
 | Added testimonials section | Easy | [#221](https://github.com/BhaktiMore18/Pouranik/pull/221) |
+| Fix/tour overlay tooltip overflows outside viewport on smaller screens | Medium | [#243](https://github.com/BhaktiMore18/Pouranik/pull/243) |
+| added proper redirection changes | Medium | [#242](https://github.com/BhaktiMore18/Pouranik/pull/242) |
 | privacy policy page | Medium | [#228](https://github.com/BhaktiMore18/Pouranik/pull/228) |
-| Addition of pr create automate message | Medium | [#224](https://github.com/BhaktiMore18/Pouranik/issues/224) |
 | Replace Chatbase with fully integrated in-house GenAI chatbot (#214) | Medium | [#223](https://github.com/BhaktiMore18/Pouranik/pull/223) |
 | Enhanced Authentication Form with Loading State and Success Messages | Medium | [#185](https://github.com/BhaktiMore18/Pouranik/pull/185) |
 | feat(auth): Complete Auth and Profile Page Overhaul | Medium | [#174](https://github.com/BhaktiMore18/Pouranik/pull/174) |
 | Bug: Login & Sign Up Pages Not Working + Fields Invisible (#162) | Medium | [#173](https://github.com/BhaktiMore18/Pouranik/pull/173) |
 | Enhance Login Page UI/UX for Light & Dark Mode #160 | Medium | [#172](https://github.com/BhaktiMore18/Pouranik/pull/172) |
-| Auto-scroll to top on route change #69 | Medium | [#151](https://github.com/BhaktiMore18/Pouranik/pull/151) |
 
 ---
 
@@ -521,7 +493,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | UI improvements for Teacher Leave Requests page | Medium | [#109](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/109) |
 | Add Home Button on Login Page for Easy Navigation | Medium | [#108](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/108) |
 | ADD a navbar +scroll up top feature | Medium | [#106](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/106) |
-| Student dashboard | Medium | [#105](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/105) |
 | Docs : Add Table of Contents in README | Medium | [#103](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/103) |
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
 | Homepage enhancements | Medium | [#97](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/97) |
@@ -598,7 +569,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Twitter icon to latest X logo #868 | Medium | [#869](https://github.com/HarshS16/Civix/pull/869) |
 | Update Twitter Icon to Latest X Logo | Medium | [#868](https://github.com/HarshS16/Civix/issues/868) |
 | Registration: Missing "Confirm Password" Field | Medium | [#867](https://github.com/HarshS16/Civix/issues/867) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
@@ -621,6 +591,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added some requirements | Medium | [#76](https://github.com/harshendram/Advanced-Discord-Bot/pull/76) |
+| Add Documentation / Performance Files | Medium | [#75](https://github.com/harshendram/Advanced-Discord-Bot/issues/75) |
 | Simplify Folder Structure | Medium | [#74](https://github.com/harshendram/Advanced-Discord-Bot/pull/74) |
 | Simplifying Folder Structure | Medium | [#73](https://github.com/harshendram/Advanced-Discord-Bot/issues/73) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
@@ -671,6 +643,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI/UX improvements for user dashboard | Medium | [#47](https://github.com/kanikaa-3018/contest_onlinejudge/issues/47) |
+| Add another Tab like resources | Medium | [#46](https://github.com/kanikaa-3018/contest_onlinejudge/issues/46) |
 | Filter-Based Loading for Contest Dashboard | Medium | [#44](https://github.com/kanikaa-3018/contest_onlinejudge/issues/44) |
 | Sidebar does not highlight active page after navigation | Medium | [#43](https://github.com/kanikaa-3018/contest_onlinejudge/issues/43) |
 | Pending issues | Medium | [#42](https://github.com/kanikaa-3018/contest_onlinejudge/issues/42) |
@@ -873,9 +847,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Fix the issue with filters in user job page | Medium | [#562](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/562) |
-| Resume Analysis Section ReferenceError | Medium | [#561](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/561) |
-| feat: adding background elements in landing page and fixing sidebar responsiveness | Medium | [#560](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/560) |
+| Restructure & Modernize Coding Section in Student Dashboard | Medium | [#565](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/565) |
+| Add z-index to icons in AuthPage for improved layering | Medium | [#564](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/564) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -1193,12 +1166,17 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improved footer UI layout | Medium | [#361](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/361) |
+| UI: Enhanced DSA Practice Problem page layout with containers, spacin… | Medium | [#360](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/360) |
+| feat: Add progress dashboard with ML-based topic categorization | Medium | [#359](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/359) |
+| Nav bar responsiveness | Medium | [#358](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/358) |
+| Enhance pwa manifest and favicon system for better scalability and performance | Medium | [#357](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/357) |
+| Text on testimonial cards should remain clearly visible in both light and dark modes. | Medium | [#354](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/354) |
 | DSAMate logo submission | Medium | [#353](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/353) |
 | Add enhancement to DSA sheet page #335 | Medium | [#352](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/352) |
 | fixed the alignment issue in the footer | Medium | [#350](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/350) |
 | Misaligned icons overlapping the text on the Footer | Medium | [#344](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/344) |
 | Improvement: Updated bot size and positioning, move 'Report Problem' link… | Medium | [#332](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/332) |
-| Made the Editor Chnages | Medium | [#322](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/322) |
 | Issue #315 completed please merge the pull request | Medium | [#320](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/320) |
 | Improved visibility of Terms of Service and Privacy Policy button | Medium | [#312](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/312) |
 
@@ -1346,24 +1324,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Newsletter with Toast Notifications & Fix Footer Alignment | Medium | [#213](https://github.com/SurajSG23/PrepBuddy/pull/213) |
-
----
-
 ## 📌 Project: Syed Imtiyaz Ali 
 
 📝 **Description:** Swapify is a secure, add-free, and community-driven platform designed to revolutionize how Indians buy and sell pre-owned products.
@@ -1479,6 +1439,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Enhance User Experience with Interactive Mouse Cursor & Improved Animations | Medium | [#165](https://github.com/Chandu6702/Anime-Ecstasy/issues/165) |
 | i want to add dark mode light mode | Medium | [#163](https://github.com/Chandu6702/Anime-Ecstasy/issues/163) |
 | Add Registration button to register | Medium | [#156](https://github.com/Chandu6702/Anime-Ecstasy/issues/156) |
+| add registration page and improve login page by adding logut also | Medium | [#155](https://github.com/Chandu6702/Anime-Ecstasy/issues/155) |
 
 ---
 
@@ -1743,6 +1704,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add FAQ section to homepage | Medium | [#134](https://github.com/DevSyncx/DevSync/pull/134) |
+| Add FAQ section on home page | Medium | [#133](https://github.com/DevSyncx/DevSync/issues/133) |
+| Fix #87 developer profile text | Medium | [#132](https://github.com/DevSyncx/DevSync/pull/132) |
 | To Do page not working. | Medium | [#131](https://github.com/DevSyncx/DevSync/issues/131) |
 | Add GitHub OAuth authentication | Medium | [#130](https://github.com/DevSyncx/DevSync/pull/130) |
 | feat: Add GitHub Profile integration with frontend and backend | Medium | [#129](https://github.com/DevSyncx/DevSync/pull/129) |
@@ -2160,6 +2124,24 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature: Setup User Dashboard | Medium | [#14](https://github.com/Anasmalik57/Dev-Resume-AI/issues/14) |
+
+---
+
+## 📌 Project: tech event
+
+📝 **Description:** using CSV file filter the events
+
+🔗 [View Project](https://github.com/muskan-fatim/Tech_event)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, TypeScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add event category filtering | Medium | [#45](https://github.com/muskan-fatim/Tech_event/pull/45) |
 
 ---
 
@@ -2658,7 +2640,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add continuous horizontal auto-scrolling animation to testimonial/project cards | Easy | [#20](https://github.com/stuticoder123/Alum-Connect/issues/20) |
-| Fixed Visiblility of Join as Student Button | Medium | [#22](https://github.com/stuticoder123/Alum-Connect/pull/22) |
+| Add Theme Toggle (Light/Dark Mode) | Medium | [#23](https://github.com/stuticoder123/Alum-Connect/issues/23) |
 | Fixed design issues on the image to match the resolution | Medium | [#16](https://github.com/stuticoder123/Alum-Connect/pull/16) |
 
 ---
@@ -2733,17 +2715,17 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Documentation : Add Code Of Conduct File to project | Easy | [#30](https://github.com/Swastik007sharma/CampusTrack/issues/30) |
-| build(deps): bump zod from 4.0.17 to 4.1.8 in /backend | Medium | [#93](https://github.com/Swastik007sharma/CampusTrack/pull/93) |
+| build(deps-dev): bump vite from 7.1.1 to 7.1.7 in /frontend | Medium | [#97](https://github.com/Swastik007sharma/CampusTrack/pull/97) |
+| build(deps): bump mongoose from 8.17.1 to 8.18.2 in /backend | Medium | [#96](https://github.com/Swastik007sharma/CampusTrack/pull/96) |
+| build(deps-dev): bump @eslint/js from 9.32.0 to 9.36.0 in /frontend | Medium | [#95](https://github.com/Swastik007sharma/CampusTrack/pull/95) |
+| build(deps): bump zod from 4.0.17 to 4.1.11 in /backend | Medium | [#94](https://github.com/Swastik007sharma/CampusTrack/pull/94) |
 | build(deps): bump axios from 1.8.3 to 1.12.2 in /backend | Medium | [#92](https://github.com/Swastik007sharma/CampusTrack/pull/92) |
 | build(deps): bump react-router-dom from 7.8.0 to 7.9.1 in /frontend | Medium | [#91](https://github.com/Swastik007sharma/CampusTrack/pull/91) |
 | build(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#90](https://github.com/Swastik007sharma/CampusTrack/pull/90) |
 | build(deps): bump axios from 1.8.3 to 1.12.0 in /backend in the npm_and_yarn group across 1 directory | Medium | [#89](https://github.com/Swastik007sharma/CampusTrack/pull/89) |
 | build(deps-dev): bump tailwindcss from 4.1.11 to 4.1.13 in /frontend | Medium | [#88](https://github.com/Swastik007sharma/CampusTrack/pull/88) |
-| build(deps-dev): bump vite from 7.1.1 to 7.1.5 in /frontend | Medium | [#87](https://github.com/Swastik007sharma/CampusTrack/pull/87) |
-| build(deps-dev): bump @eslint/js from 9.32.0 to 9.35.0 in /frontend | Medium | [#86](https://github.com/Swastik007sharma/CampusTrack/pull/86) |
 | build(deps-dev): bump @tailwindcss/vite from 4.1.11 to 4.1.13 in /frontend | Medium | [#85](https://github.com/Swastik007sharma/CampusTrack/pull/85) |
 | build(deps): bump express-rate-limit from 8.0.1 to 8.1.0 in /backend | Medium | [#84](https://github.com/Swastik007sharma/CampusTrack/pull/84) |
-| build(deps): bump mongoose from 8.17.1 to 8.18.1 in /backend | Medium | [#83](https://github.com/Swastik007sharma/CampusTrack/pull/83) |
 | New Feature: Leaderboard | Medium | [#82](https://github.com/Swastik007sharma/CampusTrack/issues/82) |
 | build(deps): bump nodemailer from 7.0.5 to 7.0.6 in /backend | Medium | [#80](https://github.com/Swastik007sharma/CampusTrack/pull/80) |
 | Changed the Button Name | Medium | [#43](https://github.com/Swastik007sharma/CampusTrack/pull/43) |
@@ -2840,6 +2822,24 @@ Fast Workflow Tools
 | Added GitHub Issue Templates for Problem Reports | Medium | [#32](https://github.com/Vishv04/RupeeFi/pull/32) |
 | To assign task as completed! | Medium | [#25](https://github.com/Vishv04/RupeeFi/pull/25) |
 | Create License | Medium | [#8](https://github.com/Vishv04/RupeeFi/pull/8) |
+
+---
+
+## 📌 Project: Dora-AI-Powered-Virtual-Personal-Assistant
+
+📝 **Description:** DORA is your AI-powered productivity companion designed to simplify your daily life. From task automation to smart reminders and intelligent information search, DORA leverages Generative AI, LLMs, RAG, and Agentic AI to bring you a truly smart virtual assistant experience.
+
+🔗 [View Project](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant)
+
+💻 **Tech Stack:** React, Python, FastAPI, Pinecone DB, LangChain, LangGraph, CrewAI, Eleven Lab, Firebase, Tailwind CSS, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/23) |
 
 ---
 
