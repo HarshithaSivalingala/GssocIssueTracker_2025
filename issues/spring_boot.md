@@ -47,11 +47,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Back Button is not working on Saved Screen | Easy | [#441](https://github.com/yuvrajsinghgmx/ShopSmart/issues/441) |
 | Saved toggle shows active state by default on detail screens | Easy | [#440](https://github.com/yuvrajsinghgmx/ShopSmart/issues/440) |
-| Back button not working on Shop Details screen | Easy | [#433](https://github.com/yuvrajsinghgmx/ShopSmart/issues/433) |
-| Back button click bug resolved Shop details screen | Medium | [#445](https://github.com/yuvrajsinghgmx/ShopSmart/pull/445) |
-| Add Shop screen opens after onboarding even when role = Customer | Medium | [#437](https://github.com/yuvrajsinghgmx/ShopSmart/issues/437) |
+| Logout Api Integration | Medium | [#449](https://github.com/yuvrajsinghgmx/ShopSmart/pull/449) |
+| Search bar with voice search integration and UI enhancement | Medium | [#447](https://github.com/yuvrajsinghgmx/ShopSmart/pull/447) |
 | Product category filter list is not functional | Medium | [#435](https://github.com/yuvrajsinghgmx/ShopSmart/issues/435) |
 | Search bar on top of home screen is not functional | Medium | [#434](https://github.com/yuvrajsinghgmx/ShopSmart/issues/434) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
