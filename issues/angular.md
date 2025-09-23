@@ -14,7 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add an "About Us" page to the website | Medium | [#140](https://github.com/abhisek247767/PeopleHub-Frontend/issues/140) |
+| UI Enhancement (Footer & Navbar Improvements) | Medium | [#143](https://github.com/abhisek247767/PeopleHub-Frontend/issues/143) |
+| Improve README with backend integration steps and screenshots | Medium | [#142](https://github.com/abhisek247767/PeopleHub-Frontend/issues/142) |
 
 ---
 
