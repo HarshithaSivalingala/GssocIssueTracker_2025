@@ -16,6 +16,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added some requirements | Medium | [#76](https://github.com/harshendram/Advanced-Discord-Bot/pull/76) |
+| Add Documentation / Performance Files | Medium | [#75](https://github.com/harshendram/Advanced-Discord-Bot/issues/75) |
 | Simplify Folder Structure | Medium | [#74](https://github.com/harshendram/Advanced-Discord-Bot/pull/74) |
 | Simplifying Folder Structure | Medium | [#73](https://github.com/harshendram/Advanced-Discord-Bot/issues/73) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
