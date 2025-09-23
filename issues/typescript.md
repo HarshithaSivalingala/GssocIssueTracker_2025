@@ -38,34 +38,6 @@
 
 ---
 
-## 📌 Project: DevElevate
-
-📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
-Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
-An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
-Personalized dashboards for learners, including progress tracking, daily planners, and goals.
-A tech feed offering real-time internship updates, hackathon events, and developer news.
-Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
-Role-based authentication for users and admins, with profile management and admin dashboard.
-Integrated coding practice links (GFG, LeetCode, HackerRank).
-Accessibility features like dark mode,white.
-
-🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
-
-💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Feature: Mentorship / Experts Connect | Easy | [#365](https://github.com/abhisek2004/Dev-Elevate/issues/365) |
-| Feature AI Interview Simulator – Backend Setup | Easy | [#341](https://github.com/abhisek2004/Dev-Elevate/issues/341) |
-| [Enhancement] Expand Job Opportunities Feed with Multiple Platforms | Easy | [#229](https://github.com/abhisek2004/Dev-Elevate/issues/229) |
-
----
-
 ## 📌 Project: OWASP Nest
 
 📝 **Description:** Your gateway to OWASP
@@ -80,6 +52,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| test(frontend): migrate to Jest v30, bump @types/jest, add VM modules… | Medium | [#2304](https://github.com/OWASP/Nest/pull/2304) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
@@ -154,6 +127,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added some requirements | Medium | [#76](https://github.com/harshendram/Advanced-Discord-Bot/pull/76) |
+| Add Documentation / Performance Files | Medium | [#75](https://github.com/harshendram/Advanced-Discord-Bot/issues/75) |
 | Simplify Folder Structure | Medium | [#74](https://github.com/harshendram/Advanced-Discord-Bot/pull/74) |
 | Simplifying Folder Structure | Medium | [#73](https://github.com/harshendram/Advanced-Discord-Bot/issues/73) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
@@ -547,24 +522,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Newsletter with Toast Notifications & Fix Footer Alignment | Medium | [#213](https://github.com/SurajSG23/PrepBuddy/pull/213) |
-
----
-
 ## 📌 Project: Legalease
 
 📝 **Description:** A platform built for people to get legal advice on, you can directly track your cases, converse with a AI-legal chat bot and find real life lawyers, working on the issues.
@@ -615,7 +572,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Improved carousel cards background | Medium | [#83](https://github.com/LarytheLord/Adventurers-Guild/pull/83) |
+| Add missing files in .github | Medium | [#86](https://github.com/LarytheLord/Adventurers-Guild/issues/86) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -637,7 +594,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
-| <Recall Rally> | Medium | [#118](https://github.com/ajaynegi45/Old-School-Game/issues/118) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
 
@@ -848,8 +804,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix header alignment and sidebar transparency issues | Medium | [#46](https://github.com/Jyotibrat/AI-Flow/pull/46) |
-| fix: Changed position of dark/light toggle button at the right to remove overlapping of text #27 issue | Medium | [#42](https://github.com/Jyotibrat/AI-Flow/pull/42) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
@@ -975,6 +929,24 @@ Fast Workflow Tools
 
 ---
 
+## 📌 Project: tech event
+
+📝 **Description:** using CSV file filter the events
+
+🔗 [View Project](https://github.com/muskan-fatim/Tech_event)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, TypeScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add event category filtering | Medium | [#45](https://github.com/muskan-fatim/Tech_event/pull/45) |
+
+---
+
 ## 📌 Project: GameStore
 
 📝 **Description:** A comprehensive gaming website featuring engaging mini-games with user authentication, statistics tracking, leaderboards, and a robust backend API.
@@ -1035,9 +1007,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.23.16 | Medium | [#115](https://github.com/Ojas-Arora/SapneSeSafar/pull/115) |
+| Bump vite from 5.4.17 to 7.1.7 | Medium | [#118](https://github.com/Ojas-Arora/SapneSeSafar/pull/118) |
+| Bump framer-motion from 11.18.2 to 12.23.18 | Medium | [#117](https://github.com/Ojas-Arora/SapneSeSafar/pull/117) |
 | Bump eslint from 9.12.0 to 9.36.0 | Medium | [#114](https://github.com/Ojas-Arora/SapneSeSafar/pull/114) |
-| Bump vite from 5.4.17 to 7.1.6 | Medium | [#113](https://github.com/Ojas-Arora/SapneSeSafar/pull/113) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.3 | Medium | [#111](https://github.com/Ojas-Arora/SapneSeSafar/pull/111) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump react-router-dom from 6.28.2 to 7.9.1 | Medium | [#107](https://github.com/Ojas-Arora/SapneSeSafar/pull/107) |
