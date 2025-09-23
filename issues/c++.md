@@ -34,7 +34,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Added API for list_Topic_logs | Medium | [#135](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/135) |
 | issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
