@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/added validation | Medium | [#71](https://github.com/CharithaReddy18/AI-health-chatbot/pull/71) |
+| Feature Enhancement: Advanced Conversation Memory & Modern UI for Symptom Checker | Medium | [#72](https://github.com/CharithaReddy18/AI-health-chatbot/issues/72) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
