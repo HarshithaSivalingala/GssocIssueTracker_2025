@@ -1,5 +1,37 @@
 # 🚀 Projects using Mongodb
 
+## 📌 Project: DevElevate
+
+📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
+Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
+An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
+Personalized dashboards for learners, including progress tracking, daily planners, and goals.
+A tech feed offering real-time internship updates, hackathon events, and developer news.
+Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
+Role-based authentication for users and admins, with profile management and admin dashboard.
+Integrated coding practice links (GFG, LeetCode, HackerRank).
+Accessibility features like dark mode,white.
+
+🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
+
+💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Documentation & Performance Issue Templates | Easy | [#500](https://github.com/abhisek2004/Dev-Elevate/issues/500) |
+| New user dashboard shows pre-filled progress instead of starting fresh | Medium | [#509](https://github.com/abhisek2004/Dev-Elevate/issues/509) |
+| Add pull request template for contributions | Medium | [#508](https://github.com/abhisek2004/Dev-Elevate/pull/508) |
+| Add the missing cookie policy page | Medium | [#506](https://github.com/abhisek2004/Dev-Elevate/issues/506) |
+| Implement Sorting and Filtering Functionality within the Community Forum | Medium | [#504](https://github.com/abhisek2004/Dev-Elevate/issues/504) |
+| Performance | Medium | [#502](https://github.com/abhisek2004/Dev-Elevate/pull/502) |
+| Added documentation | Medium | [#501](https://github.com/abhisek2004/Dev-Elevate/pull/501) |
+
+---
+
 ## 📌 Project: people hub
 
 📝 **Description:** This project is a comprehensive Employee Management Portal with secure login authentication. It empowers users to efficiently create, update, and delete employee details, along with managing leave requests. Future enhancements include a modernized user interface, notification management, and the integration of other advanced features for a complete people management solution.
@@ -33,6 +65,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Search Bar in Navbar | Medium | [#337](https://github.com/adityagarwal15/JobSync/issues/337) |
+| we can enhance the menu bar | Medium | [#336](https://github.com/adityagarwal15/JobSync/issues/336) |
 | Feature Request: Add countdown timer for daily search reset | Medium | [#335](https://github.com/adityagarwal15/JobSync/issues/335) |
 | The "WE WORK WITH" ui tiles overrides/overlaps the navbar upon hovering. | Medium | [#334](https://github.com/adityagarwal15/JobSync/issues/334) |
 | feat(navbar): improve mobile responsiveness with CSS-only solution | Medium | [#333](https://github.com/adityagarwal15/JobSync/pull/333) |
@@ -103,6 +137,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Removed duplicate signup option from navbar | Medium | [#1245](https://github.com/Code-A2Z/code-a2z/pull/1245) |
 | Feature/backend/list of collaborators | Medium | [#1244](https://github.com/Code-A2Z/code-a2z/pull/1244) |
 | Feature/backend/delete entire collection | Medium | [#1243](https://github.com/Code-A2Z/code-a2z/pull/1243) |
 | Add sign out confirmation modal | Medium | [#1242](https://github.com/Code-A2Z/code-a2z/pull/1242) |
@@ -112,7 +147,6 @@
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 
 ---
 
@@ -382,6 +416,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Optimize `server.js` for Better Readability & Maintainability | Medium | [#570](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/570) |
+| Optimize getInstitutionDashboard for readability and consistency | Medium | [#569](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/569) |
+| Optimize interviewExperienceController.js for better readability and maintainability | Medium | [#568](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/568) |
+| Optimize jobController.js for consistency and maintainability | Medium | [#567](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/567) |
+| Optimize settingsController.js for better readability and maintainability | Medium | [#566](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/566) |
 | Restructure & Modernize Coding Section in Student Dashboard | Medium | [#565](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/565) |
 | Add z-index to icons in AuthPage for improved layering | Medium | [#564](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/564) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
@@ -460,12 +499,12 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed the text color under 'Best Rides' page | Medium | [#594](https://github.com/NishantRana07/HrRoadways/pull/594) |
+| Feature Request: AI-Powered Smart Route Suggestions | Medium | [#596](https://github.com/NishantRana07/HrRoadways/issues/596) |
+| Fixed Home Section merging into Logo of App #593 | Medium | [#595](https://github.com/NishantRana07/HrRoadways/pull/595) |
 | Home Section Merging Into Logo of App | Medium | [#593](https://github.com/NishantRana07/HrRoadways/issues/593) |
 | Redesign Footer for Professional Look | Medium | [#592](https://github.com/NishantRana07/HrRoadways/issues/592) |
 | Redesign Navbar Styling for Professional Look | Medium | [#591](https://github.com/NishantRana07/HrRoadways/issues/591) |
 | Real-Time Route Navigation using APIs | Medium | [#590](https://github.com/NishantRana07/HrRoadways/issues/590) |
-| Add FAQ Section to header | Medium | [#589](https://github.com/NishantRana07/HrRoadways/pull/589) |
 | Fixed Issue #533: User Friendly Dashboard | Medium | [#570](https://github.com/NishantRana07/HrRoadways/pull/570) |
 | Incomplete Folder Structure in Repository | Medium | [#564](https://github.com/NishantRana07/HrRoadways/issues/564) |
 | Feature Request: Real-Time Bus Tracking & Live Updates | Medium | [#556](https://github.com/NishantRana07/HrRoadways/issues/556) |
@@ -513,6 +552,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: faq answers visibility | Medium | [#278](https://github.com/Prashanti-Hebbar/FoodIO/pull/278) |
 | Update Header Based on User Login Status | Medium | [#265](https://github.com/Prashanti-Hebbar/FoodIO/issues/265) |
 | Enhancing the favorite, saved and share button actions. | Medium | [#264](https://github.com/Prashanti-Hebbar/FoodIO/issues/264) |
 | feat: add image upload support for recipes | Medium | [#241](https://github.com/Prashanti-Hebbar/FoodIO/pull/241) |
@@ -585,16 +625,12 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated check up page | Easy | [#175](https://github.com/samarsajad/Hospital_Management_Website/pull/175) |
 | Improve website layout and css for better user experience. | Medium | [#188](https://github.com/samarsajad/Hospital_Management_Website/issues/188) |
 | Fixing css | Medium | [#187](https://github.com/samarsajad/Hospital_Management_Website/issues/187) |
 | UI/UX Improvement: Footer Redesign | Medium | [#186](https://github.com/samarsajad/Hospital_Management_Website/issues/186) |
 | UI/UX Improvement: Navbar Styling & Professional Enhancement | Medium | [#185](https://github.com/samarsajad/Hospital_Management_Website/issues/185) |
 | UI/UX Improvement: Navbar Enhancement & Bug Fix | Medium | [#184](https://github.com/samarsajad/Hospital_Management_Website/issues/184) |
-| Skeleton loader | Medium | [#183](https://github.com/samarsajad/Hospital_Management_Website/issues/183) |
 | Appointment History Page for Patients | Medium | [#182](https://github.com/samarsajad/Hospital_Management_Website/issues/182) |
-| Implement Search & Filter for Medicines | Medium | [#181](https://github.com/samarsajad/Hospital_Management_Website/issues/181) |
-| Add Doctor Profile Page | Medium | [#180](https://github.com/samarsajad/Hospital_Management_Website/issues/180) |
 | Insecure Password Reset Functionality | Medium | [#179](https://github.com/samarsajad/Hospital_Management_Website/issues/179) |
 | Make  Footer Visible on All Pages | Medium | [#176](https://github.com/samarsajad/Hospital_Management_Website/issues/176) |
 | UI enhancement | Medium | [#163](https://github.com/samarsajad/Hospital_Management_Website/issues/163) |
@@ -603,6 +639,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Redirecting links in the footer to correct section | Medium | [#152](https://github.com/samarsajad/Hospital_Management_Website/pull/152) |
 | Routes Not Handled Properly – Login/Signup Pages Displayed Separately Without Layout | Medium | [#148](https://github.com/samarsajad/Hospital_Management_Website/issues/148) |
 | Google Translate Feature #Closes 140 | Medium | [#145](https://github.com/samarsajad/Hospital_Management_Website/pull/145) |
+| Updated check up page | Hard | [#175](https://github.com/samarsajad/Hospital_Management_Website/pull/175) |
 
 ---
 
@@ -686,6 +723,26 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 ---
 
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| about us page | Easy | [#216](https://github.com/SurajSG23/PrepBuddy/issues/216) |
+| improve PrepBuddy Assistant | Easy | [#215](https://github.com/SurajSG23/PrepBuddy/issues/215) |
+| 'Ace Your Next Aptitude Test With AI-Powered Practice'  is not visible in the website | Easy | [#214](https://github.com/SurajSG23/PrepBuddy/issues/214) |
+
+---
+
 ## 📌 Project: Syed Imtiyaz Ali 
 
 📝 **Description:** Swapify is a secure, add-free, and community-driven platform designed to revolutionize how Indians buy and sell pre-owned products.
@@ -700,6 +757,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| about us page | Medium | [#27](https://github.com/SyedImtiyaz-1/Swapify/issues/27) |
 | Revamp the chats page | Medium | [#26](https://github.com/SyedImtiyaz-1/Swapify/issues/26) |
 | ⭐ Feature: Add “Saved Listings” Section | Medium | [#25](https://github.com/SyedImtiyaz-1/Swapify/issues/25) |
 | 🚩 Feature: Add “Report Listing” Option | Medium | [#24](https://github.com/SyedImtiyaz-1/Swapify/issues/24) |
@@ -733,8 +791,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat(header): declutter navbar, align “My Account”, and elevate UI | Medium | [#314](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/314) |
-| Add "FAQ" Link to Header Navigation (Open Dedicated FAQ Page) | Medium | [#313](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/313) |
-| Updated Twitter Icon | Medium | [#312](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/312) |
 | Add More Songs to Calming Corner for Enhanced User Experience | Medium | [#310](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/310) |
 | Revamp the navbar | Medium | [#309](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/309) |
 | Fixed homecard layout #291 | Medium | [#308](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/308) |
@@ -777,7 +833,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Add Mood Tracker or Calendar View for Visualizing Logs | Medium | [#187](https://github.com/openml-stack/SentiLog-AI/issues/187) |
 | Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
-| Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
 
 ---
 
@@ -818,6 +873,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add user profile updates section | Medium | [#104](https://github.com/CoderUzumaki/PrepEdge-AI/issues/104) |
 | Add a /health health check endpoint | Medium | [#103](https://github.com/CoderUzumaki/PrepEdge-AI/issues/103) |
 | Enhance Interview Setup Page with Multi-Step Form and Resume Upload | Medium | [#101](https://github.com/CoderUzumaki/PrepEdge-AI/pull/101) |
 | fix: scroll to top | Medium | [#100](https://github.com/CoderUzumaki/PrepEdge-AI/pull/100) |
@@ -1174,13 +1230,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Level 3 Futuristic UI Enhancements for index.css | Medium | [#827](https://github.com/Premkolte/AnimateHub/issues/827) |
+| Level 3 Futuristic UI Enhancements for index.css | Medium | [#826](https://github.com/Premkolte/AnimateHub/pull/826) |
+| Enhance Navbar and Logo Visibility in Dark Mode | Medium | [#825](https://github.com/Premkolte/AnimateHub/issues/825) |
+| Lev 3 – Futuristic UI/UX Overhaul for index.html | Medium | [#824](https://github.com/Premkolte/AnimateHub/issues/824) |
+| Lev 3 – Futuristic Enhancement of index.html with Glassmorphism, Animated Background & SEO | Medium | [#823](https://github.com/Premkolte/AnimateHub/pull/823) |
 | Remove gradient | Medium | [#817](https://github.com/Premkolte/AnimateHub/issues/817) |
 | Use icons instead of emojis | Medium | [#816](https://github.com/Premkolte/AnimateHub/issues/816) |
-| Refactor Modal component so it closes when clicked outside | Medium | [#815](https://github.com/Premkolte/AnimateHub/pull/815) |
-| Replace faTwitter icon with faXTwitter in AboutUs component | Medium | [#814](https://github.com/Premkolte/AnimateHub/pull/814) |
-| Add navigation links to contribution options in About page | Medium | [#813](https://github.com/Premkolte/AnimateHub/pull/813) |
-| changing the color contributers name in dark mode in leaderboard section | Medium | [#812](https://github.com/Premkolte/AnimateHub/issues/812) |
-| Adding hover effect in challenge section | Medium | [#811](https://github.com/Premkolte/AnimateHub/issues/811) |
 | Leaderboard contributor names not visible in dark mode | Medium | [#805](https://github.com/Premkolte/AnimateHub/issues/805) |
 | Flexbox Playground input text not visible in dark mode | Medium | [#804](https://github.com/Premkolte/AnimateHub/issues/804) |
 | 🚨 Important Admin Notice 🚨 | Medium | [#662](https://github.com/Premkolte/AnimateHub/issues/662) |
@@ -1203,7 +1259,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Map view | Medium | [#228](https://github.com/shandilya-rajnandini/DocAtHome/pull/228) |
-| Implement Automated Fraud Detection for Professional Sign-ups | Medium | [#227](https://github.com/shandilya-rajnandini/DocAtHome/pull/227) |
 | Set up CI pipeline and fix failing auth tests | Medium | [#219](https://github.com/shandilya-rajnandini/DocAtHome/pull/219) |
 | Reintroduce Skeleton placeholders for loading states in Appointments, Search Doctor, and Doctor Appointment pages | Medium | [#207](https://github.com/shandilya-rajnandini/DocAtHome/pull/207) |
 | added lab-test-status | Medium | [#205](https://github.com/shandilya-rajnandini/DocAtHome/pull/205) |
@@ -1211,6 +1266,7 @@ Fast Workflow Tools
 | Feature/recently viewed doctors | Medium | [#203](https://github.com/shandilya-rajnandini/DocAtHome/pull/203) |
 | Enhance Theme Colors & Improve UX for Better Visual Consistency | Medium | [#202](https://github.com/shandilya-rajnandini/DocAtHome/pull/202) |
 | feat: Add autocomplete search filters for Specialty and City | Medium | [#200](https://github.com/shandilya-rajnandini/DocAtHome/pull/200) |
+| Migrate from Context API to a Zustand Store | Medium | [#147](https://github.com/shandilya-rajnandini/DocAtHome/pull/147) |
 
 ---
 
