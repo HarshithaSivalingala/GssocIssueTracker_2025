@@ -14,8 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix #1333: added validation for feedback form | Medium | [#1367](https://github.com/vishanurag/Canvas-Editor/pull/1367) |
-| Create and Link "Terms & Conditions" Page | Medium | [#1366](https://github.com/vishanurag/Canvas-Editor/issues/1366) |
 | chatbot using LLM | Medium | [#1365](https://github.com/vishanurag/Canvas-Editor/pull/1365) |
 
 ---
@@ -38,12 +36,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Footer links not directing to respective pages on Learn More page | Medium | [#615](https://github.com/gyanshankar1708/GrowCraft/issues/615) |
-| Navbar not properly styled on Our Work page (affects both Dark and Light modes) | Medium | [#614](https://github.com/gyanshankar1708/GrowCraft/issues/614) |
-| Pages not directing properly on FAQ page | Medium | [#613](https://github.com/gyanshankar1708/GrowCraft/issues/613) |
-| Navbar styling inconsistent on FAQ page | Medium | [#612](https://github.com/gyanshankar1708/GrowCraft/issues/612) |
-| Navbar styling inconsistency on About page | Medium | [#611](https://github.com/gyanshankar1708/GrowCraft/issues/611) |
-| Search bar not working properly in Blog page | Medium | [#610](https://github.com/gyanshankar1708/GrowCraft/issues/610) |
+| fix:add a service card | Medium | [#643](https://github.com/gyanshankar1708/GrowCraft/pull/643) |
+| Portfolio link not working properly on Digital Marketing page | Medium | [#642](https://github.com/gyanshankar1708/GrowCraft/issues/642) |
+| Footer links not working properly on Portfolio page | Medium | [#641](https://github.com/gyanshankar1708/GrowCraft/issues/641) |
+| Form submission breaks due to undefined showSuccessMessage | Medium | [#640](https://github.com/gyanshankar1708/GrowCraft/issues/640) |
+| Alphabets in number | Medium | [#639](https://github.com/gyanshankar1708/GrowCraft/issues/639) |
+| graphic design page does not have theme toggle button | Medium | [#638](https://github.com/gyanshankar1708/GrowCraft/issues/638) |
+| content writing page does not have theme toggle button | Medium | [#637](https://github.com/gyanshankar1708/GrowCraft/issues/637) |
+| Feature Request: Add Word Limit in Feedback and Reviews Section | Medium | [#634](https://github.com/gyanshankar1708/GrowCraft/issues/634) |
+| Bug: Footer Color and Alignment Issue on Contact Us Page | Medium | [#633](https://github.com/gyanshankar1708/GrowCraft/issues/633) |
+| FAQ Page Toggle Mode Not Working | Medium | [#629](https://github.com/gyanshankar1708/GrowCraft/issues/629) |
+| FAQ Page Navigation and Links Not Working | Medium | [#628](https://github.com/gyanshankar1708/GrowCraft/issues/628) |
+| FAQ Accordion Not Showing Answers | Medium | [#627](https://github.com/gyanshankar1708/GrowCraft/issues/627) |
+| Read More Button Not Functional on Services Page | Medium | [#624](https://github.com/gyanshankar1708/GrowCraft/issues/624) |
+| Navbar Styling Missing on About Us Page | Medium | [#623](https://github.com/gyanshankar1708/GrowCraft/issues/623) |
+| Explore Page Styling Misalignment | Medium | [#622](https://github.com/gyanshankar1708/GrowCraft/issues/622) |
+| static chatbot integrated | Medium | [#618](https://github.com/gyanshankar1708/GrowCraft/pull/618) |
 | Added Careers page | Medium | [#599](https://github.com/gyanshankar1708/GrowCraft/pull/599) |
 
 ---
@@ -84,6 +92,24 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
+
+---
+
+## 📌 Project: sachiva
+
+📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
+
+🔗 [View Project](https://github.com/sachiva1/sachiva)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Update Logos | Medium | [#271](https://github.com/sachiva1/sachiva/pull/271) |
 
 ---
 
