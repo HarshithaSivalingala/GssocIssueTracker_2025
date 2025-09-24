@@ -42,6 +42,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: "Community" icon not visble on light theme | Medium | [#309](https://github.com/Ayushjhawar8/Flavor-ai/pull/309) |
 | Resolve .dockerignore conflict and update README | Medium | [#300](https://github.com/Ayushjhawar8/Flavor-ai/pull/300) |
 | Master | Medium | [#297](https://github.com/Ayushjhawar8/Flavor-ai/pull/297) |
 
@@ -99,6 +100,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Optimize `server.js` for Better Readability & Maintainability | Medium | [#570](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/570) |
+| Optimize getInstitutionDashboard for readability and consistency | Medium | [#569](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/569) |
+| Optimize interviewExperienceController.js for better readability and maintainability | Medium | [#568](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/568) |
+| Optimize jobController.js for consistency and maintainability | Medium | [#567](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/567) |
+| Optimize settingsController.js for better readability and maintainability | Medium | [#566](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/566) |
 | Restructure & Modernize Coding Section in Student Dashboard | Medium | [#565](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/565) |
 | Add z-index to icons in AuthPage for improved layering | Medium | [#564](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/564) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
