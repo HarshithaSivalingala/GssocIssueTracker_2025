@@ -23,6 +23,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
+| Resource Sharing Section: A “library” where mentors can upload PDFs, links, or videos for mentees. | Medium | [#66](https://github.com/Menthub-GSSoC/Menthub/issues/66) |
+| Enchancement: The UI/UX of the homepage | Medium | [#65](https://github.com/Menthub-GSSoC/Menthub/issues/65) |
 | ML Model for the profile based matching system | Medium | [#64](https://github.com/Menthub-GSSoC/Menthub/issues/64) |
 | ⚙️:Add Unit & Integration Test Suite | Medium | [#63](https://github.com/Menthub-GSSoC/Menthub/issues/63) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
@@ -33,8 +36,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
-| Prevent Duplicate Mentorship Requests (mentee_id + mentor_id) | Medium | [#23](https://github.com/Menthub-GSSoC/Menthub/issues/23) |
-| Contributor for Contribution | Medium | [#22](https://github.com/Menthub-GSSoC/Menthub/issues/22) |
 
 ---
 
@@ -60,11 +61,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| oauth via google not working | Medium | [#158](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/158) |
-| Removal of redundant Procfile | Medium | [#157](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/157) |
 | Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
-| Lock scroll & trap focus in “Select Your Role” modal | Medium | [#151](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/151) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
@@ -176,6 +174,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Optimize `server.js` for Better Readability & Maintainability | Medium | [#570](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/570) |
+| Optimize getInstitutionDashboard for readability and consistency | Medium | [#569](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/569) |
+| Optimize interviewExperienceController.js for better readability and maintainability | Medium | [#568](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/568) |
+| Optimize jobController.js for consistency and maintainability | Medium | [#567](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/567) |
+| Optimize settingsController.js for better readability and maintainability | Medium | [#566](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/566) |
 | Restructure & Modernize Coding Section in Student Dashboard | Medium | [#565](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/565) |
 | Add z-index to icons in AuthPage for improved layering | Medium | [#564](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/564) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
@@ -196,12 +199,13 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added menubar | Medium | [#355](https://github.com/omroy07/AgriTech/pull/355) |
-| Header UI Improvement – Logo Not Visible | Medium | [#354](https://github.com/omroy07/AgriTech/issues/354) |
+| Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
+| Make Website Mobile Responsive | Medium | [#357](https://github.com/omroy07/AgriTech/issues/357) |
 | Add Background Visuals to Landing Page | Medium | [#352](https://github.com/omroy07/AgriTech/issues/352) |
 | Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
 | Fixed Chat text visble or Edittext ui | Medium | [#346](https://github.com/omroy07/AgriTech/pull/346) |
 | Organise folder structure | Medium | [#331](https://github.com/omroy07/AgriTech/issues/331) |
+| Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
 
 ---
 
@@ -265,7 +269,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Add Mood Tracker or Calendar View for Visualizing Logs | Medium | [#187](https://github.com/openml-stack/SentiLog-AI/issues/187) |
 | Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
-| Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
 
 ---
 
@@ -393,7 +396,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added the privacy policy and terms and conditions sections | Medium | [#48](https://github.com/AKing-283/Rewear/pull/48) |
+| Added the FAQ section | Medium | [#49](https://github.com/AKing-283/Rewear/pull/49) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
 
 ---
