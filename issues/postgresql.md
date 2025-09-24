@@ -50,6 +50,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
+| Resource Sharing Section: A “library” where mentors can upload PDFs, links, or videos for mentees. | Medium | [#66](https://github.com/Menthub-GSSoC/Menthub/issues/66) |
+| Enchancement: The UI/UX of the homepage | Medium | [#65](https://github.com/Menthub-GSSoC/Menthub/issues/65) |
 | ML Model for the profile based matching system | Medium | [#64](https://github.com/Menthub-GSSoC/Menthub/issues/64) |
 | ⚙️:Add Unit & Integration Test Suite | Medium | [#63](https://github.com/Menthub-GSSoC/Menthub/issues/63) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
@@ -60,8 +63,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
-| Prevent Duplicate Mentorship Requests (mentee_id + mentor_id) | Medium | [#23](https://github.com/Menthub-GSSoC/Menthub/issues/23) |
-| Contributor for Contribution | Medium | [#22](https://github.com/Menthub-GSSoC/Menthub/issues/22) |
 
 ---
 
@@ -138,7 +139,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Comprehensive Error Handling in ForgotPasswordPage | Medium | [#111](https://github.com/Er-luffy-D/SimplifAI/pull/111) |
 | Add dark mode toggle, update card styles, and tailwind config | Medium | [#103](https://github.com/Er-luffy-D/SimplifAI/pull/103) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
@@ -340,7 +340,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update readme file | Easy | [#250](https://github.com/SandeepVashishtha/Eventra/issues/250) |
 | Missing Role Selection Field in React Signup Form | Medium | [#248](https://github.com/SandeepVashishtha/Eventra/issues/248) |
 
 ---
