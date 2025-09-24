@@ -145,6 +145,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
+| Improve Job Listing Page with Pagination & Search Filters | Medium | [#227](https://github.com/Khushi-Nigam/jobportal/issues/227) |
+| Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
+| Add Forgot Password / Password Reset Feature | Medium | [#225](https://github.com/Khushi-Nigam/jobportal/issues/225) |
 | Added Github Actions ci to check django syntax and configuration | Medium | [#224](https://github.com/Khushi-Nigam/jobportal/pull/224) |
 | Redirect to login after registration #221 | Medium | [#222](https://github.com/Khushi-Nigam/jobportal/pull/222) |
 | Redirect to Login Page After Successful Job Seeker Registration | Medium | [#221](https://github.com/Khushi-Nigam/jobportal/issues/221) |
