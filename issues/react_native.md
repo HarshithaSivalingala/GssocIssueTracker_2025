@@ -44,6 +44,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| about us page | Medium | [#27](https://github.com/SyedImtiyaz-1/Swapify/issues/27) |
 | Revamp the chats page | Medium | [#26](https://github.com/SyedImtiyaz-1/Swapify/issues/26) |
 | ⭐ Feature: Add “Saved Listings” Section | Medium | [#25](https://github.com/SyedImtiyaz-1/Swapify/issues/25) |
 | 🚩 Feature: Add “Report Listing” Option | Medium | [#24](https://github.com/SyedImtiyaz-1/Swapify/issues/24) |
@@ -76,6 +77,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Pull request template | Medium | [#90](https://github.com/LarytheLord/Adventurers-Guild/pull/90) |
+| Performance | Medium | [#89](https://github.com/LarytheLord/Adventurers-Guild/pull/89) |
+| Added documentation | Medium | [#88](https://github.com/LarytheLord/Adventurers-Guild/pull/88) |
 | Add missing files in .github | Medium | [#86](https://github.com/LarytheLord/Adventurers-Guild/issues/86) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
