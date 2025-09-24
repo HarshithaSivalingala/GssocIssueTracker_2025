@@ -70,7 +70,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#31](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/31) |
+| SECURITY.md | Medium | [#32](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/32) |
 
 ---
 
