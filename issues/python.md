@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added scroll-triggered animations to Features ,homepage and how it works and adjusted padding/margin in Docs page | Medium | [#8](https://github.com/krit-vardhan-mishra/SmartC.V./pull/8) |
 | Added Roadmap and Contributing sections in README | Medium | [#7](https://github.com/krit-vardhan-mishra/SmartC.V./pull/7) |
 | Update keyword_match.py | Medium | [#5](https://github.com/krit-vardhan-mishra/SmartC.V./pull/5) |
 | feat: Implement complete Resume API with MongoDB integration | Medium | [#2](https://github.com/krit-vardhan-mishra/SmartC.V./pull/2) |
@@ -199,6 +200,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
+| Resource Sharing Section: A “library” where mentors can upload PDFs, links, or videos for mentees. | Medium | [#66](https://github.com/Menthub-GSSoC/Menthub/issues/66) |
+| Enchancement: The UI/UX of the homepage | Medium | [#65](https://github.com/Menthub-GSSoC/Menthub/issues/65) |
 | ML Model for the profile based matching system | Medium | [#64](https://github.com/Menthub-GSSoC/Menthub/issues/64) |
 | ⚙️:Add Unit & Integration Test Suite | Medium | [#63](https://github.com/Menthub-GSSoC/Menthub/issues/63) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
@@ -209,8 +213,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
-| Prevent Duplicate Mentorship Requests (mentee_id + mentor_id) | Medium | [#23](https://github.com/Menthub-GSSoC/Menthub/issues/23) |
-| Contributor for Contribution | Medium | [#22](https://github.com/Menthub-GSSoC/Menthub/issues/22) |
 
 ---
 
@@ -265,11 +267,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| oauth via google not working | Medium | [#158](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/158) |
-| Removal of redundant Procfile | Medium | [#157](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/157) |
 | Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
-| Lock scroll & trap focus in “Select Your Role” modal | Medium | [#151](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/151) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
@@ -319,7 +318,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#31](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/31) |
+| SECURITY.md | Medium | [#32](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/32) |
 
 ---
 
@@ -512,6 +511,10 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
+| Improve Job Listing Page with Pagination & Search Filters | Medium | [#227](https://github.com/Khushi-Nigam/jobportal/issues/227) |
+| Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
+| Add Forgot Password / Password Reset Feature | Medium | [#225](https://github.com/Khushi-Nigam/jobportal/issues/225) |
 | Added Github Actions ci to check django syntax and configuration | Medium | [#224](https://github.com/Khushi-Nigam/jobportal/pull/224) |
 | Redirect to login after registration #221 | Medium | [#222](https://github.com/Khushi-Nigam/jobportal/pull/222) |
 | Redirect to Login Page After Successful Job Seeker Registration | Medium | [#221](https://github.com/Khushi-Nigam/jobportal/issues/221) |
@@ -560,6 +563,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Optimize `server.js` for Better Readability & Maintainability | Medium | [#570](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/570) |
+| Optimize getInstitutionDashboard for readability and consistency | Medium | [#569](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/569) |
+| Optimize interviewExperienceController.js for better readability and maintainability | Medium | [#568](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/568) |
+| Optimize jobController.js for consistency and maintainability | Medium | [#567](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/567) |
+| Optimize settingsController.js for better readability and maintainability | Medium | [#566](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/566) |
 | Restructure & Modernize Coding Section in Student Dashboard | Medium | [#565](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/565) |
 | Add z-index to icons in AuthPage for improved layering | Medium | [#564](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/564) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
@@ -580,12 +588,13 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added menubar | Medium | [#355](https://github.com/omroy07/AgriTech/pull/355) |
-| Header UI Improvement – Logo Not Visible | Medium | [#354](https://github.com/omroy07/AgriTech/issues/354) |
+| Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
+| Make Website Mobile Responsive | Medium | [#357](https://github.com/omroy07/AgriTech/issues/357) |
 | Add Background Visuals to Landing Page | Medium | [#352](https://github.com/omroy07/AgriTech/issues/352) |
 | Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
 | Fixed Chat text visble or Edittext ui | Medium | [#346](https://github.com/omroy07/AgriTech/pull/346) |
 | Organise folder structure | Medium | [#331](https://github.com/omroy07/AgriTech/issues/331) |
+| Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
 
 ---
 
@@ -672,6 +681,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement UI Tests (End-to-End/Acceptance Tests) #19 | Medium | [#102](https://github.com/ProTecGames/Karbon/pull/102) |
 | added UI end-to-end tests for example prompts and output panel | Medium | [#98](https://github.com/ProTecGames/Karbon/pull/98) |
 | Feature | Medium | [#90](https://github.com/ProTecGames/Karbon/pull/90) |
 | JSON parsing in ai_engine.py | Medium | [#82](https://github.com/ProTecGames/Karbon/pull/82) |
@@ -720,6 +730,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added beginner-friendly EDA on Titanic dataset | Easy | [#540](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/540) |
+| Agricultural Dashboard: Complete UI/UX Transformation with Advanced Features | Medium | [#726](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/726) |
+| 🚨 CRITICAL: Agricultural Crop Recommendation System Lacks Professional UI, Advanced Features, and Production-Ready Architecture for Real-World Farmer Adoption | Medium | [#725](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/725) |
+| Add SMS spam detector model | Medium | [#724](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/724) |
 | Pull Request : Crude Oil Price Prediction Project | Medium | [#723](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/723) |
 | Crude Oil Price Prediction using Machine Learning | Medium | [#722](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/722) |
 | Pull Request : Credit Risk Prediction Project | Medium | [#721](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/721) |
@@ -728,8 +741,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add Company Bankruptcy Prediction Project | Medium | [#718](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/718) |
 | Pull Request : Beta-Weighted Stock Portfolio Project | Medium | [#717](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/717) |
 | Add Beta-Weighted Stock Portfolio Project | Medium | [#716](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/716) |
-| Added Crop Yield Prediction ANN project files | Medium | [#711](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/711) |
-| Add comment classification | Medium | [#710](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/710) |
 | Fake review clean | Medium | [#663](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/663) |
 | Enhancement / Contribution Suggestion for Synthetic Liver Cancer Dataset | Medium | [#529](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/529) |
 | Added Streamlit Web App Interface for Email Classifier + Updated Notebook with Model Saving (#358) | Medium | [#497](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/497) |
@@ -872,12 +883,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Knowledge Base UI and Search Issues in Self Help Tools | Medium | [#278](https://github.com/eccentriccoder01/TalkHeal/issues/278) |
 | Implement Passive Symptom Tracking with Wearables | Medium | [#178](https://github.com/eccentriccoder01/TalkHeal/issues/178) |
 | Implement AI-Guided CBT/DBT Modules | Medium | [#172](https://github.com/eccentriccoder01/TalkHeal/issues/172) |
 | Add Dark Mode & High-Contrast Theme for Accessibility | Medium | [#147](https://github.com/eccentriccoder01/TalkHeal/issues/147) |
 | Session Persistence – Clarification | Medium | [#129](https://github.com/eccentriccoder01/TalkHeal/issues/129) |
 | Add Multi Language Support | Medium | [#120](https://github.com/eccentriccoder01/TalkHeal/issues/120) |
-| Enhance Emotion Detection with Specialized Transformer Model | Medium | [#89](https://github.com/eccentriccoder01/TalkHeal/pull/89) |
 
 ---
 
@@ -1141,6 +1152,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding  Image Resizer Project | Medium | [#1804](https://github.com/UTSAVS26/PyVerse/pull/1804) |
 | New Web development Project : 🎨 Pixel Color Detector | Medium | [#1803](https://github.com/UTSAVS26/PyVerse/issues/1803) |
 | New  Advanced Project Proposal: "Image Resizer (GUI)" | Medium | [#1802](https://github.com/UTSAVS26/PyVerse/issues/1802) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
@@ -1778,7 +1790,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Enhancement: Advanced Conversation Memory & Modern UI for Symptom Checker | Medium | [#72](https://github.com/CharithaReddy18/AI-health-chatbot/issues/72) |
+| Added readme for frontend | Medium | [#76](https://github.com/CharithaReddy18/AI-health-chatbot/pull/76) |
+| Create Comprehensive Healthcare Information Hub Landing Page | Medium | [#75](https://github.com/CharithaReddy18/AI-health-chatbot/issues/75) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
@@ -1861,7 +1874,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added the privacy policy and terms and conditions sections | Medium | [#48](https://github.com/AKing-283/Rewear/pull/48) |
+| Added the FAQ section | Medium | [#49](https://github.com/AKing-283/Rewear/pull/49) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
 
 ---
