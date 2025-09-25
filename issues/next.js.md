@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
 | Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
@@ -53,6 +54,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(UI): Add responsive header navigation with links | Medium | [#88](https://github.com/AdityaRalhan/Aluma/pull/88) |
 | Bug: Suggestions Logic & Validation Issues in Assessment Controller | Medium | [#87](https://github.com/AdityaRalhan/Aluma/issues/87) |
 | NLP Keyword/Topic Extraction for User Journals | Medium | [#86](https://github.com/AdityaRalhan/Aluma/issues/86) |
 | Add Social Login Options on Signup Page | Medium | [#85](https://github.com/AdityaRalhan/Aluma/issues/85) |
@@ -93,9 +95,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(frontend): add AI Question Paper Generator card and form | Medium | [#115](https://github.com/huamanraj/aitoolbox.software/pull/115) |
 | feat: add comprehensive dark mode support | Medium | [#114](https://github.com/huamanraj/aitoolbox.software/pull/114) |
 | Add social links in footer | Medium | [#112](https://github.com/huamanraj/aitoolbox.software/issues/112) |
-| UI/UX Consistency and Navigation Enhancements | Medium | [#102](https://github.com/huamanraj/aitoolbox.software/issues/102) |
 | landing page | Medium | [#94](https://github.com/huamanraj/aitoolbox.software/issues/94) |
 | Improve mobile layout: Single column grid feels empty, suggest 2-box layout | Medium | [#92](https://github.com/huamanraj/aitoolbox.software/issues/92) |
 | Translator overflow off-screen, Missing placeholder text & No copy notification. | Medium | [#59](https://github.com/huamanraj/aitoolbox.software/issues/59) |
@@ -155,6 +157,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | test(frontend): migrate to Jest v30, bump @types/jest, add VM modules… | Medium | [#2304](https://github.com/OWASP/Nest/pull/2304) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
@@ -164,7 +168,6 @@
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 | Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
-| Implement calendar events scheduling | Medium | [#2211](https://github.com/OWASP/Nest/pull/2211) |
 | Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 | Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 
@@ -184,9 +187,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: "Community" icon not visble on light theme | Medium | [#309](https://github.com/Ayushjhawar8/Flavor-ai/pull/309) |
-| Resolve .dockerignore conflict and update README | Medium | [#300](https://github.com/Ayushjhawar8/Flavor-ai/pull/300) |
-| Master | Medium | [#297](https://github.com/Ayushjhawar8/Flavor-ai/pull/297) |
+| Festive dish search fixed | Medium | [#311](https://github.com/Ayushjhawar8/Flavor-ai/pull/311) |
+| Describe the problem | Hard | [#312](https://github.com/Ayushjhawar8/Flavor-ai/issues/312) |
 
 ---
 
@@ -204,6 +206,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Add Chatbot for user assistance | Medium | [#119](https://github.com/AyushSharma72/Skill_Trade/issues/119) |
+| Feature Request: Add Service section with interactive features | Medium | [#118](https://github.com/AyushSharma72/Skill_Trade/issues/118) |
+| Feature Request: Add a Blog section to the website | Medium | [#117](https://github.com/AyushSharma72/Skill_Trade/issues/117) |
 | "Enhance UI: Add Hover Effect to Testimonial Cards in 'What Our Users Say' Section" | Medium | [#116](https://github.com/AyushSharma72/Skill_Trade/issues/116) |
 | Add Code of Conduct | Medium | [#115](https://github.com/AyushSharma72/Skill_Trade/issues/115) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#114](https://github.com/AyushSharma72/Skill_Trade/issues/114) |
@@ -322,6 +327,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat/language-change setup | Medium | [#245](https://github.com/mansiruhil/fail-u-forward/pull/245) |
 | About Page UI enhancement | Medium | [#242](https://github.com/mansiruhil/fail-u-forward/issues/242) |
 | Add GSSoC Banner to README | Medium | [#241](https://github.com/mansiruhil/fail-u-forward/pull/241) |
 | Enhance Favicon Implementation for Better Cross-Platform Support and Brand Recognition | Medium | [#238](https://github.com/mansiruhil/fail-u-forward/issues/238) |
@@ -420,6 +426,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Flowcharts and strong password generator | Medium | [#114](https://github.com/Er-luffy-D/SimplifAI/issues/114) |
+| added DOCX file support with mammoth parser | Medium | [#113](https://github.com/Er-luffy-D/SimplifAI/pull/113) |
 | Add dark mode toggle, update card styles, and tailwind config | Medium | [#103](https://github.com/Er-luffy-D/SimplifAI/pull/103) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
@@ -534,7 +542,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [Feature]: GitHub Workflow | Medium | [#600](https://github.com/recodehive/recode-website/issues/600) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -553,8 +560,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| hover aniamtion added on the dropdown buttons of sheet section | Medium | [#369](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/369) |
+| updated botwidget responsiveness for smartphones screens | Medium | [#367](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/367) |
 | Adding a image slider | Medium | [#364](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/364) |
-| Hover animation added to the button | Medium | [#363](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/363) |
 | feat: Add progress dashboard with ML-based topic categorization | Medium | [#359](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/359) |
 | Nav bar responsiveness | Medium | [#358](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/358) |
 | Enhance pwa manifest and favicon system for better scalability and performance | Medium | [#357](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/357) |
@@ -563,7 +571,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Add enhancement to DSA sheet page #335 | Medium | [#352](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/352) |
 | Misaligned icons overlapping the text on the Footer | Medium | [#344](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/344) |
 | Improvement: Updated bot size and positioning, move 'Report Problem' link… | Medium | [#332](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/332) |
-| Issue #315 completed please merge the pull request | Medium | [#320](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/320) |
 | Improved visibility of Terms of Service and Privacy Policy button | Medium | [#312](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/312) |
 
 ---
@@ -666,6 +673,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Added Profile Page to manage user profile | Medium | [#103](https://github.com/sristy17/next-payroll/pull/103) |
 | fix css | Medium | [#102](https://github.com/sristy17/next-payroll/issues/102) |
 | Fix/add payment page validation | Medium | [#101](https://github.com/sristy17/next-payroll/pull/101) |
 | Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
@@ -798,10 +806,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Pull request template | Medium | [#90](https://github.com/LarytheLord/Adventurers-Guild/pull/90) |
-| Performance | Medium | [#89](https://github.com/LarytheLord/Adventurers-Guild/pull/89) |
-| Added documentation | Medium | [#88](https://github.com/LarytheLord/Adventurers-Guild/pull/88) |
-| Add missing files in .github | Medium | [#86](https://github.com/LarytheLord/Adventurers-Guild/issues/86) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -1062,6 +1066,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Easy | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
+| feat: Implement dark mode, auth state UI, and enhanced login form | Medium | [#36](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/36) |
+| Quantity Buttons, Add to Cart, and Checkout Not Functional on Product and Cart Pages | Medium | [#34](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/34) |
 | feat(homepage): add email subscription form with validation | Medium | [#32](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/32) |
 | Add contact page and link in footer | Medium | [#31](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/31) |
 | feat(uiux): add product data and component for ecommerce ui | Medium | [#30](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/30) |
@@ -1103,8 +1109,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed the hero file again | Medium | [#47](https://github.com/muskan-fatim/Tech_event/pull/47) |
 | Hero div fix | Medium | [#46](https://github.com/muskan-fatim/Tech_event/pull/46) |
 | Add event category filtering | Medium | [#45](https://github.com/muskan-fatim/Tech_event/pull/45) |
+| Fix all issue | Hard | [#48](https://github.com/muskan-fatim/Tech_event/pull/48) |
 
 ---
 
@@ -1142,7 +1150,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend Routes Updated | Easy | [#110](https://github.com/Axelvyn/Nexara/pull/110) |
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
@@ -1184,6 +1191,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Medium | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
+| FEATURE: Voice Input for PrivGPT Studio | Medium | [#106](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/106) |
 | Added page | Medium | [#105](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/105) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
@@ -1423,6 +1432,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| “Align all CTA buttons (‘Get Started’, ‘Upgrade to Pro’, ‘Talk to Sales’) for consistent and professional layout” | Medium | [#194](https://github.com/vatsal-bhakodia/smriti-ai/issues/194) |
 | fix: prevent back-to-top button from overlapping footer | Medium | [#193](https://github.com/vatsal-bhakodia/smriti-ai/pull/193) |
 | fixed the blogs route in the footer | Medium | [#192](https://github.com/vatsal-bhakodia/smriti-ai/pull/192) |
 | feat: Add dark-to-light transitions for form inputs | Medium | [#191](https://github.com/vatsal-bhakodia/smriti-ai/pull/191) |
