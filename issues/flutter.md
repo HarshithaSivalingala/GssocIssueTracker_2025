@@ -110,9 +110,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed the workflow | Medium | [#101](https://github.com/may-tas/TextEditingApp/pull/101) |
-| feat: drawing canvas with brush tool (Fixes #93) | Medium | [#98](https://github.com/may-tas/TextEditingApp/pull/98) |
-| feat: centralize color management with const-compatible ColorConstants class and comprehensive documentation | Medium | [#95](https://github.com/may-tas/TextEditingApp/pull/95) |
 | Improve Text Shadow & Glow | Medium | [#74](https://github.com/may-tas/TextEditingApp/issues/74) |
 
 ---
