@@ -121,6 +121,7 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/sayan0328/WallGodds-App/issues/47) |
+| [UPLOAD PAGE] INSTRUCTIONAL SNACKBAR | Easy | [#45](https://github.com/sayan0328/WallGodds-App/issues/45) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
 
 ---
@@ -144,7 +145,6 @@ User Profile: BMI calculator and fitness analytics.
 | Shop_Owner Profile | Medium | [#456](https://github.com/yuvrajsinghgmx/ShopSmart/issues/456) |
 | Implement Cart replacing the Search in Customer Navigation | Medium | [#455](https://github.com/yuvrajsinghgmx/ShopSmart/issues/455) |
 | Master Issue for tracking Compose Dev. | Medium | [#454](https://github.com/yuvrajsinghgmx/ShopSmart/issues/454) |
-| Isssues in admin panel | Medium | [#453](https://github.com/yuvrajsinghgmx/ShopSmart/issues/453) |
 | Search bar with voice search integration and UI enhancement | Medium | [#447](https://github.com/yuvrajsinghgmx/ShopSmart/pull/447) |
 | Product category filter list is not functional | Medium | [#435](https://github.com/yuvrajsinghgmx/ShopSmart/issues/435) |
 | Search bar on top of home screen is not functional | Medium | [#434](https://github.com/yuvrajsinghgmx/ShopSmart/issues/434) |
