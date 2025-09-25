@@ -61,6 +61,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| removed redundant procfile | Medium | [#159](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/159) |
 | Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
@@ -174,14 +175,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Optimize `server.js` for Better Readability & Maintainability | Medium | [#570](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/570) |
-| Optimize getInstitutionDashboard for readability and consistency | Medium | [#569](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/569) |
-| Optimize interviewExperienceController.js for better readability and maintainability | Medium | [#568](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/568) |
-| Optimize jobController.js for consistency and maintainability | Medium | [#567](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/567) |
-| Optimize settingsController.js for better readability and maintainability | Medium | [#566](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/566) |
-| Restructure & Modernize Coding Section in Student Dashboard | Medium | [#565](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/565) |
-| Add z-index to icons in AuthPage for improved layering | Medium | [#564](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/564) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -199,13 +194,13 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixes #351: Added Services Section | Medium | [#362](https://github.com/omroy07/AgriTech/pull/362) |
+| Added button enhancements | Medium | [#360](https://github.com/omroy07/AgriTech/pull/360) |
 | Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
-| Make Website Mobile Responsive | Medium | [#357](https://github.com/omroy07/AgriTech/issues/357) |
 | Add Background Visuals to Landing Page | Medium | [#352](https://github.com/omroy07/AgriTech/issues/352) |
 | Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
 | Fixed Chat text visble or Edittext ui | Medium | [#346](https://github.com/omroy07/AgriTech/pull/346) |
 | Organise folder structure | Medium | [#331](https://github.com/omroy07/AgriTech/issues/331) |
-| Dark mode not persisting across pages | Medium | [#271](https://github.com/omroy07/AgriTech/issues/271) |
 
 ---
 
@@ -255,6 +250,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added "Show/Hide Password" Eye Icon in Signup and login form | Medium | [#244](https://github.com/openml-stack/SentiLog-AI/pull/244) |
+| SignIn and SignUp is not working...I would like to add OTP verification | Medium | [#243](https://github.com/openml-stack/SentiLog-AI/issues/243) |
 | Sign in not working | Medium | [#241](https://github.com/openml-stack/SentiLog-AI/issues/241) |
 | Visual Improvement for the Dashboard page | Medium | [#240](https://github.com/openml-stack/SentiLog-AI/issues/240) |
 | Help Center Page is missing | Medium | [#239](https://github.com/openml-stack/SentiLog-AI/issues/239) |
@@ -415,6 +412,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Medium | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
+| FEATURE: Voice Input for PrivGPT Studio | Medium | [#106](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/106) |
 | Added page | Medium | [#105](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/105) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
