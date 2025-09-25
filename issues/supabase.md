@@ -113,7 +113,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a navbar for easy section accessing | Medium | [#21](https://github.com/byteom/Interview01/issues/21) |
+| 17: Implement functional search bar on homepage | Medium | [#26](https://github.com/byteom/Interview01/pull/26) |
+| Add a Navbar for Easy Section Access: | Medium | [#24](https://github.com/byteom/Interview01/issues/24) |
+| Enhance Stats & Testimonials with Engaging Animations | Medium | [#23](https://github.com/byteom/Interview01/issues/23) |
+| testing | Medium | [#22](https://github.com/byteom/Interview01/issues/22) |
 | Adding CONTRIBUTING.md | Medium | [#20](https://github.com/byteom/Interview01/issues/20) |
 | Add Scroll to top button | Medium | [#19](https://github.com/byteom/Interview01/issues/19) |
 | Search bar is non-functional | Medium | [#17](https://github.com/byteom/Interview01/issues/17) |
@@ -145,6 +148,7 @@
 |----------|----------------|---------|
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Added Profile Page to manage user profile | Medium | [#103](https://github.com/sristy17/next-payroll/pull/103) |
 | fix css | Medium | [#102](https://github.com/sristy17/next-payroll/issues/102) |
 | Fix/add payment page validation | Medium | [#101](https://github.com/sristy17/next-payroll/pull/101) |
 | Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
@@ -167,10 +171,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Pull request template | Medium | [#90](https://github.com/LarytheLord/Adventurers-Guild/pull/90) |
-| Performance | Medium | [#89](https://github.com/LarytheLord/Adventurers-Guild/pull/89) |
-| Added documentation | Medium | [#88](https://github.com/LarytheLord/Adventurers-Guild/pull/88) |
-| Add missing files in .github | Medium | [#86](https://github.com/LarytheLord/Adventurers-Guild/issues/86) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -210,13 +210,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.23.19 | Medium | [#120](https://github.com/Ojas-Arora/SapneSeSafar/pull/120) |
+| Bump react-router-dom from 6.28.2 to 7.9.2 | Medium | [#122](https://github.com/Ojas-Arora/SapneSeSafar/pull/122) |
+| Bump framer-motion from 11.18.2 to 12.23.21 | Medium | [#121](https://github.com/Ojas-Arora/SapneSeSafar/pull/121) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.21 | Medium | [#119](https://github.com/Ojas-Arora/SapneSeSafar/pull/119) |
 | Bump vite from 5.4.17 to 7.1.7 | Medium | [#118](https://github.com/Ojas-Arora/SapneSeSafar/pull/118) |
 | Bump eslint from 9.12.0 to 9.36.0 | Medium | [#114](https://github.com/Ojas-Arora/SapneSeSafar/pull/114) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.3 | Medium | [#111](https://github.com/Ojas-Arora/SapneSeSafar/pull/111) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
-| Bump react-router-dom from 6.28.2 to 7.9.1 | Medium | [#107](https://github.com/Ojas-Arora/SapneSeSafar/pull/107) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
 | Bump lucide-react from 0.344.0 to 0.544.0 | Medium | [#103](https://github.com/Ojas-Arora/SapneSeSafar/pull/103) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.57.4 | Medium | [#99](https://github.com/Ojas-Arora/SapneSeSafar/pull/99) |
