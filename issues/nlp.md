@@ -14,8 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added readme for frontend | Medium | [#76](https://github.com/CharithaReddy18/AI-health-chatbot/pull/76) |
-| Create Comprehensive Healthcare Information Hub Landing Page | Medium | [#75](https://github.com/CharithaReddy18/AI-health-chatbot/issues/75) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
