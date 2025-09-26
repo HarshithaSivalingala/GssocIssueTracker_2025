@@ -14,9 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| issue and pull request template | Medium | [#144](https://github.com/abhisek247767/PeopleHub-Frontend/issues/144) |
-| UI Enhancement (Footer & Navbar Improvements) | Medium | [#143](https://github.com/abhisek247767/PeopleHub-Frontend/issues/143) |
-| Improve README with backend integration steps and screenshots | Medium | [#142](https://github.com/abhisek247767/PeopleHub-Frontend/issues/142) |
+| Login with different role | Medium | [#146](https://github.com/abhisek247767/PeopleHub-Frontend/pull/146) |
+| feat: add role-based login option (Admin & Super-admin support) | Medium | [#145](https://github.com/abhisek247767/PeopleHub-Frontend/pull/145) |
 
 ---
 
