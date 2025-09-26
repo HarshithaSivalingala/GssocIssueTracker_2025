@@ -1,23 +1,5 @@
 # 🚀 Projects using Bootstrap
 
-## 📌 Project: Canvas-Editor
-
-📝 **Description:** This is a simple beginner friendly web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
-
-🔗 [View Project](https://github.com/vishanurag/Canvas-Editor/)
-
-💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| chatbot using LLM | Medium | [#1365](https://github.com/vishanurag/Canvas-Editor/pull/1365) |
-
----
-
 ## 📌 Project: GrowCraft
 
 📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
@@ -36,34 +18,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add more services to the Contact Us page. | Medium | [#663](https://github.com/gyanshankar1708/GrowCraft/pull/663) |
-| Unify Blog Page Header & Footer with Homepage Design for Consistency | Medium | [#662](https://github.com/gyanshankar1708/GrowCraft/pull/662) |
-| Improve UI of footer in home page | Medium | [#661](https://github.com/gyanshankar1708/GrowCraft/issues/661) |
-| Add Sticky Navbar for Better User Experience for Social Media Management  , Graphic Designing and  Cyber Analyst | Medium | [#660](https://github.com/gyanshankar1708/GrowCraft/issues/660) |
+| Feature Request: Add AOS Animations for Better UI/UX | Medium | [#688](https://github.com/gyanshankar1708/GrowCraft/issues/688) |
+| Two Footer sections on Blog page – inconsistent layout | Medium | [#687](https://github.com/gyanshankar1708/GrowCraft/issues/687) |
+| Bug: Contact Us Page Showing Only 2 Footers | Medium | [#686](https://github.com/gyanshankar1708/GrowCraft/issues/686) |
+| Duplicate footer on Web development page | Medium | [#684](https://github.com/gyanshankar1708/GrowCraft/issues/684) |
+| Add the missing careers page mentioned in the footer | Medium | [#682](https://github.com/gyanshankar1708/GrowCraft/issues/682) |
+| Duplicate footer in  blog page | Medium | [#680](https://github.com/gyanshankar1708/GrowCraft/issues/680) |
+| Service Page Not Redirecting Properly in Content Writing | Medium | [#678](https://github.com/gyanshankar1708/GrowCraft/issues/678) |
+| Navbar Styling Inconsistency in Dark Mode on Content Writing Page | Medium | [#677](https://github.com/gyanshankar1708/GrowCraft/issues/677) |
+| improved UI and made social media icons visible | Medium | [#676](https://github.com/gyanshankar1708/GrowCraft/pull/676) |
+| Footer Design Inconsistency on About Us Page | Medium | [#675](https://github.com/gyanshankar1708/GrowCraft/issues/675) |
+| Footer Styling Issue on Blog Page | Medium | [#674](https://github.com/gyanshankar1708/GrowCraft/issues/674) |
+| Navbar Styling Inconsistency on Contact Us Page | Medium | [#673](https://github.com/gyanshankar1708/GrowCraft/issues/673) |
+| fix: duplicate footer | Medium | [#665](https://github.com/gyanshankar1708/GrowCraft/pull/665) |
+| fix: logo text visibility | Medium | [#664](https://github.com/gyanshankar1708/GrowCraft/pull/664) |
 | Add Sticky Navbar for Better User Experience | Medium | [#659](https://github.com/gyanshankar1708/GrowCraft/issues/659) |
-| Navbar Inconsistently Styled on Graphic Designing Page | Medium | [#658](https://github.com/gyanshankar1708/GrowCraft/issues/658) |
-| Footer Not Properly Styled and Overlapping on Content Writing Page | Medium | [#657](https://github.com/gyanshankar1708/GrowCraft/issues/657) |
-| Footer is Not Properly Designed on Digital Marketing Page | Medium | [#656](https://github.com/gyanshankar1708/GrowCraft/issues/656) |
-| fix: add dark mode support for Content Writing and Graphic Designing … | Medium | [#655](https://github.com/gyanshankar1708/GrowCraft/pull/655) |
 | Added reusable navbar component and integrated into all pages | Medium | [#654](https://github.com/gyanshankar1708/GrowCraft/pull/654) |
-| "Grow Craft" Text Logo Not Visible on Home Page in Light Mode | Medium | [#653](https://github.com/gyanshankar1708/GrowCraft/issues/653) |
-| Phone number input field lacks proper styling and formatting | Medium | [#652](https://github.com/gyanshankar1708/GrowCraft/issues/652) |
-| Navbar not properly styled on Contact Us page — inconsistent with other pages | Medium | [#651](https://github.com/gyanshankar1708/GrowCraft/issues/651) |
-| Footer Links Not Navigating on Web Development Page | Medium | [#650](https://github.com/gyanshankar1708/GrowCraft/issues/650) |
-| Sidebar Not Functioning Properly on Web Development Page | Medium | [#649](https://github.com/gyanshankar1708/GrowCraft/issues/649) |
-| Dark mode not persisting across other sections (Digital Marketing, Content Writing, Graphic Designing, Cyber Analyst) | Medium | [#648](https://github.com/gyanshankar1708/GrowCraft/issues/648) |
-| bug: Two footers are present in the About Us page. | Medium | [#647](https://github.com/gyanshankar1708/GrowCraft/issues/647) |
-| bug: Add more services in the Service Interest section of the Contact Us Page | Medium | [#646](https://github.com/gyanshankar1708/GrowCraft/issues/646) |
-| Bug: GrowCraft logo text is not visible in the Website Development page. | Medium | [#645](https://github.com/gyanshankar1708/GrowCraft/issues/645) |
-| Portfolio link not working properly on Digital Marketing page | Medium | [#642](https://github.com/gyanshankar1708/GrowCraft/issues/642) |
-| Footer links not working properly on Portfolio page | Medium | [#641](https://github.com/gyanshankar1708/GrowCraft/issues/641) |
-| Form submission breaks due to undefined showSuccessMessage | Medium | [#640](https://github.com/gyanshankar1708/GrowCraft/issues/640) |
-| Alphabets in number | Medium | [#639](https://github.com/gyanshankar1708/GrowCraft/issues/639) |
-| graphic design page does not have theme toggle button | Medium | [#638](https://github.com/gyanshankar1708/GrowCraft/issues/638) |
-| content writing page does not have theme toggle button | Medium | [#637](https://github.com/gyanshankar1708/GrowCraft/issues/637) |
-| Feature Request: Add Word Limit in Feedback and Reviews Section | Medium | [#634](https://github.com/gyanshankar1708/GrowCraft/issues/634) |
-| Bug: Footer Color and Alignment Issue on Contact Us Page | Medium | [#633](https://github.com/gyanshankar1708/GrowCraft/issues/633) |
-| FAQ Page Toggle Mode Not Working | Medium | [#629](https://github.com/gyanshankar1708/GrowCraft/issues/629) |
 
 ---
 
@@ -83,7 +53,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
-| Make responsive contact section (#126) | Medium | [#153](https://github.com/Pujan-sarkar/FARMLOC/pull/153) |
 | Fix issue #85 | Medium | [#152](https://github.com/Pujan-sarkar/FARMLOC/pull/152) |
 | Enhanced Contact Form and Added the SMTP Server service to send email to user and owner. | Medium | [#151](https://github.com/Pujan-sarkar/FARMLOC/pull/151) |
 | <in login/ sign up pages buttons are not working> | Medium | [#148](https://github.com/Pujan-sarkar/FARMLOC/issues/148) |
