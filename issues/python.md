@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added scroll-triggered animations to Features ,homepage and how it works and adjusted padding/margin in Docs page #8 | Medium | [#9](https://github.com/krit-vardhan-mishra/SmartC.V./pull/9) |
 | Added scroll-triggered animations to Features ,homepage and how it works and adjusted padding/margin in Docs page | Medium | [#8](https://github.com/krit-vardhan-mishra/SmartC.V./pull/8) |
 | Added Roadmap and Contributing sections in README | Medium | [#7](https://github.com/krit-vardhan-mishra/SmartC.V./pull/7) |
 | Update keyword_match.py | Medium | [#5](https://github.com/krit-vardhan-mishra/SmartC.V./pull/5) |
@@ -35,27 +36,24 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Profile page not loading any content | Medium | [#215](https://github.com/SrigadaAkshayKumar/stock/issues/215) |
+| Footer background color inconsistent with overall website theme | Easy | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
+| Background image doesn't cover the full div at the homepage | Medium | [#217](https://github.com/SrigadaAkshayKumar/stock/issues/217) |
+| Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
 | Update Twitter Icon to Latest X Logo | Medium | [#214](https://github.com/SrigadaAkshayKumar/stock/issues/214) |
 | Replaced alert with toast notifications in StockList | Medium | [#213](https://github.com/SrigadaAkshayKumar/stock/pull/213) |
 | Add Forgot Password component | Medium | [#212](https://github.com/SrigadaAkshayKumar/stock/pull/212) |
 | docs: Improve Readability of Contribution Guide | Medium | [#210](https://github.com/SrigadaAkshayKumar/stock/pull/210) |
-| Add Sentiment Analysis for Stocks from News & Social Media | Medium | [#209](https://github.com/SrigadaAkshayKumar/stock/issues/209) |
 | Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
 | Redesign the About Page for Better Visual Appeal and Clarity | Medium | [#207](https://github.com/SrigadaAkshayKumar/stock/issues/207) |
 | Poor Subtext Visibility in Carousel Cards | Medium | [#203](https://github.com/SrigadaAkshayKumar/stock/issues/203) |
-| Misalignment of Search Bar and Search Button | Medium | [#202](https://github.com/SrigadaAkshayKumar/stock/issues/202) |
-| Header color theme inconsistent with overall design | Medium | [#201](https://github.com/SrigadaAkshayKumar/stock/issues/201) |
-| Footer background color inconsistent with overall website theme | Medium | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
 | Redesign Login Page Background for Consistency & Improved UX | Medium | [#199](https://github.com/SrigadaAkshayKumar/stock/issues/199) |
 | Text not visible in dark mode . | Medium | [#198](https://github.com/SrigadaAkshayKumar/stock/issues/198) |
 | Feature Request: Create an API Endpoint to List Available Stocks | Medium | [#197](https://github.com/SrigadaAkshayKumar/stock/issues/197) |
-| Use API for Real time data | Medium | [#196](https://github.com/SrigadaAkshayKumar/stock/issues/196) |
 | Tos policy update | Medium | [#195](https://github.com/SrigadaAkshayKumar/stock/pull/195) |
 | search feature is not fetching results | Medium | [#193](https://github.com/SrigadaAkshayKumar/stock/issues/193) |
+| 🐞 Bug Report: Page does not scroll to top on navigation | Medium | [#191](https://github.com/SrigadaAkshayKumar/stock/issues/191) |
+| 🐞 Bug Report: Refreshing any page except Home shows “Not Found” | Medium | [#190](https://github.com/SrigadaAkshayKumar/stock/issues/190) |
 | Add content in Terms of Service & Privacy Policy | Medium | [#186](https://github.com/SrigadaAkshayKumar/stock/issues/186) |
-| improving model accuracy | Medium | [#181](https://github.com/SrigadaAkshayKumar/stock/issues/181) |
-| Backend can’t find CSVs due to DATA_DIR and filename mismatch | Medium | [#179](https://github.com/SrigadaAkshayKumar/stock/issues/179) |
 | Updated Stockdata.jsx and Predict.jsx with backend API URL | Medium | [#151](https://github.com/SrigadaAkshayKumar/stock/pull/151) |
 | forgot password with credentials | Medium | [#100](https://github.com/SrigadaAkshayKumar/stock/issues/100) |
 | New update regarding to reduce Yfinance API limit Error | Hard | [#62](https://github.com/SrigadaAkshayKumar/stock/issues/62) |
@@ -234,6 +232,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Bump require-in-the-middle from 7.5.2 to 8.0.0 in /frontend | Medium | [#2319](https://github.com/OWASP/Nest/pull/2319) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | test(frontend): migrate to Jest v30, bump @types/jest, add VM modules… | Medium | [#2304](https://github.com/OWASP/Nest/pull/2304) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
@@ -245,7 +244,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 | Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
 | Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
-| Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 
 ---
 
@@ -271,8 +269,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| removed redundant procfile | Medium | [#159](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/159) |
-| Updated index.html | Medium | [#155](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/155) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
@@ -305,24 +301,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 | Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
 | Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
-
----
-
-## 📌 Project: Medical Adherence Monitoring System
-
-📝 **Description:** An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle. Demo Video: https://res.cloudinary.com/dzl3qnjqk/video/upload/v1751681025/VID-20250419-WA0000_4_tycodg.mp4
-
-🔗 [View Project](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System)
-
-💻 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| SECURITY.md | Medium | [#32](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/32) |
 
 ---
 
@@ -571,8 +549,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement Backend Dry-Run for Java Code | Medium | [#584](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/584) |
+| feat: Implement Backend Dry-Run for Python Code | Medium | [#583](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/583) |
+| feat: Implemented  Backend Logic for JavaScript | Medium | [#582](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/582) |
+| Improved The ui of editjobpage And added Alert | Medium | [#581](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/581) |
+| Enhance Edit Job Page UI and Add Themed Delete Confirmation | Medium | [#580](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/580) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -590,8 +572,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixes #351: Added Services Section | Medium | [#362](https://github.com/omroy07/AgriTech/pull/362) |
-| Added button enhancements | Medium | [#360](https://github.com/omroy07/AgriTech/pull/360) |
+| Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
+| Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
+| Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
 | Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
 | Add Background Visuals to Landing Page | Medium | [#352](https://github.com/omroy07/AgriTech/issues/352) |
 | Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
@@ -853,12 +836,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | failprint.log committed inside the repository | Medium | [#50](https://github.com/etsi-ai/etsi-failprint/issues/50) |
-| Added  data_validation.py module | Medium | [#49](https://github.com/etsi-ai/etsi-failprint/pull/49) |
-| Merge branch 'main' of https://github.com/etsi-ai/etsi-failprint | Medium | [#48](https://github.com/etsi-ai/etsi-failprint/pull/48) |
-| Add Project Structure section to README | Medium | [#47](https://github.com/etsi-ai/etsi-failprint/pull/47) |
+| Added Matplotlib Visualization of Feature Importance in model failure | Medium | [#48](https://github.com/etsi-ai/etsi-failprint/pull/48) |
 | improve Readme | Medium | [#43](https://github.com/etsi-ai/etsi-failprint/issues/43) |
 | No Context in Logs | Medium | [#40](https://github.com/etsi-ai/etsi-failprint/issues/40) |
-| Feat/nlp model failure analysis support | Medium | [#37](https://github.com/etsi-ai/etsi-failprint/pull/37) |
 | Fix: Correct drift correlation logic in compute_drift_correlation | Medium | [#24](https://github.com/etsi-ai/etsi-failprint/pull/24) |
 | Add HTML report generation with charts and cluster stats to failprint.analyze() | Medium | [#15](https://github.com/etsi-ai/etsi-failprint/pull/15) |
 | Added Streamlit dashboard and updated report | Medium | [#5](https://github.com/etsi-ai/etsi-failprint/pull/5) |
@@ -1254,12 +1234,11 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
-| Build ML Diagnosis Engine / Model for Health Prediction | Medium | [#179](https://github.com/aayushraj1010/med-genie/issues/179) |
-| Add Forgot Password Functionality | Medium | [#178](https://github.com/aayushraj1010/med-genie/issues/178) |
+| fixed_specialist_recommendation_text | Medium | [#182](https://github.com/aayushraj1010/med-genie/pull/182) |
+| Refactor Header & Footer Layout for Consistency Across All Pages | Medium | [#181](https://github.com/aayushraj1010/med-genie/issues/181) |
+| Enhance Footer UI – Center Alignment & Spacing Adjustments | Medium | [#180](https://github.com/aayushraj1010/med-genie/issues/180) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
-| Specialist recommendation text not fully visible and faded | Medium | [#174](https://github.com/aayushraj1010/med-genie/issues/174) |
-| The footer links Cookie Policy and Terms of Use are not working — both lead to missing/404 pages. | Medium | [#173](https://github.com/aayushraj1010/med-genie/issues/173) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
 | Add a "Scroll to top" button | Medium | [#165](https://github.com/aayushraj1010/med-genie/issues/165) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
@@ -1795,6 +1774,7 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added prescription analyzer feature | Medium | [#82](https://github.com/CharithaReddy18/AI-health-chatbot/pull/82) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
