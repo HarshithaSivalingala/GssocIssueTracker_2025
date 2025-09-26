@@ -66,6 +66,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refactor main.dart for safer and deploy-ready Level 3 improvements | Medium | [#510](https://github.com/Prateek9876/NagarVikas/issues/510) |
+| Level 3 Improvements: Safe and Deploy-Ready main.dart | Medium | [#509](https://github.com/Prateek9876/NagarVikas/pull/509) |
+| Refactor android/build.gradle.kts for maintainability and deployment readiness | Medium | [#508](https://github.com/Prateek9876/NagarVikas/issues/508) |
+| refactor: level 3 improvements in android/build.gradle.kts (NagarVikas) | Medium | [#507](https://github.com/Prateek9876/NagarVikas/pull/507) |
 | Commit | Medium | [#504](https://github.com/Prateek9876/NagarVikas/pull/504) |
 | fixes back button alingment issue | Medium | [#503](https://github.com/Prateek9876/NagarVikas/pull/503) |
 | The options of Nagar Vikas Assistant should be working, and the text in message box blends with its background so fix that too | Medium | [#502](https://github.com/Prateek9876/NagarVikas/issues/502) |
