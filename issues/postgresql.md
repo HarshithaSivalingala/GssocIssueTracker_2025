@@ -83,6 +83,9 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incomplete gradient on the newsletter subscribe button | Medium | [#874](https://github.com/HarshS16/Civix/issues/874) |
+| Missing hover arrow icon for "Documentation" link in footer | Medium | [#873](https://github.com/HarshS16/Civix/issues/873) |
+| Inconsistent hover effect on social media icons in dark mode | Medium | [#872](https://github.com/HarshS16/Civix/issues/872) |
 | Update Twitter Icon to Latest X Logo | Medium | [#868](https://github.com/HarshS16/Civix/issues/868) |
 | Registration: Missing "Confirm Password" Field | Medium | [#867](https://github.com/HarshS16/Civix/issues/867) |
 | fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
@@ -342,23 +345,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🤖 Auto-unassignment Summary - Thu Sep 25 2025 | Easy | [#488](https://github.com/SandeepVashishtha/Eventra/issues/488) |
-| The Light/Dark toggle button is not functioning | Medium | [#402](https://github.com/SandeepVashishtha/Eventra/issues/402) |
-| Adjust spacing for consistent layout in Feedback section | Medium | [#399](https://github.com/SandeepVashishtha/Eventra/issues/399) |
 | Enhance the cards for events | Medium | [#354](https://github.com/SandeepVashishtha/Eventra/issues/354) |
-| Add welcome logo at the top of Signup Page for consistency | Medium | [#339](https://github.com/SandeepVashishtha/Eventra/issues/339) |
-| Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
 | Add Global Search Bar on Main Page | Medium | [#321](https://github.com/SandeepVashishtha/Eventra/issues/321) |
 | UI Enhancement: Improve Newsletter Subscription Section | Medium | [#318](https://github.com/SandeepVashishtha/Eventra/issues/318) |
 | Enhance "Ready to create your first event?" CTA Section | Medium | [#317](https://github.com/SandeepVashishtha/Eventra/issues/317) |
 | Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
-| Error message overlaps with Back to Top button | Medium | [#300](https://github.com/SandeepVashishtha/Eventra/issues/300) |
-| Make "Explore Projects" button scroll to projects section | Medium | [#256](https://github.com/SandeepVashishtha/Eventra/issues/256) |
-| Enhance dropdown styling to match website theme | Medium | [#255](https://github.com/SandeepVashishtha/Eventra/issues/255) |
-| Make "Explore Events" button scroll to events section | Medium | [#254](https://github.com/SandeepVashishtha/Eventra/issues/254) |
-| Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
-| Missing Role Selection Field in React Signup Form | Medium | [#248](https://github.com/SandeepVashishtha/Eventra/issues/248) |
-| Improve Sidebar UI (Colors & Scrolling) | Medium | [#220](https://github.com/SandeepVashishtha/Eventra/issues/220) |
 | Adding dark/ light toggle button | Medium | [#192](https://github.com/SandeepVashishtha/Eventra/issues/192) |
+| Sort Dropdown for Events List | Medium | [#155](https://github.com/SandeepVashishtha/Eventra/issues/155) |
 
 ---
 
