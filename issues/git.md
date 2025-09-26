@@ -244,12 +244,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
-| Build ML Diagnosis Engine / Model for Health Prediction | Medium | [#179](https://github.com/aayushraj1010/med-genie/issues/179) |
-| Add Forgot Password Functionality | Medium | [#178](https://github.com/aayushraj1010/med-genie/issues/178) |
+| fixed_specialist_recommendation_text | Medium | [#182](https://github.com/aayushraj1010/med-genie/pull/182) |
+| Refactor Header & Footer Layout for Consistency Across All Pages | Medium | [#181](https://github.com/aayushraj1010/med-genie/issues/181) |
+| Enhance Footer UI – Center Alignment & Spacing Adjustments | Medium | [#180](https://github.com/aayushraj1010/med-genie/issues/180) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
-| Specialist recommendation text not fully visible and faded | Medium | [#174](https://github.com/aayushraj1010/med-genie/issues/174) |
-| The footer links Cookie Policy and Terms of Use are not working — both lead to missing/404 pages. | Medium | [#173](https://github.com/aayushraj1010/med-genie/issues/173) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
 | Add a "Scroll to top" button | Medium | [#165](https://github.com/aayushraj1010/med-genie/issues/165) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
@@ -594,23 +593,13 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🤖 Auto-unassignment Summary - Thu Sep 25 2025 | Easy | [#488](https://github.com/SandeepVashishtha/Eventra/issues/488) |
-| The Light/Dark toggle button is not functioning | Medium | [#402](https://github.com/SandeepVashishtha/Eventra/issues/402) |
-| Adjust spacing for consistent layout in Feedback section | Medium | [#399](https://github.com/SandeepVashishtha/Eventra/issues/399) |
 | Enhance the cards for events | Medium | [#354](https://github.com/SandeepVashishtha/Eventra/issues/354) |
-| Add welcome logo at the top of Signup Page for consistency | Medium | [#339](https://github.com/SandeepVashishtha/Eventra/issues/339) |
-| Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
 | Add Global Search Bar on Main Page | Medium | [#321](https://github.com/SandeepVashishtha/Eventra/issues/321) |
 | UI Enhancement: Improve Newsletter Subscription Section | Medium | [#318](https://github.com/SandeepVashishtha/Eventra/issues/318) |
 | Enhance "Ready to create your first event?" CTA Section | Medium | [#317](https://github.com/SandeepVashishtha/Eventra/issues/317) |
 | Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
-| Error message overlaps with Back to Top button | Medium | [#300](https://github.com/SandeepVashishtha/Eventra/issues/300) |
-| Make "Explore Projects" button scroll to projects section | Medium | [#256](https://github.com/SandeepVashishtha/Eventra/issues/256) |
-| Enhance dropdown styling to match website theme | Medium | [#255](https://github.com/SandeepVashishtha/Eventra/issues/255) |
-| Make "Explore Events" button scroll to events section | Medium | [#254](https://github.com/SandeepVashishtha/Eventra/issues/254) |
-| Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
-| Missing Role Selection Field in React Signup Form | Medium | [#248](https://github.com/SandeepVashishtha/Eventra/issues/248) |
-| Improve Sidebar UI (Colors & Scrolling) | Medium | [#220](https://github.com/SandeepVashishtha/Eventra/issues/220) |
 | Adding dark/ light toggle button | Medium | [#192](https://github.com/SandeepVashishtha/Eventra/issues/192) |
+| Sort Dropdown for Events List | Medium | [#155](https://github.com/SandeepVashishtha/Eventra/issues/155) |
 
 ---
 
