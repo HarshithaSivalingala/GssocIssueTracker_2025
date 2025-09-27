@@ -23,6 +23,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Add Responsiveness | Medium | [#68](https://github.com/Menthub-GSSoC/Menthub/issues/68) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
 | Resource Sharing Section: A “library” where mentors can upload PDFs, links, or videos for mentees. | Medium | [#66](https://github.com/Menthub-GSSoC/Menthub/issues/66) |
 | Enchancement: The UI/UX of the homepage | Medium | [#65](https://github.com/Menthub-GSSoC/Menthub/issues/65) |
@@ -35,7 +36,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
-| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
@@ -173,12 +173,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Implement Backend Dry-Run for Java Code | Medium | [#584](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/584) |
-| feat: Implement Backend Dry-Run for Python Code | Medium | [#583](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/583) |
-| feat: Implemented  Backend Logic for JavaScript | Medium | [#582](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/582) |
-| Improved The ui of editjobpage And added Alert | Medium | [#581](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/581) |
-| Enhance Edit Job Page UI and Add Themed Delete Confirmation | Medium | [#580](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/580) |
+| Add Footer Section to Contact Page | Medium | [#586](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/586) |
+| feat: Implement Backend Dry-Run for C-Cpp | Medium | [#585](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/585) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -196,6 +194,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Documentation with Setup Instructions & Preview GIFs. | Medium | [#369](https://github.com/omroy07/AgriTech/issues/369) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
@@ -253,11 +252,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added "Show/Hide Password" Eye Icon in Signup and login form | Medium | [#244](https://github.com/openml-stack/SentiLog-AI/pull/244) |
-| SignIn and SignUp is not working...I would like to add OTP verification | Medium | [#243](https://github.com/openml-stack/SentiLog-AI/issues/243) |
+| API gets daily news, and the ML models classify them as Positive, Negative, or Neutral. | Medium | [#247](https://github.com/openml-stack/SentiLog-AI/pull/247) |
+| Add Help Center page and route | Medium | [#246](https://github.com/openml-stack/SentiLog-AI/pull/246) |
+| Remove irrelevant FAQs from Contact Us page and UI improvement | Medium | [#245](https://github.com/openml-stack/SentiLog-AI/issues/245) |
 | Sign in not working | Medium | [#241](https://github.com/openml-stack/SentiLog-AI/issues/241) |
 | Visual Improvement for the Dashboard page | Medium | [#240](https://github.com/openml-stack/SentiLog-AI/issues/240) |
-| Help Center Page is missing | Medium | [#239](https://github.com/openml-stack/SentiLog-AI/issues/239) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
 | Feature Request: Add Emoji Mood Selector in Journal Section | Medium | [#195](https://github.com/openml-stack/SentiLog-AI/issues/195) |
@@ -289,8 +288,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
 | fixed_specialist_recommendation_text | Medium | [#182](https://github.com/aayushraj1010/med-genie/pull/182) |
-| Refactor Header & Footer Layout for Consistency Across All Pages | Medium | [#181](https://github.com/aayushraj1010/med-genie/issues/181) |
-| Enhance Footer UI – Center Alignment & Spacing Adjustments | Medium | [#180](https://github.com/aayushraj1010/med-genie/issues/180) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
@@ -353,6 +350,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Bottom To Top Button in Platform | Medium | [#84](https://github.com/KrishChothani/CKsEdu/issues/84) |
 | Add Daily Study Goal Tracker Widget to Dashboard | Medium | [#83](https://github.com/KrishChothani/CKsEdu/issues/83) |
 | Update Twitter Icon to Latest X Logo | Medium | [#82](https://github.com/KrishChothani/CKsEdu/issues/82) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
@@ -396,7 +394,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added the FAQ section | Medium | [#49](https://github.com/AKing-283/Rewear/pull/49) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
 
 ---
