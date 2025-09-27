@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| created basic node server and connected mongoDB | Medium | [#83](https://github.com/CharithaReddy18/AI-health-chatbot/pull/83) |
 | added prescription analyzer feature | Medium | [#82](https://github.com/CharithaReddy18/AI-health-chatbot/pull/82) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
