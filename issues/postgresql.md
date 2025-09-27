@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Dark Mode / Theme Switching Support | Medium | [#75](https://github.com/Abhinavhaldiya/FinPilot/issues/75) |
 | Contribution: Dockerfile to streamline local dev / CI | Medium | [#74](https://github.com/Abhinavhaldiya/FinPilot/issues/74) |
 | Add multi-language support with i18n for all pages (ENG default) | Medium | [#73](https://github.com/Abhinavhaldiya/FinPilot/pull/73) |
 | Add Currency Converter Widget | Medium | [#72](https://github.com/Abhinavhaldiya/FinPilot/issues/72) |
@@ -50,6 +51,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Add Responsiveness | Medium | [#68](https://github.com/Menthub-GSSoC/Menthub/issues/68) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
 | Resource Sharing Section: A “library” where mentors can upload PDFs, links, or videos for mentees. | Medium | [#66](https://github.com/Menthub-GSSoC/Menthub/issues/66) |
 | Enchancement: The UI/UX of the homepage | Medium | [#65](https://github.com/Menthub-GSSoC/Menthub/issues/65) |
@@ -62,7 +64,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
-| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
@@ -83,6 +84,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
 | Incomplete gradient on the newsletter subscribe button | Medium | [#874](https://github.com/HarshS16/Civix/issues/874) |
 | Missing hover arrow icon for "Documentation" link in footer | Medium | [#873](https://github.com/HarshS16/Civix/issues/873) |
 | Inconsistent hover effect on social media icons in dark mode | Medium | [#872](https://github.com/HarshS16/Civix/issues/872) |
@@ -344,14 +346,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🤖 Auto-unassignment Summary - Thu Sep 25 2025 | Easy | [#488](https://github.com/SandeepVashishtha/Eventra/issues/488) |
-| Enhance the cards for events | Medium | [#354](https://github.com/SandeepVashishtha/Eventra/issues/354) |
+| Update README to address issue #<issue-number> | Medium | [#522](https://github.com/SandeepVashishtha/Eventra/pull/522) |
 | Add Global Search Bar on Main Page | Medium | [#321](https://github.com/SandeepVashishtha/Eventra/issues/321) |
 | UI Enhancement: Improve Newsletter Subscription Section | Medium | [#318](https://github.com/SandeepVashishtha/Eventra/issues/318) |
 | Enhance "Ready to create your first event?" CTA Section | Medium | [#317](https://github.com/SandeepVashishtha/Eventra/issues/317) |
 | Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
-| Adding dark/ light toggle button | Medium | [#192](https://github.com/SandeepVashishtha/Eventra/issues/192) |
-| Sort Dropdown for Events List | Medium | [#155](https://github.com/SandeepVashishtha/Eventra/issues/155) |
 
 ---
 
