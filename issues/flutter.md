@@ -91,11 +91,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BlyFt/issues/185) |
-| Banner for PlayStore App Listing | Medium | [#291](https://github.com/Yash159357/BlyFt/pull/291) |
-| Share News Feature | Medium | [#254](https://github.com/Yash159357/BlyFt/issues/254) |
+| Add Google OAuth authentication and news API endpoints to documentation | Easy | [#294](https://github.com/Yash159357/BlyFt/pull/294) |
+| Share news feature | Easy | [#293](https://github.com/Yash159357/BlyFt/pull/293) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BlyFt/issues/167) |
 | Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BlyFt/issues/170) |
 
 ---
@@ -159,11 +159,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend: Update CONTRIBUTION.md with Backend Routes | Easy | [#185](https://github.com/Yash159357/BlyFt/issues/185) |
-| Banner for PlayStore App Listing | Medium | [#291](https://github.com/Yash159357/BlyFt/pull/291) |
-| Share News Feature | Medium | [#254](https://github.com/Yash159357/BlyFt/issues/254) |
+| Add Google OAuth authentication and news API endpoints to documentation | Easy | [#294](https://github.com/Yash159357/BlyFt/pull/294) |
+| Share news feature | Easy | [#293](https://github.com/Yash159357/BlyFt/pull/293) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
+| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BlyFt/issues/167) |
 | Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BlyFt/issues/170) |
 
 ---
