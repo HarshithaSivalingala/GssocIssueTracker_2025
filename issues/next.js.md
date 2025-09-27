@@ -95,8 +95,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add AI Research Paper Summarizer Tool | Medium | [#116](https://github.com/huamanraj/aitoolbox.software/issues/116) |
 | feat(frontend): add AI Question Paper Generator card and form | Medium | [#115](https://github.com/huamanraj/aitoolbox.software/pull/115) |
-| feat: add comprehensive dark mode support | Medium | [#114](https://github.com/huamanraj/aitoolbox.software/pull/114) |
 | Add social links in footer | Medium | [#112](https://github.com/huamanraj/aitoolbox.software/issues/112) |
 | landing page | Medium | [#94](https://github.com/huamanraj/aitoolbox.software/issues/94) |
 | Improve mobile layout: Single column grid feels empty, suggest 2-box layout | Medium | [#92](https://github.com/huamanraj/aitoolbox.software/issues/92) |
@@ -158,11 +158,12 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
+| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Bump require-in-the-middle from 7.5.2 to 8.0.0 in /frontend | Medium | [#2319](https://github.com/OWASP/Nest/pull/2319) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | test(frontend): migrate to Jest v30, bump @types/jest, add VM modules… | Medium | [#2304](https://github.com/OWASP/Nest/pull/2304) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
-| UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
@@ -187,9 +188,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added performance file in issue template | Medium | [#314](https://github.com/Ayushjhawar8/Flavor-ai/pull/314) |
-| Festive dish search fixed | Medium | [#311](https://github.com/Ayushjhawar8/Flavor-ai/pull/311) |
-| Describe the problem | Hard | [#312](https://github.com/Ayushjhawar8/Flavor-ai/issues/312) |
+| Revamp | Medium | [#321](https://github.com/Ayushjhawar8/Flavor-ai/pull/321) |
+| added checklist feature with local storage | Medium | [#320](https://github.com/Ayushjhawar8/Flavor-ai/pull/320) |
+| Terms of Service Page | Medium | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
+| Privacy policy page implementation | Medium | [#317](https://github.com/Ayushjhawar8/Flavor-ai/pull/317) |
 
 ---
 
@@ -452,6 +454,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Updating Github About section | Easy | [#75](https://github.com/rahulkhandait-sde/cineverse/issues/75) |
 | Add Google Authentication using Firebase to enable secure and seamless login for CineVerse users. | Easy | [#74](https://github.com/rahulkhandait-sde/cineverse/issues/74) |
+| adding chatbox that give recommendation based on chat | Medium | [#78](https://github.com/rahulkhandait-sde/cineverse/pull/78) |
 | Update Twitter Icon to Latest X Logo | Medium | [#76](https://github.com/rahulkhandait-sde/cineverse/issues/76) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 | Improve Dark Mode with "Cinematic Glow" | Medium | [#70](https://github.com/rahulkhandait-sde/cineverse/issues/70) |
@@ -543,7 +546,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Make autolabelling on issues and PR | Medium | [#604](https://github.com/recodehive/recode-website/issues/604) |
+| 📝[Docs]: New Blog GitHub Copilot CLI is now in public preview | Easy | [#608](https://github.com/recodehive/recode-website/issues/608) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -562,17 +565,16 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| hover aniamtion added on the dropdown buttons of sheet section | Medium | [#369](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/369) |
-| updated botwidget responsiveness for smartphones screens | Medium | [#367](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/367) |
+| Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
+| Improve UI of Socials Button Hover Animation on the Footer section | Medium | [#371](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/371) |
+| updated botwidget responsiveness for all screentype | Medium | [#370](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/370) |
 | Adding a image slider | Medium | [#364](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/364) |
 | feat: Add progress dashboard with ML-based topic categorization | Medium | [#359](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/359) |
 | Nav bar responsiveness | Medium | [#358](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/358) |
 | Enhance pwa manifest and favicon system for better scalability and performance | Medium | [#357](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/357) |
 | Text on testimonial cards should remain clearly visible in both light and dark modes. | Medium | [#354](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/354) |
 | DSAMate logo submission | Medium | [#353](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/353) |
-| Add enhancement to DSA sheet page #335 | Medium | [#352](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/352) |
 | Misaligned icons overlapping the text on the Footer | Medium | [#344](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/344) |
-| Improvement: Updated bot size and positioning, move 'Report Problem' link… | Medium | [#332](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/332) |
 | Improved visibility of Terms of Service and Privacy Policy button | Medium | [#312](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/312) |
 
 ---
@@ -828,6 +830,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add curated parenting resources and connect Resources page to utils/resources.js | Medium | [#271](https://github.com/AditiGupta-tech/neonest/pull/271) |
+| fixed theme mode in baby details section form | Medium | [#270](https://github.com/AditiGupta-tech/neonest/pull/270) |
+| Docs: add environment setup documentation for contributors | Medium | [#269](https://github.com/AditiGupta-tech/neonest/issues/269) |
+| Bug: Form fields not dark mode friendly (placeholders invisible) | Medium | [#268](https://github.com/AditiGupta-tech/neonest/issues/268) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -1068,6 +1074,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Easy | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
+| Enhance navbar styling and alignment | Medium | [#37](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/37) |
 | feat: Implement dark mode, auth state UI, and enhanced login form | Medium | [#36](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/36) |
 | Quantity Buttons, Add to Cart, and Checkout Not Functional on Product and Cart Pages | Medium | [#34](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/34) |
 | feat(homepage): add email subscription form with validation | Medium | [#32](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/32) |
