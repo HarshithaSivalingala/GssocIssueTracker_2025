@@ -18,22 +18,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Request: Add AOS Animations for Better UI/UX | Medium | [#688](https://github.com/gyanshankar1708/GrowCraft/issues/688) |
-| Two Footer sections on Blog page – inconsistent layout | Medium | [#687](https://github.com/gyanshankar1708/GrowCraft/issues/687) |
-| Bug: Contact Us Page Showing Only 2 Footers | Medium | [#686](https://github.com/gyanshankar1708/GrowCraft/issues/686) |
-| Duplicate footer on Web development page | Medium | [#684](https://github.com/gyanshankar1708/GrowCraft/issues/684) |
+| Removal of unnecessary page (duplicate) | Medium | [#719](https://github.com/gyanshankar1708/GrowCraft/issues/719) |
+| Links color and logo not visible in footer of contact page | Medium | [#718](https://github.com/gyanshankar1708/GrowCraft/issues/718) |
+| Footer Not Properly Styled on Our Work Page | Medium | [#717](https://github.com/gyanshankar1708/GrowCraft/issues/717) |
+| Card headings not visible in dark mode on content writing page | Medium | [#716](https://github.com/gyanshankar1708/GrowCraft/issues/716) |
+| Footer Inconsistently Styled on Social Media Management Page | Medium | [#715](https://github.com/gyanshankar1708/GrowCraft/issues/715) |
+| Navbar Not Properly Styled on Content Writing Page | Medium | [#714](https://github.com/gyanshankar1708/GrowCraft/issues/714) |
+| Styled footer for Digital Marketing page | Medium | [#713](https://github.com/gyanshankar1708/GrowCraft/pull/713) |
+| fix: unify header style across all pages for consistency | Medium | [#707](https://github.com/gyanshankar1708/GrowCraft/pull/707) |
+| Fix: Redesign ‘Our Work’ Cards for Consistent Style and Hover Effects | Medium | [#702](https://github.com/gyanshankar1708/GrowCraft/pull/702) |
+| update navbar in about page | Medium | [#699](https://github.com/gyanshankar1708/GrowCraft/pull/699) |
+| Card Hover Description Overlaps Page Heading | Medium | [#692](https://github.com/gyanshankar1708/GrowCraft/pull/692) |
+| Enhance the contentWriting page | Medium | [#689](https://github.com/gyanshankar1708/GrowCraft/pull/689) |
 | Add the missing careers page mentioned in the footer | Medium | [#682](https://github.com/gyanshankar1708/GrowCraft/issues/682) |
-| Duplicate footer in  blog page | Medium | [#680](https://github.com/gyanshankar1708/GrowCraft/issues/680) |
-| Service Page Not Redirecting Properly in Content Writing | Medium | [#678](https://github.com/gyanshankar1708/GrowCraft/issues/678) |
-| Navbar Styling Inconsistency in Dark Mode on Content Writing Page | Medium | [#677](https://github.com/gyanshankar1708/GrowCraft/issues/677) |
-| improved UI and made social media icons visible | Medium | [#676](https://github.com/gyanshankar1708/GrowCraft/pull/676) |
-| Footer Design Inconsistency on About Us Page | Medium | [#675](https://github.com/gyanshankar1708/GrowCraft/issues/675) |
-| Footer Styling Issue on Blog Page | Medium | [#674](https://github.com/gyanshankar1708/GrowCraft/issues/674) |
-| Navbar Styling Inconsistency on Contact Us Page | Medium | [#673](https://github.com/gyanshankar1708/GrowCraft/issues/673) |
-| fix: duplicate footer | Medium | [#665](https://github.com/gyanshankar1708/GrowCraft/pull/665) |
-| fix: logo text visibility | Medium | [#664](https://github.com/gyanshankar1708/GrowCraft/pull/664) |
-| Add Sticky Navbar for Better User Experience | Medium | [#659](https://github.com/gyanshankar1708/GrowCraft/issues/659) |
-| Added reusable navbar component and integrated into all pages | Medium | [#654](https://github.com/gyanshankar1708/GrowCraft/pull/654) |
 
 ---
 
