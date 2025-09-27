@@ -75,20 +75,16 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
-| Added documentation and performance files | Medium | [#298](https://github.com/Amarjha01/InfantCareCompass/pull/298) |
 | Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
-| Registration and Sign Up Pages | Medium | [#296](https://github.com/Amarjha01/InfantCareCompass/pull/296) |
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
-| Pull Request: Update GrowthTracker UI with Glassmorphic Purple Gradient Design | Medium | [#288](https://github.com/Amarjha01/InfantCareCompass/pull/288) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
-| Add advanced custom form validation to CareCoPilot form | Medium | [#285](https://github.com/Amarjha01/InfantCareCompass/pull/285) |
 | Navbar Desktop Alignment Fixed | Medium | [#280](https://github.com/Amarjha01/InfantCareCompass/pull/280) |
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
-| Feat : Added AI-driven first aid bot feature | Medium | [#261](https://github.com/Amarjha01/InfantCareCompass/pull/261) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
+| 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 
 ---
 
@@ -201,6 +197,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Add Responsiveness | Medium | [#68](https://github.com/Menthub-GSSoC/Menthub/issues/68) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
 | Resource Sharing Section: A “library” where mentors can upload PDFs, links, or videos for mentees. | Medium | [#66](https://github.com/Menthub-GSSoC/Menthub/issues/66) |
 | Enchancement: The UI/UX of the homepage | Medium | [#65](https://github.com/Menthub-GSSoC/Menthub/issues/65) |
@@ -213,7 +210,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
-| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
@@ -232,11 +228,12 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
+| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Bump require-in-the-middle from 7.5.2 to 8.0.0 in /frontend | Medium | [#2319](https://github.com/OWASP/Nest/pull/2319) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | test(frontend): migrate to Jest v30, bump @types/jest, add VM modules… | Medium | [#2304](https://github.com/OWASP/Nest/pull/2304) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
-| UI/ux mentorship admin | Medium | [#2288](https://github.com/OWASP/Nest/pull/2288) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
@@ -393,6 +390,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix text visibility issue in light mode for AI Integrations heading | Medium | [#48](https://github.com/kanikaa-3018/contest_onlinejudge/issues/48) |
 | UI/UX improvements for user dashboard | Medium | [#47](https://github.com/kanikaa-3018/contest_onlinejudge/issues/47) |
 | Add another Tab like resources | Medium | [#46](https://github.com/kanikaa-3018/contest_onlinejudge/issues/46) |
 | Filter-Based Loading for Contest Dashboard | Medium | [#44](https://github.com/kanikaa-3018/contest_onlinejudge/issues/44) |
@@ -493,6 +491,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Documentation with Setup Instructions & Preview GIFs. | Medium | [#233](https://github.com/Khushi-Nigam/jobportal/issues/233) |
 | Feature: Add Dark Mode Toggle for Better UX Accessibility | Medium | [#232](https://github.com/Khushi-Nigam/jobportal/pull/232) |
 | Fix Card Alignment and Button Positioning | Medium | [#231](https://github.com/Khushi-Nigam/jobportal/issues/231) |
 | Enhancement: Make Blog section more interactive with dark/light mode support | Medium | [#230](https://github.com/Khushi-Nigam/jobportal/issues/230) |
@@ -549,12 +548,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Implement Backend Dry-Run for Java Code | Medium | [#584](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/584) |
-| feat: Implement Backend Dry-Run for Python Code | Medium | [#583](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/583) |
-| feat: Implemented  Backend Logic for JavaScript | Medium | [#582](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/582) |
-| Improved The ui of editjobpage And added Alert | Medium | [#581](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/581) |
-| Enhance Edit Job Page UI and Add Themed Delete Confirmation | Medium | [#580](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/580) |
+| Add Footer Section to Contact Page | Medium | [#586](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/586) |
+| feat: Implement Backend Dry-Run for C-Cpp | Medium | [#585](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/585) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -572,6 +569,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Documentation with Setup Instructions & Preview GIFs. | Medium | [#369](https://github.com/omroy07/AgriTech/issues/369) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
@@ -715,9 +713,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added beginner-friendly EDA on Titanic dataset | Easy | [#540](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/540) |
-| Phishing Website Detection using Machine Learning | Medium | [#727](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/727) |
-| Agricultural Dashboard: Complete UI/UX Transformation with Advanced Features | Medium | [#726](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/726) |
-| 🚨 CRITICAL: Agricultural Crop Recommendation System Lacks Professional UI, Advanced Features, and Production-Ready Architecture for Real-World Farmer Adoption | Medium | [#725](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/725) |
+| Snake Game playing bot using Reinforcement Learning | Medium | [#731](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/731) |
+| feat: Transform MoodMeet to Enterprise-Grade Meeting Analytics Platform - Complete UI/UX Overhaul | Medium | [#730](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/730) |
+| Transform MoodMeet to Enterprise-Grade Meeting Analytics Platform - Multiple UI/UX Issues & Missing Professional Features | Medium | [#729](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/729) |
+| Fix issue 529 | Medium | [#728](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/728) |
 | Add SMS spam detector model | Medium | [#724](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/724) |
 | Pull Request : Crude Oil Price Prediction Project | Medium | [#723](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/723) |
 | Crude Oil Price Prediction using Machine Learning | Medium | [#722](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/722) |
@@ -728,15 +727,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Pull Request : Beta-Weighted Stock Portfolio Project | Medium | [#717](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/717) |
 | Add Beta-Weighted Stock Portfolio Project | Medium | [#716](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/716) |
 | Fake review clean | Medium | [#663](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/663) |
-| Enhancement / Contribution Suggestion for Synthetic Liver Cancer Dataset | Medium | [#529](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/529) |
 | Added Streamlit Web App Interface for Email Classifier + Updated Notebook with Model Saving (#358) | Medium | [#497](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/497) |
 | Add Matplotlib Basics Notebook to Machine Learning Folder | Medium | [#479](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/479) |
 | AIDice Master | Medium | [#466](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/466) |
-| Add Logistic Regression–Based Diabetes Prediction for Pregnant Females | Medium | [#446](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/446) |
 | GSSoC'25 : Real-Time Market Sentiment-Driven Trading Signal Generator | Medium | [#412](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/412) |
 | Feature Request: Instagram Caption Recommendation System | Medium | [#352](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/352) |
-| Add Baseline Sales Forecasting Model using M5 Dataset #GSSOC'25 | Medium | [#350](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/350) |
-| Integration of Multilingual LLM-Powered Chatbot and Domain-Specific NLP and Deep learning Models for Enhanced User Interaction | Medium | [#275](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/275) |
 
 ---
 
@@ -865,10 +860,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Add Featured Images to Blog Posts | Medium | [#292](https://github.com/eccentriccoder01/TalkHeal/issues/292) |
-| Feature: Enhanced Community Forum with Post Storage, Replies, and Moderation | Medium | [#291](https://github.com/eccentriccoder01/TalkHeal/issues/291) |
-| Feature: Upgraded Breathing Exercise to Lottie Animation | Medium | [#290](https://github.com/eccentriccoder01/TalkHeal/issues/290) |
-| Feature: Enhanced Breathing Exercise with Selectable Techniques | Medium | [#289](https://github.com/eccentriccoder01/TalkHeal/issues/289) |
 | 1.Creative Outlets & Hobbies
 Art, music, writing, gardening, or any hobby .These activities give our mind a break, reduce stress, and bring joy without pressure. So we can make a group where people can share them freely so that they can also connect with more people and these will help them to socialize 
 
@@ -876,6 +867,9 @@ Art, music, writing, gardening, or any hobby .These activities give our mind a b
 Too much social media can silently hurt your confidence and peace of mind. Try mindful scrolling, set digital detox hours, or create “tech-free zones” at home. Small steps, big impact. | Medium | [#285](https://github.com/eccentriccoder01/TalkHeal/issues/285) |
 | Implement Passive Symptom Tracking with Wearables | Medium | [#178](https://github.com/eccentriccoder01/TalkHeal/issues/178) |
 | Implement AI-Guided CBT/DBT Modules | Medium | [#172](https://github.com/eccentriccoder01/TalkHeal/issues/172) |
+| Add Dark Mode & High-Contrast Theme for Accessibility | Medium | [#147](https://github.com/eccentriccoder01/TalkHeal/issues/147) |
+| Session Persistence – Clarification | Medium | [#129](https://github.com/eccentriccoder01/TalkHeal/issues/129) |
+| Add Multi Language Support | Medium | [#120](https://github.com/eccentriccoder01/TalkHeal/issues/120) |
 
 ---
 
@@ -1045,7 +1039,6 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| updated folder structure,added missing developers.html | Medium | [#48](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/pull/48) |
 | MediGuide README | Medium | [#29](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/pull/29) |
 | Connect Speech Recognition to Symptom Input | Medium | [#24](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/issues/24) |
 | Improve Disease Prediction Output | Medium | [#20](https://github.com/ShrutiparnaRoy/Medicine_Recommendation/pull/20) |
@@ -1235,8 +1228,6 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
 | fixed_specialist_recommendation_text | Medium | [#182](https://github.com/aayushraj1010/med-genie/pull/182) |
-| Refactor Header & Footer Layout for Consistency Across All Pages | Medium | [#181](https://github.com/aayushraj1010/med-genie/issues/181) |
-| Enhance Footer UI – Center Alignment & Spacing Adjustments | Medium | [#180](https://github.com/aayushraj1010/med-genie/issues/180) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
@@ -1454,24 +1445,6 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 | Feature Request | Medium | [#11](https://github.com/Archita0905/Student-Grade-Tracker/issues/11) |
 | 🚫 License Missing from Repository | Medium | [#10](https://github.com/Archita0905/Student-Grade-Tracker/issues/10) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#9](https://github.com/Archita0905/Student-Grade-Tracker/issues/9) |
-
----
-
-## 📌 Project: Shakti app
-
-📝 **Description:** Shakti is a safe, anonymous, and multilingual platform empowering survivors and everyday heroes to share their truths — through voice or text — in their own words and languages.
-
-🔗 [View Project](https://github.com/my-projects-it/shakti-app)
-
-💻 **Tech Stack:** Python, Streamlit
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Integrating NLP Model for Automated Emotion Analysis of English Submissions | Medium | [#33](https://github.com/my-projects-it/Shakti-app/issues/33) |
 
 ---
 
@@ -1774,6 +1747,7 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| created basic node server and connected mongoDB | Medium | [#83](https://github.com/CharithaReddy18/AI-health-chatbot/pull/83) |
 | added prescription analyzer feature | Medium | [#82](https://github.com/CharithaReddy18/AI-health-chatbot/pull/82) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
@@ -1857,7 +1831,6 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added the FAQ section | Medium | [#49](https://github.com/AKing-283/Rewear/pull/49) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
 
 ---
