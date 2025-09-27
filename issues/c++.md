@@ -55,6 +55,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refactor examples: move files to GraphList, GraphMatrix, experimental… | Medium | [#106](https://github.com/SharonIV0x86/CinderPeak/pull/106) |
 | build system implementation | Medium | [#105](https://github.com/SharonIV0x86/CinderPeak/pull/105) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
 
