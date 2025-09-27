@@ -51,7 +51,6 @@
 | Feature/searchbar with searchapi integration | Medium | [#459](https://github.com/yuvrajsinghgmx/ShopSmart/pull/459) |
 | Top Bar of Home Screen | Medium | [#457](https://github.com/yuvrajsinghgmx/ShopSmart/issues/457) |
 | Shop_Owner Profile | Medium | [#456](https://github.com/yuvrajsinghgmx/ShopSmart/issues/456) |
-| Implement Cart replacing the Search in Customer Navigation | Medium | [#455](https://github.com/yuvrajsinghgmx/ShopSmart/issues/455) |
 | Master Issue for tracking Compose Dev. | Medium | [#454](https://github.com/yuvrajsinghgmx/ShopSmart/issues/454) |
 | Search bar with voice search integration and UI enhancement | Medium | [#447](https://github.com/yuvrajsinghgmx/ShopSmart/pull/447) |
 | Product category filter list is not functional | Medium | [#435](https://github.com/yuvrajsinghgmx/ShopSmart/issues/435) |
@@ -128,14 +127,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🤖 Auto-unassignment Summary - Thu Sep 25 2025 | Easy | [#488](https://github.com/SandeepVashishtha/Eventra/issues/488) |
-| Enhance the cards for events | Medium | [#354](https://github.com/SandeepVashishtha/Eventra/issues/354) |
+| Update README to address issue #<issue-number> | Medium | [#522](https://github.com/SandeepVashishtha/Eventra/pull/522) |
 | Add Global Search Bar on Main Page | Medium | [#321](https://github.com/SandeepVashishtha/Eventra/issues/321) |
 | UI Enhancement: Improve Newsletter Subscription Section | Medium | [#318](https://github.com/SandeepVashishtha/Eventra/issues/318) |
 | Enhance "Ready to create your first event?" CTA Section | Medium | [#317](https://github.com/SandeepVashishtha/Eventra/issues/317) |
 | Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
-| Adding dark/ light toggle button | Medium | [#192](https://github.com/SandeepVashishtha/Eventra/issues/192) |
-| Sort Dropdown for Events List | Medium | [#155](https://github.com/SandeepVashishtha/Eventra/issues/155) |
 
 ---
 
