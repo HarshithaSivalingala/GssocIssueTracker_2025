@@ -28,6 +28,33 @@
 
 ---
 
+## 📌 Project: DevElevate
+
+📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
+Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
+An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
+Personalized dashboards for learners, including progress tracking, daily planners, and goals.
+A tech feed offering real-time internship updates, hackathon events, and developer news.
+Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
+Role-based authentication for users and admins, with profile management and admin dashboard.
+Integrated coding practice links (GFG, LeetCode, HackerRank).
+Accessibility features like dark mode,white.
+
+🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
+
+💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| - No scroll access for sidebar items | Medium | [#529](https://github.com/abhisek2004/Dev-Elevate/issues/529) |
+| toggle for light/dark theme | Medium | [#528](https://github.com/abhisek2004/Dev-Elevate/issues/528) |
+
+---
+
 ## 📌 Project: JobSync - Inclusive Job Finder Platform
 
 📝 **Description:** JobSync is a job discovery platform designed for underprivileged individuals and daily wage workers. It simplifies access to job opportunities through a clean UI, multilingual support, and voice-enabled search. Contributors will help build core features like user authentication, a job search dashboard with scraping or API integration, and accessibility tools for low-literacy users. The goal is to create a user-friendly and inclusive job-seeking experience for those who need it most.
@@ -42,6 +69,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🐛 : Feature section content is not centered | Medium | [#339](https://github.com/adityagarwal15/JobSync/issues/339) |
 | JobSync Application : Feature Request Redesign Contact Page UI | Medium | [#338](https://github.com/adityagarwal15/JobSync/issues/338) |
 | Search Bar in Navbar | Medium | [#337](https://github.com/adityagarwal15/JobSync/issues/337) |
 | we can enhance the menu bar | Medium | [#336](https://github.com/adityagarwal15/JobSync/issues/336) |
@@ -116,18 +144,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| two times comment and like | Medium | [#1250](https://github.com/Code-A2Z/code-a2z/issues/1250) |
-| Code section is not visible | Medium | [#1249](https://github.com/Code-A2Z/code-a2z/issues/1249) |
-| added email service using resend | Medium | [#1248](https://github.com/Code-A2Z/code-a2z/pull/1248) |
 | Consider migrating from Nodemailer to Resend for improved email delivery | Medium | [#1247](https://github.com/Code-A2Z/code-a2z/issues/1247) |
-| Feature/backend/sorting projects in collection | Medium | [#1246](https://github.com/Code-A2Z/code-a2z/pull/1246) |
-| Add sign out confirmation modal | Medium | [#1242](https://github.com/Code-A2Z/code-a2z/pull/1242) |
 | Login Signup UI improvement | Medium | [#1239](https://github.com/Code-A2Z/code-a2z/issues/1239) |
 | Feature Request: Add helmet and hpp Middleware | Medium | [#1236](https://github.com/Code-A2Z/code-a2z/issues/1236) |
 | feat(auth): Add departement validation to signup route | Medium | [#1235](https://github.com/Code-A2Z/code-a2z/pull/1235) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
+| 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
+| Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
+| 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
+| 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
+| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
 
 ---
 
@@ -321,8 +349,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Custom xssFilter is instantiated but never used | Easy | [#296](https://github.com/GauravKarakoti/Weather-API/issues/296) |
-| Added performance.md and documentation.md in the issue template | Medium | [#315](https://github.com/GauravKarakoti/Weather-API/pull/315) |
-| The issue template currenty lacks document and performance files | Medium | [#314](https://github.com/GauravKarakoti/Weather-API/issues/314) |
 | connect Weather route with OpenWeatherMap API | Medium | [#288](https://github.com/GauravKarakoti/Weather-API/pull/288) |
 | Admin credentials are saved in plaintext (Base64) in sessionStorage | Hard | [#289](https://github.com/GauravKarakoti/Weather-API/issues/289) |
 
@@ -345,6 +371,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI/UX Issues on Home Page | Medium | [#877](https://github.com/HarshS16/Civix/issues/877) |
+| fix(ui): improve card headline contrast on hover in dark mode | Medium | [#876](https://github.com/HarshS16/Civix/pull/876) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
 | Incomplete gradient on the newsletter subscribe button | Medium | [#874](https://github.com/HarshS16/Civix/issues/874) |
 | Missing hover arrow icon for "Documentation" link in footer | Medium | [#873](https://github.com/HarshS16/Civix/issues/873) |
@@ -402,10 +430,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Footer Section to Contact Page | Medium | [#586](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/586) |
-| feat: Implement Backend Dry-Run for C-Cpp | Medium | [#585](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/585) |
+| Added footer on Contact page | Medium | [#593](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/593) |
+| feat: Updated Sidebar Structure | Medium | [#592](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/592) |
+| feat(dashboard): enhance student progress cards ui | Medium | [#591](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/591) |
+| Sidebar got y-overflowed | Medium | [#590](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/590) |
+| ENH: enhanced Aptitude Page ui | Medium | [#589](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/589) |
+| UI Breakage in Progress Tracker | Medium | [#588](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/588) |
+| UI Breakage in Aptitude Page | Medium | [#587](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/587) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -654,12 +686,10 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Google OAuth authentication and news API endpoints to documentation | Easy | [#294](https://github.com/Yash159357/BlyFt/pull/294) |
-| Share news feature | Easy | [#293](https://github.com/Yash159357/BlyFt/pull/293) |
+| Added Localization to the app | Easy | [#295](https://github.com/Yash159357/BlyFt/pull/295) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
 | Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BlyFt/issues/167) |
-| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BlyFt/issues/170) |
 
 ---
 
@@ -677,7 +707,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add NVIDIA RTX 4060 Ti GPU data | Medium | [#99](https://github.com/SamXop123/RigCrafter/pull/99) |
 | Feature: Implement Price Tracking and Alerts for Components | Medium | [#95](https://github.com/SamXop123/RigCrafter/issues/95) |
 | Enhancement: Add Filter by Availability for Components | Medium | [#94](https://github.com/SamXop123/RigCrafter/issues/94) |
 | Add more components to the Builder | Hard | [#96](https://github.com/SamXop123/RigCrafter/issues/96) |
@@ -932,12 +961,10 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Google OAuth authentication and news API endpoints to documentation | Easy | [#294](https://github.com/Yash159357/BlyFt/pull/294) |
-| Share news feature | Easy | [#293](https://github.com/Yash159357/BlyFt/pull/293) |
+| Added Localization to the app | Easy | [#295](https://github.com/Yash159357/BlyFt/pull/295) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
 | Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BlyFt/issues/167) |
-| Media: Developer Setup Tutorial Video | Hard | [#170](https://github.com/Yash159357/BlyFt/issues/170) |
 
 ---
 
@@ -990,15 +1017,12 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Login button not clickable in the nav bar | Medium | [#142](https://github.com/DevSyncx/DevSync/issues/142) |
-| Implement Forgot/Reset Password Feature | Medium | [#140](https://github.com/DevSyncx/DevSync/pull/140) |
+| Leetcode Dashboard with GrapghQL API | Medium | [#146](https://github.com/DevSyncx/DevSync/pull/146) |
+| Feature/user feedback review page | Medium | [#145](https://github.com/DevSyncx/DevSync/pull/145) |
+| feat(Pomodoro)- Implemented feature link, prevented auto start of an | Medium | [#143](https://github.com/DevSyncx/DevSync/pull/143) |
 | add hover effect to footer links and logos | Medium | [#139](https://github.com/DevSyncx/DevSync/pull/139) |
-| Footer: Update Twitter logo to new X branding #137 | Medium | [#138](https://github.com/DevSyncx/DevSync/pull/138) |
-| Aligned login/signup buttons in navbar and enhanced navbar | Medium | [#136](https://github.com/DevSyncx/DevSync/pull/136) |
 | Add required environment variables to Getting Started documentation | Medium | [#135](https://github.com/DevSyncx/DevSync/issues/135) |
-| Add FAQ section to homepage | Medium | [#134](https://github.com/DevSyncx/DevSync/pull/134) |
 | Add FAQ section on home page | Medium | [#133](https://github.com/DevSyncx/DevSync/issues/133) |
-| Fix #87 developer profile text | Medium | [#132](https://github.com/DevSyncx/DevSync/pull/132) |
 | To Do page not working. | Medium | [#131](https://github.com/DevSyncx/DevSync/issues/131) |
 | Add GitHub OAuth authentication | Medium | [#130](https://github.com/DevSyncx/DevSync/pull/130) |
 | feat: Add GitHub Profile integration with frontend and backend | Medium | [#129](https://github.com/DevSyncx/DevSync/pull/129) |
@@ -1130,6 +1154,7 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve auto-comment workflow for new issues (triage, needs-info, collaborator-check) | Medium | [#201](https://github.com/dipexplorer/LegalHuB/issues/201) |
 | Integrate Google OAuth for User Authentication | Medium | [#185](https://github.com/dipexplorer/LegalHuB/pull/185) |
 | Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
 
@@ -1324,6 +1349,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Imp flexbox | Medium | [#841](https://github.com/Premkolte/AnimateHub/pull/841) |
 | Close button and copy button is not showing in Mac | Medium | [#833](https://github.com/Premkolte/AnimateHub/issues/833) |
 | Level 3 Futuristic UI Enhancements – App.jsx & Styles (Deployment-Safe) | Medium | [#832](https://github.com/Premkolte/AnimateHub/issues/832) |
 | Enhance vercel.json for Security, Performance & Scalability | Medium | [#830](https://github.com/Premkolte/AnimateHub/issues/830) |
@@ -1391,10 +1417,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🏥 DocAtHome - Comprehensive Healthcare Management Platform | Medium | [#235](https://github.com/shandilya-rajnandini/DocAtHome/pull/235) |
+| feat: implement useApi custom hook to abstract API call logic | Medium | [#237](https://github.com/shandilya-rajnandini/DocAtHome/pull/237) |
+| feat: implement appointment cancellation with 24-hour policy | Medium | [#236](https://github.com/shandilya-rajnandini/DocAtHome/pull/236) |
 | Verification of Doctors by Admin (Backend Implementation) | Medium | [#233](https://github.com/shandilya-rajnandini/DocAtHome/issues/233) |
 | Add Review and Star Rating to Doctors by Patients | Medium | [#232](https://github.com/shandilya-rajnandini/DocAtHome/issues/232) |
-| feat: implement public health Q&A forum with professional verification | Medium | [#231](https://github.com/shandilya-rajnandini/DocAtHome/pull/231) |
 | 🐛 UI/UX Issue: Footer Theme Inconsistency | Medium | [#230](https://github.com/shandilya-rajnandini/DocAtHome/issues/230) |
 | 🐛 UI/UX Issue: Register Form Overlap with Navbar | Medium | [#229](https://github.com/shandilya-rajnandini/DocAtHome/issues/229) |
 | Map view | Medium | [#228](https://github.com/shandilya-rajnandini/DocAtHome/pull/228) |
@@ -1688,7 +1714,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 |----------|----------------|---------|
 | Adding attractive homepage | Medium | [#86](https://github.com/Vijayaa21/Blabber/issues/86) |
 | Add Template for Pull Request | Medium | [#85](https://github.com/Vijayaa21/Blabber/issues/85) |
-| chore: update Sidebar.jsx and other changes | Medium | [#83](https://github.com/Vijayaa21/Blabber/pull/83) |
 | Add project structure documentation | Medium | [#82](https://github.com/Vijayaa21/Blabber/issues/82) |
 | Added Bookmark Functionality | Medium | [#76](https://github.com/Vijayaa21/Blabber/pull/76) |
 | Implement view/hide password toggle | Medium | [#68](https://github.com/Vijayaa21/Blabber/issues/68) |
