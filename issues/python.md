@@ -74,14 +74,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
+| Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
 | Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
-| Removed github login | Medium | [#290](https://github.com/Amarjha01/InfantCareCompass/pull/290) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
-| Navbar Desktop Alignment Fixed | Medium | [#280](https://github.com/Amarjha01/InfantCareCompass/pull/280) |
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 | 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
@@ -230,17 +230,16 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
-| Bump require-in-the-middle from 7.5.2 to 8.0.0 in /frontend | Medium | [#2319](https://github.com/OWASP/Nest/pull/2319) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | test(frontend): migrate to Jest v30, bump @types/jest, add VM modules… | Medium | [#2304](https://github.com/OWASP/Nest/pull/2304) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
-| Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 | Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
 | Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
+| Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 
 ---
 
@@ -491,6 +490,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Navbar not opening issue | Medium | [#234](https://github.com/Khushi-Nigam/jobportal/pull/234) |
 | Improve Documentation with Setup Instructions & Preview GIFs. | Medium | [#233](https://github.com/Khushi-Nigam/jobportal/issues/233) |
 | Feature: Add Dark Mode Toggle for Better UX Accessibility | Medium | [#232](https://github.com/Khushi-Nigam/jobportal/pull/232) |
 | Fix Card Alignment and Button Positioning | Medium | [#231](https://github.com/Khushi-Nigam/jobportal/issues/231) |
@@ -548,10 +548,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Footer Section to Contact Page | Medium | [#586](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/586) |
-| feat: Implement Backend Dry-Run for C-Cpp | Medium | [#585](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/585) |
+| Added footer on Contact page | Medium | [#593](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/593) |
+| feat: Updated Sidebar Structure | Medium | [#592](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/592) |
+| feat(dashboard): enhance student progress cards ui | Medium | [#591](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/591) |
+| Sidebar got y-overflowed | Medium | [#590](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/590) |
+| ENH: enhanced Aptitude Page ui | Medium | [#589](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/589) |
+| UI Breakage in Progress Tracker | Medium | [#588](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/588) |
+| UI Breakage in Aptitude Page | Medium | [#587](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/587) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -569,7 +573,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Documentation with Setup Instructions & Preview GIFs. | Medium | [#369](https://github.com/omroy07/AgriTech/issues/369) |
+| Fix & Enhance Search Functionality | Medium | [#371](https://github.com/omroy07/AgriTech/issues/371) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
@@ -713,6 +717,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added beginner-friendly EDA on Titanic dataset | Easy | [#540](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/540) |
+| feat: add Credit Risk Prediction module under Financial Analysis (# 720) | Medium | [#732](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/732) |
 | Snake Game playing bot using Reinforcement Learning | Medium | [#731](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/731) |
 | feat: Transform MoodMeet to Enterprise-Grade Meeting Analytics Platform - Complete UI/UX Overhaul | Medium | [#730](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/730) |
 | Transform MoodMeet to Enterprise-Grade Meeting Analytics Platform - Multiple UI/UX Issues & Missing Professional Features | Medium | [#729](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/729) |
@@ -731,7 +736,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add Matplotlib Basics Notebook to Machine Learning Folder | Medium | [#479](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/479) |
 | AIDice Master | Medium | [#466](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/466) |
 | GSSoC'25 : Real-Time Market Sentiment-Driven Trading Signal Generator | Medium | [#412](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/412) |
-| Feature Request: Instagram Caption Recommendation System | Medium | [#352](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/352) |
 
 ---
 
@@ -860,6 +864,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improving Consistent UI Design Across All Pages | Medium | [#298](https://github.com/eccentriccoder01/TalkHeal/issues/298) |
+| Externalize Blog Posts Data into JSON for Easier Management | Medium | [#296](https://github.com/eccentriccoder01/TalkHeal/issues/296) |
 | 1.Creative Outlets & Hobbies
 Art, music, writing, gardening, or any hobby .These activities give our mind a break, reduce stress, and bring joy without pressure. So we can make a group where people can share them freely so that they can also connect with more people and these will help them to socialize 
 
@@ -1130,10 +1136,11 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding  Image Resizer Project | Medium | [#1804](https://github.com/UTSAVS26/PyVerse/pull/1804) |
-| New Web development Project : 🎨 Pixel Color Detector | Medium | [#1803](https://github.com/UTSAVS26/PyVerse/issues/1803) |
 | New  Advanced Project Proposal: "Image Resizer (GUI)" | Medium | [#1802](https://github.com/UTSAVS26/PyVerse/issues/1802) |
 | Stroke Prediction model | Medium | [#1612](https://github.com/UTSAVS26/PyVerse/pull/1612) |
 | ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
+| NLP Project autocorrect algorithm | Medium | [#1506](https://github.com/UTSAVS26/PyVerse/issues/1506) |
+| Added pyverse_tip CLI command to show random Python tips | Medium | [#1480](https://github.com/UTSAVS26/PyVerse/pull/1480) |
 
 ---
 
@@ -1747,7 +1754,9 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| created basic node server and connected mongoDB | Medium | [#83](https://github.com/CharithaReddy18/AI-health-chatbot/pull/83) |
+| Technology Stack Page - Modern UI Enhancement and Content Improvement | Medium | [#86](https://github.com/CharithaReddy18/AI-health-chatbot/issues/86) |
+| Doctor Recommender UI Enhancement | Medium | [#85](https://github.com/CharithaReddy18/AI-health-chatbot/issues/85) |
+| Advanced Wellness Hub - Complete Health Calculator Suite | Medium | [#84](https://github.com/CharithaReddy18/AI-health-chatbot/issues/84) |
 | added prescription analyzer feature | Medium | [#82](https://github.com/CharithaReddy18/AI-health-chatbot/pull/82) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
@@ -1767,6 +1776,7 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Resolve Corrupted files | Medium | [#41](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/41) |
 | Contributions and enhancements | Medium | [#40](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/40) |
 | Implement Support Vector Regression (SVR) for Crop Yield Prediction | Medium | [#39](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/39) |
 | Add AgriBot – AI Chatbot Using Gemini Model | Medium | [#38](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/38) |
@@ -1877,9 +1887,8 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Medium | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
-| FEATURE: Voice Input for PrivGPT Studio | Medium | [#106](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/106) |
-| Added page | Medium | [#105](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/105) |
+| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Easy | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
+| Added pages and removed changes made in package files#105 | Medium | [#108](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/108) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
