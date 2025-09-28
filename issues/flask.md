@@ -173,10 +173,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Footer Section to Contact Page | Medium | [#586](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/586) |
-| feat: Implement Backend Dry-Run for C-Cpp | Medium | [#585](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/585) |
+| Added footer on Contact page | Medium | [#593](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/593) |
+| feat: Updated Sidebar Structure | Medium | [#592](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/592) |
+| feat(dashboard): enhance student progress cards ui | Medium | [#591](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/591) |
+| Sidebar got y-overflowed | Medium | [#590](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/590) |
+| ENH: enhanced Aptitude Page ui | Medium | [#589](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/589) |
+| UI Breakage in Progress Tracker | Medium | [#588](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/588) |
+| UI Breakage in Aptitude Page | Medium | [#587](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/587) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -194,7 +198,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Documentation with Setup Instructions & Preview GIFs. | Medium | [#369](https://github.com/omroy07/AgriTech/issues/369) |
+| Fix & Enhance Search Functionality | Medium | [#371](https://github.com/omroy07/AgriTech/issues/371) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
@@ -412,9 +416,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Medium | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
-| FEATURE: Voice Input for PrivGPT Studio | Medium | [#106](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/106) |
-| Added page | Medium | [#105](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/105) |
+| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Easy | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
+| Added pages and removed changes made in package files#105 | Medium | [#108](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/108) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
