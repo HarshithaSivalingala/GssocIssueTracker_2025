@@ -160,17 +160,16 @@
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
-| Bump require-in-the-middle from 7.5.2 to 8.0.0 in /frontend | Medium | [#2319](https://github.com/OWASP/Nest/pull/2319) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | test(frontend): migrate to Jest v30, bump @types/jest, add VM modules… | Medium | [#2304](https://github.com/OWASP/Nest/pull/2304) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
-| Enhance /about page with new sections | Medium | [#2243](https://github.com/OWASP/Nest/pull/2243) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 | Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
 | Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
+| Migrate Apollo Client to v4 | Medium | [#2178](https://github.com/OWASP/Nest/pull/2178) |
 
 ---
 
@@ -188,10 +187,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Persist cursor toggle state using localStorage. | Easy | [#323](https://github.com/Ayushjhawar8/Flavor-ai/pull/323) |
+| added checklist feature with local storage | Easy | [#320](https://github.com/Ayushjhawar8/Flavor-ai/pull/320) |
+| Terms of Service Page | Easy | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
+| Privacy policy page implementation | Easy | [#317](https://github.com/Ayushjhawar8/Flavor-ai/pull/317) |
+| Remodify the add new recipe page | Medium | [#325](https://github.com/Ayushjhawar8/Flavor-ai/issues/325) |
+| Added a difficulty filter for the festive dishes page | Medium | [#324](https://github.com/Ayushjhawar8/Flavor-ai/pull/324) |
 | Revamp | Medium | [#321](https://github.com/Ayushjhawar8/Flavor-ai/pull/321) |
-| added checklist feature with local storage | Medium | [#320](https://github.com/Ayushjhawar8/Flavor-ai/pull/320) |
-| Terms of Service Page | Medium | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
-| Privacy policy page implementation | Medium | [#317](https://github.com/Ayushjhawar8/Flavor-ai/pull/317) |
 
 ---
 
@@ -429,8 +431,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: added DOCX file support with mammoth parser | Medium | [#115](https://github.com/Er-luffy-D/SimplifAI/pull/115) |
 | Flowcharts and strong password generator | Medium | [#114](https://github.com/Er-luffy-D/SimplifAI/issues/114) |
-| added DOCX file support with mammoth parser | Medium | [#113](https://github.com/Er-luffy-D/SimplifAI/pull/113) |
 | Add dark mode toggle, update card styles, and tailwind config | Medium | [#103](https://github.com/Er-luffy-D/SimplifAI/pull/103) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
@@ -546,7 +548,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📝[Docs]: New Blog GitHub Copilot CLI is now in public preview | Easy | [#608](https://github.com/recodehive/recode-website/issues/608) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -565,8 +566,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| Improve UI of Socials Button Hover Animation on the Footer section | Medium | [#371](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/371) |
+| Checkbox showing download symbol instead of tick in Sheet page revision section | Medium | [#376](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/376) |
+| Fix progress sync | Medium | [#375](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/375) |
+| Fix: Replace Total Active Days with Total Submissions across all CP platforms | Medium | [#374](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/374) |
 | updated botwidget responsiveness for all screentype | Medium | [#370](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/370) |
 | Adding a image slider | Medium | [#364](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/364) |
 | feat: Add progress dashboard with ML-based topic categorization | Medium | [#359](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/359) |
@@ -775,6 +777,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 404 Page Not Visible in Light Theme | Easy | [#85](https://github.com/yashvikram30/legalease/issues/85) |
+| Home link missing from navbar after login | Medium | [#120](https://github.com/yashvikram30/legalease/issues/120) |
 | about us page | Medium | [#119](https://github.com/yashvikram30/legalease/issues/119) |
 | Added complete dashboard backend and frontend for dynamic data | Medium | [#117](https://github.com/yashvikram30/legalease/pull/117) |
 | Broken Social Media Icon Link in Footer | Medium | [#116](https://github.com/yashvikram30/legalease/issues/116) |
@@ -830,10 +833,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Dark mode stying for signup form | Medium | [#272](https://github.com/AditiGupta-tech/neonest/pull/272) |
 | Add curated parenting resources and connect Resources page to utils/resources.js | Medium | [#271](https://github.com/AditiGupta-tech/neonest/pull/271) |
 | fixed theme mode in baby details section form | Medium | [#270](https://github.com/AditiGupta-tech/neonest/pull/270) |
-| Docs: add environment setup documentation for contributors | Medium | [#269](https://github.com/AditiGupta-tech/neonest/issues/269) |
-| Bug: Form fields not dark mode friendly (placeholders invisible) | Medium | [#268](https://github.com/AditiGupta-tech/neonest/issues/268) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -1073,15 +1075,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Easy | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
-| Enhance navbar styling and alignment | Medium | [#37](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/37) |
-| feat: Implement dark mode, auth state UI, and enhanced login form | Medium | [#36](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/36) |
-| Quantity Buttons, Add to Cart, and Checkout Not Functional on Product and Cart Pages | Medium | [#34](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/34) |
-| feat(homepage): add email subscription form with validation | Medium | [#32](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/32) |
-| Add contact page and link in footer | Medium | [#31](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/31) |
-| feat(uiux): add product data and component for ecommerce ui | Medium | [#30](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/30) |
-| fix(footer): update copyright year to be dynamic | Medium | [#29](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/29) |
-| Updated website title and description for the seo | Medium | [#28](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/28) |
+| Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Medium | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
 
 ---
 
@@ -1200,9 +1194,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Medium | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
-| FEATURE: Voice Input for PrivGPT Studio | Medium | [#106](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/106) |
-| Added page | Medium | [#105](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/105) |
+| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Easy | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
+| Added pages and removed changes made in package files#105 | Medium | [#108](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/108) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 
@@ -1441,13 +1434,9 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| “Align all CTA buttons (‘Get Started’, ‘Upgrade to Pro’, ‘Talk to Sales’) for consistent and professional layout” | Medium | [#194](https://github.com/vatsal-bhakodia/smriti-ai/issues/194) |
-| fix: prevent back-to-top button from overlapping footer | Medium | [#193](https://github.com/vatsal-bhakodia/smriti-ai/pull/193) |
-| fixed the blogs route in the footer | Medium | [#192](https://github.com/vatsal-bhakodia/smriti-ai/pull/192) |
-| feat: Add dark-to-light transitions for form inputs | Medium | [#191](https://github.com/vatsal-bhakodia/smriti-ai/pull/191) |
-| Add Standardized Issue and Pull Request Templates | Medium | [#184](https://github.com/vatsal-bhakodia/smriti-ai/issues/184) |
-| Update README.md | Medium | [#183](https://github.com/vatsal-bhakodia/smriti-ai/pull/183) |
-| fix(backfill): add batching, dry-run, and transactional updates for QuizResult backfill | Medium | [#173](https://github.com/vatsal-bhakodia/smriti-ai/pull/173) |
+| Fix: Regenerate CAPTCHA, Improve Error Handling, and UX | Medium | [#198](https://github.com/vatsal-bhakodia/smriti-ai/pull/198) |
+| Bug: Contact Form CAPTCHA Fails to Regenerate on Submission | Medium | [#197](https://github.com/vatsal-bhakodia/smriti-ai/issues/197) |
+| Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
 
 ---
 
