@@ -14,7 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| created basic node server and connected mongoDB | Medium | [#83](https://github.com/CharithaReddy18/AI-health-chatbot/pull/83) |
+| Technology Stack Page - Modern UI Enhancement and Content Improvement | Medium | [#86](https://github.com/CharithaReddy18/AI-health-chatbot/issues/86) |
+| Doctor Recommender UI Enhancement | Medium | [#85](https://github.com/CharithaReddy18/AI-health-chatbot/issues/85) |
+| Advanced Wellness Hub - Complete Health Calculator Suite | Medium | [#84](https://github.com/CharithaReddy18/AI-health-chatbot/issues/84) |
 | added prescription analyzer feature | Medium | [#82](https://github.com/CharithaReddy18/AI-health-chatbot/pull/82) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
