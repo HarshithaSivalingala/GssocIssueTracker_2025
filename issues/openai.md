@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Multi-Language Support and Fix Repository Issues | Medium | [#311](https://github.com/Amarjha01/InfantCareCompass/pull/311) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
@@ -24,7 +25,6 @@
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 | Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
-| 💫 UI Enhancement: Added AOS Scroll Animations + Fixed Auth Page Crash | Medium | [#237](https://github.com/Amarjha01/InfantCareCompass/pull/237) |
 
 ---
 
@@ -42,11 +42,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Persist cursor toggle state using localStorage. | Easy | [#323](https://github.com/Ayushjhawar8/Flavor-ai/pull/323) |
-| added checklist feature with local storage | Easy | [#320](https://github.com/Ayushjhawar8/Flavor-ai/pull/320) |
 | Terms of Service Page | Easy | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
-| Privacy policy page implementation | Easy | [#317](https://github.com/Ayushjhawar8/Flavor-ai/pull/317) |
-| Remodify the add new recipe page | Medium | [#325](https://github.com/Ayushjhawar8/Flavor-ai/issues/325) |
 | Added a difficulty filter for the festive dishes page | Medium | [#324](https://github.com/Ayushjhawar8/Flavor-ai/pull/324) |
 | Revamp | Medium | [#321](https://github.com/Ayushjhawar8/Flavor-ai/pull/321) |
 
@@ -105,13 +101,18 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add the Forgot Password Page/Option on Sign-in Page | Medium | [#604](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/604) |
+| Fix login form validation | Medium | [#603](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/603) |
+| feat: Company sidebar refractored | Medium | [#602](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/602) |
+| feat: Added backend setup for getCompany data | Medium | [#601](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/601) |
+| feat: Fix Company logic | Medium | [#600](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/600) |
+| Implement Sample UI for **Employee Performance Page | Medium | [#599](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/599) |
+| Implement Sample UI for **Employee Directory Page | Medium | [#598](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/598) |
+| Redesign & Group Sidebar Navigation with Collapsible Dropdowns | Medium | [#597](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/597) |
+| Frontend Integration: Connect Dashboard UI with Backend API | Medium | [#596](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/596) |
+| Backend: Replace Mock Dashboard Data with Real Company Data from Database | Medium | [#595](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/595) |
+| Company Registration API Fails Due to Missing `email` & Invalid `role` Enum | Medium | [#594](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/594) |
 | Added footer on Contact page | Medium | [#593](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/593) |
-| feat: Updated Sidebar Structure | Medium | [#592](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/592) |
-| feat(dashboard): enhance student progress cards ui | Medium | [#591](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/591) |
-| Sidebar got y-overflowed | Medium | [#590](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/590) |
-| ENH: enhanced Aptitude Page ui | Medium | [#589](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/589) |
-| UI Breakage in Progress Tracker | Medium | [#588](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/588) |
-| UI Breakage in Aptitude Page | Medium | [#587](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/587) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -201,6 +202,7 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Clear Setup and Contribution Instructions to README | Medium | [#13](https://github.com/khushbu-singh0001/Nexus_dawn/issues/13) |
 | Added Contributing.md | Medium | [#12](https://github.com/khushbu-singh0001/Nexus_dawn/pull/12) |
 | Add a CONTRIBUTING.md file for better onboarding #8 | Medium | [#11](https://github.com/khushbu-singh0001/Nexus_dawn/pull/11) |
 | Added Code of Conduct | Medium | [#4](https://github.com/khushbu-singh0001/Nexus_dawn/pull/4) |
