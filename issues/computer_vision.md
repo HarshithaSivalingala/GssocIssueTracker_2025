@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix footer spacing issue - add bottom padding to prevent content overlap | Easy | [#42](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) |
+| Adding Spotify songs | Medium | [#77](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/77) |
 | Mood based music recommender | Medium | [#76](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/76) |
 | 🎵 Issue: Add Frontend Web Interface for Music Recommendation | Medium | [#75](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/75) |
 | Addition of automate issue create message | Medium | [#74](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/74) |
@@ -35,7 +36,6 @@
 | Added ONNX-based Emotion Detector in new_models (Python 3.13 compatible) | Medium | [#55](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/55) |
 | Refactored app structure, added helpers and model training script | Medium | [#54](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/54) |
 | feat(ui): Add Gradio Frontend for Emotion-Based Music Recommendation | Medium | [#48](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/48) |
-| Fixes:#2 Add DeepFace-based emotion detection with YouTube music recommendation | Medium | [#39](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/39) |
 | feat(playlists): add emotion-based playlist creation functionality | Hard | [#60](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/60) |
 | Added print statement to log when video streaming starts | Hard | [#50](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) |
 
