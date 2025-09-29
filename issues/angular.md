@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve README with backend integration steps | Medium | [#149](https://github.com/abhisek247767/PeopleHub-Frontend/pull/149) |
 | Reapply changes | Medium | [#148](https://github.com/abhisek247767/PeopleHub-Frontend/pull/148) |
 | GitHub Actions CI workflow for project validation | Medium | [#147](https://github.com/abhisek247767/PeopleHub-Frontend/issues/147) |
 | Login with different role | Medium | [#146](https://github.com/abhisek247767/PeopleHub-Frontend/pull/146) |
