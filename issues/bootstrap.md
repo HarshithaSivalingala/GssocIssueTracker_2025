@@ -1,5 +1,23 @@
 # 🚀 Projects using Bootstrap
 
+## 📌 Project: Canvas-Editor
+
+📝 **Description:** This is a simple beginner friendly web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
+
+🔗 [View Project](https://github.com/vishanurag/Canvas-Editor/)
+
+💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added modal popup for Practice Exercises and Advanced Brush Techniques | Medium | [#1370](https://github.com/vishanurag/Canvas-Editor/pull/1370) |
+
+---
+
 ## 📌 Project: GrowCraft
 
 📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
@@ -18,27 +36,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Newsletter Subscription Section to Footer | Medium | [#738](https://github.com/gyanshankar1708/GrowCraft/pull/738) |
-| Update navbar in FAQ page | Medium | [#736](https://github.com/gyanshankar1708/GrowCraft/issues/736) |
-| Update navbar in Our Work page | Medium | [#735](https://github.com/gyanshankar1708/GrowCraft/issues/735) |
-| Fix FAQ page: Contact button not linked | Medium | [#734](https://github.com/gyanshankar1708/GrowCraft/issues/734) |
-| Redesign Training & Internship Programs section: card layout and styling | Medium | [#733](https://github.com/gyanshankar1708/GrowCraft/issues/733) |
-| Light mode toggle not available on Contact page | Medium | [#731](https://github.com/gyanshankar1708/GrowCraft/issues/731) |
-| Close button not visible in light mode & duplicate 'Request Consultation' buttons in Cyber Analyst form | Medium | [#729](https://github.com/gyanshankar1708/GrowCraft/issues/729) |
-| Blog listing page returns 404 on production  URL | Medium | [#728](https://github.com/gyanshankar1708/GrowCraft/issues/728) |
-| feat: Integrate AOS for on-scroll animations | Medium | [#727](https://github.com/gyanshankar1708/GrowCraft/pull/727) |
-| Enhance Homepage "About Us" Section with Improved Design & Content | Medium | [#723](https://github.com/gyanshankar1708/GrowCraft/pull/723) |
-| Duplicate footer Fixed | Medium | [#722](https://github.com/gyanshankar1708/GrowCraft/pull/722) |
-| Redesigend the Digital Marketing page | Medium | [#721](https://github.com/gyanshankar1708/GrowCraft/pull/721) |
-| Fixed the FAQ page | Medium | [#720](https://github.com/gyanshankar1708/GrowCraft/pull/720) |
-| Removal of unnecessary page (duplicate) | Medium | [#719](https://github.com/gyanshankar1708/GrowCraft/issues/719) |
-| Links color and logo not visible in footer of contact page | Medium | [#718](https://github.com/gyanshankar1708/GrowCraft/issues/718) |
-| Footer Not Properly Styled on Our Work Page | Medium | [#717](https://github.com/gyanshankar1708/GrowCraft/issues/717) |
-| Card headings not visible in dark mode on content writing page | Medium | [#716](https://github.com/gyanshankar1708/GrowCraft/issues/716) |
-| Footer Inconsistently Styled on Social Media Management Page | Medium | [#715](https://github.com/gyanshankar1708/GrowCraft/issues/715) |
-| Navbar Not Properly Styled on Content Writing Page | Medium | [#714](https://github.com/gyanshankar1708/GrowCraft/issues/714) |
-| Styled footer for Digital Marketing page | Medium | [#713](https://github.com/gyanshankar1708/GrowCraft/pull/713) |
-| update navbar in about page | Medium | [#699](https://github.com/gyanshankar1708/GrowCraft/pull/699) |
+| Enhance Homepage "About Us" Section with Improved Design & Content | Medium | [#777](https://github.com/gyanshankar1708/GrowCraft/pull/777) |
+| Fixed the text color issue in cards of content writing page | Medium | [#776](https://github.com/gyanshankar1708/GrowCraft/pull/776) |
+| Update about page navbar | Medium | [#771](https://github.com/gyanshankar1708/GrowCraft/pull/771) |
+| Footer links are properly directing in learn more page. | Medium | [#770](https://github.com/gyanshankar1708/GrowCraft/pull/770) |
+| Links are properly directing to respective pages in faq page. | Medium | [#766](https://github.com/gyanshankar1708/GrowCraft/pull/766) |
+| Fixed directing of portfolio link in digital marketing page. | Medium | [#764](https://github.com/gyanshankar1708/GrowCraft/pull/764) |
+| styled navbar consistently for content writing page. | Medium | [#763](https://github.com/gyanshankar1708/GrowCraft/pull/763) |
+| fixed sidebar functioning in proper way | Medium | [#762](https://github.com/gyanshankar1708/GrowCraft/pull/762) |
+| Added documentation and performance md | Medium | [#761](https://github.com/gyanshankar1708/GrowCraft/pull/761) |
 
 ---
 
@@ -77,6 +83,24 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
+
+---
+
+## 📌 Project: sachiva
+
+📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
+
+🔗 [View Project](https://github.com/sachiva1/sachiva)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Security, Accessibility, and Quality Improvements for Sachiva Web Platform | Medium | [#278](https://github.com/sachiva1/sachiva/pull/278) |
 
 ---
 
