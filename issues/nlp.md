@@ -14,9 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Technology Stack Page - Modern UI Enhancement and Content Improvement | Medium | [#86](https://github.com/CharithaReddy18/AI-health-chatbot/issues/86) |
-| Doctor Recommender UI Enhancement | Medium | [#85](https://github.com/CharithaReddy18/AI-health-chatbot/issues/85) |
-| Advanced Wellness Hub - Complete Health Calculator Suite | Medium | [#84](https://github.com/CharithaReddy18/AI-health-chatbot/issues/84) |
+| Improved UI of TechStack and Filled appropriate updated content | Medium | [#93](https://github.com/CharithaReddy18/AI-health-chatbot/pull/93) |
 | added prescription analyzer feature | Medium | [#82](https://github.com/CharithaReddy18/AI-health-chatbot/pull/82) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
