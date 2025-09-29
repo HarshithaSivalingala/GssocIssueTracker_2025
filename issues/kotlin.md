@@ -63,6 +63,7 @@ User Profile: BMI calculator and fitness analytics.
 | 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
 | Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
 | Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
+| Improve README with setup & build instructions | Medium | [#31](https://github.com/akshtshrma/KinetiX/issues/31) |
 | feat: Add GoalAchievedDialog | Medium | [#30](https://github.com/akshtshrma/KinetiX/pull/30) |
 | Add GitHub Issue & PR Templates | Medium | [#29](https://github.com/akshtshrma/KinetiX/issues/29) |
 | 🧠 [Feature Suggestion] Add Progress Visualization for Better Tracking & Motivation | Medium | [#28](https://github.com/akshtshrma/KinetiX/issues/28) |
