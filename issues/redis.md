@@ -105,6 +105,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| GitHub Actions CI workflow for project validation | Medium | [#41](https://github.com/vinit105/ideaVault/issues/41) |
 | 🌐 Feature Request: Public Idea Registry with Filters and Tags | Medium | [#1](https://github.com/vinit105/ideaVault/issues/1) |
 
 ---
