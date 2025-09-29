@@ -91,6 +91,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement Facebook OAuth 2.0 authentication with web platform compatibility | Easy | [#296](https://github.com/Yash159357/BlyFt/pull/296) |
 | Added Localization to the app | Easy | [#295](https://github.com/Yash159357/BlyFt/pull/295) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
@@ -157,6 +158,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement Facebook OAuth 2.0 authentication with web platform compatibility | Easy | [#296](https://github.com/Yash159357/BlyFt/pull/296) |
 | Added Localization to the app | Easy | [#295](https://github.com/Yash159357/BlyFt/pull/295) |
 | Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
 | Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
