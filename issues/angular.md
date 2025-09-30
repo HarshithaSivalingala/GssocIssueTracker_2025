@@ -14,8 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Reapply changes | Easy | [#148](https://github.com/abhisek247767/PeopleHub-Frontend/pull/148) |
 | Improve README with backend integration steps | Medium | [#149](https://github.com/abhisek247767/PeopleHub-Frontend/pull/149) |
-| Reapply changes | Medium | [#148](https://github.com/abhisek247767/PeopleHub-Frontend/pull/148) |
 | GitHub Actions CI workflow for project validation | Medium | [#147](https://github.com/abhisek247767/PeopleHub-Frontend/issues/147) |
 | Login with different role | Medium | [#146](https://github.com/abhisek247767/PeopleHub-Frontend/pull/146) |
 | feat: add role-based login option (Admin & Super-admin support) | Medium | [#145](https://github.com/abhisek247767/PeopleHub-Frontend/pull/145) |
