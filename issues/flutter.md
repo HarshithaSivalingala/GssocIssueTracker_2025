@@ -113,7 +113,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug Report : Inefficient Snackbar System Causing Message Conflicts | Easy | [#104](https://github.com/may-tas/TextEditingApp/issues/104) |
+| Feature Request : Brush type - marker | Medium | [#108](https://github.com/may-tas/TextEditingApp/issues/108) |
 
 ---
 
