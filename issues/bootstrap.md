@@ -1,23 +1,5 @@
 # 🚀 Projects using Bootstrap
 
-## 📌 Project: Canvas-Editor
-
-📝 **Description:** This is a simple beginner friendly web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
-
-🔗 [View Project](https://github.com/vishanurag/Canvas-Editor/)
-
-💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added modal popup for Practice Exercises and Advanced Brush Techniques | Medium | [#1370](https://github.com/vishanurag/Canvas-Editor/pull/1370) |
-
----
-
 ## 📌 Project: GrowCraft
 
 📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
@@ -36,6 +18,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Improvement in footer | Medium | [#812](https://github.com/gyanshankar1708/GrowCraft/issues/812) |
+| Adding a testimonial carousal | Medium | [#811](https://github.com/gyanshankar1708/GrowCraft/issues/811) |
+| BUG: Toggle theme button not visible on Contact Us Page | Medium | [#810](https://github.com/gyanshankar1708/GrowCraft/issues/810) |
+| Issue 757 | Medium | [#809](https://github.com/gyanshankar1708/GrowCraft/pull/809) |
+| Missing Footer on contact.html Page | Medium | [#808](https://github.com/gyanshankar1708/GrowCraft/issues/808) |
+| Footer on work.html is Misaligned, Incomplete, and Not Responsive | Medium | [#807](https://github.com/gyanshankar1708/GrowCraft/issues/807) |
+| Missing Footer on about.html Page | Medium | [#806](https://github.com/gyanshankar1708/GrowCraft/issues/806) |
+| Fix: Remove Duplicate Footer on blog.html and Align Like index.html | Medium | [#805](https://github.com/gyanshankar1708/GrowCraft/issues/805) |
+| Fix: Restructure Footer on index.html with Proper Columns and Responsive Design | Medium | [#804](https://github.com/gyanshankar1708/GrowCraft/pull/804) |
+| fix: Correct CTA button links on digital-marketting.html | Medium | [#803](https://github.com/gyanshankar1708/GrowCraft/pull/803) |
+| add scroll to top button in contact us | Medium | [#802](https://github.com/gyanshankar1708/GrowCraft/issues/802) |
+| Issue 751 | Medium | [#801](https://github.com/gyanshankar1708/GrowCraft/pull/801) |
+| Issue 754 | Medium | [#800](https://github.com/gyanshankar1708/GrowCraft/pull/800) |
+| Create `register_terms.html` and `register_conditions.html` pages for Signup page links | Medium | [#799](https://github.com/gyanshankar1708/GrowCraft/issues/799) |
+| feat(auth): Add Login, Signup, and Forgot Password pages with animation | Medium | [#798](https://github.com/gyanshankar1708/GrowCraft/pull/798) |
+| Duplicate Right-Side Navigation Buttons on Content Writing Section | Medium | [#797](https://github.com/gyanshankar1708/GrowCraft/issues/797) |
+| green glass cards fixed | Medium | [#796](https://github.com/gyanshankar1708/GrowCraft/pull/796) |
 | Enhance Homepage "About Us" Section with Improved Design & Content | Medium | [#777](https://github.com/gyanshankar1708/GrowCraft/pull/777) |
 | Fixed the text color issue in cards of content writing page | Medium | [#776](https://github.com/gyanshankar1708/GrowCraft/pull/776) |
 | Update about page navbar | Medium | [#771](https://github.com/gyanshankar1708/GrowCraft/pull/771) |
@@ -44,7 +43,6 @@
 | Fixed directing of portfolio link in digital marketing page. | Medium | [#764](https://github.com/gyanshankar1708/GrowCraft/pull/764) |
 | styled navbar consistently for content writing page. | Medium | [#763](https://github.com/gyanshankar1708/GrowCraft/pull/763) |
 | fixed sidebar functioning in proper way | Medium | [#762](https://github.com/gyanshankar1708/GrowCraft/pull/762) |
-| Added documentation and performance md | Medium | [#761](https://github.com/gyanshankar1708/GrowCraft/pull/761) |
 
 ---
 
