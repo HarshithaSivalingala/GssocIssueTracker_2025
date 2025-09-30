@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Pull Request (PR) Template | Medium | [#261](https://github.com/iaadillatif/techxninjas-client/issues/261) |
+| BUG FIX: Removing the private keys from .env.local file | Medium | [#260](https://github.com/iaadillatif/techxninjas-client/pull/260) |
 | Add courses which redirect to coursera and popular websites | Medium | [#259](https://github.com/iaadillatif/techxninjas-client/issues/259) |
 | Make the home page more futeristic | Medium | [#258](https://github.com/iaadillatif/techxninjas-client/issues/258) |
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
@@ -37,8 +39,6 @@
 | Add Automatic Scrolling Animation to "Learners" and "Mentors" Sections | Medium | [#235](https://github.com/iaadillatif/techxninjas-client/issues/235) |
 | Light/Dark option for lesser width screen made available (closes #40) | Medium | [#234](https://github.com/iaadillatif/techxninjas-client/pull/234) |
 | Betterment of Scrollbar for all pages | Medium | [#231](https://github.com/iaadillatif/techxninjas-client/issues/231) |
-| NEEDS A SEPARATE CODE PLAYGROUND SECTION FOR USERS TO PRACTICE CODE | Medium | [#230](https://github.com/iaadillatif/techxninjas-client/issues/230) |
-| NEEDS  A PROFESSIONAL BACKGROUNG IN ALL SECTIONS | Medium | [#229](https://github.com/iaadillatif/techxninjas-client/issues/229) |
 
 ---
 
@@ -64,10 +64,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| The footer text visibility problem in the DevElevate application | Medium | [#533](https://github.com/abhisek2004/Dev-Elevate/issues/533) |
-| Add the Forgot Password Page/Option On Sign-in Page | Medium | [#532](https://github.com/abhisek2004/Dev-Elevate/issues/532) |
-| - No scroll access for sidebar items | Medium | [#529](https://github.com/abhisek2004/Dev-Elevate/issues/529) |
-| toggle for light/dark theme | Medium | [#528](https://github.com/abhisek2004/Dev-Elevate/issues/528) |
+| Add calendar visualization for upcoming events | Medium | [#536](https://github.com/abhisek2004/Dev-Elevate/issues/536) |
+| fix(dashboard): reset learning progress and counters for new users | Medium | [#535](https://github.com/abhisek2004/Dev-Elevate/pull/535) |
 
 ---
 
@@ -86,6 +84,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Bump jest and @types/jest in /frontend | Medium | [#2329](https://github.com/OWASP/Nest/pull/2329) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
@@ -114,6 +113,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a proper issue template folder in the .github | Medium | [#165](https://github.com/BaraniVA/Habitheat/issues/165) |
 | Update README.md file | Medium | [#163](https://github.com/BaraniVA/Habitheat/issues/163) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#162](https://github.com/BaraniVA/Habitheat/issues/162) |
 | Docs : Added Table of contents with Toggle Button in README | Medium | [#160](https://github.com/BaraniVA/Habitheat/pull/160) |
@@ -263,6 +263,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: Add a navbar for easy section accessing | Medium | [#29](https://github.com/byteom/Interview01/pull/29) |
 | Resolved the conflicts in CONTRIBUTING.md file. | Medium | [#28](https://github.com/byteom/Interview01/pull/28) |
 | 17: Implement functional search bar on homepage | Medium | [#26](https://github.com/byteom/Interview01/pull/26) |
 | Add a Navbar for Easy Section Access: | Medium | [#24](https://github.com/byteom/Interview01/issues/24) |
@@ -363,6 +364,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add cinematic dark mode, movie cards, login & signup pages | Medium | [#79](https://github.com/rahulkhandait-sde/cineverse/pull/79) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 
 ---
@@ -596,6 +598,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated necessary files. | Medium | [#92](https://github.com/LarytheLord/Adventurers-Guild/pull/92) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -636,6 +639,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added and updated necessary files | Medium | [#72](https://github.com/IntegerAlex/fingerprint-oss/pull/72) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | feat : Added in config version == 'Test' | Medium | [#45](https://github.com/IntegerAlex/fingerprint-oss/pull/45) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
@@ -745,7 +749,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
 | Improve sidebar UI | Medium | [#151](https://github.com/Loop-Hive/ScheduleX/pull/151) |
-| Fix: Save button redirects to previous page instead of Home | Medium | [#150](https://github.com/Loop-Hive/ScheduleX/pull/150) |
 | Fix dropdown overflow | Medium | [#149](https://github.com/Loop-Hive/ScheduleX/pull/149) |
 | made UI changes in the settings page | Medium | [#148](https://github.com/Loop-Hive/ScheduleX/pull/148) |
 | Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/Loop-Hive/ScheduleX/pull/147) |
@@ -967,7 +970,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed the hero file again | Medium | [#47](https://github.com/muskan-fatim/Tech_event/pull/47) |
 | Hero div fix | Medium | [#46](https://github.com/muskan-fatim/Tech_event/pull/46) |
 | Add event category filtering | Medium | [#45](https://github.com/muskan-fatim/Tech_event/pull/45) |
 | Fix all issue | Hard | [#48](https://github.com/muskan-fatim/Tech_event/pull/48) |
@@ -1034,13 +1036,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @vitejs/plugin-react from 4.3.2 to 5.0.4 | Medium | [#127](https://github.com/Ojas-Arora/SapneSeSafar/pull/127) |
 | Bump react-router-dom from 6.28.2 to 7.9.3 | Medium | [#126](https://github.com/Ojas-Arora/SapneSeSafar/pull/126) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.22 | Medium | [#125](https://github.com/Ojas-Arora/SapneSeSafar/pull/125) |
 | Bump framer-motion from 11.18.2 to 12.23.22 | Medium | [#124](https://github.com/Ojas-Arora/SapneSeSafar/pull/124) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.58.0 | Medium | [#123](https://github.com/Ojas-Arora/SapneSeSafar/pull/123) |
 | Bump vite from 5.4.17 to 7.1.7 | Medium | [#118](https://github.com/Ojas-Arora/SapneSeSafar/pull/118) |
 | Bump eslint from 9.12.0 to 9.36.0 | Medium | [#114](https://github.com/Ojas-Arora/SapneSeSafar/pull/114) |
-| Bump @vitejs/plugin-react from 4.3.2 to 5.0.3 | Medium | [#111](https://github.com/Ojas-Arora/SapneSeSafar/pull/111) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
 | Bump lucide-react from 0.344.0 to 0.544.0 | Medium | [#103](https://github.com/Ojas-Arora/SapneSeSafar/pull/103) |
@@ -1233,6 +1235,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(preloaders) : add preloader-1 block | Medium | [#91](https://github.com/subhadeeproy3902/mvpblocks/pull/91) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
