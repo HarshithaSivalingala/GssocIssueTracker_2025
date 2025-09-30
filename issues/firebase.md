@@ -42,6 +42,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add department-hub as a submodule under web-development | Medium | [#1257](https://github.com/Code-A2Z/code-a2z/pull/1257) |
 | Feature/backend/list of collaborators | Medium | [#1256](https://github.com/Code-A2Z/code-a2z/pull/1256) |
 | Login Signup UI improvement | Medium | [#1239](https://github.com/Code-A2Z/code-a2z/issues/1239) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -55,7 +56,6 @@
 | 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
 | 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
 | 📃: House Price Prediction | Medium | [#1145](https://github.com/Code-A2Z/code-a2z/issues/1145) |
-| 📃: Daily Habit Tracker | Medium | [#1036](https://github.com/Code-A2Z/code-a2z/issues/1036) |
 
 ---
 
@@ -75,6 +75,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add performance and documentation in issue folder | Medium | [#120](https://github.com/Bavanetha27/Refixly/issues/120) |
+| Added 404 and global error handling | Medium | [#119](https://github.com/Bavanetha27/Refixly/pull/119) |
 | unwanted scroll bar appers | Medium | [#118](https://github.com/Bavanetha27/Refixly/issues/118) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
@@ -132,8 +134,8 @@
 | 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/Parnab03/WallGodds/issues/87) |
 | HOME PAGE IN MOBILE VERSION | Easy | [#82](https://github.com/Parnab03/WallGodds/issues/82) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#8](https://github.com/Parnab03/WallGodds/issues/8) |
+| Bug Report: | Medium | [#147](https://github.com/Parnab03/WallGodds/issues/147) |
 | Making the landing page more interactive | Medium | [#146](https://github.com/Parnab03/WallGodds/issues/146) |
-| create upload wallppr to dekstop | Medium | [#145](https://github.com/Parnab03/WallGodds/pull/145) |
 | Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/Parnab03/WallGodds/issues/123) |
 | DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/Parnab03/WallGodds/issues/111) |
 
@@ -417,7 +419,6 @@
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
 | Improve sidebar UI | Medium | [#151](https://github.com/Loop-Hive/ScheduleX/pull/151) |
-| Fix: Save button redirects to previous page instead of Home | Medium | [#150](https://github.com/Loop-Hive/ScheduleX/pull/150) |
 | Fix dropdown overflow | Medium | [#149](https://github.com/Loop-Hive/ScheduleX/pull/149) |
 | made UI changes in the settings page | Medium | [#148](https://github.com/Loop-Hive/ScheduleX/pull/148) |
 | Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/Loop-Hive/ScheduleX/pull/147) |
@@ -529,6 +530,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Personal Notepad / Diary for Users | Medium | [#162](https://github.com/Varshitha713/CodeCanvas/issues/162) |
 | Feature Request: Add Signup & Login Pages | Medium | [#161](https://github.com/Varshitha713/CodeCanvas/issues/161) |
 | "Send Message" button not clearly styled in dark mode | Medium | [#160](https://github.com/Varshitha713/CodeCanvas/issues/160) |
 | Footer "About" and "Submit" links not redirecting | Medium | [#159](https://github.com/Varshitha713/CodeCanvas/issues/159) |
