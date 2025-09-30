@@ -151,7 +151,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integration of RAG-based PDF Question-Answering Tool as an MCP Server for Claude Desktop | Medium | [#45](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/45) |
+| 🐛 Issue: Favicon and App Icons Not Working | Medium | [#48](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/48) |
+| 🐛 Issue: Header Logo Not Visible | Medium | [#47](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/47) |
 | #42 Content Disappears After Reload on All Pages | Medium | [#44](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/44) |
 | Make UI Responsive for Mobile Devices | Medium | [#23](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/23) |
 | Update README.md | Medium | [#19](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/19) |
@@ -174,18 +175,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add the Forgot Password Page/Option on Sign-in Page | Medium | [#604](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/604) |
-| Fix login form validation | Medium | [#603](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/603) |
-| feat: Company sidebar refractored | Medium | [#602](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/602) |
-| feat: Added backend setup for getCompany data | Medium | [#601](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/601) |
-| feat: Fix Company logic | Medium | [#600](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/600) |
-| Implement Sample UI for **Employee Performance Page | Medium | [#599](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/599) |
-| Implement Sample UI for **Employee Directory Page | Medium | [#598](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/598) |
-| Redesign & Group Sidebar Navigation with Collapsible Dropdowns | Medium | [#597](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/597) |
-| Frontend Integration: Connect Dashboard UI with Backend API | Medium | [#596](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/596) |
-| Backend: Replace Mock Dashboard Data with Real Company Data from Database | Medium | [#595](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/595) |
-| Company Registration API Fails Due to Missing `email` & Invalid `role` Enum | Medium | [#594](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/594) |
-| Added footer on Contact page | Medium | [#593](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/593) |
+| Fix the project structure in Readme.MD | Medium | [#624](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/624) |
+| feat: added sample data ui for performance page in company dashboard | Medium | [#623](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/623) |
+| feat: adding sample ui in Employee Performance Page | Medium | [#622](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/622) |
+| Forgot Password Page/Option Added | Medium | [#621](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/621) |
+| Optimize Java Dry-Run Controller | Medium | [#618](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/618) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -204,7 +198,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Enhance documentation with setup instructions & preview guidelines | Medium | [#373](https://github.com/omroy07/AgriTech/pull/373) |
+| Favicon missing on multiple pages | Medium | [#378](https://github.com/omroy07/AgriTech/issues/378) |
+| Fix: Added favicon to Contact page | Medium | [#377](https://github.com/omroy07/AgriTech/pull/377) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
@@ -262,11 +257,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI enhancement | Medium | [#248](https://github.com/openml-stack/SentiLog-AI/issues/248) |
+| refactor(contact): streamline Contact Us page by removing FAQs and improving UI | Medium | [#249](https://github.com/openml-stack/SentiLog-AI/pull/249) |
 | API gets daily news, and the ML models classify them as Positive, Negative, or Neutral. | Medium | [#247](https://github.com/openml-stack/SentiLog-AI/pull/247) |
-| Add Help Center page and route | Medium | [#246](https://github.com/openml-stack/SentiLog-AI/pull/246) |
-| Remove irrelevant FAQs from Contact Us page and UI improvement | Medium | [#245](https://github.com/openml-stack/SentiLog-AI/issues/245) |
-| Sign in not working | Medium | [#241](https://github.com/openml-stack/SentiLog-AI/issues/241) |
 | Visual Improvement for the Dashboard page | Medium | [#240](https://github.com/openml-stack/SentiLog-AI/issues/240) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
@@ -298,6 +290,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Add Cookie Policy and Terms of Use pages with updated footer links | Medium | [#186](https://github.com/aayushraj1010/med-genie/pull/186) |
 | Add forgot/reset password functionality | Medium | [#185](https://github.com/aayushraj1010/med-genie/pull/185) |
 | fixed_specialist_recommendation_text | Medium | [#182](https://github.com/aayushraj1010/med-genie/pull/182) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
@@ -403,7 +396,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Easy | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
 | Added pages and removed changes made in package files#105 | Medium | [#108](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/108) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
