@@ -22,10 +22,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| The footer text visibility problem in the DevElevate application | Medium | [#533](https://github.com/abhisek2004/Dev-Elevate/issues/533) |
-| Add the Forgot Password Page/Option On Sign-in Page | Medium | [#532](https://github.com/abhisek2004/Dev-Elevate/issues/532) |
-| - No scroll access for sidebar items | Medium | [#529](https://github.com/abhisek2004/Dev-Elevate/issues/529) |
-| toggle for light/dark theme | Medium | [#528](https://github.com/abhisek2004/Dev-Elevate/issues/528) |
+| Add calendar visualization for upcoming events | Medium | [#536](https://github.com/abhisek2004/Dev-Elevate/issues/536) |
+| fix(dashboard): reset learning progress and counters for new users | Medium | [#535](https://github.com/abhisek2004/Dev-Elevate/pull/535) |
 
 ---
 
@@ -43,8 +41,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Reapply changes | Easy | [#148](https://github.com/abhisek247767/PeopleHub-Frontend/pull/148) |
 | Improve README with backend integration steps | Medium | [#149](https://github.com/abhisek247767/PeopleHub-Frontend/pull/149) |
-| Reapply changes | Medium | [#148](https://github.com/abhisek247767/PeopleHub-Frontend/pull/148) |
 | GitHub Actions CI workflow for project validation | Medium | [#147](https://github.com/abhisek247767/PeopleHub-Frontend/issues/147) |
 | Login with different role | Medium | [#146](https://github.com/abhisek247767/PeopleHub-Frontend/pull/146) |
 | feat: add role-based login option (Admin & Super-admin support) | Medium | [#145](https://github.com/abhisek247767/PeopleHub-Frontend/pull/145) |
@@ -66,11 +64,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🐛 : Feature section content is not centered | Medium | [#339](https://github.com/adityagarwal15/JobSync/issues/339) |
-| JobSync Application : Feature Request Redesign Contact Page UI | Medium | [#338](https://github.com/adityagarwal15/JobSync/issues/338) |
-| Search Bar in Navbar | Medium | [#337](https://github.com/adityagarwal15/JobSync/issues/337) |
-| we can enhance the menu bar | Medium | [#336](https://github.com/adityagarwal15/JobSync/issues/336) |
-| Feature Request: Add countdown timer for daily search reset | Medium | [#335](https://github.com/adityagarwal15/JobSync/issues/335) |
-| The "WE WORK WITH" ui tiles overrides/overlaps the navbar upon hovering. | Medium | [#334](https://github.com/adityagarwal15/JobSync/issues/334) |
 | feat(navbar): improve mobile responsiveness with CSS-only solution | Medium | [#333](https://github.com/adityagarwal15/JobSync/pull/333) |
 | Navbar UI Improvements | Medium | [#328](https://github.com/adityagarwal15/JobSync/issues/328) |
 | fix(security): add HTML sanitization middleware for user inputs (#317) | Medium | [#327](https://github.com/adityagarwal15/JobSync/pull/327) |
@@ -140,6 +133,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: #269  Complete enterprise UI transformation with Material-UI and them… | Medium | [#273](https://github.com/agamjotsingh18/trendhora/pull/273) |
+| Improved UI product card | Medium | [#272](https://github.com/agamjotsingh18/trendhora/pull/272) |
 | Faq not visible properly in dark theme | Medium | [#253](https://github.com/agamjotsingh18/trendhora/issues/253) |
 | Redesign the footer | Medium | [#227](https://github.com/agamjotsingh18/trendhora/pull/227) |
 | FORGOT PASSWORD DOSEN'T WORK | Medium | [#224](https://github.com/agamjotsingh18/trendhora/issues/224) |
@@ -148,7 +143,6 @@ Accessibility features like dark mode,white.
 | Implemented Custom 404 Error Page with Themed Design and Home Navigation | Medium | [#182](https://github.com/agamjotsingh18/trendhora/pull/182) |
 | Sign Up and Login pages have a basic or unattractive UI | Medium | [#170](https://github.com/agamjotsingh18/trendhora/issues/170) |
 | Wishlist Empty Text Not Visible | Medium | [#164](https://github.com/agamjotsingh18/trendhora/issues/164) |
-| TEXT has same color as background | Medium | [#162](https://github.com/agamjotsingh18/trendhora/issues/162) |
 
 ---
 
@@ -166,6 +160,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Navbar Mobile Responsiveness Across All Devices | Medium | [#312](https://github.com/Amarjha01/InfantCareCompass/pull/312) |
 | Implement Multi-Language Support and Fix Repository Issues | Medium | [#311](https://github.com/Amarjha01/InfantCareCompass/pull/311) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
@@ -195,6 +190,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Bump jest and @types/jest in /frontend | Medium | [#2329](https://github.com/OWASP/Nest/pull/2329) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
@@ -253,6 +249,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add department-hub as a submodule under web-development | Medium | [#1257](https://github.com/Code-A2Z/code-a2z/pull/1257) |
 | Feature/backend/list of collaborators | Medium | [#1256](https://github.com/Code-A2Z/code-a2z/pull/1256) |
 | Login Signup UI improvement | Medium | [#1239](https://github.com/Code-A2Z/code-a2z/issues/1239) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -266,7 +263,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
 | 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
 | 📃: House Price Prediction | Medium | [#1145](https://github.com/Code-A2Z/code-a2z/issues/1145) |
-| 📃: Daily Habit Tracker | Medium | [#1036](https://github.com/Code-A2Z/code-a2z/issues/1036) |
 
 ---
 
@@ -286,6 +282,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add performance and documentation in issue folder | Medium | [#120](https://github.com/Bavanetha27/Refixly/issues/120) |
+| Added 404 and global error handling | Medium | [#119](https://github.com/Bavanetha27/Refixly/pull/119) |
 | unwanted scroll bar appers | Medium | [#118](https://github.com/Bavanetha27/Refixly/issues/118) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
@@ -310,15 +308,15 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 |----------|----------------|---------|
 | Eye icon visible | Easy | [#229](https://github.com/BhaktiMore18/Pouranik/pull/229) |
 | Added testimonials section | Easy | [#221](https://github.com/BhaktiMore18/Pouranik/pull/221) |
+| Issue template lacks documentation and performance | Medium | [#253](https://github.com/BhaktiMore18/Pouranik/issues/253) |
 | Div's color changed | Medium | [#252](https://github.com/BhaktiMore18/Pouranik/pull/252) |
 | Fixes #247: Added Blog Section | Medium | [#251](https://github.com/BhaktiMore18/Pouranik/pull/251) |
 | New login fix (Error Handling) | Medium | [#250](https://github.com/BhaktiMore18/Pouranik/pull/250) |
 | Fixed redirect to login | Medium | [#249](https://github.com/BhaktiMore18/Pouranik/pull/249) |
 | added light/dark mode toggle for mobile view at side of menu button | Medium | [#244](https://github.com/BhaktiMore18/Pouranik/pull/244) |
-| Fix/tour overlay tooltip overflows outside viewport on smaller screens | Medium | [#243](https://github.com/BhaktiMore18/Pouranik/pull/243) |
-| added proper redirection changes | Medium | [#242](https://github.com/BhaktiMore18/Pouranik/pull/242) |
 | privacy policy page | Medium | [#228](https://github.com/BhaktiMore18/Pouranik/pull/228) |
 | Replace Chatbase with fully integrated in-house GenAI chatbot (#214) | Medium | [#223](https://github.com/BhaktiMore18/Pouranik/pull/223) |
+| Enhance Login Page UI/UX for Light & Dark Mode #160 | Medium | [#172](https://github.com/BhaktiMore18/Pouranik/pull/172) |
 
 ---
 
@@ -412,7 +410,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
 | Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy23/splitwiser/pull/174) |
-| SECURITY.md | Medium | [#169](https://github.com/Devasy23/splitwiser/pull/169) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
 | API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
@@ -438,6 +435,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Forgot-Password | Medium | [#116](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/116) |
 | Add Issue Template for Bug, Feature, and Enhancement etc. | Medium | [#115](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/115) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#114](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/114) |
 | Footer with social links is not properly designed | Medium | [#113](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/113) |
@@ -454,7 +452,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Enhance footer with centered sections, aligned icons, custom hover ef… | Medium | [#70](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/70) |
 | Feature/testimonials | Medium | [#69](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/69) |
 | Curriculum-Aware Substitution Planner for teacher | Medium | [#58](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/58) |
-| class cover management page card enhancement | Medium | [#74](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/74) |
 
 ---
 
@@ -659,20 +656,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI/UX Improvements and Fixes for FAQ, About Us, Job Search, and Footer | Medium | [#235](https://github.com/Khushi-Nigam/jobportal/issues/235) |
-| Navbar not opening issue | Medium | [#234](https://github.com/Khushi-Nigam/jobportal/pull/234) |
-| Improve Documentation with Setup Instructions & Preview GIFs. | Medium | [#233](https://github.com/Khushi-Nigam/jobportal/issues/233) |
-| Feature: Add Dark Mode Toggle for Better UX Accessibility | Medium | [#232](https://github.com/Khushi-Nigam/jobportal/pull/232) |
-| Fix Card Alignment and Button Positioning | Medium | [#231](https://github.com/Khushi-Nigam/jobportal/issues/231) |
 | Enhancement: Make Blog section more interactive with dark/light mode support | Medium | [#230](https://github.com/Khushi-Nigam/jobportal/issues/230) |
 | FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
 | Improve Job Listing Page with Pagination & Search Filters | Medium | [#227](https://github.com/Khushi-Nigam/jobportal/issues/227) |
 | Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
-| Add Forgot Password / Password Reset Feature | Medium | [#225](https://github.com/Khushi-Nigam/jobportal/issues/225) |
 | Added Github Actions ci to check django syntax and configuration | Medium | [#224](https://github.com/Khushi-Nigam/jobportal/pull/224) |
-| Redirect to login after registration #221 | Medium | [#222](https://github.com/Khushi-Nigam/jobportal/pull/222) |
-| Redirect to Login Page After Successful Job Seeker Registration | Medium | [#221](https://github.com/Khushi-Nigam/jobportal/issues/221) |
 
 ---
 
@@ -723,18 +712,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add the Forgot Password Page/Option on Sign-in Page | Medium | [#604](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/604) |
-| Fix login form validation | Medium | [#603](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/603) |
-| feat: Company sidebar refractored | Medium | [#602](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/602) |
-| feat: Added backend setup for getCompany data | Medium | [#601](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/601) |
-| feat: Fix Company logic | Medium | [#600](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/600) |
-| Implement Sample UI for **Employee Performance Page | Medium | [#599](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/599) |
-| Implement Sample UI for **Employee Directory Page | Medium | [#598](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/598) |
-| Redesign & Group Sidebar Navigation with Collapsible Dropdowns | Medium | [#597](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/597) |
-| Frontend Integration: Connect Dashboard UI with Backend API | Medium | [#596](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/596) |
-| Backend: Replace Mock Dashboard Data with Real Company Data from Database | Medium | [#595](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/595) |
-| Company Registration API Fails Due to Missing `email` & Invalid `role` Enum | Medium | [#594](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/594) |
-| Added footer on Contact page | Medium | [#593](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/593) |
+| Fix the project structure in Readme.MD | Medium | [#624](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/624) |
+| feat: added sample data ui for performance page in company dashboard | Medium | [#623](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/623) |
+| feat: adding sample ui in Employee Performance Page | Medium | [#622](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/622) |
+| Forgot Password Page/Option Added | Medium | [#621](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/621) |
+| Optimize Java Dry-Run Controller | Medium | [#618](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/618) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -866,9 +848,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Card UI for Dark Theme in Categories Section | Medium | [#281](https://github.com/Prashanti-Hebbar/FoodIO/issues/281) |
-| Profile update with respect to Login, Register | Medium | [#280](https://github.com/Prashanti-Hebbar/FoodIO/pull/280) |
-| Update Readme | Medium | [#279](https://github.com/Prashanti-Hebbar/FoodIO/pull/279) |
+| update card UI in dark theme | Medium | [#282](https://github.com/Prashanti-Hebbar/FoodIO/pull/282) |
 | Update Header Based on User Login Status | Medium | [#265](https://github.com/Prashanti-Hebbar/FoodIO/issues/265) |
 | Enhancing the favorite, saved and share button actions. | Medium | [#264](https://github.com/Prashanti-Hebbar/FoodIO/issues/264) |
 | feat: add image upload support for recipes | Medium | [#241](https://github.com/Prashanti-Hebbar/FoodIO/pull/241) |
@@ -971,6 +951,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add DoctorProfilePage with doctor details and booking option | Medium | [#189](https://github.com/samarsajad/Hospital_Management_Website/pull/189) |
 | Improve website layout and css for better user experience. | Medium | [#188](https://github.com/samarsajad/Hospital_Management_Website/issues/188) |
 | Fixing css | Medium | [#187](https://github.com/samarsajad/Hospital_Management_Website/issues/187) |
 | UI/UX Improvement: Footer Redesign | Medium | [#186](https://github.com/samarsajad/Hospital_Management_Website/issues/186) |
@@ -1140,6 +1121,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve UI and Interactivity of Quiz Page | Medium | [#318](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/318) |
 | Solved MNOR UI/UX CHANGES - 2 #280 | Medium | [#317](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/317) |
 | Solved MINOR UI/UX CHANGES #279 PR | Medium | [#316](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/316) |
 | Improve Privacy Policy Page | Medium | [#315](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/315) |
@@ -1172,11 +1154,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI enhancement | Medium | [#248](https://github.com/openml-stack/SentiLog-AI/issues/248) |
+| refactor(contact): streamline Contact Us page by removing FAQs and improving UI | Medium | [#249](https://github.com/openml-stack/SentiLog-AI/pull/249) |
 | API gets daily news, and the ML models classify them as Positive, Negative, or Neutral. | Medium | [#247](https://github.com/openml-stack/SentiLog-AI/pull/247) |
-| Add Help Center page and route | Medium | [#246](https://github.com/openml-stack/SentiLog-AI/pull/246) |
-| Remove irrelevant FAQs from Contact Us page and UI improvement | Medium | [#245](https://github.com/openml-stack/SentiLog-AI/issues/245) |
-| Sign in not working | Medium | [#241](https://github.com/openml-stack/SentiLog-AI/issues/241) |
 | Visual Improvement for the Dashboard page | Medium | [#240](https://github.com/openml-stack/SentiLog-AI/issues/240) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
@@ -1310,6 +1289,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Smart Care tab with AI-powered baby care insights (feeding, s… | Medium | [#274](https://github.com/AditiGupta-tech/neonest/pull/274) |
 | Fix: Add spinner, timeout, and error handling for lullaby upload | Medium | [#273](https://github.com/AditiGupta-tech/neonest/pull/273) |
 | Fix: Dark mode stying for signup form | Medium | [#272](https://github.com/AditiGupta-tech/neonest/pull/272) |
 | Add curated parenting resources and connect Resources page to utils/resources.js | Medium | [#271](https://github.com/AditiGupta-tech/neonest/pull/271) |
@@ -1386,7 +1366,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
 | Improve sidebar UI | Medium | [#151](https://github.com/Loop-Hive/ScheduleX/pull/151) |
-| Fix: Save button redirects to previous page instead of Home | Medium | [#150](https://github.com/Loop-Hive/ScheduleX/pull/150) |
 | Fix dropdown overflow | Medium | [#149](https://github.com/Loop-Hive/ScheduleX/pull/149) |
 | made UI changes in the settings page | Medium | [#148](https://github.com/Loop-Hive/ScheduleX/pull/148) |
 | Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/Loop-Hive/ScheduleX/pull/147) |
@@ -1790,13 +1769,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @vitejs/plugin-react from 4.3.2 to 5.0.4 | Medium | [#127](https://github.com/Ojas-Arora/SapneSeSafar/pull/127) |
 | Bump react-router-dom from 6.28.2 to 7.9.3 | Medium | [#126](https://github.com/Ojas-Arora/SapneSeSafar/pull/126) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.22 | Medium | [#125](https://github.com/Ojas-Arora/SapneSeSafar/pull/125) |
 | Bump framer-motion from 11.18.2 to 12.23.22 | Medium | [#124](https://github.com/Ojas-Arora/SapneSeSafar/pull/124) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.58.0 | Medium | [#123](https://github.com/Ojas-Arora/SapneSeSafar/pull/123) |
 | Bump vite from 5.4.17 to 7.1.7 | Medium | [#118](https://github.com/Ojas-Arora/SapneSeSafar/pull/118) |
 | Bump eslint from 9.12.0 to 9.36.0 | Medium | [#114](https://github.com/Ojas-Arora/SapneSeSafar/pull/114) |
-| Bump @vitejs/plugin-react from 4.3.2 to 5.0.3 | Medium | [#111](https://github.com/Ojas-Arora/SapneSeSafar/pull/111) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
 | Bump lucide-react from 0.344.0 to 0.544.0 | Medium | [#103](https://github.com/Ojas-Arora/SapneSeSafar/pull/103) |
@@ -1993,7 +1972,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: ADD IMAGES ON PRIVGPT HOME PAGE | Easy | [#107](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/107) |
 | Added pages and removed changes made in package files#105 | Medium | [#108](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/108) |
 | feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
@@ -2287,6 +2265,7 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Google login with Firebase | Medium | [#87](https://github.com/Vijayaa21/Blabber/pull/87) |
 | Adding attractive homepage | Medium | [#86](https://github.com/Vijayaa21/Blabber/issues/86) |
 | Add Template for Pull Request | Medium | [#85](https://github.com/Vijayaa21/Blabber/issues/85) |
 | Add project structure documentation | Medium | [#82](https://github.com/Vijayaa21/Blabber/issues/82) |
