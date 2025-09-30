@@ -141,6 +141,9 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Saved toggle shows active state by default on detail screens | Easy | [#440](https://github.com/yuvrajsinghgmx/ShopSmart/issues/440) |
+| Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
+| Include Document Images in Shop Details Modal | Medium | [#462](https://github.com/yuvrajsinghgmx/ShopSmart/issues/462) |
+| Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
 | Feature/searchbar with searchapi integration | Medium | [#459](https://github.com/yuvrajsinghgmx/ShopSmart/pull/459) |
 | Top Bar of Home Screen | Medium | [#457](https://github.com/yuvrajsinghgmx/ShopSmart/issues/457) |
 | Shop_Owner Profile | Medium | [#456](https://github.com/yuvrajsinghgmx/ShopSmart/issues/456) |
