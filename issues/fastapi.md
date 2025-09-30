@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Navbar Mobile Responsiveness Across All Devices | Medium | [#312](https://github.com/Amarjha01/InfantCareCompass/pull/312) |
 | Implement Multi-Language Support and Fix Repository Issues | Medium | [#311](https://github.com/Amarjha01/InfantCareCompass/pull/311) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
@@ -46,7 +47,6 @@
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
 | Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy23/splitwiser/pull/174) |
-| SECURITY.md | Medium | [#169](https://github.com/Devasy23/splitwiser/pull/169) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
 | API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
@@ -100,18 +100,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add the Forgot Password Page/Option on Sign-in Page | Medium | [#604](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/604) |
-| Fix login form validation | Medium | [#603](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/603) |
-| feat: Company sidebar refractored | Medium | [#602](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/602) |
-| feat: Added backend setup for getCompany data | Medium | [#601](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/601) |
-| feat: Fix Company logic | Medium | [#600](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/600) |
-| Implement Sample UI for **Employee Performance Page | Medium | [#599](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/599) |
-| Implement Sample UI for **Employee Directory Page | Medium | [#598](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/598) |
-| Redesign & Group Sidebar Navigation with Collapsible Dropdowns | Medium | [#597](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/597) |
-| Frontend Integration: Connect Dashboard UI with Backend API | Medium | [#596](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/596) |
-| Backend: Replace Mock Dashboard Data with Real Company Data from Database | Medium | [#595](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/595) |
-| Company Registration API Fails Due to Missing `email` & Invalid `role` Enum | Medium | [#594](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/594) |
-| Added footer on Contact page | Medium | [#593](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/593) |
+| Fix the project structure in Readme.MD | Medium | [#624](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/624) |
+| feat: added sample data ui for performance page in company dashboard | Medium | [#623](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/623) |
+| feat: adding sample ui in Employee Performance Page | Medium | [#622](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/622) |
+| Forgot Password Page/Option Added | Medium | [#621](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/621) |
+| Optimize Java Dry-Run Controller | Medium | [#618](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/618) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -159,13 +152,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| deps(deps): bump beautifulsoup4 from 4.13.3 to 4.14.2 | Medium | [#114](https://github.com/solve-ease/OptiBlogAi/pull/114) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#113](https://github.com/solve-ease/OptiBlogAi/pull/113) |
+| deps(deps): bump framer-motion from 12.23.6 to 12.23.22 in /optiblogai-site | Medium | [#112](https://github.com/solve-ease/OptiBlogAi/pull/112) |
+| deps(deps): bump next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#111](https://github.com/solve-ease/OptiBlogAi/pull/111) |
 | deps(deps-dev): bump @types/node from 20.19.8 to 24.5.2 in /optiblogai-site | Medium | [#109](https://github.com/solve-ease/OptiBlogAi/pull/109) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.36.0 in /optiblogai-site | Medium | [#108](https://github.com/solve-ease/OptiBlogAi/pull/108) |
-| deps(deps): bump framer-motion from 12.23.6 to 12.23.18 in /optiblogai-site | Medium | [#107](https://github.com/solve-ease/OptiBlogAi/pull/107) |
 | deps(deps): bump lxml from 5.3.2 to 6.0.2 | Medium | [#106](https://github.com/solve-ease/OptiBlogAi/pull/106) |
 | deps(deps): bump lucide-react from 0.525.0 to 0.544.0 in /optiblogai-site | Medium | [#105](https://github.com/solve-ease/OptiBlogAi/pull/105) |
-| deps(deps): bump next from 15.4.1 to 15.5.3 in /optiblogai-site | Medium | [#103](https://github.com/solve-ease/OptiBlogAi/pull/103) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.3 in /optiblogai-site | Medium | [#102](https://github.com/solve-ease/OptiBlogAi/pull/102) |
 | deps(deps): bump soupsieve from 2.6 to 2.8 | Medium | [#99](https://github.com/solve-ease/OptiBlogAi/pull/99) |
 | deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.7.0 | Medium | [#97](https://github.com/solve-ease/OptiBlogAi/pull/97) |
 | deps(deps): bump playwright from 1.53.0 to 1.55.0 | Medium | [#95](https://github.com/solve-ease/OptiBlogAi/pull/95) |
@@ -175,7 +169,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | deps(deps): bump typing-extensions from 4.13.2 to 4.15.0 | Medium | [#90](https://github.com/solve-ease/OptiBlogAi/pull/90) |
 | SITE ENHANCEMENT | Medium | [#89](https://github.com/solve-ease/OptiBlogAi/issues/89) |
 | ⬇️ Feature Request: Scroll to Bottom Button | Medium | [#88](https://github.com/solve-ease/OptiBlogAi/issues/88) |
-| deps(deps): bump beautifulsoup4 from 4.13.3 to 4.13.5 | Medium | [#85](https://github.com/solve-ease/OptiBlogAi/pull/85) |
 | deps(deps): bump requests from 2.32.3 to 2.32.5 | Medium | [#81](https://github.com/solve-ease/OptiBlogAi/pull/81) |
 | docker(deps): bump python from 3.12-slim to 3.13.7-slim | Medium | [#80](https://github.com/solve-ease/OptiBlogAi/pull/80) |
 | ci(deps): bump actions/checkout from 4 to 5 | Medium | [#79](https://github.com/solve-ease/OptiBlogAi/pull/79) |
