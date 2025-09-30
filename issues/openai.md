@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Navbar Mobile Responsiveness Across All Devices | Medium | [#312](https://github.com/Amarjha01/InfantCareCompass/pull/312) |
 | Implement Multi-Language Support and Fix Repository Issues | Medium | [#311](https://github.com/Amarjha01/InfantCareCompass/pull/311) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
@@ -43,6 +44,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Terms of Service Page | Easy | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
+| Add recipe rating system with interactive stars and dynamic display | Medium | [#327](https://github.com/Ayushjhawar8/Flavor-ai/pull/327) |
 | Added a difficulty filter for the festive dishes page | Medium | [#324](https://github.com/Ayushjhawar8/Flavor-ai/pull/324) |
 | Revamp | Medium | [#321](https://github.com/Ayushjhawar8/Flavor-ai/pull/321) |
 
@@ -101,18 +103,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add the Forgot Password Page/Option on Sign-in Page | Medium | [#604](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/604) |
-| Fix login form validation | Medium | [#603](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/603) |
-| feat: Company sidebar refractored | Medium | [#602](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/602) |
-| feat: Added backend setup for getCompany data | Medium | [#601](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/601) |
-| feat: Fix Company logic | Medium | [#600](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/600) |
-| Implement Sample UI for **Employee Performance Page | Medium | [#599](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/599) |
-| Implement Sample UI for **Employee Directory Page | Medium | [#598](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/598) |
-| Redesign & Group Sidebar Navigation with Collapsible Dropdowns | Medium | [#597](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/597) |
-| Frontend Integration: Connect Dashboard UI with Backend API | Medium | [#596](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/596) |
-| Backend: Replace Mock Dashboard Data with Real Company Data from Database | Medium | [#595](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/595) |
-| Company Registration API Fails Due to Missing `email` & Invalid `role` Enum | Medium | [#594](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/594) |
-| Added footer on Contact page | Medium | [#593](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/593) |
+| Fix the project structure in Readme.MD | Medium | [#624](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/624) |
+| feat: added sample data ui for performance page in company dashboard | Medium | [#623](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/623) |
+| feat: adding sample ui in Employee Performance Page | Medium | [#622](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/622) |
+| Forgot Password Page/Option Added | Medium | [#621](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/621) |
+| Optimize Java Dry-Run Controller | Medium | [#618](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/618) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
