@@ -113,7 +113,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Request : Brush type - marker | Medium | [#108](https://github.com/may-tas/TextEditingApp/issues/108) |
+| Feature/brush and marker | Medium | [#112](https://github.com/may-tas/TextEditingApp/pull/112) |
+| Added Shadows Effect Feature | Medium | [#111](https://github.com/may-tas/TextEditingApp/pull/111) |
 
 ---
 
