@@ -25,7 +25,6 @@
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
-| Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 
 ---
 
