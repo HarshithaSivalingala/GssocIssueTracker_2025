@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Pull Request (PR) Template | Medium | [#77](https://github.com/Abhinavhaldiya/FinPilot/issues/77) |
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#76](https://github.com/Abhinavhaldiya/FinPilot/issues/76) |
 | Add Dark Mode / Theme Switching Support | Medium | [#75](https://github.com/Abhinavhaldiya/FinPilot/issues/75) |
 | Contribution: Dockerfile to streamline local dev / CI | Medium | [#74](https://github.com/Abhinavhaldiya/FinPilot/issues/74) |
 | Add multi-language support with i18n for all pages (ENG default) | Medium | [#73](https://github.com/Abhinavhaldiya/FinPilot/pull/73) |
@@ -24,7 +26,6 @@
 | deployment | Medium | [#64](https://github.com/Abhinavhaldiya/FinPilot/issues/64) |
 | Advanced ai technology | Medium | [#49](https://github.com/Abhinavhaldiya/FinPilot/issues/49) |
 | Add prisma schema definition and seed data | Medium | [#35](https://github.com/Abhinavhaldiya/FinPilot/pull/35) |
-| Schema Definition using Prisma | Medium | [#32](https://github.com/Abhinavhaldiya/FinPilot/issues/32) |
 
 ---
 
@@ -83,6 +84,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding stunning landing page | Medium | [#878](https://github.com/HarshS16/Civix/issues/878) |
 | UI/UX Issues on Home Page | Medium | [#877](https://github.com/HarshS16/Civix/issues/877) |
 | fix(ui): improve card headline contrast on hover in dark mode | Medium | [#876](https://github.com/HarshS16/Civix/pull/876) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
@@ -147,7 +149,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | feat: added DOCX file support with mammoth parser | Medium | [#115](https://github.com/Er-luffy-D/SimplifAI/pull/115) |
 | Flowcharts and strong password generator | Medium | [#114](https://github.com/Er-luffy-D/SimplifAI/issues/114) |
-| Add dark mode toggle, update card styles, and tailwind config | Medium | [#103](https://github.com/Er-luffy-D/SimplifAI/pull/103) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
 | Added profile delete feature | Medium | [#82](https://github.com/Er-luffy-D/SimplifAI/pull/82) |
@@ -373,6 +374,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| adding code for interview prep | Medium | [#200](https://github.com/vatsal-bhakodia/smriti-ai/pull/200) |
 | Enhance: Improved Code of Conduct | Medium | [#199](https://github.com/vatsal-bhakodia/smriti-ai/pull/199) |
 | Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
 
