@@ -25,7 +25,6 @@
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
-| Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 
 ---
 
@@ -43,10 +42,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added a difficulty filter for the festive dishes page | Easy | [#324](https://github.com/Ayushjhawar8/Flavor-ai/pull/324) |
 | Terms of Service Page | Easy | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
-| Add recipe rating system with interactive stars and dynamic display | Medium | [#327](https://github.com/Ayushjhawar8/Flavor-ai/pull/327) |
-| Added a difficulty filter for the festive dishes page | Medium | [#324](https://github.com/Ayushjhawar8/Flavor-ai/pull/324) |
-| Revamp | Medium | [#321](https://github.com/Ayushjhawar8/Flavor-ai/pull/321) |
+| Revamp Footer with Multiple Page Links | Medium | [#330](https://github.com/Ayushjhawar8/Flavor-ai/issues/330) |
 
 ---
 
