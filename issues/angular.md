@@ -15,10 +15,12 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Reapply changes | Easy | [#148](https://github.com/abhisek247767/PeopleHub-Frontend/pull/148) |
+| Fix: Admin/Superadmin login redirection issue | Medium | [#152](https://github.com/abhisek247767/PeopleHub-Frontend/pull/152) |
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#151](https://github.com/abhisek247767/PeopleHub-Frontend/issues/151) |
+| Add Pull Request (PR) Template | Medium | [#150](https://github.com/abhisek247767/PeopleHub-Frontend/issues/150) |
 | Improve README with backend integration steps | Medium | [#149](https://github.com/abhisek247767/PeopleHub-Frontend/pull/149) |
 | GitHub Actions CI workflow for project validation | Medium | [#147](https://github.com/abhisek247767/PeopleHub-Frontend/issues/147) |
 | Login with different role | Medium | [#146](https://github.com/abhisek247767/PeopleHub-Frontend/pull/146) |
-| feat: add role-based login option (Admin & Super-admin support) | Medium | [#145](https://github.com/abhisek247767/PeopleHub-Frontend/pull/145) |
 
 ---
 
