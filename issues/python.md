@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Docs: Improve clarity of installation instructions | Medium | [#10](https://github.com/krit-vardhan-mishra/SmartC.V./pull/10) |
 | Added scroll-triggered animations to Features ,homepage and how it works and adjusted padding/margin in Docs page #8 | Medium | [#9](https://github.com/krit-vardhan-mishra/SmartC.V./pull/9) |
 | Added scroll-triggered animations to Features ,homepage and how it works and adjusted padding/margin in Docs page | Medium | [#8](https://github.com/krit-vardhan-mishra/SmartC.V./pull/8) |
 | Added Roadmap and Contributing sections in README | Medium | [#7](https://github.com/krit-vardhan-mishra/SmartC.V./pull/7) |
@@ -37,23 +38,19 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Footer background color inconsistent with overall website theme | Easy | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
+| Visibility Less when Night mode off | Medium | [#219](https://github.com/SrigadaAkshayKumar/stock/issues/219) |
 | Improve README with setup & usage instructions | Medium | [#218](https://github.com/SrigadaAkshayKumar/stock/issues/218) |
 | Background image doesn't cover the full div at the homepage | Medium | [#217](https://github.com/SrigadaAkshayKumar/stock/issues/217) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
 | Update Twitter Icon to Latest X Logo | Medium | [#214](https://github.com/SrigadaAkshayKumar/stock/issues/214) |
 | Replaced alert with toast notifications in StockList | Medium | [#213](https://github.com/SrigadaAkshayKumar/stock/pull/213) |
 | Add Forgot Password component | Medium | [#212](https://github.com/SrigadaAkshayKumar/stock/pull/212) |
-| docs: Improve Readability of Contribution Guide | Medium | [#210](https://github.com/SrigadaAkshayKumar/stock/pull/210) |
 | Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
 | Redesign the About Page for Better Visual Appeal and Clarity | Medium | [#207](https://github.com/SrigadaAkshayKumar/stock/issues/207) |
 | Poor Subtext Visibility in Carousel Cards | Medium | [#203](https://github.com/SrigadaAkshayKumar/stock/issues/203) |
 | Redesign Login Page Background for Consistency & Improved UX | Medium | [#199](https://github.com/SrigadaAkshayKumar/stock/issues/199) |
-| Text not visible in dark mode . | Medium | [#198](https://github.com/SrigadaAkshayKumar/stock/issues/198) |
-| Feature Request: Create an API Endpoint to List Available Stocks | Medium | [#197](https://github.com/SrigadaAkshayKumar/stock/issues/197) |
 | Tos policy update | Medium | [#195](https://github.com/SrigadaAkshayKumar/stock/pull/195) |
 | search feature is not fetching results | Medium | [#193](https://github.com/SrigadaAkshayKumar/stock/issues/193) |
-| 🐞 Bug Report: Page does not scroll to top on navigation | Medium | [#191](https://github.com/SrigadaAkshayKumar/stock/issues/191) |
-| 🐞 Bug Report: Refreshing any page except Home shows “Not Found” | Medium | [#190](https://github.com/SrigadaAkshayKumar/stock/issues/190) |
 | Add content in Terms of Service & Privacy Policy | Medium | [#186](https://github.com/SrigadaAkshayKumar/stock/issues/186) |
 | Updated Stockdata.jsx and Predict.jsx with backend API URL | Medium | [#151](https://github.com/SrigadaAkshayKumar/stock/pull/151) |
 | forgot password with credentials | Medium | [#100](https://github.com/SrigadaAkshayKumar/stock/issues/100) |
@@ -86,7 +83,6 @@
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 | Navbar UI Fix | Medium | [#287](https://github.com/Amarjha01/InfantCareCompass/pull/287) |
 | heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
-| Added the appointments page with Backend logic | Medium | [#260](https://github.com/Amarjha01/InfantCareCompass/pull/260) |
 
 ---
 
@@ -513,6 +509,10 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| sending user to login page after successful registraion. instead of this, bypass the login. for better UX. | Easy | [#240](https://github.com/Khushi-Nigam/jobportal/issues/240) |
+| Fix: Improve Documentation with Setup Instructions & Preview GIFs | Medium | [#238](https://github.com/Khushi-Nigam/jobportal/pull/238) |
+| UI/UX Improvements and Fixes for FAQ, About Us, Job Search, and Footer | Medium | [#237](https://github.com/Khushi-Nigam/jobportal/pull/237) |
+| Balance Skeleton Loader Layout | Medium | [#236](https://github.com/Khushi-Nigam/jobportal/issues/236) |
 | Enhancement: Make Blog section more interactive with dark/light mode support | Medium | [#230](https://github.com/Khushi-Nigam/jobportal/issues/230) |
 | FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
@@ -588,7 +588,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Favicon missing on multiple pages | Medium | [#378](https://github.com/omroy07/AgriTech/issues/378) |
-| Fix: Added favicon to Contact page | Medium | [#377](https://github.com/omroy07/AgriTech/pull/377) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
@@ -732,6 +731,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add automated testing and continuous integration | Medium | [#738](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/738) |
+| Consolidate and update Requirements Files | Medium | [#737](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/737) |
+| Improve documentation consistency across subprojects | Medium | [#736](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/736) |
+| feat: (closes #479) —add matplotlib visualizations | Medium | [#735](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/735) |
+| Add Diabetes Prediction Module using ML | Medium | [#734](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/734) |
 | Plant Disease Detection System Using CNN Model @agri*,@SSoC-advanced | Medium | [#733](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/733) |
 | Snake Game playing bot using Reinforcement Learning | Medium | [#731](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/731) |
 | feat: Transform MoodMeet to Enterprise-Grade Meeting Analytics Platform - Complete UI/UX Overhaul | Medium | [#730](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/730) |
@@ -747,7 +751,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add Baseline Sales Forecasting Model using M5 Dataset #GSSOC'25 | Medium | [#350](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/350) |
 | Integration of Multilingual LLM-Powered Chatbot and Domain-Specific NLP and Deep learning Models for Enhanced User Interaction | Medium | [#275](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/275) |
 | Network Intrusion Detection System | Medium | [#262](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/262) |
-| A Polling Page | Medium | [#34](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/34) |
 
 ---
 
@@ -876,6 +879,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refactor Wellness Resources Page with Card-Based UI | Medium | [#353](https://github.com/eccentriccoder01/TalkHeal/issues/353) |
 | Color of the About Page | Medium | [#322](https://github.com/eccentriccoder01/TalkHeal/issues/322) |
 |  | Medium | [#321](https://github.com/eccentriccoder01/TalkHeal/issues/321) |
 | Feature: Add Category Filtering to Blog | Medium | [#310](https://github.com/eccentriccoder01/TalkHeal/issues/310) |
@@ -901,6 +905,8 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| solved #5 Added CSV validation for user uploads an d handling the error | Medium | [#49](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/49) |
+| Update views.py | Medium | [#48](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/48) |
 | Update greetings.yml | Medium | [#47](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/47) |
 | Update greetings.yml | Medium | [#46](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/46) |
 | Added EDA & Data Summary Report Generator | Medium | [#45](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/45) |
@@ -1747,6 +1753,7 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Loading Screens and States Throughout Application | Medium | [#110](https://github.com/CharithaReddy18/AI-health-chatbot/issues/110) |
 | added prescription analyzer feature | Medium | [#82](https://github.com/CharithaReddy18/AI-health-chatbot/pull/82) |
 | Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
@@ -1877,9 +1884,8 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added pages and removed changes made in package files#105 | Medium | [#108](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/108) |
-| feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| FEATURE: Implement User Authentication & Role Management | Hard | [#98](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/98) |
 
 ---
 
