@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Working on whole project | Medium | [#262](https://github.com/iaadillatif/techxninjas-client/issues/262) |
 | Add Pull Request (PR) Template | Medium | [#261](https://github.com/iaadillatif/techxninjas-client/issues/261) |
 | BUG FIX: Removing the private keys from .env.local file | Medium | [#260](https://github.com/iaadillatif/techxninjas-client/pull/260) |
 | Add courses which redirect to coursera and popular websites | Medium | [#259](https://github.com/iaadillatif/techxninjas-client/issues/259) |
@@ -38,7 +39,6 @@
 | Convert Testimonials section into an auto-scrolling carousel | Medium | [#236](https://github.com/iaadillatif/techxninjas-client/pull/236) |
 | Add Automatic Scrolling Animation to "Learners" and "Mentors" Sections | Medium | [#235](https://github.com/iaadillatif/techxninjas-client/issues/235) |
 | Light/Dark option for lesser width screen made available (closes #40) | Medium | [#234](https://github.com/iaadillatif/techxninjas-client/pull/234) |
-| Betterment of Scrollbar for all pages | Medium | [#231](https://github.com/iaadillatif/techxninjas-client/issues/231) |
 
 ---
 
@@ -189,10 +189,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added a difficulty filter for the festive dishes page | Easy | [#324](https://github.com/Ayushjhawar8/Flavor-ai/pull/324) |
 | Terms of Service Page | Easy | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
-| Add recipe rating system with interactive stars and dynamic display | Medium | [#327](https://github.com/Ayushjhawar8/Flavor-ai/pull/327) |
-| Added a difficulty filter for the festive dishes page | Medium | [#324](https://github.com/Ayushjhawar8/Flavor-ai/pull/324) |
-| Revamp | Medium | [#321](https://github.com/Ayushjhawar8/Flavor-ai/pull/321) |
+| Revamp Footer with Multiple Page Links | Medium | [#330](https://github.com/Ayushjhawar8/Flavor-ai/issues/330) |
 
 ---
 
@@ -434,7 +433,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | feat: added DOCX file support with mammoth parser | Medium | [#115](https://github.com/Er-luffy-D/SimplifAI/pull/115) |
 | Flowcharts and strong password generator | Medium | [#114](https://github.com/Er-luffy-D/SimplifAI/issues/114) |
-| Add dark mode toggle, update card styles, and tailwind config | Medium | [#103](https://github.com/Er-luffy-D/SimplifAI/pull/103) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
 | feat(navbar): make navbar sticky on scroll | Medium | [#100](https://github.com/Er-luffy-D/SimplifAI/pull/100) |
 | Added profile delete feature | Medium | [#82](https://github.com/Er-luffy-D/SimplifAI/pull/82) |
@@ -455,6 +453,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chatbot integration | Easy | [#80](https://github.com/rahulkhandait-sde/cineverse/issues/80) |
 | Add cinematic dark mode, movie cards, login & signup pages | Medium | [#79](https://github.com/rahulkhandait-sde/cineverse/pull/79) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 
@@ -543,8 +542,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Failing workflow | Easy | [#615](https://github.com/recodehive/recode-website/issues/615) |
-| full page reload | Easy | [#614](https://github.com/recodehive/recode-website/issues/614) |
+| 🐞[Bug]: Small Typos on home page | Easy | [#632](https://github.com/recodehive/recode-website/issues/632) |
+| 📝[Docs]: oops in c++ documentation | Easy | [#628](https://github.com/recodehive/recode-website/issues/628) |
+| Add levels to the Leaderboard | Easy | [#626](https://github.com/recodehive/recode-website/pull/626) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -563,7 +563,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC Banner to README | Medium | [#380](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/380) |
+| Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
 | Issue #315 please merge Users can add flashcards | Medium | [#379](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/379) |
 | Fix progress sync | Medium | [#375](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/375) |
 | Fix: Replace Total Active Days with Total Submissions across all CP platforms | Medium | [#374](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/374) |
@@ -571,7 +571,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Adding a image slider | Medium | [#364](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/364) |
 | feat: Add progress dashboard with ML-based topic categorization | Medium | [#359](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/359) |
 | Text on testimonial cards should remain clearly visible in both light and dark modes. | Medium | [#354](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/354) |
-| DSAMate logo submission | Medium | [#353](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/353) |
 | Misaligned icons overlapping the text on the Footer | Medium | [#344](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/344) |
 | Improved visibility of Terms of Service and Privacy Policy button | Medium | [#312](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/312) |
 
@@ -1074,6 +1073,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement dark mode, auth state UI, and enhanced login form | Medium | [#36](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/36) |
 | Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Medium | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
 
 ---
@@ -1192,9 +1192,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added pages and removed changes made in package files#105 | Medium | [#108](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/108) |
-| feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| FEATURE: Implement User Authentication & Role Management | Hard | [#98](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/98) |
 
 ---
 
@@ -1432,6 +1431,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| adding code for interview prep | Medium | [#200](https://github.com/vatsal-bhakodia/smriti-ai/pull/200) |
 | Enhance: Improved Code of Conduct | Medium | [#199](https://github.com/vatsal-bhakodia/smriti-ai/pull/199) |
 | Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
 
