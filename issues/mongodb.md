@@ -22,8 +22,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add calendar visualization for upcoming events | Medium | [#536](https://github.com/abhisek2004/Dev-Elevate/issues/536) |
-| fix(dashboard): reset learning progress and counters for new users | Medium | [#535](https://github.com/abhisek2004/Dev-Elevate/pull/535) |
+| Add Pull Request (PR) Template | Easy | [#539](https://github.com/abhisek2004/Dev-Elevate/issues/539) |
+| Add Navigation for Technologies Section | Medium | [#541](https://github.com/abhisek2004/Dev-Elevate/issues/541) |
+| Add “Book a Demo” Popup with Features and Get Started Button | Medium | [#540](https://github.com/abhisek2004/Dev-Elevate/issues/540) |
+| Add Light/Dark Mode Toggle on Homepage | Medium | [#538](https://github.com/abhisek2004/Dev-Elevate/issues/538) |
+| New user dashboard shows pre-filled progress instead of starting fresh | Medium | [#509](https://github.com/abhisek2004/Dev-Elevate/issues/509) |
 
 ---
 
@@ -42,10 +45,12 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Reapply changes | Easy | [#148](https://github.com/abhisek247767/PeopleHub-Frontend/pull/148) |
+| Fix: Admin/Superadmin login redirection issue | Medium | [#152](https://github.com/abhisek247767/PeopleHub-Frontend/pull/152) |
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#151](https://github.com/abhisek247767/PeopleHub-Frontend/issues/151) |
+| Add Pull Request (PR) Template | Medium | [#150](https://github.com/abhisek247767/PeopleHub-Frontend/issues/150) |
 | Improve README with backend integration steps | Medium | [#149](https://github.com/abhisek247767/PeopleHub-Frontend/pull/149) |
 | GitHub Actions CI workflow for project validation | Medium | [#147](https://github.com/abhisek247767/PeopleHub-Frontend/issues/147) |
 | Login with different role | Medium | [#146](https://github.com/abhisek247767/PeopleHub-Frontend/pull/146) |
-| feat: add role-based login option (Admin & Super-admin support) | Medium | [#145](https://github.com/abhisek247767/PeopleHub-Frontend/pull/145) |
 
 ---
 
@@ -63,7 +68,10 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🐛 : Feature section content is not centered | Medium | [#339](https://github.com/adityagarwal15/JobSync/issues/339) |
+| Add GSSoC Banner to README | Medium | [#343](https://github.com/adityagarwal15/JobSync/issues/343) |
+| Add Pull Request (PR) Template | Medium | [#342](https://github.com/adityagarwal15/JobSync/issues/342) |
+| 🐛 : Up Arrow Button Does Not Scroll to Top | Medium | [#341](https://github.com/adityagarwal15/JobSync/issues/341) |
+| Contact section (“LET’S TALK”) alignment issue | Medium | [#340](https://github.com/adityagarwal15/JobSync/issues/340) |
 | feat(navbar): improve mobile responsiveness with CSS-only solution | Medium | [#333](https://github.com/adityagarwal15/JobSync/pull/333) |
 | Navbar UI Improvements | Medium | [#328](https://github.com/adityagarwal15/JobSync/issues/328) |
 | fix(security): add HTML sanitization middleware for user inputs (#317) | Medium | [#327](https://github.com/adityagarwal15/JobSync/pull/327) |
@@ -133,8 +141,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add department-hub as a submodule under web-development | Medium | [#1257](https://github.com/Code-A2Z/code-a2z/pull/1257) |
-| Feature/backend/list of collaborators | Medium | [#1256](https://github.com/Code-A2Z/code-a2z/pull/1256) |
 | Login Signup UI improvement | Medium | [#1239](https://github.com/Code-A2Z/code-a2z/issues/1239) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
@@ -147,6 +153,7 @@ Accessibility features like dark mode,white.
 | 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
 | 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
 | 📃: House Price Prediction | Medium | [#1145](https://github.com/Code-A2Z/code-a2z/issues/1145) |
+| 📃: Daily Habit Tracker | Medium | [#1036](https://github.com/Code-A2Z/code-a2z/issues/1036) |
 
 ---
 
@@ -192,6 +199,11 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Eye icon visible | Easy | [#229](https://github.com/BhaktiMore18/Pouranik/pull/229) |
 | Added testimonials section | Easy | [#221](https://github.com/BhaktiMore18/Pouranik/pull/221) |
+| Event-Driven Challenges / Momentum Tracker(Backend Implementation) | Medium | [#258](https://github.com/BhaktiMore18/Pouranik/issues/258) |
+| Backend implementation: Book Clubs & Group Chat | Medium | [#257](https://github.com/BhaktiMore18/Pouranik/issues/257) |
+| Invisible Hover Color in Hamburger Menu (Light Mode) | Medium | [#256](https://github.com/BhaktiMore18/Pouranik/issues/256) |
+| Improper Spacing in Sort & Filter UI | Medium | [#255](https://github.com/BhaktiMore18/Pouranik/issues/255) |
+| Back to Top Button Not Working on Genres Page | Medium | [#254](https://github.com/BhaktiMore18/Pouranik/issues/254) |
 | Issue template lacks documentation and performance | Medium | [#253](https://github.com/BhaktiMore18/Pouranik/issues/253) |
 | Div's color changed | Medium | [#252](https://github.com/BhaktiMore18/Pouranik/pull/252) |
 | Fixes #247: Added Blog Section | Medium | [#251](https://github.com/BhaktiMore18/Pouranik/pull/251) |
@@ -200,7 +212,6 @@ Accessibility features like dark mode,white.
 | added light/dark mode toggle for mobile view at side of menu button | Medium | [#244](https://github.com/BhaktiMore18/Pouranik/pull/244) |
 | privacy policy page | Medium | [#228](https://github.com/BhaktiMore18/Pouranik/pull/228) |
 | Replace Chatbase with fully integrated in-house GenAI chatbot (#214) | Medium | [#223](https://github.com/BhaktiMore18/Pouranik/pull/223) |
-| Enhance Login Page UI/UX for Light & Dark Mode #160 | Medium | [#172](https://github.com/BhaktiMore18/Pouranik/pull/172) |
 
 ---
 
@@ -544,6 +555,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Newsletter Subscription System with Email Validation & Database Support | Medium | [#284](https://github.com/Prashanti-Hebbar/FoodIO/issues/284) |
+| AI-Chat not able to generate Recipe | Medium | [#283](https://github.com/Prashanti-Hebbar/FoodIO/issues/283) |
 | update card UI in dark theme | Medium | [#282](https://github.com/Prashanti-Hebbar/FoodIO/pull/282) |
 | Update Header Based on User Login Status | Medium | [#265](https://github.com/Prashanti-Hebbar/FoodIO/issues/265) |
 | Enhancing the favorite, saved and share button actions. | Medium | [#264](https://github.com/Prashanti-Hebbar/FoodIO/issues/264) |
@@ -796,8 +809,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| refactor(contact): streamline Contact Us page by removing FAQs and improving UI | Medium | [#249](https://github.com/openml-stack/SentiLog-AI/pull/249) |
-| API gets daily news, and the ML models classify them as Positive, Negative, or Neutral. | Medium | [#247](https://github.com/openml-stack/SentiLog-AI/pull/247) |
 | Visual Improvement for the Dashboard page | Medium | [#240](https://github.com/openml-stack/SentiLog-AI/issues/240) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
@@ -810,6 +821,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Add Mood Tracker or Calendar View for Visualizing Logs | Medium | [#187](https://github.com/openml-stack/SentiLog-AI/issues/187) |
 | Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
+| Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
+| fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
 
 ---
 
@@ -941,12 +954,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | GitHub Actions CI workflow for project validation | Medium | [#153](https://github.com/DevSyncx/DevSync/issues/153) |
-| hover effect for footer links | Medium | [#152](https://github.com/DevSyncx/DevSync/pull/152) |
 | Folder Structure not in proper manner in readme.md file | Medium | [#151](https://github.com/DevSyncx/DevSync/issues/151) |
 | POMODORO timer restarts automatically after one session | Medium | [#150](https://github.com/DevSyncx/DevSync/issues/150) |
-| Github Link in the Footer section is not working #144 | Medium | [#149](https://github.com/DevSyncx/DevSync/pull/149) |
 | Redesigned profile page | Medium | [#148](https://github.com/DevSyncx/DevSync/pull/148) |
-| Leetcode Dashboard with GrapghQL API | Medium | [#146](https://github.com/DevSyncx/DevSync/pull/146) |
 | feat(Pomodoro)- Implemented feature link, prevented auto start of an | Medium | [#143](https://github.com/DevSyncx/DevSync/pull/143) |
 | Add required environment variables to Getting Started documentation | Medium | [#135](https://github.com/DevSyncx/DevSync/issues/135) |
 | Add FAQ section on home page | Medium | [#133](https://github.com/DevSyncx/DevSync/issues/133) |
@@ -1076,6 +1086,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a Gamified Leaderboard with XP System for Student Engagement | Medium | [#86](https://github.com/KrishChothani/CKsEdu/issues/86) |
 | Add bottom to top button across all pages | Medium | [#85](https://github.com/KrishChothani/CKsEdu/pull/85) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
@@ -1128,20 +1139,18 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve SEO, Accessibility, Structured Data, and Sitemap Hygiene (Skip Link, Landmarks, ARIA, JSON-LD) | Medium | [#94](https://github.com/lovelymahor/StudyMatePlus/pull/94) |
 | Improve Accessibility (Alt Text & Focus Styles) | Medium | [#92](https://github.com/lovelymahor/StudyMatePlus/issues/92) |
 | Add Loading Spinner / Skeleton | Medium | [#91](https://github.com/lovelymahor/StudyMatePlus/issues/91) |
 | Feature Request: PDF Upload/Attach Support in Mind Map Section | Medium | [#90](https://github.com/lovelymahor/StudyMatePlus/issues/90) |
-| Feat/theme contrast | Medium | [#89](https://github.com/lovelymahor/StudyMatePlus/pull/89) |
 | Font consistency issue | Medium | [#88](https://github.com/lovelymahor/StudyMatePlus/issues/88) |
-| Feat/testimonials horizontal | Medium | [#87](https://github.com/lovelymahor/StudyMatePlus/pull/87) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
-| Feat/dark mode global issue #82 | Medium | [#83](https://github.com/lovelymahor/StudyMatePlus/pull/83) |
-| Add global Dark/Light mode with persistent toggle | Medium | [#82](https://github.com/lovelymahor/StudyMatePlus/issues/82) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
+| CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
 
 ---
 
@@ -1260,8 +1269,6 @@ Fast Workflow Tools
 | feat: implement appointment cancellation with 24-hour policy | Medium | [#236](https://github.com/shandilya-rajnandini/DocAtHome/pull/236) |
 | Verification of Doctors by Admin (Backend Implementation) | Medium | [#233](https://github.com/shandilya-rajnandini/DocAtHome/issues/233) |
 | Add Review and Star Rating to Doctors by Patients | Medium | [#232](https://github.com/shandilya-rajnandini/DocAtHome/issues/232) |
-| 🐛 UI/UX Issue: Footer Theme Inconsistency | Medium | [#230](https://github.com/shandilya-rajnandini/DocAtHome/issues/230) |
-| 🐛 UI/UX Issue: Register Form Overlap with Navbar | Medium | [#229](https://github.com/shandilya-rajnandini/DocAtHome/issues/229) |
 | Map view | Medium | [#228](https://github.com/shandilya-rajnandini/DocAtHome/pull/228) |
 | Set up CI pipeline and fix failing auth tests | Medium | [#219](https://github.com/shandilya-rajnandini/DocAtHome/pull/219) |
 | Reintroduce Skeleton placeholders for loading states in Appointments, Search Doctor, and Doctor Appointment pages | Medium | [#207](https://github.com/shandilya-rajnandini/DocAtHome/pull/207) |
@@ -1339,9 +1346,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added pages and removed changes made in package files#105 | Medium | [#108](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/108) |
-| feat: Add user authentication foundation - Phase 1 of comprehensive auth system | Medium | [#100](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/100) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| FEATURE: Implement User Authentication & Role Management | Hard | [#98](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/98) |
 
 ---
 
