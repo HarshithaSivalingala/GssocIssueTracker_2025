@@ -146,6 +146,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| sending user to login page after successful registraion. instead of this, bypass the login. for better UX. | Easy | [#240](https://github.com/Khushi-Nigam/jobportal/issues/240) |
+| Fix: Improve Documentation with Setup Instructions & Preview GIFs | Medium | [#238](https://github.com/Khushi-Nigam/jobportal/pull/238) |
+| UI/UX Improvements and Fixes for FAQ, About Us, Job Search, and Footer | Medium | [#237](https://github.com/Khushi-Nigam/jobportal/pull/237) |
+| Balance Skeleton Loader Layout | Medium | [#236](https://github.com/Khushi-Nigam/jobportal/issues/236) |
 | Enhancement: Make Blog section more interactive with dark/light mode support | Medium | [#230](https://github.com/Khushi-Nigam/jobportal/issues/230) |
 | FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
@@ -169,6 +173,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| solved #5 Added CSV validation for user uploads an d handling the error | Medium | [#49](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/49) |
+| Update views.py | Medium | [#48](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/48) |
 | Update greetings.yml | Medium | [#47](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/47) |
 | Update greetings.yml | Medium | [#46](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/46) |
 | Added EDA & Data Summary Report Generator | Medium | [#45](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/45) |
