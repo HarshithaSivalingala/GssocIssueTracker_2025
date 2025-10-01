@@ -109,9 +109,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Change git clone to use our own username | Medium | [#83](https://github.com/swarooppatilx/bit-by-query/issues/83) |
-| Fixed: Added click event on "Start Contest" on Landing + replace "Start Registration" button when logged in | Medium | [#82](https://github.com/swarooppatilx/bit-by-query/pull/82) |
-| feat : Added the WatchEye Icon in the password field for users to Toggle and see their password | Medium | [#81](https://github.com/swarooppatilx/bit-by-query/pull/81) |
 | feat: add a env flag for sqlite mode | Medium | [#75](https://github.com/swarooppatilx/bit-by-query/issues/75) |
 | bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
 | feat: admin panel | Medium | [#66](https://github.com/swarooppatilx/bit-by-query/issues/66) |
