@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Working on whole project | Medium | [#262](https://github.com/iaadillatif/techxninjas-client/issues/262) |
 | Add Pull Request (PR) Template | Medium | [#261](https://github.com/iaadillatif/techxninjas-client/issues/261) |
 | BUG FIX: Removing the private keys from .env.local file | Medium | [#260](https://github.com/iaadillatif/techxninjas-client/pull/260) |
 | Add courses which redirect to coursera and popular websites | Medium | [#259](https://github.com/iaadillatif/techxninjas-client/issues/259) |
@@ -38,7 +39,6 @@
 | Convert Testimonials section into an auto-scrolling carousel | Medium | [#236](https://github.com/iaadillatif/techxninjas-client/pull/236) |
 | Add Automatic Scrolling Animation to "Learners" and "Mentors" Sections | Medium | [#235](https://github.com/iaadillatif/techxninjas-client/issues/235) |
 | Light/Dark option for lesser width screen made available (closes #40) | Medium | [#234](https://github.com/iaadillatif/techxninjas-client/pull/234) |
-| Betterment of Scrollbar for all pages | Medium | [#231](https://github.com/iaadillatif/techxninjas-client/issues/231) |
 
 ---
 
@@ -64,8 +64,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add calendar visualization for upcoming events | Medium | [#536](https://github.com/abhisek2004/Dev-Elevate/issues/536) |
-| fix(dashboard): reset learning progress and counters for new users | Medium | [#535](https://github.com/abhisek2004/Dev-Elevate/pull/535) |
+| Add Pull Request (PR) Template | Easy | [#539](https://github.com/abhisek2004/Dev-Elevate/issues/539) |
+| Add Navigation for Technologies Section | Medium | [#541](https://github.com/abhisek2004/Dev-Elevate/issues/541) |
+| Add “Book a Demo” Popup with Features and Get Started Button | Medium | [#540](https://github.com/abhisek2004/Dev-Elevate/issues/540) |
+| Add Light/Dark Mode Toggle on Homepage | Medium | [#538](https://github.com/abhisek2004/Dev-Elevate/issues/538) |
+| New user dashboard shows pre-filled progress instead of starting fresh | Medium | [#509](https://github.com/abhisek2004/Dev-Elevate/issues/509) |
 
 ---
 
@@ -364,6 +367,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chatbot integration | Easy | [#80](https://github.com/rahulkhandait-sde/cineverse/issues/80) |
 | Add cinematic dark mode, movie cards, login & signup pages | Medium | [#79](https://github.com/rahulkhandait-sde/cineverse/pull/79) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 
@@ -907,6 +911,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a Gamified Leaderboard with XP System for Student Engagement | Medium | [#86](https://github.com/KrishChothani/CKsEdu/issues/86) |
 | Add bottom to top button across all pages | Medium | [#85](https://github.com/KrishChothani/CKsEdu/pull/85) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
