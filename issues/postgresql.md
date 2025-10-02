@@ -147,6 +147,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| random password generator, flowchart summarizer | Medium | [#119](https://github.com/Er-luffy-D/SimplifAI/pull/119) |
 | feat: added DOCX file support with mammoth parser | Medium | [#115](https://github.com/Er-luffy-D/SimplifAI/pull/115) |
 | Flowcharts and strong password generator | Medium | [#114](https://github.com/Er-luffy-D/SimplifAI/issues/114) |
 | feat: Implement logo integration across SimplifAI application | Medium | [#101](https://github.com/Er-luffy-D/SimplifAI/pull/101) |
@@ -329,8 +330,27 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| added issue managment | Medium | [#121](https://github.com/Axelvyn/Nexara/pull/121) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Completely redesign the navbar | Medium | [#566](https://github.com/SandeepVashishtha/Eventra/issues/566) |
 
 ---
 
@@ -374,7 +394,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| adding code for interview prep | Medium | [#200](https://github.com/vatsal-bhakodia/smriti-ai/pull/200) |
 | Enhance: Improved Code of Conduct | Medium | [#199](https://github.com/vatsal-bhakodia/smriti-ai/pull/199) |
 | Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
 
