@@ -66,7 +66,6 @@
 | Added Code of Conduct file | Medium | [#19](https://github.com/thedevyashsaini/rusticle/pull/19) |
 | Added License | Medium | [#18](https://github.com/thedevyashsaini/rusticle/pull/18) |
 | Enhancement: Implement Variable Scoping and Block Scope | Medium | [#7](https://github.com/thedevyashsaini/rusticle/issues/7) |
-| Added LICENSE | Medium | [#6](https://github.com/thedevyashsaini/rusticle/pull/6) |
 | Enhancement: Implement Closures and Lexical Scoping | Hard | [#11](https://github.com/thedevyashsaini/rusticle/issues/11) |
 | Enhancement: Implement a Module System with Import Resolution | Hard | [#9](https://github.com/thedevyashsaini/rusticle/issues/9) |
 | Enhancement: Add String Interpolation Support | Hard | [#8](https://github.com/thedevyashsaini/rusticle/issues/8) |
