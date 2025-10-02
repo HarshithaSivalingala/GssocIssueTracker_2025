@@ -56,6 +56,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
+| feat(build): Add a Central ``build.py`` Orchestrator for CinderPeak. | Hard | [#84](https://github.com/SharonIV0x86/CinderPeak/issues/84) |
 
 ---
 
