@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Contributors Section in README | Medium | [#61](https://github.com/kaushav07/VisionMate/issues/61) |
+| Add GSSoC Banner to README | Medium | [#60](https://github.com/kaushav07/VisionMate/issues/60) |
+| Add architecture diagram and documentation link in README | Medium | [#59](https://github.com/kaushav07/VisionMate/pull/59) |
 | Missing of gitignore file | Medium | [#58](https://github.com/kaushav07/VisionMate/issues/58) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
@@ -91,11 +94,26 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Implement Facebook OAuth 2.0 authentication with web platform compatibility | Easy | [#296](https://github.com/Yash159357/BlyFt/pull/296) |
+| Update FAQ Section with Official Content | Easy | [#315](https://github.com/Yash159357/BlyFt/issues/315) |
+| Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
+| Fix Broken Links and Hardcoded GitHub Star Count | Easy | [#313](https://github.com/Yash159357/BlyFt/issues/313) |
+| Logging in Nav Screens | Easy | [#312](https://github.com/Yash159357/BlyFt/issues/312) |
+| Logging in Intro Screen | Easy | [#311](https://github.com/Yash159357/BlyFt/issues/311) |
+| Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
+| Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
+| Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
+| Logging in Inner Screens (Part 4) | Easy | [#307](https://github.com/Yash159357/BlyFt/issues/307) |
+| Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
+| Logging in Inner Screens (Part 2) | Easy | [#305](https://github.com/Yash159357/BlyFt/issues/305) |
+| Logging in Inner Screens (Part 1) | Easy | [#304](https://github.com/Yash159357/BlyFt/issues/304) |
+| Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
+| Logging in Common Widgets (Part 1) | Easy | [#302](https://github.com/Yash159357/BlyFt/issues/302) |
+| Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
+| Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
+| Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
+| Logging in Tutorial Service | Easy | [#298](https://github.com/Yash159357/BlyFt/issues/298) |
+| feat: Improve Reminder Time Dial UI/UX (#200) | Easy | [#297](https://github.com/Yash159357/BlyFt/pull/297) |
 | Added Localization to the app | Easy | [#295](https://github.com/Yash159357/BlyFt/pull/295) |
-| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
-| Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
-| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BlyFt/issues/167) |
 
 ---
 
@@ -113,7 +131,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/brush and marker | Medium | [#112](https://github.com/may-tas/TextEditingApp/pull/112) |
+| Add confirmation dialog before clearing all text and canvas in the editor | Medium | [#122](https://github.com/may-tas/TextEditingApp/issues/122) |
+| Optimize Performance for Large Canvases with Many Elements | Medium | [#115](https://github.com/may-tas/TextEditingApp/issues/115) |
+| Implement Advanced Undo/Redo with Visual History Timeline | Medium | [#113](https://github.com/may-tas/TextEditingApp/issues/113) |
 | Added Shadows Effect Feature | Medium | [#111](https://github.com/may-tas/TextEditingApp/pull/111) |
 
 ---
@@ -159,11 +179,26 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Implement Facebook OAuth 2.0 authentication with web platform compatibility | Easy | [#296](https://github.com/Yash159357/BlyFt/pull/296) |
+| Update FAQ Section with Official Content | Easy | [#315](https://github.com/Yash159357/BlyFt/issues/315) |
+| Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
+| Fix Broken Links and Hardcoded GitHub Star Count | Easy | [#313](https://github.com/Yash159357/BlyFt/issues/313) |
+| Logging in Nav Screens | Easy | [#312](https://github.com/Yash159357/BlyFt/issues/312) |
+| Logging in Intro Screen | Easy | [#311](https://github.com/Yash159357/BlyFt/issues/311) |
+| Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
+| Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
+| Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
+| Logging in Inner Screens (Part 4) | Easy | [#307](https://github.com/Yash159357/BlyFt/issues/307) |
+| Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
+| Logging in Inner Screens (Part 2) | Easy | [#305](https://github.com/Yash159357/BlyFt/issues/305) |
+| Logging in Inner Screens (Part 1) | Easy | [#304](https://github.com/Yash159357/BlyFt/issues/304) |
+| Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
+| Logging in Common Widgets (Part 1) | Easy | [#302](https://github.com/Yash159357/BlyFt/issues/302) |
+| Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
+| Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
+| Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
+| Logging in Tutorial Service | Easy | [#298](https://github.com/Yash159357/BlyFt/issues/298) |
+| feat: Improve Reminder Time Dial UI/UX (#200) | Easy | [#297](https://github.com/Yash159357/BlyFt/pull/297) |
 | Added Localization to the app | Easy | [#295](https://github.com/Yash159357/BlyFt/pull/295) |
-| Flutter: Improve Reminder Time Dial UI/UX | Medium | [#200](https://github.com/Yash159357/BlyFt/issues/200) |
-| Backend: NewsData.io API Integration | Medium | [#168](https://github.com/Yash159357/BlyFt/issues/168) |
-| Backend: MediaStack API Integration | Medium | [#167](https://github.com/Yash159357/BlyFt/issues/167) |
 
 ---
 
