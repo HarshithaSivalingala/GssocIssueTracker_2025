@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| On clicking the Explore What's Inside TechXNinjas's : Resume builder , it's not showing anything | Medium | [#263](https://github.com/iaadillatif/techxninjas-client/issues/263) |
 | Working on whole project | Medium | [#262](https://github.com/iaadillatif/techxninjas-client/issues/262) |
 | Add Pull Request (PR) Template | Medium | [#261](https://github.com/iaadillatif/techxninjas-client/issues/261) |
 | BUG FIX: Removing the private keys from .env.local file | Medium | [#260](https://github.com/iaadillatif/techxninjas-client/pull/260) |
@@ -64,11 +65,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Pull Request (PR) Template | Easy | [#539](https://github.com/abhisek2004/Dev-Elevate/issues/539) |
-| Add Navigation for Technologies Section | Medium | [#541](https://github.com/abhisek2004/Dev-Elevate/issues/541) |
-| Add “Book a Demo” Popup with Features and Get Started Button | Medium | [#540](https://github.com/abhisek2004/Dev-Elevate/issues/540) |
-| Add Light/Dark Mode Toggle on Homepage | Medium | [#538](https://github.com/abhisek2004/Dev-Elevate/issues/538) |
-| New user dashboard shows pre-filled progress instead of starting fresh | Medium | [#509](https://github.com/abhisek2004/Dev-Elevate/issues/509) |
+| Add Animate on Scroll (AOS) for enhanced UI | Medium | [#543](https://github.com/abhisek2004/Dev-Elevate/issues/543) |
 
 ---
 
@@ -87,6 +84,11 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
+| Add Animate on Scroll (AOS) for enhanced UI | Medium | [#2344](https://github.com/OWASP/Nest/issues/2344) |
+| Bump typescript from 5.8.3 to 5.9.3 in /frontend | Medium | [#2340](https://github.com/OWASP/Nest/pull/2340) |
+| Bump @types/node from 22.18.7 to 22.18.8 in /frontend | Medium | [#2339](https://github.com/OWASP/Nest/pull/2339) |
+| Bump openai from 1.109.1 to 2.0.0 in /backend | Medium | [#2337](https://github.com/OWASP/Nest/pull/2337) |
 | Bump jest and @types/jest in /frontend | Medium | [#2329](https://github.com/OWASP/Nest/pull/2329) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
@@ -97,8 +99,6 @@ Accessibility features like dark mode,white.
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
-| Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
-| Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 
 ---
 
@@ -182,6 +182,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GSSoC Banner to README | Medium | [#79](https://github.com/HimanshuHeda/Zip_Tales/issues/79) |
+| Add Contributors Section in README | Medium | [#78](https://github.com/HimanshuHeda/Zip_Tales/issues/78) |
 | Chatbot Not Responding and Dashboard Displaying "No Data Available" Error. | Medium | [#77](https://github.com/HimanshuHeda/Zip_Tales/issues/77) |
 | Update Twitter Icon to Latest X Logo | Medium | [#76](https://github.com/HimanshuHeda/Zip_Tales/issues/76) |
 | Header component fails to render, causing layout collapse and hiding page content | Medium | [#75](https://github.com/HimanshuHeda/Zip_Tales/issues/75) |
@@ -208,16 +210,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feat/language-change setup | Medium | [#245](https://github.com/mansiruhil/fail-u-forward/pull/245) |
+| Add Contributors Section to README | Medium | [#246](https://github.com/mansiruhil/fail-u-forward/issues/246) |
 | About Page UI enhancement | Medium | [#242](https://github.com/mansiruhil/fail-u-forward/issues/242) |
-| Add GSSoC Banner to README | Medium | [#241](https://github.com/mansiruhil/fail-u-forward/pull/241) |
-| Enhance Favicon Implementation for Better Cross-Platform Support and Brand Recognition | Medium | [#238](https://github.com/mansiruhil/fail-u-forward/issues/238) |
-| Add sitemap.xml and robot.txt | Medium | [#237](https://github.com/mansiruhil/fail-u-forward/issues/237) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Fixing entire css components of welcome page and main page | Medium | [#197](https://github.com/mansiruhil/fail-u-forward/issues/197) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
-| Improve Authentication Page UI and Error Handling | Medium | [#178](https://github.com/mansiruhil/fail-u-forward/issues/178) |
 | Add feature to connect any user from username or add friend section directly. | Medium | [#168](https://github.com/mansiruhil/fail-u-forward/issues/168) |
 
 ---
@@ -266,7 +264,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Add a navbar for easy section accessing | Medium | [#29](https://github.com/byteom/Interview01/pull/29) |
 | Resolved the conflicts in CONTRIBUTING.md file. | Medium | [#28](https://github.com/byteom/Interview01/pull/28) |
 | 17: Implement functional search bar on homepage | Medium | [#26](https://github.com/byteom/Interview01/pull/26) |
 | Add a Navbar for Easy Section Access: | Medium | [#24](https://github.com/byteom/Interview01/issues/24) |
@@ -368,6 +365,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | chatbot integration | Easy | [#80](https://github.com/rahulkhandait-sde/cineverse/issues/80) |
+| Add Login Page | Medium | [#83](https://github.com/rahulkhandait-sde/cineverse/issues/83) |
+| Updated Twitter Icon | Medium | [#81](https://github.com/rahulkhandait-sde/cineverse/pull/81) |
 | Add cinematic dark mode, movie cards, login & signup pages | Medium | [#79](https://github.com/rahulkhandait-sde/cineverse/pull/79) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 
@@ -624,6 +623,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
 
@@ -664,7 +664,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| refactor: update message template for weather agent node | Medium | [#206](https://github.com/deskree-inc/blok/pull/206) |
 | Update README badge links | Medium | [#204](https://github.com/deskree-inc/blok/pull/204) |
 | There is no link in the license | Medium | [#202](https://github.com/deskree-inc/blok/issues/202) |
 | Footer-UI Enhancement | Medium | [#201](https://github.com/deskree-inc/blok/issues/201) |
@@ -684,6 +683,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Implement Metrics Collection in Python3 Runtime (Prometheus Export) | Medium | [#133](https://github.com/deskree-inc/blok/pull/133) |
 | Added a  dedicated section on creating workflows | Medium | [#131](https://github.com/deskree-inc/blok/pull/131) |
 | Add Configurable Observability Backend to nanoservice-ts (Prometheus/InfluxDB) | Medium | [#126](https://github.com/deskree-inc/blok/issues/126) |
+| Bump fastify from 5.2.2 to 5.3.2 | Medium | [#119](https://github.com/deskree-inc/blok/pull/119) |
 
 ---
 
@@ -911,6 +911,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated Twitter Icon | Medium | [#87](https://github.com/KrishChothani/CKsEdu/pull/87) |
 | Add a Gamified Leaderboard with XP System for Student Engagement | Medium | [#86](https://github.com/KrishChothani/CKsEdu/issues/86) |
 | Add bottom to top button across all pages | Medium | [#85](https://github.com/KrishChothani/CKsEdu/pull/85) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
@@ -1041,6 +1042,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump tailwindcss from 3.4.17 to 4.1.14 | Medium | [#129](https://github.com/Ojas-Arora/SapneSeSafar/pull/129) |
+| Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.4 | Medium | [#127](https://github.com/Ojas-Arora/SapneSeSafar/pull/127) |
 | Bump react-router-dom from 6.28.2 to 7.9.3 | Medium | [#126](https://github.com/Ojas-Arora/SapneSeSafar/pull/126) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.22 | Medium | [#125](https://github.com/Ojas-Arora/SapneSeSafar/pull/125) |
@@ -1052,14 +1055,12 @@ Fast Workflow Tools
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
 | Bump lucide-react from 0.344.0 to 0.544.0 | Medium | [#103](https://github.com/Ojas-Arora/SapneSeSafar/pull/103) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
-| Bump tailwindcss from 3.4.17 to 4.1.13 | Medium | [#94](https://github.com/Ojas-Arora/SapneSeSafar/pull/94) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
 | Feat: Connecting All Sharks CSV file with all Features | Medium | [#59](https://github.com/Ojas-Arora/SapneSeSafar/issues/59) |
-| Bump typescript from 5.6.3 to 5.9.2 | Medium | [#53](https://github.com/Ojas-Arora/SapneSeSafar/pull/53) |
 | Bump react-dom and @types/react-dom | Medium | [#47](https://github.com/Ojas-Arora/SapneSeSafar/pull/47) |
 | Bump react and @types/react | Medium | [#46](https://github.com/Ojas-Arora/SapneSeSafar/pull/46) |
 | Bump react, react-dom and @types/react | Medium | [#14](https://github.com/Ojas-Arora/SapneSeSafar/pull/14) |
@@ -1240,6 +1241,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add missing alt text to img tags for screen reader compatibility | Medium | [#93](https://github.com/subhadeeproy3902/mvpblocks/issues/93) |
+| fix: Handle missing GitHub token gracefully and resolve Next.js 15 fumadocs-ui compatibility | Medium | [#92](https://github.com/subhadeeproy3902/mvpblocks/pull/92) |
 | feat(preloaders) : add preloader-1 block | Medium | [#91](https://github.com/subhadeeproy3902/mvpblocks/pull/91) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
