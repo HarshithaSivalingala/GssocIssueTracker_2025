@@ -18,11 +18,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesign index.html Page Layout and Add Login/Signup Options | Medium | [#841](https://github.com/gyanshankar1708/GrowCraft/issues/841) |
+| Add theme toggle (light/dark) to Contact page navbar with persistent preference | Medium | [#840](https://github.com/gyanshankar1708/GrowCraft/pull/840) |
 | green glass cards with floating effect | Medium | [#839](https://github.com/gyanshankar1708/GrowCraft/pull/839) |
 | Add a Sitemap Page to the Website | Medium | [#838](https://github.com/gyanshankar1708/GrowCraft/issues/838) |
-| Login Signup and forgot page added in project | Medium | [#837](https://github.com/gyanshankar1708/GrowCraft/pull/837) |
-| fix: add padding to "Questions About This Policy?" card | Medium | [#836](https://github.com/gyanshankar1708/GrowCraft/pull/836) |
-| Fix 'Services' navigation link and update logo to black | Medium | [#835](https://github.com/gyanshankar1708/GrowCraft/pull/835) |
 | Dark Mode Not Implemented on webdev.html | Medium | [#834](https://github.com/gyanshankar1708/GrowCraft/issues/834) |
 | Made the links functional in FAQ page | Medium | [#833](https://github.com/gyanshankar1708/GrowCraft/pull/833) |
 | Made the footer links functional in Website Development Page | Medium | [#832](https://github.com/gyanshankar1708/GrowCraft/pull/832) |
@@ -44,6 +43,7 @@
 | Feature: Improvement in footer | Medium | [#812](https://github.com/gyanshankar1708/GrowCraft/issues/812) |
 | Adding a testimonial carousal | Medium | [#811](https://github.com/gyanshankar1708/GrowCraft/issues/811) |
 | BUG: Toggle theme button not visible on Contact Us Page | Medium | [#810](https://github.com/gyanshankar1708/GrowCraft/issues/810) |
+| add scroll to top button in contact us | Medium | [#802](https://github.com/gyanshankar1708/GrowCraft/issues/802) |
 
 ---
 
