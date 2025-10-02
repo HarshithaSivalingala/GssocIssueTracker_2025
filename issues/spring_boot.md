@@ -48,6 +48,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Saved toggle shows active state by default on detail screens | Easy | [#440](https://github.com/yuvrajsinghgmx/ShopSmart/issues/440) |
+| added: document images in shop modal | Medium | [#465](https://github.com/yuvrajsinghgmx/ShopSmart/pull/465) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
 | Include Document Images in Shop Details Modal | Medium | [#462](https://github.com/yuvrajsinghgmx/ShopSmart/issues/462) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
@@ -110,9 +111,28 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| suggestion | Medium | [#57](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/57) |
 | Bug: Concurrency Issue in Appointment Booking | Medium | [#56](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/56) |
 | Update Readme | Medium | [#55](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/55) |
 | Enhancement: Secure API Endpoints using JWT Authentication | Medium | [#51](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/51) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Completely redesign the navbar | Medium | [#566](https://github.com/SandeepVashishtha/Eventra/issues/566) |
 
 ---
 
