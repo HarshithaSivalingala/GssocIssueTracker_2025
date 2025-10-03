@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | On clicking the Explore What's Inside TechXNinjas's : Resume builder , it's not showing anything | Medium | [#263](https://github.com/iaadillatif/techxninjas-client/issues/263) |
-| Working on whole project | Medium | [#262](https://github.com/iaadillatif/techxninjas-client/issues/262) |
 | Add Pull Request (PR) Template | Medium | [#261](https://github.com/iaadillatif/techxninjas-client/issues/261) |
 | BUG FIX: Removing the private keys from .env.local file | Medium | [#260](https://github.com/iaadillatif/techxninjas-client/pull/260) |
 | Add courses which redirect to coursera and popular websites | Medium | [#259](https://github.com/iaadillatif/techxninjas-client/issues/259) |
@@ -31,7 +30,6 @@
 | fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 | Enhancement of Card Carousel | Medium | [#246](https://github.com/iaadillatif/techxninjas-client/issues/246) |
 | Fix spelling / grammar typo on HomePage or Static Page | Medium | [#245](https://github.com/iaadillatif/techxninjas-client/issues/245) |
-| Add Skeleton Loaders / Shimmers | Medium | [#244](https://github.com/iaadillatif/techxninjas-client/issues/244) |
 | notification button not working | Medium | [#242](https://github.com/iaadillatif/techxninjas-client/issues/242) |
 | Add FAQ Page | Medium | [#240](https://github.com/iaadillatif/techxninjas-client/issues/240) |
 | Uneven Text Alignment in mentors meet | Medium | [#239](https://github.com/iaadillatif/techxninjas-client/issues/239) |
@@ -98,6 +96,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Add PDF Q&A Tool to the main interface and navigation | Medium | [#118](https://github.com/huamanraj/aitoolbox.software/pull/118) |
 | Add AI Research Paper Summarizer Tool | Medium | [#116](https://github.com/huamanraj/aitoolbox.software/issues/116) |
 | feat(frontend): add AI Question Paper Generator card and form | Medium | [#115](https://github.com/huamanraj/aitoolbox.software/pull/115) |
 | Add social links in footer | Medium | [#112](https://github.com/huamanraj/aitoolbox.software/issues/112) |
@@ -161,11 +160,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Fix slack and duplication errors | Medium | [#2352](https://github.com/OWASP/Nest/pull/2352) |
+| Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
-| Add Animate on Scroll (AOS) for enhanced UI | Medium | [#2344](https://github.com/OWASP/Nest/issues/2344) |
 | Bump typescript from 5.8.3 to 5.9.3 in /frontend | Medium | [#2340](https://github.com/OWASP/Nest/pull/2340) |
-| Bump @types/node from 22.18.7 to 22.18.8 in /frontend | Medium | [#2339](https://github.com/OWASP/Nest/pull/2339) |
-| Bump openai from 1.109.1 to 2.0.0 in /backend | Medium | [#2337](https://github.com/OWASP/Nest/pull/2337) |
 | Bump jest and @types/jest in /frontend | Medium | [#2329](https://github.com/OWASP/Nest/pull/2329) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
@@ -193,9 +191,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI enhancement | Easy | [#334](https://github.com/Ayushjhawar8/Flavor-ai/pull/334) |
 | Terms of Service Page | Easy | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
-| Overhaul homepage UI with new modern design | Medium | [#331](https://github.com/Ayushjhawar8/Flavor-ai/pull/331) |
-| Revamp Footer with Multiple Page Links | Medium | [#330](https://github.com/Ayushjhawar8/Flavor-ai/issues/330) |
+| Ai diet planner | Medium | [#337](https://github.com/Ayushjhawar8/Flavor-ai/pull/337) |
+| Ai | Medium | [#336](https://github.com/Ayushjhawar8/Flavor-ai/pull/336) |
+| added footer | Medium | [#335](https://github.com/Ayushjhawar8/Flavor-ai/pull/335) |
 
 ---
 
@@ -338,10 +338,8 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Contributors Section to README | Medium | [#246](https://github.com/mansiruhil/fail-u-forward/issues/246) |
-| About Page UI enhancement | Medium | [#242](https://github.com/mansiruhil/fail-u-forward/issues/242) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
-| Fixing entire css components of welcome page and main page | Medium | [#197](https://github.com/mansiruhil/fail-u-forward/issues/197) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
 | Add feature to connect any user from username or add friend section directly. | Medium | [#168](https://github.com/mansiruhil/fail-u-forward/issues/168) |
 
@@ -398,7 +396,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 45 updates | Medium | [#356](https://github.com/Muneerali199/DocMagic/pull/356) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#357](https://github.com/Muneerali199/DocMagic/pull/357) |
 | Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
@@ -456,6 +454,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | chatbot integration | Easy | [#80](https://github.com/rahulkhandait-sde/cineverse/issues/80) |
+| Buttons are Not Properly Aligned | Medium | [#84](https://github.com/rahulkhandait-sde/cineverse/issues/84) |
 | Add Login Page | Medium | [#83](https://github.com/rahulkhandait-sde/cineverse/issues/83) |
 | Updated Twitter Icon | Medium | [#81](https://github.com/rahulkhandait-sde/cineverse/pull/81) |
 | Add cinematic dark mode, movie cards, login & signup pages | Medium | [#79](https://github.com/rahulkhandait-sde/cineverse/pull/79) |
@@ -546,11 +545,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| A Detailed Documentation for Leaderboard Creation | Easy | [#660](https://github.com/recodehive/recode-website/pull/660) |
-| 🐞[Bug]: Landing page card hover animation is not appropriate, it seem like it is not implemented professionally. | Easy | [#657](https://github.com/recodehive/recode-website/issues/657) |
-| 🐞[Bug]: GITHUBAPI Error 403 - Authentication/Authorization Issue Preventing Community Stats Display | Easy | [#648](https://github.com/recodehive/recode-website/issues/648) |
-| [Feature]: Add Add Intermediate Python Topics | Easy | [#647](https://github.com/recodehive/recode-website/issues/647) |
-| 📝[Docs]: oops in c++ documentation | Easy | [#628](https://github.com/recodehive/recode-website/issues/628) |
+| [Feature] Improvement in Navbar styling | Easy | [#668](https://github.com/recodehive/recode-website/issues/668) |
+| [Feature]: Enhance Responsiveness & Accessibility of Navbar | Easy | [#666](https://github.com/recodehive/recode-website/issues/666) |
 
 ---
 
@@ -568,6 +564,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| adding roadmap in code | Medium | [#382](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/382) |
 | Flashcard Inconsistent Behavior - Title Visible on Back Side During Rotation | Medium | [#381](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/381) |
 | Issue #315 please merge Users can add flashcards | Medium | [#379](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/379) |
 | Fix progress sync | Medium | [#375](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/375) |
@@ -816,7 +813,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Updated necessary files. | Medium | [#92](https://github.com/LarytheLord/Adventurers-Guild/pull/92) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
-| First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
 ---
 
@@ -834,6 +830,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add authentication using google account | Medium | [#276](https://github.com/AditiGupta-tech/neonest/issues/276) |
 | Send button click automatically enables voice button | Medium | [#275](https://github.com/AditiGupta-tech/neonest/issues/275) |
 | Added Smart Care tab with AI-powered baby care insights (feeding, s… | Medium | [#274](https://github.com/AditiGupta-tech/neonest/pull/274) |
 | Fix: Add spinner, timeout, and error handling for lullaby upload | Medium | [#273](https://github.com/AditiGupta-tech/neonest/pull/273) |
@@ -861,6 +858,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| Add Simon Says memory sequence game | Medium | [#120](https://github.com/ajaynegi45/Old-School-Game/pull/120) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
@@ -952,12 +950,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Easy | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
-| Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Medium | [#20](https://github.com/dscnitrourkela/project-xangoes/pull/20) |
 | Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
 | chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
-| Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
 ---
 
@@ -1201,9 +1198,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Documentation Page | Medium | [#112](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/112) |
 | BUG: Error: Gemini model not found for API v1beta in PrivGPT Studio | Medium | [#110](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/110) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
-| FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 | FEATURE: Implement User Authentication & Role Management | Hard | [#98](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/98) |
 
 ---
@@ -1398,7 +1395,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add missing alt text to img tags for screen reader compatibility | Medium | [#93](https://github.com/subhadeeproy3902/mvpblocks/issues/93) |
+| fix: Improve accessibility with alt text and ARIA labels (Fixes #93) | Medium | [#94](https://github.com/subhadeeproy3902/mvpblocks/pull/94) |
 | fix: Handle missing GitHub token gracefully and resolve Next.js 15 fumadocs-ui compatibility | Medium | [#92](https://github.com/subhadeeproy3902/mvpblocks/pull/92) |
 | feat(preloaders) : add preloader-1 block | Medium | [#91](https://github.com/subhadeeproy3902/mvpblocks/pull/91) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
