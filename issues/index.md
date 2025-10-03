@@ -7,7 +7,6 @@
 - [Bootstrap Projects](bootstrap.md)
 - [C++ Projects](c++.md)
 - [Computer Vision Projects](computer_vision.md)
-- [Data Science Projects](data_science.md)
 - [Django Projects](django.md)
 - [Express Projects](express.md)
 - [Fastapi Projects](fastapi.md)
