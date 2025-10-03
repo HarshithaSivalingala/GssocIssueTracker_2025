@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
+| Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
 | Implement Multi-Language Support and Fix Repository Issues | Medium | [#311](https://github.com/Amarjha01/InfantCareCompass/pull/311) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
@@ -40,9 +42,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI enhancement | Easy | [#334](https://github.com/Ayushjhawar8/Flavor-ai/pull/334) |
 | Terms of Service Page | Easy | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
-| Overhaul homepage UI with new modern design | Medium | [#331](https://github.com/Ayushjhawar8/Flavor-ai/pull/331) |
-| Revamp Footer with Multiple Page Links | Medium | [#330](https://github.com/Ayushjhawar8/Flavor-ai/issues/330) |
+| Ai diet planner | Medium | [#337](https://github.com/Ayushjhawar8/Flavor-ai/pull/337) |
+| Ai | Medium | [#336](https://github.com/Ayushjhawar8/Flavor-ai/pull/336) |
+| added footer | Medium | [#335](https://github.com/Ayushjhawar8/Flavor-ai/pull/335) |
 
 ---
 
@@ -99,6 +103,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Employee Registration Fails Due to Mongoose Validation Error on `skills` Field | Medium | [#634](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/634) |
+| Feature Request: Add "Download as PDF" Option for Company Insights | Medium | [#633](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/633) |
+| Issue: Reports Dashboard Page is Currently Empty | Medium | [#632](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/632) |
+| Dynamic company data | Medium | [#631](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/631) |
 | Add required field indicator on Email and Password fields in Login page | Medium | [#630](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/630) |
 | Add placeholders to all registration forms (Student, Institute, Company, HR Professional) | Medium | [#629](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/629) |
 | Add footer to Contact page | Medium | [#628](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/628) |
@@ -106,7 +114,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | add more badges | Medium | [#626](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/626) |
 | Fix position of 'back to top' button and the chatbot | Medium | [#625](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/625) |
 | Fix the project structure in Readme.MD | Medium | [#624](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/624) |
-| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
 
