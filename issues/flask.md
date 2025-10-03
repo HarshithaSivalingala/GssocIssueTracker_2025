@@ -60,6 +60,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add client side form validation for all user input forms | Medium | [#170](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/170) |
+| Refactor repeated header and profile components in templates | Medium | [#169](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/169) |
 | Add automated tests for backend API endpoints error handling | Medium | [#168](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/168) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
@@ -81,6 +83,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#55](https://github.com/indra7777/frostiq/issues/55) |
 | Enhancement: Implement CRUD Operations,pricing , description , etc | Medium | [#54](https://github.com/indra7777/frostiq/pull/54) |
 | Initialize the Project with a Clear Folder Structure and Base Files | Medium | [#53](https://github.com/indra7777/frostiq/issues/53) |
 | Setup .gitignore to Clean Up the Project Structure | Medium | [#52](https://github.com/indra7777/frostiq/issues/52) |
@@ -177,6 +180,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Employee Registration Fails Due to Mongoose Validation Error on `skills` Field | Medium | [#634](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/634) |
+| Feature Request: Add "Download as PDF" Option for Company Insights | Medium | [#633](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/633) |
+| Issue: Reports Dashboard Page is Currently Empty | Medium | [#632](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/632) |
+| Dynamic company data | Medium | [#631](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/631) |
 | Add required field indicator on Email and Password fields in Login page | Medium | [#630](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/630) |
 | Add placeholders to all registration forms (Student, Institute, Company, HR Professional) | Medium | [#629](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/629) |
 | Add footer to Contact page | Medium | [#628](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/628) |
@@ -184,7 +191,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | add more badges | Medium | [#626](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/626) |
 | Fix position of 'back to top' button and the chatbot | Medium | [#625](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/625) |
 | Fix the project structure in Readme.MD | Medium | [#624](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/624) |
-| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
 
@@ -202,6 +208,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Integrate centralized error handling and user feedback | Medium | [#383](https://github.com/omroy07/AgriTech/issues/383) |
 | solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
@@ -260,6 +267,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI of dashboard is enhanced with proper redirecting | Medium | [#251](https://github.com/openml-stack/SentiLog-AI/pull/251) |
 | Visual Improvement for the Dashboard page | Medium | [#240](https://github.com/openml-stack/SentiLog-AI/issues/240) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
@@ -292,7 +300,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
-| Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Implement AI-powered duplicate issue detection via seroski-dupbot | Medium | [#187](https://github.com/aayushraj1010/med-genie/pull/187) |
 | Add Cookie Policy and Terms of Use pages with updated footer links | Medium | [#186](https://github.com/aayushraj1010/med-genie/pull/186) |
 | Add forgot/reset password functionality | Medium | [#185](https://github.com/aayushraj1010/med-genie/pull/185) |
 | fixed_specialist_recommendation_text | Medium | [#182](https://github.com/aayushraj1010/med-genie/pull/182) |
@@ -383,7 +391,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Visibility of Form Fields in Add Items Section (Dark Mode) | Medium | [#52](https://github.com/AKing-283/Rewear/issues/52) |
 | Add Contact Section | Medium | [#51](https://github.com/AKing-283/Rewear/issues/51) |
 | Add Shipping Section | Medium | [#50](https://github.com/AKing-283/Rewear/issues/50) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
@@ -404,9 +411,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Documentation Page | Medium | [#112](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/112) |
 | BUG: Error: Gemini model not found for API v1beta in PrivGPT Studio | Medium | [#110](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/110) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
-| FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
 | FEATURE: Implement User Authentication & Role Management | Hard | [#98](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/98) |
 
 ---
