@@ -94,6 +94,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed the OAuth implementation | Easy | [#316](https://github.com/Yash159357/BlyFt/pull/316) |
 | Update FAQ Section with Official Content | Easy | [#315](https://github.com/Yash159357/BlyFt/issues/315) |
 | Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
 | Fix Broken Links and Hardcoded GitHub Star Count | Easy | [#313](https://github.com/Yash159357/BlyFt/issues/313) |
@@ -131,10 +132,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add confirmation dialog before clearing all text and canvas in the editor | Medium | [#122](https://github.com/may-tas/TextEditingApp/issues/122) |
-| Optimize Performance for Large Canvases with Many Elements | Medium | [#115](https://github.com/may-tas/TextEditingApp/issues/115) |
 | Implement Advanced Undo/Redo with Visual History Timeline | Medium | [#113](https://github.com/may-tas/TextEditingApp/issues/113) |
-| Added Shadows Effect Feature | Medium | [#111](https://github.com/may-tas/TextEditingApp/pull/111) |
 
 ---
 
@@ -179,6 +177,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed the OAuth implementation | Easy | [#316](https://github.com/Yash159357/BlyFt/pull/316) |
 | Update FAQ Section with Official Content | Easy | [#315](https://github.com/Yash159357/BlyFt/issues/315) |
 | Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
 | Fix Broken Links and Hardcoded GitHub Star Count | Easy | [#313](https://github.com/Yash159357/BlyFt/issues/313) |
