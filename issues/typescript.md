@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | On clicking the Explore What's Inside TechXNinjas's : Resume builder , it's not showing anything | Medium | [#263](https://github.com/iaadillatif/techxninjas-client/issues/263) |
-| Working on whole project | Medium | [#262](https://github.com/iaadillatif/techxninjas-client/issues/262) |
 | Add Pull Request (PR) Template | Medium | [#261](https://github.com/iaadillatif/techxninjas-client/issues/261) |
 | BUG FIX: Removing the private keys from .env.local file | Medium | [#260](https://github.com/iaadillatif/techxninjas-client/pull/260) |
 | Add courses which redirect to coursera and popular websites | Medium | [#259](https://github.com/iaadillatif/techxninjas-client/issues/259) |
@@ -31,7 +30,6 @@
 | fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 | Enhancement of Card Carousel | Medium | [#246](https://github.com/iaadillatif/techxninjas-client/issues/246) |
 | Fix spelling / grammar typo on HomePage or Static Page | Medium | [#245](https://github.com/iaadillatif/techxninjas-client/issues/245) |
-| Add Skeleton Loaders / Shimmers | Medium | [#244](https://github.com/iaadillatif/techxninjas-client/issues/244) |
 | notification button not working | Medium | [#242](https://github.com/iaadillatif/techxninjas-client/issues/242) |
 | Add FAQ Page | Medium | [#240](https://github.com/iaadillatif/techxninjas-client/issues/240) |
 | Uneven Text Alignment in mentors meet | Medium | [#239](https://github.com/iaadillatif/techxninjas-client/issues/239) |
@@ -40,32 +38,6 @@
 | Convert Testimonials section into an auto-scrolling carousel | Medium | [#236](https://github.com/iaadillatif/techxninjas-client/pull/236) |
 | Add Automatic Scrolling Animation to "Learners" and "Mentors" Sections | Medium | [#235](https://github.com/iaadillatif/techxninjas-client/issues/235) |
 | Light/Dark option for lesser width screen made available (closes #40) | Medium | [#234](https://github.com/iaadillatif/techxninjas-client/pull/234) |
-
----
-
-## 📌 Project: DevElevate
-
-📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
-Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
-An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
-Personalized dashboards for learners, including progress tracking, daily planners, and goals.
-A tech feed offering real-time internship updates, hackathon events, and developer news.
-Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
-Role-based authentication for users and admins, with profile management and admin dashboard.
-Integrated coding practice links (GFG, LeetCode, HackerRank).
-Accessibility features like dark mode,white.
-
-🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
-
-💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Animate on Scroll (AOS) for enhanced UI | Medium | [#543](https://github.com/abhisek2004/Dev-Elevate/issues/543) |
 
 ---
 
@@ -84,11 +56,10 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Fix slack and duplication errors | Medium | [#2352](https://github.com/OWASP/Nest/pull/2352) |
+| Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
-| Add Animate on Scroll (AOS) for enhanced UI | Medium | [#2344](https://github.com/OWASP/Nest/issues/2344) |
 | Bump typescript from 5.8.3 to 5.9.3 in /frontend | Medium | [#2340](https://github.com/OWASP/Nest/pull/2340) |
-| Bump @types/node from 22.18.7 to 22.18.8 in /frontend | Medium | [#2339](https://github.com/OWASP/Nest/pull/2339) |
-| Bump openai from 1.109.1 to 2.0.0 in /backend | Medium | [#2337](https://github.com/OWASP/Nest/pull/2337) |
 | Bump jest and @types/jest in /frontend | Medium | [#2329](https://github.com/OWASP/Nest/pull/2329) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
@@ -211,10 +182,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Contributors Section to README | Medium | [#246](https://github.com/mansiruhil/fail-u-forward/issues/246) |
-| About Page UI enhancement | Medium | [#242](https://github.com/mansiruhil/fail-u-forward/issues/242) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
-| Fixing entire css components of welcome page and main page | Medium | [#197](https://github.com/mansiruhil/fail-u-forward/issues/197) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
 | Add feature to connect any user from username or add friend section directly. | Medium | [#168](https://github.com/mansiruhil/fail-u-forward/issues/168) |
 
@@ -365,6 +334,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | chatbot integration | Easy | [#80](https://github.com/rahulkhandait-sde/cineverse/issues/80) |
+| Buttons are Not Properly Aligned | Medium | [#84](https://github.com/rahulkhandait-sde/cineverse/issues/84) |
 | Add Login Page | Medium | [#83](https://github.com/rahulkhandait-sde/cineverse/issues/83) |
 | Updated Twitter Icon | Medium | [#81](https://github.com/rahulkhandait-sde/cineverse/pull/81) |
 | Add cinematic dark mode, movie cards, login & signup pages | Medium | [#79](https://github.com/rahulkhandait-sde/cineverse/pull/79) |
@@ -604,7 +574,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Updated necessary files. | Medium | [#92](https://github.com/LarytheLord/Adventurers-Guild/pull/92) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
-| First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
 
 ---
 
@@ -623,6 +592,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| Add Simon Says memory sequence game | Medium | [#120](https://github.com/ajaynegi45/Old-School-Game/pull/120) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
@@ -811,12 +781,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Easy | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
-| Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Medium | [#20](https://github.com/dscnitrourkela/project-xangoes/pull/20) |
 | Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
 | chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
-| Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
 ---
 
@@ -1042,14 +1011,17 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
+| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.23 | Medium | [#133](https://github.com/Ojas-Arora/SapneSeSafar/pull/133) |
+| Bump vite from 5.4.17 to 7.1.8 | Medium | [#132](https://github.com/Ojas-Arora/SapneSeSafar/pull/132) |
+| Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 6.1.0 | Medium | [#131](https://github.com/Ojas-Arora/SapneSeSafar/pull/131) |
+| Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump tailwindcss from 3.4.17 to 4.1.14 | Medium | [#129](https://github.com/Ojas-Arora/SapneSeSafar/pull/129) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.4 | Medium | [#127](https://github.com/Ojas-Arora/SapneSeSafar/pull/127) |
 | Bump react-router-dom from 6.28.2 to 7.9.3 | Medium | [#126](https://github.com/Ojas-Arora/SapneSeSafar/pull/126) |
-| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.22 | Medium | [#125](https://github.com/Ojas-Arora/SapneSeSafar/pull/125) |
 | Bump framer-motion from 11.18.2 to 12.23.22 | Medium | [#124](https://github.com/Ojas-Arora/SapneSeSafar/pull/124) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.58.0 | Medium | [#123](https://github.com/Ojas-Arora/SapneSeSafar/pull/123) |
-| Bump vite from 5.4.17 to 7.1.7 | Medium | [#118](https://github.com/Ojas-Arora/SapneSeSafar/pull/118) |
 | Bump eslint from 9.12.0 to 9.36.0 | Medium | [#114](https://github.com/Ojas-Arora/SapneSeSafar/pull/114) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
@@ -1061,10 +1033,7 @@ Fast Workflow Tools
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
 | Feat: Connecting All Sharks CSV file with all Features | Medium | [#59](https://github.com/Ojas-Arora/SapneSeSafar/issues/59) |
-| Bump react-dom and @types/react-dom | Medium | [#47](https://github.com/Ojas-Arora/SapneSeSafar/pull/47) |
-| Bump react and @types/react | Medium | [#46](https://github.com/Ojas-Arora/SapneSeSafar/pull/46) |
 | Bump react, react-dom and @types/react | Medium | [#14](https://github.com/Ojas-Arora/SapneSeSafar/pull/14) |
-| Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 5.2.0 | Medium | [#13](https://github.com/Ojas-Arora/SapneSeSafar/pull/13) |
 | Bump autoprefixer from 10.4.20 to 10.4.21 | Medium | [#6](https://github.com/Ojas-Arora/SapneSeSafar/pull/6) |
 | Bump postcss from 8.4.47 to 8.5.6 | Medium | [#2](https://github.com/Ojas-Arora/SapneSeSafar/pull/2) |
 
@@ -1241,7 +1210,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add missing alt text to img tags for screen reader compatibility | Medium | [#93](https://github.com/subhadeeproy3902/mvpblocks/issues/93) |
+| fix: Improve accessibility with alt text and ARIA labels (Fixes #93) | Medium | [#94](https://github.com/subhadeeproy3902/mvpblocks/pull/94) |
 | fix: Handle missing GitHub token gracefully and resolve Next.js 15 fumadocs-ui compatibility | Medium | [#92](https://github.com/subhadeeproy3902/mvpblocks/pull/92) |
 | feat(preloaders) : add preloader-1 block | Medium | [#91](https://github.com/subhadeeproy3902/mvpblocks/pull/91) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
@@ -1286,7 +1255,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Write comments on the go handlers which should generate api docs | Easy | [#84](https://github.com/fordevio/wharf/issues/84) |
-| Write local set up for macos, in DEVELOPMENT.md | Easy | [#14](https://github.com/fordevio/wharf/issues/14) |
 | Write tests for pkg/store | Easy | [#5](https://github.com/fordevio/wharf/issues/5) |
 | Write  tests for pkg/volume | Easy | [#4](https://github.com/fordevio/wharf/issues/4) |
 | Write  tests for pkg/network | Easy | [#3](https://github.com/fordevio/wharf/issues/3) |
