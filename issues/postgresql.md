@@ -14,6 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Cookies and newsletter popup on every reload | Medium | [#81](https://github.com/Abhinavhaldiya/FinPilot/issues/81) |
+| Confirm password is visible | Medium | [#80](https://github.com/Abhinavhaldiya/FinPilot/issues/80) |
+| Update Readme.md | Medium | [#79](https://github.com/Abhinavhaldiya/FinPilot/issues/79) |
+| Improve README.md for Better Readability and Structure | Medium | [#78](https://github.com/Abhinavhaldiya/FinPilot/issues/78) |
 | Add Pull Request (PR) Template | Medium | [#77](https://github.com/Abhinavhaldiya/FinPilot/issues/77) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#76](https://github.com/Abhinavhaldiya/FinPilot/issues/76) |
 | Add Dark Mode / Theme Switching Support | Medium | [#75](https://github.com/Abhinavhaldiya/FinPilot/issues/75) |
@@ -25,7 +29,6 @@
 | Implement Full Backend for FinPilot (CRUD, Workflows, Dashboard APIs) | Medium | [#65](https://github.com/Abhinavhaldiya/FinPilot/issues/65) |
 | deployment | Medium | [#64](https://github.com/Abhinavhaldiya/FinPilot/issues/64) |
 | Advanced ai technology | Medium | [#49](https://github.com/Abhinavhaldiya/FinPilot/issues/49) |
-| Add prisma schema definition and seed data | Medium | [#35](https://github.com/Abhinavhaldiya/FinPilot/pull/35) |
 
 ---
 
@@ -113,7 +116,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 45 updates | Medium | [#356](https://github.com/Muneerali199/DocMagic/pull/356) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#357](https://github.com/Muneerali199/DocMagic/pull/357) |
 | Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
@@ -238,12 +241,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Easy | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
-| Phase - 1 Issue 1A: User Registration System | Easy | [#6](https://github.com/dscnitrourkela/project-xangoes/issues/6) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Medium | [#20](https://github.com/dscnitrourkela/project-xangoes/pull/20) |
 | Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
 | chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
-| Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Medium | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 
 ---
 
@@ -350,7 +352,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Completely redesign the navbar | Medium | [#566](https://github.com/SandeepVashishtha/Eventra/issues/566) |
+| Fix inconsistent spacing in Feedback section for improved layout | Medium | [#581](https://github.com/SandeepVashishtha/Eventra/pull/581) |
+| Remove "Follow Us" section from Feedback form (duplicate of footer links) | Medium | [#579](https://github.com/SandeepVashishtha/Eventra/issues/579) |
+| Discord icon in footer does not show hover effect | Medium | [#578](https://github.com/SandeepVashishtha/Eventra/issues/578) |
+| Restore missing fields in Contact form | Medium | [#577](https://github.com/SandeepVashishtha/Eventra/pull/577) |
+| Remove redundant “Follow Us” section from Contact page | Medium | [#576](https://github.com/SandeepVashishtha/Eventra/pull/576) |
+| Move message icon from bottom-right to bottom-left | Medium | [#575](https://github.com/SandeepVashishtha/Eventra/pull/575) |
 
 ---
 
