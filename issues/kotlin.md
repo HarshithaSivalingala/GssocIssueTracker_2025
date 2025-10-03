@@ -122,6 +122,7 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
+| Creates a snackbar for Upload Page instructions | Medium | [#51](https://github.com/sayan0328/WallGodds-App/pull/51) |
 
 ---
 
