@@ -18,25 +18,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Redesign index.html Page Layout and Add Login/Signup Options | Medium | [#841](https://github.com/gyanshankar1708/GrowCraft/issues/841) |
+| Non-Uniform Carousel in Home page | Medium | [#846](https://github.com/gyanshankar1708/GrowCraft/issues/846) |
+| Implement Sitemap Page with Search and Responsive Design | Medium | [#845](https://github.com/gyanshankar1708/GrowCraft/pull/845) |
+| About Us is leading to different pages and not main About Us page | Medium | [#844](https://github.com/gyanshankar1708/GrowCraft/issues/844) |
+| Add Some More Blogs Regarding the CyberSecurity and We Development | Medium | [#843](https://github.com/gyanshankar1708/GrowCraft/issues/843) |
+| Uneven Navbar across all the pages | Medium | [#842](https://github.com/gyanshankar1708/GrowCraft/issues/842) |
 | Add theme toggle (light/dark) to Contact page navbar with persistent preference | Medium | [#840](https://github.com/gyanshankar1708/GrowCraft/pull/840) |
 | green glass cards with floating effect | Medium | [#839](https://github.com/gyanshankar1708/GrowCraft/pull/839) |
-| Add a Sitemap Page to the Website | Medium | [#838](https://github.com/gyanshankar1708/GrowCraft/issues/838) |
 | Dark Mode Not Implemented on webdev.html | Medium | [#834](https://github.com/gyanshankar1708/GrowCraft/issues/834) |
 | Made the links functional in FAQ page | Medium | [#833](https://github.com/gyanshankar1708/GrowCraft/pull/833) |
 | Made the footer links functional in Website Development Page | Medium | [#832](https://github.com/gyanshankar1708/GrowCraft/pull/832) |
 | Implement Dark Mode on Social Media Page | Medium | [#831](https://github.com/gyanshankar1708/GrowCraft/issues/831) |
-| Fix: Restructure Footer on bloglisting.html with Proper Columns and Responsive Design | Medium | [#830](https://github.com/gyanshankar1708/GrowCraft/pull/830) |
-| About page footer final | Medium | [#829](https://github.com/gyanshankar1708/GrowCraft/pull/829) |
-| Fix: Restructure Footer on about.html with Proper Columns and Responsive Design | Medium | [#828](https://github.com/gyanshankar1708/GrowCraft/pull/828) |
 | Fix: Restructure Footer on about.html with Proper Columns and Responsive Design | Medium | [#827](https://github.com/gyanshankar1708/GrowCraft/pull/827) |
 | The button does not redirect to contact page | Medium | [#826](https://github.com/gyanshankar1708/GrowCraft/issues/826) |
-| Fix: Restructure Footer on work.html with Proper Columns and Responsive Design | Medium | [#825](https://github.com/gyanshankar1708/GrowCraft/pull/825) |
 | Added dedicated page for cyber-analyst | Medium | [#824](https://github.com/gyanshankar1708/GrowCraft/pull/824) |
 | Fix: Restructure Footer on work.html with Proper Columns and Responsive Design | Medium | [#823](https://github.com/gyanshankar1708/GrowCraft/pull/823) |
 | ignore this pr :) | Medium | [#822](https://github.com/gyanshankar1708/GrowCraft/pull/822) |
-| Fix: Restructure Footer on contact.html with Proper Columns and Responsive Design | Medium | [#821](https://github.com/gyanshankar1708/GrowCraft/pull/821) |
-| Fix: Restructure Footer on index.html with Proper Columns and Responsive Design | Medium | [#820](https://github.com/gyanshankar1708/GrowCraft/pull/820) |
 | fix about page navbar | Medium | [#816](https://github.com/gyanshankar1708/GrowCraft/pull/816) |
 | Implement success message display function | Medium | [#815](https://github.com/gyanshankar1708/GrowCraft/pull/815) |
 | Change phone input type from tel to number | Medium | [#814](https://github.com/gyanshankar1708/GrowCraft/pull/814) |
@@ -44,6 +41,8 @@
 | Adding a testimonial carousal | Medium | [#811](https://github.com/gyanshankar1708/GrowCraft/issues/811) |
 | BUG: Toggle theme button not visible on Contact Us Page | Medium | [#810](https://github.com/gyanshankar1708/GrowCraft/issues/810) |
 | add scroll to top button in contact us | Medium | [#802](https://github.com/gyanshankar1708/GrowCraft/issues/802) |
+| Create `register_terms.html` and `register_conditions.html` pages for Signup page links | Medium | [#799](https://github.com/gyanshankar1708/GrowCraft/issues/799) |
+| Duplicate Right-Side Navigation Buttons on Content Writing Section | Medium | [#797](https://github.com/gyanshankar1708/GrowCraft/issues/797) |
 
 ---
 
@@ -99,6 +98,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI of forum | Medium | [#279](https://github.com/sachiva1/sachiva/pull/279) |
 | Security, Accessibility, and Quality Improvements for Sachiva Web Platform | Medium | [#278](https://github.com/sachiva1/sachiva/pull/278) |
 
 ---
