@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Bump eslint-plugin-react-hooks from 5.2.0 to 6.1.0 in /frontend | Medium | [#2359](https://github.com/OWASP/Nest/pull/2359) |
 | Fix slack and duplication errors | Medium | [#2352](https://github.com/OWASP/Nest/pull/2352) |
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
@@ -28,7 +29,6 @@
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
-| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 
 ---
 
@@ -153,11 +153,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | sending user to login page after successful registraion. instead of this, bypass the login. for better UX. | Easy | [#240](https://github.com/Khushi-Nigam/jobportal/issues/240) |
-| Add GSSoC Banner to README | Medium | [#245](https://github.com/Khushi-Nigam/jobportal/issues/245) |
-| Add Pull Request (PR) Template | Medium | [#244](https://github.com/Khushi-Nigam/jobportal/issues/244) |
+| Add GSSoC Banner to README | Medium | [#248](https://github.com/Khushi-Nigam/jobportal/pull/248) |
+| Add Contributors Section to README.md | Medium | [#247](https://github.com/Khushi-Nigam/jobportal/pull/247) |
+| Pull_Request_Template | Medium | [#246](https://github.com/Khushi-Nigam/jobportal/pull/246) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#243](https://github.com/Khushi-Nigam/jobportal/issues/243) |
-| Add Contributors Section in README | Medium | [#242](https://github.com/Khushi-Nigam/jobportal/issues/242) |
-| Fix: Improve Documentation with Setup Instructions & Preview GIFs | Medium | [#238](https://github.com/Khushi-Nigam/jobportal/pull/238) |
 | UI/UX Improvements and Fixes for FAQ, About Us, Job Search, and Footer | Medium | [#237](https://github.com/Khushi-Nigam/jobportal/pull/237) |
 | Balance Skeleton Loader Layout | Medium | [#236](https://github.com/Khushi-Nigam/jobportal/issues/236) |
 | Enhancement: Make Blog section more interactive with dark/light mode support | Medium | [#230](https://github.com/Khushi-Nigam/jobportal/issues/230) |
@@ -165,7 +164,6 @@
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
 | Improve Job Listing Page with Pagination & Search Filters | Medium | [#227](https://github.com/Khushi-Nigam/jobportal/issues/227) |
 | Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
-| Added Github Actions ci to check django syntax and configuration | Medium | [#224](https://github.com/Khushi-Nigam/jobportal/pull/224) |
 
 ---
 
@@ -183,6 +181,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue 42 - fix | Medium | [#51](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/51) |
 | solved #5 Added CSV validation for user uploads an d handling the error | Medium | [#49](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/49) |
 | Update views.py | Medium | [#48](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/48) |
 | Update greetings.yml | Medium | [#47](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/47) |
