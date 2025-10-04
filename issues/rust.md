@@ -17,6 +17,7 @@
 | Add GitHub Actions CI for macOS & Linux | Easy | [#47](https://github.com/0xsambit/winix/issues/47) |
 | Create macOS Homebrew Formula | Easy | [#46](https://github.com/0xsambit/winix/issues/46) |
 | Create more commands from the Linux core library | Easy | [#9](https://github.com/0xsambit/winix/issues/9) |
+| Adding support for mkdir ,rmdir ,tree commands with pure rust system calls without windows specific calls ,as separate modules | Medium | [#68](https://github.com/0xsambit/winix/pull/68) |
 | Create a FEATURE.md | Medium | [#58](https://github.com/0xsambit/winix/issues/58) |
 
 ---
