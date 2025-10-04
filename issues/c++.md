@@ -56,7 +56,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat(build): Add a Central ``build.py`` Orchestrator for CinderPeak. | Easy | [#84](https://github.com/SharonIV0x86/CinderPeak/issues/84) |
-| feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
+| feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
+| refactor(Graph): Combined GraphList and GraphMatrix representation into one CinderGraph. | Hard | [#114](https://github.com/SharonIV0x86/CinderPeak/pull/114) |
 
 ---
 
@@ -75,7 +76,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
-| UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
+| Fix: CSS issues in style.css (background-size, FAQ icon, font path, chatbot mobile) - Closes #77 | Medium | [#84](https://github.com/Aqsa4066/netflixclone/pull/84) |
 | Creating the latest styled carousel and enhancing the overall experience | Medium | [#83](https://github.com/Aqsa4066/netflixclone/issues/83) |
 | Redesign of the Sign In Page | Medium | [#82](https://github.com/Aqsa4066/netflixclone/issues/82) |
 | Add Continue Watching Feature (Save Last Played Video) | Medium | [#81](https://github.com/Aqsa4066/netflixclone/issues/81) |
