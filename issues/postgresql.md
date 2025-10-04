@@ -303,6 +303,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add more data to the sample CSV file | Medium | [#13](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/13) |
+| Add the Update and delete function of user in main.py | Medium | [#12](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/12) |
 | ⚠️ Improve Error Handling for Invalid Queries — (GSSoC 2025) | Medium | [#11](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/11) |
 | Add New Sample CSV File (GSSoC 2025) | Medium | [#10](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/10) |
 | 🚨 Fix SQL Injection Vulnerability by Implementing Parameterized Queries | Medium | [#9](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/9) |
@@ -352,12 +354,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix inconsistent spacing in Feedback section for improved layout | Medium | [#581](https://github.com/SandeepVashishtha/Eventra/pull/581) |
-| Remove "Follow Us" section from Feedback form (duplicate of footer links) | Medium | [#579](https://github.com/SandeepVashishtha/Eventra/issues/579) |
-| Discord icon in footer does not show hover effect | Medium | [#578](https://github.com/SandeepVashishtha/Eventra/issues/578) |
-| Restore missing fields in Contact form | Medium | [#577](https://github.com/SandeepVashishtha/Eventra/pull/577) |
-| Remove redundant “Follow Us” section from Contact page | Medium | [#576](https://github.com/SandeepVashishtha/Eventra/pull/576) |
-| Move message icon from bottom-right to bottom-left | Medium | [#575](https://github.com/SandeepVashishtha/Eventra/pull/575) |
+| 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
+| Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
+| Enhance dropdown styling to match website theme | Medium | [#255](https://github.com/SandeepVashishtha/Eventra/issues/255) |
+| Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
 
