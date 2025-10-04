@@ -48,16 +48,14 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Saved toggle shows active state by default on detail screens | Easy | [#440](https://github.com/yuvrajsinghgmx/ShopSmart/issues/440) |
-| added: document images in shop modal | Medium | [#465](https://github.com/yuvrajsinghgmx/ShopSmart/pull/465) |
+| Review Screen Error | Medium | [#470](https://github.com/yuvrajsinghgmx/ShopSmart/issues/470) |
+| Saved Toggle not working | Medium | [#469](https://github.com/yuvrajsinghgmx/ShopSmart/issues/469) |
+| Edit Customer Profile Screen | Medium | [#468](https://github.com/yuvrajsinghgmx/ShopSmart/issues/468) |
+| Sorting  and Searching on the basis of each parameter in the table | Medium | [#466](https://github.com/yuvrajsinghgmx/ShopSmart/issues/466) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
-| Include Document Images in Shop Details Modal | Medium | [#462](https://github.com/yuvrajsinghgmx/ShopSmart/issues/462) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
-| Feature/searchbar with searchapi integration | Medium | [#459](https://github.com/yuvrajsinghgmx/ShopSmart/pull/459) |
-| Top Bar of Home Screen | Medium | [#457](https://github.com/yuvrajsinghgmx/ShopSmart/issues/457) |
 | Shop_Owner Profile | Medium | [#456](https://github.com/yuvrajsinghgmx/ShopSmart/issues/456) |
 | Master Issue for tracking Compose Dev. | Medium | [#454](https://github.com/yuvrajsinghgmx/ShopSmart/issues/454) |
-| Search bar with voice search integration and UI enhancement | Medium | [#447](https://github.com/yuvrajsinghgmx/ShopSmart/pull/447) |
-| Product category filter list is not functional | Medium | [#435](https://github.com/yuvrajsinghgmx/ShopSmart/issues/435) |
 | Search bar on top of home screen is not functional | Medium | [#434](https://github.com/yuvrajsinghgmx/ShopSmart/issues/434) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
@@ -132,12 +130,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix inconsistent spacing in Feedback section for improved layout | Medium | [#581](https://github.com/SandeepVashishtha/Eventra/pull/581) |
-| Remove "Follow Us" section from Feedback form (duplicate of footer links) | Medium | [#579](https://github.com/SandeepVashishtha/Eventra/issues/579) |
-| Discord icon in footer does not show hover effect | Medium | [#578](https://github.com/SandeepVashishtha/Eventra/issues/578) |
-| Restore missing fields in Contact form | Medium | [#577](https://github.com/SandeepVashishtha/Eventra/pull/577) |
-| Remove redundant “Follow Us” section from Contact page | Medium | [#576](https://github.com/SandeepVashishtha/Eventra/pull/576) |
-| Move message icon from bottom-right to bottom-left | Medium | [#575](https://github.com/SandeepVashishtha/Eventra/pull/575) |
+| 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
+| Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
+| Enhance dropdown styling to match website theme | Medium | [#255](https://github.com/SandeepVashishtha/Eventra/issues/255) |
+| Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
 
