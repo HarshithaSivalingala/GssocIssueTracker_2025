@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve the Background of the Website | Medium | [#265](https://github.com/iaadillatif/techxninjas-client/issues/265) |
+| Add Contributors Section in README | Medium | [#264](https://github.com/iaadillatif/techxninjas-client/issues/264) |
 | On clicking the Explore What's Inside TechXNinjas's : Resume builder , it's not showing anything | Medium | [#263](https://github.com/iaadillatif/techxninjas-client/issues/263) |
 | Add Pull Request (PR) Template | Medium | [#261](https://github.com/iaadillatif/techxninjas-client/issues/261) |
 | BUG FIX: Removing the private keys from .env.local file | Medium | [#260](https://github.com/iaadillatif/techxninjas-client/pull/260) |
@@ -55,6 +57,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Improve README with setup instructions | Medium | [#89](https://github.com/AdityaRalhan/Aluma/issues/89) |
 | feat(UI): Add responsive header navigation with links | Medium | [#88](https://github.com/AdityaRalhan/Aluma/pull/88) |
 | Bug: Suggestions Logic & Validation Issues in Assessment Controller | Medium | [#87](https://github.com/AdityaRalhan/Aluma/issues/87) |
@@ -160,6 +163,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Bump eslint-plugin-react-hooks from 5.2.0 to 6.1.0 in /frontend | Medium | [#2359](https://github.com/OWASP/Nest/pull/2359) |
 | Fix slack and duplication errors | Medium | [#2352](https://github.com/OWASP/Nest/pull/2352) |
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
@@ -173,7 +177,6 @@
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
-| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
 
 ---
 
@@ -191,11 +194,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI enhancement | Easy | [#334](https://github.com/Ayushjhawar8/Flavor-ai/pull/334) |
-| Terms of Service Page | Easy | [#318](https://github.com/Ayushjhawar8/Flavor-ai/pull/318) |
-| Ai diet planner | Medium | [#337](https://github.com/Ayushjhawar8/Flavor-ai/pull/337) |
-| Ai | Medium | [#336](https://github.com/Ayushjhawar8/Flavor-ai/pull/336) |
-| added footer | Medium | [#335](https://github.com/Ayushjhawar8/Flavor-ai/pull/335) |
+| Redesign homepage | Easy | [#348](https://github.com/Ayushjhawar8/Flavor-ai/pull/348) |
+| Search | Easy | [#340](https://github.com/Ayushjhawar8/Flavor-ai/pull/340) |
+| Ai diet planner | Easy | [#337](https://github.com/Ayushjhawar8/Flavor-ai/pull/337) |
+| feat(footer): add ai recipe generator page | Easy | [#336](https://github.com/Ayushjhawar8/Flavor-ai/pull/336) |
+| added footer | Easy | [#335](https://github.com/Ayushjhawar8/Flavor-ai/pull/335) |
+| Conflict | Medium | [#350](https://github.com/Ayushjhawar8/Flavor-ai/pull/350) |
+| Favourite | Medium | [#345](https://github.com/Ayushjhawar8/Flavor-ai/pull/345) |
+| Random | Medium | [#344](https://github.com/Ayushjhawar8/Flavor-ai/pull/344) |
+| Similarity | Medium | [#343](https://github.com/Ayushjhawar8/Flavor-ai/pull/343) |
+| Explorer | Medium | [#342](https://github.com/Ayushjhawar8/Flavor-ai/pull/342) |
+| Upload | Medium | [#341](https://github.com/Ayushjhawar8/Flavor-ai/pull/341) |
 
 ---
 
@@ -545,8 +554,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [Feature] Improvement in Navbar styling | Easy | [#668](https://github.com/recodehive/recode-website/issues/668) |
-| [Feature]: Enhance Responsiveness & Accessibility of Navbar | Easy | [#666](https://github.com/recodehive/recode-website/issues/666) |
+| Fixed typo in 'CLone Repository' | Easy | [#751](https://github.com/recodehive/recode-website/pull/751) |
+| Make the Footer simillar to darkmode theme | Easy | [#744](https://github.com/recodehive/recode-website/issues/744) |
+| Create a Merchandise store linking shopify | Easy | [#743](https://github.com/recodehive/recode-website/issues/743) |
+| Auto label to existing workflow | Easy | [#742](https://github.com/recodehive/recode-website/issues/742) |
 
 ---
 
@@ -774,6 +785,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 404 Page Not Visible in Light Theme | Easy | [#85](https://github.com/yashvikram30/legalease/issues/85) |
+| AI-Powered Legal Template Generator | Medium | [#121](https://github.com/yashvikram30/legalease/issues/121) |
 | Home link missing from navbar after login | Medium | [#120](https://github.com/yashvikram30/legalease/issues/120) |
 | about us page | Medium | [#119](https://github.com/yashvikram30/legalease/issues/119) |
 | Added complete dashboard backend and frontend for dynamic data | Medium | [#117](https://github.com/yashvikram30/legalease/pull/117) |
@@ -830,15 +842,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add authentication using google account | Medium | [#276](https://github.com/AditiGupta-tech/neonest/issues/276) |
-| Send button click automatically enables voice button | Medium | [#275](https://github.com/AditiGupta-tech/neonest/issues/275) |
+| Fix: Added Profile page with PDF export feature for user data | Medium | [#277](https://github.com/AditiGupta-tech/neonest/pull/277) |
 | Added Smart Care tab with AI-powered baby care insights (feeding, s… | Medium | [#274](https://github.com/AditiGupta-tech/neonest/pull/274) |
-| Fix: Add spinner, timeout, and error handling for lullaby upload | Medium | [#273](https://github.com/AditiGupta-tech/neonest/pull/273) |
-| Fix: Dark mode stying for signup form | Medium | [#272](https://github.com/AditiGupta-tech/neonest/pull/272) |
-| Add curated parenting resources and connect Resources page to utils/resources.js | Medium | [#271](https://github.com/AditiGupta-tech/neonest/pull/271) |
-| fixed theme mode in baby details section form | Medium | [#270](https://github.com/AditiGupta-tech/neonest/pull/270) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
-| Updated Toys Section | Medium | [#246](https://github.com/AditiGupta-tech/neonest/pull/246) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
 ---
@@ -858,7 +864,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
-| Add Simon Says memory sequence game | Medium | [#120](https://github.com/ajaynegi45/Old-School-Game/pull/120) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
@@ -1077,8 +1082,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI enhancements and performance improvements | Medium | [#39](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/39) |
 | Make the UI of products  details page with proper UI and grid and add more futuristic look with landing page | Medium | [#38](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/38) |
-| feat: Implement dark mode, auth state UI, and enhanced login form | Medium | [#36](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/36) |
 | Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Medium | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
 
 ---
@@ -1198,6 +1203,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Updated Logos across website | Medium | [#113](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/113) |
 | Added Documentation Page | Medium | [#112](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/112) |
 | BUG: Error: Gemini model not found for API v1beta in PrivGPT Studio | Medium | [#110](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/110) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
@@ -1395,9 +1401,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Improve accessibility with alt text and ARIA labels (Fixes #93) | Medium | [#94](https://github.com/subhadeeproy3902/mvpblocks/pull/94) |
-| fix: Handle missing GitHub token gracefully and resolve Next.js 15 fumadocs-ui compatibility | Medium | [#92](https://github.com/subhadeeproy3902/mvpblocks/pull/92) |
-| feat(preloaders) : add preloader-1 block | Medium | [#91](https://github.com/subhadeeproy3902/mvpblocks/pull/91) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
