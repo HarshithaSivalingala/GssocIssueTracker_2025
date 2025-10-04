@@ -18,31 +18,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Non-Uniform Carousel in Home page | Medium | [#846](https://github.com/gyanshankar1708/GrowCraft/issues/846) |
-| Implement Sitemap Page with Search and Responsive Design | Medium | [#845](https://github.com/gyanshankar1708/GrowCraft/pull/845) |
-| About Us is leading to different pages and not main About Us page | Medium | [#844](https://github.com/gyanshankar1708/GrowCraft/issues/844) |
-| Add Some More Blogs Regarding the CyberSecurity and We Development | Medium | [#843](https://github.com/gyanshankar1708/GrowCraft/issues/843) |
-| Uneven Navbar across all the pages | Medium | [#842](https://github.com/gyanshankar1708/GrowCraft/issues/842) |
-| Add theme toggle (light/dark) to Contact page navbar with persistent preference | Medium | [#840](https://github.com/gyanshankar1708/GrowCraft/pull/840) |
-| green glass cards with floating effect | Medium | [#839](https://github.com/gyanshankar1708/GrowCraft/pull/839) |
-| Dark Mode Not Implemented on webdev.html | Medium | [#834](https://github.com/gyanshankar1708/GrowCraft/issues/834) |
-| Made the links functional in FAQ page | Medium | [#833](https://github.com/gyanshankar1708/GrowCraft/pull/833) |
-| Made the footer links functional in Website Development Page | Medium | [#832](https://github.com/gyanshankar1708/GrowCraft/pull/832) |
-| Implement Dark Mode on Social Media Page | Medium | [#831](https://github.com/gyanshankar1708/GrowCraft/issues/831) |
-| Fix: Restructure Footer on about.html with Proper Columns and Responsive Design | Medium | [#827](https://github.com/gyanshankar1708/GrowCraft/pull/827) |
-| The button does not redirect to contact page | Medium | [#826](https://github.com/gyanshankar1708/GrowCraft/issues/826) |
-| Added dedicated page for cyber-analyst | Medium | [#824](https://github.com/gyanshankar1708/GrowCraft/pull/824) |
-| Fix: Restructure Footer on work.html with Proper Columns and Responsive Design | Medium | [#823](https://github.com/gyanshankar1708/GrowCraft/pull/823) |
-| ignore this pr :) | Medium | [#822](https://github.com/gyanshankar1708/GrowCraft/pull/822) |
-| fix about page navbar | Medium | [#816](https://github.com/gyanshankar1708/GrowCraft/pull/816) |
-| Implement success message display function | Medium | [#815](https://github.com/gyanshankar1708/GrowCraft/pull/815) |
-| Change phone input type from tel to number | Medium | [#814](https://github.com/gyanshankar1708/GrowCraft/pull/814) |
-| Feature: Improvement in footer | Medium | [#812](https://github.com/gyanshankar1708/GrowCraft/issues/812) |
-| Adding a testimonial carousal | Medium | [#811](https://github.com/gyanshankar1708/GrowCraft/issues/811) |
-| BUG: Toggle theme button not visible on Contact Us Page | Medium | [#810](https://github.com/gyanshankar1708/GrowCraft/issues/810) |
-| add scroll to top button in contact us | Medium | [#802](https://github.com/gyanshankar1708/GrowCraft/issues/802) |
-| Create `register_terms.html` and `register_conditions.html` pages for Signup page links | Medium | [#799](https://github.com/gyanshankar1708/GrowCraft/issues/799) |
-| Duplicate Right-Side Navigation Buttons on Content Writing Section | Medium | [#797](https://github.com/gyanshankar1708/GrowCraft/issues/797) |
+| Added dark mode in webdev.html | Medium | [#873](https://github.com/gyanshankar1708/GrowCraft/pull/873) |
+| Added styles and dark mode toggle to the social media page | Medium | [#872](https://github.com/gyanshankar1708/GrowCraft/pull/872) |
+| FAQ size | Medium | [#871](https://github.com/gyanshankar1708/GrowCraft/issues/871) |
+| footer section | Medium | [#870](https://github.com/gyanshankar1708/GrowCraft/issues/870) |
+| Add Styling for Footer Section for home section in work.html page | Medium | [#869](https://github.com/gyanshankar1708/GrowCraft/issues/869) |
+| Footer Section Items Misaligned | Medium | [#868](https://github.com/gyanshankar1708/GrowCraft/issues/868) |
+| Add styling to Footer | Medium | [#867](https://github.com/gyanshankar1708/GrowCraft/issues/867) |
+| update blog navbar | Medium | [#866](https://github.com/gyanshankar1708/GrowCraft/pull/866) |
+| Adding glassmorphism to the cards | Medium | [#861](https://github.com/gyanshankar1708/GrowCraft/issues/861) |
+| Add contributors section under our work page and enhance our work hero section UI | Medium | [#859](https://github.com/gyanshankar1708/GrowCraft/issues/859) |
+| Enhance Homepage "About Us" Section with Improved Design & Content | Medium | [#777](https://github.com/gyanshankar1708/GrowCraft/pull/777) |
+| Footer links are properly directing in learn more page. | Medium | [#770](https://github.com/gyanshankar1708/GrowCraft/pull/770) |
+| Links are properly directing to respective pages in faq page. | Medium | [#766](https://github.com/gyanshankar1708/GrowCraft/pull/766) |
 
 ---
 
