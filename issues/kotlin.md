@@ -122,7 +122,6 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
-| Creates a snackbar for Upload Page instructions | Medium | [#51](https://github.com/sayan0328/WallGodds-App/pull/51) |
 
 ---
 
@@ -141,16 +140,14 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Saved toggle shows active state by default on detail screens | Easy | [#440](https://github.com/yuvrajsinghgmx/ShopSmart/issues/440) |
-| added: document images in shop modal | Medium | [#465](https://github.com/yuvrajsinghgmx/ShopSmart/pull/465) |
+| Review Screen Error | Medium | [#470](https://github.com/yuvrajsinghgmx/ShopSmart/issues/470) |
+| Saved Toggle not working | Medium | [#469](https://github.com/yuvrajsinghgmx/ShopSmart/issues/469) |
+| Edit Customer Profile Screen | Medium | [#468](https://github.com/yuvrajsinghgmx/ShopSmart/issues/468) |
+| Sorting  and Searching on the basis of each parameter in the table | Medium | [#466](https://github.com/yuvrajsinghgmx/ShopSmart/issues/466) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
-| Include Document Images in Shop Details Modal | Medium | [#462](https://github.com/yuvrajsinghgmx/ShopSmart/issues/462) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
-| Feature/searchbar with searchapi integration | Medium | [#459](https://github.com/yuvrajsinghgmx/ShopSmart/pull/459) |
-| Top Bar of Home Screen | Medium | [#457](https://github.com/yuvrajsinghgmx/ShopSmart/issues/457) |
 | Shop_Owner Profile | Medium | [#456](https://github.com/yuvrajsinghgmx/ShopSmart/issues/456) |
 | Master Issue for tracking Compose Dev. | Medium | [#454](https://github.com/yuvrajsinghgmx/ShopSmart/issues/454) |
-| Search bar with voice search integration and UI enhancement | Medium | [#447](https://github.com/yuvrajsinghgmx/ShopSmart/pull/447) |
-| Product category filter list is not functional | Medium | [#435](https://github.com/yuvrajsinghgmx/ShopSmart/issues/435) |
 | Search bar on top of home screen is not functional | Medium | [#434](https://github.com/yuvrajsinghgmx/ShopSmart/issues/434) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
