@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update VisionMate: Added OCR utility, updated README, main.py, and requirements | Medium | [#62](https://github.com/kaushav07/VisionMate/pull/62) |
 | Add Contributors Section in README | Medium | [#61](https://github.com/kaushav07/VisionMate/issues/61) |
 | Add GSSoC Banner to README | Medium | [#60](https://github.com/kaushav07/VisionMate/issues/60) |
 | Add architecture diagram and documentation link in README | Medium | [#59](https://github.com/kaushav07/VisionMate/pull/59) |
@@ -30,7 +31,6 @@
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
-| Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
 
 ---
 
@@ -93,9 +93,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Added logging to Nav Screens | Easy | [#318](https://github.com/Yash159357/BlyFt/pull/318) |
+| Fix: Resolve broken links and implement dynamic GitHub star count | Easy | [#319](https://github.com/Yash159357/BlyFt/pull/319) |
 | Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
-| Logging in Nav Screens | Easy | [#312](https://github.com/Yash159357/BlyFt/issues/312) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
@@ -103,7 +102,6 @@
 | Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
 | Logging in Inner Screens (Part 2) | Easy | [#305](https://github.com/Yash159357/BlyFt/issues/305) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
-| Logging in Common Widgets (Part 1) | Easy | [#302](https://github.com/Yash159357/BlyFt/issues/302) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
 | Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
@@ -169,9 +167,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Added logging to Nav Screens | Easy | [#318](https://github.com/Yash159357/BlyFt/pull/318) |
+| Fix: Resolve broken links and implement dynamic GitHub star count | Easy | [#319](https://github.com/Yash159357/BlyFt/pull/319) |
 | Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
-| Logging in Nav Screens | Easy | [#312](https://github.com/Yash159357/BlyFt/issues/312) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
@@ -179,7 +176,6 @@
 | Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
 | Logging in Inner Screens (Part 2) | Easy | [#305](https://github.com/Yash159357/BlyFt/issues/305) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
-| Logging in Common Widgets (Part 1) | Easy | [#302](https://github.com/Yash159357/BlyFt/issues/302) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
 | Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
