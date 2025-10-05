@@ -232,7 +232,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Fix slack and duplication errors | Medium | [#2352](https://github.com/OWASP/Nest/pull/2352) |
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
-| Bump typescript from 5.8.3 to 5.9.3 in /frontend | Medium | [#2340](https://github.com/OWASP/Nest/pull/2340) |
 | Bump jest and @types/jest in /frontend | Medium | [#2329](https://github.com/OWASP/Nest/pull/2329) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
@@ -242,6 +241,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
+| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
+| Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
 
 ---
 
@@ -453,6 +454,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update VisionMate: Added OCR utility, updated README, main.py, and requirements | Medium | [#62](https://github.com/kaushav07/VisionMate/pull/62) |
 | Add Contributors Section in README | Medium | [#61](https://github.com/kaushav07/VisionMate/issues/61) |
 | Add GSSoC Banner to README | Medium | [#60](https://github.com/kaushav07/VisionMate/issues/60) |
 | Add architecture diagram and documentation link in README | Medium | [#59](https://github.com/kaushav07/VisionMate/pull/59) |
@@ -469,7 +471,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
-| Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
 
 ---
 
@@ -521,16 +522,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | sending user to login page after successful registraion. instead of this, bypass the login. for better UX. | Easy | [#240](https://github.com/Khushi-Nigam/jobportal/issues/240) |
-| Add GSSoC Banner to README | Medium | [#248](https://github.com/Khushi-Nigam/jobportal/pull/248) |
-| Add Contributors Section to README.md | Medium | [#247](https://github.com/Khushi-Nigam/jobportal/pull/247) |
-| Pull_Request_Template | Medium | [#246](https://github.com/Khushi-Nigam/jobportal/pull/246) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#243](https://github.com/Khushi-Nigam/jobportal/issues/243) |
-| UI/UX Improvements and Fixes for FAQ, About Us, Job Search, and Footer | Medium | [#237](https://github.com/Khushi-Nigam/jobportal/pull/237) |
-| Balance Skeleton Loader Layout | Medium | [#236](https://github.com/Khushi-Nigam/jobportal/issues/236) |
-| Enhancement: Make Blog section more interactive with dark/light mode support | Medium | [#230](https://github.com/Khushi-Nigam/jobportal/issues/230) |
 | FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
-| Improve Job Listing Page with Pagination & Search Filters | Medium | [#227](https://github.com/Khushi-Nigam/jobportal/issues/227) |
 | Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
 
 ---
@@ -577,18 +571,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue: Make "Set Goal" Button Functional in Career Progression | Medium | [#650](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/650) |
-| Issue: Create Backend API for Employee Dashboard Data | Medium | [#649](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/649) |
-| Issue: Make "Add Skill" Button Functional in Skill Development Tracker | Medium | [#648](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/648) |
-| Create Demo UI for Employee Dashboard - Project Contributions | Medium | [#647](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/647) |
-| Create Demo UI for Employee Dashboard - Company Feedback & Reviews | Medium | [#646](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/646) |
-| Employee Sidebar - Group Similar Sections into Collapsible Menus | Medium | [#645](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/645) |
 | feat: fix registration flaw in emp role | Medium | [#644](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/644) |
 | feat: added export feat in company insights | Medium | [#643](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/643) |
-| feat: adding reports page in company dashboard | Medium | [#642](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/642) |
 | feat: add real-time email validation in login/signup form | Medium | [#641](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/641) |
-| Added required fields and removed redundant fields | Medium | [#640](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/640) |
-| Student Profile Page with Essential Fields | Medium | [#639](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/639) |
+| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
 
@@ -606,6 +592,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing navbar and footer in Blog page | Medium | [#391](https://github.com/omroy07/AgriTech/issues/391) |
+| Inconsistent footer styling in about us page | Medium | [#390](https://github.com/omroy07/AgriTech/issues/390) |
+| Theme icons must be the opposite in contact page | Medium | [#389](https://github.com/omroy07/AgriTech/issues/389) |
 | Visibility Issues in About Us Page | Medium | [#388](https://github.com/omroy07/AgriTech/issues/388) |
 | UI Spacing issue | Medium | [#387](https://github.com/omroy07/AgriTech/issues/387) |
 | Text visibility issue | Medium | [#386](https://github.com/omroy07/AgriTech/issues/386) |
@@ -669,6 +658,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added strategy simulation and comparison feature (GSSoC) | Medium | [#52](https://github.com/18Prachi/airplane-boarding-simulation/pull/52) |
 | Add Support for Multiple Boarding Strategies and Comparison Visualization | Medium | [#51](https://github.com/18Prachi/airplane-boarding-simulation/issues/51) |
 | new features | Medium | [#49](https://github.com/18Prachi/airplane-boarding-simulation/issues/49) |
 | Implementing a Data-Driven Analysis and Reporting Module | Medium | [#48](https://github.com/18Prachi/airplane-boarding-simulation/issues/48) |
@@ -754,6 +744,13 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Add CNN Model from Scratch with Full Forward/Backward Propagation | Medium | [#761](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/761) |
+| Pull Request : Exchange rate forecasting | Medium | [#760](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/760) |
+| Add Exchange Rate Forecasting with Machine Learning Project | Medium | [#759](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/759) |
+| Pull Request : Hedged Market Reinforcement Learning | Medium | [#758](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/758) |
+| Add Reinforcement Learning for Market Hedging Project | Medium | [#757](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/757) |
+| Pull Request : Gdp Growth & Market Capital | Medium | [#756](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/756) |
+| Add Advanced GDP Growth Prediction with Multi-Factor Analysis & Real-Time Forecasting Project | Medium | [#755](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/755) |
 | Add MatClassify an Unsupervised learning model | Medium | [#754](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/754) |
 | feat: #722 - Crude Oil price prediction | Medium | [#753](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/753) |
 | Add Customer Churn Prediction in Telecom Dataset with SVM | Medium | [#749](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/749) |
@@ -765,7 +762,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add Baseline Sales Forecasting Model using M5 Dataset #GSSOC'25 | Medium | [#350](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/350) |
 | Integration of Multilingual LLM-Powered Chatbot and Domain-Specific NLP and Deep learning Models for Enhanced User Interaction | Medium | [#275](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/275) |
 | Network Intrusion Detection System | Medium | [#262](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/262) |
-| A Polling Page | Medium | [#34](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/34) |
 
 ---
 
@@ -893,6 +889,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI/UX & Design Issues | Medium | [#376](https://github.com/eccentriccoder01/TalkHeal/issues/376) |
 | CI workflow for project validation | Medium | [#375](https://github.com/eccentriccoder01/TalkHeal/issues/375) |
 | Enhance Water Tracker UI with Modern Design | Medium | [#374](https://github.com/eccentriccoder01/TalkHeal/issues/374) |
 | Reminder Feature Added to Water Tracker | Medium | [#373](https://github.com/eccentriccoder01/TalkHeal/issues/373) |
@@ -1160,6 +1157,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Request to Add Mood Support App under Web_Development | Medium | [#1809](https://github.com/UTSAVS26/PyVerse/issues/1809) |
 | Project Proposal: Streamlytics | Medium | [#1807](https://github.com/UTSAVS26/PyVerse/issues/1807) |
 | Adding  Image Resizer Project | Medium | [#1804](https://github.com/UTSAVS26/PyVerse/pull/1804) |
 | New  Advanced Project Proposal: "Image Resizer (GUI)" | Medium | [#1802](https://github.com/UTSAVS26/PyVerse/issues/1802) |
@@ -1258,11 +1256,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: improved the clear Button label to Reset #130 | Easy | [#159](https://github.com/aayushraj1010/med-genie/pull/159) |
-| Implement AI-powered duplicate issue detection via seroski-dupbot | Medium | [#187](https://github.com/aayushraj1010/med-genie/pull/187) |
-| Add Cookie Policy and Terms of Use pages with updated footer links | Medium | [#186](https://github.com/aayushraj1010/med-genie/pull/186) |
+| Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
 | Add forgot/reset password functionality | Medium | [#185](https://github.com/aayushraj1010/med-genie/pull/185) |
-| fixed_specialist_recommendation_text | Medium | [#182](https://github.com/aayushraj1010/med-genie/pull/182) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
@@ -1784,9 +1779,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated LICENSE link in README | Medium | [#42](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/42) |
 | Final cleanup after aligning issue #7 and #9 | Medium | [#30](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/30) |
-| Fix issue #15 : Modularize Evaluation Metrics | Medium | [#19](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/19) |
 | FEATURE ENGINEERING | Medium | [#16](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/16) |
 
 ---
@@ -1886,11 +1879,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Gemini Model not found | Medium | [#117](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/117) |
+| Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
 | Feature: Updated Logos across website | Medium | [#113](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/113) |
 | Added Documentation Page | Medium | [#112](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/112) |
-| BUG: Error: Gemini model not found for API v1beta in PrivGPT Studio | Medium | [#110](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/110) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
-| FEATURE: Implement User Authentication & Role Management | Hard | [#98](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/98) |
 
 ---
 
@@ -1908,6 +1901,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesign of the HomePage | Medium | [#20](https://github.com/Tejaswiseelam/Supply-Management/issues/20) |
+| Redesign of the Login Page | Medium | [#19](https://github.com/Tejaswiseelam/Supply-Management/issues/19) |
+| Redesign of the Services Page | Medium | [#18](https://github.com/Tejaswiseelam/Supply-Management/issues/18) |
+| Redesign of the About Us Page | Medium | [#17](https://github.com/Tejaswiseelam/Supply-Management/issues/17) |
+| Improving the Thank you message for donation | Medium | [#16](https://github.com/Tejaswiseelam/Supply-Management/issues/16) |
 | Code of conduct is missing | Medium | [#15](https://github.com/Tejaswiseelam/Supply-Management/issues/15) |
 | Improve README structure | Medium | [#14](https://github.com/Tejaswiseelam/Supply-Management/issues/14) |
 | Add Chatbot to Assist Users in Navigating the Donation Platform | Medium | [#13](https://github.com/Tejaswiseelam/Supply-Management/issues/13) |
