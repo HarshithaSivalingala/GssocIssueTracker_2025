@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing Password Strength Indicator | Medium | [#266](https://github.com/iaadillatif/techxninjas-client/issues/266) |
 | Improve the Background of the Website | Medium | [#265](https://github.com/iaadillatif/techxninjas-client/issues/265) |
 | Add Contributors Section in README | Medium | [#264](https://github.com/iaadillatif/techxninjas-client/issues/264) |
 | On clicking the Explore What's Inside TechXNinjas's : Resume builder , it's not showing anything | Medium | [#263](https://github.com/iaadillatif/techxninjas-client/issues/263) |
@@ -39,7 +40,6 @@
 | UI Enhancement | Medium | [#237](https://github.com/iaadillatif/techxninjas-client/issues/237) |
 | Convert Testimonials section into an auto-scrolling carousel | Medium | [#236](https://github.com/iaadillatif/techxninjas-client/pull/236) |
 | Add Automatic Scrolling Animation to "Learners" and "Mentors" Sections | Medium | [#235](https://github.com/iaadillatif/techxninjas-client/issues/235) |
-| Light/Dark option for lesser width screen made available (closes #40) | Medium | [#234](https://github.com/iaadillatif/techxninjas-client/pull/234) |
 
 ---
 
@@ -167,7 +167,6 @@
 | Fix slack and duplication errors | Medium | [#2352](https://github.com/OWASP/Nest/pull/2352) |
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
-| Bump typescript from 5.8.3 to 5.9.3 in /frontend | Medium | [#2340](https://github.com/OWASP/Nest/pull/2340) |
 | Bump jest and @types/jest in /frontend | Medium | [#2329](https://github.com/OWASP/Nest/pull/2329) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
@@ -177,6 +176,8 @@
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
+| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
+| Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
 
 ---
 
@@ -195,16 +196,13 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesign homepage | Easy | [#348](https://github.com/Ayushjhawar8/Flavor-ai/pull/348) |
-| Search | Easy | [#340](https://github.com/Ayushjhawar8/Flavor-ai/pull/340) |
 | Ai diet planner | Easy | [#337](https://github.com/Ayushjhawar8/Flavor-ai/pull/337) |
-| feat(footer): add ai recipe generator page | Easy | [#336](https://github.com/Ayushjhawar8/Flavor-ai/pull/336) |
-| added footer | Easy | [#335](https://github.com/Ayushjhawar8/Flavor-ai/pull/335) |
+| feat: Create user feedback | Medium | [#352](https://github.com/Ayushjhawar8/Flavor-ai/pull/352) |
 | Conflict | Medium | [#350](https://github.com/Ayushjhawar8/Flavor-ai/pull/350) |
 | Favourite | Medium | [#345](https://github.com/Ayushjhawar8/Flavor-ai/pull/345) |
 | Random | Medium | [#344](https://github.com/Ayushjhawar8/Flavor-ai/pull/344) |
 | Similarity | Medium | [#343](https://github.com/Ayushjhawar8/Flavor-ai/pull/343) |
 | Explorer | Medium | [#342](https://github.com/Ayushjhawar8/Flavor-ai/pull/342) |
-| Upload | Medium | [#341](https://github.com/Ayushjhawar8/Flavor-ai/pull/341) |
 
 ---
 
@@ -222,7 +220,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Animate on Scroll (AOS) for enhanced UI | Medium | [#120](https://github.com/AyushSharma72/Skill_Trade/issues/120) |
 | Feature Request: Add Chatbot for user assistance | Medium | [#119](https://github.com/AyushSharma72/Skill_Trade/issues/119) |
 | Feature Request: Add Service section with interactive features | Medium | [#118](https://github.com/AyushSharma72/Skill_Trade/issues/118) |
 | Feature Request: Add a Blog section to the website | Medium | [#117](https://github.com/AyushSharma72/Skill_Trade/issues/117) |
@@ -346,6 +343,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Cannot Sign In or Sign Up with Google or GitHub | Medium | [#247](https://github.com/mansiruhil/fail-u-forward/issues/247) |
 | Add Contributors Section to README | Medium | [#246](https://github.com/mansiruhil/fail-u-forward/issues/246) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
@@ -405,7 +403,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#357](https://github.com/Muneerali199/DocMagic/pull/357) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 45 updates | Medium | [#358](https://github.com/Muneerali199/DocMagic/pull/358) |
 | Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
@@ -554,10 +552,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed typo in 'CLone Repository' | Easy | [#751](https://github.com/recodehive/recode-website/pull/751) |
-| Make the Footer simillar to darkmode theme | Easy | [#744](https://github.com/recodehive/recode-website/issues/744) |
+| chore/docs: remove outdated simulated "Last updated" line | Easy | [#793](https://github.com/recodehive/recode-website/pull/793) |
 | Create a Merchandise store linking shopify | Easy | [#743](https://github.com/recodehive/recode-website/issues/743) |
-| Auto label to existing workflow | Easy | [#742](https://github.com/recodehive/recode-website/issues/742) |
 
 ---
 
@@ -575,16 +571,17 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Improve testimonial modal styling for light and dark mode compatibility | Easy | [#392](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/392) |
+| feat: Add light and dark logo submission for DSAMate [Closes #4] | Medium | [#403](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/403) |
+| added DSAmate logo by santhosh-7777 | Medium | [#402](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/402) |
+| Add Password Generator/Suggestion for Strong Passwords | Medium | [#401](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/401) |
+| 🔒 Login with Google / Sign Up using Google not working – "OAuth failed" error | Medium | [#400](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/400) |
+| Bug fix/testimonial 389 | Medium | [#399](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/399) |
+| Sync POTD and Mark as Done | Medium | [#398](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/398) |
+| Added new Flashcards | Medium | [#396](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/396) |
 | adding roadmap in code | Medium | [#382](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/382) |
-| Flashcard Inconsistent Behavior - Title Visible on Back Side During Rotation | Medium | [#381](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/381) |
-| Issue #315 please merge Users can add flashcards | Medium | [#379](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/379) |
-| Fix progress sync | Medium | [#375](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/375) |
-| Fix: Replace Total Active Days with Total Submissions across all CP platforms | Medium | [#374](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/374) |
-| updated botwidget responsiveness for all screentype | Medium | [#370](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/370) |
-| Adding a image slider | Medium | [#364](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/364) |
 | feat: Add progress dashboard with ML-based topic categorization | Medium | [#359](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/359) |
 | Text on testimonial cards should remain clearly visible in both light and dark modes. | Medium | [#354](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/354) |
-| Misaligned icons overlapping the text on the Footer | Medium | [#344](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/344) |
 | Improved visibility of Terms of Service and Privacy Policy button | Medium | [#312](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/312) |
 
 ---
@@ -842,6 +839,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added google Oauth frontend | Medium | [#278](https://github.com/AditiGupta-tech/neonest/pull/278) |
 | Fix: Added Profile page with PDF export feature for user data | Medium | [#277](https://github.com/AditiGupta-tech/neonest/pull/277) |
 | Added Smart Care tab with AI-powered baby care insights (feeding, s… | Medium | [#274](https://github.com/AditiGupta-tech/neonest/pull/274) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
@@ -1163,6 +1161,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Add Pull Request (PR) Template | Medium | [#122](https://github.com/Axelvyn/Nexara/issues/122) |
 | added issue managment | Medium | [#121](https://github.com/Axelvyn/Nexara/pull/121) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
@@ -1203,11 +1202,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Gemini Model not found | Medium | [#117](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/117) |
+| Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
 | Feature: Updated Logos across website | Medium | [#113](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/113) |
 | Added Documentation Page | Medium | [#112](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/112) |
-| BUG: Error: Gemini model not found for API v1beta in PrivGPT Studio | Medium | [#110](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/110) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
-| FEATURE: Implement User Authentication & Role Management | Hard | [#98](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/98) |
 
 ---
 
@@ -1288,6 +1287,9 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| CSE placement data on the placements page | Medium | [#30](https://github.com/imshashi365/IPURanker/issues/30) |
+| Add some more blogs in Blog Section | Medium | [#29](https://github.com/imshashi365/IPURanker/issues/29) |
+| Add Login and SignUp Pages | Medium | [#28](https://github.com/imshashi365/IPURanker/issues/28) |
 | Add Interactive College Location Map with Google Maps Integration | Medium | [#27](https://github.com/imshashi365/IPURanker/issues/27) |
 | Adding a proper README.md | Medium | [#26](https://github.com/imshashi365/IPURanker/issues/26) |
 | Hamburger icon is not working properly | Medium | [#25](https://github.com/imshashi365/IPURanker/issues/25) |
@@ -1444,6 +1446,9 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Title: Stay on Track with WhatsApp Assistant | Medium | [#204](https://github.com/vatsal-bhakodia/smriti-ai/issues/204) |
+| Loading animation between pages | Medium | [#203](https://github.com/vatsal-bhakodia/smriti-ai/issues/203) |
+| private policy page | Medium | [#201](https://github.com/vatsal-bhakodia/smriti-ai/issues/201) |
 | Enhance: Improved Code of Conduct | Medium | [#199](https://github.com/vatsal-bhakodia/smriti-ai/pull/199) |
 | Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
 
