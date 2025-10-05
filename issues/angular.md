@@ -14,9 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Admin/Superadmin login redirection issue | Easy | [#152](https://github.com/abhisek247767/PeopleHub-Frontend/pull/152) |
 | Reapply changes | Easy | [#148](https://github.com/abhisek247767/PeopleHub-Frontend/pull/148) |
 | No License is present . | Medium | [#154](https://github.com/abhisek247767/PeopleHub-Frontend/issues/154) |
-| Fix: Admin/Superadmin login redirection issue | Medium | [#152](https://github.com/abhisek247767/PeopleHub-Frontend/pull/152) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#151](https://github.com/abhisek247767/PeopleHub-Frontend/issues/151) |
 | Add Pull Request (PR) Template | Medium | [#150](https://github.com/abhisek247767/PeopleHub-Frontend/issues/150) |
 | Improve README with backend integration steps | Medium | [#149](https://github.com/abhisek247767/PeopleHub-Frontend/pull/149) |
