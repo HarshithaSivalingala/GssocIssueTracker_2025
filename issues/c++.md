@@ -57,7 +57,6 @@
 |----------|----------------|---------|
 | feat(build): Add a Central ``build.py`` Orchestrator for CinderPeak. | Easy | [#84](https://github.com/SharonIV0x86/CinderPeak/issues/84) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
-| refactor(Graph): Combined GraphList and GraphMatrix representation into one CinderGraph. | Hard | [#114](https://github.com/SharonIV0x86/CinderPeak/pull/114) |
 
 ---
 
