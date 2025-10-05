@@ -89,7 +89,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 |----------|----------------|---------|
 | Adding stunning landing page | Medium | [#878](https://github.com/HarshS16/Civix/issues/878) |
 | UI/UX Issues on Home Page | Medium | [#877](https://github.com/HarshS16/Civix/issues/877) |
-| fix(ui): improve card headline contrast on hover in dark mode | Medium | [#876](https://github.com/HarshS16/Civix/pull/876) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
 | Incomplete gradient on the newsletter subscribe button | Medium | [#874](https://github.com/HarshS16/Civix/issues/874) |
 | Missing hover arrow icon for "Documentation" link in footer | Medium | [#873](https://github.com/HarshS16/Civix/issues/873) |
@@ -116,7 +115,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#357](https://github.com/Muneerali199/DocMagic/pull/357) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 45 updates | Medium | [#358](https://github.com/Muneerali199/DocMagic/pull/358) |
 | Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
@@ -334,6 +333,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Add Pull Request (PR) Template | Medium | [#122](https://github.com/Axelvyn/Nexara/issues/122) |
 | added issue managment | Medium | [#121](https://github.com/Axelvyn/Nexara/pull/121) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
@@ -401,6 +401,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Title: Stay on Track with WhatsApp Assistant | Medium | [#204](https://github.com/vatsal-bhakodia/smriti-ai/issues/204) |
+| Loading animation between pages | Medium | [#203](https://github.com/vatsal-bhakodia/smriti-ai/issues/203) |
+| private policy page | Medium | [#201](https://github.com/vatsal-bhakodia/smriti-ai/issues/201) |
 | Enhance: Improved Code of Conduct | Medium | [#199](https://github.com/vatsal-bhakodia/smriti-ai/pull/199) |
 | Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
 
