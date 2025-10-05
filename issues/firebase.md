@@ -42,23 +42,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📃:  Customizable Avatar Generator | Easy | [#1028](https://github.com/Code-A2Z/code-a2z/issues/1028) |
-| Enhancement: Add centralized express-validator system Issue #1234 | Medium | [#1269](https://github.com/Code-A2Z/code-a2z/pull/1269) |
-| Enhancement Suggestions - Server Availability & Monitoring | Medium | [#1268](https://github.com/Code-A2Z/code-a2z/issues/1268) |
-| Login Signup UI improvement | Medium | [#1239](https://github.com/Code-A2Z/code-a2z/issues/1239) |
+| 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
+| 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
-| 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
-| 📃: Virtual Mouse System using Computer Vision | Medium | [#1140](https://github.com/Code-A2Z/code-a2z/issues/1140) |
-| 📃: Mapping Using Open cv and Mediapipe | Medium | [#1141](https://github.com/Code-A2Z/code-a2z/issues/1141) |
-| 📃: HandWriting Recognition using Deep learning | Medium | [#1143](https://github.com/Code-A2Z/code-a2z/issues/1143) |
-| 📃: PrepPal AI Mock Interview App | Medium | [#1053](https://github.com/Code-A2Z/code-a2z/issues/1053) |
-| 📃: House Price Prediction | Medium | [#1145](https://github.com/Code-A2Z/code-a2z/issues/1145) |
-| 📃: Daily Habit Tracker | Medium | [#1036](https://github.com/Code-A2Z/code-a2z/issues/1036) |
-| 📃: TextUtils | Medium | [#1032](https://github.com/Code-A2Z/code-a2z/issues/1032) |
-| 📃:  CSS Sketchpad | Medium | [#1030](https://github.com/Code-A2Z/code-a2z/issues/1030) |
+| 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
+| 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
+| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
+| 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
+| 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
+| 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
+| 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
+| 📃: Kanban projects management system on users dashboard | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
+| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 
 ---
 
@@ -90,24 +87,6 @@
 
 ---
 
-## 📌 Project: Firebase Chat App
-
-📝 **Description:** A real-time chat application built using Firebase and React. It allows users to sign in with Google authentication, exchange messages instantly, and manage user sessions securely. The app showcases the power of serverless technologies with a sleek and responsive UI. Ideal for contributors interested in React, Firebase, and modern frontend/backend integration.
-
-🔗 [View Project](https://github.com/Dhruvi-tech/firebase-chat-app)
-
-💻 **Tech Stack:** React.js, Firebase Authentication, Firestore Database, HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Implement Message Edit Functionality with Edit History | Medium | [#68](https://github.com/Dhruvi-tech/firebase-chat-app/issues/68) |
-
----
-
 ## 📌 Project: FailUForward 
 
 📝 **Description:** FailUForward is a community driven platform where users share their biggest failures and the lessons they learned. Using AI, it curates and tags stories, highlights common themes and recommends relatable experiences to help users grow through others’ mistakes. It encourages vulnerability, resilience and real talk like turning failure into fuel. Users mint their failure story as an NFT or anonymous soulbound badge to own their growth journey.
@@ -122,6 +101,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Cannot Sign In or Sign Up with Google or GitHub | Medium | [#247](https://github.com/mansiruhil/fail-u-forward/issues/247) |
 | Add Contributors Section to README | Medium | [#246](https://github.com/mansiruhil/fail-u-forward/issues/246) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
@@ -144,13 +124,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| NEW HOME PAGE | Easy | [#146](https://github.com/Parnab03/WallGodds/issues/146) |
 | PROFILE PAGE | Easy | [#130](https://github.com/Parnab03/WallGodds/issues/130) |
 | UPLOAD PAGE FOR MOBILE WALLPAPERS | Easy | [#128](https://github.com/Parnab03/WallGodds/issues/128) |
 | UPLOAD PAGE FOR TABLET WALLPAPERS | Easy | [#127](https://github.com/Parnab03/WallGodds/issues/127) |
 | ABOUT US IN MOBILE VERSION | Easy | [#88](https://github.com/Parnab03/WallGodds/issues/88) |
 | 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/Parnab03/WallGodds/issues/87) |
 | HOME PAGE IN MOBILE VERSION | Easy | [#82](https://github.com/Parnab03/WallGodds/issues/82) |
-| Making the landing page more interactive | Medium | [#146](https://github.com/Parnab03/WallGodds/issues/146) |
 | Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/Parnab03/WallGodds/issues/123) |
 | DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/Parnab03/WallGodds/issues/111) |
 
@@ -195,6 +175,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: Updated Browse Destinations and Sign Up button colors for better visibilityFix: updated Browse Destinations button to yellow theme with hover | Easy | [#174](https://github.com/Richajaishwal0/Trip_assistant/pull/174) |
+| Add Contributors Section in README | Medium | [#211](https://github.com/Richajaishwal0/Trip_assistant/issues/211) |
+| Add Pull Request (PR) Template | Medium | [#210](https://github.com/Richajaishwal0/Trip_assistant/issues/210) |
 | Bug & Enhancement: Refine Search and Filter Clearing Logic | Medium | [#209](https://github.com/Richajaishwal0/Trip_assistant/issues/209) |
 | feat: Add clickable contact links and fix auth redirect loops | Medium | [#208](https://github.com/Richajaishwal0/Trip_assistant/pull/208) |
 | noUncheckedSideEffectImports not valid | Medium | [#204](https://github.com/Richajaishwal0/Trip_assistant/issues/204) |
@@ -260,9 +242,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Added logging to Nav Screens | Easy | [#318](https://github.com/Yash159357/BlyFt/pull/318) |
+| Fix: Resolve broken links and implement dynamic GitHub star count | Easy | [#319](https://github.com/Yash159357/BlyFt/pull/319) |
 | Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
-| Logging in Nav Screens | Easy | [#312](https://github.com/Yash159357/BlyFt/issues/312) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
@@ -270,7 +251,6 @@
 | Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
 | Logging in Inner Screens (Part 2) | Easy | [#305](https://github.com/Yash159357/BlyFt/issues/305) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
-| Logging in Common Widgets (Part 1) | Easy | [#302](https://github.com/Yash159357/BlyFt/issues/302) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
 | Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
@@ -328,6 +308,24 @@
 
 ---
 
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Solved Minor UI Fixes #220 | Medium | [#224](https://github.com/SurajSG23/PrepBuddy/pull/224) |
+
+---
+
 ## 📌 Project: Athletix
 
 📝 **Description:** Athletix is a Flutter, Firebase and Gemini API based platform for athlete management in India, offering performance tracking, injury management, AI recovery, and real-time messaging. Future upgrades include dashboards, finance and AI career planning
@@ -367,9 +365,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Added logging to Nav Screens | Easy | [#318](https://github.com/Yash159357/BlyFt/pull/318) |
+| Fix: Resolve broken links and implement dynamic GitHub star count | Easy | [#319](https://github.com/Yash159357/BlyFt/pull/319) |
 | Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
-| Logging in Nav Screens | Easy | [#312](https://github.com/Yash159357/BlyFt/issues/312) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
@@ -377,7 +374,6 @@
 | Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
 | Logging in Inner Screens (Part 2) | Easy | [#305](https://github.com/Yash159357/BlyFt/issues/305) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
-| Logging in Common Widgets (Part 1) | Easy | [#302](https://github.com/Yash159357/BlyFt/issues/302) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
 | Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
@@ -601,6 +597,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(ux): Implement "Add to Calendar" button for confirmed appointments | Medium | [#246](https://github.com/shandilya-rajnandini/DocAtHome/pull/246) |
+| Update README.md | Medium | [#245](https://github.com/shandilya-rajnandini/DocAtHome/pull/245) |
 | Save as draft | Medium | [#244](https://github.com/shandilya-rajnandini/DocAtHome/pull/244) |
 | Fix: Prevent Register Page Form from Overlapping Navbar | Medium | [#242](https://github.com/shandilya-rajnandini/DocAtHome/pull/242) |
 | Fix inconsistent error handling across auth routes (register, login, reset) | Medium | [#238](https://github.com/shandilya-rajnandini/DocAtHome/pull/238) |
@@ -629,6 +627,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement AOS for on-scroll animations | Medium | [#67](https://github.com/mr-rishikesh/DevConnect/pull/67) |
 | Fix Alignment & Text Contrast in "Why DevConnect?" Section (Dark Mode) | Medium | [#65](https://github.com/mr-rishikesh/DevConnect/issues/65) |
 | Fix Text Contrast and Alignment in About Page | Medium | [#64](https://github.com/mr-rishikesh/DevConnect/issues/64) |
 | Login & Signup section ui enhancement | Medium | [#58](https://github.com/mr-rishikesh/DevConnect/issues/58) |
