@@ -86,7 +86,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#357](https://github.com/Muneerali199/DocMagic/pull/357) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 45 updates | Medium | [#358](https://github.com/Muneerali199/DocMagic/pull/358) |
 | Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
