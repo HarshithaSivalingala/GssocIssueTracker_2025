@@ -101,18 +101,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue: Make "Set Goal" Button Functional in Career Progression | Medium | [#650](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/650) |
-| Issue: Create Backend API for Employee Dashboard Data | Medium | [#649](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/649) |
-| Issue: Make "Add Skill" Button Functional in Skill Development Tracker | Medium | [#648](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/648) |
-| Create Demo UI for Employee Dashboard - Project Contributions | Medium | [#647](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/647) |
-| Create Demo UI for Employee Dashboard - Company Feedback & Reviews | Medium | [#646](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/646) |
-| Employee Sidebar - Group Similar Sections into Collapsible Menus | Medium | [#645](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/645) |
 | feat: fix registration flaw in emp role | Medium | [#644](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/644) |
 | feat: added export feat in company insights | Medium | [#643](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/643) |
-| feat: adding reports page in company dashboard | Medium | [#642](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/642) |
 | feat: add real-time email validation in login/signup form | Medium | [#641](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/641) |
-| Added required fields and removed redundant fields | Medium | [#640](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/640) |
-| Student Profile Page with Essential Fields | Medium | [#639](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/639) |
+| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
 
