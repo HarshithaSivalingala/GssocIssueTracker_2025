@@ -53,6 +53,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update VisionMate: Added OCR utility, updated README, main.py, and requirements | Medium | [#62](https://github.com/kaushav07/VisionMate/pull/62) |
 | Add Contributors Section in README | Medium | [#61](https://github.com/kaushav07/VisionMate/issues/61) |
 | Add GSSoC Banner to README | Medium | [#60](https://github.com/kaushav07/VisionMate/issues/60) |
 | Add architecture diagram and documentation link in README | Medium | [#59](https://github.com/kaushav07/VisionMate/pull/59) |
@@ -69,7 +70,6 @@
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
-| Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
 
 ---
 
