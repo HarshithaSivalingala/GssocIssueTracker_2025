@@ -158,6 +158,7 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
 | Add high-contrast theme toggle and test | Easy | [#37](https://github.com/x0lg0n/Boutique-To-Box/issues/37) |
 | Add ISSUE_CATALOG and Onboarding issues doc | Easy | [#35](https://github.com/x0lg0n/Boutique-To-Box/issues/35) |
+| missing/incorrectly displayed image | Medium | [#50](https://github.com/x0lg0n/Boutique-To-Box/issues/50) |
 | Integrate 32 DaisyUI Themes for Enhanced UI/UX | Medium | [#48](https://github.com/x0lg0n/Boutique-To-Box/issues/48) |
 | "Sign in with Google" button not working | Medium | [#47](https://github.com/x0lg0n/Boutique-To-Box/issues/47) |
 | 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
