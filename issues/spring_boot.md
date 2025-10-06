@@ -48,8 +48,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Saved toggle shows active state by default on detail screens | Easy | [#440](https://github.com/yuvrajsinghgmx/ShopSmart/issues/440) |
+| admin panel items sort and search | Medium | [#471](https://github.com/yuvrajsinghgmx/ShopSmart/pull/471) |
 | Review Screen Error | Medium | [#470](https://github.com/yuvrajsinghgmx/ShopSmart/issues/470) |
-| Saved Toggle not working | Medium | [#469](https://github.com/yuvrajsinghgmx/ShopSmart/issues/469) |
 | Edit Customer Profile Screen | Medium | [#468](https://github.com/yuvrajsinghgmx/ShopSmart/issues/468) |
 | Sorting  and Searching on the basis of each parameter in the table | Medium | [#466](https://github.com/yuvrajsinghgmx/ShopSmart/issues/466) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
@@ -130,8 +130,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
 | Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
+| Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
 | Enhance dropdown styling to match website theme | Medium | [#255](https://github.com/SandeepVashishtha/Eventra/issues/255) |
 | Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
