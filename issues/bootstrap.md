@@ -18,6 +18,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Dropdown Toggle for Privacy Page Content | Medium | [#911](https://github.com/gyanshankar1708/GrowCraft/issues/911) |
+| Add heading toggle dropdown on Terms page | Medium | [#910](https://github.com/gyanshankar1708/GrowCraft/issues/910) |
+| Navbar improvement on Terms and Privacy Page | Medium | [#909](https://github.com/gyanshankar1708/GrowCraft/issues/909) |
+| our work button on the Website Development page is not working | Medium | [#908](https://github.com/gyanshankar1708/GrowCraft/issues/908) |
+| About us button on the Website Development page was not working. | Medium | [#907](https://github.com/gyanshankar1708/GrowCraft/issues/907) |
+| The Services button on the Website Development page was not working | Medium | [#906](https://github.com/gyanshankar1708/GrowCraft/issues/906) |
+| Regarding the gssoc Leaderboard | Medium | [#905](https://github.com/gyanshankar1708/GrowCraft/issues/905) |
+| added scroll to top in contact us page | Medium | [#904](https://github.com/gyanshankar1708/GrowCraft/pull/904) |
 | Integrate fully functional dark mode in FAQ page with logo switch | Medium | [#903](https://github.com/gyanshankar1708/GrowCraft/pull/903) |
 | Add GSSoC Banner to README | Medium | [#902](https://github.com/gyanshankar1708/GrowCraft/issues/902) |
 | Back to Top button overlaps footer section (#sitemap) on the homepage | Medium | [#901](https://github.com/gyanshankar1708/GrowCraft/issues/901) |
@@ -54,7 +62,6 @@
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
 | Fix issue #85 | Medium | [#152](https://github.com/Pujan-sarkar/FARMLOC/pull/152) |
 | Enhanced Contact Form and Added the SMTP Server service to send email to user and owner. | Medium | [#151](https://github.com/Pujan-sarkar/FARMLOC/pull/151) |
-| <in login/ sign up pages buttons are not working> | Medium | [#148](https://github.com/Pujan-sarkar/FARMLOC/issues/148) |
 | Find Cold Storage section is not working | Medium | [#145](https://github.com/Pujan-sarkar/FARMLOC/issues/145) |
 | Low text contrast on login page (labels and headings are barely visible) | Medium | [#141](https://github.com/Pujan-sarkar/FARMLOC/issues/141) |
 | Add "Continue with Google" option to FARMLOC login page | Medium | [#140](https://github.com/Pujan-sarkar/FARMLOC/issues/140) |
@@ -88,8 +95,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Redesign of the Service booking page form | Medium | [#281](https://github.com/sachiva1/sachiva/issues/281) |
-| Enhance the deisgn of the community forum page. | Medium | [#280](https://github.com/sachiva1/sachiva/issues/280) |
 | UI of forum | Medium | [#279](https://github.com/sachiva1/sachiva/pull/279) |
 
 ---
