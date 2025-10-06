@@ -93,6 +93,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix intro screen: add logging, improve animations, and theme selection (#311) | Easy | [#321](https://github.com/Yash159357/BlyFt/pull/321) |
+| added logger packages and log to the files | Easy | [#320](https://github.com/Yash159357/BlyFt/pull/320) |
 | Fix: Resolve broken links and implement dynamic GitHub star count | Easy | [#319](https://github.com/Yash159357/BlyFt/pull/319) |
 | Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
@@ -107,24 +109,6 @@
 | Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
 | Logging in Tutorial Service | Easy | [#298](https://github.com/Yash159357/BlyFt/issues/298) |
 | Added Localization to the app | Easy | [#295](https://github.com/Yash159357/BlyFt/pull/295) |
-
----
-
-## 📌 Project: TextEditingApp
-
-📝 **Description:** This is a basic text editing app made for fun, any contributions are welcome, Let's make a fun app with a lot more cool features.
-
-🔗 [View Project](https://github.com/may-tas/TextEditingApp)
-
-💻 **Tech Stack:** Flutter, Dart, Cubit
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Implement Advanced Undo/Redo with Visual History Timeline | Medium | [#113](https://github.com/may-tas/TextEditingApp/issues/113) |
 
 ---
 
@@ -167,6 +151,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix intro screen: add logging, improve animations, and theme selection (#311) | Easy | [#321](https://github.com/Yash159357/BlyFt/pull/321) |
+| added logger packages and log to the files | Easy | [#320](https://github.com/Yash159357/BlyFt/pull/320) |
 | Fix: Resolve broken links and implement dynamic GitHub star count | Easy | [#319](https://github.com/Yash159357/BlyFt/pull/319) |
 | Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
