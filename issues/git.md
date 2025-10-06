@@ -17,7 +17,6 @@
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
-| Implement Multi-Language Support and Fix Repository Issues | Medium | [#311](https://github.com/Amarjha01/InfantCareCompass/pull/311) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
@@ -48,6 +47,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| .Improve Dark Mode UI and Consistency | Medium | [#464](https://github.com/Bhavya1352/eventmappr/issues/464) |
 |  | Medium | [#463](https://github.com/Bhavya1352/eventmappr/issues/463) |
 | Enhancement: Add Budget Manager & ML-based Hotel/Restaurant Recommendations | Medium | [#462](https://github.com/Bhavya1352/eventmappr/issues/462) |
 | Registration: Missing "Confirm Password" Field | Medium | [#461](https://github.com/Bhavya1352/eventmappr/issues/461) |
@@ -63,7 +63,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Event Clustering on Map | Medium | [#450](https://github.com/Bhavya1352/eventmappr/issues/450) |
 | Nearby page dark theme not applying to middle section | Medium | [#411](https://github.com/Bhavya1352/eventmappr/issues/411) |
 | feat: add search, category filter, and sorting to TouristPlacesPage | Medium | [#376](https://github.com/Bhavya1352/eventmappr/pull/376) |
-| Adjust padding in event tiles for smaller screens | Medium | [#367](https://github.com/Bhavya1352/eventmappr/issues/367) |
 
 ---
 
@@ -273,8 +272,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement: Cancel upload in progress | Medium | [#283](https://github.com/AditiGupta-tech/neonest/issues/283) |
+| Bug: Upload input allows unsupported file types | Medium | [#282](https://github.com/AditiGupta-tech/neonest/issues/282) |
+| Enhancement: Show upload progress percentage / time estimate | Medium | [#281](https://github.com/AditiGupta-tech/neonest/issues/281) |
+| Bug: Lullaby upload “Retry” option missing after failure | Medium | [#280](https://github.com/AditiGupta-tech/neonest/issues/280) |
+| Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
 | Added google Oauth frontend | Medium | [#278](https://github.com/AditiGupta-tech/neonest/pull/278) |
-| Fix: Added Profile page with PDF export feature for user data | Medium | [#277](https://github.com/AditiGupta-tech/neonest/pull/277) |
 | Added Smart Care tab with AI-powered baby care insights (feeding, s… | Medium | [#274](https://github.com/AditiGupta-tech/neonest/pull/274) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -449,10 +452,13 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🎨 Issue: Improve Lawyer Cards Section on Home Page (index.ejs) | Medium | [#215](https://github.com/dipexplorer/LegalHuB/issues/215) |
+| Password Visibility Toggle icon is Not Functioning in Login & Register Forms | Medium | [#214](https://github.com/dipexplorer/LegalHuB/issues/214) |
 | feat(pages): build and style new terms & conditions page | Medium | [#212](https://github.com/dipexplorer/LegalHuB/pull/212) |
 | Added Contributors.json file | Medium | [#207](https://github.com/dipexplorer/LegalHuB/pull/207) |
 | Improve Privacy Policy Page for Professionalism & Industry Standards | Medium | [#204](https://github.com/dipexplorer/LegalHuB/issues/204) |
 | Integrate Google OAuth for User Authentication | Medium | [#185](https://github.com/dipexplorer/LegalHuB/pull/185) |
+| Appointment API Test Failures & Missing Configurations Bug🧪 | Hard | [#213](https://github.com/dipexplorer/LegalHuB/issues/213) |
 | Create a Proper Contributor Page for LegalHuB | Hard | [#209](https://github.com/dipexplorer/LegalHuB/issues/209) |
 | Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
 | Improve Lawyer Admin Dashboard Functionality | Hard | [#173](https://github.com/dipexplorer/LegalHuB/issues/173) |
@@ -555,8 +561,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Add Pull Request (PR) Template | Medium | [#122](https://github.com/Axelvyn/Nexara/issues/122) |
-| added issue managment | Medium | [#121](https://github.com/Axelvyn/Nexara/pull/121) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
@@ -576,6 +580,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Show/Hide Password Toggle & Strong Validation | Medium | [#75](https://github.com/mr-rishikesh/DevConnect/issues/75) |
+| Add “Forgot Password / Reset Password” Functionality | Medium | [#74](https://github.com/mr-rishikesh/DevConnect/issues/74) |
+| Add Newsletter Subscription Section to Footer | Medium | [#73](https://github.com/mr-rishikesh/DevConnect/issues/73) |
+| Add GSSoC Label and Level for Auto labels assignment | Medium | [#72](https://github.com/mr-rishikesh/DevConnect/issues/72) |
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#71](https://github.com/mr-rishikesh/DevConnect/issues/71) |
+| Add Pull Request (PR) Template | Medium | [#70](https://github.com/mr-rishikesh/DevConnect/issues/70) |
 | feat: Implement AOS for on-scroll animations | Medium | [#67](https://github.com/mr-rishikesh/DevConnect/pull/67) |
 | Fix Alignment & Text Contrast in "Why DevConnect?" Section (Dark Mode) | Medium | [#65](https://github.com/mr-rishikesh/DevConnect/issues/65) |
 | Fix Text Contrast and Alignment in About Page | Medium | [#64](https://github.com/mr-rishikesh/DevConnect/issues/64) |
@@ -590,8 +600,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Website doesnot have the privacy policy page which will define the privacy policy under the website as security! | Medium | [#30](https://github.com/mr-rishikesh/DevConnect/issues/30) |
 | Improve Explore Page with Filters for Tech Stack and Followed Users + Styling Enhancements | Medium | [#26](https://github.com/mr-rishikesh/DevConnect/issues/26) |
 | Fix Home Navigation Redirect and Navbar Logo Scroll-to-Top Behavior | Medium | [#22](https://github.com/mr-rishikesh/DevConnect/issues/22) |
-| Job Board / Gig Listing with Role Filtering | Medium | [#4](https://github.com/mr-rishikesh/DevConnect/issues/4) |
-| Implement JWT-Based Authentication Middleware | Medium | [#2](https://github.com/mr-rishikesh/DevConnect/issues/2) |
 | Implement Message Logic with WebSocket (Frontend + Backend Integration) | Hard | [#27](https://github.com/mr-rishikesh/DevConnect/issues/27) |
 
 ---
@@ -610,8 +618,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
 | Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
+| Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
 | Enhance dropdown styling to match website theme | Medium | [#255](https://github.com/SandeepVashishtha/Eventra/issues/255) |
 | Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
