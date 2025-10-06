@@ -17,7 +17,6 @@
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
-| Implement Multi-Language Support and Fix Repository Issues | Medium | [#311](https://github.com/Amarjha01/InfantCareCompass/pull/311) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
@@ -43,12 +42,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Redesign homepage | Easy | [#348](https://github.com/Ayushjhawar8/Flavor-ai/pull/348) |
-| Ai diet planner | Easy | [#337](https://github.com/Ayushjhawar8/Flavor-ai/pull/337) |
-| feat: Create user feedback | Medium | [#352](https://github.com/Ayushjhawar8/Flavor-ai/pull/352) |
+| Fix background flash and theme toggle issue | Medium | [#369](https://github.com/Ayushjhawar8/Flavor-ai/pull/369) |
+| added full explore card | Medium | [#368](https://github.com/Ayushjhawar8/Flavor-ai/pull/368) |
+| Updated position of dropdown | Medium | [#367](https://github.com/Ayushjhawar8/Flavor-ai/pull/367) |
+| Redesign homepage | Medium | [#366](https://github.com/Ayushjhawar8/Flavor-ai/pull/366) |
+| added BackButton | Medium | [#365](https://github.com/Ayushjhawar8/Flavor-ai/pull/365) |
+| Add logo in readme and add assets for logo. | Medium | [#364](https://github.com/Ayushjhawar8/Flavor-ai/pull/364) |
+| fixed no-fav-veg-food issue | Medium | [#362](https://github.com/Ayushjhawar8/Flavor-ai/pull/362) |
+| Fixing API issue | Medium | [#360](https://github.com/Ayushjhawar8/Flavor-ai/pull/360) |
 | Conflict | Medium | [#350](https://github.com/Ayushjhawar8/Flavor-ai/pull/350) |
 | Favourite | Medium | [#345](https://github.com/Ayushjhawar8/Flavor-ai/pull/345) |
-| Random | Medium | [#344](https://github.com/Ayushjhawar8/Flavor-ai/pull/344) |
 | Similarity | Medium | [#343](https://github.com/Ayushjhawar8/Flavor-ai/pull/343) |
 | Explorer | Medium | [#342](https://github.com/Ayushjhawar8/Flavor-ai/pull/342) |
 
@@ -107,10 +110,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: fix registration flaw in emp role | Medium | [#644](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/644) |
-| feat: added export feat in company insights | Medium | [#643](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/643) |
-| feat: add real-time email validation in login/signup form | Medium | [#641](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/641) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -242,8 +243,6 @@ Why Jeanne?
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Add Pull Request (PR) Template | Medium | [#122](https://github.com/Axelvyn/Nexara/issues/122) |
-| added issue managment | Medium | [#121](https://github.com/Axelvyn/Nexara/pull/121) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
