@@ -140,8 +140,8 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Saved toggle shows active state by default on detail screens | Easy | [#440](https://github.com/yuvrajsinghgmx/ShopSmart/issues/440) |
+| admin panel items sort and search | Medium | [#471](https://github.com/yuvrajsinghgmx/ShopSmart/pull/471) |
 | Review Screen Error | Medium | [#470](https://github.com/yuvrajsinghgmx/ShopSmart/issues/470) |
-| Saved Toggle not working | Medium | [#469](https://github.com/yuvrajsinghgmx/ShopSmart/issues/469) |
 | Edit Customer Profile Screen | Medium | [#468](https://github.com/yuvrajsinghgmx/ShopSmart/issues/468) |
 | Sorting  and Searching on the basis of each parameter in the table | Medium | [#466](https://github.com/yuvrajsinghgmx/ShopSmart/issues/466) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
