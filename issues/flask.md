@@ -180,10 +180,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: fix registration flaw in emp role | Medium | [#644](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/644) |
-| feat: added export feat in company insights | Medium | [#643](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/643) |
-| feat: add real-time email validation in login/signup form | Medium | [#641](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/641) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -201,6 +199,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement role-based access control (RBAC) across all modules | Medium | [#398](https://github.com/omroy07/AgriTech/issues/398) |
+| Add automated testing and continuous integration (CI) | Medium | [#397](https://github.com/omroy07/AgriTech/issues/397) |
+| Centralized error handling and user feedback for crop planning module | Medium | [#396](https://github.com/omroy07/AgriTech/pull/396) |
+| Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
+| Pull Request : Soil Classifier using CNN | Medium | [#393](https://github.com/omroy07/AgriTech/pull/393) |
+| Add Soil Type Classifier using CNN Project | Medium | [#392](https://github.com/omroy07/AgriTech/issues/392) |
 | Missing navbar and footer in Blog page | Medium | [#391](https://github.com/omroy07/AgriTech/issues/391) |
 | Inconsistent footer styling in about us page | Medium | [#390](https://github.com/omroy07/AgriTech/issues/390) |
 | Theme icons must be the opposite in contact page | Medium | [#389](https://github.com/omroy07/AgriTech/issues/389) |
@@ -215,7 +219,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Add Background Visuals to Landing Page | Medium | [#352](https://github.com/omroy07/AgriTech/issues/352) |
 | Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
 | Fixed Chat text visble or Edittext ui | Medium | [#346](https://github.com/omroy07/AgriTech/pull/346) |
-| Organise folder structure | Medium | [#331](https://github.com/omroy07/AgriTech/issues/331) |
 
 ---
 
@@ -265,6 +268,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Uneven Square Sizes under "How It Works" Section on Home Page | Medium | [#253](https://github.com/openml-stack/SentiLog-AI/issues/253) |
 | News Article Page to Show News | Medium | [#252](https://github.com/openml-stack/SentiLog-AI/pull/252) |
 | Visual Improvement for the Dashboard page | Medium | [#240](https://github.com/openml-stack/SentiLog-AI/issues/240) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
