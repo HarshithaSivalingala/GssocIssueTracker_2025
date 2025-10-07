@@ -60,8 +60,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add client side form validation for all user input forms | Medium | [#170](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/170) |
-| Refactor repeated header and profile components in templates | Medium | [#169](https://github.com/MAVERICK-VF142/Drx.MediMate/issues/169) |
+| Refactor repeated header and profile menu into Jinja2 includes | Medium | [#172](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/172) |
+| Add client-side form validation for all user input forms | Medium | [#171](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/171) |
 | Add automated tests for backend API endpoints error handling | Medium | [#168](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/168) |
 | Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
@@ -156,6 +156,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added dark mode toggle | Medium | [#109](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/109) |
+| Add project file structure to README.md | Medium | [#108](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/108) |
 | Add Pull Request (PR) Template | Medium | [#66](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/66) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#65](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/65) |
 | #42 Content Disappears After Reload on All Pages | Medium | [#44](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/44) |
@@ -180,8 +182,13 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: made quick actions working | Medium | [#668](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/668) |
+| Redesign Reset Password Page UI and Add Dark/Light Mode Support | Medium | [#667](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/667) |
+| feat: make company feedback functional (frontend) | Medium | [#666](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/666) |
+| feat: added job insights page | Medium | [#665](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/665) |
+| Bug/Feature: Make Dashboard Quick Action Links Functional | Medium | [#664](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/664) |
+| feat: Add Real-Time Strong Password Validation to Registration Page #662 | Medium | [#663](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/663) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -199,9 +206,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement role-based access control (RBAC) across all modules | Medium | [#398](https://github.com/omroy07/AgriTech/issues/398) |
-| Add automated testing and continuous integration (CI) | Medium | [#397](https://github.com/omroy07/AgriTech/issues/397) |
-| Centralized error handling and user feedback for crop planning module | Medium | [#396](https://github.com/omroy07/AgriTech/pull/396) |
+| Pull Request : AgriBot – AI Agriculture Assistant | Medium | [#403](https://github.com/omroy07/AgriTech/pull/403) |
+| Add New Project: AgriBot – AI Agriculture Assistant | Medium | [#402](https://github.com/omroy07/AgriTech/issues/402) |
+| Add Continuous Integration (CI) Pipeline with GitHub Actions | Medium | [#401](https://github.com/omroy07/AgriTech/pull/401) |
+| Add automated backend testing and continuous integration (CI) workflow | Medium | [#400](https://github.com/omroy07/AgriTech/pull/400) |
+| Implement role-based access control (RBAC) across all modules | Medium | [#399](https://github.com/omroy07/AgriTech/pull/399) |
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
 | Pull Request : Soil Classifier using CNN | Medium | [#393](https://github.com/omroy07/AgriTech/pull/393) |
 | Add Soil Type Classifier using CNN Project | Medium | [#392](https://github.com/omroy07/AgriTech/issues/392) |
@@ -412,11 +421,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Gemini Model not found | Medium | [#117](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/117) |
 | Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
-| Feature: Updated Logos across website | Medium | [#113](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/113) |
 | Added Documentation Page | Medium | [#112](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/112) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
+| FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 
 ---
 
