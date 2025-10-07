@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(auth): add password strength indicator to register form | Medium | [#267](https://github.com/iaadillatif/techxninjas-client/pull/267) |
 | Missing Password Strength Indicator | Medium | [#266](https://github.com/iaadillatif/techxninjas-client/issues/266) |
 | Improve the Background of the Website | Medium | [#265](https://github.com/iaadillatif/techxninjas-client/issues/265) |
 | Add Contributors Section in README | Medium | [#264](https://github.com/iaadillatif/techxninjas-client/issues/264) |
@@ -39,7 +40,32 @@
 | feat(auth): Disable paste for password fields on the registration form. | Medium | [#238](https://github.com/iaadillatif/techxninjas-client/pull/238) |
 | UI Enhancement | Medium | [#237](https://github.com/iaadillatif/techxninjas-client/issues/237) |
 | Convert Testimonials section into an auto-scrolling carousel | Medium | [#236](https://github.com/iaadillatif/techxninjas-client/pull/236) |
-| Add Automatic Scrolling Animation to "Learners" and "Mentors" Sections | Medium | [#235](https://github.com/iaadillatif/techxninjas-client/issues/235) |
+
+---
+
+## 📌 Project: DevElevate
+
+📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
+Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
+An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
+Personalized dashboards for learners, including progress tracking, daily planners, and goals.
+A tech feed offering real-time internship updates, hackathon events, and developer news.
+Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
+Role-based authentication for users and admins, with profile management and admin dashboard.
+Integrated coding practice links (GFG, LeetCode, HackerRank).
+Accessibility features like dark mode,white.
+
+🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
+
+💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Implement search and AI summary for NotesPage | Easy | [#566](https://github.com/abhisek2004/Dev-Elevate/pull/566) |
 
 ---
 
@@ -58,6 +84,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
+| Enhancement : Sorting issues in Contribute Page on the Basis of Projects | Medium | [#2372](https://github.com/OWASP/Nest/issues/2372) |
 | fix: improve Sort By dropdown styling consistency | Medium | [#2363](https://github.com/OWASP/Nest/pull/2363) |
 | Fix slack and duplication errors | Medium | [#2352](https://github.com/OWASP/Nest/pull/2352) |
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
@@ -69,9 +97,6 @@
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 | Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
-| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2214](https://github.com/OWASP/Nest/issues/2214) |
-| Add entity details endpoints and improve schemas for entity APIs | Medium | [#2213](https://github.com/OWASP/Nest/issues/2213) |
-| Extend NestBot AI with Fine-Tuning Capabilities | Medium | [#2195](https://github.com/OWASP/Nest/issues/2195) |
 
 ---
 
@@ -89,6 +114,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| OAuth via google failed | Medium | [#166](https://github.com/BaraniVA/Habitheat/issues/166) |
 | Add a proper issue template folder in the .github | Medium | [#165](https://github.com/BaraniVA/Habitheat/issues/165) |
 | Update README.md file | Medium | [#163](https://github.com/BaraniVA/Habitheat/issues/163) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#162](https://github.com/BaraniVA/Habitheat/issues/162) |
@@ -135,6 +161,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add project file structure to README.md | Easy | [#79](https://github.com/harshendram/Advanced-Discord-Bot/issues/79) |
+| Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
 | create /config ai command | Hard | [#69](https://github.com/harshendram/Advanced-Discord-Bot/issues/69) |
 | Overhauling AI section | Hard | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
@@ -183,6 +211,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Sign Up Button Not Redirecting to Home Page | Medium | [#261](https://github.com/mansiruhil/fail-u-forward/issues/261) |
+| Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/mansiruhil/fail-u-forward/issues/260) |
+| Fix/about hover effect | Medium | [#259](https://github.com/mansiruhil/fail-u-forward/pull/259) |
+| A clean and responsive Footer ⚠️ | Medium | [#258](https://github.com/mansiruhil/fail-u-forward/issues/258) |
+| Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/mansiruhil/fail-u-forward/issues/257) |
+| Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/mansiruhil/fail-u-forward/issues/256) |
+|  | Medium | [#255](https://github.com/mansiruhil/fail-u-forward/issues/255) |
+|  | Medium | [#254](https://github.com/mansiruhil/fail-u-forward/issues/254) |
 | Alignment bug fix | Medium | [#253](https://github.com/mansiruhil/fail-u-forward/pull/253) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
@@ -435,7 +471,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Build Guides & Tutorials page with significant improvements. | Medium | [#104](https://github.com/SamXop123/RigCrafter/pull/104) |
 | added footer and header to reviews | Medium | [#103](https://github.com/SamXop123/RigCrafter/pull/103) |
-| More Guides and Thumbnails to Build Guides Page | Medium | [#102](https://github.com/SamXop123/RigCrafter/issues/102) |
 
 ---
 
@@ -453,6 +488,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump winston from 3.17.0 to 3.18.3 | Medium | [#70](https://github.com/karmveershubham/CodeStreak/pull/70) |
 | Login Page Improvements | Medium | [#69](https://github.com/karmveershubham/CodeStreak/issues/69) |
 | <title> AI chatbot for answering Platform related queries | Medium | [#68](https://github.com/karmveershubham/CodeStreak/issues/68) |
 | <title> Strong Password generator | Medium | [#67](https://github.com/karmveershubham/CodeStreak/issues/67) |
@@ -488,6 +524,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added roadmaps | Medium | [#246](https://github.com/souvikpramanikgit/LearnHub/pull/246) |
+| Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
+| CSS Refactor: Theme-Specific Contrast Fix for Highlighted Text | Medium | [#244](https://github.com/souvikpramanikgit/LearnHub/issues/244) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
 | Add Sign-In with Google and GitHub using Firebase Authentication | Medium | [#220](https://github.com/souvikpramanikgit/LearnHub/issues/220) |
 | Implement an FAQ Bot to Answer Common User Questions | Medium | [#213](https://github.com/souvikpramanikgit/LearnHub/issues/213) |
@@ -521,6 +560,24 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
+
+---
+
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix UI | Easy | [#225](https://github.com/SurajSG23/PrepBuddy/issues/225) |
 
 ---
 
@@ -930,8 +987,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| pre-commit autoupdate | Medium | [#79](https://github.com/Drago-03/GroqTales/pull/79) |
-| feat: Add 'Copy to Clipboard' button for generated stories | Medium | [#40](https://github.com/Drago-03/GroqTales/pull/40) |
+| pre-commit autoupdate | Medium | [#107](https://github.com/Drago-03/GroqTales/pull/107) |
+| added a copy to clipboard button | Medium | [#81](https://github.com/Drago-03/GroqTales/pull/81) |
+| Feat/#18 adding images for nft gallery | Medium | [#80](https://github.com/Drago-03/GroqTales/pull/80) |
 
 ---
 
@@ -1015,21 +1073,21 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @supabase/supabase-js from 2.50.2 to 2.74.0 | Medium | [#139](https://github.com/Ojas-Arora/SapneSeSafar/pull/139) |
+| Bump eslint from 9.12.0 to 9.37.0 | Medium | [#138](https://github.com/Ojas-Arora/SapneSeSafar/pull/138) |
+| Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 6.1.1 | Medium | [#137](https://github.com/Ojas-Arora/SapneSeSafar/pull/137) |
+| Bump lucide-react from 0.344.0 to 0.545.0 | Medium | [#136](https://github.com/Ojas-Arora/SapneSeSafar/pull/136) |
 | Bump vite from 5.4.17 to 7.1.9 | Medium | [#135](https://github.com/Ojas-Arora/SapneSeSafar/pull/135) |
 | Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.23 | Medium | [#133](https://github.com/Ojas-Arora/SapneSeSafar/pull/133) |
-| Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 6.1.0 | Medium | [#131](https://github.com/Ojas-Arora/SapneSeSafar/pull/131) |
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump tailwindcss from 3.4.17 to 4.1.14 | Medium | [#129](https://github.com/Ojas-Arora/SapneSeSafar/pull/129) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.4 | Medium | [#127](https://github.com/Ojas-Arora/SapneSeSafar/pull/127) |
 | Bump react-router-dom from 6.28.2 to 7.9.3 | Medium | [#126](https://github.com/Ojas-Arora/SapneSeSafar/pull/126) |
 | Bump framer-motion from 11.18.2 to 12.23.22 | Medium | [#124](https://github.com/Ojas-Arora/SapneSeSafar/pull/124) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.58.0 | Medium | [#123](https://github.com/Ojas-Arora/SapneSeSafar/pull/123) |
-| Bump eslint from 9.12.0 to 9.36.0 | Medium | [#114](https://github.com/Ojas-Arora/SapneSeSafar/pull/114) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
-| Bump lucide-react from 0.344.0 to 0.544.0 | Medium | [#103](https://github.com/Ojas-Arora/SapneSeSafar/pull/103) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
