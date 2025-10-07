@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README with new sections and formatting | Medium | [#324](https://github.com/Amarjha01/InfantCareCompass/pull/324) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
@@ -42,18 +43,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix background flash and theme toggle issue | Medium | [#369](https://github.com/Ayushjhawar8/Flavor-ai/pull/369) |
-| added full explore card | Medium | [#368](https://github.com/Ayushjhawar8/Flavor-ai/pull/368) |
-| Updated position of dropdown | Medium | [#367](https://github.com/Ayushjhawar8/Flavor-ai/pull/367) |
-| Redesign homepage | Medium | [#366](https://github.com/Ayushjhawar8/Flavor-ai/pull/366) |
-| added BackButton | Medium | [#365](https://github.com/Ayushjhawar8/Flavor-ai/pull/365) |
-| Add logo in readme and add assets for logo. | Medium | [#364](https://github.com/Ayushjhawar8/Flavor-ai/pull/364) |
-| fixed no-fav-veg-food issue | Medium | [#362](https://github.com/Ayushjhawar8/Flavor-ai/pull/362) |
-| Fixing API issue | Medium | [#360](https://github.com/Ayushjhawar8/Flavor-ai/pull/360) |
-| Conflict | Medium | [#350](https://github.com/Ayushjhawar8/Flavor-ai/pull/350) |
-| Favourite | Medium | [#345](https://github.com/Ayushjhawar8/Flavor-ai/pull/345) |
-| Similarity | Medium | [#343](https://github.com/Ayushjhawar8/Flavor-ai/pull/343) |
-| Explorer | Medium | [#342](https://github.com/Ayushjhawar8/Flavor-ai/pull/342) |
+| Fixing get nutrition | Easy | [#374](https://github.com/Ayushjhawar8/Flavor-ai/pull/374) |
+| Fix background flicker on reload and theme toggle | Easy | [#372](https://github.com/Ayushjhawar8/Flavor-ai/pull/372) |
+| Fix Footer “Flavor AI” Section Alignment on Front Page | Medium | [#388](https://github.com/Ayushjhawar8/Flavor-ai/pull/388) |
+| Add Contact and Terms of Service pages, update footer links | Medium | [#386](https://github.com/Ayushjhawar8/Flavor-ai/pull/386) |
+| added voice input for search bar | Medium | [#385](https://github.com/Ayushjhawar8/Flavor-ai/pull/385) |
+| Refactor cursorEnabled state initialization and localStorage handling | Medium | [#380](https://github.com/Ayushjhawar8/Flavor-ai/pull/380) |
+| Replace emojis with React Icons on Homepage | Medium | [#377](https://github.com/Ayushjhawar8/Flavor-ai/pull/377) |
+| Updated Cursor | Medium | [#376](https://github.com/Ayushjhawar8/Flavor-ai/pull/376) |
+| Fix Nutrition AI: correctly read API key from .env.local | Medium | [#371](https://github.com/Ayushjhawar8/Flavor-ai/pull/371) |
 
 ---
 
@@ -110,8 +108,13 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: made quick actions working | Medium | [#668](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/668) |
+| Redesign Reset Password Page UI and Add Dark/Light Mode Support | Medium | [#667](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/667) |
+| feat: make company feedback functional (frontend) | Medium | [#666](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/666) |
+| feat: added job insights page | Medium | [#665](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/665) |
+| Bug/Feature: Make Dashboard Quick Action Links Functional | Medium | [#664](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/664) |
+| feat: Add Real-Time Strong Password Validation to Registration Page #662 | Medium | [#663](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/663) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -243,6 +246,7 @@ Why Jeanne?
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Add Pull Request (PR) Template | Medium | [#126](https://github.com/Axelvyn/Nexara/pull/126) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
