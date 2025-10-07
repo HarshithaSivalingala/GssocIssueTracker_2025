@@ -47,11 +47,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Saved toggle shows active state by default on detail screens | Easy | [#440](https://github.com/yuvrajsinghgmx/ShopSmart/issues/440) |
-| admin panel items sort and search | Medium | [#471](https://github.com/yuvrajsinghgmx/ShopSmart/pull/471) |
-| Review Screen Error | Medium | [#470](https://github.com/yuvrajsinghgmx/ShopSmart/issues/470) |
+| Issues in Shop and Product Review | Medium | [#477](https://github.com/yuvrajsinghgmx/ShopSmart/issues/477) |
 | Edit Customer Profile Screen | Medium | [#468](https://github.com/yuvrajsinghgmx/ShopSmart/issues/468) |
-| Sorting  and Searching on the basis of each parameter in the table | Medium | [#466](https://github.com/yuvrajsinghgmx/ShopSmart/issues/466) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
 | Shop_Owner Profile | Medium | [#456](https://github.com/yuvrajsinghgmx/ShopSmart/issues/456) |
