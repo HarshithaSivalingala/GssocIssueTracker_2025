@@ -35,6 +35,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added ``createEmail`` method to create new email message | Medium | [#141](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/141) |
+| feat: get_queue_deletes [health] | Medium | [#140](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/140) |
+| feat: get_queue_databases [health] | Medium | [#139](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/139) |
 | issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
@@ -57,8 +60,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
-| refactor(tests): Split HybridCSR_COO unit tests into separate files | Easy | [#119](https://github.com/SharonIV0x86/CinderPeak/issues/119) |
-| feat(tests): Restructure and Expand Integration Tests for CinderGraph | Easy | [#118](https://github.com/SharonIV0x86/CinderPeak/issues/118) |
 | feat(build): Add a Central ``build.py`` Orchestrator for CinderPeak. | Easy | [#84](https://github.com/SharonIV0x86/CinderPeak/issues/84) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
 
