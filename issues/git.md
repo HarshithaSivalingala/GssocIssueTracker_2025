@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README with new sections and formatting | Medium | [#324](https://github.com/Amarjha01/InfantCareCompass/pull/324) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
@@ -227,6 +228,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Database initialization causing errors across Login, StudentRegistration, and StudentList pages | Medium | [#80](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/80) |
 | Add Charging Cost Prediction REST API | Medium | [#49](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/49) |
 | Missing Code of Conduct File in Repository | Medium | [#39](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/39) |
 
@@ -453,13 +455,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🎨 Issue: Improve Lawyer Cards Section on Home Page (index.ejs) | Medium | [#215](https://github.com/dipexplorer/LegalHuB/issues/215) |
-| Password Visibility Toggle icon is Not Functioning in Login & Register Forms | Medium | [#214](https://github.com/dipexplorer/LegalHuB/issues/214) |
-| feat(pages): build and style new terms & conditions page | Medium | [#212](https://github.com/dipexplorer/LegalHuB/pull/212) |
-| Added Contributors.json file | Medium | [#207](https://github.com/dipexplorer/LegalHuB/pull/207) |
 | Improve Privacy Policy Page for Professionalism & Industry Standards | Medium | [#204](https://github.com/dipexplorer/LegalHuB/issues/204) |
 | Integrate Google OAuth for User Authentication | Medium | [#185](https://github.com/dipexplorer/LegalHuB/pull/185) |
+| feat: added contributor page which is able to access from home page | Hard | [#218](https://github.com/dipexplorer/LegalHuB/pull/218) |
 | Appointment API Test Failures & Missing Configurations Bug🧪 | Hard | [#213](https://github.com/dipexplorer/LegalHuB/issues/213) |
-| Create a Proper Contributor Page for LegalHuB | Hard | [#209](https://github.com/dipexplorer/LegalHuB/issues/209) |
 | Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
 | Improve Lawyer Admin Dashboard Functionality | Hard | [#173](https://github.com/dipexplorer/LegalHuB/issues/173) |
 | Print functionality prints the entire webpage instead of only the appointment card | Hard | [#172](https://github.com/dipexplorer/LegalHuB/issues/172) |
@@ -529,13 +528,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add To-Do List Feature with Deadlines and Recurring Tasks | Medium | [#96](https://github.com/lovelymahor/StudyMatePlus/issues/96) |
-| Add Flowchart Features with Arrow Connections in Mind Map Section | Medium | [#95](https://github.com/lovelymahor/StudyMatePlus/issues/95) |
 | Improve SEO, Accessibility, Structured Data, and Sitemap Hygiene (Skip Link, Landmarks, ARIA, JSON-LD) | Medium | [#94](https://github.com/lovelymahor/StudyMatePlus/pull/94) |
-| Improve Accessibility (Alt Text & Focus Styles) | Medium | [#92](https://github.com/lovelymahor/StudyMatePlus/issues/92) |
-| Add Loading Spinner / Skeleton | Medium | [#91](https://github.com/lovelymahor/StudyMatePlus/issues/91) |
-| Feature Request: PDF Upload/Attach Support in Mind Map Section | Medium | [#90](https://github.com/lovelymahor/StudyMatePlus/issues/90) |
-| Font consistency issue | Medium | [#88](https://github.com/lovelymahor/StudyMatePlus/issues/88) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
@@ -561,6 +554,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
+| Add Pull Request (PR) Template | Medium | [#126](https://github.com/Axelvyn/Nexara/pull/126) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
