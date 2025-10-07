@@ -1,5 +1,24 @@
 # 🚀 Projects using Bootstrap
 
+## 📌 Project: Canvas-Editor
+
+📝 **Description:** This is a simple beginner friendly web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
+
+🔗 [View Project](https://github.com/vishanurag/Canvas-Editor/)
+
+💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add keyboard shortcuts for canvas tools and actions | Medium | [#1372](https://github.com/vishanurag/Canvas-Editor/pull/1372) |
+| Support Quick Actions Buttons and Functionality | Medium | [#1371](https://github.com/vishanurag/Canvas-Editor/pull/1371) |
+
+---
+
 ## 📌 Project: GrowCraft
 
 📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
@@ -18,6 +37,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Apply proper styling to Home page footer (#918) | Medium | [#927](https://github.com/gyanshankar1708/GrowCraft/pull/927) |
+| Fix: Correct broken footer links on Portfolio page (#922) | Medium | [#926](https://github.com/gyanshankar1708/GrowCraft/pull/926) |
+| Fix: Improve dark mode visibility for logo and client testimonial text | Medium | [#925](https://github.com/gyanshankar1708/GrowCraft/pull/925) |
+| Add Web Development Blog | Medium | [#924](https://github.com/gyanshankar1708/GrowCraft/pull/924) |
+| Fix: add missing text 'Explore' to Content Writing button (#917) | Medium | [#921](https://github.com/gyanshankar1708/GrowCraft/pull/921) |
+| Fix: broken Custom Web Apps icon in Web Development page slider (#915) | Medium | [#920](https://github.com/gyanshankar1708/GrowCraft/pull/920) |
+| Fix: add missing Quick Links icons in Digital Marketing page footer (… | Medium | [#919](https://github.com/gyanshankar1708/GrowCraft/pull/919) |
+| update contact navbar | Medium | [#916](https://github.com/gyanshankar1708/GrowCraft/pull/916) |
+| fix faq navbar | Medium | [#912](https://github.com/gyanshankar1708/GrowCraft/pull/912) |
 | Implement Dropdown Toggle for Privacy Page Content | Medium | [#911](https://github.com/gyanshankar1708/GrowCraft/issues/911) |
 | Add heading toggle dropdown on Terms page | Medium | [#910](https://github.com/gyanshankar1708/GrowCraft/issues/910) |
 | Navbar improvement on Terms and Privacy Page | Medium | [#909](https://github.com/gyanshankar1708/GrowCraft/issues/909) |
@@ -33,14 +61,6 @@
 | No Styling Applied to footer section in Home Page (index.html) | Medium | [#898](https://github.com/gyanshankar1708/GrowCraft/issues/898) |
 | Consistent professional footer with dark mode support | Medium | [#897](https://github.com/gyanshankar1708/GrowCraft/pull/897) |
 | redesigned footer section | Medium | [#888](https://github.com/gyanshankar1708/GrowCraft/pull/888) |
-| 📦 [Bug Fix] Consistent navbar styling for contact page | Medium | [#884](https://github.com/gyanshankar1708/GrowCraft/pull/884) |
-| Styled navbar consistently in content writing page. | Medium | [#880](https://github.com/gyanshankar1708/GrowCraft/pull/880) |
-| Added styles and dark mode toggle to the social media page | Medium | [#872](https://github.com/gyanshankar1708/GrowCraft/pull/872) |
-| Footer Section Items Misaligned | Medium | [#868](https://github.com/gyanshankar1708/GrowCraft/issues/868) |
-| Add styling to Footer | Medium | [#867](https://github.com/gyanshankar1708/GrowCraft/issues/867) |
-| update blog navbar | Medium | [#866](https://github.com/gyanshankar1708/GrowCraft/pull/866) |
-| Adding glassmorphism to the cards | Medium | [#861](https://github.com/gyanshankar1708/GrowCraft/issues/861) |
-| Add contributors section under our work page and enhance our work hero section UI | Medium | [#859](https://github.com/gyanshankar1708/GrowCraft/issues/859) |
 
 ---
 
