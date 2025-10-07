@@ -87,6 +87,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Real-Time Strong Password Validation to Registration Page | Medium | [#64](https://github.com/Naveenkumar30838/Housify/issues/64) |
+| fix(login): validate email format and show inline error messages | Medium | [#63](https://github.com/Naveenkumar30838/Housify/issues/63) |
 | UI Enhancement: Improve Home Page Styling and Layout | Medium | [#62](https://github.com/Naveenkumar30838/Housify/issues/62) |
 | Enable post-booking property reviews (submit + display with rating) | Medium | [#61](https://github.com/Naveenkumar30838/Housify/pull/61) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
@@ -109,6 +111,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Responsiveness of home page & Add Eye Icon to Login | Medium | [#85](https://github.com/swarooppatilx/bit-by-query/issues/85) |
 | Fix: changed the git clone to users own name | Medium | [#84](https://github.com/swarooppatilx/bit-by-query/pull/84) |
 | feat: add a env flag for sqlite mode | Medium | [#75](https://github.com/swarooppatilx/bit-by-query/issues/75) |
 | bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
