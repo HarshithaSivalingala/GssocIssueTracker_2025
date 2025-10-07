@@ -42,10 +42,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Migrate Profile module and edit-profile UI to MUI | Easy | [#1282](https://github.com/Code-A2Z/code-a2z/issues/1282) |
 | Migrate Project module UI (project pages, comments) to MUI | Easy | [#1281](https://github.com/Code-A2Z/code-a2z/issues/1281) |
-| Migrate User Auth Form (Login/Signup) Page & components to MUI | Easy | [#1279](https://github.com/Code-A2Z/code-a2z/issues/1279) |
-| 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
+| refactor(ui): migrate auth form styles from Tailwind to MUI sx | Medium | [#1291](https://github.com/Code-A2Z/code-a2z/pull/1291) |
+| Improvement: Winston + Morgan logging setup (#1285) | Medium | [#1290](https://github.com/Code-A2Z/code-a2z/pull/1290) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Create Designed Min Max Queue CPP | Medium | [#1275](https://github.com/Code-A2Z/code-a2z/pull/1275) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -55,8 +54,6 @@
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
-| 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
-| 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 
 ---
 
@@ -76,6 +73,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Clickables not working | Medium | [#124](https://github.com/Bavanetha27/Refixly/issues/124) |
 | Terms of Service | Medium | [#123](https://github.com/Bavanetha27/Refixly/issues/123) |
 | Login UI | Medium | [#122](https://github.com/Bavanetha27/Refixly/issues/122) |
 | add performance and documentation in issue folder | Medium | [#120](https://github.com/Bavanetha27/Refixly/issues/120) |
@@ -102,6 +100,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Sign Up Button Not Redirecting to Home Page | Medium | [#261](https://github.com/mansiruhil/fail-u-forward/issues/261) |
+| Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/mansiruhil/fail-u-forward/issues/260) |
+| Fix/about hover effect | Medium | [#259](https://github.com/mansiruhil/fail-u-forward/pull/259) |
+| A clean and responsive Footer ⚠️ | Medium | [#258](https://github.com/mansiruhil/fail-u-forward/issues/258) |
+| Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/mansiruhil/fail-u-forward/issues/257) |
+| Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/mansiruhil/fail-u-forward/issues/256) |
+|  | Medium | [#255](https://github.com/mansiruhil/fail-u-forward/issues/255) |
+|  | Medium | [#254](https://github.com/mansiruhil/fail-u-forward/issues/254) |
 | Alignment bug fix | Medium | [#253](https://github.com/mansiruhil/fail-u-forward/pull/253) |
 | Added user friendly landing page and improve its components | Medium | [#226](https://github.com/mansiruhil/fail-u-forward/pull/226) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
@@ -241,22 +247,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix intro screen: add logging, improve animations, and theme selection (#311) | Easy | [#321](https://github.com/Yash159357/BlyFt/pull/321) |
-| added logger packages and log to the files | Easy | [#320](https://github.com/Yash159357/BlyFt/pull/320) |
-| Fix: Resolve broken links and implement dynamic GitHub star count | Easy | [#319](https://github.com/Yash159357/BlyFt/pull/319) |
-| Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
+| Fix: Update about, profile, and settings screens as per issue #304 | Easy | [#325](https://github.com/Yash159357/BlyFt/pull/325) |
+| feat: Added logging to Chat Screen | Easy | [#324](https://github.com/Yash159357/BlyFt/pull/324) |
+| feat: Added logging to Contact Screen | Easy | [#323](https://github.com/Yash159357/BlyFt/pull/323) |
+| feat: Added logging to bookmarks screen | Easy | [#322](https://github.com/Yash159357/BlyFt/pull/322) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
 | Logging in Inner Screens (Part 4) | Easy | [#307](https://github.com/Yash159357/BlyFt/issues/307) |
 | Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
-| Logging in Inner Screens (Part 2) | Easy | [#305](https://github.com/Yash159357/BlyFt/issues/305) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
 | Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
-| Logging in Tutorial Service | Easy | [#298](https://github.com/Yash159357/BlyFt/issues/298) |
-| Added Localization to the app | Easy | [#295](https://github.com/Yash159357/BlyFt/pull/295) |
 
 ---
 
@@ -309,6 +312,24 @@
 
 ---
 
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix UI | Easy | [#225](https://github.com/SurajSG23/PrepBuddy/issues/225) |
+
+---
+
 ## 📌 Project: Athletix
 
 📝 **Description:** Athletix is a Flutter, Firebase and Gemini API based platform for athlete management in India, offering performance tracking, injury management, AI recovery, and real-time messaging. Future upgrades include dashboards, finance and AI career planning
@@ -348,22 +369,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix intro screen: add logging, improve animations, and theme selection (#311) | Easy | [#321](https://github.com/Yash159357/BlyFt/pull/321) |
-| added logger packages and log to the files | Easy | [#320](https://github.com/Yash159357/BlyFt/pull/320) |
-| Fix: Resolve broken links and implement dynamic GitHub star count | Easy | [#319](https://github.com/Yash159357/BlyFt/pull/319) |
-| Revamp "Experience BlyFt" Section with Real App Screenshots | Easy | [#314](https://github.com/Yash159357/BlyFt/issues/314) |
+| Fix: Update about, profile, and settings screens as per issue #304 | Easy | [#325](https://github.com/Yash159357/BlyFt/pull/325) |
+| feat: Added logging to Chat Screen | Easy | [#324](https://github.com/Yash159357/BlyFt/pull/324) |
+| feat: Added logging to Contact Screen | Easy | [#323](https://github.com/Yash159357/BlyFt/pull/323) |
+| feat: Added logging to bookmarks screen | Easy | [#322](https://github.com/Yash159357/BlyFt/pull/322) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
 | Logging in Inner Screens (Part 4) | Easy | [#307](https://github.com/Yash159357/BlyFt/issues/307) |
 | Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
-| Logging in Inner Screens (Part 2) | Easy | [#305](https://github.com/Yash159357/BlyFt/issues/305) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
 | Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
-| Logging in Tutorial Service | Easy | [#298](https://github.com/Yash159357/BlyFt/issues/298) |
-| Added Localization to the app | Easy | [#295](https://github.com/Yash159357/BlyFt/pull/295) |
 
 ---
 
@@ -513,13 +531,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add To-Do List Feature with Deadlines and Recurring Tasks | Medium | [#96](https://github.com/lovelymahor/StudyMatePlus/issues/96) |
-| Add Flowchart Features with Arrow Connections in Mind Map Section | Medium | [#95](https://github.com/lovelymahor/StudyMatePlus/issues/95) |
 | Improve SEO, Accessibility, Structured Data, and Sitemap Hygiene (Skip Link, Landmarks, ARIA, JSON-LD) | Medium | [#94](https://github.com/lovelymahor/StudyMatePlus/pull/94) |
-| Improve Accessibility (Alt Text & Focus Styles) | Medium | [#92](https://github.com/lovelymahor/StudyMatePlus/issues/92) |
-| Add Loading Spinner / Skeleton | Medium | [#91](https://github.com/lovelymahor/StudyMatePlus/issues/91) |
-| Feature Request: PDF Upload/Attach Support in Mind Map Section | Medium | [#90](https://github.com/lovelymahor/StudyMatePlus/issues/90) |
-| Font consistency issue | Medium | [#88](https://github.com/lovelymahor/StudyMatePlus/issues/88) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
