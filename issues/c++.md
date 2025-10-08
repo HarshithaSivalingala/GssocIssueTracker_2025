@@ -35,6 +35,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added ``updateSms`` method to update an existing sms message | Medium | [#142](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/142) |
 | Added ``createEmail`` method to create new email message | Medium | [#141](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/141) |
 | feat: get_queue_deletes [health] | Medium | [#140](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/140) |
 | feat: get_queue_databases [health] | Medium | [#139](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/139) |
@@ -59,6 +60,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| refactor(tests): Split HybridCSR_COO unit tests into separate files (… | Easy | [#124](https://github.com/SharonIV0x86/CinderPeak/pull/124) |
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(build): Add a Central ``build.py`` Orchestrator for CinderPeak. | Easy | [#84](https://github.com/SharonIV0x86/CinderPeak/issues/84) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
