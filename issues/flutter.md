@@ -93,15 +93,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Update about, profile, and settings screens as per issue #304 | Easy | [#325](https://github.com/Yash159357/BlyFt/pull/325) |
-| feat: Added logging to Chat Screen | Easy | [#324](https://github.com/Yash159357/BlyFt/pull/324) |
-| feat: Added logging to Contact Screen | Easy | [#323](https://github.com/Yash159357/BlyFt/pull/323) |
-| feat: Added logging to bookmarks screen | Easy | [#322](https://github.com/Yash159357/BlyFt/pull/322) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
-| Logging in Inner Screens (Part 4) | Easy | [#307](https://github.com/Yash159357/BlyFt/issues/307) |
-| Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
@@ -148,15 +142,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Update about, profile, and settings screens as per issue #304 | Easy | [#325](https://github.com/Yash159357/BlyFt/pull/325) |
-| feat: Added logging to Chat Screen | Easy | [#324](https://github.com/Yash159357/BlyFt/pull/324) |
-| feat: Added logging to Contact Screen | Easy | [#323](https://github.com/Yash159357/BlyFt/pull/323) |
-| feat: Added logging to bookmarks screen | Easy | [#322](https://github.com/Yash159357/BlyFt/pull/322) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
-| Logging in Inner Screens (Part 4) | Easy | [#307](https://github.com/Yash159357/BlyFt/issues/307) |
-| Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
