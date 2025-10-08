@@ -43,6 +43,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Project module UI (project pages, comments) to MUI | Easy | [#1281](https://github.com/Code-A2Z/code-a2z/issues/1281) |
+| Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | refactor(ui): migrate auth form styles from Tailwind to MUI sx | Medium | [#1291](https://github.com/Code-A2Z/code-a2z/pull/1291) |
 | Improvement: Winston + Morgan logging setup (#1285) | Medium | [#1290](https://github.com/Code-A2Z/code-a2z/pull/1290) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
@@ -53,7 +54,6 @@
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
-| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 
 ---
 
@@ -180,6 +180,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: Updated Browse Destinations and Sign Up button colors for better visibilityFix: updated Browse Destinations button to yellow theme with hover | Easy | [#174](https://github.com/Richajaishwal0/Trip_assistant/pull/174) |
+| Live server is missing | Medium | [#212](https://github.com/Richajaishwal0/Trip_assistant/issues/212) |
 | Add Contributors Section in README | Medium | [#211](https://github.com/Richajaishwal0/Trip_assistant/issues/211) |
 | Add Pull Request (PR) Template | Medium | [#210](https://github.com/Richajaishwal0/Trip_assistant/issues/210) |
 | Bug & Enhancement: Refine Search and Filter Clearing Logic | Medium | [#209](https://github.com/Richajaishwal0/Trip_assistant/issues/209) |
@@ -216,6 +217,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| privacy page | Medium | [#59](https://github.com/robinsingh-ai/AutomataVerse/issues/59) |
+| UI enhancement | Medium | [#58](https://github.com/robinsingh-ai/AutomataVerse/issues/58) |
 | Fix inconsistent padding in "Sign Up" and "Login" buttons | Medium | [#57](https://github.com/robinsingh-ai/AutomataVerse/issues/57) |
 | Fix text overflow in "Show All Labels" button | Medium | [#56](https://github.com/robinsingh-ai/AutomataVerse/issues/56) |
 | No Password Strength Indicator on Signup Form | Medium | [#55](https://github.com/robinsingh-ai/AutomataVerse/issues/55) |
@@ -247,15 +250,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Update about, profile, and settings screens as per issue #304 | Easy | [#325](https://github.com/Yash159357/BlyFt/pull/325) |
-| feat: Added logging to Chat Screen | Easy | [#324](https://github.com/Yash159357/BlyFt/pull/324) |
-| feat: Added logging to Contact Screen | Easy | [#323](https://github.com/Yash159357/BlyFt/pull/323) |
-| feat: Added logging to bookmarks screen | Easy | [#322](https://github.com/Yash159357/BlyFt/pull/322) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
-| Logging in Inner Screens (Part 4) | Easy | [#307](https://github.com/Yash159357/BlyFt/issues/307) |
-| Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
@@ -326,7 +323,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix UI | Easy | [#225](https://github.com/SurajSG23/PrepBuddy/issues/225) |
+| bug[UI] : Error fixed up | Medium | [#226](https://github.com/SurajSG23/PrepBuddy/pull/226) |
 
 ---
 
@@ -369,15 +366,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Update about, profile, and settings screens as per issue #304 | Easy | [#325](https://github.com/Yash159357/BlyFt/pull/325) |
-| feat: Added logging to Chat Screen | Easy | [#324](https://github.com/Yash159357/BlyFt/pull/324) |
-| feat: Added logging to Contact Screen | Easy | [#323](https://github.com/Yash159357/BlyFt/pull/323) |
-| feat: Added logging to bookmarks screen | Easy | [#322](https://github.com/Yash159357/BlyFt/pull/322) |
 | Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
 | Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
 | Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
-| Logging in Inner Screens (Part 4) | Easy | [#307](https://github.com/Yash159357/BlyFt/issues/307) |
-| Logging in Inner Screens (Part 3) | Easy | [#306](https://github.com/Yash159357/BlyFt/issues/306) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
@@ -451,6 +442,7 @@
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/Loop-Hive/ScheduleX/pull/152) |
 | Improve sidebar UI | Medium | [#151](https://github.com/Loop-Hive/ScheduleX/pull/151) |
 | Fix dropdown overflow | Medium | [#149](https://github.com/Loop-Hive/ScheduleX/pull/149) |
 | made UI changes in the settings page | Medium | [#148](https://github.com/Loop-Hive/ScheduleX/pull/148) |
@@ -490,12 +482,13 @@
 | updating UI of support page | Medium | [#47](https://github.com/Devaki01/EcoStore/issues/47) |
 | Enhancing the home page | Medium | [#43](https://github.com/Devaki01/EcoStore/issues/43) |
 | Suggestion: A add live link of the website | Medium | [#40](https://github.com/Devaki01/EcoStore/issues/40) |
-| update in design and responsive of navbar | Medium | [#39](https://github.com/Devaki01/EcoStore/pull/39) |
 | Fix issue #33: Equalized testimonial card heights & improved mobile navigation | Medium | [#38](https://github.com/Devaki01/EcoStore/pull/38) |
 | Adding login and signup pages | Medium | [#30](https://github.com/Devaki01/EcoStore/issues/30) |
 | 🎨 Footer Modifiation | Medium | [#26](https://github.com/Devaki01/EcoStore/issues/26) |
 | BUG : Not responsive for devices with small display | Medium | [#21](https://github.com/Devaki01/EcoStore/issues/21) |
 | Create a chatbot | Medium | [#20](https://github.com/Devaki01/EcoStore/issues/20) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#17](https://github.com/Devaki01/EcoStore/issues/17) |
+| Ui enhancement + Imperfect font heirarchy | Medium | [#13](https://github.com/Devaki01/EcoStore/issues/13) |
 
 ---
 
@@ -531,13 +524,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve SEO, Accessibility, Structured Data, and Sitemap Hygiene (Skip Link, Landmarks, ARIA, JSON-LD) | Medium | [#94](https://github.com/lovelymahor/StudyMatePlus/pull/94) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
+| CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
 
 ---
 
@@ -594,18 +587,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(ux): Implement "Add to Calendar" button for confirmed appointments | Medium | [#246](https://github.com/shandilya-rajnandini/DocAtHome/pull/246) |
-| Update README.md | Medium | [#245](https://github.com/shandilya-rajnandini/DocAtHome/pull/245) |
+| Added commit | Medium | [#247](https://github.com/shandilya-rajnandini/DocAtHome/pull/247) |
 | Save as draft | Medium | [#244](https://github.com/shandilya-rajnandini/DocAtHome/pull/244) |
-| Fix: Prevent Register Page Form from Overlapping Navbar | Medium | [#242](https://github.com/shandilya-rajnandini/DocAtHome/pull/242) |
 | Fix inconsistent error handling across auth routes (register, login, reset) | Medium | [#238](https://github.com/shandilya-rajnandini/DocAtHome/pull/238) |
-| Map view | Medium | [#228](https://github.com/shandilya-rajnandini/DocAtHome/pull/228) |
 | Set up CI pipeline and fix failing auth tests | Medium | [#219](https://github.com/shandilya-rajnandini/DocAtHome/pull/219) |
 | Reintroduce Skeleton placeholders for loading states in Appointments, Search Doctor, and Doctor Appointment pages | Medium | [#207](https://github.com/shandilya-rajnandini/DocAtHome/pull/207) |
 | added lab-test-status | Medium | [#205](https://github.com/shandilya-rajnandini/DocAtHome/pull/205) |
 | Feature/recently viewed doctors | Medium | [#203](https://github.com/shandilya-rajnandini/DocAtHome/pull/203) |
 | Enhance Theme Colors & Improve UX for Better Visual Consistency | Medium | [#202](https://github.com/shandilya-rajnandini/DocAtHome/pull/202) |
 | feat: Add autocomplete search filters for Specialty and City | Medium | [#200](https://github.com/shandilya-rajnandini/DocAtHome/pull/200) |
+| Migrate from Context API to a Zustand Store | Medium | [#147](https://github.com/shandilya-rajnandini/DocAtHome/pull/147) |
 | bug(deploy): Resolve production CORS error and make live site functional | Hard | [#241](https://github.com/shandilya-rajnandini/DocAtHome/issues/241) |
 
 ---
