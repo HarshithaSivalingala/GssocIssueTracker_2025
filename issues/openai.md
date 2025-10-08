@@ -25,7 +25,6 @@
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
-| heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 
 ---
 
@@ -43,15 +42,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixing get nutrition | Easy | [#374](https://github.com/Ayushjhawar8/Flavor-ai/pull/374) |
-| Fix background flicker on reload and theme toggle | Easy | [#372](https://github.com/Ayushjhawar8/Flavor-ai/pull/372) |
-| Fix Footer “Flavor AI” Section Alignment on Front Page | Medium | [#388](https://github.com/Ayushjhawar8/Flavor-ai/pull/388) |
-| Add Contact and Terms of Service pages, update footer links | Medium | [#386](https://github.com/Ayushjhawar8/Flavor-ai/pull/386) |
-| added voice input for search bar | Medium | [#385](https://github.com/Ayushjhawar8/Flavor-ai/pull/385) |
-| Refactor cursorEnabled state initialization and localStorage handling | Medium | [#380](https://github.com/Ayushjhawar8/Flavor-ai/pull/380) |
-| Replace emojis with React Icons on Homepage | Medium | [#377](https://github.com/Ayushjhawar8/Flavor-ai/pull/377) |
-| Updated Cursor | Medium | [#376](https://github.com/Ayushjhawar8/Flavor-ai/pull/376) |
-| Fix Nutrition AI: correctly read API key from .env.local | Medium | [#371](https://github.com/Ayushjhawar8/Flavor-ai/pull/371) |
+| Search bar automatically opens when navigating back to the main page | Medium | [#390](https://github.com/Ayushjhawar8/Flavor-ai/issues/390) |
+| Comment Interaction Affects All Recipe Cards | Medium | [#389](https://github.com/Ayushjhawar8/Flavor-ai/issues/389) |
 
 ---
 
@@ -108,13 +100,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: made quick actions working | Medium | [#668](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/668) |
-| Redesign Reset Password Page UI and Add Dark/Light Mode Support | Medium | [#667](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/667) |
-| feat: make company feedback functional (frontend) | Medium | [#666](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/666) |
-| feat: added job insights page | Medium | [#665](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/665) |
-| Bug/Feature: Make Dashboard Quick Action Links Functional | Medium | [#664](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/664) |
-| feat: Add Real-Time Strong Password Validation to Registration Page #662 | Medium | [#663](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/663) |
+| feat: Create Animated and Responsive Reset Password Page - #667 | Medium | [#670](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/670) |
+| Disable or simplify bubble effect on low-powered or mobile devices | Medium | [#669](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/669) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
