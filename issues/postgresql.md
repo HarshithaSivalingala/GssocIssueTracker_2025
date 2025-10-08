@@ -67,6 +67,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
+| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
@@ -353,12 +354,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
+| emoji not aligned | Medium | [#542](https://github.com/SandeepVashishtha/Eventra/issues/542) |
 | Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
 | Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
 | Enhance dropdown styling to match website theme | Medium | [#255](https://github.com/SandeepVashishtha/Eventra/issues/255) |
-| Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
 
@@ -402,6 +404,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Unable to generate the MCQSs | Medium | [#207](https://github.com/vatsal-bhakodia/smriti-ai/issues/207) |
 | Navbar Hover Effect Not Working on Responsive Screens | Medium | [#206](https://github.com/vatsal-bhakodia/smriti-ai/issues/206) |
 | Add a New Blog Post to Smriti AI Platform | Medium | [#205](https://github.com/vatsal-bhakodia/smriti-ai/issues/205) |
 | Title: Stay on Track with WhatsApp Assistant | Medium | [#204](https://github.com/vatsal-bhakodia/smriti-ai/issues/204) |
