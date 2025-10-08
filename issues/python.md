@@ -40,6 +40,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Footer background color inconsistent with overall website theme | Easy | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
+| UI enhancement | Medium | [#224](https://github.com/SrigadaAkshayKumar/stock/issues/224) |
 | Updated Twitter icon | Medium | [#223](https://github.com/SrigadaAkshayKumar/stock/pull/223) |
 | Title Color | Medium | [#222](https://github.com/SrigadaAkshayKumar/stock/issues/222) |
 | Background image doesn't cover the full div at the homepage | Medium | [#217](https://github.com/SrigadaAkshayKumar/stock/issues/217) |
@@ -81,7 +82,6 @@
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
-| heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 
 ---
 
@@ -207,6 +207,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
+| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
@@ -224,7 +225,10 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix sporadic 404 flash on /about page | Easy | [#2386](https://github.com/OWASP/Nest/issues/2386) |
+| Improve about page project timeline section | Easy | [#2385](https://github.com/OWASP/Nest/issues/2385) |
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Move API caching to the server side with configurable Redis-based cache mechanism | Medium | [#2384](https://github.com/OWASP/Nest/pull/2384) |
 | Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
 | Enhancement : Sorting issues in Contribute Page on the Basis of Projects | Medium | [#2372](https://github.com/OWASP/Nest/issues/2372) |
 | fix: improve Sort By dropdown styling consistency | Medium | [#2363](https://github.com/OWASP/Nest/pull/2363) |
@@ -517,10 +521,10 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | sending user to login page after successful registraion. instead of this, bypass the login. for better UX. | Easy | [#240](https://github.com/Khushi-Nigam/jobportal/issues/240) |
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#253](https://github.com/Khushi-Nigam/jobportal/pull/253) |
+| Add GSSoC Label and Level for Auto labels assignment | Medium | [#252](https://github.com/Khushi-Nigam/jobportal/pull/252) |
 | Issue 230 | Medium | [#251](https://github.com/Khushi-Nigam/jobportal/pull/251) |
 | Enhance job listings page: pagination, filters, search | Medium | [#250](https://github.com/Khushi-Nigam/jobportal/pull/250) |
-| Add GSSoC Label and Level for Auto labels assignment | Medium | [#249](https://github.com/Khushi-Nigam/jobportal/issues/249) |
-| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#243](https://github.com/Khushi-Nigam/jobportal/issues/243) |
 | FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
 | Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
@@ -569,13 +573,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: made quick actions working | Medium | [#668](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/668) |
-| Redesign Reset Password Page UI and Add Dark/Light Mode Support | Medium | [#667](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/667) |
-| feat: make company feedback functional (frontend) | Medium | [#666](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/666) |
-| feat: added job insights page | Medium | [#665](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/665) |
-| Bug/Feature: Make Dashboard Quick Action Links Functional | Medium | [#664](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/664) |
-| feat: Add Real-Time Strong Password Validation to Registration Page #662 | Medium | [#663](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/663) |
+| feat: Create Animated and Responsive Reset Password Page - #667 | Medium | [#670](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/670) |
+| Disable or simplify bubble effect on low-powered or mobile devices | Medium | [#669](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/669) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -593,14 +594,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Pull Request : AgriBot – AI Agriculture Assistant | Medium | [#403](https://github.com/omroy07/AgriTech/pull/403) |
-| Add New Project: AgriBot – AI Agriculture Assistant | Medium | [#402](https://github.com/omroy07/AgriTech/issues/402) |
-| Add Continuous Integration (CI) Pipeline with GitHub Actions | Medium | [#401](https://github.com/omroy07/AgriTech/pull/401) |
-| Add automated backend testing and continuous integration (CI) workflow | Medium | [#400](https://github.com/omroy07/AgriTech/pull/400) |
-| Implement role-based access control (RBAC) across all modules | Medium | [#399](https://github.com/omroy07/AgriTech/pull/399) |
+| Fix: Make Website Mobile Responsive | Medium | [#404](https://github.com/omroy07/AgriTech/pull/404) |
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
-| Pull Request : Soil Classifier using CNN | Medium | [#393](https://github.com/omroy07/AgriTech/pull/393) |
-| Add Soil Type Classifier using CNN Project | Medium | [#392](https://github.com/omroy07/AgriTech/issues/392) |
 | Missing navbar and footer in Blog page | Medium | [#391](https://github.com/omroy07/AgriTech/issues/391) |
 | Inconsistent footer styling in about us page | Medium | [#390](https://github.com/omroy07/AgriTech/issues/390) |
 | Theme icons must be the opposite in contact page | Medium | [#389](https://github.com/omroy07/AgriTech/issues/389) |
@@ -615,6 +610,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Add Background Visuals to Landing Page | Medium | [#352](https://github.com/omroy07/AgriTech/issues/352) |
 | Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
 | Fixed Chat text visble or Edittext ui | Medium | [#346](https://github.com/omroy07/AgriTech/pull/346) |
+| Organise folder structure | Medium | [#331](https://github.com/omroy07/AgriTech/issues/331) |
 
 ---
 
@@ -632,6 +628,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Readme file is missing | Medium | [#31](https://github.com/EmailScript/EmailScript/issues/31) |
 | Enhance UI/UX and Functionality: Loading Indicator, Clear Button, Improved Results, Detailed Info, and History | Medium | [#30](https://github.com/EmailScript/EmailScript/issues/30) |
 | Readme File is missing | Medium | [#29](https://github.com/EmailScript/EmailScript/issues/29) |
 | Readme is missing | Medium | [#27](https://github.com/EmailScript/EmailScript/issues/27) |
@@ -703,7 +700,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Mixed Content in Assets | Medium | [#103](https://github.com/ProTecGames/Karbon/issues/103) |
 | Implement UI Tests (End-to-End/Acceptance Tests) #19 | Medium | [#102](https://github.com/ProTecGames/Karbon/pull/102) |
 | added UI end-to-end tests for example prompts and output panel | Medium | [#98](https://github.com/ProTecGames/Karbon/pull/98) |
 | Feature | Medium | [#90](https://github.com/ProTecGames/Karbon/pull/90) |
@@ -899,8 +895,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Persistent Game States for Wellness Games | Medium | [#394](https://github.com/eccentriccoder01/TalkHeal/issues/394) |
-| Memory Game not working Properly | Medium | [#393](https://github.com/eccentriccoder01/TalkHeal/issues/393) |
+| Feat: Add Mood Trend Visualization to Journaling Page | Medium | [#418](https://github.com/eccentriccoder01/TalkHeal/issues/418) |
+| Feat: Add Delete Functionality to Journaling Page | Medium | [#417](https://github.com/eccentriccoder01/TalkHeal/issues/417) |
+| Feat: Add Edit Functionality to Journaling Page | Medium | [#416](https://github.com/eccentriccoder01/TalkHeal/issues/416) |
+| Feat: Enhance UI/UX for Wearables Page | Medium | [#415](https://github.com/eccentriccoder01/TalkHeal/issues/415) |
+| Blog Page Not Loading (FileNotFoundError) | Medium | [#413](https://github.com/eccentriccoder01/TalkHeal/issues/413) |
 | Regarding Leaderboard | Medium | [#389](https://github.com/eccentriccoder01/TalkHeal/issues/389) |
 
 ---
@@ -1483,6 +1482,27 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
+## 📌 Project: ZBOT
+
+📝 **Description:** Its a personal AI agent like harvis used to automate stuffs
+
+🔗 [View Project](https://github.com/DishaA06/ZBOT)
+
+💻 **Tech Stack:** Python
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Contributors Section in README | Medium | [#27](https://github.com/DishaA06/ZBOT/issues/27) |
+| Fix typos and improve formatting in README | Medium | [#26](https://github.com/DishaA06/ZBOT/issues/26) |
+| Add Pull Request (PR) Template | Medium | [#25](https://github.com/DishaA06/ZBOT/issues/25) |
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#24](https://github.com/DishaA06/ZBOT/issues/24) |
+
+---
+
 ## 📌 Project: Metal Sheet Defect Detector
 
 📝 **Description:** Detect Defects in metal sheets used to make the body of vehicles
@@ -1786,8 +1806,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Error Analysis and Adding Dashboard (Issue #7 and #9) | Medium | [#45](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/45) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#44](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/44) |
-| Final cleanup after aligning issue #7 and #9 | Medium | [#30](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/30) |
 | FEATURE ENGINEERING | Medium | [#16](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/16) |
 
 ---
@@ -1887,6 +1907,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Setup Prettier | Medium | [#122](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/122) |
+| FEATURE: 🌙 Home Page Styling Issue in Dark Theme – Needs Tailwind Class Updates for Better UI | Medium | [#121](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/121) |
+| added session persistence for chat using localStorage | Medium | [#119](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/119) |
 | Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
 | Added Documentation Page | Medium | [#112](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/112) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
@@ -2024,13 +2047,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🧪 Add Comprehensive Testing Suite | Easy | [#8](https://github.com/skdas20/Synapse/issues/8) |
 | 📚 Improve API Documentation with Examples | Easy | [#5](https://github.com/skdas20/Synapse/issues/5) |
 | 🎨 Improve Mobile Responsiveness | Easy | [#1](https://github.com/skdas20/Synapse/issues/1) |
-| Add-favicon | Medium | [#19](https://github.com/skdas20/Synapse/pull/19) |
 | security: untrack .env | Medium | [#18](https://github.com/skdas20/Synapse/pull/18) |
 | Fix: Sidebar collapse on mobile, responsive modals, improved spacing | Medium | [#13](https://github.com/skdas20/Synapse/pull/13) |
 | 📱 Create Progressive Web App (PWA) | Medium | [#10](https://github.com/skdas20/Synapse/issues/10) |
 | ⚡ Optimize Performance and Add Caching | Hard | [#7](https://github.com/skdas20/Synapse/issues/7) |
 | 🔒 Add Authentication and User Management | Hard | [#6](https://github.com/skdas20/Synapse/issues/6) |
-| 🤖 Improve AI Response Quality and Consistency | Hard | [#4](https://github.com/skdas20/Synapse/issues/4) |
 | 📝 Add In-Browser Code Editor | Hard | [#3](https://github.com/skdas20/Synapse/issues/3) |
 | Add Input Validation and Error Handling | Hard | [#2](https://github.com/skdas20/Synapse/issues/2) |
 
