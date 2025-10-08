@@ -25,7 +25,6 @@
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
-| heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 
 ---
 
@@ -101,13 +100,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: made quick actions working | Medium | [#668](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/668) |
-| Redesign Reset Password Page UI and Add Dark/Light Mode Support | Medium | [#667](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/667) |
-| feat: make company feedback functional (frontend) | Medium | [#666](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/666) |
-| feat: added job insights page | Medium | [#665](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/665) |
-| Bug/Feature: Make Dashboard Quick Action Links Functional | Medium | [#664](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/664) |
-| feat: Add Real-Time Strong Password Validation to Registration Page #662 | Medium | [#663](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/663) |
+| feat: Create Animated and Responsive Reset Password Page - #667 | Medium | [#670](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/670) |
+| Disable or simplify bubble effect on low-powered or mobile devices | Medium | [#669](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/669) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -275,13 +271,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🧪 Add Comprehensive Testing Suite | Easy | [#8](https://github.com/skdas20/Synapse/issues/8) |
 | 📚 Improve API Documentation with Examples | Easy | [#5](https://github.com/skdas20/Synapse/issues/5) |
 | 🎨 Improve Mobile Responsiveness | Easy | [#1](https://github.com/skdas20/Synapse/issues/1) |
-| Add-favicon | Medium | [#19](https://github.com/skdas20/Synapse/pull/19) |
 | security: untrack .env | Medium | [#18](https://github.com/skdas20/Synapse/pull/18) |
 | Fix: Sidebar collapse on mobile, responsive modals, improved spacing | Medium | [#13](https://github.com/skdas20/Synapse/pull/13) |
 | 📱 Create Progressive Web App (PWA) | Medium | [#10](https://github.com/skdas20/Synapse/issues/10) |
 | ⚡ Optimize Performance and Add Caching | Hard | [#7](https://github.com/skdas20/Synapse/issues/7) |
 | 🔒 Add Authentication and User Management | Hard | [#6](https://github.com/skdas20/Synapse/issues/6) |
-| 🤖 Improve AI Response Quality and Consistency | Hard | [#4](https://github.com/skdas20/Synapse/issues/4) |
 | 📝 Add In-Browser Code Editor | Hard | [#3](https://github.com/skdas20/Synapse/issues/3) |
 | Add Input Validation and Error Handling | Hard | [#2](https://github.com/skdas20/Synapse/issues/2) |
 
