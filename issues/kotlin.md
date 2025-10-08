@@ -139,6 +139,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| init: paginator & applied paginator to admin panel | Medium | [#478](https://github.com/yuvrajsinghgmx/ShopSmart/pull/478) |
 | Issues in Shop and Product Review | Medium | [#477](https://github.com/yuvrajsinghgmx/ShopSmart/issues/477) |
 | Edit Customer Profile Screen | Medium | [#468](https://github.com/yuvrajsinghgmx/ShopSmart/issues/468) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
