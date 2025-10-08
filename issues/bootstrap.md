@@ -37,16 +37,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Apply proper styling to Home page footer (#918) | Medium | [#927](https://github.com/gyanshankar1708/GrowCraft/pull/927) |
-| Fix: Correct broken footer links on Portfolio page (#922) | Medium | [#926](https://github.com/gyanshankar1708/GrowCraft/pull/926) |
-| Fix: Improve dark mode visibility for logo and client testimonial text | Medium | [#925](https://github.com/gyanshankar1708/GrowCraft/pull/925) |
+| Enhancement: Improve Graphic Design Portfolio Page (Better Content & Layout) | Medium | [#944](https://github.com/gyanshankar1708/GrowCraft/issues/944) |
+| Issue: Blog View Page – Navbar, Footer & Content Problems | Medium | [#943](https://github.com/gyanshankar1708/GrowCraft/issues/943) |
+| privacy and terms links fixed in digital marketing page | Medium | [#942](https://github.com/gyanshankar1708/GrowCraft/pull/942) |
+| Dropdown Toggle In Privacy | Medium | [#937](https://github.com/gyanshankar1708/GrowCraft/pull/937) |
 | Add Web Development Blog | Medium | [#924](https://github.com/gyanshankar1708/GrowCraft/pull/924) |
-| Fix: add missing text 'Explore' to Content Writing button (#917) | Medium | [#921](https://github.com/gyanshankar1708/GrowCraft/pull/921) |
-| Fix: broken Custom Web Apps icon in Web Development page slider (#915) | Medium | [#920](https://github.com/gyanshankar1708/GrowCraft/pull/920) |
-| Fix: add missing Quick Links icons in Digital Marketing page footer (… | Medium | [#919](https://github.com/gyanshankar1708/GrowCraft/pull/919) |
 | update contact navbar | Medium | [#916](https://github.com/gyanshankar1708/GrowCraft/pull/916) |
 | fix faq navbar | Medium | [#912](https://github.com/gyanshankar1708/GrowCraft/pull/912) |
-| Implement Dropdown Toggle for Privacy Page Content | Medium | [#911](https://github.com/gyanshankar1708/GrowCraft/issues/911) |
 | Add heading toggle dropdown on Terms page | Medium | [#910](https://github.com/gyanshankar1708/GrowCraft/issues/910) |
 | Navbar improvement on Terms and Privacy Page | Medium | [#909](https://github.com/gyanshankar1708/GrowCraft/issues/909) |
 | our work button on the Website Development page is not working | Medium | [#908](https://github.com/gyanshankar1708/GrowCraft/issues/908) |
@@ -56,11 +53,14 @@
 | added scroll to top in contact us page | Medium | [#904](https://github.com/gyanshankar1708/GrowCraft/pull/904) |
 | Integrate fully functional dark mode in FAQ page with logo switch | Medium | [#903](https://github.com/gyanshankar1708/GrowCraft/pull/903) |
 | Add GSSoC Banner to README | Medium | [#902](https://github.com/gyanshankar1708/GrowCraft/issues/902) |
-| Back to Top button overlaps footer section (#sitemap) on the homepage | Medium | [#901](https://github.com/gyanshankar1708/GrowCraft/issues/901) |
 | Fixed Button Link | Medium | [#899](https://github.com/gyanshankar1708/GrowCraft/pull/899) |
 | No Styling Applied to footer section in Home Page (index.html) | Medium | [#898](https://github.com/gyanshankar1708/GrowCraft/issues/898) |
 | Consistent professional footer with dark mode support | Medium | [#897](https://github.com/gyanshankar1708/GrowCraft/pull/897) |
 | redesigned footer section | Medium | [#888](https://github.com/gyanshankar1708/GrowCraft/pull/888) |
+| 📦 [Bug Fix] Consistent navbar styling for contact page | Medium | [#884](https://github.com/gyanshankar1708/GrowCraft/pull/884) |
+| Styled navbar consistently in content writing page. | Medium | [#880](https://github.com/gyanshankar1708/GrowCraft/pull/880) |
+| Added styles and dark mode toggle to the social media page | Medium | [#872](https://github.com/gyanshankar1708/GrowCraft/pull/872) |
+| Footer Section Items Misaligned | Medium | [#868](https://github.com/gyanshankar1708/GrowCraft/issues/868) |
 
 ---
 
@@ -98,24 +98,6 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
-
----
-
-## 📌 Project: sachiva
-
-📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
-
-🔗 [View Project](https://github.com/sachiva1/sachiva)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| UI of forum | Medium | [#279](https://github.com/sachiva1/sachiva/pull/279) |
 
 ---
 
