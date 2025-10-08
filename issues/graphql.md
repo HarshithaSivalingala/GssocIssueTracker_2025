@@ -14,7 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix sporadic 404 flash on /about page | Easy | [#2386](https://github.com/OWASP/Nest/issues/2386) |
+| Improve about page project timeline section | Easy | [#2385](https://github.com/OWASP/Nest/issues/2385) |
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Move API caching to the server side with configurable Redis-based cache mechanism | Medium | [#2384](https://github.com/OWASP/Nest/pull/2384) |
 | Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
 | Enhancement : Sorting issues in Contribute Page on the Basis of Projects | Medium | [#2372](https://github.com/OWASP/Nest/issues/2372) |
 | fix: improve Sort By dropdown styling consistency | Medium | [#2363](https://github.com/OWASP/Nest/pull/2363) |
