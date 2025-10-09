@@ -217,6 +217,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump react-router-dom from 6.28.2 to 7.9.4 | Medium | [#140](https://github.com/Ojas-Arora/SapneSeSafar/pull/140) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.74.0 | Medium | [#139](https://github.com/Ojas-Arora/SapneSeSafar/pull/139) |
 | Bump eslint from 9.12.0 to 9.37.0 | Medium | [#138](https://github.com/Ojas-Arora/SapneSeSafar/pull/138) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 6.1.1 | Medium | [#137](https://github.com/Ojas-Arora/SapneSeSafar/pull/137) |
@@ -228,7 +229,6 @@
 | Bump tailwindcss from 3.4.17 to 4.1.14 | Medium | [#129](https://github.com/Ojas-Arora/SapneSeSafar/pull/129) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.4 | Medium | [#127](https://github.com/Ojas-Arora/SapneSeSafar/pull/127) |
-| Bump react-router-dom from 6.28.2 to 7.9.3 | Medium | [#126](https://github.com/Ojas-Arora/SapneSeSafar/pull/126) |
 | Bump framer-motion from 11.18.2 to 12.23.22 | Medium | [#124](https://github.com/Ojas-Arora/SapneSeSafar/pull/124) |
 | Bump recharts from 2.15.0 to 3.2.1 | Medium | [#108](https://github.com/Ojas-Arora/SapneSeSafar/pull/108) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
