@@ -42,8 +42,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Search bar automatically opens when navigating back to the main page | Medium | [#390](https://github.com/Ayushjhawar8/Flavor-ai/issues/390) |
-| Comment Interaction Affects All Recipe Cards | Medium | [#389](https://github.com/Ayushjhawar8/Flavor-ai/issues/389) |
+| Fix Duplicate Icons and Non-Functional Links in Homepage Sections | Medium | [#400](https://github.com/Ayushjhawar8/Flavor-ai/pull/400) |
+| Fix/footer links | Medium | [#399](https://github.com/Ayushjhawar8/Flavor-ai/pull/399) |
+| Random Recipe Page Broken - Revert to Old UI and Restore Functionality | Medium | [#397](https://github.com/Ayushjhawar8/Flavor-ai/pull/397) |
+| Add "Beverages" Category to Food Filters | Medium | [#396](https://github.com/Ayushjhawar8/Flavor-ai/pull/396) |
 
 ---
 
@@ -100,10 +102,19 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: added routes for forgot and reset pass | Medium | [#681](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/681) |
+| feat: added controllers for forgot and reset password | Medium | [#680](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/680) |
+| feat: added services for email and token | Medium | [#679](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/679) |
+| feat: added warning in authpage for password strength | Medium | [#678](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/678) |
+| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#677](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/677) |
+| Integrate Forgot/Reset Password Flow into Auth System | Medium | [#676](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/676) |
+| Create Forgot Password and Reset Password Pages (Frontend) | Medium | [#675](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/675) |
+| Implement Reset Password API Route | Medium | [#674](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/674) |
+| Implement Forgot Password API Route | Medium | [#673](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/673) |
+| Setup Email and Token Services for Password Reset | Medium | [#672](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/672) |
+| Bug: Password validation incorrectly applied on **Login** form | Medium | [#671](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/671) |
 | feat: Create Animated and Responsive Reset Password Page - #667 | Medium | [#670](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/670) |
 | Disable or simplify bubble effect on low-powered or mobile devices | Medium | [#669](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/669) |
-| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -235,7 +246,6 @@ Why Jeanne?
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Add Pull Request (PR) Template | Medium | [#126](https://github.com/Axelvyn/Nexara/pull/126) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
