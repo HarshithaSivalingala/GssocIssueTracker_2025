@@ -87,6 +87,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Allow Property Owners to Edit Their Listings | Medium | [#65](https://github.com/Naveenkumar30838/Housify/pull/65) |
 | Add Real-Time Strong Password Validation to Registration Page | Medium | [#64](https://github.com/Naveenkumar30838/Housify/issues/64) |
 | fix(login): validate email format and show inline error messages | Medium | [#63](https://github.com/Naveenkumar30838/Housify/issues/63) |
 | UI Enhancement: Improve Home Page Styling and Layout | Medium | [#62](https://github.com/Naveenkumar30838/Housify/issues/62) |
