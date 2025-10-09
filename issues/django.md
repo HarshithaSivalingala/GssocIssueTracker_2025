@@ -14,14 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix sporadic 404 flash on /about page | Easy | [#2386](https://github.com/OWASP/Nest/issues/2386) |
-| Improve about page project timeline section | Easy | [#2385](https://github.com/OWASP/Nest/issues/2385) |
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
-| Move API caching to the server side with configurable Redis-based cache mechanism | Medium | [#2384](https://github.com/OWASP/Nest/pull/2384) |
+| Move entity channel admin to owasp app and fix its bug | Medium | [#2400](https://github.com/OWASP/Nest/pull/2400) |
+| Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
+| Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
+| Bump python from 3.13.7-alpine to 3.14.0-alpine in /backend/docker | Medium | [#2395](https://github.com/OWASP/Nest/pull/2395) |
 | Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
-| Enhancement : Sorting issues in Contribute Page on the Basis of Projects | Medium | [#2372](https://github.com/OWASP/Nest/issues/2372) |
-| fix: improve Sort By dropdown styling consistency | Medium | [#2363](https://github.com/OWASP/Nest/pull/2363) |
-| Fix slack and duplication errors | Medium | [#2352](https://github.com/OWASP/Nest/pull/2352) |
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
@@ -30,7 +28,6 @@
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
 | Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
-| Sync OWASP Awards data and integrate with user profiles | Medium | [#2228](https://github.com/OWASP/Nest/pull/2228) |
 
 ---
 
@@ -155,6 +152,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | sending user to login page after successful registraion. instead of this, bypass the login. for better UX. | Easy | [#240](https://github.com/Khushi-Nigam/jobportal/issues/240) |
+| Update index.html #236 | Medium | [#254](https://github.com/Khushi-Nigam/jobportal/pull/254) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#253](https://github.com/Khushi-Nigam/jobportal/pull/253) |
 | Add GSSoC Label and Level for Auto labels assignment | Medium | [#252](https://github.com/Khushi-Nigam/jobportal/pull/252) |
 | Issue 230 | Medium | [#251](https://github.com/Khushi-Nigam/jobportal/pull/251) |
@@ -257,7 +255,6 @@
 |----------|----------------|---------|
 | Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
 | Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Add Pull Request (PR) Template | Medium | [#126](https://github.com/Axelvyn/Nexara/pull/126) |
 | Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
 | Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
