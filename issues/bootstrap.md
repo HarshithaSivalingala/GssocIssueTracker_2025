@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🧑‍💻: Add interactive Quick Actions modals with navigation links | Medium | [#1373](https://github.com/vishanurag/Canvas-Editor/issues/1373) |
 | Add keyboard shortcuts for canvas tools and actions | Medium | [#1372](https://github.com/vishanurag/Canvas-Editor/pull/1372) |
 | Support Quick Actions Buttons and Functionality | Medium | [#1371](https://github.com/vishanurag/Canvas-Editor/pull/1371) |
 
@@ -37,30 +38,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Improve Graphic Design Portfolio Page (Better Content & Layout) | Medium | [#944](https://github.com/gyanshankar1708/GrowCraft/issues/944) |
-| Issue: Blog View Page – Navbar, Footer & Content Problems | Medium | [#943](https://github.com/gyanshankar1708/GrowCraft/issues/943) |
-| privacy and terms links fixed in digital marketing page | Medium | [#942](https://github.com/gyanshankar1708/GrowCraft/pull/942) |
-| Dropdown Toggle In Privacy | Medium | [#937](https://github.com/gyanshankar1708/GrowCraft/pull/937) |
-| Add Web Development Blog | Medium | [#924](https://github.com/gyanshankar1708/GrowCraft/pull/924) |
+| fix: restyle 'Sign in' link for better visibility | Medium | [#959](https://github.com/gyanshankar1708/GrowCraft/pull/959) |
+| fix: Replace logo text with original logo image in footer | Medium | [#958](https://github.com/gyanshankar1708/GrowCraft/pull/958) |
 | update contact navbar | Medium | [#916](https://github.com/gyanshankar1708/GrowCraft/pull/916) |
 | fix faq navbar | Medium | [#912](https://github.com/gyanshankar1708/GrowCraft/pull/912) |
-| Add heading toggle dropdown on Terms page | Medium | [#910](https://github.com/gyanshankar1708/GrowCraft/issues/910) |
-| Navbar improvement on Terms and Privacy Page | Medium | [#909](https://github.com/gyanshankar1708/GrowCraft/issues/909) |
-| our work button on the Website Development page is not working | Medium | [#908](https://github.com/gyanshankar1708/GrowCraft/issues/908) |
-| About us button on the Website Development page was not working. | Medium | [#907](https://github.com/gyanshankar1708/GrowCraft/issues/907) |
-| The Services button on the Website Development page was not working | Medium | [#906](https://github.com/gyanshankar1708/GrowCraft/issues/906) |
 | Regarding the gssoc Leaderboard | Medium | [#905](https://github.com/gyanshankar1708/GrowCraft/issues/905) |
-| added scroll to top in contact us page | Medium | [#904](https://github.com/gyanshankar1708/GrowCraft/pull/904) |
 | Integrate fully functional dark mode in FAQ page with logo switch | Medium | [#903](https://github.com/gyanshankar1708/GrowCraft/pull/903) |
-| Add GSSoC Banner to README | Medium | [#902](https://github.com/gyanshankar1708/GrowCraft/issues/902) |
-| Fixed Button Link | Medium | [#899](https://github.com/gyanshankar1708/GrowCraft/pull/899) |
-| No Styling Applied to footer section in Home Page (index.html) | Medium | [#898](https://github.com/gyanshankar1708/GrowCraft/issues/898) |
 | Consistent professional footer with dark mode support | Medium | [#897](https://github.com/gyanshankar1708/GrowCraft/pull/897) |
 | redesigned footer section | Medium | [#888](https://github.com/gyanshankar1708/GrowCraft/pull/888) |
 | 📦 [Bug Fix] Consistent navbar styling for contact page | Medium | [#884](https://github.com/gyanshankar1708/GrowCraft/pull/884) |
 | Styled navbar consistently in content writing page. | Medium | [#880](https://github.com/gyanshankar1708/GrowCraft/pull/880) |
 | Added styles and dark mode toggle to the social media page | Medium | [#872](https://github.com/gyanshankar1708/GrowCraft/pull/872) |
-| Footer Section Items Misaligned | Medium | [#868](https://github.com/gyanshankar1708/GrowCraft/issues/868) |
+| Enhance Homepage "About Us" Section with Improved Design & Content | Medium | [#777](https://github.com/gyanshankar1708/GrowCraft/pull/777) |
 
 ---
 
