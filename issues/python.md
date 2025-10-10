@@ -226,6 +226,10 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| improvement: about-page project timeline section | Medium | [#2408](https://github.com/OWASP/Nest/pull/2408) |
+| Response improvements and refactoring | Medium | [#2407](https://github.com/OWASP/Nest/pull/2407) |
+| Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
+| Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Move entity channel admin to owasp app and fix its bug | Medium | [#2400](https://github.com/OWASP/Nest/pull/2400) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
@@ -237,8 +241,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
-| Task/badge implementation in frontend | Medium | [#2273](https://github.com/OWASP/Nest/pull/2273) |
-| Contribution Hub: Issue State & Deadline Reminders | Medium | [#2241](https://github.com/OWASP/Nest/issues/2241) |
 
 ---
 
@@ -571,6 +573,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: added forgot & reset pass pages | Medium | [#683](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/683) |
+| Add missing footer to Contact page for layout consistency | Medium | [#682](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/682) |
 | feat: added routes for forgot and reset pass | Medium | [#681](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/681) |
 | feat: added controllers for forgot and reset password | Medium | [#680](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/680) |
 | feat: added services for email and token | Medium | [#679](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/679) |
@@ -601,7 +605,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Make Website Mobile Responsive | Medium | [#404](https://github.com/omroy07/AgriTech/pull/404) |
+| Navbar UI/UX Improvement Proposal | Medium | [#405](https://github.com/omroy07/AgriTech/issues/405) |
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
 | Missing navbar and footer in Blog page | Medium | [#391](https://github.com/omroy07/AgriTech/issues/391) |
 | Inconsistent footer styling in about us page | Medium | [#390](https://github.com/omroy07/AgriTech/issues/390) |
@@ -752,6 +756,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Diabetic Detection in Pregnant Women under Healthcare | Medium | [#788](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/788) |
 | vidya☺️ | Medium | [#787](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/787) |
 | EDA Notebook Submission for Review | Medium | [#786](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/786) |
 | Implemented CNN from scratch for Machine Leaning Techniques | Medium | [#785](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/785) |
@@ -771,7 +776,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Crude Oil Price Prediction using Machine Learning | Medium | [#722](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/722) |
 | Add Credit Risk Prediction Project | Medium | [#720](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/720) |
 | AIDice Master | Medium | [#466](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/466) |
-| GSSoC'25 : Real-Time Market Sentiment-Driven Trading Signal Generator | Medium | [#412](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/412) |
 
 ---
 
@@ -900,6 +904,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a password strength meter on sign-up | Medium | [#429](https://github.com/eccentriccoder01/TalkHeal/issues/429) |
+| UI/UX Enhancement Proposal for TalkHeal — Minimal, Calming, and Modern Design | Medium | [#428](https://github.com/eccentriccoder01/TalkHeal/issues/428) |
 |  | Medium | [#426](https://github.com/eccentriccoder01/TalkHeal/issues/426) |
 |  | Medium | [#424](https://github.com/eccentriccoder01/TalkHeal/issues/424) |
 | Feature: Journaling Prompts | Medium | [#423](https://github.com/eccentriccoder01/TalkHeal/issues/423) |
@@ -1799,10 +1805,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Dynamic Crop-Based Yield Map on Streamlit | Medium | [#50](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/50) |
-| Enhanced README | Medium | [#49](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/49) |
-| Improve CONTRIBUTING.md formatting and add missing development setup instructions | Medium | [#48](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/48) |
 | Add Geo-Based Visualizations for Yield Data in EDA Notebook - Fixes #24 | Medium | [#47](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/47) |
-| Interactive Streamlit UI | Medium | [#46](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/46) |
 | FEATURE ENGINEERING | Medium | [#16](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/16) |
 
 ---
@@ -1902,11 +1905,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG: Clear Chat button not working properly — chat history not cleared | Medium | [#124](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/124) |
-| Update Hero Sec | Medium | [#123](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/123) |
-| added session persistence for chat using localStorage | Medium | [#119](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/119) |
+| Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
+| added session persistence for chat using local storage/Fixchat session management bugs/ | Medium | [#126](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/126) |
+| Update routes | Medium | [#125](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/125) |
 | Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
-| Added Documentation Page | Medium | [#112](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/112) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 
