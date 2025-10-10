@@ -42,10 +42,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Duplicate Icons and Non-Functional Links in Homepage Sections | Medium | [#400](https://github.com/Ayushjhawar8/Flavor-ai/pull/400) |
-| Fix/footer links | Medium | [#399](https://github.com/Ayushjhawar8/Flavor-ai/pull/399) |
-| Random Recipe Page Broken - Revert to Old UI and Restore Functionality | Medium | [#397](https://github.com/Ayushjhawar8/Flavor-ai/pull/397) |
-| Add "Beverages" Category to Food Filters | Medium | [#396](https://github.com/Ayushjhawar8/Flavor-ai/pull/396) |
+| Update README.md and Screenshots | Medium | [#404](https://github.com/Ayushjhawar8/Flavor-ai/pull/404) |
+| feat: Make Footer reusable and consistent across all pages | Medium | [#403](https://github.com/Ayushjhawar8/Flavor-ai/pull/403) |
 
 ---
 
@@ -102,6 +100,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: added forgot & reset pass pages | Medium | [#683](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/683) |
+| Add missing footer to Contact page for layout consistency | Medium | [#682](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/682) |
 | feat: added routes for forgot and reset pass | Medium | [#681](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/681) |
 | feat: added controllers for forgot and reset password | Medium | [#680](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/680) |
 | feat: added services for email and token | Medium | [#679](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/679) |
