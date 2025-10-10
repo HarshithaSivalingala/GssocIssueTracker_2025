@@ -100,6 +100,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: added forgot & reset pass pages | Medium | [#683](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/683) |
+| Add missing footer to Contact page for layout consistency | Medium | [#682](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/682) |
 | feat: added routes for forgot and reset pass | Medium | [#681](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/681) |
 | feat: added controllers for forgot and reset password | Medium | [#680](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/680) |
 | feat: added services for email and token | Medium | [#679](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/679) |
