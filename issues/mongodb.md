@@ -116,12 +116,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
-| Migrate Project module UI (project pages, comments) to MUI | Easy | [#1281](https://github.com/Code-A2Z/code-a2z/issues/1281) |
-| 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
+| feat: Migrate email service from Nodemailer to Resend #1247 | Medium | [#1294](https://github.com/Code-A2Z/code-a2z/pull/1294) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
-| Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
@@ -174,6 +172,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chatbot icon is not restoring: ui/ux | Medium | [#280](https://github.com/BhaktiMore18/Pouranik/issues/280) |
+| Redirect the user to login page instead of showing alert | Medium | [#279](https://github.com/BhaktiMore18/Pouranik/issues/279) |
+| ui/ux | Medium | [#278](https://github.com/BhaktiMore18/Pouranik/issues/278) |
 | fixed the eye icons issue in lightmode | Medium | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
@@ -231,6 +232,8 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ui/ux fix in dark mode | Medium | [#173](https://github.com/chandannekya/Clean-Breath/issues/173) |
+| use token with cookies instead of localStorage | Medium | [#172](https://github.com/chandannekya/Clean-Breath/issues/172) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#171](https://github.com/chandannekya/Clean-Breath/issues/171) |
 | Add Newsletter Subscription Section to Footer | Medium | [#170](https://github.com/chandannekya/Clean-Breath/issues/170) |
 | 📄 Improve the README.md (Structure, Design, and Visual Enhancements) | Medium | [#169](https://github.com/chandannekya/Clean-Breath/issues/169) |
@@ -259,8 +262,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Implement an animated Pre-loader to all the pages | Medium | [#146](https://github.com/chandannekya/Clean-Breath/issues/146) |
 | Navigation bar items are not properly aligned | Medium | [#145](https://github.com/chandannekya/Clean-Breath/issues/145) |
 | Add Likes System for Blogs | Medium | [#144](https://github.com/chandannekya/Clean-Breath/issues/144) |
-| Implement comprehensive profile system with article tracking and authentication enhancements | Medium | [#143](https://github.com/chandannekya/Clean-Breath/pull/143) |
-| News letter | Medium | [#140](https://github.com/chandannekya/Clean-Breath/pull/140) |
 
 ---
 
@@ -399,6 +400,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: added forgot & reset pass pages | Medium | [#683](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/683) |
+| Add missing footer to Contact page for layout consistency | Medium | [#682](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/682) |
 | feat: added routes for forgot and reset pass | Medium | [#681](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/681) |
 | feat: added controllers for forgot and reset password | Medium | [#680](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/680) |
 | feat: added services for email and token | Medium | [#679](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/679) |
@@ -487,8 +490,10 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | Docs(readme): improve README with flowchart and clarity enhancements | Easy | [#608](https://github.com/NishantRana07/HrRoadways/issues/608) |
 | Add Pull Request (PR) Template | Easy | [#599](https://github.com/NishantRana07/HrRoadways/issues/599) |
+| 🐛 Bug Report: Incorrect Twitter (X) Icon Display in Contact Popup | Medium | [#614](https://github.com/NishantRana07/HrRoadways/issues/614) |
+| Enhanced Validation for Donate Form | Medium | [#613](https://github.com/NishantRana07/HrRoadways/pull/613) |
+| Add Advanced Validation for Review Submission Form | Medium | [#612](https://github.com/NishantRana07/HrRoadways/pull/612) |
 | Update index.html | Medium | [#611](https://github.com/NishantRana07/HrRoadways/pull/611) |
-| Add TravelLocations Component with API Fetch, Fallback Data & Bilingual Support | Medium | [#607](https://github.com/NishantRana07/HrRoadways/pull/607) |
 | Add Newsletter Subscription Section to Footer | Medium | [#606](https://github.com/NishantRana07/HrRoadways/pull/606) |
 | Add Contributors Section in README | Medium | [#605](https://github.com/NishantRana07/HrRoadways/pull/605) |
 | Fixed Home Section merging into Logo of App #593 | Medium | [#595](https://github.com/NishantRana07/HrRoadways/pull/595) |
@@ -777,6 +782,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve UI of Legal Page for Site-wide Consistency | Medium | [#321](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/321) |
 | Enhance quiz styling with improved colors and feedback | Medium | [#320](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/320) |
 | Issue: Inclusivity Enhancement – Open Platform for All LGBTQ+ | Medium | [#319](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/319) |
 | Solved MNOR UI/UX CHANGES - 2 #280 | Medium | [#317](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/317) |
@@ -954,6 +960,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| NavBar: Implement full-screen mobile navigation overlay | Medium | [#175](https://github.com/DevSyncx/DevSync/issues/175) |
+| Add clickable navigation to feature cards on homepage | Medium | [#174](https://github.com/DevSyncx/DevSync/pull/174) |
 | Fix: Enhance ScrollRevealWrapper with proper ref handling and variants | Medium | [#173](https://github.com/DevSyncx/DevSync/pull/173) |
 | Fix 75  Added AI assistant on the dashboard page | Medium | [#171](https://github.com/DevSyncx/DevSync/pull/171) |
 | Feat: Add GitHub Profile integration with frontend and backend | Medium | [#170](https://github.com/DevSyncx/DevSync/pull/170) |
@@ -1047,7 +1055,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feat: Redesign and Update Privacy Policy Page | Medium | [#222](https://github.com/dipexplorer/LegalHuB/pull/222) |
 | Integrate Google OAuth for User Authentication | Medium | [#185](https://github.com/dipexplorer/LegalHuB/pull/185) |
 | Appointment API Test Failures & Missing Configurations Bug🧪 | Hard | [#213](https://github.com/dipexplorer/LegalHuB/issues/213) |
 | Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
@@ -1146,7 +1153,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added calendar in todo list | Medium | [#97](https://github.com/lovelymahor/StudyMatePlus/pull/97) |
+| Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
+| Redesign of the Contact Us page | Medium | [#98](https://github.com/lovelymahor/StudyMatePlus/issues/98) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
@@ -1234,6 +1242,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a lower case checklist for sign-up | Medium | [#859](https://github.com/Premkolte/AnimateHub/issues/859) |
 | 🐞 [UI] About Page Layout & Dark Mode Inconsistencies | Medium | [#858](https://github.com/Premkolte/AnimateHub/issues/858) |
 | Add Newsletter Subscription Section to Footer | Medium | [#851](https://github.com/Premkolte/AnimateHub/issues/851) |
 | Responsive Preview for Mobile Devices | Medium | [#849](https://github.com/Premkolte/AnimateHub/issues/849) |
@@ -1358,11 +1367,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG: Clear Chat button not working properly — chat history not cleared | Medium | [#124](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/124) |
-| Update Hero Sec | Medium | [#123](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/123) |
-| added session persistence for chat using localStorage | Medium | [#119](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/119) |
+| Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
+| added session persistence for chat using local storage/Fixchat session management bugs/ | Medium | [#126](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/126) |
+| Update routes | Medium | [#125](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/125) |
 | Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
-| Added Documentation Page | Medium | [#112](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/112) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 
