@@ -1,25 +1,5 @@
 # 🚀 Projects using Bootstrap
 
-## 📌 Project: Canvas-Editor
-
-📝 **Description:** This is a simple beginner friendly web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
-
-🔗 [View Project](https://github.com/vishanurag/Canvas-Editor/)
-
-💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| 🧑‍💻: Add interactive Quick Actions modals with navigation links | Medium | [#1373](https://github.com/vishanurag/Canvas-Editor/issues/1373) |
-| Add keyboard shortcuts for canvas tools and actions | Medium | [#1372](https://github.com/vishanurag/Canvas-Editor/pull/1372) |
-| Support Quick Actions Buttons and Functionality | Medium | [#1371](https://github.com/vishanurag/Canvas-Editor/pull/1371) |
-
----
-
 ## 📌 Project: GrowCraft
 
 📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
@@ -38,18 +18,27 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| update readme project description | Medium | [#977](https://github.com/gyanshankar1708/GrowCraft/issues/977) |
-| Update new faq navbar | Medium | [#976](https://github.com/gyanshankar1708/GrowCraft/pull/976) |
-| Bug: Social Media Icons Not Visible for Last Question on FAQ Page | Medium | [#975](https://github.com/gyanshankar1708/GrowCraft/issues/975) |
-| Fix go to top button | Medium | [#967](https://github.com/gyanshankar1708/GrowCraft/pull/967) |
-| update contact navbar | Medium | [#916](https://github.com/gyanshankar1708/GrowCraft/pull/916) |
-| Regarding the gssoc Leaderboard | Medium | [#905](https://github.com/gyanshankar1708/GrowCraft/issues/905) |
-| Integrate fully functional dark mode in FAQ page with logo switch | Medium | [#903](https://github.com/gyanshankar1708/GrowCraft/pull/903) |
-| Consistent professional footer with dark mode support | Medium | [#897](https://github.com/gyanshankar1708/GrowCraft/pull/897) |
-| redesigned footer section | Medium | [#888](https://github.com/gyanshankar1708/GrowCraft/pull/888) |
-| 📦 [Bug Fix] Consistent navbar styling for contact page | Medium | [#884](https://github.com/gyanshankar1708/GrowCraft/pull/884) |
-| Styled navbar consistently in content writing page. | Medium | [#880](https://github.com/gyanshankar1708/GrowCraft/pull/880) |
-| Added styles and dark mode toggle to the social media page | Medium | [#872](https://github.com/gyanshankar1708/GrowCraft/pull/872) |
+| Unwanted Code on Content Writing Page | Medium | [#1052](https://github.com/gyanshankar1708/GrowCraft/issues/1052) |
+| Update  pages with consistent footer | Medium | [#1051](https://github.com/gyanshankar1708/GrowCraft/pull/1051) |
+| update faq page with dark mode | Medium | [#1050](https://github.com/gyanshankar1708/GrowCraft/pull/1050) |
+| Remove Duplicate Login Page and Update References | Medium | [#1031](https://github.com/gyanshankar1708/GrowCraft/pull/1031) |
+| Fix FAQ Page Header: Update Links, Remove Search Bar, and Improve Layout | Medium | [#1030](https://github.com/gyanshankar1708/GrowCraft/pull/1030) |
+| Fix FAQ Page Footer: Align Layout and Styling with Main Site | Medium | [#1029](https://github.com/gyanshankar1708/GrowCraft/pull/1029) |
+| Header Missing, Footer Logo Incorrect, and Blog Cards Misaligned on Blog Listing Page | Medium | [#1028](https://github.com/gyanshankar1708/GrowCraft/pull/1028) |
+| Fixed Footer Links Redirecting to Respective Pages in Learn More Page | Medium | [#1027](https://github.com/gyanshankar1708/GrowCraft/pull/1027) |
+| Styled navbar consistently on about us page. | Medium | [#1026](https://github.com/gyanshankar1708/GrowCraft/pull/1026) |
+| Updated Home section in dark-theme | Medium | [#1025](https://github.com/gyanshankar1708/GrowCraft/pull/1025) |
+| Added Dedicated Login and Signup Sections to Landing Page | Medium | [#1024](https://github.com/gyanshankar1708/GrowCraft/pull/1024) |
+| Fix About Us Cards, Go-To-Top Button, and Footer Logo Styling | Medium | [#1023](https://github.com/gyanshankar1708/GrowCraft/pull/1023) |
+| Add Masthead Page with Project Overview, Admins, Contributors, and Contact Info | Medium | [#1022](https://github.com/gyanshankar1708/GrowCraft/pull/1022) |
+| Add Dedicated Masthead Page for GrowCraft Project Details | Medium | [#1020](https://github.com/gyanshankar1708/GrowCraft/issues/1020) |
+| fix(cyber-analyst): "Get Free Security Audit" button CSS issue | Medium | [#1009](https://github.com/gyanshankar1708/GrowCraft/issues/1009) |
+| fix(cyber-analyst): Footer layout inconsistent with other pages | Medium | [#1008](https://github.com/gyanshankar1708/GrowCraft/issues/1008) |
+| fix(content-writing): Header links not working | Medium | [#1007](https://github.com/gyanshankar1708/GrowCraft/issues/1007) |
+| fix(content-writing): Footer layout inconsistent with other pages | Medium | [#1006](https://github.com/gyanshankar1708/GrowCraft/issues/1006) |
+| fix(content-writing): "View Our Work" button not working | Medium | [#1005](https://github.com/gyanshankar1708/GrowCraft/issues/1005) |
+| fix(content-writing): Redesign "Start Your Project" form for visibility | Medium | [#1004](https://github.com/gyanshankar1708/GrowCraft/issues/1004) |
+| design(test-server): Redesign UI for better readability and comfort | Medium | [#1003](https://github.com/gyanshankar1708/GrowCraft/issues/1003) |
 
 ---
 
@@ -88,24 +77,6 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
-
----
-
-## 📌 Project: sachiva
-
-📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
-
-🔗 [View Project](https://github.com/sachiva1/sachiva)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improper alignment of Book a Service button in navbar. | Medium | [#282](https://github.com/sachiva1/sachiva/issues/282) |
 
 ---
 
