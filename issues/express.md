@@ -46,6 +46,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add “Back to Top” Button for Improved Navigation | Medium | [#348](https://github.com/adityagarwal15/JobSync/issues/348) |
 | 🐛 : OTP Login Functionality is not working | Medium | [#347](https://github.com/adityagarwal15/JobSync/issues/347) |
 | Fix tagline alignment on homepage | Medium | [#345](https://github.com/adityagarwal15/JobSync/issues/345) |
 | Added GSSoc Banner in Readme | Medium | [#344](https://github.com/adityagarwal15/JobSync/pull/344) |
@@ -179,24 +180,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chatbot icon is not restoring: ui/ux | Medium | [#280](https://github.com/BhaktiMore18/Pouranik/issues/280) |
-| Redirect the user to login page instead of showing alert | Medium | [#279](https://github.com/BhaktiMore18/Pouranik/issues/279) |
-| ui/ux | Medium | [#278](https://github.com/BhaktiMore18/Pouranik/issues/278) |
 | fixed the eye icons issue in lightmode | Medium | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
 | Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#274](https://github.com/BhaktiMore18/Pouranik/pull/274) |
 | resolved invisible text issue | Medium | [#271](https://github.com/BhaktiMore18/Pouranik/pull/271) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#268](https://github.com/BhaktiMore18/Pouranik/issues/268) |
-| Footer Quick Link - Home redirect not working | Medium | [#266](https://github.com/BhaktiMore18/Pouranik/issues/266) |
 | Clicking footer links takes to the top of the page. | Medium | [#264](https://github.com/BhaktiMore18/Pouranik/pull/264) |
 | Fix/corrected genre spacing | Medium | [#261](https://github.com/BhaktiMore18/Pouranik/pull/261) |
 | Fix/corrected backtotop | Medium | [#260](https://github.com/BhaktiMore18/Pouranik/pull/260) |
 | added changes to the hamburger menu visibility | Medium | [#259](https://github.com/BhaktiMore18/Pouranik/pull/259) |
 | Div's color changed | Medium | [#252](https://github.com/BhaktiMore18/Pouranik/pull/252) |
 | Fixes #247: Added Blog Section | Medium | [#251](https://github.com/BhaktiMore18/Pouranik/pull/251) |
-| New login fix (Error Handling) | Medium | [#250](https://github.com/BhaktiMore18/Pouranik/pull/250) |
-| Fixed redirect to login | Medium | [#249](https://github.com/BhaktiMore18/Pouranik/pull/249) |
 
 ---
 
@@ -343,14 +338,14 @@ Schools, offices, and wellness centers looking to green their spaces
 | Error Handling Gaps | Easy | [#328](https://github.com/GauravKarakoti/Weather-API/issues/328) |
 | Incomplete Input Sanitization | Easy | [#327](https://github.com/GauravKarakoti/Weather-API/issues/327) |
 | Improve API Error Handling for Missing or Invalid API Key | Easy | [#280](https://github.com/GauravKarakoti/Weather-API/issues/280) |
+| 🎨 [Frontend Enhancement] Dynamic Background Gradients Based on Weather | Easy | [#229](https://github.com/GauravKarakoti/Weather-API/issues/229) |
+| Missing Health Check Endpoint | Easy | [#219](https://github.com/GauravKarakoti/Weather-API/issues/219) |
+| Accessibility Issues in Recent Searches | Easy | [#217](https://github.com/GauravKarakoti/Weather-API/issues/217) |
 | Add more weather details: wind speed/direction, UV index, pollen count | Medium | [#343](https://github.com/GauravKarakoti/Weather-API/pull/343) |
-| Refactored server.js into modular components for better readability and maintainability | Medium | [#342](https://github.com/GauravKarakoti/Weather-API/pull/342) |
 | Image/optimization | Medium | [#341](https://github.com/GauravKarakoti/Weather-API/pull/341) |
-| Add Voice Command Feature to Get Weather Updates | Medium | [#340](https://github.com/GauravKarakoti/Weather-API/issues/340) |
-| Enhance README with new sections and formatting | Medium | [#339](https://github.com/GauravKarakoti/Weather-API/pull/339) |
-| fix(security): enforce static JWT_SECRET and fail fast if missing | Medium | [#338](https://github.com/GauravKarakoti/Weather-API/pull/338) |
-| Implement Server-Side Caching | Medium | [#336](https://github.com/GauravKarakoti/Weather-API/issues/336) |
 | connect Weather route with OpenWeatherMap API | Medium | [#288](https://github.com/GauravKarakoti/Weather-API/pull/288) |
+| Implement Loading State and Graceful Error Handling | Medium | [#237](https://github.com/GauravKarakoti/Weather-API/issues/237) |
+| Add a Daily Weather Forecast Carousel | Medium | [#232](https://github.com/GauravKarakoti/Weather-API/issues/232) |
 | Feature Request: Implement Comprehensive API Documentation and Developer Portal | Hard | [#260](https://github.com/GauravKarakoti/Weather-API/issues/260) |
 | Feature Request: Implement Advanced Weather Data Processing and Analytics | Hard | [#259](https://github.com/GauravKarakoti/Weather-API/issues/259) |
 | Feature Request:- implement OAuth2 Authentication and Authorization System | Hard | [#258](https://github.com/GauravKarakoti/Weather-API/issues/258) |
@@ -432,21 +427,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: added forgot & reset pass pages | Medium | [#683](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/683) |
-| Add missing footer to Contact page for layout consistency | Medium | [#682](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/682) |
-| feat: added routes for forgot and reset pass | Medium | [#681](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/681) |
-| feat: added controllers for forgot and reset password | Medium | [#680](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/680) |
-| feat: added services for email and token | Medium | [#679](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/679) |
-| feat: added warning in authpage for password strength | Medium | [#678](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/678) |
-| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#677](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/677) |
-| Integrate Forgot/Reset Password Flow into Auth System | Medium | [#676](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/676) |
-| Create Forgot Password and Reset Password Pages (Frontend) | Medium | [#675](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/675) |
-| Implement Reset Password API Route | Medium | [#674](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/674) |
-| Implement Forgot Password API Route | Medium | [#673](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/673) |
-| Setup Email and Token Services for Password Reset | Medium | [#672](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/672) |
-| Bug: Password validation incorrectly applied on **Login** form | Medium | [#671](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/671) |
-| feat: Create Animated and Responsive Reset Password Page - #667 | Medium | [#670](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/670) |
-| Disable or simplify bubble effect on low-powered or mobile devices | Medium | [#669](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/669) |
+| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -580,6 +562,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Header layout | Medium | [#288](https://github.com/Prashanti-Hebbar/FoodIO/issues/288) |
 | UI color changes made for a fresh , appetizing and appealing look | Medium | [#287](https://github.com/Prashanti-Hebbar/FoodIO/pull/287) |
 | Update Header Based on User Login Status | Medium | [#265](https://github.com/Prashanti-Hebbar/FoodIO/issues/265) |
 | Enhancing the favorite, saved and share button actions. | Medium | [#264](https://github.com/Prashanti-Hebbar/FoodIO/issues/264) |
@@ -937,6 +920,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Security Issue Fixed: Strong Password Validation | Medium | [#256](https://github.com/openml-stack/SentiLog-AI/pull/256) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
 | Feature Request: Add Emoji Mood Selector in Journal Section | Medium | [#195](https://github.com/openml-stack/SentiLog-AI/issues/195) |
@@ -1031,7 +1015,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Add clickable navigation to feature cards on homepage | Medium | [#174](https://github.com/DevSyncx/DevSync/pull/174) |
 | Fix: Enhance ScrollRevealWrapper with proper ref handling and variants | Medium | [#173](https://github.com/DevSyncx/DevSync/pull/173) |
 | Fix 75  Added AI assistant on the dashboard page | Medium | [#171](https://github.com/DevSyncx/DevSync/pull/171) |
-| Feat: Add GitHub Profile integration with frontend and backend | Medium | [#170](https://github.com/DevSyncx/DevSync/pull/170) |
 | Improve Dark Mode UI/UX on Dashboard Page | Medium | [#165](https://github.com/DevSyncx/DevSync/issues/165) |
 | feat(navbar): Implement full-screen mobile navigation overlay | Medium | [#164](https://github.com/DevSyncx/DevSync/pull/164) |
 | added a deactivating feature | Medium | [#154](https://github.com/DevSyncx/DevSync/pull/154) |
@@ -1048,7 +1031,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Feedback page | Medium | [#105](https://github.com/DevSyncx/DevSync/issues/105) |
 | Added AI powered chatbot integration in DevSync | Medium | [#103](https://github.com/DevSyncx/DevSync/pull/103) |
 | Backbutton | Medium | [#102](https://github.com/DevSyncx/DevSync/pull/102) |
-| Design a Logo for DevSync | Medium | [#86](https://github.com/DevSyncx/DevSync/issues/86) |
+| Feature: CodeChef Profile Info Integration | Hard | [#96](https://github.com/DevSyncx/DevSync/issues/96) |
 
 ---
 
@@ -1167,11 +1150,22 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integrate Google OAuth for User Authentication | Medium | [#185](https://github.com/dipexplorer/LegalHuB/pull/185) |
+| Terms and Conditions Page Re-Design | Easy | [#232](https://github.com/dipexplorer/LegalHuB/issues/232) |
+| Privacy Policy Page Re-Design | Easy | [#231](https://github.com/dipexplorer/LegalHuB/issues/231) |
+| Add Back Button to individual Article Page for Easy Navigation | Easy | [#230](https://github.com/dipexplorer/LegalHuB/issues/230) |
+| Add a Contributor Welcome Banner Section | Easy | [#224](https://github.com/dipexplorer/LegalHuB/issues/224) |
+| Add “Go to Top” Button with Smooth Scroll and Animation | Medium | [#229](https://github.com/dipexplorer/LegalHuB/issues/229) |
+| Add “Fun Facts” / Closing Section for contributor page | Medium | [#228](https://github.com/dipexplorer/LegalHuB/issues/228) |
+| Enhance Login & Registration UI with Separate CSS | Medium | [#223](https://github.com/dipexplorer/LegalHuB/issues/223) |
+| Create Complete Security Page for User Accounts | Hard | [#234](https://github.com/dipexplorer/LegalHuB/issues/234) |
+| Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Hard | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
+| Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Hard | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
+| Add Project Statistics Section to contributor page | Hard | [#225](https://github.com/dipexplorer/LegalHuB/issues/225) |
 | Appointment API Test Failures & Missing Configurations Bug🧪 | Hard | [#213](https://github.com/dipexplorer/LegalHuB/issues/213) |
 | Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
 | Improve Lawyer Admin Dashboard Functionality | Hard | [#173](https://github.com/dipexplorer/LegalHuB/issues/173) |
 | Print functionality prints the entire webpage instead of only the appointment card | Hard | [#172](https://github.com/dipexplorer/LegalHuB/issues/172) |
+| Add Dedicated Admin Dashboard Navbar for Easy Access | Hard | [#170](https://github.com/dipexplorer/LegalHuB/issues/170) |
 
 ---
 
@@ -1342,6 +1336,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #48 resolved✨ Enhanced UI with floating particles, green backgrounds, and theme | Medium | [#50](https://github.com/prasoonk1204/BreatheEasy/pull/50) |
 | #48 issue has been resolved✨ by adding  new modern UI  and landing page | Medium | [#49](https://github.com/prasoonk1204/BreatheEasy/pull/49) |
 | Maintainer Needed to Update Contributors (README & Landing Page) | Medium | [#43](https://github.com/prasoonk1204/BreatheEasy/issues/43) |
 
@@ -1592,6 +1587,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improvement & Enhancement of the  "How It's Built & How You Can Contribute" section. | Easy | [#27](https://github.com/ThePlator/NPMChat/issues/27) |
+| AvatarUrl handling to correctly fetch the image url from payload | Medium | [#65](https://github.com/ThePlator/NPMChat/pull/65) |
 | Signup avatar isn’t persisted and does not store the Avatar image of the user | Medium | [#64](https://github.com/ThePlator/NPMChat/issues/64) |
 | Add Extended Profile Details | Medium | [#49](https://github.com/ThePlator/NPMChat/issues/49) |
 | Add CAPTCHA Verification to Signup/Login
@@ -1738,7 +1734,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Sidebar Icon Size Issue on Small Viewports | Medium | [#88](https://github.com/Vijayaa21/Blabber/pull/88) |
 | Add Google login with Firebase | Medium | [#87](https://github.com/Vijayaa21/Blabber/pull/87) |
 | Adding attractive homepage | Medium | [#86](https://github.com/Vijayaa21/Blabber/issues/86) |
 | Add Template for Pull Request | Medium | [#85](https://github.com/Vijayaa21/Blabber/issues/85) |
