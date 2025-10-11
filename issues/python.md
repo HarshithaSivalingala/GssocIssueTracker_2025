@@ -40,6 +40,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Footer background color inconsistent with overall website theme | Easy | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
+| Fix #62: Reduce YFinance API limit errors with batching, caching, ret… | Medium | [#225](https://github.com/SrigadaAkshayKumar/stock/pull/225) |
 | UI enhancement | Medium | [#224](https://github.com/SrigadaAkshayKumar/stock/issues/224) |
 | Updated Twitter icon | Medium | [#223](https://github.com/SrigadaAkshayKumar/stock/pull/223) |
 | Title Color | Medium | [#222](https://github.com/SrigadaAkshayKumar/stock/issues/222) |
@@ -226,11 +227,12 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
-| improvement: about-page project timeline section | Medium | [#2408](https://github.com/OWASP/Nest/pull/2408) |
+| fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
+| feat: Add archived badge for repositories (#2388) | Medium | [#2412](https://github.com/OWASP/Nest/pull/2412) |
+| Impove chapter/project leaders presentation | Medium | [#2411](https://github.com/OWASP/Nest/pull/2411) |
 | Response improvements and refactoring | Medium | [#2407](https://github.com/OWASP/Nest/pull/2407) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
-| Move entity channel admin to owasp app and fix its bug | Medium | [#2400](https://github.com/OWASP/Nest/pull/2400) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /backend/docker | Medium | [#2395](https://github.com/OWASP/Nest/pull/2395) |
@@ -241,6 +243,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
+| Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
 
@@ -266,6 +269,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added test cases | Medium | [#173](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/173) |
 | Refactor repeated header and profile menu into Jinja2 includes | Medium | [#172](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/172) |
 | Add client-side form validation for all user input forms | Medium | [#171](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/171) |
 | Add automated tests for backend API endpoints error handling | Medium | [#168](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/168) |
@@ -520,11 +524,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | sending user to login page after successful registraion. instead of this, bypass the login. for better UX. | Easy | [#240](https://github.com/Khushi-Nigam/jobportal/issues/240) |
-| Update index.html #236 | Medium | [#254](https://github.com/Khushi-Nigam/jobportal/pull/254) |
-| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#253](https://github.com/Khushi-Nigam/jobportal/pull/253) |
-| Add GSSoC Label and Level for Auto labels assignment | Medium | [#252](https://github.com/Khushi-Nigam/jobportal/pull/252) |
-| Issue 230 | Medium | [#251](https://github.com/Khushi-Nigam/jobportal/pull/251) |
-| Enhance job listings page: pagination, filters, search | Medium | [#250](https://github.com/Khushi-Nigam/jobportal/pull/250) |
+| Improve Chatbot and Update Homepage Logo | Medium | [#256](https://github.com/Khushi-Nigam/jobportal/pull/256) |
 | FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
 | Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
@@ -573,21 +573,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: added forgot & reset pass pages | Medium | [#683](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/683) |
-| Add missing footer to Contact page for layout consistency | Medium | [#682](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/682) |
-| feat: added routes for forgot and reset pass | Medium | [#681](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/681) |
-| feat: added controllers for forgot and reset password | Medium | [#680](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/680) |
-| feat: added services for email and token | Medium | [#679](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/679) |
-| feat: added warning in authpage for password strength | Medium | [#678](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/678) |
-| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#677](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/677) |
-| Integrate Forgot/Reset Password Flow into Auth System | Medium | [#676](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/676) |
-| Create Forgot Password and Reset Password Pages (Frontend) | Medium | [#675](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/675) |
-| Implement Reset Password API Route | Medium | [#674](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/674) |
-| Implement Forgot Password API Route | Medium | [#673](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/673) |
-| Setup Email and Token Services for Password Reset | Medium | [#672](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/672) |
-| Bug: Password validation incorrectly applied on **Login** form | Medium | [#671](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/671) |
-| feat: Create Animated and Responsive Reset Password Page - #667 | Medium | [#670](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/670) |
-| Disable or simplify bubble effect on low-powered or mobile devices | Medium | [#669](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/669) |
+| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -605,6 +592,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Hover Animations to Navbar Elements | Medium | [#409](https://github.com/omroy07/AgriTech/issues/409) |
+| updated getRandomFallback() | Medium | [#408](https://github.com/omroy07/AgriTech/pull/408) |
+| removed the repeated regexes from the dangerous_patterns list in sanitize_sql_input function | Medium | [#407](https://github.com/omroy07/AgriTech/pull/407) |
+| Text not visible in the AI assistant option | Medium | [#406](https://github.com/omroy07/AgriTech/issues/406) |
 | Navbar UI/UX Improvement Proposal | Medium | [#405](https://github.com/omroy07/AgriTech/issues/405) |
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
 | Missing navbar and footer in Blog page | Medium | [#391](https://github.com/omroy07/AgriTech/issues/391) |
@@ -756,13 +747,19 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Pull Request : MRF Stocks Visualization App | Medium | [#795](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/795) |
+| Add MRF Stocks Visualization App Project | Medium | [#794](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/794) |
+| Pull Request : ITC Stocks Visualization App | Medium | [#793](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/793) |
+| Add ITC Stocks Visualization App Project | Medium | [#792](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/792) |
+| Pull Request : Reinforcement Learning Trading System | Medium | [#791](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/791) |
+| Reinforcement Learning Trading System | Medium | [#790](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/790) |
+| feat: Added Snake Game Bot using Reinforcement learning | Medium | [#789](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/789) |
 | Added Diabetic Detection in Pregnant Women under Healthcare | Medium | [#788](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/788) |
 | vidya☺️ | Medium | [#787](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/787) |
 | EDA Notebook Submission for Review | Medium | [#786](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/786) |
 | Implemented CNN from scratch for Machine Leaning Techniques | Medium | [#785](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/785) |
 | SMS spam detector model | Medium | [#784](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/784) |
 | Smart Fertilizer Recommendation System using LLM | Medium | [#783](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/783) |
-| AI text summarizer | Medium | [#782](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/782) |
 | Add Real Estate Data Visualization App | Medium | [#776](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/776) |
 | Uniqlo Stocks Price Prediction | Medium | [#766](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/766) |
 | Add Time Series Analysis Project | Medium | [#764](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/764) |
@@ -775,7 +772,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add SMS spam detector model | Medium | [#724](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/724) |
 | Crude Oil Price Prediction using Machine Learning | Medium | [#722](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/722) |
 | Add Credit Risk Prediction Project | Medium | [#720](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/720) |
-| AIDice Master | Medium | [#466](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/466) |
 
 ---
 
@@ -908,16 +904,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 | UI/UX Enhancement Proposal for TalkHeal — Minimal, Calming, and Modern Design | Medium | [#428](https://github.com/eccentriccoder01/TalkHeal/issues/428) |
 |  | Medium | [#426](https://github.com/eccentriccoder01/TalkHeal/issues/426) |
 |  | Medium | [#424](https://github.com/eccentriccoder01/TalkHeal/issues/424) |
-| Feature: Journaling Prompts | Medium | [#423](https://github.com/eccentriccoder01/TalkHeal/issues/423) |
-| Enhance Sentiment Analysis Using NLTK Vader for More Accurate Mood Detection | Medium | [#422](https://github.com/eccentriccoder01/TalkHeal/issues/422) |
-| Feat: Add Search Functionality to Journaling Page | Medium | [#421](https://github.com/eccentriccoder01/TalkHeal/issues/421) |
-| Feat: Add Tagging/Categorization to Journaling Page | Medium | [#420](https://github.com/eccentriccoder01/TalkHeal/issues/420) |
-| Feat: Add Export Functionality to Journaling Page | Medium | [#419](https://github.com/eccentriccoder01/TalkHeal/issues/419) |
-| Feat: Add Mood Trend Visualization to Journaling Page | Medium | [#418](https://github.com/eccentriccoder01/TalkHeal/issues/418) |
-| Feat: Add Delete Functionality to Journaling Page | Medium | [#417](https://github.com/eccentriccoder01/TalkHeal/issues/417) |
-| Feat: Add Edit Functionality to Journaling Page | Medium | [#416](https://github.com/eccentriccoder01/TalkHeal/issues/416) |
-| Feat: Enhance UI/UX for Wearables Page | Medium | [#415](https://github.com/eccentriccoder01/TalkHeal/issues/415) |
 | Blog Page Not Loading (FileNotFoundError) | Medium | [#413](https://github.com/eccentriccoder01/TalkHeal/issues/413) |
+| Regarding Leaderboard | Medium | [#389](https://github.com/eccentriccoder01/TalkHeal/issues/389) |
+| UI/UX & Design Issues | Medium | [#376](https://github.com/eccentriccoder01/TalkHeal/issues/376) |
+| Improve text visibility and maintain consistent color scheme on pages | Medium | [#361](https://github.com/eccentriccoder01/TalkHeal/issues/361) |
+| Color of the About Page | Medium | [#322](https://github.com/eccentriccoder01/TalkHeal/issues/322) |
+|  | Medium | [#321](https://github.com/eccentriccoder01/TalkHeal/issues/321) |
 
 ---
 
@@ -1098,6 +1090,25 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
+## 📌 Project: Security Screening System 
+
+📝 **Description:** A real-time security screening system, using face recognition with OpenCV. The system aims to scan individuals via a webcam at check-points (e.g., hotels, airports). If a person’s face matches an entry in the system’s dataset of known threats, runaway criminals or wanted individuals, the system triggers a threat alarm and sends an email alert to authorities immediately. Otherwise, a safe alarm is triggered, allowing them to proceed. The project aims to reduce manual intervention and automate security surveillance systems by enabling quick identification of flagged individuals. 
+
+🔗 [View Project](https://github.com/SomdattaNag/Security-Screening-System)
+
+💻 **Tech Stack:** Python, OpenCV, Face Recognition, SMTPLib, Winsound
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Improve error handling for missing dependencies | Medium | [#136](https://github.com/SomdattaNag/Security-Screening-System/pull/136) |
+| Add unit tests for core modules (face encoding, notifications, accessory detection) | Medium | [#135](https://github.com/SomdattaNag/Security-Screening-System/pull/135) |
+
+---
+
 ## 📌 Project: Dataverse
 
 📝 **Description:** A versatile Open-Source Software (OSS) that allows organizing, analyzing and visualizing data, leveraging ML algorithms for predictive analysis. Supporting all data visualisation techniques on one platform, accessible on both desktop and mobile.
@@ -1259,14 +1270,13 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
 | added auth through google | Medium | [#189](https://github.com/aayushraj1010/med-genie/pull/189) |
-| Add forgot/reset password functionality | Medium | [#185](https://github.com/aayushraj1010/med-genie/pull/185) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
 | Add a "Scroll to top" button | Medium | [#165](https://github.com/aayushraj1010/med-genie/issues/165) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
-| Fix: add favicon | Medium | [#143](https://github.com/aayushraj1010/med-genie/pull/143) |
 | Missing Environment Variable Security and Configuration Management | Hard | [#149](https://github.com/aayushraj1010/med-genie/pull/149) |
 
 ---
@@ -1656,6 +1666,24 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
+## 📌 Project: online voting system
+
+📝 **Description:** Online voting systems aim to provide a convenient, accessible, and secure platform for conducting elections digitally. They offer a potential alternative to traditional paper ballot or Electronic Voting Machine (EVM) based elections.
+
+🔗 [View Project](https://github.com/madegowda11/online-voting-system)
+
+💻 **Tech Stack:** Python, Flask, HTML, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add AES encryption of vote data | Medium | [#26](https://github.com/madegowda11/online-voting-system/issues/26) |
+
+---
+
 ## 📌 Project: To do list
 
 📝 **Description:** The To-Do List Application is a simple Python-based project that helps users manage their daily tasks efficiently. Users can add new tasks, view the list of pending tasks, mark tasks as completed, and delete tasks they no longer need.
@@ -1905,9 +1933,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Server typo error & Disable re-render of header and footer | Medium | [#128](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/128) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | added session persistence for chat using local storage/Fixchat session management bugs/ | Medium | [#126](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/126) |
-| Update routes | Medium | [#125](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/125) |
 | Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
