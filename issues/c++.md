@@ -63,7 +63,6 @@
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(build): Add a Central ``build.py`` Orchestrator for CinderPeak. | Easy | [#84](https://github.com/SharonIV0x86/CinderPeak/issues/84) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
-| feat: Implement vertex existence check in AdjacencyList | Medium | [#125](https://github.com/SharonIV0x86/CinderPeak/pull/125) |
 
 ---
 
