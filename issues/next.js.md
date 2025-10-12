@@ -164,10 +164,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
 | feat: Add archived badge for repositories (#2388) | Medium | [#2412](https://github.com/OWASP/Nest/pull/2412) |
 | Impove chapter/project leaders presentation | Medium | [#2411](https://github.com/OWASP/Nest/pull/2411) |
-| Response improvements and refactoring | Medium | [#2407](https://github.com/OWASP/Nest/pull/2407) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
@@ -198,7 +198,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding make healthier feature | Medium | [#408](https://github.com/Ayushjhawar8/Flavor-ai/pull/408) |
+| Adding make healthier feature | Easy | [#408](https://github.com/Ayushjhawar8/Flavor-ai/pull/408) |
+| UI Correct BackButton layout on mobile for specific pages | Medium | [#412](https://github.com/Ayushjhawar8/Flavor-ai/issues/412) |
 
 ---
 
@@ -242,7 +243,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix compilation errors | Medium | [#92](https://github.com/Dipanita45/HEALCONNECT/pull/92) |
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
@@ -440,6 +440,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Slides feature | Medium | [#122](https://github.com/Er-luffy-D/SimplifAI/pull/122) |
 | random password generator, flowchart summarizer | Medium | [#119](https://github.com/Er-luffy-D/SimplifAI/pull/119) |
 | feat: added DOCX file support with mammoth parser | Medium | [#115](https://github.com/Er-luffy-D/SimplifAI/pull/115) |
 | Flowcharts and strong password generator | Medium | [#114](https://github.com/Er-luffy-D/SimplifAI/issues/114) |
@@ -544,6 +545,30 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: recode-website
+
+📝 **Description:** community blog website 
+
+🔗 [View Project](https://github.com/recodehive/recode-website)
+
+💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fixed multiple hyperlinks in FAQ section under the question " What all resources are available here?"  and added an index.md file for the Technical folder | Easy | [#894](https://github.com/recodehive/recode-website/pull/894) |
+| Fixing Tabs redirection issue in interview prep for three tabs in practice tab | Easy | [#893](https://github.com/recodehive/recode-website/pull/893) |
+| Move GitHub token server-side & add ETag conditional caching to reduce API calls | Easy | [#892](https://github.com/recodehive/recode-website/pull/892) |
+| Move GitHub token server-side & add ETag conditional caching to reduce API calls | Easy | [#891](https://github.com/recodehive/recode-website/issues/891) |
+| [Feature]: Add proper git commiting system | Easy | [#890](https://github.com/recodehive/recode-website/issues/890) |
+| Fixes PR-887: Capitalization issue in homepage hero text ("recode hive" → "Recode Hive") | Easy | [#888](https://github.com/recodehive/recode-website/issues/888) |
+| Changes from PR #856 seem to be lost after commit a5f4851 | Easy | [#886](https://github.com/recodehive/recode-website/issues/886) |
+
+---
+
 ## 📌 Project: DSAMate
 
 📝 **Description:** DSAMate is a platform that helps students practice in a structured way to clear OA, stay consistent and practice regularly. 
@@ -559,7 +584,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| Add Hindi localization support for README | Medium | [#426](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/426) |
+| Table of Contents Missing in README.md | Medium | [#428](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/428) |
 | fix: improve testimonial prompt visibility in light mode | Medium | [#425](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/425) |
 | Add self-made DSAMate logo #4 | Medium | [#422](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/422) |
 | updated revision checkbox ui | Medium | [#421](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/421) |
@@ -804,6 +829,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed: Footer Section UI | Medium | [#93](https://github.com/LarytheLord/Adventurers-Guild/pull/93) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 
@@ -823,6 +849,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
 | Fix/issue 171 | Medium | [#286](https://github.com/AditiGupta-tech/neonest/pull/286) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
 | Added google Oauth frontend | Medium | [#278](https://github.com/AditiGupta-tech/neonest/pull/278) |
@@ -1186,7 +1213,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Server typo error & Disable re-render of header and footer | Medium | [#128](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/128) |
+| FEATURE: Revamp Hero Section for Better Clarity and User Engagement | Medium | [#129](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/129) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | added session persistence for chat using local storage/Fixchat session management bugs/ | Medium | [#126](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/126) |
 | Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
@@ -1387,7 +1414,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| /docs/mainsections/about | Medium | [#95](https://github.com/subhadeeproy3902/mvpblocks/issues/95) |
+| Fix incomplete documentation for About Us 2 component on /docs/mainsections/about page | Medium | [#96](https://github.com/subhadeeproy3902/mvpblocks/pull/96) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
