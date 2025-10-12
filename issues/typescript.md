@@ -43,6 +43,32 @@
 
 ---
 
+## 📌 Project: DevElevate
+
+📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
+Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
+An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
+Personalized dashboards for learners, including progress tracking, daily planners, and goals.
+A tech feed offering real-time internship updates, hackathon events, and developer news.
+Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
+Role-based authentication for users and admins, with profile management and admin dashboard.
+Integrated coding practice links (GFG, LeetCode, HackerRank).
+Accessibility features like dark mode,white.
+
+🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
+
+💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix: Filter Tab Not Functioning in User Management Section | Medium | [#586](https://github.com/abhisek2004/Dev-Elevate/issues/586) |
+
+---
+
 ## 📌 Project: OWASP Nest
 
 📝 **Description:** Your gateway to OWASP
@@ -58,10 +84,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
 | feat: Add archived badge for repositories (#2388) | Medium | [#2412](https://github.com/OWASP/Nest/pull/2412) |
 | Impove chapter/project leaders presentation | Medium | [#2411](https://github.com/OWASP/Nest/pull/2411) |
-| Response improvements and refactoring | Medium | [#2407](https://github.com/OWASP/Nest/pull/2407) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
@@ -252,7 +278,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Resolved the conflicts in CONTRIBUTING.md file. | Medium | [#28](https://github.com/byteom/Interview01/pull/28) |
+| Added CONTRIBUTING.md file | Medium | [#28](https://github.com/byteom/Interview01/pull/28) |
 | 17: Implement functional search bar on homepage | Medium | [#26](https://github.com/byteom/Interview01/pull/26) |
 | Add a Navbar for Easy Section Access: | Medium | [#24](https://github.com/byteom/Interview01/issues/24) |
 | Enhance Stats & Testimonials with Engaging Animations | Medium | [#23](https://github.com/byteom/Interview01/issues/23) |
@@ -438,27 +464,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: RigCraft
-
-📝 **Description:** Build your dream gaming PC with our interactive component selector. Choose compatible parts, optimize your budget, and craft the perfect rig.
-
-🔗 [View Project](https://github.com/SamXop123/RigCrafter)
-
-💻 **Tech Stack:** TypeScript, HTML, CSS, JavaScript, Express.js, Node.js, React
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Feature/New Components added | Medium | [#107](https://github.com/SamXop123/RigCrafter/pull/107) |
-| feat: Implement modern dark gradient background with geometric detail… | Medium | [#106](https://github.com/SamXop123/RigCrafter/pull/106) |
-| Build Guides & Tutorials page with significant improvements. | Medium | [#104](https://github.com/SamXop123/RigCrafter/pull/104) |
-| added footer and header to reviews | Medium | [#103](https://github.com/SamXop123/RigCrafter/pull/103) |
-
----
-
 ## 📌 Project: CodeStreak
 
 📝 **Description:** CodeStreak is a productivity and motivation tool designed for coders who want to keep up with the daily problem solving or project goals Whether you are preaparing for coding interviews  buding person projects or improving your skills oneineat a time  Codestte allows you to stay on track and maintain your momentum.
@@ -548,24 +553,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| bug[UI] : Error fixed up | Medium | [#226](https://github.com/SurajSG23/PrepBuddy/pull/226) |
-
----
-
 ## 📌 Project: Legalease
 
 📝 **Description:** A platform built for people to get legal advice on, you can directly track your cases, converse with a AI-legal chat bot and find real life lawyers, working on the issues.
@@ -619,6 +606,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed: Footer Section UI | Medium | [#93](https://github.com/LarytheLord/Adventurers-Guild/pull/93) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 
@@ -680,6 +668,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| some non-functional improvements | Medium | [#208](https://github.com/deskree-inc/blok/pull/208) |
 | Update README badge links | Medium | [#204](https://github.com/deskree-inc/blok/pull/204) |
 | There is no link in the license | Medium | [#202](https://github.com/deskree-inc/blok/issues/202) |
 | Footer-UI Enhancement | Medium | [#201](https://github.com/deskree-inc/blok/issues/201) |
@@ -699,7 +688,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Implement Metrics Collection in Python3 Runtime (Prometheus Export) | Medium | [#133](https://github.com/deskree-inc/blok/pull/133) |
 | Added a  dedicated section on creating workflows | Medium | [#131](https://github.com/deskree-inc/blok/pull/131) |
 | Add Configurable Observability Backend to nanoservice-ts (Prometheus/InfluxDB) | Medium | [#126](https://github.com/deskree-inc/blok/issues/126) |
-| Bump fastify from 5.2.2 to 5.3.2 | Medium | [#119](https://github.com/deskree-inc/blok/pull/119) |
 
 ---
 
@@ -1259,7 +1247,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| /docs/mainsections/about | Medium | [#95](https://github.com/subhadeeproy3902/mvpblocks/issues/95) |
+| Fix incomplete documentation for About Us 2 component on /docs/mainsections/about page | Medium | [#96](https://github.com/subhadeeproy3902/mvpblocks/pull/96) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
