@@ -43,6 +43,9 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
+| Enhance File Upload Security with Virus Scanning | Medium | [#1298](https://github.com/Code-A2Z/code-a2z/issues/1298) |
+| Feat: Add postman collection | Medium | [#1297](https://github.com/Code-A2Z/code-a2z/pull/1297) |
+| Add postman collection | Medium | [#1296](https://github.com/Code-A2Z/code-a2z/issues/1296) |
 | feat: Migrate email service from Nodemailer to Resend #1247 | Medium | [#1294](https://github.com/Code-A2Z/code-a2z/pull/1294) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
@@ -50,9 +53,6 @@
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
-| 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
-| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
-| 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
 
 ---
 
@@ -311,24 +311,6 @@
 
 ---
 
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| bug[UI] : Error fixed up | Medium | [#226](https://github.com/SurajSG23/PrepBuddy/pull/226) |
-
----
-
 ## 📌 Project: Athletix
 
 📝 **Description:** Athletix is a Flutter, Firebase and Gemini API based platform for athlete management in India, offering performance tracking, injury management, AI recovery, and real-time messaging. Future upgrades include dashboards, finance and AI career planning
@@ -526,6 +508,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Flowchart | Medium | [#100](https://github.com/lovelymahor/StudyMatePlus/pull/100) |
 | Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
 | Redesign of the Contact Us page | Medium | [#98](https://github.com/lovelymahor/StudyMatePlus/issues/98) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
@@ -600,7 +583,6 @@
 | Enhance Theme Colors & Improve UX for Better Visual Consistency | Medium | [#202](https://github.com/shandilya-rajnandini/DocAtHome/pull/202) |
 | feat: Add autocomplete search filters for Specialty and City | Medium | [#200](https://github.com/shandilya-rajnandini/DocAtHome/pull/200) |
 | Migrate from Context API to a Zustand Store | Medium | [#147](https://github.com/shandilya-rajnandini/DocAtHome/pull/147) |
-| bug(deploy): Resolve production CORS error and make live site functional | Hard | [#241](https://github.com/shandilya-rajnandini/DocAtHome/issues/241) |
 
 ---
 
