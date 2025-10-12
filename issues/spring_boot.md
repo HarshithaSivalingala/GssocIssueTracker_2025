@@ -48,6 +48,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| owner now can purchase subscriptions for shop & products | Medium | [#483](https://github.com/yuvrajsinghgmx/ShopSmart/pull/483) |
+| Updated Customer profile screen and designed Edit profile screen | Medium | [#482](https://github.com/yuvrajsinghgmx/ShopSmart/pull/482) |
 | Edit Customer Profile Screen | Medium | [#468](https://github.com/yuvrajsinghgmx/ShopSmart/issues/468) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
@@ -132,11 +134,14 @@
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
+| changes in events section | Medium | [#693](https://github.com/SandeepVashishtha/Eventra/issues/693) |
+| search bar in hackathon section and minor issues | Medium | [#692](https://github.com/SandeepVashishtha/Eventra/issues/692) |
+| Fix Share Icon Overlapping Content on Cards | Medium | [#690](https://github.com/SandeepVashishtha/Eventra/issues/690) |
+| Fix Bubble Background on FAQs Page Hero Section | Medium | [#689](https://github.com/SandeepVashishtha/Eventra/issues/689) |
+| fully Fix Dark Mode for Contribution Guide Page | Medium | [#688](https://github.com/SandeepVashishtha/Eventra/issues/688) |
+| Redesign Eventra for GSSoC 2025 Participation | Medium | [#687](https://github.com/SandeepVashishtha/Eventra/issues/687) |
 | image styling issues | Medium | [#556](https://github.com/SandeepVashishtha/Eventra/issues/556) |
 | Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
-| Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
-| Enhance dropdown styling to match website theme | Medium | [#255](https://github.com/SandeepVashishtha/Eventra/issues/255) |
-| Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
 
