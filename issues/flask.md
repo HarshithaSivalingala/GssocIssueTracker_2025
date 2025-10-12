@@ -85,6 +85,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create CONTRIBUTORS.md | Medium | [#56](https://github.com/indra7777/frostiq/pull/56) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#55](https://github.com/indra7777/frostiq/issues/55) |
 | Enhancement: Implement CRUD Operations,pricing , description , etc | Medium | [#54](https://github.com/indra7777/frostiq/pull/54) |
 | Initialize the Project with a Clear Folder Structure and Base Files | Medium | [#53](https://github.com/indra7777/frostiq/issues/53) |
@@ -186,8 +187,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Designing register page. | Medium | [#688](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/688) |
+| Added Infinite Horizontal Scroll Animation to “Meet the Team” Section | Medium | [#687](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/687) |
+| feat: integrated forget/regret pass | Medium | [#686](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/686) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -205,6 +208,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add “Favorite” Option for Blog Pages | Medium | [#410](https://github.com/omroy07/AgriTech/issues/410) |
 | Add Hover Animations to Navbar Elements | Medium | [#409](https://github.com/omroy07/AgriTech/issues/409) |
 | updated getRandomFallback() | Medium | [#408](https://github.com/omroy07/AgriTech/pull/408) |
 | removed the repeated regexes from the dangerous_patterns list in sanitize_sql_input function | Medium | [#407](https://github.com/omroy07/AgriTech/pull/407) |
@@ -434,7 +438,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Server typo error & Disable re-render of header and footer | Medium | [#128](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/128) |
+| FEATURE: Revamp Hero Section for Better Clarity and User Engagement | Medium | [#129](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/129) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | added session persistence for chat using local storage/Fixchat session management bugs/ | Medium | [#126](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/126) |
 | Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
