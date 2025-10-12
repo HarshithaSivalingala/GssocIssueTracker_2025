@@ -18,27 +18,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Unwanted Code on Content Writing Page | Medium | [#1052](https://github.com/gyanshankar1708/GrowCraft/issues/1052) |
+| Updated README to include GSSoC 2025 and Hacktoberfest 2025 banners. | Medium | [#1077](https://github.com/gyanshankar1708/GrowCraft/pull/1077) |
+| feat: Added password strength meter to auth form | Medium | [#1066](https://github.com/gyanshankar1708/GrowCraft/pull/1066) |
+| Add Back To Top in Our Worrk | Medium | [#1064](https://github.com/gyanshankar1708/GrowCraft/pull/1064) |
+| Made a Similar Back To Top Button | Medium | [#1063](https://github.com/gyanshankar1708/GrowCraft/pull/1063) |
+| fix footer section duplicacy and fix dark theme in home page | Medium | [#1061](https://github.com/gyanshankar1708/GrowCraft/pull/1061) |
+| GSSoC'25 Contribution: Improved Footer Section with UI Enhancements | Medium | [#1059](https://github.com/gyanshankar1708/GrowCraft/pull/1059) |
+| Fixed 404 error and a css property | Medium | [#1053](https://github.com/gyanshankar1708/GrowCraft/pull/1053) |
 | Update  pages with consistent footer | Medium | [#1051](https://github.com/gyanshankar1708/GrowCraft/pull/1051) |
 | update faq page with dark mode | Medium | [#1050](https://github.com/gyanshankar1708/GrowCraft/pull/1050) |
-| Remove Duplicate Login Page and Update References | Medium | [#1031](https://github.com/gyanshankar1708/GrowCraft/pull/1031) |
-| Fix FAQ Page Header: Update Links, Remove Search Bar, and Improve Layout | Medium | [#1030](https://github.com/gyanshankar1708/GrowCraft/pull/1030) |
-| Fix FAQ Page Footer: Align Layout and Styling with Main Site | Medium | [#1029](https://github.com/gyanshankar1708/GrowCraft/pull/1029) |
 | Header Missing, Footer Logo Incorrect, and Blog Cards Misaligned on Blog Listing Page | Medium | [#1028](https://github.com/gyanshankar1708/GrowCraft/pull/1028) |
 | Fixed Footer Links Redirecting to Respective Pages in Learn More Page | Medium | [#1027](https://github.com/gyanshankar1708/GrowCraft/pull/1027) |
 | Styled navbar consistently on about us page. | Medium | [#1026](https://github.com/gyanshankar1708/GrowCraft/pull/1026) |
-| Updated Home section in dark-theme | Medium | [#1025](https://github.com/gyanshankar1708/GrowCraft/pull/1025) |
 | Added Dedicated Login and Signup Sections to Landing Page | Medium | [#1024](https://github.com/gyanshankar1708/GrowCraft/pull/1024) |
-| Fix About Us Cards, Go-To-Top Button, and Footer Logo Styling | Medium | [#1023](https://github.com/gyanshankar1708/GrowCraft/pull/1023) |
-| Add Masthead Page with Project Overview, Admins, Contributors, and Contact Info | Medium | [#1022](https://github.com/gyanshankar1708/GrowCraft/pull/1022) |
-| Add Dedicated Masthead Page for GrowCraft Project Details | Medium | [#1020](https://github.com/gyanshankar1708/GrowCraft/issues/1020) |
-| fix(cyber-analyst): "Get Free Security Audit" button CSS issue | Medium | [#1009](https://github.com/gyanshankar1708/GrowCraft/issues/1009) |
-| fix(cyber-analyst): Footer layout inconsistent with other pages | Medium | [#1008](https://github.com/gyanshankar1708/GrowCraft/issues/1008) |
-| fix(content-writing): Header links not working | Medium | [#1007](https://github.com/gyanshankar1708/GrowCraft/issues/1007) |
-| fix(content-writing): Footer layout inconsistent with other pages | Medium | [#1006](https://github.com/gyanshankar1708/GrowCraft/issues/1006) |
-| fix(content-writing): "View Our Work" button not working | Medium | [#1005](https://github.com/gyanshankar1708/GrowCraft/issues/1005) |
-| fix(content-writing): Redesign "Start Your Project" form for visibility | Medium | [#1004](https://github.com/gyanshankar1708/GrowCraft/issues/1004) |
-| design(test-server): Redesign UI for better readability and comfort | Medium | [#1003](https://github.com/gyanshankar1708/GrowCraft/issues/1003) |
 
 ---
 
@@ -77,6 +69,27 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
+
+---
+
+## 📌 Project: sachiva
+
+📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
+
+🔗 [View Project](https://github.com/sachiva1/sachiva)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Scroll-to-Top Button | Medium | [#286](https://github.com/sachiva1/sachiva/issues/286) |
+| AI-Powered FAQ Chatbot | Medium | [#285](https://github.com/sachiva1/sachiva/issues/285) |
+| add dark mode toggle for better user experience | Medium | [#284](https://github.com/sachiva1/sachiva/issues/284) |
+| add login or signup page for better security purpose | Medium | [#283](https://github.com/sachiva1/sachiva/issues/283) |
 
 ---
 
