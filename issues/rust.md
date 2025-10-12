@@ -17,8 +17,6 @@
 | Add GitHub Actions CI for macOS & Linux | Easy | [#47](https://github.com/0xsambit/winix/issues/47) |
 | Create macOS Homebrew Formula | Easy | [#46](https://github.com/0xsambit/winix/issues/46) |
 | Create more commands from the Linux core library | Easy | [#9](https://github.com/0xsambit/winix/issues/9) |
-| Setting up cp commad and fixing issue in mkdir | Medium | [#70](https://github.com/0xsambit/winix/issues/70) |
-| Implemented cp command. Changes to mkdir,tree. | Medium | [#69](https://github.com/0xsambit/winix/pull/69) |
 | Create a FEATURE.md | Medium | [#58](https://github.com/0xsambit/winix/issues/58) |
 
 ---
