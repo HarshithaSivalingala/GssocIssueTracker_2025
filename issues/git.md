@@ -115,6 +115,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create CONTRIBUTORS.md | Medium | [#56](https://github.com/indra7777/frostiq/pull/56) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#55](https://github.com/indra7777/frostiq/issues/55) |
 | Enhancement: Implement CRUD Operations,pricing , description , etc | Medium | [#54](https://github.com/indra7777/frostiq/pull/54) |
 | Initialize the Project with a Clear Folder Structure and Base Files | Medium | [#53](https://github.com/indra7777/frostiq/issues/53) |
@@ -270,6 +271,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
 | Fix/issue 171 | Medium | [#286](https://github.com/AditiGupta-tech/neonest/pull/286) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
 | Added google Oauth frontend | Medium | [#278](https://github.com/AditiGupta-tech/neonest/pull/278) |
@@ -427,18 +429,15 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Terms and Conditions Page Re-Design | Easy | [#232](https://github.com/dipexplorer/LegalHuB/issues/232) |
-| Privacy Policy Page Re-Design | Easy | [#231](https://github.com/dipexplorer/LegalHuB/issues/231) |
-| Add Back Button to individual Article Page for Easy Navigation | Easy | [#230](https://github.com/dipexplorer/LegalHuB/issues/230) |
+| Enhance Navbar Hover Animation (Fixes #221) | Easy | [#235](https://github.com/dipexplorer/LegalHuB/pull/235) |
 | Add a Contributor Welcome Banner Section | Easy | [#224](https://github.com/dipexplorer/LegalHuB/issues/224) |
-| Add “Go to Top” Button with Smooth Scroll and Animation | Medium | [#229](https://github.com/dipexplorer/LegalHuB/issues/229) |
 | Add “Fun Facts” / Closing Section for contributor page | Medium | [#228](https://github.com/dipexplorer/LegalHuB/issues/228) |
 | Enhance Login & Registration UI with Separate CSS | Medium | [#223](https://github.com/dipexplorer/LegalHuB/issues/223) |
-| Create Complete Security Page for User Accounts | Hard | [#234](https://github.com/dipexplorer/LegalHuB/issues/234) |
 | Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Hard | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
 | Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Hard | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
 | Add Project Statistics Section to contributor page | Hard | [#225](https://github.com/dipexplorer/LegalHuB/issues/225) |
 | Appointment API Test Failures & Missing Configurations Bug🧪 | Hard | [#213](https://github.com/dipexplorer/LegalHuB/issues/213) |
+| Improve "Set New Password" Page for Better Usability & Consistency | Hard | [#211](https://github.com/dipexplorer/LegalHuB/issues/211) |
 | Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
 | Improve Lawyer Admin Dashboard Functionality | Hard | [#173](https://github.com/dipexplorer/LegalHuB/issues/173) |
 | Print functionality prints the entire webpage instead of only the appointment card | Hard | [#172](https://github.com/dipexplorer/LegalHuB/issues/172) |
@@ -509,6 +508,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Flowchart | Medium | [#100](https://github.com/lovelymahor/StudyMatePlus/pull/100) |
 | Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
 | Redesign of the Contact Us page | Medium | [#98](https://github.com/lovelymahor/StudyMatePlus/issues/98) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
@@ -598,11 +598,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
+| changes in events section | Medium | [#693](https://github.com/SandeepVashishtha/Eventra/issues/693) |
+| search bar in hackathon section and minor issues | Medium | [#692](https://github.com/SandeepVashishtha/Eventra/issues/692) |
+| Fix Share Icon Overlapping Content on Cards | Medium | [#690](https://github.com/SandeepVashishtha/Eventra/issues/690) |
+| Fix Bubble Background on FAQs Page Hero Section | Medium | [#689](https://github.com/SandeepVashishtha/Eventra/issues/689) |
+| fully Fix Dark Mode for Contribution Guide Page | Medium | [#688](https://github.com/SandeepVashishtha/Eventra/issues/688) |
+| Redesign Eventra for GSSoC 2025 Participation | Medium | [#687](https://github.com/SandeepVashishtha/Eventra/issues/687) |
 | image styling issues | Medium | [#556](https://github.com/SandeepVashishtha/Eventra/issues/556) |
 | Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
-| Enhance "Project Statistics" Section UI | Medium | [#316](https://github.com/SandeepVashishtha/Eventra/issues/316) |
-| Enhance dropdown styling to match website theme | Medium | [#255](https://github.com/SandeepVashishtha/Eventra/issues/255) |
-| Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
 
