@@ -124,6 +124,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: improved the file's structure, user engagement, and maintainability | Medium | [#133](https://github.com/amitkumardemo/EdgeCareer/pull/133) |
 | Make Header fully responsive across all devices | Medium | [#132](https://github.com/amitkumardemo/EdgeCareer/pull/132) |
 | AI-powered job recommendations | Medium | [#131](https://github.com/amitkumardemo/EdgeCareer/issues/131) |
 | Make Navbar Fully Responsive Across All Mobile Devices | Medium | [#130](https://github.com/amitkumardemo/EdgeCareer/issues/130) |
@@ -145,7 +146,6 @@
 | HeroSection hydration mismatch and deterministic floating elements | Medium | [#105](https://github.com/amitkumardemo/EdgeCareer/pull/105) |
 | PDF download fails with "Unknown source type" error | Medium | [#104](https://github.com/amitkumardemo/EdgeCareer/issues/104) |
 | Bug: In website start your journey button not visible | Medium | [#103](https://github.com/amitkumardemo/EdgeCareer/issues/103) |
-| Fix Beautifull Layout for Career Features on Smaller Screens and make it responsive | Medium | [#102](https://github.com/amitkumardemo/EdgeCareer/issues/102) |
 
 ---
 
@@ -164,10 +164,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
 | feat: Add archived badge for repositories (#2388) | Medium | [#2412](https://github.com/OWASP/Nest/pull/2412) |
-| Impove chapter/project leaders presentation | Medium | [#2411](https://github.com/OWASP/Nest/pull/2411) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
@@ -199,7 +199,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding make healthier feature | Easy | [#408](https://github.com/Ayushjhawar8/Flavor-ai/pull/408) |
-| UI Correct BackButton layout on mobile for specific pages | Medium | [#412](https://github.com/Ayushjhawar8/Flavor-ai/issues/412) |
+| #421: Fix tooltip alignment and dark mode styling | Medium | [#425](https://github.com/Ayushjhawar8/Flavor-ai/pull/425) |
 
 ---
 
@@ -559,13 +559,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed multiple hyperlinks in FAQ section under the question " What all resources are available here?"  and added an index.md file for the Technical folder | Easy | [#894](https://github.com/recodehive/recode-website/pull/894) |
-| Fixing Tabs redirection issue in interview prep for three tabs in practice tab | Easy | [#893](https://github.com/recodehive/recode-website/pull/893) |
-| Move GitHub token server-side & add ETag conditional caching to reduce API calls | Easy | [#892](https://github.com/recodehive/recode-website/pull/892) |
-| Move GitHub token server-side & add ETag conditional caching to reduce API calls | Easy | [#891](https://github.com/recodehive/recode-website/issues/891) |
-| [Feature]: Add proper git commiting system | Easy | [#890](https://github.com/recodehive/recode-website/issues/890) |
-| Fixes PR-887: Capitalization issue in homepage hero text ("recode hive" → "Recode Hive") | Easy | [#888](https://github.com/recodehive/recode-website/issues/888) |
-| Changes from PR #856 seem to be lost after commit a5f4851 | Easy | [#886](https://github.com/recodehive/recode-website/issues/886) |
+| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
 
@@ -584,6 +578,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
+| Adding backend for HackerEarth ("Track You're CP") | Medium | [#433](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/433) |
+| Flashcard text overlapping | Medium | [#432](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/432) |
+| Added breadcrumbs on all website pages using tailwindCSS | Medium | [#430](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/430) |
+| Improved visibility of Terms of Service and Privacy Policy button | Medium | [#429](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/429) |
 | Table of Contents Missing in README.md | Medium | [#428](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/428) |
 | fix: improve testimonial prompt visibility in light mode | Medium | [#425](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/425) |
 | Add self-made DSAMate logo #4 | Medium | [#422](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/422) |
@@ -665,6 +663,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Contact Page with EmailJS integration | Medium | [#42](https://github.com/singodiyashubham87/bodhika/pull/42) |
 | Add Computer Networks to Learning Roadmaps | Medium | [#41](https://github.com/singodiyashubham87/bodhika/issues/41) |
 | modified workflows from workflow | Medium | [#39](https://github.com/singodiyashubham87/bodhika/pull/39) |
 | Implement Dark/Light Mode Toggle | Medium | [#37](https://github.com/singodiyashubham87/bodhika/issues/37) |
@@ -849,6 +848,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix task input text visibility (GSSoC Level 1) - Issue #287 | Medium | [#289](https://github.com/AditiGupta-tech/neonest/pull/289) |
 | Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
 | Fix/issue 171 | Medium | [#286](https://github.com/AditiGupta-tech/neonest/pull/286) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
@@ -1091,8 +1091,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| major UI improvements, structural updates, and deployment fixes. | Medium | [#41](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/41) |
 | Button functionalities added | Medium | [#40](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/40) |
-| UI enhancements and performance improvements | Medium | [#39](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/39) |
 | Make the UI of products  details page with proper UI and grid and add more futuristic look with landing page | Medium | [#38](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/38) |
 | Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Medium | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
 
@@ -1158,27 +1158,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
-## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
-
-📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
-
-🔗 [View Project](https://github.com/Promptzy/Zenjira)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI, Material UI, Redux Toolkit, React Query, Node.js, Express, Django, DRF, REST, GraphQL, Apollo, Atlassian OAuth2, JWT, BullMQ, Celery, Redis, PostgreSQL, OpenAI GPT4, LangChain, Hugging Face Transformers, n8n, Jira REST API, GitHub, GitLab, Bitbucket, Slack, Microsoft Teams, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes, EKS, GKE, Docker Swarm, Nginx, Traefik, Prometheus, Grafana, Sentry, ELK Stack, Jest, PyTest, Cypress, Playwright, Figma, Notion, Confluence, Swagger, OpenAPI, Mixpanel, Google Analytics
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
-| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
-| Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
-
----
-
 ## 📌 Project: AuraHire.ai
 
 📝 **Description:** A smart platform that helps users track job applications, improve their resumes with AI-powered analysis, and discover or post job opportunities  all in one place. It simplifies job hunting with actionable insights, real-time tracking, and intelligent resume feedback.
@@ -1213,9 +1192,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Revamp Hero Section for Better Clarity and User Engagement | Medium | [#129](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/129) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
-| added session persistence for chat using local storage/Fixchat session management bugs/ | Medium | [#126](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/126) |
 | Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
@@ -1414,7 +1391,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix incomplete documentation for About Us 2 component on /docs/mainsections/about page | Medium | [#96](https://github.com/subhadeeproy3902/mvpblocks/pull/96) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
