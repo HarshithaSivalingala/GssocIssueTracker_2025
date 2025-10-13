@@ -61,6 +61,8 @@
 |----------|----------------|---------|
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
+| Add CI for autocomment on PR / ISSUES | Medium | [#128](https://github.com/SharonIV0x86/CinderPeak/issues/128) |
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#127](https://github.com/SharonIV0x86/CinderPeak/issues/127) |
 
 ---
 
