@@ -227,10 +227,10 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
 | feat: Add archived badge for repositories (#2388) | Medium | [#2412](https://github.com/OWASP/Nest/pull/2412) |
-| Impove chapter/project leaders presentation | Medium | [#2411](https://github.com/OWASP/Nest/pull/2411) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
@@ -269,6 +269,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed duplicate route function names | Medium | [#174](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/174) |
 | Added test cases | Medium | [#173](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/173) |
 | Refactor repeated header and profile menu into Jinja2 includes | Medium | [#172](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/172) |
 | Add client-side form validation for all user input forms | Medium | [#171](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/171) |
@@ -524,8 +525,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| sending user to login page after successful registraion. instead of this, bypass the login. for better UX. | Easy | [#240](https://github.com/Khushi-Nigam/jobportal/issues/240) |
-| fix(ui): disable hero image tilt on hover and adjust "Right Job" underline | Medium | [#259](https://github.com/Khushi-Nigam/jobportal/pull/259) |
 | Fixes - UI/UX of Hero Banner | Medium | [#258](https://github.com/Khushi-Nigam/jobportal/pull/258) |
 | FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
@@ -596,25 +595,23 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add “Favorite” Option for Blog Pages | Medium | [#410](https://github.com/omroy07/AgriTech/issues/410) |
-| Add Hover Animations to Navbar Elements | Medium | [#409](https://github.com/omroy07/AgriTech/issues/409) |
-| updated getRandomFallback() | Medium | [#408](https://github.com/omroy07/AgriTech/pull/408) |
-| removed the repeated regexes from the dangerous_patterns list in sanitize_sql_input function | Medium | [#407](https://github.com/omroy07/AgriTech/pull/407) |
-| Text not visible in the AI assistant option | Medium | [#406](https://github.com/omroy07/AgriTech/issues/406) |
-| Navbar UI/UX Improvement Proposal | Medium | [#405](https://github.com/omroy07/AgriTech/issues/405) |
+| Fix: Added favorite option to Blog pages | Medium | [#421](https://github.com/omroy07/AgriTech/pull/421) |
+| Add Third Page to Technology category in Blog Tab | Medium | [#420](https://github.com/omroy07/AgriTech/issues/420) |
+| feat(navbar): add hover animations and transitions (#409) | Medium | [#419](https://github.com/omroy07/AgriTech/pull/419) |
+| Add "Forgot Password" link on Sign In page | Medium | [#418](https://github.com/omroy07/AgriTech/issues/418) |
+| Add Social Media Links to Footer | Medium | [#417](https://github.com/omroy07/AgriTech/issues/417) |
+| Add Contributors Section in README | Medium | [#416](https://github.com/omroy07/AgriTech/issues/416) |
+| Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
+| Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
+| Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#412](https://github.com/omroy07/AgriTech/issues/412) |
+| fixed issue:Text not visible in the AI assistant option | Medium | [#411](https://github.com/omroy07/AgriTech/pull/411) |
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
-| Missing navbar and footer in Blog page | Medium | [#391](https://github.com/omroy07/AgriTech/issues/391) |
-| Inconsistent footer styling in about us page | Medium | [#390](https://github.com/omroy07/AgriTech/issues/390) |
-| Theme icons must be the opposite in contact page | Medium | [#389](https://github.com/omroy07/AgriTech/issues/389) |
 | solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
 | Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
-| Add Background Visuals to Landing Page | Medium | [#352](https://github.com/omroy07/AgriTech/issues/352) |
-| Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
-| Fixed Chat text visble or Edittext ui | Medium | [#346](https://github.com/omroy07/AgriTech/pull/346) |
-| Organise folder structure | Medium | [#331](https://github.com/omroy07/AgriTech/issues/331) |
 
 ---
 
@@ -752,6 +749,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add AI Text Summarizer | Medium | [#797](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/797) |
 | Add Interactive Chatbot for DataSentience-AIML Project Info | Medium | [#796](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/796) |
 | Pull Request : MRF Stocks Visualization App | Medium | [#795](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/795) |
 | Add MRF Stocks Visualization App Project | Medium | [#794](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/794) |
@@ -897,15 +895,15 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI/UX Enhancement Proposal for TalkHeal — Minimal, Calming, and Modern Design | Medium | [#428](https://github.com/eccentriccoder01/TalkHeal/issues/428) |
-|  | Medium | [#426](https://github.com/eccentriccoder01/TalkHeal/issues/426) |
-|  | Medium | [#424](https://github.com/eccentriccoder01/TalkHeal/issues/424) |
-| Color of the About Page | Medium | [#322](https://github.com/eccentriccoder01/TalkHeal/issues/322) |
-| 1.Creative Outlets & Hobbies
-Art, music, writing, gardening, or any hobby .These activities give our mind a break, reduce stress, and bring joy without pressure. So we can make a group where people can share them freely so that they can also connect with more people and these will help them to socialize 
-
-2 .Digital Well-being:
-Too much social media can silently hurt your confidence and peace of mind. Try mindful scrolling, set digital detox hours, or create “tech-free zones” at home. Small steps, big impact. | Medium | [#285](https://github.com/eccentriccoder01/TalkHeal/issues/285) |
+| Polish UI/UX for Quick Wellness Self-Check | Medium | [#487](https://github.com/eccentriccoder01/TalkHeal/issues/487) |
+| Enhance Data Visualization and Insights in Quick Self-Check | Medium | [#486](https://github.com/eccentriccoder01/TalkHeal/issues/486) |
+| Add 'Notes' Section to Quick Wellness Self-Check for Context | Medium | [#485](https://github.com/eccentriccoder01/TalkHeal/issues/485) |
+| Expand Scope of Quick Wellness Self-Check | Medium | [#484](https://github.com/eccentriccoder01/TalkHeal/issues/484) |
+| Implement Dynamic and Varied Wellness Tips in Quick Self-Check | Medium | [#483](https://github.com/eccentriccoder01/TalkHeal/issues/483) |
+| Decouple Feedback Logic in Quick Wellness Self-Check for More Comprehensive Advice | Medium | [#482](https://github.com/eccentriccoder01/TalkHeal/issues/482) |
+| Add a Dedicated Home Page for TalkHeal | Medium | [#480](https://github.com/eccentriccoder01/TalkHeal/issues/480) |
+| Add Password Strength Meter with Real-time Feedback and NIST Guidelines Enforcement | Medium | [#463](https://github.com/eccentriccoder01/TalkHeal/issues/463) |
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#462](https://github.com/eccentriccoder01/TalkHeal/issues/462) |
 
 ---
 
@@ -1148,6 +1146,9 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🧑‍💻: Advanced Genetic Algorithm for Knapsack Problem | Medium | [#1812](https://github.com/UTSAVS26/PyVerse/issues/1812) |
+| 🧑‍💻: Improve AI Study Assistant with Context-Aware Quiz and Adaptive Flashcards | Medium | [#1811](https://github.com/UTSAVS26/PyVerse/issues/1811) |
+| 🧑‍💻: Modularize Code, Add CSV Export & Outlier Visualization for Environmental Data Analysis | Medium | [#1810](https://github.com/UTSAVS26/PyVerse/issues/1810) |
 | Request to Add Mood Support App under Web_Development | Medium | [#1809](https://github.com/UTSAVS26/PyVerse/issues/1809) |
 | Project Proposal: Streamlytics | Medium | [#1807](https://github.com/UTSAVS26/PyVerse/issues/1807) |
 | Adding  Image Resizer Project | Medium | [#1804](https://github.com/UTSAVS26/PyVerse/pull/1804) |
@@ -1248,6 +1249,10 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| fix: Enhance Footer UI | Medium | [#195](https://github.com/aayushraj1010/med-genie/pull/195) |
+| no back button or home button | Medium | [#194](https://github.com/aayushraj1010/med-genie/issues/194) |
+| Page seems broken and in consistent | Medium | [#193](https://github.com/aayushraj1010/med-genie/issues/193) |
+| light theme not consistent acorss the page | Medium | [#192](https://github.com/aayushraj1010/med-genie/issues/192) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
 | added auth through google | Medium | [#189](https://github.com/aayushraj1010/med-genie/pull/189) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
@@ -1810,6 +1815,8 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#52](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/52) |
+| Add CI for autocomment on PR / ISSUES | Medium | [#51](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/51) |
 | Dynamic Crop-Based Yield Map on Streamlit | Medium | [#50](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/50) |
 | Add Geo-Based Visualizations for Yield Data in EDA Notebook - Fixes #24 | Medium | [#47](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/47) |
 | FEATURE ENGINEERING | Medium | [#16](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/16) |
@@ -1911,9 +1918,7 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Revamp Hero Section for Better Clarity and User Engagement | Medium | [#129](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/129) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
-| added session persistence for chat using local storage/Fixchat session management bugs/ | Medium | [#126](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/126) |
 | Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
