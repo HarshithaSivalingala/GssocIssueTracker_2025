@@ -18,19 +18,32 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated README to include GSSoC 2025 and Hacktoberfest 2025 banners. | Medium | [#1077](https://github.com/gyanshankar1708/GrowCraft/pull/1077) |
-| feat: Added password strength meter to auth form | Medium | [#1066](https://github.com/gyanshankar1708/GrowCraft/pull/1066) |
-| Add Back To Top in Our Worrk | Medium | [#1064](https://github.com/gyanshankar1708/GrowCraft/pull/1064) |
-| Made a Similar Back To Top Button | Medium | [#1063](https://github.com/gyanshankar1708/GrowCraft/pull/1063) |
-| fix footer section duplicacy and fix dark theme in home page | Medium | [#1061](https://github.com/gyanshankar1708/GrowCraft/pull/1061) |
-| GSSoC'25 Contribution: Improved Footer Section with UI Enhancements | Medium | [#1059](https://github.com/gyanshankar1708/GrowCraft/pull/1059) |
-| Fixed 404 error and a css property | Medium | [#1053](https://github.com/gyanshankar1708/GrowCraft/pull/1053) |
-| Update  pages with consistent footer | Medium | [#1051](https://github.com/gyanshankar1708/GrowCraft/pull/1051) |
-| update faq page with dark mode | Medium | [#1050](https://github.com/gyanshankar1708/GrowCraft/pull/1050) |
-| Header Missing, Footer Logo Incorrect, and Blog Cards Misaligned on Blog Listing Page | Medium | [#1028](https://github.com/gyanshankar1708/GrowCraft/pull/1028) |
-| Fixed Footer Links Redirecting to Respective Pages in Learn More Page | Medium | [#1027](https://github.com/gyanshankar1708/GrowCraft/pull/1027) |
-| Styled navbar consistently on about us page. | Medium | [#1026](https://github.com/gyanshankar1708/GrowCraft/pull/1026) |
-| Added Dedicated Login and Signup Sections to Landing Page | Medium | [#1024](https://github.com/gyanshankar1708/GrowCraft/pull/1024) |
+| Update folder structure in readme.md | Easy | [#1114](https://github.com/gyanshankar1708/GrowCraft/issues/1114) |
+| BUG: Dark Mode is not working on Home page | Medium | [#1125](https://github.com/gyanshankar1708/GrowCraft/issues/1125) |
+| BUG: Dark theme toggle is missing in Contact page | Medium | [#1124](https://github.com/gyanshankar1708/GrowCraft/issues/1124) |
+| BUG: About Page footer issue some content not visible properly icons issue | Medium | [#1123](https://github.com/gyanshankar1708/GrowCraft/issues/1123) |
+| BUG: Unconsistent footer visible in dark of Home Page | Medium | [#1122](https://github.com/gyanshankar1708/GrowCraft/issues/1122) |
+| BUG: Unwanted content on bottom and missing footer on contact page | Medium | [#1121](https://github.com/gyanshankar1708/GrowCraft/issues/1121) |
+| BUG: Double Content of Navbar issue on  About Page | Medium | [#1120](https://github.com/gyanshankar1708/GrowCraft/issues/1120) |
+| Enhance Chatbot UI & Accessibility Improvements | Medium | [#1119](https://github.com/gyanshankar1708/GrowCraft/pull/1119) |
+| Updated services link and added new services page. | Medium | [#1118](https://github.com/gyanshankar1708/GrowCraft/pull/1118) |
+| nav bar inconsistency | Medium | [#1117](https://github.com/gyanshankar1708/GrowCraft/issues/1117) |
+| Add Contributor Details Button to Our Work Page | Medium | [#1116](https://github.com/gyanshankar1708/GrowCraft/issues/1116) |
+| Hacktoberfest Not Acknowledged in README | Medium | [#1115](https://github.com/gyanshankar1708/GrowCraft/issues/1115) |
+| Bug Report: Missing Footer on Contact Us Page | Medium | [#1113](https://github.com/gyanshankar1708/GrowCraft/issues/1113) |
+| Missing "Back to top" in Contact us page | Medium | [#1112](https://github.com/gyanshankar1708/GrowCraft/issues/1112) |
+| The Privacy, terms and sitemap button in the footer is not working in Blogs section | Medium | [#1111](https://github.com/gyanshankar1708/GrowCraft/issues/1111) |
+| The Privacy, terms and sitemap button in the footer is not working in About us section | Medium | [#1110](https://github.com/gyanshankar1708/GrowCraft/issues/1110) |
+| The Privacy, terms and sitemap button is not working on FAQ Page | Medium | [#1109](https://github.com/gyanshankar1708/GrowCraft/issues/1109) |
+| Privacy, terms and sitemap button not working on Cyber Analyst Page | Medium | [#1108](https://github.com/gyanshankar1708/GrowCraft/issues/1108) |
+| Missing "Back to Top" Button on Cyber Analyst Page | Medium | [#1107](https://github.com/gyanshankar1708/GrowCraft/issues/1107) |
+| Change footer of Cyber Analyst Page | Medium | [#1106](https://github.com/gyanshankar1708/GrowCraft/issues/1106) |
+| double footer in about us section | Medium | [#1086](https://github.com/gyanshankar1708/GrowCraft/issues/1086) |
+| Fixing Bug in about page | Medium | [#1083](https://github.com/gyanshankar1708/GrowCraft/issues/1083) |
+| Add GSAP Count-Up Animation to Quick Stats Section in footer of faq page | Medium | [#1082](https://github.com/gyanshankar1708/GrowCraft/issues/1082) |
+| Improve Social Media Portfolio Page (Better Content & Layout) | Medium | [#1081](https://github.com/gyanshankar1708/GrowCraft/issues/1081) |
+| Improve Digital Marketing Portfolio Page (Better Content & Layout) | Medium | [#1080](https://github.com/gyanshankar1708/GrowCraft/issues/1080) |
+| Improve Cyber Analyst Portfolio Page (Better Content & Layout) | Medium | [#1079](https://github.com/gyanshankar1708/GrowCraft/issues/1079) |
 
 ---
 
