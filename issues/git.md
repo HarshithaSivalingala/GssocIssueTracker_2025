@@ -80,6 +80,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added dark mode button and logic, along with the ui changes | Medium | [#119](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/119) |
 | Bug : No Teacher found error on sudstitution page in admin account | Medium | [#118](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/118) |
 | Add option for teachers to send assignments to multiple classes | Medium | [#117](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/117) |
 | feat: Forgot-Password | Medium | [#116](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/116) |
@@ -97,7 +98,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | UI Enhancements: Interactive Landing Page, Footer Redesign & GitHub Popup | Medium | [#92](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/92) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
 | Enhance footer with centered sections, aligned icons, custom hover ef… | Medium | [#70](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/70) |
-| Feature/testimonials | Medium | [#69](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/69) |
 
 ---
 
@@ -157,6 +157,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| feat(ui): Implement Light, Dark, System, and High-Contrast Themes | Medium | [#684](https://github.com/alienx5499/SortVision/pull/684) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
 | Add "Step-by-Step Mode" for Sorting Visualizations | Medium | [#655](https://github.com/alienx5499/SortVision/issues/655) |
@@ -246,6 +247,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| fix: Enhance Footer UI | Medium | [#195](https://github.com/aayushraj1010/med-genie/pull/195) |
+| no back button or home button | Medium | [#194](https://github.com/aayushraj1010/med-genie/issues/194) |
+| Page seems broken and in consistent | Medium | [#193](https://github.com/aayushraj1010/med-genie/issues/193) |
+| light theme not consistent acorss the page | Medium | [#192](https://github.com/aayushraj1010/med-genie/issues/192) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
 | added auth through google | Medium | [#189](https://github.com/aayushraj1010/med-genie/pull/189) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
@@ -271,6 +276,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix task input text visibility (GSSoC Level 1) - Issue #287 | Medium | [#289](https://github.com/AditiGupta-tech/neonest/pull/289) |
 | Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
 | Fix/issue 171 | Medium | [#286](https://github.com/AditiGupta-tech/neonest/pull/286) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
@@ -429,19 +435,16 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(security): Create a security page for user accounts. | Easy | [#237](https://github.com/dipexplorer/LegalHuB/pull/237) |
 | Enhance Navbar Hover Animation (Fixes #221) | Easy | [#235](https://github.com/dipexplorer/LegalHuB/pull/235) |
-| Add a Contributor Welcome Banner Section | Easy | [#224](https://github.com/dipexplorer/LegalHuB/issues/224) |
 | Add “Fun Facts” / Closing Section for contributor page | Medium | [#228](https://github.com/dipexplorer/LegalHuB/issues/228) |
 | Enhance Login & Registration UI with Separate CSS | Medium | [#223](https://github.com/dipexplorer/LegalHuB/issues/223) |
 | Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Hard | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
-| Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Hard | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
 | Add Project Statistics Section to contributor page | Hard | [#225](https://github.com/dipexplorer/LegalHuB/issues/225) |
 | Appointment API Test Failures & Missing Configurations Bug🧪 | Hard | [#213](https://github.com/dipexplorer/LegalHuB/issues/213) |
 | Improve "Set New Password" Page for Better Usability & Consistency | Hard | [#211](https://github.com/dipexplorer/LegalHuB/issues/211) |
+| Invalid/Existing Email Address Allows Sign-Up Instead of Throwing Error | Hard | [#194](https://github.com/dipexplorer/LegalHuB/issues/194) |
 | Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
-| Improve Lawyer Admin Dashboard Functionality | Hard | [#173](https://github.com/dipexplorer/LegalHuB/issues/173) |
-| Print functionality prints the entire webpage instead of only the appointment card | Hard | [#172](https://github.com/dipexplorer/LegalHuB/issues/172) |
-| Add Dedicated Admin Dashboard Navbar for Easy Access | Hard | [#170](https://github.com/dipexplorer/LegalHuB/issues/170) |
 
 ---
 
@@ -508,7 +511,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Flowchart | Medium | [#100](https://github.com/lovelymahor/StudyMatePlus/pull/100) |
+| improved SEO and accessibility and rectified deployment issue | Medium | [#103](https://github.com/lovelymahor/StudyMatePlus/pull/103) |
+| Text in the boxes in "About us" page is not visible in darktheme | Medium | [#102](https://github.com/lovelymahor/StudyMatePlus/issues/102) |
+| UI/UX Improvement | Medium | [#101](https://github.com/lovelymahor/StudyMatePlus/issues/101) |
 | Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
 | Redesign of the Contact Us page | Medium | [#98](https://github.com/lovelymahor/StudyMatePlus/issues/98) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
@@ -517,27 +522,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
-
----
-
-## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
-
-📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
-
-🔗 [View Project](https://github.com/Promptzy/Zenjira)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI, Material UI, Redux Toolkit, React Query, Node.js, Express, Django, DRF, REST, GraphQL, Apollo, Atlassian OAuth2, JWT, BullMQ, Celery, Redis, PostgreSQL, OpenAI GPT4, LangChain, Hugging Face Transformers, n8n, Jira REST API, GitHub, GitLab, Bitbucket, Slack, Microsoft Teams, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes, EKS, GKE, Docker Swarm, Nginx, Traefik, Prometheus, Grafana, Sentry, ELK Stack, Jest, PyTest, Cypress, Playwright, Figma, Notion, Confluence, Swagger, OpenAPI, Mixpanel, Google Analytics
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Bug: Hydration issues in landing page | Easy | [#109](https://github.com/Axelvyn/Nexara/issues/109) |
-| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Axelvyn/Nexara/issues/56) |
-| Enhancement: Include Detailed Contribution Guidelines in README | Medium | [#113](https://github.com/Axelvyn/Nexara/issues/113) |
-| Added cypress setup files | Medium | [#95](https://github.com/Axelvyn/Nexara/pull/95) |
 
 ---
 
@@ -594,18 +578,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🤖 Auto-unassignment Summary - Thu Oct 09 2025 | Easy | [#660](https://github.com/SandeepVashishtha/Eventra/issues/660) |
-| Password Validator Missing & Eye Toggle Affecting Both Fields on Signup Page | Easy | [#649](https://github.com/SandeepVashishtha/Eventra/issues/649) |
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
-| changes in events section | Medium | [#693](https://github.com/SandeepVashishtha/Eventra/issues/693) |
-| search bar in hackathon section and minor issues | Medium | [#692](https://github.com/SandeepVashishtha/Eventra/issues/692) |
-| Fix Share Icon Overlapping Content on Cards | Medium | [#690](https://github.com/SandeepVashishtha/Eventra/issues/690) |
-| Fix Bubble Background on FAQs Page Hero Section | Medium | [#689](https://github.com/SandeepVashishtha/Eventra/issues/689) |
-| fully Fix Dark Mode for Contribution Guide Page | Medium | [#688](https://github.com/SandeepVashishtha/Eventra/issues/688) |
-| Redesign Eventra for GSSoC 2025 Participation | Medium | [#687](https://github.com/SandeepVashishtha/Eventra/issues/687) |
+| Add Success Toast Notification on Login | Medium | [#705](https://github.com/SandeepVashishtha/Eventra/issues/705) |
+| Improve Input Field Text Visibility in Dark Mode on the sign-up and login page | Medium | [#704](https://github.com/SandeepVashishtha/Eventra/issues/704) |
 | image styling issues | Medium | [#556](https://github.com/SandeepVashishtha/Eventra/issues/556) |
-| Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
 
 ---
 
