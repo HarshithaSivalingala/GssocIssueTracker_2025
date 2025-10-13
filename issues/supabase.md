@@ -198,8 +198,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding video generator in the AI tools | Medium | [#48](https://github.com/Jyotibrat/AI-Flow/issues/48) |
-| Download and minimize image in the image generator AI tool | Medium | [#47](https://github.com/Jyotibrat/AI-Flow/issues/47) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
