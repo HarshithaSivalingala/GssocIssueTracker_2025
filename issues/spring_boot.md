@@ -130,18 +130,12 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🤖 Auto-unassignment Summary - Thu Oct 09 2025 | Easy | [#660](https://github.com/SandeepVashishtha/Eventra/issues/660) |
-| Password Validator Missing & Eye Toggle Affecting Both Fields on Signup Page | Easy | [#649](https://github.com/SandeepVashishtha/Eventra/issues/649) |
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
-| changes in events section | Medium | [#693](https://github.com/SandeepVashishtha/Eventra/issues/693) |
-| search bar in hackathon section and minor issues | Medium | [#692](https://github.com/SandeepVashishtha/Eventra/issues/692) |
-| Fix Share Icon Overlapping Content on Cards | Medium | [#690](https://github.com/SandeepVashishtha/Eventra/issues/690) |
-| Fix Bubble Background on FAQs Page Hero Section | Medium | [#689](https://github.com/SandeepVashishtha/Eventra/issues/689) |
-| fully Fix Dark Mode for Contribution Guide Page | Medium | [#688](https://github.com/SandeepVashishtha/Eventra/issues/688) |
-| Redesign Eventra for GSSoC 2025 Participation | Medium | [#687](https://github.com/SandeepVashishtha/Eventra/issues/687) |
+| Add Success Toast Notification on Login | Medium | [#705](https://github.com/SandeepVashishtha/Eventra/issues/705) |
+| Improve Input Field Text Visibility in Dark Mode on the sign-up and login page | Medium | [#704](https://github.com/SandeepVashishtha/Eventra/issues/704) |
 | image styling issues | Medium | [#556](https://github.com/SandeepVashishtha/Eventra/issues/556) |
-| Enhancement: Improve design of Feedback Type dropdown for better UI/UX | Medium | [#332](https://github.com/SandeepVashishtha/Eventra/issues/332) |
 
 ---
 
