@@ -86,7 +86,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 45 updates | Medium | [#358](https://github.com/Muneerali199/DocMagic/pull/358) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 46 updates | Medium | [#360](https://github.com/Muneerali199/DocMagic/pull/360) |
 | Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
@@ -198,6 +198,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add a demo vid in readme | Medium | [#50](https://github.com/Jyotibrat/AI-Flow/issues/50) |
+| enhance coc | Medium | [#49](https://github.com/Jyotibrat/AI-Flow/issues/49) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
