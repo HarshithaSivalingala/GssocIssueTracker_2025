@@ -86,6 +86,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #19 improved main.py for production level | Medium | [#59](https://github.com/indra7777/frostiq/pull/59) |
+| #16 added vercel.json file | Medium | [#58](https://github.com/indra7777/frostiq/pull/58) |
+| #1 added project overview, instructiona and contributions guidelines | Medium | [#57](https://github.com/indra7777/frostiq/pull/57) |
 | Create CONTRIBUTORS.md | Medium | [#56](https://github.com/indra7777/frostiq/pull/56) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#55](https://github.com/indra7777/frostiq/issues/55) |
 | Enhancement: Implement CRUD Operations,pricing , description , etc | Medium | [#54](https://github.com/indra7777/frostiq/pull/54) |
@@ -160,8 +163,10 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix invoice PDF generation and download issue (#32) | Medium | [#130](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/130) |
+| fix: show descriptive error for invalid file uploads (issue #31) | Medium | [#129](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/129) |
+| Footer | Medium | [#128](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/128) |
 | Enhance : Improve the home UI | Medium | [#117](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/117) |
-| Fix: Added project structure to Readme.md | Medium | [#114](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/114) |
 | Add Pull Request (PR) Template | Medium | [#66](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/66) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#65](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/65) |
 | #42 Content Disappears After Reload on All Pages | Medium | [#44](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/44) |
@@ -186,10 +191,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Designing register page. | Medium | [#688](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/688) |
-| Added Infinite Horizontal Scroll Animation to “Meet the Team” Section | Medium | [#687](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/687) |
-| feat: integrated forget/regret pass | Medium | [#686](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/686) |
+| Missing Email Validation in Feedback Submission | Medium | [#689](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/689) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -207,6 +211,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixes #352: Background image added | Medium | [#423](https://github.com/omroy07/AgriTech/pull/423) |
+| Fix: updated theme toggle icons to reflect opposite mode in contact page | Medium | [#422](https://github.com/omroy07/AgriTech/pull/422) |
 | Fix: Added favorite option to Blog pages | Medium | [#421](https://github.com/omroy07/AgriTech/pull/421) |
 | Add Third Page to Technology category in Blog Tab | Medium | [#420](https://github.com/omroy07/AgriTech/issues/420) |
 | feat(navbar): add hover animations and transitions (#409) | Medium | [#419](https://github.com/omroy07/AgriTech/pull/419) |
@@ -223,7 +229,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
-| Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
 
 ---
 
@@ -288,7 +293,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
 | Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
 | fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
-| Develop ML Model for Political Bias Analysis of News | Hard | [#255](https://github.com/openml-stack/SentiLog-AI/issues/255) |
 
 ---
 
@@ -307,12 +311,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
 | fix: Enhance Footer UI | Medium | [#195](https://github.com/aayushraj1010/med-genie/pull/195) |
-| no back button or home button | Medium | [#194](https://github.com/aayushraj1010/med-genie/issues/194) |
-| Page seems broken and in consistent | Medium | [#193](https://github.com/aayushraj1010/med-genie/issues/193) |
-| light theme not consistent acorss the page | Medium | [#192](https://github.com/aayushraj1010/med-genie/issues/192) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
-| added auth through google | Medium | [#189](https://github.com/aayushraj1010/med-genie/pull/189) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
