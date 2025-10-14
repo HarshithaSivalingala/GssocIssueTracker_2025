@@ -47,6 +47,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| User logs out and gets 404 when visiting Profile page after sign in | Medium | [#466](https://github.com/Bhavya1352/eventmappr/issues/466) |
 | Bug: Currency Exchange Page Ignores Dark Mode Settings | Medium | [#465](https://github.com/Bhavya1352/eventmappr/issues/465) |
 | .Improve Dark Mode UI and Consistency | Medium | [#464](https://github.com/Bhavya1352/eventmappr/issues/464) |
 |  | Medium | [#463](https://github.com/Bhavya1352/eventmappr/issues/463) |
@@ -115,6 +116,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #19 improved main.py for production level | Medium | [#59](https://github.com/indra7777/frostiq/pull/59) |
+| #16 added vercel.json file | Medium | [#58](https://github.com/indra7777/frostiq/pull/58) |
+| #1 added project overview, instructiona and contributions guidelines | Medium | [#57](https://github.com/indra7777/frostiq/pull/57) |
 | Create CONTRIBUTORS.md | Medium | [#56](https://github.com/indra7777/frostiq/pull/56) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#55](https://github.com/indra7777/frostiq/issues/55) |
 | Enhancement: Implement CRUD Operations,pricing , description , etc | Medium | [#54](https://github.com/indra7777/frostiq/pull/54) |
@@ -247,12 +251,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
 | fix: Enhance Footer UI | Medium | [#195](https://github.com/aayushraj1010/med-genie/pull/195) |
-| no back button or home button | Medium | [#194](https://github.com/aayushraj1010/med-genie/issues/194) |
-| Page seems broken and in consistent | Medium | [#193](https://github.com/aayushraj1010/med-genie/issues/193) |
-| light theme not consistent acorss the page | Medium | [#192](https://github.com/aayushraj1010/med-genie/issues/192) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
-| added auth through google | Medium | [#189](https://github.com/aayushraj1010/med-genie/pull/189) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
@@ -437,32 +438,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | feat(security): Create a security page for user accounts. | Easy | [#237](https://github.com/dipexplorer/LegalHuB/pull/237) |
 | Enhance Navbar Hover Animation (Fixes #221) | Easy | [#235](https://github.com/dipexplorer/LegalHuB/pull/235) |
-| Add “Fun Facts” / Closing Section for contributor page | Medium | [#228](https://github.com/dipexplorer/LegalHuB/issues/228) |
-| Enhance Login & Registration UI with Separate CSS | Medium | [#223](https://github.com/dipexplorer/LegalHuB/issues/223) |
-| Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Hard | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
+| Allow users to exit Edit Lawyer Profile modal without updating | Medium | [#253](https://github.com/dipexplorer/LegalHuB/issues/253) |
+| fix: improved Reset Password UI and UX | Medium | [#252](https://github.com/dipexplorer/LegalHuB/pull/252) |
 | Add Project Statistics Section to contributor page | Hard | [#225](https://github.com/dipexplorer/LegalHuB/issues/225) |
 | Appointment API Test Failures & Missing Configurations Bug🧪 | Hard | [#213](https://github.com/dipexplorer/LegalHuB/issues/213) |
-| Improve "Set New Password" Page for Better Usability & Consistency | Hard | [#211](https://github.com/dipexplorer/LegalHuB/issues/211) |
-| Invalid/Existing Email Address Allows Sign-Up Instead of Throwing Error | Hard | [#194](https://github.com/dipexplorer/LegalHuB/issues/194) |
 | Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
-
----
-
-## 📌 Project: Voice Marketing Agents
-
-📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
-
-🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
-
-💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| 📂 Add Project Folder Structure | Medium | [#43](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/43) |
 
 ---
 
@@ -581,8 +561,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
-| Add Success Toast Notification on Login | Medium | [#705](https://github.com/SandeepVashishtha/Eventra/issues/705) |
-| Improve Input Field Text Visibility in Dark Mode on the sign-up and login page | Medium | [#704](https://github.com/SandeepVashishtha/Eventra/issues/704) |
+| Increase Navbar Font Size | Medium | [#725](https://github.com/SandeepVashishtha/Eventra/issues/725) |
+| Add individual boxes for “Quick Links”, “Community”, and “Support” sections in the footer | Medium | [#724](https://github.com/SandeepVashishtha/Eventra/issues/724) |
+| add a scroll functionality | Medium | [#722](https://github.com/SandeepVashishtha/Eventra/issues/722) |
 | image styling issues | Medium | [#556](https://github.com/SandeepVashishtha/Eventra/issues/556) |
 
 ---
