@@ -19,6 +19,25 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update folder structure in readme.md | Easy | [#1114](https://github.com/gyanshankar1708/GrowCraft/issues/1114) |
+| backtotop added in contact us | Medium | [#1144](https://github.com/gyanshankar1708/GrowCraft/pull/1144) |
+| footer of contact us page added | Medium | [#1143](https://github.com/gyanshankar1708/GrowCraft/pull/1143) |
+| privacy terms sitemap link fixed | Medium | [#1142](https://github.com/gyanshankar1708/GrowCraft/pull/1142) |
+| fix: unify navbar structure, links, and hover behavior across all pages | Medium | [#1141](https://github.com/gyanshankar1708/GrowCraft/pull/1141) |
+| footer links fixed in about.html | Medium | [#1140](https://github.com/gyanshankar1708/GrowCraft/pull/1140) |
+| privacy terms sitemap links fixed on faq page | Medium | [#1139](https://github.com/gyanshankar1708/GrowCraft/pull/1139) |
+| privacy  terms and sitemap links fixed on cyber analyst page | Medium | [#1138](https://github.com/gyanshankar1708/GrowCraft/pull/1138) |
+| Back to top button added in Cyber analyst Page | Medium | [#1137](https://github.com/gyanshankar1708/GrowCraft/pull/1137) |
+| Footer re-designed in Cyber Analyst page | Medium | [#1136](https://github.com/gyanshankar1708/GrowCraft/pull/1136) |
+| Fixed : Redesign the “Let’s Build Something Great” Section with Modern UI & Interactive Design | Medium | [#1135](https://github.com/gyanshankar1708/GrowCraft/pull/1135) |
+| corrected the spacing of the Website Developmemt page navbar | Medium | [#1134](https://github.com/gyanshankar1708/GrowCraft/pull/1134) |
+| Services Links Not Working in Footer Section of FAQ Page | Medium | [#1133](https://github.com/gyanshankar1708/GrowCraft/issues/1133) |
+| Refactored contact page styles and improved responsiveness | Medium | [#1132](https://github.com/gyanshankar1708/GrowCraft/pull/1132) |
+| Quick Links Not Working in Footer Section of FAQ Page | Medium | [#1131](https://github.com/gyanshankar1708/GrowCraft/issues/1131) |
+| Style change of bloglist | Medium | [#1130](https://github.com/gyanshankar1708/GrowCraft/pull/1130) |
+| styled navbar properly for content writing page. | Medium | [#1129](https://github.com/gyanshankar1708/GrowCraft/pull/1129) |
+| Footer | Medium | [#1128](https://github.com/gyanshankar1708/GrowCraft/issues/1128) |
+| styled footer in a efficient way | Medium | [#1127](https://github.com/gyanshankar1708/GrowCraft/pull/1127) |
+| about us not working in footer of webdevelopment page | Medium | [#1126](https://github.com/gyanshankar1708/GrowCraft/issues/1126) |
 | BUG: Dark Mode is not working on Home page | Medium | [#1125](https://github.com/gyanshankar1708/GrowCraft/issues/1125) |
 | BUG: Dark theme toggle is missing in Contact page | Medium | [#1124](https://github.com/gyanshankar1708/GrowCraft/issues/1124) |
 | BUG: About Page footer issue some content not visible properly icons issue | Medium | [#1123](https://github.com/gyanshankar1708/GrowCraft/issues/1123) |
@@ -26,24 +45,9 @@
 | BUG: Unwanted content on bottom and missing footer on contact page | Medium | [#1121](https://github.com/gyanshankar1708/GrowCraft/issues/1121) |
 | BUG: Double Content of Navbar issue on  About Page | Medium | [#1120](https://github.com/gyanshankar1708/GrowCraft/issues/1120) |
 | Enhance Chatbot UI & Accessibility Improvements | Medium | [#1119](https://github.com/gyanshankar1708/GrowCraft/pull/1119) |
-| Updated services link and added new services page. | Medium | [#1118](https://github.com/gyanshankar1708/GrowCraft/pull/1118) |
 | nav bar inconsistency | Medium | [#1117](https://github.com/gyanshankar1708/GrowCraft/issues/1117) |
 | Add Contributor Details Button to Our Work Page | Medium | [#1116](https://github.com/gyanshankar1708/GrowCraft/issues/1116) |
 | Hacktoberfest Not Acknowledged in README | Medium | [#1115](https://github.com/gyanshankar1708/GrowCraft/issues/1115) |
-| Bug Report: Missing Footer on Contact Us Page | Medium | [#1113](https://github.com/gyanshankar1708/GrowCraft/issues/1113) |
-| Missing "Back to top" in Contact us page | Medium | [#1112](https://github.com/gyanshankar1708/GrowCraft/issues/1112) |
-| The Privacy, terms and sitemap button in the footer is not working in Blogs section | Medium | [#1111](https://github.com/gyanshankar1708/GrowCraft/issues/1111) |
-| The Privacy, terms and sitemap button in the footer is not working in About us section | Medium | [#1110](https://github.com/gyanshankar1708/GrowCraft/issues/1110) |
-| The Privacy, terms and sitemap button is not working on FAQ Page | Medium | [#1109](https://github.com/gyanshankar1708/GrowCraft/issues/1109) |
-| Privacy, terms and sitemap button not working on Cyber Analyst Page | Medium | [#1108](https://github.com/gyanshankar1708/GrowCraft/issues/1108) |
-| Missing "Back to Top" Button on Cyber Analyst Page | Medium | [#1107](https://github.com/gyanshankar1708/GrowCraft/issues/1107) |
-| Change footer of Cyber Analyst Page | Medium | [#1106](https://github.com/gyanshankar1708/GrowCraft/issues/1106) |
-| double footer in about us section | Medium | [#1086](https://github.com/gyanshankar1708/GrowCraft/issues/1086) |
-| Fixing Bug in about page | Medium | [#1083](https://github.com/gyanshankar1708/GrowCraft/issues/1083) |
-| Add GSAP Count-Up Animation to Quick Stats Section in footer of faq page | Medium | [#1082](https://github.com/gyanshankar1708/GrowCraft/issues/1082) |
-| Improve Social Media Portfolio Page (Better Content & Layout) | Medium | [#1081](https://github.com/gyanshankar1708/GrowCraft/issues/1081) |
-| Improve Digital Marketing Portfolio Page (Better Content & Layout) | Medium | [#1080](https://github.com/gyanshankar1708/GrowCraft/issues/1080) |
-| Improve Cyber Analyst Portfolio Page (Better Content & Layout) | Medium | [#1079](https://github.com/gyanshankar1708/GrowCraft/issues/1079) |
 
 ---
 
@@ -99,10 +103,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Scroll-to-Top Button | Medium | [#286](https://github.com/sachiva1/sachiva/issues/286) |
-| AI-Powered FAQ Chatbot | Medium | [#285](https://github.com/sachiva1/sachiva/issues/285) |
-| add dark mode toggle for better user experience | Medium | [#284](https://github.com/sachiva1/sachiva/issues/284) |
-| add login or signup page for better security purpose | Medium | [#283](https://github.com/sachiva1/sachiva/issues/283) |
+| Updated footer | Medium | [#288](https://github.com/sachiva1/sachiva/pull/288) |
 
 ---
 
