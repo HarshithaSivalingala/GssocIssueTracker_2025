@@ -48,9 +48,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Users should be able to Unfavourite products from the Saved Screen by clicking on the "❤️" icon | Medium | [#484](https://github.com/yuvrajsinghgmx/ShopSmart/issues/484) |
 | owner now can purchase subscriptions for shop & products | Medium | [#483](https://github.com/yuvrajsinghgmx/ShopSmart/pull/483) |
-| Updated Customer profile screen and designed Edit profile screen | Medium | [#482](https://github.com/yuvrajsinghgmx/ShopSmart/pull/482) |
-| Edit Customer Profile Screen | Medium | [#468](https://github.com/yuvrajsinghgmx/ShopSmart/issues/468) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
 | Shop_Owner Profile | Medium | [#456](https://github.com/yuvrajsinghgmx/ShopSmart/issues/456) |
@@ -133,8 +132,9 @@
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
-| Add Success Toast Notification on Login | Medium | [#705](https://github.com/SandeepVashishtha/Eventra/issues/705) |
-| Improve Input Field Text Visibility in Dark Mode on the sign-up and login page | Medium | [#704](https://github.com/SandeepVashishtha/Eventra/issues/704) |
+| Increase Navbar Font Size | Medium | [#725](https://github.com/SandeepVashishtha/Eventra/issues/725) |
+| Add individual boxes for “Quick Links”, “Community”, and “Support” sections in the footer | Medium | [#724](https://github.com/SandeepVashishtha/Eventra/issues/724) |
+| add a scroll functionality | Medium | [#722](https://github.com/SandeepVashishtha/Eventra/issues/722) |
 | image styling issues | Medium | [#556](https://github.com/SandeepVashishtha/Eventra/issues/556) |
 
 ---
