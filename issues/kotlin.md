@@ -121,6 +121,9 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| CONGRATULATIONS PAGE | Easy | [#53](https://github.com/sayan0328/WallGodds-App/issues/53) |
+| [UPLOAD PAGE] EDIT WALLPAPER POPUP | Easy | [#52](https://github.com/sayan0328/WallGodds-App/issues/52) |
+| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/sayan0328/WallGodds-App/issues/47) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
 
 ---
@@ -139,9 +142,8 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Users should be able to Unfavourite products from the Saved Screen by clicking on the "❤️" icon | Medium | [#484](https://github.com/yuvrajsinghgmx/ShopSmart/issues/484) |
 | owner now can purchase subscriptions for shop & products | Medium | [#483](https://github.com/yuvrajsinghgmx/ShopSmart/pull/483) |
-| Updated Customer profile screen and designed Edit profile screen | Medium | [#482](https://github.com/yuvrajsinghgmx/ShopSmart/pull/482) |
-| Edit Customer Profile Screen | Medium | [#468](https://github.com/yuvrajsinghgmx/ShopSmart/issues/468) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
 | Shop_Owner Profile | Medium | [#456](https://github.com/yuvrajsinghgmx/ShopSmart/issues/456) |
