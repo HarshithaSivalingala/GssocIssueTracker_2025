@@ -39,6 +39,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: dashboard tile highlight overlaps (#334) | Medium | [#349](https://github.com/adityagarwal15/JobSync/pull/349) |
 | Add “Back to Top” Button for Improved Navigation | Medium | [#348](https://github.com/adityagarwal15/JobSync/issues/348) |
 | 🐛 : OTP Login Functionality is not working | Medium | [#347](https://github.com/adityagarwal15/JobSync/issues/347) |
 | Fix tagline alignment on homepage | Medium | [#345](https://github.com/adityagarwal15/JobSync/issues/345) |
@@ -118,7 +119,6 @@
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
 | 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
-| Enhance File Upload Security with Virus Scanning | Medium | [#1298](https://github.com/Code-A2Z/code-a2z/issues/1298) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -128,6 +128,7 @@
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
+| 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 
 ---
 
@@ -175,6 +176,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
+| ui-ux-fix | Medium | [#286](https://github.com/BhaktiMore18/Pouranik/pull/286) |
 | Enhanced styling of Sign in and Signup buttons | Medium | [#285](https://github.com/BhaktiMore18/Pouranik/pull/285) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
@@ -391,10 +393,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Designing register page. | Medium | [#688](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/688) |
-| Added Infinite Horizontal Scroll Animation to “Meet the Team” Section | Medium | [#687](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/687) |
-| feat: integrated forget/regret pass | Medium | [#686](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/686) |
+| Missing Email Validation in Feedback Submission | Medium | [#689](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/689) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -468,7 +469,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve visibility of the 'Benefits' section in the 'Affiliate Program' page of the website | Medium | [#623](https://github.com/NishantRana07/HrRoadways/issues/623) |
+| Add Project Structure Section to README.md | Medium | [#625](https://github.com/NishantRana07/HrRoadways/issues/625) |
+| Update App.jsx | Medium | [#624](https://github.com/NishantRana07/HrRoadways/pull/624) |
 | Enhanced Safety First, Reliability, Comfort, 24/7 Customer Support | Medium | [#622](https://github.com/NishantRana07/HrRoadways/pull/622) |
 | Add Transitions and Animations | Medium | [#621](https://github.com/NishantRana07/HrRoadways/issues/621) |
 | Improve buttons of the webite | Medium | [#619](https://github.com/NishantRana07/HrRoadways/issues/619) |
@@ -481,7 +483,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Update index.html | Medium | [#611](https://github.com/NishantRana07/HrRoadways/pull/611) |
 | Add Newsletter Subscription Section to Footer | Medium | [#606](https://github.com/NishantRana07/HrRoadways/pull/606) |
 | Add Contributors Section in README | Medium | [#605](https://github.com/NishantRana07/HrRoadways/pull/605) |
-| Fixed Issue #533: User Friendly Dashboard | Medium | [#570](https://github.com/NishantRana07/HrRoadways/pull/570) |
 
 ---
 
@@ -525,6 +526,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Robust Newsletter Subscription Feature | Medium | [#291](https://github.com/Prashanti-Hebbar/FoodIO/pull/291) |
 | Refactor Alerts with Toast | Medium | [#290](https://github.com/Prashanti-Hebbar/FoodIO/issues/290) |
 | Revise README for improved clarity and organization | Medium | [#289](https://github.com/Prashanti-Hebbar/FoodIO/pull/289) |
 | Improve Header layout | Medium | [#288](https://github.com/Prashanti-Hebbar/FoodIO/issues/288) |
@@ -692,7 +694,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Implement Dark/Light Mode Toggle | Medium | [#29](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/29) |
 | feat: add docker development setup | Medium | [#28](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/28) |
 | Enhancement: Added .env.example and serviceAccount.json.example | Medium | [#27](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/27) |
-| Missing Project Structure in README(#25) | Medium | [#26](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/26) |
 | Added CODE_OF_CONDUCT.md file | Medium | [#23](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/23) |
 | Hosted CLASSMGMTSYS on vercel | Medium | [#21](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/21) |
 | Implementation of TImeTable | Medium | [#18](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/18) |
@@ -766,6 +767,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Privacy Policy Page UI and UX | Medium | [#324](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/324) |
+| Update the My Account | Medium | [#323](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/323) |
 | Issue: Inclusivity Enhancement – Open Platform for All LGBTQ+ | Medium | [#319](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/319) |
 | Solved MNOR UI/UX CHANGES - 2 #280 | Medium | [#317](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/317) |
 | feat(header): declutter navbar, align “My Account”, and elevate UI | Medium | [#314](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/314) |
@@ -807,7 +810,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
 | Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
 | fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
-| Develop ML Model for Political Bias Analysis of News | Hard | [#255](https://github.com/openml-stack/SentiLog-AI/issues/255) |
 
 ---
 
@@ -939,6 +941,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Github OAuth Authentication | Medium | [#178](https://github.com/DevSyncx/DevSync/pull/178) |
+| Suggestions regarding DevSync | Medium | [#176](https://github.com/DevSyncx/DevSync/issues/176) |
 | NavBar: Implement full-screen mobile navigation overlay | Medium | [#175](https://github.com/DevSyncx/DevSync/issues/175) |
 | Add clickable navigation to feature cards on homepage | Medium | [#174](https://github.com/DevSyncx/DevSync/pull/174) |
 | Fix: Enhance ScrollRevealWrapper with proper ref handling and variants | Medium | [#173](https://github.com/DevSyncx/DevSync/pull/173) |
@@ -999,7 +1003,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | Privacy Policy Page | Medium | [#56](https://github.com/Devaki01/EcoStore/issues/56) |
 | Terms and Conditions | Medium | [#55](https://github.com/Devaki01/EcoStore/issues/55) |
-| Fixed issue #35, Adding User SignUp and SignIn page | Medium | [#54](https://github.com/Devaki01/EcoStore/pull/54) |
 | UI/UX Issues | Medium | [#53](https://github.com/Devaki01/EcoStore/issues/53) |
 | add social link in the footer and product detailes | Medium | [#52](https://github.com/Devaki01/EcoStore/pull/52) |
 | Add social links in footer | Medium | [#50](https://github.com/Devaki01/EcoStore/issues/50) |
@@ -1015,6 +1018,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Create a chatbot | Medium | [#20](https://github.com/Devaki01/EcoStore/issues/20) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#17](https://github.com/Devaki01/EcoStore/issues/17) |
 | Ui enhancement + Imperfect font heirarchy | Medium | [#13](https://github.com/Devaki01/EcoStore/issues/13) |
+| Add Readme.md | Medium | [#12](https://github.com/Devaki01/EcoStore/issues/12) |
 
 ---
 
@@ -1034,13 +1038,10 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | feat(security): Create a security page for user accounts. | Easy | [#237](https://github.com/dipexplorer/LegalHuB/pull/237) |
 | Enhance Navbar Hover Animation (Fixes #221) | Easy | [#235](https://github.com/dipexplorer/LegalHuB/pull/235) |
-| Add “Fun Facts” / Closing Section for contributor page | Medium | [#228](https://github.com/dipexplorer/LegalHuB/issues/228) |
-| Enhance Login & Registration UI with Separate CSS | Medium | [#223](https://github.com/dipexplorer/LegalHuB/issues/223) |
-| Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Hard | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
+| Allow users to exit Edit Lawyer Profile modal without updating | Medium | [#253](https://github.com/dipexplorer/LegalHuB/issues/253) |
+| fix: improved Reset Password UI and UX | Medium | [#252](https://github.com/dipexplorer/LegalHuB/pull/252) |
 | Add Project Statistics Section to contributor page | Hard | [#225](https://github.com/dipexplorer/LegalHuB/issues/225) |
 | Appointment API Test Failures & Missing Configurations Bug🧪 | Hard | [#213](https://github.com/dipexplorer/LegalHuB/issues/213) |
-| Improve "Set New Password" Page for Better Usability & Consistency | Hard | [#211](https://github.com/dipexplorer/LegalHuB/issues/211) |
-| Invalid/Existing Email Address Allows Sign-Up Instead of Throwing Error | Hard | [#194](https://github.com/dipexplorer/LegalHuB/issues/194) |
 | Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
 
 ---
@@ -1227,22 +1228,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor: Email & Password Verification Controller for Clean Structure | Medium | [#878](https://github.com/Premkolte/AnimateHub/pull/878) |
-| Refactor: Clean Up User Profile Controller | Medium | [#877](https://github.com/Premkolte/AnimateHub/pull/877) |
-| Refactor: Clean Up Google Login Controller | Medium | [#876](https://github.com/Premkolte/AnimateHub/pull/876) |
-| Refactor: Optimize Component Controller Code | Medium | [#875](https://github.com/Premkolte/AnimateHub/pull/875) |
-| Refactor: Optimized `comment.controller.js` for Better Performance & Readability | Medium | [#874](https://github.com/Premkolte/AnimateHub/pull/874) |
-| Refactor: Improve Blog Controller Structure & Readability | Medium | [#873](https://github.com/Premkolte/AnimateHub/pull/873) |
-| Refactor: Improve Auth Controller Readability & Structure | Medium | [#872](https://github.com/Premkolte/AnimateHub/pull/872) |
 | The new blog can be created by a single character also | Medium | [#870](https://github.com/Premkolte/AnimateHub/issues/870) |
-| Challenge Mode UI Size Fluctuation and Inconsistency | Medium | [#869](https://github.com/Premkolte/AnimateHub/issues/869) |
-| Email & Password Verification Controllers: Code Cleanup and Consistency | Medium | [#868](https://github.com/Premkolte/AnimateHub/issues/868) |
-| Refactor: User Profile Controller Improvements | Medium | [#867](https://github.com/Premkolte/AnimateHub/issues/867) |
-| Controller Refactor: Google Login Flow | Medium | [#866](https://github.com/Premkolte/AnimateHub/issues/866) |
-| Controller Optimization: Component Controller | Medium | [#865](https://github.com/Premkolte/AnimateHub/issues/865) |
-| Comment Controller: Code Optimization & Consistency | Medium | [#864](https://github.com/Premkolte/AnimateHub/issues/864) |
-| Issue: Refactor Blog Controllers for Better Maintainability | Medium | [#863](https://github.com/Premkolte/AnimateHub/issues/863) |
-| Issue: Refactor Auth Controllers for Clarity and Consistency | Medium | [#862](https://github.com/Premkolte/AnimateHub/issues/862) |
 | Add a lower case checklist for sign-up | Medium | [#859](https://github.com/Premkolte/AnimateHub/issues/859) |
 | 🐞 [UI] About Page Layout & Dark Mode Inconsistencies | Medium | [#858](https://github.com/Premkolte/AnimateHub/issues/858) |
 | Add Newsletter Subscription Section to Footer | Medium | [#851](https://github.com/Premkolte/AnimateHub/issues/851) |
@@ -1256,6 +1242,15 @@ Fast Workflow Tools
 | Critical Security Vulnerability in Axios Library | Medium | [#842](https://github.com/Premkolte/AnimateHub/issues/842) |
 | Close button and copy button is not showing in Mac | Medium | [#833](https://github.com/Premkolte/AnimateHub/issues/833) |
 | Level 3 Futuristic UI Enhancements – App.jsx & Styles (Deployment-Safe) | Medium | [#832](https://github.com/Premkolte/AnimateHub/issues/832) |
+| Enhance vercel.json for Security, Performance & Scalability | Medium | [#830](https://github.com/Premkolte/AnimateHub/issues/830) |
+| Level 3 Futuristic UI Enhancements for index.css | Medium | [#827](https://github.com/Premkolte/AnimateHub/issues/827) |
+| Enhance Navbar and Logo Visibility in Dark Mode | Medium | [#825](https://github.com/Premkolte/AnimateHub/issues/825) |
+| Lev 3 – Futuristic UI/UX Overhaul for index.html | Medium | [#824](https://github.com/Premkolte/AnimateHub/issues/824) |
+| Remove gradient | Medium | [#817](https://github.com/Premkolte/AnimateHub/issues/817) |
+| Use icons instead of emojis | Medium | [#816](https://github.com/Premkolte/AnimateHub/issues/816) |
+| Leaderboard contributor names not visible in dark mode | Medium | [#805](https://github.com/Premkolte/AnimateHub/issues/805) |
+| Flexbox Playground input text not visible in dark mode | Medium | [#804](https://github.com/Premkolte/AnimateHub/issues/804) |
+| 🚨 Important Admin Notice 🚨 | Medium | [#662](https://github.com/Premkolte/AnimateHub/issues/662) |
 
 ---
 
