@@ -42,8 +42,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #421: Fix tooltip alignment and dark mode styling | Easy | [#425](https://github.com/Ayushjhawar8/Flavor-ai/pull/425) |
 | Adding make healthier feature | Easy | [#408](https://github.com/Ayushjhawar8/Flavor-ai/pull/408) |
-| #421: Fix tooltip alignment and dark mode styling | Medium | [#425](https://github.com/Ayushjhawar8/Flavor-ai/pull/425) |
+| Enhance AI Diet Planner SuggestionsFix diet planner pages and update AI logic | Medium | [#438](https://github.com/Ayushjhawar8/Flavor-ai/pull/438) |
+| fix: Made the Change Theme item clickable | Medium | [#435](https://github.com/Ayushjhawar8/Flavor-ai/pull/435) |
+| Improved UI inconsistencies on contact page | Medium | [#434](https://github.com/Ayushjhawar8/Flavor-ai/pull/434) |
 
 ---
 
@@ -100,10 +103,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Designing register page. | Medium | [#688](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/688) |
-| Added Infinite Horizontal Scroll Animation to “Meet the Team” Section | Medium | [#687](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/687) |
-| feat: integrated forget/regret pass | Medium | [#686](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/686) |
+| Missing Email Validation in Feedback Submission | Medium | [#689](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/689) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
