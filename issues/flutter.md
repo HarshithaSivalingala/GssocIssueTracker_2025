@@ -49,6 +49,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | BUG: Google summer of code's filters are not working | Easy | [#319](https://github.com/andoriyaprashant/OpSo/issues/319) |
+| Contributor leaderboard | Medium | [#420](https://github.com/andoriyaprashant/OpSo/pull/420) |
 | BUG: The app is not running | Medium | [#418](https://github.com/andoriyaprashant/OpSo/issues/418) |
 | Use of Reusable widgets | Medium | [#379](https://github.com/andoriyaprashant/OpSo/issues/379) |
 | dark and light mode toggle | Medium | [#369](https://github.com/andoriyaprashant/OpSo/issues/369) |
