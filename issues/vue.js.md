@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #19 improved main.py for production level | Medium | [#59](https://github.com/indra7777/frostiq/pull/59) |
+| #16 added vercel.json file | Medium | [#58](https://github.com/indra7777/frostiq/pull/58) |
+| #1 added project overview, instructiona and contributions guidelines | Medium | [#57](https://github.com/indra7777/frostiq/pull/57) |
 | Create CONTRIBUTORS.md | Medium | [#56](https://github.com/indra7777/frostiq/pull/56) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#55](https://github.com/indra7777/frostiq/issues/55) |
 | Enhancement: Implement CRUD Operations,pricing , description , etc | Medium | [#54](https://github.com/indra7777/frostiq/pull/54) |
