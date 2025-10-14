@@ -100,10 +100,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Designing register page. | Medium | [#688](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/688) |
-| Added Infinite Horizontal Scroll Animation to “Meet the Team” Section | Medium | [#687](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/687) |
-| feat: integrated forget/regret pass | Medium | [#686](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/686) |
+| Missing Email Validation in Feedback Submission | Medium | [#689](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/689) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -151,34 +150,34 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| deps(deps): bump cachetools from 5.5.2 to 6.2.1 | Medium | [#124](https://github.com/solve-ease/OptiBlogAi/pull/124) |
+| docker(deps): bump python from 3.12-slim to 3.14-slim | Medium | [#123](https://github.com/solve-ease/OptiBlogAi/pull/123) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.545.0 in /optiblogai-site | Medium | [#122](https://github.com/solve-ease/OptiBlogAi/pull/122) |
+| ci(deps): bump github/codeql-action from 3 to 4 | Medium | [#121](https://github.com/solve-ease/OptiBlogAi/pull/121) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.7.2 in /optiblogai-site | Medium | [#120](https://github.com/solve-ease/OptiBlogAi/pull/120) |
+| deps(deps): bump framer-motion from 12.23.6 to 12.23.24 in /optiblogai-site | Medium | [#119](https://github.com/solve-ease/OptiBlogAi/pull/119) |
 | deps(deps): bump certifi from 2025.1.31 to 2025.10.5 | Medium | [#118](https://github.com/solve-ease/OptiBlogAi/pull/118) |
 | deps(deps-dev): bump typescript from 5.8.3 to 5.9.3 in /optiblogai-site | Medium | [#117](https://github.com/solve-ease/OptiBlogAi/pull/117) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.37.0 in /optiblogai-site | Medium | [#116](https://github.com/solve-ease/OptiBlogAi/pull/116) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.7.0 in /optiblogai-site | Medium | [#115](https://github.com/solve-ease/OptiBlogAi/pull/115) |
 | deps(deps): bump beautifulsoup4 from 4.13.3 to 4.14.2 | Medium | [#114](https://github.com/solve-ease/OptiBlogAi/pull/114) |
 | deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#113](https://github.com/solve-ease/OptiBlogAi/pull/113) |
-| deps(deps): bump framer-motion from 12.23.6 to 12.23.22 in /optiblogai-site | Medium | [#112](https://github.com/solve-ease/OptiBlogAi/pull/112) |
 | deps(deps): bump next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#111](https://github.com/solve-ease/OptiBlogAi/pull/111) |
 | deps(deps): bump lxml from 5.3.2 to 6.0.2 | Medium | [#106](https://github.com/solve-ease/OptiBlogAi/pull/106) |
-| deps(deps): bump lucide-react from 0.525.0 to 0.544.0 in /optiblogai-site | Medium | [#105](https://github.com/solve-ease/OptiBlogAi/pull/105) |
 | deps(deps): bump soupsieve from 2.6 to 2.8 | Medium | [#99](https://github.com/solve-ease/OptiBlogAi/pull/99) |
 | deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.7.0 | Medium | [#97](https://github.com/solve-ease/OptiBlogAi/pull/97) |
 | deps(deps): bump playwright from 1.53.0 to 1.55.0 | Medium | [#95](https://github.com/solve-ease/OptiBlogAi/pull/95) |
 | ci(deps): bump actions/setup-python from 5 to 6 | Medium | [#93](https://github.com/solve-ease/OptiBlogAi/pull/93) |
 | ci(deps): bump actions/setup-node from 4 to 5 | Medium | [#92](https://github.com/solve-ease/OptiBlogAi/pull/92) |
-| deps(deps): bump cachetools from 5.5.2 to 6.2.0 | Medium | [#91](https://github.com/solve-ease/OptiBlogAi/pull/91) |
 | deps(deps): bump typing-extensions from 4.13.2 to 4.15.0 | Medium | [#90](https://github.com/solve-ease/OptiBlogAi/pull/90) |
 | SITE ENHANCEMENT | Medium | [#89](https://github.com/solve-ease/OptiBlogAi/issues/89) |
 | ⬇️ Feature Request: Scroll to Bottom Button | Medium | [#88](https://github.com/solve-ease/OptiBlogAi/issues/88) |
 | deps(deps): bump requests from 2.32.3 to 2.32.5 | Medium | [#81](https://github.com/solve-ease/OptiBlogAi/pull/81) |
-| docker(deps): bump python from 3.12-slim to 3.13.7-slim | Medium | [#80](https://github.com/solve-ease/OptiBlogAi/pull/80) |
 | ci(deps): bump actions/checkout from 4 to 5 | Medium | [#79](https://github.com/solve-ease/OptiBlogAi/pull/79) |
 | Broken Links in Footer Navigation #41 | Medium | [#77](https://github.com/solve-ease/OptiBlogAi/pull/77) |
 | Added Contact Us Page | Medium | [#76](https://github.com/solve-ease/OptiBlogAi/pull/76) |
 | deps(deps): bump react and @types/react in /optiblogai-site | Medium | [#62](https://github.com/solve-ease/OptiBlogAi/pull/62) |
 | deps(deps): bump react-dom and @types/react-dom in /optiblogai-site | Medium | [#61](https://github.com/solve-ease/OptiBlogAi/pull/61) |
 | deps(deps): bump @types/mermaid from 9.1.0 to 9.2.0 in /optiblogai-site | Medium | [#59](https://github.com/solve-ease/OptiBlogAi/pull/59) |
-| Add Hover Effect to "Try demo" Button | Medium | [#52](https://github.com/solve-ease/OptiBlogAi/issues/52) |
 
 ---
 
@@ -209,24 +208,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#3](https://github.com/Gssoc-2025/co-supply-ai/issues/3) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#2](https://github.com/Gssoc-2025/co-supply-ai/issues/2) |
 | 🚫 License Missing from Repository | Medium | [#1](https://github.com/Gssoc-2025/co-supply-ai/issues/1) |
-
----
-
-## 📌 Project: Voice Marketing Agents
-
-📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
-
-🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
-
-💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| 📂 Add Project Folder Structure | Medium | [#43](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/43) |
 
 ---
 
