@@ -227,6 +227,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Fix .dockerignore | Medium | [#2423](https://github.com/OWASP/Nest/pull/2423) |
+| Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
@@ -242,7 +244,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
-| refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -343,6 +344,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #19 improved main.py for production level | Medium | [#59](https://github.com/indra7777/frostiq/pull/59) |
+| #16 added vercel.json file | Medium | [#58](https://github.com/indra7777/frostiq/pull/58) |
+| #1 added project overview, instructiona and contributions guidelines | Medium | [#57](https://github.com/indra7777/frostiq/pull/57) |
 | Create CONTRIBUTORS.md | Medium | [#56](https://github.com/indra7777/frostiq/pull/56) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#55](https://github.com/indra7777/frostiq/issues/55) |
 | Enhancement: Implement CRUD Operations,pricing , description , etc | Medium | [#54](https://github.com/indra7777/frostiq/pull/54) |
@@ -525,7 +529,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixes - UI/UX of Hero Banner | Medium | [#258](https://github.com/Khushi-Nigam/jobportal/pull/258) |
+| Added file structure page | Medium | [#264](https://github.com/Khushi-Nigam/jobportal/pull/264) |
 | FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
 | Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
@@ -574,10 +578,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Designing register page. | Medium | [#688](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/688) |
-| Added Infinite Horizontal Scroll Animation to “Meet the Team” Section | Medium | [#687](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/687) |
-| feat: integrated forget/regret pass | Medium | [#686](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/686) |
+| Missing Email Validation in Feedback Submission | Medium | [#689](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/689) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -595,6 +598,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixes #352: Background image added | Medium | [#423](https://github.com/omroy07/AgriTech/pull/423) |
+| Fix: updated theme toggle icons to reflect opposite mode in contact page | Medium | [#422](https://github.com/omroy07/AgriTech/pull/422) |
 | Fix: Added favorite option to Blog pages | Medium | [#421](https://github.com/omroy07/AgriTech/pull/421) |
 | Add Third Page to Technology category in Blog Tab | Medium | [#420](https://github.com/omroy07/AgriTech/issues/420) |
 | feat(navbar): add hover animations and transitions (#409) | Medium | [#419](https://github.com/omroy07/AgriTech/pull/419) |
@@ -611,7 +616,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
-| Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
 
 ---
 
@@ -749,6 +753,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Pull Request : Credit Score Classification | Medium | [#802](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/802) |
+| Add Credit Score Classification using Machine Learning Project | Medium | [#801](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/801) |
+| Pull Request : Big Tech Giant Stocks Visualization App Project | Medium | [#800](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/800) |
+| Add Big Tech Giant Stocks Visualization App Project | Medium | [#799](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/799) |
+| vidya | Medium | [#798](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/798) |
 | Add AI Text Summarizer | Medium | [#797](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/797) |
 | Add Interactive Chatbot for DataSentience-AIML Project Info | Medium | [#796](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/796) |
 | Pull Request : MRF Stocks Visualization App | Medium | [#795](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/795) |
@@ -765,8 +774,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add Streamlit Web App Interface for Email Classifier | Medium | [#358](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/358) |
 | Add Baseline Sales Forecasting Model using M5 Dataset #GSSOC'25 | Medium | [#350](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/350) |
 | Integration of Multilingual LLM-Powered Chatbot and Domain-Specific NLP and Deep learning Models for Enhanced User Interaction | Medium | [#275](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/275) |
-| Network Intrusion Detection System | Medium | [#262](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/262) |
-| A Polling Page | Medium | [#34](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/34) |
 
 ---
 
@@ -895,6 +902,18 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Making sidebar organized. | Medium | [#500](https://github.com/eccentriccoder01/TalkHeal/issues/500) |
+| Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
+| UI Bug: Text color does not adapt to theme changes, causing readability issues | Medium | [#498](https://github.com/eccentriccoder01/TalkHeal/issues/498) |
+| Visual Styling & Theme Enhancements in Water Intake Tracker | Medium | [#496](https://github.com/eccentriccoder01/TalkHeal/issues/496) |
+| Categorize Wellness Task Suggestions in Daily Planner | Medium | [#495](https://github.com/eccentriccoder01/TalkHeal/issues/495) |
+| Implement Task Filtering in Daily Planner | Medium | [#494](https://github.com/eccentriccoder01/TalkHeal/issues/494) |
+| Feat: Add Due Dates and Sorting to Daily Planner | Medium | [#493](https://github.com/eccentriccoder01/TalkHeal/issues/493) |
+| Feat: Add Task Priority to Daily Planner | Medium | [#492](https://github.com/eccentriccoder01/TalkHeal/issues/492) |
+| Feat: Add 'Look Back' Feature for Reflection to Mood Tracker | Medium | [#491](https://github.com/eccentriccoder01/TalkHeal/issues/491) |
+| Feat: Improve Data Analysis and Visualization for Mood Tracker | Medium | [#490](https://github.com/eccentriccoder01/TalkHeal/issues/490) |
+| Feat: Enhance Mood History Display with Expandable Sections | Medium | [#489](https://github.com/eccentriccoder01/TalkHeal/issues/489) |
+| Feat: Add Granular Mood Options and Intensity to Mood Tracker | Medium | [#488](https://github.com/eccentriccoder01/TalkHeal/issues/488) |
 | Polish UI/UX for Quick Wellness Self-Check | Medium | [#487](https://github.com/eccentriccoder01/TalkHeal/issues/487) |
 | Enhance Data Visualization and Insights in Quick Self-Check | Medium | [#486](https://github.com/eccentriccoder01/TalkHeal/issues/486) |
 | Add 'Notes' Section to Quick Wellness Self-Check for Context | Medium | [#485](https://github.com/eccentriccoder01/TalkHeal/issues/485) |
@@ -902,8 +921,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Implement Dynamic and Varied Wellness Tips in Quick Self-Check | Medium | [#483](https://github.com/eccentriccoder01/TalkHeal/issues/483) |
 | Decouple Feedback Logic in Quick Wellness Self-Check for More Comprehensive Advice | Medium | [#482](https://github.com/eccentriccoder01/TalkHeal/issues/482) |
 | Add a Dedicated Home Page for TalkHeal | Medium | [#480](https://github.com/eccentriccoder01/TalkHeal/issues/480) |
-| Add Password Strength Meter with Real-time Feedback and NIST Guidelines Enforcement | Medium | [#463](https://github.com/eccentriccoder01/TalkHeal/issues/463) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#462](https://github.com/eccentriccoder01/TalkHeal/issues/462) |
 
 ---
 
@@ -1249,12 +1266,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
 | fix: Enhance Footer UI | Medium | [#195](https://github.com/aayushraj1010/med-genie/pull/195) |
-| no back button or home button | Medium | [#194](https://github.com/aayushraj1010/med-genie/issues/194) |
-| Page seems broken and in consistent | Medium | [#193](https://github.com/aayushraj1010/med-genie/issues/193) |
-| light theme not consistent acorss the page | Medium | [#192](https://github.com/aayushraj1010/med-genie/issues/192) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
-| added auth through google | Medium | [#189](https://github.com/aayushraj1010/med-genie/pull/189) |
 | Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
 | Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
@@ -1280,34 +1294,34 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| deps(deps): bump cachetools from 5.5.2 to 6.2.1 | Medium | [#124](https://github.com/solve-ease/OptiBlogAi/pull/124) |
+| docker(deps): bump python from 3.12-slim to 3.14-slim | Medium | [#123](https://github.com/solve-ease/OptiBlogAi/pull/123) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.545.0 in /optiblogai-site | Medium | [#122](https://github.com/solve-ease/OptiBlogAi/pull/122) |
+| ci(deps): bump github/codeql-action from 3 to 4 | Medium | [#121](https://github.com/solve-ease/OptiBlogAi/pull/121) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.7.2 in /optiblogai-site | Medium | [#120](https://github.com/solve-ease/OptiBlogAi/pull/120) |
+| deps(deps): bump framer-motion from 12.23.6 to 12.23.24 in /optiblogai-site | Medium | [#119](https://github.com/solve-ease/OptiBlogAi/pull/119) |
 | deps(deps): bump certifi from 2025.1.31 to 2025.10.5 | Medium | [#118](https://github.com/solve-ease/OptiBlogAi/pull/118) |
 | deps(deps-dev): bump typescript from 5.8.3 to 5.9.3 in /optiblogai-site | Medium | [#117](https://github.com/solve-ease/OptiBlogAi/pull/117) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.37.0 in /optiblogai-site | Medium | [#116](https://github.com/solve-ease/OptiBlogAi/pull/116) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.7.0 in /optiblogai-site | Medium | [#115](https://github.com/solve-ease/OptiBlogAi/pull/115) |
 | deps(deps): bump beautifulsoup4 from 4.13.3 to 4.14.2 | Medium | [#114](https://github.com/solve-ease/OptiBlogAi/pull/114) |
 | deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#113](https://github.com/solve-ease/OptiBlogAi/pull/113) |
-| deps(deps): bump framer-motion from 12.23.6 to 12.23.22 in /optiblogai-site | Medium | [#112](https://github.com/solve-ease/OptiBlogAi/pull/112) |
 | deps(deps): bump next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#111](https://github.com/solve-ease/OptiBlogAi/pull/111) |
 | deps(deps): bump lxml from 5.3.2 to 6.0.2 | Medium | [#106](https://github.com/solve-ease/OptiBlogAi/pull/106) |
-| deps(deps): bump lucide-react from 0.525.0 to 0.544.0 in /optiblogai-site | Medium | [#105](https://github.com/solve-ease/OptiBlogAi/pull/105) |
 | deps(deps): bump soupsieve from 2.6 to 2.8 | Medium | [#99](https://github.com/solve-ease/OptiBlogAi/pull/99) |
 | deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.7.0 | Medium | [#97](https://github.com/solve-ease/OptiBlogAi/pull/97) |
 | deps(deps): bump playwright from 1.53.0 to 1.55.0 | Medium | [#95](https://github.com/solve-ease/OptiBlogAi/pull/95) |
 | ci(deps): bump actions/setup-python from 5 to 6 | Medium | [#93](https://github.com/solve-ease/OptiBlogAi/pull/93) |
 | ci(deps): bump actions/setup-node from 4 to 5 | Medium | [#92](https://github.com/solve-ease/OptiBlogAi/pull/92) |
-| deps(deps): bump cachetools from 5.5.2 to 6.2.0 | Medium | [#91](https://github.com/solve-ease/OptiBlogAi/pull/91) |
 | deps(deps): bump typing-extensions from 4.13.2 to 4.15.0 | Medium | [#90](https://github.com/solve-ease/OptiBlogAi/pull/90) |
 | SITE ENHANCEMENT | Medium | [#89](https://github.com/solve-ease/OptiBlogAi/issues/89) |
 | ⬇️ Feature Request: Scroll to Bottom Button | Medium | [#88](https://github.com/solve-ease/OptiBlogAi/issues/88) |
 | deps(deps): bump requests from 2.32.3 to 2.32.5 | Medium | [#81](https://github.com/solve-ease/OptiBlogAi/pull/81) |
-| docker(deps): bump python from 3.12-slim to 3.13.7-slim | Medium | [#80](https://github.com/solve-ease/OptiBlogAi/pull/80) |
 | ci(deps): bump actions/checkout from 4 to 5 | Medium | [#79](https://github.com/solve-ease/OptiBlogAi/pull/79) |
 | Broken Links in Footer Navigation #41 | Medium | [#77](https://github.com/solve-ease/OptiBlogAi/pull/77) |
 | Added Contact Us Page | Medium | [#76](https://github.com/solve-ease/OptiBlogAi/pull/76) |
 | deps(deps): bump react and @types/react in /optiblogai-site | Medium | [#62](https://github.com/solve-ease/OptiBlogAi/pull/62) |
 | deps(deps): bump react-dom and @types/react-dom in /optiblogai-site | Medium | [#61](https://github.com/solve-ease/OptiBlogAi/pull/61) |
 | deps(deps): bump @types/mermaid from 9.1.0 to 9.2.0 in /optiblogai-site | Medium | [#59](https://github.com/solve-ease/OptiBlogAi/pull/59) |
-| Add Hover Effect to "Try demo" Button | Medium | [#52](https://github.com/solve-ease/OptiBlogAi/issues/52) |
 
 ---
 
@@ -1554,24 +1568,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
-## 📌 Project: Voice Marketing Agents
-
-📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
-
-🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
-
-💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| 📂 Add Project Folder Structure | Medium | [#43](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/43) |
-
----
-
 ## 📌 Project: Ai Cosmetic Recommendation System
 
 📝 **Description:** ML based recommendation system that suggests cosmetics as per the user requirements.
@@ -1815,6 +1811,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Project Structure in README.md | Medium | [#53](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/53) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#52](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/52) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#51](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/51) |
 | Dynamic Crop-Based Yield Map on Streamlit | Medium | [#50](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/50) |
