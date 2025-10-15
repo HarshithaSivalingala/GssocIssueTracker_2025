@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Telegram QR Code Added when channel link is not accessible | Medium | [#275](https://github.com/iaadillatif/techxninjas-client/pull/275) |
 | docs: Add contributors section to README | Medium | [#273](https://github.com/iaadillatif/techxninjas-client/pull/273) |
 | feat: Replace animated background with a performance-friendly CSS gradient | Medium | [#272](https://github.com/iaadillatif/techxninjas-client/pull/272) |
 | Add light/dark mode to home page | Medium | [#271](https://github.com/iaadillatif/techxninjas-client/pull/271) |
@@ -39,7 +40,6 @@
 | fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 | Enhancement of Card Carousel | Medium | [#246](https://github.com/iaadillatif/techxninjas-client/issues/246) |
 | Fix spelling / grammar typo on HomePage or Static Page | Medium | [#245](https://github.com/iaadillatif/techxninjas-client/issues/245) |
-| notification button not working | Medium | [#242](https://github.com/iaadillatif/techxninjas-client/issues/242) |
 
 ---
 
@@ -58,12 +58,10 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
-| Fix .dockerignore | Medium | [#2423](https://github.com/OWASP/Nest/pull/2423) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
-| feat: Add archived badge for repositories (#2388) | Medium | [#2412](https://github.com/OWASP/Nest/pull/2412) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
@@ -75,6 +73,7 @@
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
+| refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -191,13 +190,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add “Back to Top” Button in README.md | Medium | [#273](https://github.com/mansiruhil/fail-u-forward/issues/273) |
+| Add Contributors Section in README | Medium | [#272](https://github.com/mansiruhil/fail-u-forward/issues/272) |
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#271](https://github.com/mansiruhil/fail-u-forward/issues/271) |
 |  | Medium | [#270](https://github.com/mansiruhil/fail-u-forward/issues/270) |
 | The icon + text overlap (⟳ Refresh) looks broken | Medium | [#269](https://github.com/mansiruhil/fail-u-forward/issues/269) |
 | 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/mansiruhil/fail-u-forward/issues/268) |
-| Languages dropdown  - Fixes # (262) | Medium | [#267](https://github.com/mansiruhil/fail-u-forward/pull/267) |
 | Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/mansiruhil/fail-u-forward/issues/264) |
 | Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/mansiruhil/fail-u-forward/issues/263) |
-| Languages Dropdown is not visible properly. | Medium | [#262](https://github.com/mansiruhil/fail-u-forward/issues/262) |
 | Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/mansiruhil/fail-u-forward/issues/260) |
 | A clean and responsive Footer ⚠️ | Medium | [#258](https://github.com/mansiruhil/fail-u-forward/issues/258) |
 | Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/mansiruhil/fail-u-forward/issues/257) |
@@ -353,6 +353,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance "Genres" Page UI/UX | Easy | [#87](https://github.com/rahulkhandait-sde/cineverse/issues/87) |
+| Fix: Integrated Gemini API key for chatbot functionality | Medium | [#86](https://github.com/rahulkhandait-sde/cineverse/pull/86) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 
 ---
@@ -433,6 +435,24 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
+## 📌 Project: RigCraft
+
+📝 **Description:** Build your dream gaming PC with our interactive component selector. Choose compatible parts, optimize your budget, and craft the perfect rig.
+
+🔗 [View Project](https://github.com/SamXop123/RigCrafter)
+
+💻 **Tech Stack:** TypeScript, HTML, CSS, JavaScript, Express.js, Node.js, React
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| <Build Guides> Implement 3 full build guide pages | Hard | [#109](https://github.com/SamXop123/RigCrafter/issues/109) |
+
+---
+
 ## 📌 Project: CodeStreak
 
 📝 **Description:** CodeStreak is a productivity and motivation tool designed for coders who want to keep up with the daily problem solving or project goals Whether you are preaparing for coding interviews  buding person projects or improving your skills oneineat a time  Codestte allows you to stay on track and maintain your momentum.
@@ -483,7 +503,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: update notes cards to support dark theme using Docusaurus variables | Medium | [#247](https://github.com/souvikpramanikgit/LearnHub/pull/247) |
 | Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
 | CSS Refactor: Theme-Specific Contrast Fix for Highlighted Text | Medium | [#244](https://github.com/souvikpramanikgit/LearnHub/issues/244) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
@@ -536,6 +555,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix visibility and scrollbar styling in "Question of the Day" section | Medium | [#228](https://github.com/SurajSG23/PrepBuddy/issues/228) |
 | real questions | Medium | [#227](https://github.com/SurajSG23/PrepBuddy/issues/227) |
 
 ---
@@ -1017,13 +1037,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump vite from 5.4.17 to 7.1.10 | Medium | [#144](https://github.com/Ojas-Arora/SapneSeSafar/pull/144) |
 | Bump framer-motion from 11.18.2 to 12.23.24 | Medium | [#143](https://github.com/Ojas-Arora/SapneSeSafar/pull/143) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.0 | Medium | [#142](https://github.com/Ojas-Arora/SapneSeSafar/pull/142) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.75.0 | Medium | [#141](https://github.com/Ojas-Arora/SapneSeSafar/pull/141) |
 | Bump react-router-dom from 6.28.2 to 7.9.4 | Medium | [#140](https://github.com/Ojas-Arora/SapneSeSafar/pull/140) |
 | Bump eslint from 9.12.0 to 9.37.0 | Medium | [#138](https://github.com/Ojas-Arora/SapneSeSafar/pull/138) |
 | Bump lucide-react from 0.344.0 to 0.545.0 | Medium | [#136](https://github.com/Ojas-Arora/SapneSeSafar/pull/136) |
-| Bump vite from 5.4.17 to 7.1.9 | Medium | [#135](https://github.com/Ojas-Arora/SapneSeSafar/pull/135) |
 | Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.23 | Medium | [#133](https://github.com/Ojas-Arora/SapneSeSafar/pull/133) |
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
