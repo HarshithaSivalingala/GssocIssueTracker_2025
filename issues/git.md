@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance README with new sections and formatting | Medium | [#324](https://github.com/Amarjha01/InfantCareCompass/pull/324) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
@@ -161,7 +160,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
-| feat(ui): Implement Light, Dark, System, and High-Contrast Themes | Medium | [#684](https://github.com/alienx5499/SortVision/pull/684) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
 | Add "Step-by-Step Mode" for Sorting Visualizations | Medium | [#655](https://github.com/alienx5499/SortVision/issues/655) |
@@ -277,6 +275,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#290](https://github.com/AditiGupta-tech/neonest/issues/290) |
 | Fix task input text visibility (GSSoC Level 1) - Issue #287 | Medium | [#289](https://github.com/AditiGupta-tech/neonest/pull/289) |
 | Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
 | Fix/issue 171 | Medium | [#286](https://github.com/AditiGupta-tech/neonest/pull/286) |
@@ -436,13 +435,21 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Project Structure | Easy | [#268](https://github.com/dipexplorer/LegalHuB/pull/268) |
 | feat(security): Create a security page for user accounts. | Easy | [#237](https://github.com/dipexplorer/LegalHuB/pull/237) |
 | Enhance Navbar Hover Animation (Fixes #221) | Easy | [#235](https://github.com/dipexplorer/LegalHuB/pull/235) |
-| Allow users to exit Edit Lawyer Profile modal without updating | Medium | [#253](https://github.com/dipexplorer/LegalHuB/issues/253) |
-| fix: improved Reset Password UI and UX | Medium | [#252](https://github.com/dipexplorer/LegalHuB/pull/252) |
-| Add Project Statistics Section to contributor page | Hard | [#225](https://github.com/dipexplorer/LegalHuB/issues/225) |
-| Appointment API Test Failures & Missing Configurations Bug🧪 | Hard | [#213](https://github.com/dipexplorer/LegalHuB/issues/213) |
-| Implement proper setup for Admin Appointment Dashboard with filters, pagination, and management features | Hard | [#177](https://github.com/dipexplorer/LegalHuB/issues/177) |
+| Improve update lawyer form background to match website UI theme | Medium | [#273](https://github.com/dipexplorer/LegalHuB/issues/273) |
+| add-lawyer-update-form-closing-functionality | Medium | [#272](https://github.com/dipexplorer/LegalHuB/pull/272) |
+| feat: implement 3D flip contributor cards with animated glow (#260) | Medium | [#271](https://github.com/dipexplorer/LegalHuB/pull/271) |
+| feat: implement share popover functionality and styles | Medium | [#270](https://github.com/dipexplorer/LegalHuB/pull/270) |
+| Add second Reset Password Page UI | Medium | [#269](https://github.com/dipexplorer/LegalHuB/pull/269) |
+| 🌞 Feature Request: Add Light Mode Support | Medium | [#267](https://github.com/dipexplorer/LegalHuB/issues/267) |
+| Article Share Popover Placement, Functionality, and Styling and Feature Cleanup | Medium | [#263](https://github.com/dipexplorer/LegalHuB/issues/263) |
+| 🐛 Issue: Contributor Card UI/UX Overhaul and Interactivity | Medium | [#260](https://github.com/dipexplorer/LegalHuB/issues/260) |
+| Dictionary Share Popover Placement, Functionality, and Styling Fixes | Medium | [#258](https://github.com/dipexplorer/LegalHuB/issues/258) |
+| Dictionary Result Section UI Inconsistency and Missing Loader State | Medium | [#257](https://github.com/dipexplorer/LegalHuB/issues/257) |
+| Add Welcoming Contributions Banner | Medium | [#256](https://github.com/dipexplorer/LegalHuB/pull/256) |
+| Dictionary Search Term Not Rendering and Unstyled Result | Hard | [#259](https://github.com/dipexplorer/LegalHuB/issues/259) |
 
 ---
 
@@ -491,11 +498,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix issue: Text in the boxes in About us page is not visible in darktheme | Medium | [#105](https://github.com/lovelymahor/StudyMatePlus/pull/105) |
+| fixed issue:UI/UX Improvement | Medium | [#104](https://github.com/lovelymahor/StudyMatePlus/pull/104) |
 | improved SEO and accessibility and rectified deployment issue | Medium | [#103](https://github.com/lovelymahor/StudyMatePlus/pull/103) |
-| Text in the boxes in "About us" page is not visible in darktheme | Medium | [#102](https://github.com/lovelymahor/StudyMatePlus/issues/102) |
-| UI/UX Improvement | Medium | [#101](https://github.com/lovelymahor/StudyMatePlus/issues/101) |
 | Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
-| Redesign of the Contact Us page | Medium | [#98](https://github.com/lovelymahor/StudyMatePlus/issues/98) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Enhanced UI (Background) in all pages | Medium | [#71](https://github.com/lovelymahor/StudyMatePlus/pull/71) |
@@ -561,10 +567,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
-| Increase Navbar Font Size | Medium | [#725](https://github.com/SandeepVashishtha/Eventra/issues/725) |
-| Add individual boxes for “Quick Links”, “Community”, and “Support” sections in the footer | Medium | [#724](https://github.com/SandeepVashishtha/Eventra/issues/724) |
-| add a scroll functionality | Medium | [#722](https://github.com/SandeepVashishtha/Eventra/issues/722) |
 | image styling issues | Medium | [#556](https://github.com/SandeepVashishtha/Eventra/issues/556) |
+| Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
 
