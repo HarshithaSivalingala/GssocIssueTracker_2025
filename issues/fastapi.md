@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance README with new sections and formatting | Medium | [#324](https://github.com/Amarjha01/InfantCareCompass/pull/324) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
@@ -42,6 +41,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy23/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
@@ -100,9 +100,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Email Validation in Feedback Submission | Medium | [#689](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/689) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
