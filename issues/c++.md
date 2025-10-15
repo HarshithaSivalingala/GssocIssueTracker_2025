@@ -61,8 +61,11 @@
 |----------|----------------|---------|
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
+| test(policies): add/validate EPShard_ThrowAndLog for Throw+LogConsole | Medium | [#135](https://github.com/SharonIV0x86/CinderPeak/pull/135) |
+| Add Project Structure Section to README.md | Medium | [#134](https://github.com/SharonIV0x86/CinderPeak/issues/134) |
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#133](https://github.com/SharonIV0x86/CinderPeak/issues/133) |
+| feat(policies): Add tests for Ignore and Silent policy | Medium | [#132](https://github.com/SharonIV0x86/CinderPeak/issues/132) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#128](https://github.com/SharonIV0x86/CinderPeak/issues/128) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#127](https://github.com/SharonIV0x86/CinderPeak/issues/127) |
 
 ---
 
