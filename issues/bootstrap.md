@@ -18,25 +18,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update folder structure in readme.md | Easy | [#1114](https://github.com/gyanshankar1708/GrowCraft/issues/1114) |
-| backtotop added in contact us | Medium | [#1144](https://github.com/gyanshankar1708/GrowCraft/pull/1144) |
-| footer of contact us page added | Medium | [#1143](https://github.com/gyanshankar1708/GrowCraft/pull/1143) |
-| privacy terms sitemap link fixed | Medium | [#1142](https://github.com/gyanshankar1708/GrowCraft/pull/1142) |
+| view contributors button added in our work page | Medium | [#1158](https://github.com/gyanshankar1708/GrowCraft/pull/1158) |
+| Bug Report: About Us Page Not Rendering Properly | Medium | [#1157](https://github.com/gyanshankar1708/GrowCraft/issues/1157) |
+| Bug: Misplacement of footer bottom links in FAQ page | Medium | [#1156](https://github.com/gyanshankar1708/GrowCraft/issues/1156) |
+| [feat}: Search bar in home page | Medium | [#1153](https://github.com/gyanshankar1708/GrowCraft/issues/1153) |
+| Fixed footer in the blog page | Medium | [#1152](https://github.com/gyanshankar1708/GrowCraft/pull/1152) |
+| fixed issue:Dark Mode not working properly in some places | Medium | [#1151](https://github.com/gyanshankar1708/GrowCraft/pull/1151) |
+| Fix: Improve dark mode consistency in “Our Work” section (search bar & header design) | Medium | [#1150](https://github.com/gyanshankar1708/GrowCraft/pull/1150) |
+| back to top button isn't present | Medium | [#1149](https://github.com/gyanshankar1708/GrowCraft/issues/1149) |
+| Redesigned footer section | Medium | [#1148](https://github.com/gyanshankar1708/GrowCraft/pull/1148) |
+| Styled navbar properly for about us page. | Medium | [#1146](https://github.com/gyanshankar1708/GrowCraft/pull/1146) |
+| Bug: Broken image src shows Alt Text for Custom Web Apps on Web Development page. | Medium | [#1145](https://github.com/gyanshankar1708/GrowCraft/issues/1145) |
 | fix: unify navbar structure, links, and hover behavior across all pages | Medium | [#1141](https://github.com/gyanshankar1708/GrowCraft/pull/1141) |
-| footer links fixed in about.html | Medium | [#1140](https://github.com/gyanshankar1708/GrowCraft/pull/1140) |
-| privacy terms sitemap links fixed on faq page | Medium | [#1139](https://github.com/gyanshankar1708/GrowCraft/pull/1139) |
-| privacy  terms and sitemap links fixed on cyber analyst page | Medium | [#1138](https://github.com/gyanshankar1708/GrowCraft/pull/1138) |
-| Back to top button added in Cyber analyst Page | Medium | [#1137](https://github.com/gyanshankar1708/GrowCraft/pull/1137) |
-| Footer re-designed in Cyber Analyst page | Medium | [#1136](https://github.com/gyanshankar1708/GrowCraft/pull/1136) |
-| Fixed : Redesign the “Let’s Build Something Great” Section with Modern UI & Interactive Design | Medium | [#1135](https://github.com/gyanshankar1708/GrowCraft/pull/1135) |
-| corrected the spacing of the Website Developmemt page navbar | Medium | [#1134](https://github.com/gyanshankar1708/GrowCraft/pull/1134) |
 | Services Links Not Working in Footer Section of FAQ Page | Medium | [#1133](https://github.com/gyanshankar1708/GrowCraft/issues/1133) |
-| Refactored contact page styles and improved responsiveness | Medium | [#1132](https://github.com/gyanshankar1708/GrowCraft/pull/1132) |
-| Quick Links Not Working in Footer Section of FAQ Page | Medium | [#1131](https://github.com/gyanshankar1708/GrowCraft/issues/1131) |
-| Style change of bloglist | Medium | [#1130](https://github.com/gyanshankar1708/GrowCraft/pull/1130) |
-| styled navbar properly for content writing page. | Medium | [#1129](https://github.com/gyanshankar1708/GrowCraft/pull/1129) |
 | Footer | Medium | [#1128](https://github.com/gyanshankar1708/GrowCraft/issues/1128) |
-| styled footer in a efficient way | Medium | [#1127](https://github.com/gyanshankar1708/GrowCraft/pull/1127) |
 | about us not working in footer of webdevelopment page | Medium | [#1126](https://github.com/gyanshankar1708/GrowCraft/issues/1126) |
 | BUG: Dark Mode is not working on Home page | Medium | [#1125](https://github.com/gyanshankar1708/GrowCraft/issues/1125) |
 | BUG: Dark theme toggle is missing in Contact page | Medium | [#1124](https://github.com/gyanshankar1708/GrowCraft/issues/1124) |
@@ -44,10 +39,11 @@
 | BUG: Unconsistent footer visible in dark of Home Page | Medium | [#1122](https://github.com/gyanshankar1708/GrowCraft/issues/1122) |
 | BUG: Unwanted content on bottom and missing footer on contact page | Medium | [#1121](https://github.com/gyanshankar1708/GrowCraft/issues/1121) |
 | BUG: Double Content of Navbar issue on  About Page | Medium | [#1120](https://github.com/gyanshankar1708/GrowCraft/issues/1120) |
-| Enhance Chatbot UI & Accessibility Improvements | Medium | [#1119](https://github.com/gyanshankar1708/GrowCraft/pull/1119) |
 | nav bar inconsistency | Medium | [#1117](https://github.com/gyanshankar1708/GrowCraft/issues/1117) |
 | Add Contributor Details Button to Our Work Page | Medium | [#1116](https://github.com/gyanshankar1708/GrowCraft/issues/1116) |
-| Hacktoberfest Not Acknowledged in README | Medium | [#1115](https://github.com/gyanshankar1708/GrowCraft/issues/1115) |
+| double footer in about us section | Medium | [#1086](https://github.com/gyanshankar1708/GrowCraft/issues/1086) |
+| Fixing Bug in about page | Medium | [#1083](https://github.com/gyanshankar1708/GrowCraft/issues/1083) |
+| Add GSAP Count-Up Animation to Quick Stats Section in footer of faq page | Medium | [#1082](https://github.com/gyanshankar1708/GrowCraft/issues/1082) |
 
 ---
 
@@ -67,6 +63,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
+| Solved issue #68  -added real time interactive map | Medium | [#155](https://github.com/Pujan-sarkar/FARMLOC/pull/155) |
 | The image in about us section is overlapping the text right beside it | Medium | [#154](https://github.com/Pujan-sarkar/FARMLOC/issues/154) |
 | Fix issue #85 | Medium | [#152](https://github.com/Pujan-sarkar/FARMLOC/pull/152) |
 | Enhanced Contact Form and Added the SMTP Server service to send email to user and owner. | Medium | [#151](https://github.com/Pujan-sarkar/FARMLOC/pull/151) |
