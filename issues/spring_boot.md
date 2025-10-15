@@ -48,11 +48,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| After Editing a User Profile and then logout and login the old firebase password can be seen | Medium | [#493](https://github.com/yuvrajsinghgmx/ShopSmart/issues/493) |
+| Update User Location after each /load | Medium | [#492](https://github.com/yuvrajsinghgmx/ShopSmart/issues/492) |
+| Edit Profile | Medium | [#491](https://github.com/yuvrajsinghgmx/ShopSmart/issues/491) |
+| init: banners | Medium | [#490](https://github.com/yuvrajsinghgmx/ShopSmart/pull/490) |
+| Screen for "See All" for Nearby Produts" | Medium | [#489](https://github.com/yuvrajsinghgmx/ShopSmart/issues/489) |
+| Screen for "See All" for Nearby Shops | Medium | [#488](https://github.com/yuvrajsinghgmx/ShopSmart/issues/488) |
+| Implement Cart Section | Medium | [#485](https://github.com/yuvrajsinghgmx/ShopSmart/issues/485) |
 | Users should be able to Unfavourite products from the Saved Screen by clicking on the "❤️" icon | Medium | [#484](https://github.com/yuvrajsinghgmx/ShopSmart/issues/484) |
-| owner now can purchase subscriptions for shop & products | Medium | [#483](https://github.com/yuvrajsinghgmx/ShopSmart/pull/483) |
 | Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
-| Shop_Owner Profile | Medium | [#456](https://github.com/yuvrajsinghgmx/ShopSmart/issues/456) |
 | Master Issue for tracking Compose Dev. | Medium | [#454](https://github.com/yuvrajsinghgmx/ShopSmart/issues/454) |
 | Search bar on top of home screen is not functional | Medium | [#434](https://github.com/yuvrajsinghgmx/ShopSmart/issues/434) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
@@ -132,10 +137,8 @@
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
-| Increase Navbar Font Size | Medium | [#725](https://github.com/SandeepVashishtha/Eventra/issues/725) |
-| Add individual boxes for “Quick Links”, “Community”, and “Support” sections in the footer | Medium | [#724](https://github.com/SandeepVashishtha/Eventra/issues/724) |
-| add a scroll functionality | Medium | [#722](https://github.com/SandeepVashishtha/Eventra/issues/722) |
 | image styling issues | Medium | [#556](https://github.com/SandeepVashishtha/Eventra/issues/556) |
+| Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
 
