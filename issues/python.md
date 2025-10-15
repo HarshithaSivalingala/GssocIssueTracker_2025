@@ -72,7 +72,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance README with new sections and formatting | Medium | [#324](https://github.com/Amarjha01/InfantCareCompass/pull/324) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
@@ -227,12 +226,10 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
-| Fix .dockerignore | Medium | [#2423](https://github.com/OWASP/Nest/pull/2423) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
-| feat: Add archived badge for repositories (#2388) | Medium | [#2412](https://github.com/OWASP/Nest/pull/2412) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
@@ -244,6 +241,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
+| refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -295,6 +293,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy23/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
@@ -425,6 +424,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Light/Dark Mode Toggle Shows Minimal Difference | Medium | [#50](https://github.com/kanikaa-3018/contest_onlinejudge/issues/50) |
 | Fix text visibility issue in light mode for AI Integrations heading | Medium | [#48](https://github.com/kanikaa-3018/contest_onlinejudge/issues/48) |
 | UI/UX improvements for user dashboard | Medium | [#47](https://github.com/kanikaa-3018/contest_onlinejudge/issues/47) |
 | Add another Tab like resources | Medium | [#46](https://github.com/kanikaa-3018/contest_onlinejudge/issues/46) |
@@ -529,6 +529,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Cleanup Duplicate Auth & Search Logic in index.html | Medium | [#266](https://github.com/Khushi-Nigam/jobportal/pull/266) |
+| Add a search icon in the "Search Jobs Here" search bar for better UI consistency | Medium | [#265](https://github.com/Khushi-Nigam/jobportal/issues/265) |
 | Added file structure page | Medium | [#264](https://github.com/Khushi-Nigam/jobportal/pull/264) |
 | FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
 | Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
@@ -578,9 +580,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Email Validation in Feedback Submission | Medium | [#689](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/689) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
-| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -753,19 +753,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Pull Request : Credit Score Classification | Medium | [#802](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/802) |
-| Add Credit Score Classification using Machine Learning Project | Medium | [#801](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/801) |
-| Pull Request : Big Tech Giant Stocks Visualization App Project | Medium | [#800](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/800) |
+| Add New Project — Stock Market Turnover Ratio Analysis (GSSoC'25) | Medium | [#807](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/807) |
 | Add Big Tech Giant Stocks Visualization App Project | Medium | [#799](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/799) |
 | vidya | Medium | [#798](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/798) |
 | Add AI Text Summarizer | Medium | [#797](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/797) |
 | Add Interactive Chatbot for DataSentience-AIML Project Info | Medium | [#796](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/796) |
-| Pull Request : MRF Stocks Visualization App | Medium | [#795](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/795) |
-| Add MRF Stocks Visualization App Project | Medium | [#794](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/794) |
-| Pull Request : ITC Stocks Visualization App | Medium | [#793](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/793) |
 | Add ITC Stocks Visualization App Project | Medium | [#792](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/792) |
-| Pull Request : Reinforcement Learning Trading System | Medium | [#791](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/791) |
-| Reinforcement Learning Trading System | Medium | [#790](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/790) |
 | EDA Notebook Submission for Review | Medium | [#786](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/786) |
 | Smart Fertilizer Recommendation System using LLM | Medium | [#783](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/783) |
 | Reinforcement Learning for Stock Trading | Medium | [#762](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/762) |
@@ -774,6 +767,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add Streamlit Web App Interface for Email Classifier | Medium | [#358](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/358) |
 | Add Baseline Sales Forecasting Model using M5 Dataset #GSSOC'25 | Medium | [#350](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/350) |
 | Integration of Multilingual LLM-Powered Chatbot and Domain-Specific NLP and Deep learning Models for Enhanced User Interaction | Medium | [#275](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/275) |
+| Network Intrusion Detection System | Medium | [#262](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/262) |
+| A Polling Page | Medium | [#34](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/34) |
 
 ---
 
@@ -906,20 +901,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
 | UI Bug: Text color does not adapt to theme changes, causing readability issues | Medium | [#498](https://github.com/eccentriccoder01/TalkHeal/issues/498) |
 | Visual Styling & Theme Enhancements in Water Intake Tracker | Medium | [#496](https://github.com/eccentriccoder01/TalkHeal/issues/496) |
-| Categorize Wellness Task Suggestions in Daily Planner | Medium | [#495](https://github.com/eccentriccoder01/TalkHeal/issues/495) |
-| Implement Task Filtering in Daily Planner | Medium | [#494](https://github.com/eccentriccoder01/TalkHeal/issues/494) |
-| Feat: Add Due Dates and Sorting to Daily Planner | Medium | [#493](https://github.com/eccentriccoder01/TalkHeal/issues/493) |
-| Feat: Add Task Priority to Daily Planner | Medium | [#492](https://github.com/eccentriccoder01/TalkHeal/issues/492) |
-| Feat: Add 'Look Back' Feature for Reflection to Mood Tracker | Medium | [#491](https://github.com/eccentriccoder01/TalkHeal/issues/491) |
-| Feat: Improve Data Analysis and Visualization for Mood Tracker | Medium | [#490](https://github.com/eccentriccoder01/TalkHeal/issues/490) |
-| Feat: Enhance Mood History Display with Expandable Sections | Medium | [#489](https://github.com/eccentriccoder01/TalkHeal/issues/489) |
-| Feat: Add Granular Mood Options and Intensity to Mood Tracker | Medium | [#488](https://github.com/eccentriccoder01/TalkHeal/issues/488) |
-| Polish UI/UX for Quick Wellness Self-Check | Medium | [#487](https://github.com/eccentriccoder01/TalkHeal/issues/487) |
-| Enhance Data Visualization and Insights in Quick Self-Check | Medium | [#486](https://github.com/eccentriccoder01/TalkHeal/issues/486) |
-| Add 'Notes' Section to Quick Wellness Self-Check for Context | Medium | [#485](https://github.com/eccentriccoder01/TalkHeal/issues/485) |
-| Expand Scope of Quick Wellness Self-Check | Medium | [#484](https://github.com/eccentriccoder01/TalkHeal/issues/484) |
-| Implement Dynamic and Varied Wellness Tips in Quick Self-Check | Medium | [#483](https://github.com/eccentriccoder01/TalkHeal/issues/483) |
-| Decouple Feedback Logic in Quick Wellness Self-Check for More Comprehensive Advice | Medium | [#482](https://github.com/eccentriccoder01/TalkHeal/issues/482) |
 | Add a Dedicated Home Page for TalkHeal | Medium | [#480](https://github.com/eccentriccoder01/TalkHeal/issues/480) |
 
 ---
@@ -1812,11 +1793,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update Project Structure in README.md | Medium | [#53](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/53) |
-| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#52](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/52) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#51](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/51) |
 | Dynamic Crop-Based Yield Map on Streamlit | Medium | [#50](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/50) |
-| Add Geo-Based Visualizations for Yield Data in EDA Notebook - Fixes #24 | Medium | [#47](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/47) |
-| FEATURE ENGINEERING | Medium | [#16](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/16) |
 
 ---
 
