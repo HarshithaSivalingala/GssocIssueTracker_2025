@@ -219,13 +219,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump vite from 5.4.17 to 7.1.10 | Medium | [#144](https://github.com/Ojas-Arora/SapneSeSafar/pull/144) |
 | Bump framer-motion from 11.18.2 to 12.23.24 | Medium | [#143](https://github.com/Ojas-Arora/SapneSeSafar/pull/143) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.0 | Medium | [#142](https://github.com/Ojas-Arora/SapneSeSafar/pull/142) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.75.0 | Medium | [#141](https://github.com/Ojas-Arora/SapneSeSafar/pull/141) |
 | Bump react-router-dom from 6.28.2 to 7.9.4 | Medium | [#140](https://github.com/Ojas-Arora/SapneSeSafar/pull/140) |
 | Bump eslint from 9.12.0 to 9.37.0 | Medium | [#138](https://github.com/Ojas-Arora/SapneSeSafar/pull/138) |
 | Bump lucide-react from 0.344.0 to 0.545.0 | Medium | [#136](https://github.com/Ojas-Arora/SapneSeSafar/pull/136) |
-| Bump vite from 5.4.17 to 7.1.9 | Medium | [#135](https://github.com/Ojas-Arora/SapneSeSafar/pull/135) |
 | Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.23 | Medium | [#133](https://github.com/Ojas-Arora/SapneSeSafar/pull/133) |
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
