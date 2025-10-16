@@ -104,6 +104,25 @@
 
 ---
 
+## 📌 Project: TextEditingApp
+
+📝 **Description:** This is a basic text editing app made for fun, any contributions are welcome, Let's make a fun app with a lot more cool features.
+
+🔗 [View Project](https://github.com/may-tas/TextEditingApp)
+
+💻 **Tech Stack:** Flutter, Dart, Cubit
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Web-Specific Optimizations and PWA Features | Easy | [#118](https://github.com/may-tas/TextEditingApp/issues/118) |
+| Implement Comprehensive Testing Suite (Unit, Widget) | Easy | [#114](https://github.com/may-tas/TextEditingApp/issues/114) |
+
+---
+
 ## 📌 Project: Athletix
 
 📝 **Description:** Athletix is a Flutter, Firebase and Gemini API based platform for athlete management in India, offering performance tracking, injury management, AI recovery, and real-time messaging. Future upgrades include dashboards, finance and AI career planning
