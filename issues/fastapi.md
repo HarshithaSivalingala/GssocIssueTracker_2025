@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
+| News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
@@ -100,6 +102,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: functional add new goal btn | Medium | [#705](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/705) |
+| feat: Dynamic settings page | Medium | [#704](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/704) |
+| feat: Fixed issues in settings page | Medium | [#703](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/703) |
+| EmployeeForm - Enhanced Form with email validation, password strength meter, and match indicators | Medium | [#702](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/702) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
