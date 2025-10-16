@@ -118,7 +118,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
-| Core Authentication Broken - Sign Up/Login POST Request Missing | Medium | [#1302](https://github.com/Code-A2Z/code-a2z/issues/1302) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -394,6 +393,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: functional add new goal btn | Medium | [#705](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/705) |
+| feat: Dynamic settings page | Medium | [#704](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/704) |
+| feat: Fixed issues in settings page | Medium | [#703](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/703) |
+| EmployeeForm - Enhanced Form with email validation, password strength meter, and match indicators | Medium | [#702](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/702) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -412,11 +415,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Make monthly income as dropdown to select between range of salary | Medium | [#66](https://github.com/Naveenkumar30838/Housify/issues/66) |
-| Allow Property Owners to Edit Their Listings | Medium | [#65](https://github.com/Naveenkumar30838/Housify/pull/65) |
-| Add Real-Time Strong Password Validation to Registration Page | Medium | [#64](https://github.com/Naveenkumar30838/Housify/issues/64) |
-| fix(login): validate email format and show inline error messages | Medium | [#63](https://github.com/Naveenkumar30838/Housify/issues/63) |
-| UI Enhancement: Improve Home Page Styling and Layout | Medium | [#62](https://github.com/Naveenkumar30838/Housify/issues/62) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
 | Feature Suggestion :Save to Wishlist / Bookmark Properties | Medium | [#37](https://github.com/Naveenkumar30838/Housify/issues/37) |
 | Enhancing by adding comma separator to amount displayed | Medium | [#33](https://github.com/Naveenkumar30838/Housify/issues/33) |
@@ -469,23 +467,15 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#630](https://github.com/NishantRana07/HrRoadways/issues/630) |
+| Add Project Structure | Medium | [#629](https://github.com/NishantRana07/HrRoadways/pull/629) |
 | Add dedicated license page | Medium | [#628](https://github.com/NishantRana07/HrRoadways/issues/628) |
-| changed the colour of the helpline to make it more visible and also fixed a few errors which were showing in the localhost | Medium | [#627](https://github.com/NishantRana07/HrRoadways/pull/627) |
-| Newsletter | Medium | [#626](https://github.com/NishantRana07/HrRoadways/pull/626) |
-| Add Project Structure Section to README.md | Medium | [#625](https://github.com/NishantRana07/HrRoadways/issues/625) |
-| Update App.jsx | Medium | [#624](https://github.com/NishantRana07/HrRoadways/pull/624) |
-| Enhanced Safety First, Reliability, Comfort, 24/7 Customer Support | Medium | [#622](https://github.com/NishantRana07/HrRoadways/pull/622) |
 | Add Transitions and Animations | Medium | [#621](https://github.com/NishantRana07/HrRoadways/issues/621) |
 | Improve buttons of the webite | Medium | [#619](https://github.com/NishantRana07/HrRoadways/issues/619) |
-| Fix: Correct Twitter icon in footer (#614) | Medium | [#618](https://github.com/NishantRana07/HrRoadways/pull/618) |
 | Feature Request: Push Notifications / Alerts | Medium | [#617](https://github.com/NishantRana07/HrRoadways/issues/617) |
-| Added AI-Powered Smart Route Suggestions feature | Medium | [#616](https://github.com/NishantRana07/HrRoadways/pull/616) |
-| Add Pull Request (PR) Template | Medium | [#615](https://github.com/NishantRana07/HrRoadways/pull/615) |
-| Enhanced Validation for Donate Form | Medium | [#613](https://github.com/NishantRana07/HrRoadways/pull/613) |
-| Add Advanced Validation for Review Submission Form | Medium | [#612](https://github.com/NishantRana07/HrRoadways/pull/612) |
-| Update index.html | Medium | [#611](https://github.com/NishantRana07/HrRoadways/pull/611) |
-| Add Newsletter Subscription Section to Footer | Medium | [#606](https://github.com/NishantRana07/HrRoadways/pull/606) |
-| Add Contributors Section in README | Medium | [#605](https://github.com/NishantRana07/HrRoadways/pull/605) |
+| Fixed Issue #533: User Friendly Dashboard | Medium | [#570](https://github.com/NishantRana07/HrRoadways/pull/570) |
+| Incomplete Folder Structure in Repository | Medium | [#564](https://github.com/NishantRana07/HrRoadways/issues/564) |
+| Feature/ Chatbot Assistant Integration | Medium | [#552](https://github.com/NishantRana07/HrRoadways/pull/552) |
 
 ---
 
@@ -529,10 +519,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Robust Newsletter Subscription Feature | Medium | [#291](https://github.com/Prashanti-Hebbar/FoodIO/pull/291) |
-| Refactor Alerts with Toast | Medium | [#290](https://github.com/Prashanti-Hebbar/FoodIO/issues/290) |
-| Revise README for improved clarity and organization | Medium | [#289](https://github.com/Prashanti-Hebbar/FoodIO/pull/289) |
-| Improve Header layout | Medium | [#288](https://github.com/Prashanti-Hebbar/FoodIO/issues/288) |
+| Updated Alerts with Toast messages | Medium | [#292](https://github.com/Prashanti-Hebbar/FoodIO/pull/292) |
 | UI color changes made for a fresh , appetizing and appealing look | Medium | [#287](https://github.com/Prashanti-Hebbar/FoodIO/pull/287) |
 | Update Header Based on User Login Status | Medium | [#265](https://github.com/Prashanti-Hebbar/FoodIO/issues/265) |
 | Enhancing the favorite, saved and share button actions. | Medium | [#264](https://github.com/Prashanti-Hebbar/FoodIO/issues/264) |
@@ -803,6 +790,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesign Navbar for Better User Experience | Medium | [#259](https://github.com/openml-stack/SentiLog-AI/issues/259) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#258](https://github.com/openml-stack/SentiLog-AI/issues/258) |
 | News section taking too long to load data from API | Medium | [#257](https://github.com/openml-stack/SentiLog-AI/issues/257) |
 | Security Issue Fixed: Strong Password Validation | Medium | [#256](https://github.com/openml-stack/SentiLog-AI/pull/256) |
@@ -818,7 +806,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Docs/renew readme | Medium | [#184](https://github.com/openml-stack/SentiLog-AI/pull/184) |
 | Dashboard UI - Request to Start Work | Medium | [#174](https://github.com/openml-stack/SentiLog-AI/issues/174) |
 | Feature: Reset Password and Logout Color | Medium | [#156](https://github.com/openml-stack/SentiLog-AI/issues/156) |
-| fix: fixed the password toggle and improved dark mode for auth forms (placeholders, text, backgrounds) | Medium | [#154](https://github.com/openml-stack/SentiLog-AI/pull/154) |
 
 ---
 
@@ -895,12 +882,10 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#290](https://github.com/AditiGupta-tech/neonest/issues/290) |
 | Fix task input text visibility (GSSoC Level 1) - Issue #287 | Medium | [#289](https://github.com/AditiGupta-tech/neonest/pull/289) |
 | Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
 | Fix/issue 171 | Medium | [#286](https://github.com/AditiGupta-tech/neonest/pull/286) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
-| Added google Oauth frontend | Medium | [#278](https://github.com/AditiGupta-tech/neonest/pull/278) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
@@ -951,8 +936,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve dark mode UI for To-Do List component | Medium | [#187](https://github.com/DevSyncx/DevSync/issues/187) |
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
-| Add Github OAuth Authentication | Medium | [#178](https://github.com/DevSyncx/DevSync/pull/178) |
 | Suggestions regarding DevSync | Medium | [#176](https://github.com/DevSyncx/DevSync/issues/176) |
 | Add clickable navigation to feature cards on homepage | Medium | [#174](https://github.com/DevSyncx/DevSync/pull/174) |
 | Fix: Enhance ScrollRevealWrapper with proper ref handling and variants | Medium | [#173](https://github.com/DevSyncx/DevSync/pull/173) |
@@ -1046,21 +1031,14 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Project Structure | Easy | [#268](https://github.com/dipexplorer/LegalHuB/pull/268) |
+| Solved dictionary search term rendering and unstyled result | Easy | [#274](https://github.com/dipexplorer/LegalHuB/pull/274) |
 | feat(security): Create a security page for user accounts. | Easy | [#237](https://github.com/dipexplorer/LegalHuB/pull/237) |
 | Enhance Navbar Hover Animation (Fixes #221) | Easy | [#235](https://github.com/dipexplorer/LegalHuB/pull/235) |
-| Improve update lawyer form background to match website UI theme | Medium | [#273](https://github.com/dipexplorer/LegalHuB/issues/273) |
+| Improve lawyer update form UI/UX | Medium | [#275](https://github.com/dipexplorer/LegalHuB/pull/275) |
 | add-lawyer-update-form-closing-functionality | Medium | [#272](https://github.com/dipexplorer/LegalHuB/pull/272) |
 | feat: implement 3D flip contributor cards with animated glow (#260) | Medium | [#271](https://github.com/dipexplorer/LegalHuB/pull/271) |
-| feat: implement share popover functionality and styles | Medium | [#270](https://github.com/dipexplorer/LegalHuB/pull/270) |
-| Add second Reset Password Page UI | Medium | [#269](https://github.com/dipexplorer/LegalHuB/pull/269) |
-| 🌞 Feature Request: Add Light Mode Support | Medium | [#267](https://github.com/dipexplorer/LegalHuB/issues/267) |
-| Article Share Popover Placement, Functionality, and Styling and Feature Cleanup | Medium | [#263](https://github.com/dipexplorer/LegalHuB/issues/263) |
-| 🐛 Issue: Contributor Card UI/UX Overhaul and Interactivity | Medium | [#260](https://github.com/dipexplorer/LegalHuB/issues/260) |
 | Dictionary Share Popover Placement, Functionality, and Styling Fixes | Medium | [#258](https://github.com/dipexplorer/LegalHuB/issues/258) |
-| Dictionary Result Section UI Inconsistency and Missing Loader State | Medium | [#257](https://github.com/dipexplorer/LegalHuB/issues/257) |
 | Add Welcoming Contributions Banner | Medium | [#256](https://github.com/dipexplorer/LegalHuB/pull/256) |
-| Dictionary Search Term Not Rendering and Unstyled Result | Hard | [#259](https://github.com/dipexplorer/LegalHuB/issues/259) |
 
 ---
 
@@ -1286,7 +1264,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat: Implement staging environment, responsive design improvements, and production fixes | Medium | [#249](https://github.com/shandilya-rajnandini/DocAtHome/pull/249) |
-| Footer | Medium | [#248](https://github.com/shandilya-rajnandini/DocAtHome/issues/248) |
 | Added commit | Medium | [#247](https://github.com/shandilya-rajnandini/DocAtHome/pull/247) |
 | Save as draft | Medium | [#244](https://github.com/shandilya-rajnandini/DocAtHome/pull/244) |
 | Fix inconsistent error handling across auth routes (register, login, reset) | Medium | [#238](https://github.com/shandilya-rajnandini/DocAtHome/pull/238) |
@@ -1592,27 +1569,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add mit license file to the project | Medium | [#2](https://github.com/Tanyagambhir/UsedCarPricePridiction/pull/2) |
-
----
-
-## 📌 Project: SchoolApp
-
-📝 **Description:** Welcome to the School CRM System project! This system is designed to provide a smooth and intuitive experience for parents, students, and staff, focusing on student management and engagement. With our CRM, schools can enhance communication, ensure timely updates, and foster a better learning environment.
-
-🔗 [View Project](https://github.com/jayanththalla/School-CRM)
-
-💻 **Tech Stack:** Next.js, MongoDB, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Missing Rate Limiting | Medium | [#36](https://github.com/jayanththalla/School-CRM/issues/36) |
-| Missing Input Validation | Medium | [#35](https://github.com/jayanththalla/School-CRM/issues/35) |
-| No Password Validation in Login | Medium | [#34](https://github.com/jayanththalla/School-CRM/issues/34) |
-| Add Assignment Submission History with PDF Preview and Download | Medium | [#28](https://github.com/jayanththalla/School-CRM/pull/28) |
 
 ---
 
