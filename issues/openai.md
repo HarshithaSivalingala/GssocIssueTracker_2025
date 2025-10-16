@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
+| News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
@@ -41,13 +43,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| #421: Fix tooltip alignment and dark mode styling | Easy | [#425](https://github.com/Ayushjhawar8/Flavor-ai/pull/425) |
-| Unify Navbar and main area background of feedback page | Medium | [#451](https://github.com/Ayushjhawar8/Flavor-ai/pull/451) |
-| use validated GROQ API key in recipe API call and improve error hand… | Medium | [#450](https://github.com/Ayushjhawar8/Flavor-ai/pull/450) |
-| Fixed Mic & Close button bug when clicked | Medium | [#449](https://github.com/Ayushjhawar8/Flavor-ai/pull/449) |
-| Added missing page headers across some components | Medium | [#448](https://github.com/Ayushjhawar8/Flavor-ai/pull/448) |
-| Dropdown Theme made consistent | Medium | [#445](https://github.com/Ayushjhawar8/Flavor-ai/pull/445) |
-| Enhance cards with animated hover effects & updated icons | Medium | [#444](https://github.com/Ayushjhawar8/Flavor-ai/pull/444) |
+| Add Progress Bar for Completed Preparation Steps in Recipe View | Easy | [#464](https://github.com/Ayushjhawar8/Flavor-ai/issues/464) |
+| Update twitter logo in contactUs page | Easy | [#461](https://github.com/Ayushjhawar8/Flavor-ai/issues/461) |
+| Improve AI Diet Planner Page Design | Easy | [#460](https://github.com/Ayushjhawar8/Flavor-ai/issues/460) |
+| updated twitter logo in contact page | Medium | [#465](https://github.com/Ayushjhawar8/Flavor-ai/pull/465) |
+| Improved Design of AI Diet Page | Medium | [#463](https://github.com/Ayushjhawar8/Flavor-ai/pull/463) |
+| Fix Random Recipe Page Theme Colors | Medium | [#462](https://github.com/Ayushjhawar8/Flavor-ai/pull/462) |
+| Revamp Hero Section: Design, Responsiveness & CTA Improvements | Medium | [#459](https://github.com/Ayushjhawar8/Flavor-ai/pull/459) |
+| Fixed the layout flicker when search was pressed in Navbar | Medium | [#458](https://github.com/Ayushjhawar8/Flavor-ai/pull/458) |
 
 ---
 
@@ -105,6 +108,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: functional add new goal btn | Medium | [#705](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/705) |
+| feat: Dynamic settings page | Medium | [#704](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/704) |
+| feat: Fixed issues in settings page | Medium | [#703](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/703) |
+| EmployeeForm - Enhanced Form with email validation, password strength meter, and match indicators | Medium | [#702](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/702) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
