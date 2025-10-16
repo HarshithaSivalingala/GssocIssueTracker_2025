@@ -18,17 +18,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| view contributors button added in our work page | Medium | [#1158](https://github.com/gyanshankar1708/GrowCraft/pull/1158) |
-| Bug Report: About Us Page Not Rendering Properly | Medium | [#1157](https://github.com/gyanshankar1708/GrowCraft/issues/1157) |
-| Bug: Misplacement of footer bottom links in FAQ page | Medium | [#1156](https://github.com/gyanshankar1708/GrowCraft/issues/1156) |
-| [feat}: Search bar in home page | Medium | [#1153](https://github.com/gyanshankar1708/GrowCraft/issues/1153) |
-| Fixed footer in the blog page | Medium | [#1152](https://github.com/gyanshankar1708/GrowCraft/pull/1152) |
-| fixed issue:Dark Mode not working properly in some places | Medium | [#1151](https://github.com/gyanshankar1708/GrowCraft/pull/1151) |
-| Fix: Improve dark mode consistency in “Our Work” section (search bar & header design) | Medium | [#1150](https://github.com/gyanshankar1708/GrowCraft/pull/1150) |
+| fix: update web app image to display correctly | Medium | [#1174](https://github.com/gyanshankar1708/GrowCraft/pull/1174) |
+| Our work | Medium | [#1173](https://github.com/gyanshankar1708/GrowCraft/issues/1173) |
+| Navbar and footer inconsistency in services page. | Medium | [#1172](https://github.com/gyanshankar1708/GrowCraft/issues/1172) |
+| Navbar Styling Inconsistency on Contact Page | Medium | [#1171](https://github.com/gyanshankar1708/GrowCraft/issues/1171) |
+| Styling navbar consistently for website development page. | Medium | [#1170](https://github.com/gyanshankar1708/GrowCraft/issues/1170) |
+| fix Home page UI | Medium | [#1167](https://github.com/gyanshankar1708/GrowCraft/issues/1167) |
 | back to top button isn't present | Medium | [#1149](https://github.com/gyanshankar1708/GrowCraft/issues/1149) |
-| Redesigned footer section | Medium | [#1148](https://github.com/gyanshankar1708/GrowCraft/pull/1148) |
-| Styled navbar properly for about us page. | Medium | [#1146](https://github.com/gyanshankar1708/GrowCraft/pull/1146) |
-| Bug: Broken image src shows Alt Text for Custom Web Apps on Web Development page. | Medium | [#1145](https://github.com/gyanshankar1708/GrowCraft/issues/1145) |
 | fix: unify navbar structure, links, and hover behavior across all pages | Medium | [#1141](https://github.com/gyanshankar1708/GrowCraft/pull/1141) |
 | Services Links Not Working in Footer Section of FAQ Page | Medium | [#1133](https://github.com/gyanshankar1708/GrowCraft/issues/1133) |
 | Footer | Medium | [#1128](https://github.com/gyanshankar1708/GrowCraft/issues/1128) |
@@ -40,10 +36,6 @@
 | BUG: Unwanted content on bottom and missing footer on contact page | Medium | [#1121](https://github.com/gyanshankar1708/GrowCraft/issues/1121) |
 | BUG: Double Content of Navbar issue on  About Page | Medium | [#1120](https://github.com/gyanshankar1708/GrowCraft/issues/1120) |
 | nav bar inconsistency | Medium | [#1117](https://github.com/gyanshankar1708/GrowCraft/issues/1117) |
-| Add Contributor Details Button to Our Work Page | Medium | [#1116](https://github.com/gyanshankar1708/GrowCraft/issues/1116) |
-| double footer in about us section | Medium | [#1086](https://github.com/gyanshankar1708/GrowCraft/issues/1086) |
-| Fixing Bug in about page | Medium | [#1083](https://github.com/gyanshankar1708/GrowCraft/issues/1083) |
-| Add GSAP Count-Up Animation to Quick Stats Section in footer of faq page | Medium | [#1082](https://github.com/gyanshankar1708/GrowCraft/issues/1082) |
 
 ---
 
@@ -100,6 +92,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added AI-powered FAQ Chatbot | Medium | [#290](https://github.com/sachiva1/sachiva/pull/290) |
+| Add Login/Signup UI with enhanced styles and functionality | Medium | [#289](https://github.com/sachiva1/sachiva/pull/289) |
 | Updated footer | Medium | [#288](https://github.com/sachiva1/sachiva/pull/288) |
 
 ---
