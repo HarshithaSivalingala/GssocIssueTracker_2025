@@ -14,10 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feedback page | Medium | [#277](https://github.com/iaadillatif/techxninjas-client/pull/277) |
+| Add feature | Medium | [#276](https://github.com/iaadillatif/techxninjas-client/pull/276) |
 | Telegram QR Code Added when channel link is not accessible | Medium | [#275](https://github.com/iaadillatif/techxninjas-client/pull/275) |
 | docs: Add contributors section to README | Medium | [#273](https://github.com/iaadillatif/techxninjas-client/pull/273) |
 | feat: Replace animated background with a performance-friendly CSS gradient | Medium | [#272](https://github.com/iaadillatif/techxninjas-client/pull/272) |
-| Add light/dark mode to home page | Medium | [#271](https://github.com/iaadillatif/techxninjas-client/pull/271) |
+| Edit light/dark mode issue to home page | Medium | [#271](https://github.com/iaadillatif/techxninjas-client/pull/271) |
 | Added Search Button to Events Page (Fix: Missing Search Feature) | Medium | [#270](https://github.com/iaadillatif/techxninjas-client/pull/270) |
 | Added search button | Medium | [#269](https://github.com/iaadillatif/techxninjas-client/pull/269) |
 | Hi! I have aligned the glowing indicator in the category cards let me… | Medium | [#268](https://github.com/iaadillatif/techxninjas-client/pull/268) |
@@ -165,6 +167,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
@@ -199,13 +202,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| #421: Fix tooltip alignment and dark mode styling | Easy | [#425](https://github.com/Ayushjhawar8/Flavor-ai/pull/425) |
-| Unify Navbar and main area background of feedback page | Medium | [#451](https://github.com/Ayushjhawar8/Flavor-ai/pull/451) |
-| use validated GROQ API key in recipe API call and improve error hand… | Medium | [#450](https://github.com/Ayushjhawar8/Flavor-ai/pull/450) |
-| Fixed Mic & Close button bug when clicked | Medium | [#449](https://github.com/Ayushjhawar8/Flavor-ai/pull/449) |
-| Added missing page headers across some components | Medium | [#448](https://github.com/Ayushjhawar8/Flavor-ai/pull/448) |
-| Dropdown Theme made consistent | Medium | [#445](https://github.com/Ayushjhawar8/Flavor-ai/pull/445) |
-| Enhance cards with animated hover effects & updated icons | Medium | [#444](https://github.com/Ayushjhawar8/Flavor-ai/pull/444) |
+| Add Progress Bar for Completed Preparation Steps in Recipe View | Easy | [#464](https://github.com/Ayushjhawar8/Flavor-ai/issues/464) |
+| Update twitter logo in contactUs page | Easy | [#461](https://github.com/Ayushjhawar8/Flavor-ai/issues/461) |
+| Improve AI Diet Planner Page Design | Easy | [#460](https://github.com/Ayushjhawar8/Flavor-ai/issues/460) |
+| updated twitter logo in contact page | Medium | [#465](https://github.com/Ayushjhawar8/Flavor-ai/pull/465) |
+| Improved Design of AI Diet Page | Medium | [#463](https://github.com/Ayushjhawar8/Flavor-ai/pull/463) |
+| Fix Random Recipe Page Theme Colors | Medium | [#462](https://github.com/Ayushjhawar8/Flavor-ai/pull/462) |
+| Revamp Hero Section: Design, Responsiveness & CTA Improvements | Medium | [#459](https://github.com/Ayushjhawar8/Flavor-ai/pull/459) |
+| Fixed the layout flicker when search was pressed in Navbar | Medium | [#458](https://github.com/Ayushjhawar8/Flavor-ai/pull/458) |
 
 ---
 
@@ -223,17 +227,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Code of Conduct file | Medium | [#122](https://github.com/AyushSharma72/Skill_Trade/pull/122) |
-| Missing CODE_OF_CONDUCT.md file | Medium | [#121](https://github.com/AyushSharma72/Skill_Trade/issues/121) |
-| Feature Request: Add Chatbot for user assistance | Medium | [#119](https://github.com/AyushSharma72/Skill_Trade/issues/119) |
-| Feature Request: Add Service section with interactive features | Medium | [#118](https://github.com/AyushSharma72/Skill_Trade/issues/118) |
-| Feature Request: Add a Blog section to the website | Medium | [#117](https://github.com/AyushSharma72/Skill_Trade/issues/117) |
-| "Enhance UI: Add Hover Effect to Testimonial Cards in 'What Our Users Say' Section" | Medium | [#116](https://github.com/AyushSharma72/Skill_Trade/issues/116) |
-| Add Code of Conduct | Medium | [#115](https://github.com/AyushSharma72/Skill_Trade/issues/115) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#114](https://github.com/AyushSharma72/Skill_Trade/issues/114) |
-| Feature Request: Dark/Light Theme Support | Medium | [#113](https://github.com/AyushSharma72/Skill_Trade/issues/113) |
+| Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
 | IT REQUIRES MORE PROFESSIONAL ENHANCEMENT IN NAVBAR SECTION AND ALSO MISSING ABOUT US SECTION | Medium | [#111](https://github.com/AyushSharma72/Skill_Trade/issues/111) |
-| Improve UI components and animations to match theme consistency of home page | Medium | [#110](https://github.com/AyushSharma72/Skill_Trade/issues/110) |
 
 ---
 
@@ -272,6 +267,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Flight Alerts  Temporary Local Storage Support for store that in local browser | Easy | [#26](https://github.com/Dnyaneshpise/skywatch_alerts/issues/26) |
+| Add File Structure to README.md | Medium | [#66](https://github.com/Dnyaneshpise/skywatch_alerts/issues/66) |
 | Alert History Module | Medium | [#49](https://github.com/Dnyaneshpise/skywatch_alerts/pull/49) |
 | Dashboard route leads to 404 | Medium | [#47](https://github.com/Dnyaneshpise/skywatch_alerts/issues/47) |
 | Issue: UI Enhancement – About Page
@@ -345,6 +341,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix Sign Up Button Redirecting | Medium | [#274](https://github.com/mansiruhil/fail-u-forward/pull/274) |
 | Add “Back to Top” Button in README.md | Medium | [#273](https://github.com/mansiruhil/fail-u-forward/issues/273) |
 | Add Contributors Section in README | Medium | [#272](https://github.com/mansiruhil/fail-u-forward/issues/272) |
 | Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#271](https://github.com/mansiruhil/fail-u-forward/issues/271) |
@@ -564,6 +561,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| [Feature]: Revamp Hero Section: Responsive Dark Button, Stylish Text & Iconic Navbar | Easy | [#940](https://github.com/recodehive/recode-website/issues/940) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -583,14 +581,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| Add “Back to Top” Button in README.md | Medium | [#439](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/439) |
-| Add GSSoC  and  Hacktoberfest Banner to README | Medium | [#438](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/438) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#437](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/437) |
-| Fix Tab and Button Alignment on Small Screens | Medium | [#436](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/436) |
+| Center-align tabs and filters on mobile screens | Medium | [#440](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/440) |
 | Updates testimonials to be visible in light mode | Medium | [#435](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/435) |
 | Flashcard text overlapping | Medium | [#432](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/432) |
-| Added breadcrumbs on all website pages using tailwindCSS | Medium | [#430](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/430) |
-| Improved visibility of Terms of Service and Privacy Policy button | Medium | [#429](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/429) |
 | Table of Contents Missing in README.md | Medium | [#428](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/428) |
 | fix: improve testimonial prompt visibility in light mode | Medium | [#425](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/425) |
 | Add self-made DSAMate logo #4 | Medium | [#422](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/422) |
@@ -857,12 +850,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#290](https://github.com/AditiGupta-tech/neonest/issues/290) |
 | Fix task input text visibility (GSSoC Level 1) - Issue #287 | Medium | [#289](https://github.com/AditiGupta-tech/neonest/pull/289) |
 | Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
 | Fix/issue 171 | Medium | [#286](https://github.com/AditiGupta-tech/neonest/pull/286) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
-| Added google Oauth frontend | Medium | [#278](https://github.com/AditiGupta-tech/neonest/pull/278) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 
@@ -1383,32 +1374,13 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#98](https://github.com/subhadeeproy3902/mvpblocks/issues/98) |
+| Add  Project Structure in README.md | Medium | [#97](https://github.com/subhadeeproy3902/mvpblocks/issues/97) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
 | Add Contact Page | Medium | [#4](https://github.com/subhadeeproy3902/mvpblocks/issues/4) |
 | Add Text Animations | Medium | [#3](https://github.com/subhadeeproy3902/mvpblocks/issues/3) |
-
----
-
-## 📌 Project: SchoolApp
-
-📝 **Description:** Welcome to the School CRM System project! This system is designed to provide a smooth and intuitive experience for parents, students, and staff, focusing on student management and engagement. With our CRM, schools can enhance communication, ensure timely updates, and foster a better learning environment.
-
-🔗 [View Project](https://github.com/jayanththalla/School-CRM)
-
-💻 **Tech Stack:** Next.js, MongoDB, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Missing Rate Limiting | Medium | [#36](https://github.com/jayanththalla/School-CRM/issues/36) |
-| Missing Input Validation | Medium | [#35](https://github.com/jayanththalla/School-CRM/issues/35) |
-| No Password Validation in Login | Medium | [#34](https://github.com/jayanththalla/School-CRM/issues/34) |
-| Add Assignment Submission History with PDF Preview and Download | Medium | [#28](https://github.com/jayanththalla/School-CRM/pull/28) |
 
 ---
 
@@ -1426,6 +1398,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add File Structure to README.md | Medium | [#209](https://github.com/vatsal-bhakodia/smriti-ai/issues/209) |
 | Feature Request: Add a Splash Screen for Enhanced User Experience | Medium | [#208](https://github.com/vatsal-bhakodia/smriti-ai/issues/208) |
 | Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
 
