@@ -72,6 +72,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
+| News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
@@ -226,6 +228,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
@@ -307,25 +310,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 | Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
 | Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
-
----
-
-## 📌 Project: Medical Adherence Monitoring System
-
-📝 **Description:** An innovative healthcare management system designed to help patients track medication intake, connect with doctors, and maintain a healthier lifestyle. Demo Video: https://res.cloudinary.com/dzl3qnjqk/video/upload/v1751681025/VID-20250419-WA0000_4_tycodg.mp4
-
-🔗 [View Project](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System)
-
-💻 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improve local setup Documentation | Medium | [#34](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/34) |
-| Add automated tests for backend APIs | Medium | [#33](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/33) |
 
 ---
 
@@ -580,6 +564,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: functional add new goal btn | Medium | [#705](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/705) |
+| feat: Dynamic settings page | Medium | [#704](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/704) |
+| feat: Fixed issues in settings page | Medium | [#703](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/703) |
+| EmployeeForm - Enhanced Form with email validation, password strength meter, and match indicators | Medium | [#702](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/702) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -598,6 +586,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Pull Request : Soil Type Classification Model | Medium | [#425](https://github.com/omroy07/AgriTech/pull/425) |
+| Add : Soil Type Classification Model | Medium | [#424](https://github.com/omroy07/AgriTech/issues/424) |
 | Fixes #352: Background image added | Medium | [#423](https://github.com/omroy07/AgriTech/pull/423) |
 | Fix: updated theme toggle icons to reflect opposite mode in contact page | Medium | [#422](https://github.com/omroy07/AgriTech/pull/422) |
 | Fix: Added favorite option to Blog pages | Medium | [#421](https://github.com/omroy07/AgriTech/pull/421) |
@@ -615,7 +605,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 | Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
-| Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
 
 ---
 
@@ -753,6 +742,25 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Pull Request : Predicting Commodity Prices Using Deep Learning | Medium | [#828](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/828) |
+| Add Project — Predicting Commodity Prices Using Deep Learning | Medium | [#827](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/827) |
+| Pull Request : Portfolio Optimization Using Genetic Algorithms | Medium | [#826](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/826) |
+| Add Project — Portfolio Optimization Using Genetic Algorithms | Medium | [#825](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/825) |
+| Pull Request : Portfolio Hedging using Generative Adversarial Network… | Medium | [#824](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/824) |
+| Add Project — Portfolio Hedging using Generative Adversarial Networks (GANs) | Medium | [#823](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/823) |
+| Pull Request : Volatility Forecasting with LSTM Networks for Hedging | Medium | [#822](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/822) |
+| Add New Project — Volatility Forecasting with LSTM Networks for Hedging | Medium | [#821](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/821) |
+| Pull Request : Tail Risk Hedging Strategy Development | Medium | [#820](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/820) |
+| Add New Project — Tail Risk Hedging | Medium | [#819](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/819) |
+| Pull Request : Swedish Economic Analysis & Interactive Dashboard (190… | Medium | [#818](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/818) |
+| Add New Project — Swedish Economic Analysis & Interactive Dashboard (1908–2001) | Medium | [#817](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/817) |
+| Object Detection Using OpenCV and Deep Learning | Medium | [#816](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/816) |
+| Pull Request : Sustainable Finance Analytics | Medium | [#814](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/814) |
+| Add New Project — Sustainable Finance Analytics | Medium | [#813](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/813) |
+| Pull Request : Reinforcement Learning for Portfolio Stress Testing | Medium | [#812](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/812) |
+| Add New Project — Reinforcement Learning for Portfolio Stress Testing | Medium | [#811](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/811) |
+| Pull Request : Stock Market Turnover Ratio Analysis | Medium | [#810](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/810) |
+| Add New Project - Stock Turnover Ratio Dataset Analysis | Medium | [#809](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/809) |
 | Add New Project — Stock Market Turnover Ratio Analysis (GSSoC'25) | Medium | [#807](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/807) |
 | Add Big Tech Giant Stocks Visualization App Project | Medium | [#799](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/799) |
 | vidya | Medium | [#798](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/798) |
@@ -762,13 +770,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | EDA Notebook Submission for Review | Medium | [#786](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/786) |
 | Smart Fertilizer Recommendation System using LLM | Medium | [#783](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/783) |
 | Reinforcement Learning for Stock Trading | Medium | [#762](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/762) |
-| AIDice Master | Medium | [#466](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/466) |
-| GSSoC'25 : Real-Time Market Sentiment-Driven Trading Signal Generator | Medium | [#412](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/412) |
-| Add Streamlit Web App Interface for Email Classifier | Medium | [#358](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/358) |
-| Add Baseline Sales Forecasting Model using M5 Dataset #GSSOC'25 | Medium | [#350](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/350) |
-| Integration of Multilingual LLM-Powered Chatbot and Domain-Specific NLP and Deep learning Models for Enhanced User Interaction | Medium | [#275](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/275) |
-| Network Intrusion Detection System | Medium | [#262](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/262) |
-| A Polling Page | Medium | [#34](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/34) |
 
 ---
 
@@ -897,11 +898,23 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI/UX Enhancement: Improve Login Form Design and Responsiveness and validation | Medium | [#512](https://github.com/eccentriccoder01/TalkHeal/issues/512) |
 | Making sidebar organized. | Medium | [#500](https://github.com/eccentriccoder01/TalkHeal/issues/500) |
 | Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
 | UI Bug: Text color does not adapt to theme changes, causing readability issues | Medium | [#498](https://github.com/eccentriccoder01/TalkHeal/issues/498) |
 | Visual Styling & Theme Enhancements in Water Intake Tracker | Medium | [#496](https://github.com/eccentriccoder01/TalkHeal/issues/496) |
 | Add a Dedicated Home Page for TalkHeal | Medium | [#480](https://github.com/eccentriccoder01/TalkHeal/issues/480) |
+| Add Password Strength Meter with Real-time Feedback and NIST Guidelines Enforcement | Medium | [#463](https://github.com/eccentriccoder01/TalkHeal/issues/463) |
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#462](https://github.com/eccentriccoder01/TalkHeal/issues/462) |
+| UI/UX Enhancement Proposal for TalkHeal — Minimal, Calming, and Modern Design | Medium | [#428](https://github.com/eccentriccoder01/TalkHeal/issues/428) |
+|  | Medium | [#426](https://github.com/eccentriccoder01/TalkHeal/issues/426) |
+|  | Medium | [#424](https://github.com/eccentriccoder01/TalkHeal/issues/424) |
+| Color of the About Page | Medium | [#322](https://github.com/eccentriccoder01/TalkHeal/issues/322) |
+| 1.Creative Outlets & Hobbies
+Art, music, writing, gardening, or any hobby .These activities give our mind a break, reduce stress, and bring joy without pressure. So we can make a group where people can share them freely so that they can also connect with more people and these will help them to socialize 
+
+2 .Digital Well-being:
+Too much social media can silently hurt your confidence and peace of mind. Try mindful scrolling, set digital detox hours, or create “tech-free zones” at home. Small steps, big impact. | Medium | [#285](https://github.com/eccentriccoder01/TalkHeal/issues/285) |
 
 ---
 
@@ -1247,6 +1260,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix: auto-scroll chat window to latest message | Easy | [#142](https://github.com/aayushraj1010/med-genie/pull/142) |
+| Title: Build Trust Indicators section with Security Badges | Medium | [#197](https://github.com/aayushraj1010/med-genie/issues/197) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
 | fix: Enhance Footer UI | Medium | [#195](https://github.com/aayushraj1010/med-genie/pull/195) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
