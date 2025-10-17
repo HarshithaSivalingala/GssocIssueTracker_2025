@@ -45,6 +45,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing Navigation menu for smaller screens | Medium | [#125](https://github.com/Bavanetha27/Refixly/issues/125) |
 | Clickables not working | Medium | [#124](https://github.com/Bavanetha27/Refixly/issues/124) |
 | Terms of Service | Medium | [#123](https://github.com/Bavanetha27/Refixly/issues/123) |
 | Login UI | Medium | [#122](https://github.com/Bavanetha27/Refixly/issues/122) |
