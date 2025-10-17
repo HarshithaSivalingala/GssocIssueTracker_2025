@@ -43,6 +43,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
+| Fix Sign Up POST request not being sent (#1302) | Medium | [#1305](https://github.com/Code-A2Z/code-a2z/pull/1305) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -51,7 +52,6 @@
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
-| 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
 
 ---
 
@@ -71,6 +71,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing Navigation menu for smaller screens | Medium | [#125](https://github.com/Bavanetha27/Refixly/issues/125) |
 | Clickables not working | Medium | [#124](https://github.com/Bavanetha27/Refixly/issues/124) |
 | Terms of Service | Medium | [#123](https://github.com/Bavanetha27/Refixly/issues/123) |
 | Login UI | Medium | [#122](https://github.com/Bavanetha27/Refixly/issues/122) |
@@ -132,6 +133,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| NEW HOME PAGE | Easy | [#146](https://github.com/Parnab03/WallGodds/issues/146) |
 | WallGodds IMPRESSION (macOS Preview) | Easy | [#139](https://github.com/Parnab03/WallGodds/issues/139) |
 | PROFILE PAGE | Easy | [#130](https://github.com/Parnab03/WallGodds/issues/130) |
 | UPLOAD PAGE FOR MOBILE WALLPAPERS | Easy | [#128](https://github.com/Parnab03/WallGodds/issues/128) |
@@ -203,39 +205,6 @@
 | Redesign destinations section for a professional website look | Medium | [#132](https://github.com/Richajaishwal0/Trip_assistant/issues/132) |
 | budget asistant | Medium | [#128](https://github.com/Richajaishwal0/Trip_assistant/pull/128) |
 | feat: complete UI overhaul - fix navigation visibility, add theme sup… | Medium | [#125](https://github.com/Richajaishwal0/Trip_assistant/pull/125) |
-
----
-
-## 📌 Project: automataverse
-
-📝 **Description:** Automata-Verse is an interactive educational platform for learning and experimenting with theory of computation concepts. The application provides intuitive visual simulators for various automata models that are fundamental to computer science.  
-
-🔗 [View Project](https://github.com/robinsingh-ai/AutomataVerse)
-
-💻 **Tech Stack:** Next.js, React, Firebase, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| privacy page | Medium | [#59](https://github.com/robinsingh-ai/AutomataVerse/issues/59) |
-| UI enhancement | Medium | [#58](https://github.com/robinsingh-ai/AutomataVerse/issues/58) |
-| Fix inconsistent padding in "Sign Up" and "Login" buttons | Medium | [#57](https://github.com/robinsingh-ai/AutomataVerse/issues/57) |
-| Fix text overflow in "Show All Labels" button | Medium | [#56](https://github.com/robinsingh-ai/AutomataVerse/issues/56) |
-| No Password Strength Indicator on Signup Form | Medium | [#55](https://github.com/robinsingh-ai/AutomataVerse/issues/55) |
-| Add Animation Effects for Hero Section | Medium | [#54](https://github.com/robinsingh-ai/AutomataVerse/issues/54) |
-| Add "Back to Top" Button for Easy Navigation | Medium | [#53](https://github.com/robinsingh-ai/AutomataVerse/issues/53) |
-| Testing and Edge Cases | Medium | [#48](https://github.com/robinsingh-ai/AutomataVerse/issues/48) |
-| Keyboard Shortcuts Support | Medium | [#47](https://github.com/robinsingh-ai/AutomataVerse/issues/47) |
-| Smart Deletion Validation | Medium | [#46](https://github.com/robinsingh-ai/AutomataVerse/issues/46) |
-| Visual Feedback and Selection System | Medium | [#45](https://github.com/robinsingh-ai/AutomataVerse/issues/45) |
-| Transition Deletion UI Implementation | Medium | [#44](https://github.com/robinsingh-ai/AutomataVerse/issues/44) |
-| State Deletion UI Implementation | Medium | [#43](https://github.com/robinsingh-ai/AutomataVerse/issues/43) |
-| Draggable panel not getting dragged using cursor | Medium | [#40](https://github.com/robinsingh-ai/AutomataVerse/issues/40) |
-| fix problem panel | Medium | [#30](https://github.com/robinsingh-ai/AutomataVerse/issues/30) |
-| redesign demo page | Hard | [#14](https://github.com/robinsingh-ai/AutomataVerse/issues/14) |
 
 ---
 
@@ -311,25 +280,6 @@
 | Implementation of TImeTable | Medium | [#18](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/18) |
 | Make it a progressive web app (PWA) | Medium | [#16](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/16) |
 | Fixed the issue | Medium | [#4](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/4) |
-
----
-
-## 📌 Project: PrepBuddy
-
-📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
-
-🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
-
-💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Fix visibility and scrollbar styling in "Question of the Day" section | Medium | [#228](https://github.com/SurajSG23/PrepBuddy/issues/228) |
-| real questions | Medium | [#227](https://github.com/SurajSG23/PrepBuddy/issues/227) |
 
 ---
 
@@ -477,6 +427,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing Database Implementation in Authentication Controller | Medium | [#57](https://github.com/Devaki01/EcoStore/issues/57) |
 | Privacy Policy Page | Medium | [#56](https://github.com/Devaki01/EcoStore/issues/56) |
 | Terms and Conditions | Medium | [#55](https://github.com/Devaki01/EcoStore/issues/55) |
 | UI/UX Issues | Medium | [#53](https://github.com/Devaki01/EcoStore/issues/53) |
@@ -596,6 +547,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Changed Footer | Medium | [#250](https://github.com/shandilya-rajnandini/DocAtHome/pull/250) |
 | feat: Implement staging environment, responsive design improvements, and production fixes | Medium | [#249](https://github.com/shandilya-rajnandini/DocAtHome/pull/249) |
 | Added commit | Medium | [#247](https://github.com/shandilya-rajnandini/DocAtHome/pull/247) |
 | Save as draft | Medium | [#244](https://github.com/shandilya-rajnandini/DocAtHome/pull/244) |
