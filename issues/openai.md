@@ -43,14 +43,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Progress Bar for Completed Preparation Steps in Recipe View | Easy | [#464](https://github.com/Ayushjhawar8/Flavor-ai/issues/464) |
-| Update twitter logo in contactUs page | Easy | [#461](https://github.com/Ayushjhawar8/Flavor-ai/issues/461) |
-| Improve AI Diet Planner Page Design | Easy | [#460](https://github.com/Ayushjhawar8/Flavor-ai/issues/460) |
-| updated twitter logo in contact page | Medium | [#465](https://github.com/Ayushjhawar8/Flavor-ai/pull/465) |
-| Improved Design of AI Diet Page | Medium | [#463](https://github.com/Ayushjhawar8/Flavor-ai/pull/463) |
-| Fix Random Recipe Page Theme Colors | Medium | [#462](https://github.com/Ayushjhawar8/Flavor-ai/pull/462) |
-| Revamp Hero Section: Design, Responsiveness & CTA Improvements | Medium | [#459](https://github.com/Ayushjhawar8/Flavor-ai/pull/459) |
-| Fixed the layout flicker when search was pressed in Navbar | Medium | [#458](https://github.com/Ayushjhawar8/Flavor-ai/pull/458) |
+| Fixed the layout flicker when search was pressed in Navbar | Easy | [#458](https://github.com/Ayushjhawar8/Flavor-ai/pull/458) |
+| bug-fix-translate-language | Medium | [#481](https://github.com/Ayushjhawar8/Flavor-ai/pull/481) |
+| Correct footer layout on home page for full width | Medium | [#480](https://github.com/Ayushjhawar8/Flavor-ai/pull/480) |
+| Added Progress Bar for Completed Preparation Steps in Recipe View #464 | Medium | [#479](https://github.com/Ayushjhawar8/Flavor-ai/pull/479) |
+| Redesign AI Diet Planner Page | Medium | [#478](https://github.com/Ayushjhawar8/Flavor-ai/pull/478) |
+| Added custom 404 Not Found page | Medium | [#475](https://github.com/Ayushjhawar8/Flavor-ai/pull/475) |
+| Fixed Dark Mode Support and Improved UI Structure for Diet Planner Page | Medium | [#474](https://github.com/Ayushjhawar8/Flavor-ai/pull/474) |
+| Fix/back button | Medium | [#472](https://github.com/Ayushjhawar8/Flavor-ai/pull/472) |
+| fixed text color for better visibilty | Medium | [#470](https://github.com/Ayushjhawar8/Flavor-ai/pull/470) |
 
 ---
 
@@ -108,11 +109,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Sign-In Button Text and Icon Not Visible Properly in Light Mode | Medium | [#709](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/709) |
+| Overlapping Back button and logo on Sign-Up Pages (Mobile View). | Medium | [#708](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/708) |
+| Remove Unnecessary Email & Password Validation on Sign-In Page | Medium | [#707](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/707) |
+| Refactor Interview Page: Full UI Redesign + Global Layout Integration | Medium | [#706](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/706) |
 | feat: functional add new goal btn | Medium | [#705](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/705) |
 | feat: Dynamic settings page | Medium | [#704](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/704) |
 | feat: Fixed issues in settings page | Medium | [#703](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/703) |
 | EmployeeForm - Enhanced Form with email validation, password strength meter, and match indicators | Medium | [#702](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/702) |
-| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
 
