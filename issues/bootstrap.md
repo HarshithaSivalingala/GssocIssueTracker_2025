@@ -18,7 +18,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: update web app image to display correctly | Medium | [#1174](https://github.com/gyanshankar1708/GrowCraft/pull/1174) |
+| Styled navbar properly for our work page. | Medium | [#1196](https://github.com/gyanshankar1708/GrowCraft/pull/1196) |
+| Services Section Misalignment on Home Page | Medium | [#1195](https://github.com/gyanshankar1708/GrowCraft/issues/1195) |
+| footer section inconvinient | Medium | [#1191](https://github.com/gyanshankar1708/GrowCraft/issues/1191) |
+| Services section is not looking good | Medium | [#1189](https://github.com/gyanshankar1708/GrowCraft/issues/1189) |
+| Fixed the name beside logo | Medium | [#1188](https://github.com/gyanshankar1708/GrowCraft/pull/1188) |
+| to improve the overall syling of the service section in the home page and make the dark mode button functional | Medium | [#1187](https://github.com/gyanshankar1708/GrowCraft/issues/1187) |
+| unwanted login signup options | Medium | [#1186](https://github.com/gyanshankar1708/GrowCraft/issues/1186) |
+| invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
+| Adding navbar links hover effects in services page. | Medium | [#1184](https://github.com/gyanshankar1708/GrowCraft/issues/1184) |
+| missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
+| Missing back to home button in login page | Medium | [#1182](https://github.com/gyanshankar1708/GrowCraft/issues/1182) |
+| Footer missing in blogs page | Medium | [#1180](https://github.com/gyanshankar1708/GrowCraft/issues/1180) |
+| Dark/light mode button is not working | Medium | [#1179](https://github.com/gyanshankar1708/GrowCraft/issues/1179) |
 | Our work | Medium | [#1173](https://github.com/gyanshankar1708/GrowCraft/issues/1173) |
 | Navbar and footer inconsistency in services page. | Medium | [#1172](https://github.com/gyanshankar1708/GrowCraft/issues/1172) |
 | Navbar Styling Inconsistency on Contact Page | Medium | [#1171](https://github.com/gyanshankar1708/GrowCraft/issues/1171) |
@@ -34,8 +46,6 @@
 | BUG: About Page footer issue some content not visible properly icons issue | Medium | [#1123](https://github.com/gyanshankar1708/GrowCraft/issues/1123) |
 | BUG: Unconsistent footer visible in dark of Home Page | Medium | [#1122](https://github.com/gyanshankar1708/GrowCraft/issues/1122) |
 | BUG: Unwanted content on bottom and missing footer on contact page | Medium | [#1121](https://github.com/gyanshankar1708/GrowCraft/issues/1121) |
-| BUG: Double Content of Navbar issue on  About Page | Medium | [#1120](https://github.com/gyanshankar1708/GrowCraft/issues/1120) |
-| nav bar inconsistency | Medium | [#1117](https://github.com/gyanshankar1708/GrowCraft/issues/1117) |
 
 ---
 
