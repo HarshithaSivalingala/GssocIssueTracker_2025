@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Hover effect missing on feature buttons in hero section (UX improvement) | Medium | [#278](https://github.com/iaadillatif/techxninjas-client/issues/278) |
 | Feedback page | Medium | [#277](https://github.com/iaadillatif/techxninjas-client/pull/277) |
 | Add feature | Medium | [#276](https://github.com/iaadillatif/techxninjas-client/pull/276) |
 | Telegram QR Code Added when channel link is not accessible | Medium | [#275](https://github.com/iaadillatif/techxninjas-client/pull/275) |
@@ -41,7 +42,6 @@
 | Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
 | fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 | Enhancement of Card Carousel | Medium | [#246](https://github.com/iaadillatif/techxninjas-client/issues/246) |
-| Fix spelling / grammar typo on HomePage or Static Page | Medium | [#245](https://github.com/iaadillatif/techxninjas-client/issues/245) |
 
 ---
 
@@ -84,32 +84,6 @@
 | <# Add Footer> | Medium | [#57](https://github.com/AdityaRalhan/Aluma/issues/57) |
 | We can add talk to professionals feature | Medium | [#56](https://github.com/AdityaRalhan/Aluma/issues/56) |
 | no descripton in the about section | Medium | [#55](https://github.com/AdityaRalhan/Aluma/issues/55) |
-
----
-
-## 📌 Project: aitoolbox.software
-
-📝 **Description:** AIToolbox is an open-source platform offering a suite of daily-use AI tools in one place, including email writing, GPT chatbot, image and logo generation, YouTube transcription, and more. It's designed for simplicity, productivity, and easy access without switching between multiple apps.
-
-🔗 [View Project](https://github.com/huamanraj/aitoolbox.software)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, React.js
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Footer Not Responsive on Mobile Devices | Medium | [#119](https://github.com/huamanraj/aitoolbox.software/issues/119) |
-| feat: Add PDF Q&A Tool to the main interface and navigation | Medium | [#118](https://github.com/huamanraj/aitoolbox.software/pull/118) |
-| Add AI Research Paper Summarizer Tool | Medium | [#116](https://github.com/huamanraj/aitoolbox.software/issues/116) |
-| feat(frontend): add AI Question Paper Generator card and form | Medium | [#115](https://github.com/huamanraj/aitoolbox.software/pull/115) |
-| Add social links in footer | Medium | [#112](https://github.com/huamanraj/aitoolbox.software/issues/112) |
-| landing page | Medium | [#94](https://github.com/huamanraj/aitoolbox.software/issues/94) |
-| Improve mobile layout: Single column grid feels empty, suggest 2-box layout | Medium | [#92](https://github.com/huamanraj/aitoolbox.software/issues/92) |
-| Translator overflow off-screen, Missing placeholder text & No copy notification. | Medium | [#59](https://github.com/huamanraj/aitoolbox.software/issues/59) |
-| UI Enhancement: Improve Homepage Design with Better Colors, Hover Effects, and Professional Card Layout | Medium | [#51](https://github.com/huamanraj/aitoolbox.software/issues/51) |
 
 ---
 
@@ -167,6 +141,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
+| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2431](https://github.com/OWASP/Nest/pull/2431) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
@@ -183,7 +159,6 @@
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
-| refactor : added PLC0415 ruff config for specific files | Medium | [#2299](https://github.com/OWASP/Nest/pull/2299) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -202,14 +177,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Progress Bar for Completed Preparation Steps in Recipe View | Easy | [#464](https://github.com/Ayushjhawar8/Flavor-ai/issues/464) |
-| Update twitter logo in contactUs page | Easy | [#461](https://github.com/Ayushjhawar8/Flavor-ai/issues/461) |
-| Improve AI Diet Planner Page Design | Easy | [#460](https://github.com/Ayushjhawar8/Flavor-ai/issues/460) |
-| updated twitter logo in contact page | Medium | [#465](https://github.com/Ayushjhawar8/Flavor-ai/pull/465) |
-| Improved Design of AI Diet Page | Medium | [#463](https://github.com/Ayushjhawar8/Flavor-ai/pull/463) |
-| Fix Random Recipe Page Theme Colors | Medium | [#462](https://github.com/Ayushjhawar8/Flavor-ai/pull/462) |
-| Revamp Hero Section: Design, Responsiveness & CTA Improvements | Medium | [#459](https://github.com/Ayushjhawar8/Flavor-ai/pull/459) |
-| Fixed the layout flicker when search was pressed in Navbar | Medium | [#458](https://github.com/Ayushjhawar8/Flavor-ai/pull/458) |
+| Fixed the layout flicker when search was pressed in Navbar | Easy | [#458](https://github.com/Ayushjhawar8/Flavor-ai/pull/458) |
+| bug-fix-translate-language | Medium | [#481](https://github.com/Ayushjhawar8/Flavor-ai/pull/481) |
+| Correct footer layout on home page for full width | Medium | [#480](https://github.com/Ayushjhawar8/Flavor-ai/pull/480) |
+| Added Progress Bar for Completed Preparation Steps in Recipe View #464 | Medium | [#479](https://github.com/Ayushjhawar8/Flavor-ai/pull/479) |
+| Redesign AI Diet Planner Page | Medium | [#478](https://github.com/Ayushjhawar8/Flavor-ai/pull/478) |
+| Added custom 404 Not Found page | Medium | [#475](https://github.com/Ayushjhawar8/Flavor-ai/pull/475) |
+| Fixed Dark Mode Support and Improved UI Structure for Diet Planner Page | Medium | [#474](https://github.com/Ayushjhawar8/Flavor-ai/pull/474) |
+| Fix/back button | Medium | [#472](https://github.com/Ayushjhawar8/Flavor-ai/pull/472) |
+| fixed text color for better visibilty | Medium | [#470](https://github.com/Ayushjhawar8/Flavor-ai/pull/470) |
 
 ---
 
@@ -227,8 +203,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added About section in Navbar | Medium | [#125](https://github.com/AyushSharma72/Skill_Trade/pull/125) |
+| Add “About” section link to the Navbar for better navigation | Medium | [#124](https://github.com/AyushSharma72/Skill_Trade/issues/124) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
-| IT REQUIRES MORE PROFESSIONAL ENHANCEMENT IN NAVBAR SECTION AND ALSO MISSING ABOUT US SECTION | Medium | [#111](https://github.com/AyushSharma72/Skill_Trade/issues/111) |
 
 ---
 
@@ -267,7 +244,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Flight Alerts  Temporary Local Storage Support for store that in local browser | Easy | [#26](https://github.com/Dnyaneshpise/skywatch_alerts/issues/26) |
-| Add File Structure to README.md | Medium | [#66](https://github.com/Dnyaneshpise/skywatch_alerts/issues/66) |
+| Feature/alerts UI improvement#67 | Medium | [#70](https://github.com/Dnyaneshpise/skywatch_alerts/pull/70) |
+| Add 3D background feature to homepage | Medium | [#69](https://github.com/Dnyaneshpise/skywatch_alerts/pull/69) |
 | Alert History Module | Medium | [#49](https://github.com/Dnyaneshpise/skywatch_alerts/pull/49) |
 | Dashboard route leads to 404 | Medium | [#47](https://github.com/Dnyaneshpise/skywatch_alerts/issues/47) |
 | Issue: UI Enhancement – About Page
@@ -471,41 +449,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhance "Genres" Page UI/UX | Easy | [#87](https://github.com/rahulkhandait-sde/cineverse/issues/87) |
+| Removed duplicate © 2025 CineVerse. All rights reserved. Made with ❤️… | Medium | [#88](https://github.com/rahulkhandait-sde/cineverse/pull/88) |
 | Fix: Integrated Gemini API key for chatbot functionality | Medium | [#86](https://github.com/rahulkhandait-sde/cineverse/pull/86) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
-
----
-
-## 📌 Project: automataverse
-
-📝 **Description:** Automata-Verse is an interactive educational platform for learning and experimenting with theory of computation concepts. The application provides intuitive visual simulators for various automata models that are fundamental to computer science.  
-
-🔗 [View Project](https://github.com/robinsingh-ai/AutomataVerse)
-
-💻 **Tech Stack:** Next.js, React, Firebase, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| privacy page | Medium | [#59](https://github.com/robinsingh-ai/AutomataVerse/issues/59) |
-| UI enhancement | Medium | [#58](https://github.com/robinsingh-ai/AutomataVerse/issues/58) |
-| Fix inconsistent padding in "Sign Up" and "Login" buttons | Medium | [#57](https://github.com/robinsingh-ai/AutomataVerse/issues/57) |
-| Fix text overflow in "Show All Labels" button | Medium | [#56](https://github.com/robinsingh-ai/AutomataVerse/issues/56) |
-| No Password Strength Indicator on Signup Form | Medium | [#55](https://github.com/robinsingh-ai/AutomataVerse/issues/55) |
-| Add Animation Effects for Hero Section | Medium | [#54](https://github.com/robinsingh-ai/AutomataVerse/issues/54) |
-| Add "Back to Top" Button for Easy Navigation | Medium | [#53](https://github.com/robinsingh-ai/AutomataVerse/issues/53) |
-| Testing and Edge Cases | Medium | [#48](https://github.com/robinsingh-ai/AutomataVerse/issues/48) |
-| Keyboard Shortcuts Support | Medium | [#47](https://github.com/robinsingh-ai/AutomataVerse/issues/47) |
-| Smart Deletion Validation | Medium | [#46](https://github.com/robinsingh-ai/AutomataVerse/issues/46) |
-| Visual Feedback and Selection System | Medium | [#45](https://github.com/robinsingh-ai/AutomataVerse/issues/45) |
-| Transition Deletion UI Implementation | Medium | [#44](https://github.com/robinsingh-ai/AutomataVerse/issues/44) |
-| State Deletion UI Implementation | Medium | [#43](https://github.com/robinsingh-ai/AutomataVerse/issues/43) |
-| Draggable panel not getting dragged using cursor | Medium | [#40](https://github.com/robinsingh-ai/AutomataVerse/issues/40) |
-| fix problem panel | Medium | [#30](https://github.com/robinsingh-ai/AutomataVerse/issues/30) |
-| redesign demo page | Hard | [#14](https://github.com/robinsingh-ai/AutomataVerse/issues/14) |
 
 ---
 
@@ -561,7 +507,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [Feature]: Revamp Hero Section: Responsive Dark Button, Stylish Text & Iconic Navbar | Easy | [#940](https://github.com/recodehive/recode-website/issues/940) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -581,8 +526,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| Center-align tabs and filters on mobile screens | Medium | [#440](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/440) |
-| Updates testimonials to be visible in light mode | Medium | [#435](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/435) |
+| feat: add password generator and strength indicator | Medium | [#442](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/442) |
 | Flashcard text overlapping | Medium | [#432](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/432) |
 | Table of Contents Missing in README.md | Medium | [#428](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/428) |
 | fix: improve testimonial prompt visibility in light mode | Medium | [#425](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/425) |
@@ -1374,8 +1318,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#98](https://github.com/subhadeeproy3902/mvpblocks/issues/98) |
-| Add  Project Structure in README.md | Medium | [#97](https://github.com/subhadeeproy3902/mvpblocks/issues/97) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
