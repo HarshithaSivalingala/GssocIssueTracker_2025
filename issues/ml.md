@@ -162,11 +162,10 @@
 | Name field accepts single-character input in Feedback form | Medium | [#980](https://github.com/opensource-society/notesvault/issues/980) |
 | Add Favorites / Bookmark Feature for Notes | Medium | [#979](https://github.com/opensource-society/notesvault/issues/979) |
 | Theme toggle clarity and persistence | Medium | [#977](https://github.com/opensource-society/notesvault/issues/977) |
-| Inline Add New Notes Form (Uninteractive) | Medium | [#974](https://github.com/opensource-society/notesvault/pull/974) |
 | Inline Add New Notes Form (Uninteractive File Upload) | Medium | [#973](https://github.com/opensource-society/notesvault/issues/973) |
-| Quick Upload from Dashboard | Medium | [#972](https://github.com/opensource-society/notesvault/pull/972) |
 | Quick Upload Notes from Dashboard | Medium | [#971](https://github.com/opensource-society/notesvault/issues/971) |
 | UI Enhancement: Improve Light Mode Theme on Home Page | Medium | [#970](https://github.com/opensource-society/notesvault/issues/970) |
+| Improve Task/To-Do List Functionality | Medium | [#967](https://github.com/opensource-society/notesvault/issues/967) |
 
 ---
 
@@ -402,7 +401,16 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Contributor data is appearing now | Medium | [#1674](https://github.com/itsAnimation/AnimateItNow/pull/1674) |
+| dark mode implemented in contributors page | Medium | [#1686](https://github.com/itsAnimation/AnimateItNow/pull/1686) |
+| Enhancement in Sign Up page | Medium | [#1684](https://github.com/itsAnimation/AnimateItNow/issues/1684) |
+| Styling feedback page properly in both modes. | Medium | [#1682](https://github.com/itsAnimation/AnimateItNow/issues/1682) |
+| Dark mode not working in editor page and toggle button also not working. | Medium | [#1681](https://github.com/itsAnimation/AnimateItNow/issues/1681) |
+| Adding sticky navbar for all pages for UI consistency. | Medium | [#1680](https://github.com/itsAnimation/AnimateItNow/issues/1680) |
+| Theme toggle button not working properly in hover effect page. | Medium | [#1679](https://github.com/itsAnimation/AnimateItNow/issues/1679) |
+| designing components page properly. | Medium | [#1678](https://github.com/itsAnimation/AnimateItNow/issues/1678) |
+| Styling dark mode for sign up page for UI consistency. | Medium | [#1677](https://github.com/itsAnimation/AnimateItNow/issues/1677) |
+| Footer inconsistent in leaderboard page. | Medium | [#1676](https://github.com/itsAnimation/AnimateItNow/issues/1676) |
+| Navbar styling for contact page. | Medium | [#1675](https://github.com/itsAnimation/AnimateItNow/issues/1675) |
 | Enhance Accessibility for Modal Animations with ARIA and Keyboard Support | Medium | [#1673](https://github.com/itsAnimation/AnimateItNow/issues/1673) |
 | dropdown color change for resource n community | Medium | [#1670](https://github.com/itsAnimation/AnimateItNow/pull/1670) |
 | dropdown color change for resource n community | Medium | [#1669](https://github.com/itsAnimation/AnimateItNow/pull/1669) |
@@ -410,9 +418,6 @@ User Profile: BMI calculator and fitness analytics.
 | Styled navbar properly for Components page. | Medium | [#1667](https://github.com/itsAnimation/AnimateItNow/pull/1667) |
 | Styled navbar properly for about page. | Medium | [#1666](https://github.com/itsAnimation/AnimateItNow/pull/1666) |
 | Styled dark mode for login page for UI consistency. | Medium | [#1665](https://github.com/itsAnimation/AnimateItNow/pull/1665) |
-| enhanced navbar | Medium | [#1631](https://github.com/itsAnimation/AnimateItNow/pull/1631) |
-| Issue-1531 | Medium | [#1630](https://github.com/itsAnimation/AnimateItNow/pull/1630) |
-| Added Forgot Password Page/Option | Medium | [#1628](https://github.com/itsAnimation/AnimateItNow/pull/1628) |
 
 ---
 
@@ -603,6 +608,25 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Keyboard Shortcut to Toggle Theme (Ctrl + K) | Medium | [#452](https://github.com/Bhavya1352/eventmappr/issues/452) |
 | Add Event Clustering on Map | Medium | [#450](https://github.com/Bhavya1352/eventmappr/issues/450) |
 | Nearby page dark theme not applying to middle section | Medium | [#411](https://github.com/Bhavya1352/eventmappr/issues/411) |
+
+---
+
+## 📌 Project: Firebase Chat App
+
+📝 **Description:** A real-time chat application built using Firebase and React. It allows users to sign in with Google authentication, exchange messages instantly, and manage user sessions securely. The app showcases the power of serverless technologies with a sleek and responsive UI. Ideal for contributors interested in React, Firebase, and modern frontend/backend integration.
+
+🔗 [View Project](https://github.com/Dhruvi-tech/firebase-chat-app)
+
+💻 **Tech Stack:** React.js, Firebase Authentication, Firestore Database, HTML, CSS, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| fix: enhance dark mode toggle button styling and accessibility(#55) | Medium | [#71](https://github.com/Dhruvi-tech/firebase-chat-app/pull/71) |
+| fix: display online users for each chat room (#65) | Medium | [#70](https://github.com/Dhruvi-tech/firebase-chat-app/pull/70) |
 
 ---
 
@@ -804,12 +828,29 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Footer in current Website | Medium | [#160](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/160) |
+| Fix improve error handling and user feedback | Medium | [#183](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/183) |
+| 🐛 GitHub Issue: Missing Error Handling and User Feedback in Frontend Components | Medium | [#182](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/182) |
+| 🛡️ ENHANCEMENT: Implement Centralized Error Handling and Consistent Feedback System | Medium | [#181](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/181) |
+| Implement Centralized Error Handling and Consistent Loading/Feedback System | Medium | [#180](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/180) |
+| 🛡️ FIX/ENHANCEMENT: Standardize Error Handling and Loading States | Medium | [#179](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/179) |
+| ⚠️ REFACTOR: Standardize Error Handling, Loading States, and Enhance Backend Observability | Medium | [#178](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/178) |
+| Fix implement comprehensive error handling | Medium | [#177](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/177) |
+| 🛡️ REFACTOR: Implement Comprehensive Error Handling and User Feedback System | Medium | [#176](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/176) |
+| Comprehensive Navigation Accessibility, Focus Management, and Mobile Consistency | Medium | [#175](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/175) |
+| Improve Navigation Accessibility, Focus Management, and Mobile Responsiveness | Medium | [#174](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/174) |
+| ♿️ Fix improve mobile navigation accessibility | Medium | [#173](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/173) |
+| ♿️ BUG: Improve Mobile Navigation Menu Accessibility and Usability | Medium | [#172](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/172) |
+| ENHANCEMENT: Footer Newsletter Integration, Accessibility, and Responsiveness | Medium | [#171](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/171) |
+| 🐛 BUG:  Integrate Newsletter Subscription and Improve Footer Accessibility | Medium | [#170](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/170) |
+| Fix: Enhance Footer with Additional Features and Improved Responsiveness | Medium | [#169](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/169) |
+| Enhance Footer with New Features, Responsiveness, and Accessibility | Medium | [#168](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/168) |
+| 🐛 Fix improve footer layout & Broken Links, and Enhance Accessibility | Medium | [#167](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/167) |
+| 🐛 BUG/ENHANCEMENT: Improve Footer Layout, Fix Broken Link, and Enhance Accessibility | Medium | [#166](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/166) |
+| Fix: ✨ Improve code readability & add lightweight documentation for b… | Medium | [#165](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/165) |
+| Improve code readability & add lightweight documentation for backend API endpoints | Medium | [#164](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/164) |
 | Add Pull Request (PR) Template | Medium | [#66](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/66) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#65](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/65) |
 | #42 Content Disappears After Reload on All Pages | Medium | [#44](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/44) |
-| Make UI Responsive for Mobile Devices | Medium | [#23](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/23) |
-| Update README.md | Medium | [#19](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/19) |
 
 ---
 
@@ -871,17 +912,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix About page footer layout and gradient | Medium | [#427](https://github.com/omroy07/AgriTech/pull/427) |
-| Implement 3d cursor based background for website homepage | Medium | [#426](https://github.com/omroy07/AgriTech/issues/426) |
-| Add : Soil Type Classification Model | Medium | [#424](https://github.com/omroy07/AgriTech/issues/424) |
-| Add Third Page to Technology category in Blog Tab | Medium | [#420](https://github.com/omroy07/AgriTech/issues/420) |
-| Add "Forgot Password" link on Sign In page | Medium | [#418](https://github.com/omroy07/AgriTech/issues/418) |
-| Add Social Media Links to Footer | Medium | [#417](https://github.com/omroy07/AgriTech/issues/417) |
-| Add Contributors Section in README | Medium | [#416](https://github.com/omroy07/AgriTech/issues/416) |
+| Contributors section | Medium | [#429](https://github.com/omroy07/AgriTech/pull/429) |
+| Improve and Standardize GitHub Issue Template | Medium | [#428](https://github.com/omroy07/AgriTech/pull/428) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#412](https://github.com/omroy07/AgriTech/issues/412) |
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
 | solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
@@ -1132,7 +1167,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Day 38 : ResumeCraft Website | Medium | [#1014](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1014) |
+| Add Reality Splitter – A Web-Based Multiverse Simulator | Medium | [#1026](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1026) |
+| Emoji Architect – The Unicode Builder | Medium | [#1025](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1025) |
+| Add 404 Quest – The Lost Page Adventure | Medium | [#1023](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1023) |
+| Added Day 52 : Attendance Tracker Website | Medium | [#1021](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1021) |
+| Debatable — The AI-Powered Argument Arena | Medium | [#1020](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1020) |
+| MindMaze — The Real-Time Puzzle Battle Arena | Medium | [#1019](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1019) |
 | Update footer | Medium | [#1010](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1010) |
 | Add Virtual Classroom Website Project | Medium | [#1007](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1007) |
 | Day 106 — Lagunitas Website | Medium | [#1006](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1006) |
@@ -1143,9 +1183,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Day 151 — Jewellery Website: Project page shows 404 error message | Medium | [#992](https://github.com/ruchikakengal/WebDevIn100_Days/issues/992) |
 | Day 108 — Christmas Lights: Project page shows 404 error message | Medium | [#991](https://github.com/ruchikakengal/WebDevIn100_Days/issues/991) |
 | Add Pull Request (PR) Template | Medium | [#987](https://github.com/ruchikakengal/WebDevIn100_Days/issues/987) |
-| UI of about section | Medium | [#984](https://github.com/ruchikakengal/WebDevIn100_Days/issues/984) |
-| Enhance chatbot intelligence and user experience | Medium | [#981](https://github.com/ruchikakengal/WebDevIn100_Days/pull/981) |
-| improving UI of About Us page | Medium | [#978](https://github.com/ruchikakengal/WebDevIn100_Days/pull/978) |
+| Add the Correct Route | Hard | [#1027](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1027) |
 
 ---
 
@@ -1163,6 +1201,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #759 -Day62 Expense splitter - Added Frontend Project | Medium | [#829](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/829) |
 | Enhance Smart Calculator 2.0 with Animations, Responsive Layout, and Improved UI (Fixes #821) | Medium | [#828](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/828) |
 | added mood based music player | Medium | [#824](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/824) |
 | Add a email masker project | Medium | [#822](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/822) |
@@ -1184,7 +1223,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Added appropriate font color to PROJECT SHOWCASE | Medium | [#791](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/791) |
 | fix: Day 59 - Introducing CLICKBAIT (The memory game) | Medium | [#790](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/790) |
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
-| Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
 
 ---
 
@@ -1207,10 +1245,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: StreamlitAPIException in Habit_Builder.py | Medium | [#525](https://github.com/eccentriccoder01/TalkHeal/issues/525) |
-| Fix DuplicateWidgetID Error in selfHelpTools.py | Medium | [#524](https://github.com/eccentriccoder01/TalkHeal/issues/524) |
+| Feature: Added Food & Mood Journal Page | Medium | [#551](https://github.com/eccentriccoder01/TalkHeal/issues/551) |
+| Bug: StreamlitAPIException in pages/doctor_spec.py | Medium | [#550](https://github.com/eccentriccoder01/TalkHeal/issues/550) |
+| Replace Emojis with Consistent Icon Set for Better UI Visibility and User Experience | Medium | [#548](https://github.com/eccentriccoder01/TalkHeal/issues/548) |
+| 🌱 Enhancement: Improve Wellness Tip UI/UX & Tip Rotation Logic | Medium | [#547](https://github.com/eccentriccoder01/TalkHeal/issues/547) |
 | View Password Icon Not Functioning | Medium | [#523](https://github.com/eccentriccoder01/TalkHeal/issues/523) |
-| Fix typo: "Forget Password?" should be "Forgot Password?" | Medium | [#520](https://github.com/eccentriccoder01/TalkHeal/issues/520) |
 | UI/UX Enhancement: Improve Login Form Design and Responsiveness and validation | Medium | [#512](https://github.com/eccentriccoder01/TalkHeal/issues/512) |
 | Making sidebar organized. | Medium | [#500](https://github.com/eccentriccoder01/TalkHeal/issues/500) |
 | Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
@@ -1222,12 +1261,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | UI/UX Enhancement Proposal for TalkHeal — Minimal, Calming, and Modern Design | Medium | [#428](https://github.com/eccentriccoder01/TalkHeal/issues/428) |
 |  | Medium | [#426](https://github.com/eccentriccoder01/TalkHeal/issues/426) |
 |  | Medium | [#424](https://github.com/eccentriccoder01/TalkHeal/issues/424) |
-| Color of the About Page | Medium | [#322](https://github.com/eccentriccoder01/TalkHeal/issues/322) |
-| 1.Creative Outlets & Hobbies
-Art, music, writing, gardening, or any hobby .These activities give our mind a break, reduce stress, and bring joy without pressure. So we can make a group where people can share them freely so that they can also connect with more people and these will help them to socialize 
-
-2 .Digital Well-being:
-Too much social media can silently hurt your confidence and peace of mind. Try mindful scrolling, set digital detox hours, or create “tech-free zones” at home. Small steps, big impact. | Medium | [#285](https://github.com/eccentriccoder01/TalkHeal/issues/285) |
 
 ---
 
@@ -1258,24 +1291,6 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 | Enhanced Django Views with Better Security, Structure & User Experience | Medium | [#18](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/18) |
 | Update ml.html | Medium | [#16](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/16) |
 | Add CSV Format Validation & Error Handling for Sneaker Dataset Upload | Medium | [#5](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/5) |
-
----
-
-## 📌 Project: RigCraft
-
-📝 **Description:** Build your dream gaming PC with our interactive component selector. Choose compatible parts, optimize your budget, and craft the perfect rig.
-
-🔗 [View Project](https://github.com/SamXop123/RigCrafter)
-
-💻 **Tech Stack:** TypeScript, HTML, CSS, JavaScript, Express.js, Node.js, React
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| <Build Guides> Implement 3 full build guide pages | Hard | [#109](https://github.com/SamXop123/RigCrafter/issues/109) |
 
 ---
 
@@ -1313,6 +1328,7 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add confetti celebration when users complete a tutorial | Easy | [#948](https://github.com/recodehive/recode-website/pull/948) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -1564,16 +1580,10 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI Alignment Issue: Navbar Links are Not Centered | Medium | [#199](https://github.com/aayushraj1010/med-genie/issues/199) |
-| No contact us page. | Medium | [#198](https://github.com/aayushraj1010/med-genie/issues/198) |
-| Title: Build Trust Indicators section with Security Badges | Medium | [#197](https://github.com/aayushraj1010/med-genie/issues/197) |
+| Fix the about us page | Medium | [#202](https://github.com/aayushraj1010/med-genie/pull/202) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
-| fix: Enhance Footer UI | Medium | [#195](https://github.com/aayushraj1010/med-genie/pull/195) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
-| Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
-| Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
-| Add a "Scroll to top" button | Medium | [#165](https://github.com/aayushraj1010/med-genie/issues/165) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
 
 ---
@@ -1863,6 +1873,10 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Fix | Medium | [#1217](https://github.com/gyanshankar1708/GrowCraft/issues/1217) |
+| Fix BackToTop Button | Medium | [#1216](https://github.com/gyanshankar1708/GrowCraft/issues/1216) |
+| Added sticky navbar to Content Writing, Web Development, and Digital Marketing pages | Medium | [#1208](https://github.com/gyanshankar1708/GrowCraft/pull/1208) |
+| Added Sticky navbar for graphic designing,socialmedia management and … | Medium | [#1207](https://github.com/gyanshankar1708/GrowCraft/pull/1207) |
 | Styled navbar properly for our work page. | Medium | [#1196](https://github.com/gyanshankar1708/GrowCraft/pull/1196) |
 | Services Section Misalignment on Home Page | Medium | [#1195](https://github.com/gyanshankar1708/GrowCraft/issues/1195) |
 | footer section inconvinient | Medium | [#1191](https://github.com/gyanshankar1708/GrowCraft/issues/1191) |
@@ -1880,17 +1894,6 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 | Navbar and footer inconsistency in services page. | Medium | [#1172](https://github.com/gyanshankar1708/GrowCraft/issues/1172) |
 | Navbar Styling Inconsistency on Contact Page | Medium | [#1171](https://github.com/gyanshankar1708/GrowCraft/issues/1171) |
 | Styling navbar consistently for website development page. | Medium | [#1170](https://github.com/gyanshankar1708/GrowCraft/issues/1170) |
-| fix Home page UI | Medium | [#1167](https://github.com/gyanshankar1708/GrowCraft/issues/1167) |
-| back to top button isn't present | Medium | [#1149](https://github.com/gyanshankar1708/GrowCraft/issues/1149) |
-| fix: unify navbar structure, links, and hover behavior across all pages | Medium | [#1141](https://github.com/gyanshankar1708/GrowCraft/pull/1141) |
-| Services Links Not Working in Footer Section of FAQ Page | Medium | [#1133](https://github.com/gyanshankar1708/GrowCraft/issues/1133) |
-| Footer | Medium | [#1128](https://github.com/gyanshankar1708/GrowCraft/issues/1128) |
-| about us not working in footer of webdevelopment page | Medium | [#1126](https://github.com/gyanshankar1708/GrowCraft/issues/1126) |
-| BUG: Dark Mode is not working on Home page | Medium | [#1125](https://github.com/gyanshankar1708/GrowCraft/issues/1125) |
-| BUG: Dark theme toggle is missing in Contact page | Medium | [#1124](https://github.com/gyanshankar1708/GrowCraft/issues/1124) |
-| BUG: About Page footer issue some content not visible properly icons issue | Medium | [#1123](https://github.com/gyanshankar1708/GrowCraft/issues/1123) |
-| BUG: Unconsistent footer visible in dark of Home Page | Medium | [#1122](https://github.com/gyanshankar1708/GrowCraft/issues/1122) |
-| BUG: Unwanted content on bottom and missing footer on contact page | Medium | [#1121](https://github.com/gyanshankar1708/GrowCraft/issues/1121) |
 
 ---
 
@@ -2701,6 +2704,7 @@ Too much social media can silently hurt your confidence and peace of mind. Try m
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Currency Feature: Add Dropdowns and Scrollable Full Currency List | Medium | [#385](https://github.com/code-well0/trip-planner/issues/385) |
 | Add Glassmorphic Effect to Navbar | Medium | [#384](https://github.com/code-well0/trip-planner/issues/384) |
 | Added animated background on render page with text animation | Medium | [#374](https://github.com/code-well0/trip-planner/pull/374) |
 | Issue 284 : Solved | Medium | [#361](https://github.com/code-well0/trip-planner/pull/361) |
@@ -2932,6 +2936,25 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| logo in dark mode in not visible in home page and fix responsive ness of cards in remote page | Medium | [#724](https://github.com/SurajSG23/Job-Portal/issues/724) |
+| Navbar is not functioning properly on the About page | Medium | [#723](https://github.com/SurajSG23/Job-Portal/issues/723) |
+| Footer layout and design are not appearing correctly on the About page | Medium | [#722](https://github.com/SurajSG23/Job-Portal/issues/722) |
+| Resources dropdown menu is not functioning on the Events page | Medium | [#721](https://github.com/SurajSG23/Job-Portal/issues/721) |
+| Dark mode theme is not applied correctly on the Part-Time Job page | Medium | [#720](https://github.com/SurajSG23/Job-Portal/issues/720) |
+| Social media links redirect to the same page instead of their respective platforms on Featured Jobs page | Medium | [#719](https://github.com/SurajSG23/Job-Portal/issues/719) |
+| “Join Us” link is not functioning on the About Us page | Medium | [#718](https://github.com/SurajSG23/Job-Portal/issues/718) |
+| Navbar is not functioning correctly on the Home Page | Medium | [#717](https://github.com/SurajSG23/Job-Portal/issues/717) |
+| Footer links are not clickable or redirecting on the Home Page | Medium | [#716](https://github.com/SurajSG23/Job-Portal/issues/716) |
+| Styling properly for about page in dark mode. | Medium | [#715](https://github.com/SurajSG23/Job-Portal/issues/715) |
+| View Jobs Page Not Properly Linked from Companies Page | Medium | [#714](https://github.com/SurajSG23/Job-Portal/issues/714) |
+| Fix: Improve Logo Visibility in Dark Mode | Medium | [#713](https://github.com/SurajSG23/Job-Portal/issues/713) |
+| Styled dark mode for card in part time job page. | Medium | [#712](https://github.com/SurajSG23/Job-Portal/pull/712) |
+| Styled dark mode for career guide in resource page for Ui consistency. | Medium | [#711](https://github.com/SurajSG23/Job-Portal/pull/711) |
+| Styled dark mode for interview and personal branding pages in resources page for Ui consistency. | Medium | [#710](https://github.com/SurajSG23/Job-Portal/pull/710) |
+| Styled dark mode for workplace and career growth page in resources for UI consistency. | Medium | [#709](https://github.com/SurajSG23/Job-Portal/pull/709) |
+| Styled navbar and fixed functionality of links in get started page. | Medium | [#708](https://github.com/SurajSG23/Job-Portal/pull/708) |
+| UI Experience for Styled dark mode for sign up page | Medium | [#706](https://github.com/SurajSG23/Job-Portal/pull/706) |
+| Styled dark mode for login in page for UI experience. | Medium | [#705](https://github.com/SurajSG23/Job-Portal/pull/705) |
 | working search in Featured jobs section | Medium | [#704](https://github.com/SurajSG23/Job-Portal/pull/704) |
 | Sign in with google | Medium | [#703](https://github.com/SurajSG23/Job-Portal/pull/703) |
 | Login UI issue fixed | Medium | [#702](https://github.com/SurajSG23/Job-Portal/pull/702) |
