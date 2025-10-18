@@ -140,7 +140,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
+| Fixed sporadic 404 flash | Medium | [#2441](https://github.com/OWASP/Nest/pull/2441) |
+| refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2431](https://github.com/OWASP/Nest/pull/2431) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
@@ -177,15 +179,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed the layout flicker when search was pressed in Navbar | Easy | [#458](https://github.com/Ayushjhawar8/Flavor-ai/pull/458) |
-| bug-fix-translate-language | Medium | [#481](https://github.com/Ayushjhawar8/Flavor-ai/pull/481) |
-| Correct footer layout on home page for full width | Medium | [#480](https://github.com/Ayushjhawar8/Flavor-ai/pull/480) |
-| Added Progress Bar for Completed Preparation Steps in Recipe View #464 | Medium | [#479](https://github.com/Ayushjhawar8/Flavor-ai/pull/479) |
-| Redesign AI Diet Planner Page | Medium | [#478](https://github.com/Ayushjhawar8/Flavor-ai/pull/478) |
-| Added custom 404 Not Found page | Medium | [#475](https://github.com/Ayushjhawar8/Flavor-ai/pull/475) |
-| Fixed Dark Mode Support and Improved UI Structure for Diet Planner Page | Medium | [#474](https://github.com/Ayushjhawar8/Flavor-ai/pull/474) |
-| Fix/back button | Medium | [#472](https://github.com/Ayushjhawar8/Flavor-ai/pull/472) |
-| fixed text color for better visibilty | Medium | [#470](https://github.com/Ayushjhawar8/Flavor-ai/pull/470) |
+| fix(ui): replaced 🍴 emoji with SVG icon for better dark mode visibility | Easy | [#482](https://github.com/Ayushjhawar8/Flavor-ai/pull/482) |
+| bug-fix-translate-language | Easy | [#481](https://github.com/Ayushjhawar8/Flavor-ai/pull/481) |
+| Redesign AI Diet Planner Page | Easy | [#478](https://github.com/Ayushjhawar8/Flavor-ai/pull/478) |
+| Feature: Integrate Gemini API to diet-planner-ai | Medium | [#486](https://github.com/Ayushjhawar8/Flavor-ai/pull/486) |
+| fixed the UI Improve Text Visibility and Theme Styling for "Blending Code and Cuisine" Page | Medium | [#485](https://github.com/Ayushjhawar8/Flavor-ai/pull/485) |
+| Feature: Add Recipe Notes | Medium | [#484](https://github.com/Ayushjhawar8/Flavor-ai/pull/484) |
 
 ---
 
@@ -244,8 +243,9 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Flight Alerts  Temporary Local Storage Support for store that in local browser | Easy | [#26](https://github.com/Dnyaneshpise/skywatch_alerts/issues/26) |
-| Feature/alerts UI improvement#67 | Medium | [#70](https://github.com/Dnyaneshpise/skywatch_alerts/pull/70) |
-| Add 3D background feature to homepage | Medium | [#69](https://github.com/Dnyaneshpise/skywatch_alerts/pull/69) |
+| Adding a scroll to top button. | Medium | [#73](https://github.com/Dnyaneshpise/skywatch_alerts/issues/73) |
+| Adding 3d background for alerts page and contact us page | Medium | [#72](https://github.com/Dnyaneshpise/skywatch_alerts/issues/72) |
+| Updating contact us page | Medium | [#71](https://github.com/Dnyaneshpise/skywatch_alerts/issues/71) |
 | Alert History Module | Medium | [#49](https://github.com/Dnyaneshpise/skywatch_alerts/pull/49) |
 | Dashboard route leads to 404 | Medium | [#47](https://github.com/Dnyaneshpise/skywatch_alerts/issues/47) |
 | Issue: UI Enhancement – About Page
@@ -319,6 +319,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+|  | Medium | [#275](https://github.com/mansiruhil/fail-u-forward/issues/275) |
 | fix Sign Up Button Redirecting | Medium | [#274](https://github.com/mansiruhil/fail-u-forward/pull/274) |
 | Add “Back to Top” Button in README.md | Medium | [#273](https://github.com/mansiruhil/fail-u-forward/issues/273) |
 | Add Contributors Section in README | Medium | [#272](https://github.com/mansiruhil/fail-u-forward/issues/272) |
@@ -507,6 +508,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add confetti celebration when users complete a tutorial | Easy | [#948](https://github.com/recodehive/recode-website/pull/948) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -526,12 +528,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| feat: add password generator and strength indicator | Medium | [#442](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/442) |
-| Flashcard text overlapping | Medium | [#432](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/432) |
+| feat: add password generator and strength indicator | Medium | [#446](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/446) |
+| Added DSA Practice Performance Predictor (ML Feature) | Medium | [#445](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/445) |
+| cards for s[Feature]: Add the Working Inverting Flashcards and CheatSheets | Medium | [#444](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/444) |
 | Table of Contents Missing in README.md | Medium | [#428](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/428) |
 | fix: improve testimonial prompt visibility in light mode | Medium | [#425](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/425) |
 | Add self-made DSAMate logo #4 | Medium | [#422](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/422) |
-| updated revision checkbox ui | Medium | [#421](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/421) |
 | feat: Add progress dashboard with ML-based topic categorization | Medium | [#359](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/359) |
 | Text on testimonial cards should remain clearly visible in both light and dark modes. | Medium | [#354](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/354) |
 | Improved visibility of Terms of Service and Privacy Policy button | Medium | [#312](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/312) |
@@ -1340,6 +1342,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added minimal WhatsApp reminder feature for #204 | Medium | [#210](https://github.com/vatsal-bhakodia/smriti-ai/pull/210) |
 | Add File Structure to README.md | Medium | [#209](https://github.com/vatsal-bhakodia/smriti-ai/issues/209) |
 | Feature Request: Add a Splash Screen for Enhanced User Experience | Medium | [#208](https://github.com/vatsal-bhakodia/smriti-ai/issues/208) |
 | Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
