@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated readme | Medium | [#83](https://github.com/Abhinavhaldiya/FinPilot/pull/83) |
 | Add theme switch button | Medium | [#82](https://github.com/Abhinavhaldiya/FinPilot/issues/82) |
 | Improve README.md for Better Readability and Structure | Medium | [#78](https://github.com/Abhinavhaldiya/FinPilot/issues/78) |
 | Add Pull Request (PR) Template | Medium | [#77](https://github.com/Abhinavhaldiya/FinPilot/issues/77) |
@@ -172,7 +173,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
-| Fix Sign Up POST request not being sent (#1302) | Medium | [#1305](https://github.com/Code-A2Z/code-a2z/pull/1305) |
+| feat: add feedback form | Medium | [#1306](https://github.com/Code-A2Z/code-a2z/pull/1306) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -180,7 +181,6 @@ Accessibility features like dark mode,white.
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
-| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 
 ---
 
@@ -555,14 +555,20 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Sign-In Button Text and Icon Not Visible Properly in Light Mode | Medium | [#709](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/709) |
-| Overlapping Back button and logo on Sign-Up Pages (Mobile View). | Medium | [#708](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/708) |
-| Remove Unnecessary Email & Password Validation on Sign-In Page | Medium | [#707](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/707) |
-| Refactor Interview Page: Full UI Redesign + Global Layout Integration | Medium | [#706](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/706) |
-| feat: functional add new goal btn | Medium | [#705](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/705) |
-| feat: Dynamic settings page | Medium | [#704](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/704) |
-| feat: Fixed issues in settings page | Medium | [#703](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/703) |
-| EmployeeForm - Enhanced Form with email validation, password strength meter, and match indicators | Medium | [#702](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/702) |
+| Optimize Password Reset Controller for Performance and Readability | Medium | [#725](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/725) |
+| Issue: Optimize Jobs Controller for Readability and Maintainability | Medium | [#724](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/724) |
+| Issue: Optimize Java Dry-Run Controller Using Gemini AI for Readability | Medium | [#723](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/723) |
+| Issue: Optimize InterviewExperience Controller for Readability and Maintainability | Medium | [#722](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/722) |
+| Issue: Optimize Institution Dashboard Controller for Readability and Efficiency | Medium | [#721](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/721) |
+| Issue: Optimize Email Feedback Handler for Better Maintainability | Medium | [#720](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/720) |
+| Issue: Refactor and Optimize Feedback Email Controller for Placify Platform | Medium | [#719](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/719) |
+| Issue: Optimize Dry Run Controller for Python Code Testing with Gemini AI | Medium | [#718](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/718) |
+| Issue: Refactor Unified User Dashboard Controller for Improved Readability and Code Consistency | Medium | [#717](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/717) |
+| Issue: Optimize Company Dashboard Controller for Better Readability and Stability | Medium | [#716](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/716) |
+| Refactor chat backend for Gemini AI | Medium | [#715](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/715) |
+| Refactor C/C++ dry-run backend for readability and reliability | Medium | [#714](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/714) |
+| Refactor auth and profile backend for readability and efficiency | Medium | [#713](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/713) |
+| Optimize resume analysis backend for performance and readability | Medium | [#712](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/712) |
 
 ---
 
@@ -884,24 +890,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 ---
 
-## 📌 Project: RigCraft
-
-📝 **Description:** Build your dream gaming PC with our interactive component selector. Choose compatible parts, optimize your budget, and craft the perfect rig.
-
-🔗 [View Project](https://github.com/SamXop123/RigCrafter)
-
-💻 **Tech Stack:** TypeScript, HTML, CSS, JavaScript, Express.js, Node.js, React
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| <Build Guides> Implement 3 full build guide pages | Hard | [#109](https://github.com/SamXop123/RigCrafter/issues/109) |
-
----
-
 ## 📌 Project: TechHub
 
 📝 **Description:** This project is a web-based platform designed for managing student tech clubs efficiently. It includes modules for event scheduling, team management, project tracking, and resource sharing. It aims to simplify the operations of tech clubs like Robonixx by providing an organized dashboard and easy collaboration tools.
@@ -974,6 +962,24 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
+
+---
+
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| enhance: fix question modal layout and scrollbar, minor minor fixes | Medium | [#229](https://github.com/SurajSG23/PrepBuddy/pull/229) |
 
 ---
 
@@ -1267,7 +1273,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added mobile hamburger menu | Medium | [#190](https://github.com/DevSyncx/DevSync/pull/190) |
 | Added DevSync logo in Navbar, Footer, and favicon | Medium | [#189](https://github.com/DevSyncx/DevSync/pull/189) |
 | Improve dark mode UI for To-Do List component | Medium | [#187](https://github.com/DevSyncx/DevSync/issues/187) |
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
@@ -1408,12 +1413,9 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🧩 Missing Google OAuth Setup Steps in README | Easy | [#276](https://github.com/dipexplorer/LegalHuB/issues/276) |
-| feat(security): Create a security page for user accounts. | Easy | [#237](https://github.com/dipexplorer/LegalHuB/pull/237) |
-| Enhance Navbar Hover Animation (Fixes #221) | Easy | [#235](https://github.com/dipexplorer/LegalHuB/pull/235) |
-| update lawyer form with close button fuctionality | Medium | [#277](https://github.com/dipexplorer/LegalHuB/pull/277) |
+| lawyer-update-form-v2-#273 | Medium | [#289](https://github.com/dipexplorer/LegalHuB/pull/289) |
+| fix: Dictionary Share Popover Placement, Functionality and Styling | Medium | [#281](https://github.com/dipexplorer/LegalHuB/pull/281) |
 | feat: implement 3D flip contributor cards with animated glow (#260) | Medium | [#271](https://github.com/dipexplorer/LegalHuB/pull/271) |
-| Dictionary Share Popover Placement, Functionality, and Styling Fixes | Medium | [#258](https://github.com/dipexplorer/LegalHuB/issues/258) |
 | Add Welcoming Contributions Banner | Medium | [#256](https://github.com/dipexplorer/LegalHuB/pull/256) |
 
 ---
@@ -1611,6 +1613,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Modernising Issue Templates - Convert into Yaml | Medium | [#93](https://github.com/piyushpatelcodes/gssocFAQ-Bot/issues/93) |
+| Add Scroll to Top Button on Landing Page | Medium | [#92](https://github.com/piyushpatelcodes/gssocFAQ-Bot/issues/92) |
+| Clicking on "FAQ" redirects back to the Home Page instead of FAQ section | Medium | [#91](https://github.com/piyushpatelcodes/gssocFAQ-Bot/issues/91) |
 | Add Support for Fuzzy Matching | Medium | [#88](https://github.com/piyushpatelcodes/gssocFAQ-Bot/issues/88) |
 | FAQ section fixes for light theme | Medium | [#76](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/76) |
 | docs: add Code of Conduct | Medium | [#73](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/73) |
@@ -1654,6 +1659,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Level 3: Full CSS Enhancements for UI/UX, Accessibility & Dark/Light Mode | Medium | [#883](https://github.com/Premkolte/AnimateHub/issues/883) |
+| Level 3: Full CSS Enhancements for UI/UX, Accessibility & Dark/Light Mode | Medium | [#882](https://github.com/Premkolte/AnimateHub/pull/882) |
+| Level 3: Advanced UI/UX, Accessibility & Performance Enhancements | Medium | [#881](https://github.com/Premkolte/AnimateHub/issues/881) |
+| Level 3: UI/UX, Accessibility & Performance Enhancements | Medium | [#880](https://github.com/Premkolte/AnimateHub/pull/880) |
 | The new blog can be created by a single character also | Medium | [#870](https://github.com/Premkolte/AnimateHub/issues/870) |
 | Add a lower case checklist for sign-up | Medium | [#859](https://github.com/Premkolte/AnimateHub/issues/859) |
 | 🐞 [UI] About Page Layout & Dark Mode Inconsistencies | Medium | [#858](https://github.com/Premkolte/AnimateHub/issues/858) |
@@ -1676,7 +1685,6 @@ Fast Workflow Tools
 | Use icons instead of emojis | Medium | [#816](https://github.com/Premkolte/AnimateHub/issues/816) |
 | Leaderboard contributor names not visible in dark mode | Medium | [#805](https://github.com/Premkolte/AnimateHub/issues/805) |
 | Flexbox Playground input text not visible in dark mode | Medium | [#804](https://github.com/Premkolte/AnimateHub/issues/804) |
-| 🚨 Important Admin Notice 🚨 | Medium | [#662](https://github.com/Premkolte/AnimateHub/issues/662) |
 
 ---
 
@@ -2071,8 +2079,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Arcoder181105/oauth google : Backend Enhancements & Bug Fixes | Medium | [#92](https://github.com/Vijayaa21/Blabber/pull/92) |
-| Feature Request: Add Google Login Authentication | Medium | [#91](https://github.com/Vijayaa21/Blabber/issues/91) |
 | Add Google login with Firebase | Medium | [#87](https://github.com/Vijayaa21/Blabber/pull/87) |
 | Adding attractive homepage | Medium | [#86](https://github.com/Vijayaa21/Blabber/issues/86) |
 | Add Template for Pull Request | Medium | [#85](https://github.com/Vijayaa21/Blabber/issues/85) |
