@@ -163,12 +163,29 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Footer in current Website | Medium | [#160](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/160) |
+| Fix improve error handling and user feedback | Medium | [#183](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/183) |
+| 🐛 GitHub Issue: Missing Error Handling and User Feedback in Frontend Components | Medium | [#182](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/182) |
+| 🛡️ ENHANCEMENT: Implement Centralized Error Handling and Consistent Feedback System | Medium | [#181](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/181) |
+| Implement Centralized Error Handling and Consistent Loading/Feedback System | Medium | [#180](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/180) |
+| 🛡️ FIX/ENHANCEMENT: Standardize Error Handling and Loading States | Medium | [#179](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/179) |
+| ⚠️ REFACTOR: Standardize Error Handling, Loading States, and Enhance Backend Observability | Medium | [#178](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/178) |
+| Fix implement comprehensive error handling | Medium | [#177](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/177) |
+| 🛡️ REFACTOR: Implement Comprehensive Error Handling and User Feedback System | Medium | [#176](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/176) |
+| Comprehensive Navigation Accessibility, Focus Management, and Mobile Consistency | Medium | [#175](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/175) |
+| Improve Navigation Accessibility, Focus Management, and Mobile Responsiveness | Medium | [#174](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/174) |
+| ♿️ Fix improve mobile navigation accessibility | Medium | [#173](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/173) |
+| ♿️ BUG: Improve Mobile Navigation Menu Accessibility and Usability | Medium | [#172](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/172) |
+| ENHANCEMENT: Footer Newsletter Integration, Accessibility, and Responsiveness | Medium | [#171](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/171) |
+| 🐛 BUG:  Integrate Newsletter Subscription and Improve Footer Accessibility | Medium | [#170](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/170) |
+| Fix: Enhance Footer with Additional Features and Improved Responsiveness | Medium | [#169](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/169) |
+| Enhance Footer with New Features, Responsiveness, and Accessibility | Medium | [#168](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/168) |
+| 🐛 Fix improve footer layout & Broken Links, and Enhance Accessibility | Medium | [#167](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/167) |
+| 🐛 BUG/ENHANCEMENT: Improve Footer Layout, Fix Broken Link, and Enhance Accessibility | Medium | [#166](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/166) |
+| Fix: ✨ Improve code readability & add lightweight documentation for b… | Medium | [#165](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/165) |
+| Improve code readability & add lightweight documentation for backend API endpoints | Medium | [#164](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/164) |
 | Add Pull Request (PR) Template | Medium | [#66](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/66) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#65](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/65) |
 | #42 Content Disappears After Reload on All Pages | Medium | [#44](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/44) |
-| Make UI Responsive for Mobile Devices | Medium | [#23](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/23) |
-| Update README.md | Medium | [#19](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/19) |
 
 ---
 
@@ -188,14 +205,20 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Sign-In Button Text and Icon Not Visible Properly in Light Mode | Medium | [#709](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/709) |
-| Overlapping Back button and logo on Sign-Up Pages (Mobile View). | Medium | [#708](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/708) |
-| Remove Unnecessary Email & Password Validation on Sign-In Page | Medium | [#707](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/707) |
-| Refactor Interview Page: Full UI Redesign + Global Layout Integration | Medium | [#706](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/706) |
-| feat: functional add new goal btn | Medium | [#705](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/705) |
-| feat: Dynamic settings page | Medium | [#704](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/704) |
-| feat: Fixed issues in settings page | Medium | [#703](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/703) |
-| EmployeeForm - Enhanced Form with email validation, password strength meter, and match indicators | Medium | [#702](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/702) |
+| Optimize Password Reset Controller for Performance and Readability | Medium | [#725](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/725) |
+| Issue: Optimize Jobs Controller for Readability and Maintainability | Medium | [#724](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/724) |
+| Issue: Optimize Java Dry-Run Controller Using Gemini AI for Readability | Medium | [#723](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/723) |
+| Issue: Optimize InterviewExperience Controller for Readability and Maintainability | Medium | [#722](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/722) |
+| Issue: Optimize Institution Dashboard Controller for Readability and Efficiency | Medium | [#721](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/721) |
+| Issue: Optimize Email Feedback Handler for Better Maintainability | Medium | [#720](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/720) |
+| Issue: Refactor and Optimize Feedback Email Controller for Placify Platform | Medium | [#719](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/719) |
+| Issue: Optimize Dry Run Controller for Python Code Testing with Gemini AI | Medium | [#718](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/718) |
+| Issue: Refactor Unified User Dashboard Controller for Improved Readability and Code Consistency | Medium | [#717](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/717) |
+| Issue: Optimize Company Dashboard Controller for Better Readability and Stability | Medium | [#716](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/716) |
+| Refactor chat backend for Gemini AI | Medium | [#715](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/715) |
+| Refactor C/C++ dry-run backend for readability and reliability | Medium | [#714](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/714) |
+| Refactor auth and profile backend for readability and efficiency | Medium | [#713](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/713) |
+| Optimize resume analysis backend for performance and readability | Medium | [#712](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/712) |
 
 ---
 
@@ -213,17 +236,11 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix About page footer layout and gradient | Medium | [#427](https://github.com/omroy07/AgriTech/pull/427) |
-| Implement 3d cursor based background for website homepage | Medium | [#426](https://github.com/omroy07/AgriTech/issues/426) |
-| Add : Soil Type Classification Model | Medium | [#424](https://github.com/omroy07/AgriTech/issues/424) |
-| Add Third Page to Technology category in Blog Tab | Medium | [#420](https://github.com/omroy07/AgriTech/issues/420) |
-| Add "Forgot Password" link on Sign In page | Medium | [#418](https://github.com/omroy07/AgriTech/issues/418) |
-| Add Social Media Links to Footer | Medium | [#417](https://github.com/omroy07/AgriTech/issues/417) |
-| Add Contributors Section in README | Medium | [#416](https://github.com/omroy07/AgriTech/issues/416) |
+| Contributors section | Medium | [#429](https://github.com/omroy07/AgriTech/pull/429) |
+| Improve and Standardize GitHub Issue Template | Medium | [#428](https://github.com/omroy07/AgriTech/pull/428) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#412](https://github.com/omroy07/AgriTech/issues/412) |
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
 | solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
@@ -313,16 +330,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI Alignment Issue: Navbar Links are Not Centered | Medium | [#199](https://github.com/aayushraj1010/med-genie/issues/199) |
-| No contact us page. | Medium | [#198](https://github.com/aayushraj1010/med-genie/issues/198) |
-| Title: Build Trust Indicators section with Security Badges | Medium | [#197](https://github.com/aayushraj1010/med-genie/issues/197) |
+| Fix the about us page | Medium | [#202](https://github.com/aayushraj1010/med-genie/pull/202) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
-| fix: Enhance Footer UI | Medium | [#195](https://github.com/aayushraj1010/med-genie/pull/195) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
-| Missing Navigation to Home Page & Non-Functional "Our Process" Page | Medium | [#177](https://github.com/aayushraj1010/med-genie/issues/177) |
-| Redirection of Social Media Links in Footer Section | Medium | [#176](https://github.com/aayushraj1010/med-genie/issues/176) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
-| Add a "Scroll to top" button | Medium | [#165](https://github.com/aayushraj1010/med-genie/issues/165) |
 | BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
 
 ---
