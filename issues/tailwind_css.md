@@ -59,6 +59,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated readme | Medium | [#83](https://github.com/Abhinavhaldiya/FinPilot/pull/83) |
 | Add theme switch button | Medium | [#82](https://github.com/Abhinavhaldiya/FinPilot/issues/82) |
 | Improve README.md for Better Readability and Structure | Medium | [#78](https://github.com/Abhinavhaldiya/FinPilot/issues/78) |
 | Add Pull Request (PR) Template | Medium | [#77](https://github.com/Abhinavhaldiya/FinPilot/issues/77) |
@@ -224,7 +225,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/iac scaffolding : Foundational Network Module | Easy | [#2310](https://github.com/OWASP/Nest/pull/2310) |
+| Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
+| Fixed sporadic 404 flash | Medium | [#2441](https://github.com/OWASP/Nest/pull/2441) |
+| refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2431](https://github.com/OWASP/Nest/pull/2431) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
@@ -262,7 +265,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
-| Fix Sign Up POST request not being sent (#1302) | Medium | [#1305](https://github.com/Code-A2Z/code-a2z/pull/1305) |
+| feat: add feedback form | Medium | [#1306](https://github.com/Code-A2Z/code-a2z/pull/1306) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -270,7 +273,6 @@ Accessibility features like dark mode,white.
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
-| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 
 ---
 
@@ -288,15 +290,12 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed the layout flicker when search was pressed in Navbar | Easy | [#458](https://github.com/Ayushjhawar8/Flavor-ai/pull/458) |
-| bug-fix-translate-language | Medium | [#481](https://github.com/Ayushjhawar8/Flavor-ai/pull/481) |
-| Correct footer layout on home page for full width | Medium | [#480](https://github.com/Ayushjhawar8/Flavor-ai/pull/480) |
-| Added Progress Bar for Completed Preparation Steps in Recipe View #464 | Medium | [#479](https://github.com/Ayushjhawar8/Flavor-ai/pull/479) |
-| Redesign AI Diet Planner Page | Medium | [#478](https://github.com/Ayushjhawar8/Flavor-ai/pull/478) |
-| Added custom 404 Not Found page | Medium | [#475](https://github.com/Ayushjhawar8/Flavor-ai/pull/475) |
-| Fixed Dark Mode Support and Improved UI Structure for Diet Planner Page | Medium | [#474](https://github.com/Ayushjhawar8/Flavor-ai/pull/474) |
-| Fix/back button | Medium | [#472](https://github.com/Ayushjhawar8/Flavor-ai/pull/472) |
-| fixed text color for better visibilty | Medium | [#470](https://github.com/Ayushjhawar8/Flavor-ai/pull/470) |
+| fix(ui): replaced 🍴 emoji with SVG icon for better dark mode visibility | Easy | [#482](https://github.com/Ayushjhawar8/Flavor-ai/pull/482) |
+| bug-fix-translate-language | Easy | [#481](https://github.com/Ayushjhawar8/Flavor-ai/pull/481) |
+| Redesign AI Diet Planner Page | Easy | [#478](https://github.com/Ayushjhawar8/Flavor-ai/pull/478) |
+| Feature: Integrate Gemini API to diet-planner-ai | Medium | [#486](https://github.com/Ayushjhawar8/Flavor-ai/pull/486) |
+| fixed the UI Improve Text Visibility and Theme Styling for "Blending Code and Cuisine" Page | Medium | [#485](https://github.com/Ayushjhawar8/Flavor-ai/pull/485) |
+| Feature: Add Recipe Notes | Medium | [#484](https://github.com/Ayushjhawar8/Flavor-ai/pull/484) |
 
 ---
 
@@ -808,14 +807,20 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Sign-In Button Text and Icon Not Visible Properly in Light Mode | Medium | [#709](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/709) |
-| Overlapping Back button and logo on Sign-Up Pages (Mobile View). | Medium | [#708](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/708) |
-| Remove Unnecessary Email & Password Validation on Sign-In Page | Medium | [#707](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/707) |
-| Refactor Interview Page: Full UI Redesign + Global Layout Integration | Medium | [#706](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/706) |
-| feat: functional add new goal btn | Medium | [#705](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/705) |
-| feat: Dynamic settings page | Medium | [#704](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/704) |
-| feat: Fixed issues in settings page | Medium | [#703](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/703) |
-| EmployeeForm - Enhanced Form with email validation, password strength meter, and match indicators | Medium | [#702](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/702) |
+| Optimize Password Reset Controller for Performance and Readability | Medium | [#725](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/725) |
+| Issue: Optimize Jobs Controller for Readability and Maintainability | Medium | [#724](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/724) |
+| Issue: Optimize Java Dry-Run Controller Using Gemini AI for Readability | Medium | [#723](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/723) |
+| Issue: Optimize InterviewExperience Controller for Readability and Maintainability | Medium | [#722](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/722) |
+| Issue: Optimize Institution Dashboard Controller for Readability and Efficiency | Medium | [#721](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/721) |
+| Issue: Optimize Email Feedback Handler for Better Maintainability | Medium | [#720](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/720) |
+| Issue: Refactor and Optimize Feedback Email Controller for Placify Platform | Medium | [#719](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/719) |
+| Issue: Optimize Dry Run Controller for Python Code Testing with Gemini AI | Medium | [#718](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/718) |
+| Issue: Refactor Unified User Dashboard Controller for Improved Readability and Code Consistency | Medium | [#717](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/717) |
+| Issue: Optimize Company Dashboard Controller for Better Readability and Stability | Medium | [#716](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/716) |
+| Refactor chat backend for Gemini AI | Medium | [#715](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/715) |
+| Refactor C/C++ dry-run backend for readability and reliability | Medium | [#714](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/714) |
+| Refactor auth and profile backend for readability and efficiency | Medium | [#713](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/713) |
+| Optimize resume analysis backend for performance and readability | Medium | [#712](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/712) |
 
 ---
 
@@ -1102,12 +1107,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| feat: add password generator and strength indicator | Medium | [#442](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/442) |
-| Flashcard text overlapping | Medium | [#432](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/432) |
+| feat: add password generator and strength indicator | Medium | [#446](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/446) |
+| Added DSA Practice Performance Predictor (ML Feature) | Medium | [#445](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/445) |
+| cards for s[Feature]: Add the Working Inverting Flashcards and CheatSheets | Medium | [#444](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/444) |
 | Table of Contents Missing in README.md | Medium | [#428](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/428) |
 | fix: improve testimonial prompt visibility in light mode | Medium | [#425](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/425) |
 | Add self-made DSAMate logo #4 | Medium | [#422](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/422) |
-| updated revision checkbox ui | Medium | [#421](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/421) |
 | feat: Add progress dashboard with ML-based topic categorization | Medium | [#359](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/359) |
 | Text on testimonial cards should remain clearly visible in both light and dark modes. | Medium | [#354](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/354) |
 | Improved visibility of Terms of Service and Privacy Policy button | Medium | [#312](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/312) |
@@ -1254,6 +1259,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
+
+---
+
+## 📌 Project: PrepBuddy
+
+📝 **Description:** PrepBuddy is a student-focused platform where users can practice aptitude tests based on real company patterns, track their progress, upload profile pictures, earn badges, and compete on a global leaderboard.
+
+🔗 [View Project](https://github.com/SurajSG23/PrepBuddy)
+
+💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, ShadCN/UI, Lucide Icons, Axios, Node.js, Express.js, MongoDB, Mongoose, Firebase Auth, Cloudinary, Multer
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| enhance: fix question modal layout and scrollbar, minor minor fixes | Medium | [#229](https://github.com/SurajSG23/PrepBuddy/pull/229) |
 
 ---
 
@@ -1572,7 +1595,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added mobile hamburger menu | Medium | [#190](https://github.com/DevSyncx/DevSync/pull/190) |
 | Added DevSync logo in Navbar, Footer, and favicon | Medium | [#189](https://github.com/DevSyncx/DevSync/pull/189) |
 | Improve dark mode UI for To-Do List component | Medium | [#187](https://github.com/DevSyncx/DevSync/issues/187) |
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
@@ -2149,7 +2171,6 @@ Fast Workflow Tools
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
-| Fix navbar overlap between links and auth controls at lg breakpoint | Medium | [#764](https://github.com/SandeepVashishtha/Eventra/issues/764) |
 | Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
@@ -2425,8 +2446,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Arcoder181105/oauth google : Backend Enhancements & Bug Fixes | Medium | [#92](https://github.com/Vijayaa21/Blabber/pull/92) |
-| Feature Request: Add Google Login Authentication | Medium | [#91](https://github.com/Vijayaa21/Blabber/issues/91) |
 | Add Google login with Firebase | Medium | [#87](https://github.com/Vijayaa21/Blabber/pull/87) |
 | Adding attractive homepage | Medium | [#86](https://github.com/Vijayaa21/Blabber/issues/86) |
 | Add Template for Pull Request | Medium | [#85](https://github.com/Vijayaa21/Blabber/issues/85) |
