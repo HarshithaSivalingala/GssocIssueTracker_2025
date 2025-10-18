@@ -18,6 +18,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Fix | Medium | [#1217](https://github.com/gyanshankar1708/GrowCraft/issues/1217) |
+| Fix BackToTop Button | Medium | [#1216](https://github.com/gyanshankar1708/GrowCraft/issues/1216) |
+| Added sticky navbar to Content Writing, Web Development, and Digital Marketing pages | Medium | [#1208](https://github.com/gyanshankar1708/GrowCraft/pull/1208) |
+| Added Sticky navbar for graphic designing,socialmedia management and … | Medium | [#1207](https://github.com/gyanshankar1708/GrowCraft/pull/1207) |
 | Styled navbar properly for our work page. | Medium | [#1196](https://github.com/gyanshankar1708/GrowCraft/pull/1196) |
 | Services Section Misalignment on Home Page | Medium | [#1195](https://github.com/gyanshankar1708/GrowCraft/issues/1195) |
 | footer section inconvinient | Medium | [#1191](https://github.com/gyanshankar1708/GrowCraft/issues/1191) |
@@ -35,17 +39,6 @@
 | Navbar and footer inconsistency in services page. | Medium | [#1172](https://github.com/gyanshankar1708/GrowCraft/issues/1172) |
 | Navbar Styling Inconsistency on Contact Page | Medium | [#1171](https://github.com/gyanshankar1708/GrowCraft/issues/1171) |
 | Styling navbar consistently for website development page. | Medium | [#1170](https://github.com/gyanshankar1708/GrowCraft/issues/1170) |
-| fix Home page UI | Medium | [#1167](https://github.com/gyanshankar1708/GrowCraft/issues/1167) |
-| back to top button isn't present | Medium | [#1149](https://github.com/gyanshankar1708/GrowCraft/issues/1149) |
-| fix: unify navbar structure, links, and hover behavior across all pages | Medium | [#1141](https://github.com/gyanshankar1708/GrowCraft/pull/1141) |
-| Services Links Not Working in Footer Section of FAQ Page | Medium | [#1133](https://github.com/gyanshankar1708/GrowCraft/issues/1133) |
-| Footer | Medium | [#1128](https://github.com/gyanshankar1708/GrowCraft/issues/1128) |
-| about us not working in footer of webdevelopment page | Medium | [#1126](https://github.com/gyanshankar1708/GrowCraft/issues/1126) |
-| BUG: Dark Mode is not working on Home page | Medium | [#1125](https://github.com/gyanshankar1708/GrowCraft/issues/1125) |
-| BUG: Dark theme toggle is missing in Contact page | Medium | [#1124](https://github.com/gyanshankar1708/GrowCraft/issues/1124) |
-| BUG: About Page footer issue some content not visible properly icons issue | Medium | [#1123](https://github.com/gyanshankar1708/GrowCraft/issues/1123) |
-| BUG: Unconsistent footer visible in dark of Home Page | Medium | [#1122](https://github.com/gyanshankar1708/GrowCraft/issues/1122) |
-| BUG: Unwanted content on bottom and missing footer on contact page | Medium | [#1121](https://github.com/gyanshankar1708/GrowCraft/issues/1121) |
 
 ---
 
