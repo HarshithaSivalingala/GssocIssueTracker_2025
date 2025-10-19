@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GSSoC'25 Banner | Medium | [#75](https://github.com/A-Akhil/Astra-Ai/issues/75) |
 | docs: enhanced README with Tech Stack, Contribution Guidelines, and Badges | Medium | [#74](https://github.com/A-Akhil/Astra-Ai/pull/74) |
 | feat(layout): Enhance assistant message item | Medium | [#70](https://github.com/A-Akhil/Astra-Ai/pull/70) |
 | Refactor & Enhance: Improve item_message_assistant.xml Layout | Medium | [#68](https://github.com/A-Akhil/Astra-Ai/issues/68) |
@@ -39,7 +40,6 @@
 | UPDATE ON : Add Smart Reminder System with Voice Commands and Push Notifications #2 | Medium | [#32](https://github.com/A-Akhil/Astra-Ai/pull/32) |
 | Add My Application to initialize Logger | Medium | [#30](https://github.com/A-Akhil/Astra-Ai/pull/30) |
 | Update Llama Client.kt | Medium | [#29](https://github.com/A-Akhil/Astra-Ai/pull/29) |
-| Suggested Advanced Additions to Scale Astra-AI to a Full-Fledged Assistant | Medium | [#26](https://github.com/A-Akhil/Astra-Ai/issues/26) |
 
 ---
 
@@ -142,18 +142,15 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Remove item from saved list upon click | Medium | [#494](https://github.com/yuvrajsinghgmx/ShopSmart/pull/494) |
-| After Editing a User Profile and then logout and login the old firebase password can be seen | Medium | [#493](https://github.com/yuvrajsinghgmx/ShopSmart/issues/493) |
+| removed default email | Medium | [#497](https://github.com/yuvrajsinghgmx/ShopSmart/pull/497) |
+| After Editing a User Profile and then logout and login the old firebase email can be seen | Medium | [#493](https://github.com/yuvrajsinghgmx/ShopSmart/issues/493) |
 | Update User Location after each /load | Medium | [#492](https://github.com/yuvrajsinghgmx/ShopSmart/issues/492) |
 | Edit Profile | Medium | [#491](https://github.com/yuvrajsinghgmx/ShopSmart/issues/491) |
 | Screen for "See All" for Nearby Produts" | Medium | [#489](https://github.com/yuvrajsinghgmx/ShopSmart/issues/489) |
 | Screen for "See All" for Nearby Shops | Medium | [#488](https://github.com/yuvrajsinghgmx/ShopSmart/issues/488) |
 | Implement Cart Section | Medium | [#485](https://github.com/yuvrajsinghgmx/ShopSmart/issues/485) |
-| Users should be able to Unfavourite products from the Saved Screen by clicking on the "❤️" icon | Medium | [#484](https://github.com/yuvrajsinghgmx/ShopSmart/issues/484) |
-| Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
 | Master Issue for tracking Compose Dev. | Medium | [#454](https://github.com/yuvrajsinghgmx/ShopSmart/issues/454) |
-| Search bar on top of home screen is not functional | Medium | [#434](https://github.com/yuvrajsinghgmx/ShopSmart/issues/434) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
