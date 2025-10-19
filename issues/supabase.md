@@ -196,8 +196,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add a demo vid in readme | Medium | [#50](https://github.com/Jyotibrat/AI-Flow/issues/50) |
-| enhance coc | Medium | [#49](https://github.com/Jyotibrat/AI-Flow/issues/49) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
