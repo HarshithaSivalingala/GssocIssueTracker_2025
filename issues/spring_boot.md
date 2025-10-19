@@ -48,18 +48,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Remove item from saved list upon click | Medium | [#494](https://github.com/yuvrajsinghgmx/ShopSmart/pull/494) |
-| After Editing a User Profile and then logout and login the old firebase password can be seen | Medium | [#493](https://github.com/yuvrajsinghgmx/ShopSmart/issues/493) |
+| removed default email | Medium | [#497](https://github.com/yuvrajsinghgmx/ShopSmart/pull/497) |
+| After Editing a User Profile and then logout and login the old firebase email can be seen | Medium | [#493](https://github.com/yuvrajsinghgmx/ShopSmart/issues/493) |
 | Update User Location after each /load | Medium | [#492](https://github.com/yuvrajsinghgmx/ShopSmart/issues/492) |
 | Edit Profile | Medium | [#491](https://github.com/yuvrajsinghgmx/ShopSmart/issues/491) |
 | Screen for "See All" for Nearby Produts" | Medium | [#489](https://github.com/yuvrajsinghgmx/ShopSmart/issues/489) |
 | Screen for "See All" for Nearby Shops | Medium | [#488](https://github.com/yuvrajsinghgmx/ShopSmart/issues/488) |
 | Implement Cart Section | Medium | [#485](https://github.com/yuvrajsinghgmx/ShopSmart/issues/485) |
-| Users should be able to Unfavourite products from the Saved Screen by clicking on the "❤️" icon | Medium | [#484](https://github.com/yuvrajsinghgmx/ShopSmart/issues/484) |
-| Feature/cart screen | Medium | [#464](https://github.com/yuvrajsinghgmx/ShopSmart/pull/464) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
 | Master Issue for tracking Compose Dev. | Medium | [#454](https://github.com/yuvrajsinghgmx/ShopSmart/issues/454) |
-| Search bar on top of home screen is not functional | Medium | [#434](https://github.com/yuvrajsinghgmx/ShopSmart/issues/434) |
 | Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
 | Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
@@ -133,10 +130,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add dropdown component | Easy | [#776](https://github.com/SandeepVashishtha/Eventra/pull/776) |
+| 🤖 Auto-unassignment Summary - Sat Oct 18 2025 | Easy | [#774](https://github.com/SandeepVashishtha/Eventra/issues/774) |
 | 🤖 Auto-unassignment Summary - Thu Oct 09 2025 | Easy | [#660](https://github.com/SandeepVashishtha/Eventra/issues/660) |
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
+| Support for Multiple Tag Search | Medium | [#775](https://github.com/SandeepVashishtha/Eventra/issues/775) |
+| emoji not aligned | Medium | [#542](https://github.com/SandeepVashishtha/Eventra/issues/542) |
 | Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
