@@ -14,11 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
+| Refactor: Replace ArchivedBadge with Flexible StatusBadge Component | Medium | [#2444](https://github.com/OWASP/Nest/pull/2444) |
+| question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
-| Fixed sporadic 404 flash | Medium | [#2441](https://github.com/OWASP/Nest/pull/2441) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
-| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2431](https://github.com/OWASP/Nest/pull/2431) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
@@ -33,8 +35,6 @@
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
-| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
-| Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -130,6 +130,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Add Smart Donation Pickup Tracking System (Google Maps API Integration)Add a Donation Pickup Tracking feature that allows donors and volunteers to view pickup and delivery locations in real-time using Google Maps API. | Medium | [#39](https://github.com/Khushbudaswani/Foodbridge/issues/39) |
 | Update UI for login/signup pages, navbar, and improve login/logout me… | Medium | [#38](https://github.com/Khushbudaswani/Foodbridge/pull/38) |
 | feat(auth): refactor user model, added Google reCAPTCHA and email verification | Medium | [#37](https://github.com/Khushbudaswani/Foodbridge/pull/37) |
 | Feature Request: Add Real-time Dashboard for Donation Analytics and Volunteer Management | Medium | [#36](https://github.com/Khushbudaswani/Foodbridge/issues/36) |
@@ -163,8 +164,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix employer registration/login KeyError, session persistence, and template mismatches (#269) | Easy | [#273](https://github.com/Khushi-Nigam/jobportal/pull/273) |
+| Fix employer registration/login MultiValueDictKeyError, session persistence, and template mismatches (#269) | Easy | [#273](https://github.com/Khushi-Nigam/jobportal/pull/273) |
 | Fix: Removed invalid space in .github /ISSUE_TEMPLATE and merged duplicate .github folders | Easy | [#272](https://github.com/Khushi-Nigam/jobportal/pull/272) |
+| Add direct link to working website in README | Medium | [#279](https://github.com/Khushi-Nigam/jobportal/pull/279) |
+| Added google sign in | Medium | [#277](https://github.com/Khushi-Nigam/jobportal/pull/277) |
+| Improving UI on Services for consistency | Medium | [#275](https://github.com/Khushi-Nigam/jobportal/issues/275) |
 | Cleanup Duplicate Auth & Search Logic in index.html | Medium | [#266](https://github.com/Khushi-Nigam/jobportal/pull/266) |
 | Add a search icon in the "Search Jobs Here" search bar for better UI consistency | Medium | [#265](https://github.com/Khushi-Nigam/jobportal/issues/265) |
 | Added file structure page | Medium | [#264](https://github.com/Khushi-Nigam/jobportal/pull/264) |
