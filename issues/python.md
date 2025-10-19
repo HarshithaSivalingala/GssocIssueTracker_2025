@@ -40,6 +40,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Footer background color inconsistent with overall website theme | Easy | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
+| Add GSSoC'25 Banner | Medium | [#226](https://github.com/SrigadaAkshayKumar/stock/issues/226) |
 | Fix #62: Reduce YFinance API limit errors with batching, caching, ret… | Medium | [#225](https://github.com/SrigadaAkshayKumar/stock/pull/225) |
 | UI enhancement | Medium | [#224](https://github.com/SrigadaAkshayKumar/stock/issues/224) |
 | Updated Twitter icon | Medium | [#223](https://github.com/SrigadaAkshayKumar/stock/pull/223) |
@@ -72,6 +73,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GSSoC 2025 announcement to README | Medium | [#339](https://github.com/Amarjha01/InfantCareCompass/pull/339) |
 | Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
 | News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
@@ -79,11 +81,6 @@
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
-| Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
-| Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
-| Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
-| Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
-| Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 
 ---
 
@@ -102,6 +99,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🚫 License Missing from Repository | Easy | [#6](https://github.com/Ananya-te/MusicTrackerAPI/issues/6) |
+| Add GSSoC'25 Banner | Medium | [#44](https://github.com/Ananya-te/MusicTrackerAPI/issues/44) |
 | Document API Endpoints in README | Medium | [#43](https://github.com/Ananya-te/MusicTrackerAPI/issues/43) |
 | Improve README: Added prerequisites, database reset instructions, and contributing guide | Medium | [#42](https://github.com/Ananya-te/MusicTrackerAPI/pull/42) |
 | Enhanced UI and added search functionality to MusicAPI.html | Medium | [#41](https://github.com/Ananya-te/MusicTrackerAPI/pull/41) |
@@ -196,7 +194,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
+| ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
 | Resource Sharing Section: A “library” where mentors can upload PDFs, links, or videos for mentees. | Medium | [#66](https://github.com/Menthub-GSSoC/Menthub/issues/66) |
 | Enchancement: The UI/UX of the homepage | Medium | [#65](https://github.com/Menthub-GSSoC/Menthub/issues/65) |
@@ -209,7 +208,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
-| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
@@ -227,11 +225,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
+| Refactor: Replace ArchivedBadge with Flexible StatusBadge Component | Medium | [#2444](https://github.com/OWASP/Nest/pull/2444) |
+| question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
-| Fixed sporadic 404 flash | Medium | [#2441](https://github.com/OWASP/Nest/pull/2441) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
-| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2431](https://github.com/OWASP/Nest/pull/2431) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
@@ -246,8 +246,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
-| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
-| Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -483,6 +481,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature Request: Add Smart Donation Pickup Tracking System (Google Maps API Integration)Add a Donation Pickup Tracking feature that allows donors and volunteers to view pickup and delivery locations in real-time using Google Maps API. | Medium | [#39](https://github.com/Khushbudaswani/Foodbridge/issues/39) |
 | Update UI for login/signup pages, navbar, and improve login/logout me… | Medium | [#38](https://github.com/Khushbudaswani/Foodbridge/pull/38) |
 | feat(auth): refactor user model, added Google reCAPTCHA and email verification | Medium | [#37](https://github.com/Khushbudaswani/Foodbridge/pull/37) |
 | Feature Request: Add Real-time Dashboard for Donation Analytics and Volunteer Management | Medium | [#36](https://github.com/Khushbudaswani/Foodbridge/issues/36) |
@@ -516,8 +515,11 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix employer registration/login KeyError, session persistence, and template mismatches (#269) | Easy | [#273](https://github.com/Khushi-Nigam/jobportal/pull/273) |
+| Fix employer registration/login MultiValueDictKeyError, session persistence, and template mismatches (#269) | Easy | [#273](https://github.com/Khushi-Nigam/jobportal/pull/273) |
 | Fix: Removed invalid space in .github /ISSUE_TEMPLATE and merged duplicate .github folders | Easy | [#272](https://github.com/Khushi-Nigam/jobportal/pull/272) |
+| Add direct link to working website in README | Medium | [#279](https://github.com/Khushi-Nigam/jobportal/pull/279) |
+| Added google sign in | Medium | [#277](https://github.com/Khushi-Nigam/jobportal/pull/277) |
+| Improving UI on Services for consistency | Medium | [#275](https://github.com/Khushi-Nigam/jobportal/issues/275) |
 | Cleanup Duplicate Auth & Search Logic in index.html | Medium | [#266](https://github.com/Khushi-Nigam/jobportal/pull/266) |
 | Add a search icon in the "Search Jobs Here" search bar for better UI consistency | Medium | [#265](https://github.com/Khushi-Nigam/jobportal/issues/265) |
 | Added file structure page | Medium | [#264](https://github.com/Khushi-Nigam/jobportal/pull/264) |
@@ -569,20 +571,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Optimize Password Reset Controller for Performance and Readability | Medium | [#725](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/725) |
-| Issue: Optimize Jobs Controller for Readability and Maintainability | Medium | [#724](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/724) |
-| Issue: Optimize Java Dry-Run Controller Using Gemini AI for Readability | Medium | [#723](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/723) |
-| Issue: Optimize InterviewExperience Controller for Readability and Maintainability | Medium | [#722](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/722) |
-| Issue: Optimize Institution Dashboard Controller for Readability and Efficiency | Medium | [#721](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/721) |
-| Issue: Optimize Email Feedback Handler for Better Maintainability | Medium | [#720](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/720) |
-| Issue: Refactor and Optimize Feedback Email Controller for Placify Platform | Medium | [#719](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/719) |
-| Issue: Optimize Dry Run Controller for Python Code Testing with Gemini AI | Medium | [#718](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/718) |
-| Issue: Refactor Unified User Dashboard Controller for Improved Readability and Code Consistency | Medium | [#717](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/717) |
-| Issue: Optimize Company Dashboard Controller for Better Readability and Stability | Medium | [#716](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/716) |
-| Refactor chat backend for Gemini AI | Medium | [#715](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/715) |
-| Refactor C/C++ dry-run backend for readability and reliability | Medium | [#714](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/714) |
-| Refactor auth and profile backend for readability and efficiency | Medium | [#713](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/713) |
-| Optimize resume analysis backend for performance and readability | Medium | [#712](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/712) |
+| Add GSSoC'25 Banner. | Medium | [#755](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/755) |
+| Student Controller Optimization | Medium | [#732](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/732) |
 
 ---
 
@@ -600,8 +590,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Contributors section | Medium | [#429](https://github.com/omroy07/AgriTech/pull/429) |
-| Improve and Standardize GitHub Issue Template | Medium | [#428](https://github.com/omroy07/AgriTech/pull/428) |
+| Add GSSoC Banner in Readme. | Medium | [#433](https://github.com/omroy07/AgriTech/issues/433) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
@@ -750,6 +739,16 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Pull Request : Financial Fraud Detection System | Medium | [#838](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/838) |
+| Add New Project — Financial Fraud Detection System | Medium | [#837](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/837) |
+| Pull Request : Corporate Credit Rating Forecasting | Medium | [#836](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/836) |
+| feat: #831 Seaborn Visualization | Medium | [#835](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/835) |
+| Add Project — Corporate Credit Rating Forecasting | Medium | [#834](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/834) |
+| Pull Request : Corporate Earnings Prediction Using Deep Learning | Medium | [#833](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/833) |
+| Add Project — Corporate Earnings Prediction Using Deep Learning | Medium | [#832](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/832) |
+| GSSOC'25 : Add Seaborn Visualisations | Medium | [#831](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/831) |
+| feat: #809 Stock Turnover ratio dataset Analysis | Medium | [#830](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/830) |
+| feat: #356 - Fake_news_detection | Medium | [#829](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/829) |
 | Pull Request : Predicting Commodity Prices Using Deep Learning | Medium | [#828](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/828) |
 | Add Project — Predicting Commodity Prices Using Deep Learning | Medium | [#827](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/827) |
 | Pull Request : Portfolio Optimization Using Genetic Algorithms | Medium | [#826](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/826) |
@@ -770,14 +769,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Pull Request : Stock Market Turnover Ratio Analysis | Medium | [#810](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/810) |
 | Add New Project - Stock Turnover Ratio Dataset Analysis | Medium | [#809](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/809) |
 | Add New Project — Stock Market Turnover Ratio Analysis (GSSoC'25) | Medium | [#807](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/807) |
-| Add Big Tech Giant Stocks Visualization App Project | Medium | [#799](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/799) |
-| vidya | Medium | [#798](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/798) |
-| Add AI Text Summarizer | Medium | [#797](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/797) |
-| Add Interactive Chatbot for DataSentience-AIML Project Info | Medium | [#796](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/796) |
-| Add ITC Stocks Visualization App Project | Medium | [#792](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/792) |
-| EDA Notebook Submission for Review | Medium | [#786](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/786) |
-| Smart Fertilizer Recommendation System using LLM | Medium | [#783](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/783) |
-| Reinforcement Learning for Stock Trading | Medium | [#762](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/762) |
 
 ---
 
@@ -906,22 +897,13 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Added Food & Mood Journal Page | Medium | [#551](https://github.com/eccentriccoder01/TalkHeal/issues/551) |
-| Bug: StreamlitAPIException in pages/doctor_spec.py | Medium | [#550](https://github.com/eccentriccoder01/TalkHeal/issues/550) |
-| Replace Emojis with Consistent Icon Set for Better UI Visibility and User Experience | Medium | [#548](https://github.com/eccentriccoder01/TalkHeal/issues/548) |
-| 🌱 Enhancement: Improve Wellness Tip UI/UX & Tip Rotation Logic | Medium | [#547](https://github.com/eccentriccoder01/TalkHeal/issues/547) |
-| View Password Icon Not Functioning | Medium | [#523](https://github.com/eccentriccoder01/TalkHeal/issues/523) |
+| 🛠️ Bug: Broken or unavailable YouTube videos in Calming Music Section | Medium | [#571](https://github.com/eccentriccoder01/TalkHeal/issues/571) |
+| Create a separate page for every game | Medium | [#570](https://github.com/eccentriccoder01/TalkHeal/issues/570) |
 | UI/UX Enhancement: Improve Login Form Design and Responsiveness and validation | Medium | [#512](https://github.com/eccentriccoder01/TalkHeal/issues/512) |
 | Making sidebar organized. | Medium | [#500](https://github.com/eccentriccoder01/TalkHeal/issues/500) |
 | Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
-| UI Bug: Text color does not adapt to theme changes, causing readability issues | Medium | [#498](https://github.com/eccentriccoder01/TalkHeal/issues/498) |
-| Visual Styling & Theme Enhancements in Water Intake Tracker | Medium | [#496](https://github.com/eccentriccoder01/TalkHeal/issues/496) |
 | Add a Dedicated Home Page for TalkHeal | Medium | [#480](https://github.com/eccentriccoder01/TalkHeal/issues/480) |
-| Add Password Strength Meter with Real-time Feedback and NIST Guidelines Enforcement | Medium | [#463](https://github.com/eccentriccoder01/TalkHeal/issues/463) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#462](https://github.com/eccentriccoder01/TalkHeal/issues/462) |
-| UI/UX Enhancement Proposal for TalkHeal — Minimal, Calming, and Modern Design | Medium | [#428](https://github.com/eccentriccoder01/TalkHeal/issues/428) |
-|  | Medium | [#426](https://github.com/eccentriccoder01/TalkHeal/issues/426) |
-|  | Medium | [#424](https://github.com/eccentriccoder01/TalkHeal/issues/424) |
+| Color of the About Page | Medium | [#322](https://github.com/eccentriccoder01/TalkHeal/issues/322) |
 
 ---
 
@@ -1266,11 +1248,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix the about us page | Medium | [#202](https://github.com/aayushraj1010/med-genie/pull/202) |
+| Added issue templates | Medium | [#210](https://github.com/aayushraj1010/med-genie/pull/210) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
-| BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
 
 ---
 
@@ -1972,6 +1953,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Benchmark on OmniDocBench | Medium | [#13](https://github.com/shoryasethia/markdrop/issues/13) |
 | Add Feature : AI & Enrichment | Medium | [#11](https://github.com/shoryasethia/markdrop/issues/11) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#10](https://github.com/shoryasethia/markdrop/issues/10) |
 | Architectural and Codebase Integrity Issues: Hardcoded Paths, Logging Redundancy, and Missing Test Coverage | Medium | [#9](https://github.com/shoryasethia/markdrop/issues/9) |
