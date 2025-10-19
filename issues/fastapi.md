@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GSSoC 2025 announcement to README | Medium | [#339](https://github.com/Amarjha01/InfantCareCompass/pull/339) |
 | Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
 | News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
@@ -21,11 +22,6 @@
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
-| Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
-| Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
-| Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
-| Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
-| Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 
 ---
 
@@ -102,20 +98,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Optimize Password Reset Controller for Performance and Readability | Medium | [#725](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/725) |
-| Issue: Optimize Jobs Controller for Readability and Maintainability | Medium | [#724](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/724) |
-| Issue: Optimize Java Dry-Run Controller Using Gemini AI for Readability | Medium | [#723](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/723) |
-| Issue: Optimize InterviewExperience Controller for Readability and Maintainability | Medium | [#722](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/722) |
-| Issue: Optimize Institution Dashboard Controller for Readability and Efficiency | Medium | [#721](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/721) |
-| Issue: Optimize Email Feedback Handler for Better Maintainability | Medium | [#720](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/720) |
-| Issue: Refactor and Optimize Feedback Email Controller for Placify Platform | Medium | [#719](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/719) |
-| Issue: Optimize Dry Run Controller for Python Code Testing with Gemini AI | Medium | [#718](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/718) |
-| Issue: Refactor Unified User Dashboard Controller for Improved Readability and Code Consistency | Medium | [#717](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/717) |
-| Issue: Optimize Company Dashboard Controller for Better Readability and Stability | Medium | [#716](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/716) |
-| Refactor chat backend for Gemini AI | Medium | [#715](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/715) |
-| Refactor C/C++ dry-run backend for readability and reliability | Medium | [#714](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/714) |
-| Refactor auth and profile backend for readability and efficiency | Medium | [#713](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/713) |
-| Optimize resume analysis backend for performance and readability | Medium | [#712](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/712) |
+| Add GSSoC'25 Banner. | Medium | [#755](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/755) |
+| Student Controller Optimization | Medium | [#732](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/732) |
 
 ---
 
