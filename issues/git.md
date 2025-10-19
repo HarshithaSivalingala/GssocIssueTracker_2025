@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GSSoC 2025 announcement to README | Medium | [#339](https://github.com/Amarjha01/InfantCareCompass/pull/339) |
 | Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
 | News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
@@ -21,11 +22,6 @@
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
-| Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
-| Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
-| Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
-| Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
-| Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 
 ---
 
@@ -82,6 +78,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Footer UI and Add Missing Links | Medium | [#120](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/120) |
 | Added dark mode button and logic, along with the ui changes | Medium | [#119](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/119) |
 | Bug : No Teacher found error on sudstitution page in admin account | Medium | [#118](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/118) |
 | Add option for teachers to send assignments to multiple classes | Medium | [#117](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/117) |
@@ -99,7 +96,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Homepage enhancements | Medium | [#97](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/97) |
 | UI Enhancements: Interactive Landing Page, Footer Redesign & GitHub Popup | Medium | [#92](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/92) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
-| Enhance footer with centered sections, aligned icons, custom hover ef… | Medium | [#70](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/70) |
 
 ---
 
@@ -162,6 +158,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| Add GSSoC'25 Banner. | Medium | [#692](https://github.com/alienx5499/SortVision/issues/692) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
 | Add "Step-by-Step Mode" for Sorting Visualizations | Medium | [#655](https://github.com/alienx5499/SortVision/issues/655) |
@@ -250,11 +247,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix the about us page | Medium | [#202](https://github.com/aayushraj1010/med-genie/pull/202) |
+| Added issue templates | Medium | [#210](https://github.com/aayushraj1010/med-genie/pull/210) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
-| BUG : the navbar or top section is not organized | Medium | [#156](https://github.com/aayushraj1010/med-genie/issues/156) |
 
 ---
 
@@ -430,7 +426,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| lawyer-update-form-v2-#273 | Medium | [#289](https://github.com/dipexplorer/LegalHuB/pull/289) |
 | fix: Dictionary Share Popover Placement, Functionality and Styling | Medium | [#281](https://github.com/dipexplorer/LegalHuB/pull/281) |
 | feat: implement 3D flip contributor cards with animated glow (#260) | Medium | [#271](https://github.com/dipexplorer/LegalHuB/pull/271) |
 | Add Welcoming Contributions Banner | Medium | [#256](https://github.com/dipexplorer/LegalHuB/pull/256) |
@@ -482,8 +477,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix issue: Text in the boxes in About us page is not visible in darktheme | Medium | [#105](https://github.com/lovelymahor/StudyMatePlus/pull/105) |
-| fixed issue:UI/UX Improvement | Medium | [#104](https://github.com/lovelymahor/StudyMatePlus/pull/104) |
+| Redesign of Contact Us Page | Medium | [#106](https://github.com/lovelymahor/StudyMatePlus/pull/106) |
 | improved SEO and accessibility and rectified deployment issue | Medium | [#103](https://github.com/lovelymahor/StudyMatePlus/pull/103) |
 | Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
 | Migrated to vite successfully | Medium | [#84](https://github.com/lovelymahor/StudyMatePlus/pull/84) |
@@ -547,10 +541,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add dropdown component | Easy | [#776](https://github.com/SandeepVashishtha/Eventra/pull/776) |
+| 🤖 Auto-unassignment Summary - Sat Oct 18 2025 | Easy | [#774](https://github.com/SandeepVashishtha/Eventra/issues/774) |
 | 🤖 Auto-unassignment Summary - Thu Oct 09 2025 | Easy | [#660](https://github.com/SandeepVashishtha/Eventra/issues/660) |
 | 🤖 Auto-unassignment Summary - Tue Oct 07 2025 | Easy | [#626](https://github.com/SandeepVashishtha/Eventra/issues/626) |
 | 🤖 Auto-unassignment Summary - Sun Oct 05 2025 | Easy | [#604](https://github.com/SandeepVashishtha/Eventra/issues/604) |
 | 🤖 Auto-unassignment Summary - Fri Oct 03 2025 | Easy | [#583](https://github.com/SandeepVashishtha/Eventra/issues/583) |
+| Support for Multiple Tag Search | Medium | [#775](https://github.com/SandeepVashishtha/Eventra/issues/775) |
+| emoji not aligned | Medium | [#542](https://github.com/SandeepVashishtha/Eventra/issues/542) |
 | Registration button leads to 404 error (No registration page) | Medium | [#252](https://github.com/SandeepVashishtha/Eventra/issues/252) |
 
 ---
