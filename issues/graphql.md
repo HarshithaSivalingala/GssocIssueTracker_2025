@@ -14,11 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
+| Refactor: Replace ArchivedBadge with Flexible StatusBadge Component | Medium | [#2444](https://github.com/OWASP/Nest/pull/2444) |
+| question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
-| Fixed sporadic 404 flash | Medium | [#2441](https://github.com/OWASP/Nest/pull/2441) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
-| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2431](https://github.com/OWASP/Nest/pull/2431) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
@@ -33,8 +35,6 @@
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
-| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
-| Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
