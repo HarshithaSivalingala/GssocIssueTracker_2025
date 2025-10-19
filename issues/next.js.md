@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GSSoC'25 Banner. | Medium | [#279](https://github.com/iaadillatif/techxninjas-client/issues/279) |
 | Hover effect missing on feature buttons in hero section (UX improvement) | Medium | [#278](https://github.com/iaadillatif/techxninjas-client/issues/278) |
 | Feedback page | Medium | [#277](https://github.com/iaadillatif/techxninjas-client/pull/277) |
 | Add feature | Medium | [#276](https://github.com/iaadillatif/techxninjas-client/pull/276) |
@@ -41,7 +42,6 @@
 | Add Documentation & Performance Issue Templates + PR Template | Medium | [#250](https://github.com/iaadillatif/techxninjas-client/issues/250) |
 | Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
 | fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
-| Enhancement of Card Carousel | Medium | [#246](https://github.com/iaadillatif/techxninjas-client/issues/246) |
 
 ---
 
@@ -140,11 +140,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
+| Refactor: Replace ArchivedBadge with Flexible StatusBadge Component | Medium | [#2444](https://github.com/OWASP/Nest/pull/2444) |
+| question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
-| Fixed sporadic 404 flash | Medium | [#2441](https://github.com/OWASP/Nest/pull/2441) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
-| Migrate OWASP Nest to Zappa for serverless deployment | Medium | [#2431](https://github.com/OWASP/Nest/pull/2431) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
@@ -159,8 +161,6 @@
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
-| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
-| Implement Authorization for NestBot calendar events and add improvements | Medium | [#2315](https://github.com/OWASP/Nest/pull/2315) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -179,12 +179,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GSSoC'25 Banner. | Easy | [#489](https://github.com/Ayushjhawar8/Flavor-ai/issues/489) |
+| Feature: Integrate Gemini API to diet-planner-ai | Easy | [#486](https://github.com/Ayushjhawar8/Flavor-ai/pull/486) |
 | fix(ui): replaced 🍴 emoji with SVG icon for better dark mode visibility | Easy | [#482](https://github.com/Ayushjhawar8/Flavor-ai/pull/482) |
 | bug-fix-translate-language | Easy | [#481](https://github.com/Ayushjhawar8/Flavor-ai/pull/481) |
-| Redesign AI Diet Planner Page | Easy | [#478](https://github.com/Ayushjhawar8/Flavor-ai/pull/478) |
-| Feature: Integrate Gemini API to diet-planner-ai | Medium | [#486](https://github.com/Ayushjhawar8/Flavor-ai/pull/486) |
-| fixed the UI Improve Text Visibility and Theme Styling for "Blending Code and Cuisine" Page | Medium | [#485](https://github.com/Ayushjhawar8/Flavor-ai/pull/485) |
-| Feature: Add Recipe Notes | Medium | [#484](https://github.com/Ayushjhawar8/Flavor-ai/pull/484) |
 
 ---
 
@@ -202,7 +200,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added About section in Navbar | Medium | [#125](https://github.com/AyushSharma72/Skill_Trade/pull/125) |
+| `feat: implement comprehensive code quality improvements` | Medium | [#128](https://github.com/AyushSharma72/Skill_Trade/pull/128) |
+| Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
+| Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
 | Add “About” section link to the Navbar for better navigation | Medium | [#124](https://github.com/AyushSharma72/Skill_Trade/issues/124) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
 
@@ -243,9 +243,9 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Flight Alerts  Temporary Local Storage Support for store that in local browser | Easy | [#26](https://github.com/Dnyaneshpise/skywatch_alerts/issues/26) |
-| Adding a scroll to top button. | Medium | [#73](https://github.com/Dnyaneshpise/skywatch_alerts/issues/73) |
+| Update README with GSSoC'25 announcement | Medium | [#84](https://github.com/Dnyaneshpise/skywatch_alerts/pull/84) |
+| Adding a chatbot on landing page | Medium | [#78](https://github.com/Dnyaneshpise/skywatch_alerts/issues/78) |
 | Adding 3d background for alerts page and contact us page | Medium | [#72](https://github.com/Dnyaneshpise/skywatch_alerts/issues/72) |
-| Updating contact us page | Medium | [#71](https://github.com/Dnyaneshpise/skywatch_alerts/issues/71) |
 | Alert History Module | Medium | [#49](https://github.com/Dnyaneshpise/skywatch_alerts/pull/49) |
 | Dashboard route leads to 404 | Medium | [#47](https://github.com/Dnyaneshpise/skywatch_alerts/issues/47) |
 | Issue: UI Enhancement – About Page
@@ -508,7 +508,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add confetti celebration when users complete a tutorial | Easy | [#948](https://github.com/recodehive/recode-website/pull/948) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -528,6 +527,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
+| Add PasswordGenerator component for password management | Medium | [#451](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/451) |
+| Add PasswordGenerator component for password management | Medium | [#450](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/450) |
+| feat: implement issue #15 - add code editor and enhance progress trac… | Medium | [#449](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/449) |
+| Streak feature not resetting or updating correctly | Medium | [#448](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/448) |
+| Fixed "Why DSAMate" section UI | Medium | [#447](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/447) |
 | feat: add password generator and strength indicator | Medium | [#446](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/446) |
 | Added DSA Practice Performance Predictor (ML Feature) | Medium | [#445](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/445) |
 | cards for s[Feature]: Add the Working Inverting Flashcards and CheatSheets | Medium | [#444](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/444) |
@@ -737,7 +741,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 404 Page Not Visible in Light Theme | Easy | [#85](https://github.com/yashvikram30/legalease/issues/85) |
+| Fix 404 page visibility in light theme (#85) | Medium | [#124](https://github.com/yashvikram30/legalease/pull/124) |
 | AI Chatbot Not Responding to User Queries and Document Upload Feature Failing in LegalEase App | Medium | [#123](https://github.com/yashvikram30/legalease/issues/123) |
 | UI Issue: Footer Margin Problem | Medium | [#122](https://github.com/yashvikram30/legalease/issues/122) |
 | AI-Powered Legal Template Generator | Medium | [#121](https://github.com/yashvikram30/legalease/issues/121) |
@@ -758,7 +762,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | To add good Background | Medium | [#70](https://github.com/yashvikram30/legalease/issues/70) |
 | Bug: Dark Theme Not Working | Medium | [#69](https://github.com/yashvikram30/legalease/issues/69) |
 | Addition of a Appointment Booking System | Medium | [#68](https://github.com/yashvikram30/legalease/issues/68) |
-| refactor: improve Terms & Privacy line styling on signup page | Medium | [#66](https://github.com/yashvikram30/legalease/pull/66) |
 
 ---
 
@@ -893,6 +896,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Java OOPS Concepts | Easy | [#712](https://github.com/javaistic/javaistic/issues/712) |
 | Java Array Docs | Easy | [#582](https://github.com/javaistic/javaistic/issues/582) |
 | Java Basic Programs | Easy | [#201](https://github.com/javaistic/javaistic/issues/201) |
+| feat: add comprehensive Java pattern printing programs [GSSoC 2025] | Medium | [#763](https://github.com/javaistic/javaistic/pull/763) |
+| feat: add Java program to find GCD and LCM  [GSSoC 2025] | Medium | [#762](https://github.com/javaistic/javaistic/pull/762) |
+| feat: add Java program to check perfect number [GSSoC 2025] | Medium | [#761](https://github.com/javaistic/javaistic/pull/761) |
+| feat: add Java program to reverse a number | Medium | [#760](https://github.com/javaistic/javaistic/pull/760) |
+| feat: add Java program to check Armstrong number [GSSoC 2025] | Medium | [#759](https://github.com/javaistic/javaistic/pull/759) |
+| feat(programs): add palindrome number check (math and string methods) [GSSoC 2025] | Medium | [#758](https://github.com/javaistic/javaistic/pull/758) |
 | Adding a new feature in the website | Medium | [#750](https://github.com/javaistic/javaistic/issues/750) |
 
 ---
