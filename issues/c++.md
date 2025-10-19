@@ -65,7 +65,6 @@
 | feat(policies): Added tests for Ignore and LogFileAndConsole policy | Medium | [#143](https://github.com/SharonIV0x86/CinderPeak/pull/143) |
 | feat(policies): Added tests for Throw and LogFileAndConsole policy | Medium | [#141](https://github.com/SharonIV0x86/CinderPeak/pull/141) |
 | feat(policies): Add tests for Throw and LogFileAndConsole policy | Medium | [#139](https://github.com/SharonIV0x86/CinderPeak/issues/139) |
-| feat(policies): Added tests for Ignore and Silent policy | Medium | [#138](https://github.com/SharonIV0x86/CinderPeak/pull/138) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#128](https://github.com/SharonIV0x86/CinderPeak/issues/128) |
 
 ---
