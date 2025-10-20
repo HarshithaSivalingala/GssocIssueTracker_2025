@@ -100,7 +100,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🚫 License Missing from Repository | Easy | [#6](https://github.com/Ananya-te/MusicTrackerAPI/issues/6) |
 | Add GSSoC'25 Banner | Medium | [#44](https://github.com/Ananya-te/MusicTrackerAPI/issues/44) |
 | Document API Endpoints in README | Medium | [#43](https://github.com/Ananya-te/MusicTrackerAPI/issues/43) |
 | Improve README: Added prerequisites, database reset instructions, and contributing guide | Medium | [#42](https://github.com/Ananya-te/MusicTrackerAPI/pull/42) |
@@ -143,8 +142,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
-| Add GSSoC'25 Banner. | Medium | [#1308](https://github.com/Code-A2Z/code-a2z/issues/1308) |
-| feat: add feedback form | Medium | [#1306](https://github.com/Code-A2Z/code-a2z/pull/1306) |
+| Feat: dockerize the backend and also add docker compose file | Medium | [#1309](https://github.com/Code-A2Z/code-a2z/pull/1309) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -168,10 +166,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Google Authentication (OAuth 2.0) Integration | Medium | [#129](https://github.com/AyushSharma72/Skill_Trade/issues/129) |
 | `feat: implement comprehensive code quality improvements` | Medium | [#128](https://github.com/AyushSharma72/Skill_Trade/pull/128) |
 | Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
 | Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
-| Add “About” section link to the Navbar for better navigation | Medium | [#124](https://github.com/AyushSharma72/Skill_Trade/issues/124) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
 
 ---
@@ -221,8 +219,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
-| Add GSSoC'25 Banner | Medium | [#296](https://github.com/BhaktiMore18/Pouranik/issues/296) |
-| Add hover effect on certain cards | Medium | [#295](https://github.com/BhaktiMore18/Pouranik/issues/295) |
+| Added GSSoC'25 Announcement | Medium | [#298](https://github.com/BhaktiMore18/Pouranik/pull/298) |
+| fixed issue:Add hover effect on certain cards | Medium | [#297](https://github.com/BhaktiMore18/Pouranik/pull/297) |
 | Fix: Improve Explore/Search area visibility and spacing for light & dark themes | Medium | [#294](https://github.com/BhaktiMore18/Pouranik/pull/294) |
 | feat: add bookmark / favorites feature | Medium | [#291](https://github.com/BhaktiMore18/Pouranik/pull/291) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
@@ -318,6 +316,8 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/terms | Medium | [#122](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/122) |
+| Added Privacy Policy component and updated Footer and App | Medium | [#121](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/121) |
 | Improve Footer UI and Add Missing Links | Medium | [#120](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/120) |
 | Added dark mode button and logic, along with the ui changes | Medium | [#119](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/119) |
 | Bug : No Teacher found error on sudstitution page in admin account | Medium | [#118](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/118) |
@@ -433,10 +433,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add project file structure to README.md | Easy | [#79](https://github.com/harshendram/Advanced-Discord-Bot/issues/79) |
+| feat: add /config ai command for AI assistant configuration- Implemen… | Medium | [#81](https://github.com/harshendram/Advanced-Discord-Bot/pull/81) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
-| create /config ai command | Hard | [#69](https://github.com/harshendram/Advanced-Discord-Bot/issues/69) |
 | Overhauling AI section | Hard | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
 
 ---
@@ -529,6 +528,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Remove unnecessary email and password validations from Sign-In page | Medium | [#757](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/757) |
+| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#756](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/756) |
 | Add GSSoC'25 Banner. | Medium | [#755](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/755) |
 | Student Controller Optimization | Medium | [#732](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/732) |
 
@@ -548,9 +549,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Repository Structure in Readme | Medium | [#69](https://github.com/Naveenkumar30838/Housify/issues/69) |
-| Add GSSoC'25 Banner in Readme | Medium | [#68](https://github.com/Naveenkumar30838/Housify/issues/68) |
-| Update Readme. Your Readme is Blank | Medium | [#67](https://github.com/Naveenkumar30838/Housify/issues/67) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
 | Feature Suggestion :Save to Wishlist / Bookmark Properties | Medium | [#37](https://github.com/Naveenkumar30838/Housify/issues/37) |
 | Enhancing by adding comma separator to amount displayed | Medium | [#33](https://github.com/Naveenkumar30838/Housify/issues/33) |
@@ -946,7 +944,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| enhance: fix question modal layout and scrollbar, minor fixes | Medium | [#229](https://github.com/SurajSG23/PrepBuddy/pull/229) |
+| added theme toggle button correctly | Medium | [#230](https://github.com/SurajSG23/PrepBuddy/pull/230) |
 
 ---
 
@@ -997,6 +995,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Profile Dropdown Layout & Visual Hierarchy | Medium | [#330](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/330) |
 | 🌗 Feature Request: Add Light and Dark Mode Toggle | Medium | [#329](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/329) |
 | UI Enhancement: Improve Navbar Design & Overall Background Aesthetic | Medium | [#328](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/328) |
 | Enhancement: Add AOS (Animate On Scroll) Animations to Home Page | Medium | [#327](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/327) |
@@ -1052,7 +1051,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Security Issue Fixed: Strong Password Validation | Medium | [#256](https://github.com/openml-stack/SentiLog-AI/pull/256) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
 | Feature Request: Add Emoji Mood Selector in Journal Section | Medium | [#195](https://github.com/openml-stack/SentiLog-AI/issues/195) |
@@ -1379,9 +1377,11 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Index heroAdd responsive styling for hero section and visual card | Medium | [#295](https://github.com/dipexplorer/LegalHuB/pull/295) |
+| Redesign Security Page (security.ejs) UI #287 | Medium | [#294](https://github.com/dipexplorer/LegalHuB/pull/294) |
+| 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
 | fix: Dictionary Share Popover Placement, Functionality and Styling | Medium | [#281](https://github.com/dipexplorer/LegalHuB/pull/281) |
 | feat: implement 3D flip contributor cards with animated glow (#260) | Medium | [#271](https://github.com/dipexplorer/LegalHuB/pull/271) |
-| Add Welcoming Contributions Banner | Medium | [#256](https://github.com/dipexplorer/LegalHuB/pull/256) |
 
 ---
 
@@ -1419,7 +1419,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated Twitter Icon | Medium | [#87](https://github.com/KrishChothani/CKsEdu/pull/87) |
 | Add a Gamified Leaderboard with XP System for Student Engagement | Medium | [#86](https://github.com/KrishChothani/CKsEdu/issues/86) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
@@ -1577,6 +1576,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Dedicated page (project.html) for all /project links [instead of going back to home page] | Medium | [#104](https://github.com/piyushpatelcodes/gssocFAQ-Bot/issues/104) |
+| Dedicated page (faq.html) for all /faq links [instead of coming back to home page] | Medium | [#103](https://github.com/piyushpatelcodes/gssocFAQ-Bot/issues/103) |
+| Bug in commands | Medium | [#102](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/102) |
 | # 🔍 Add Real-Time FAQ Search & Filter Functionality [GSSoC 2025] | Medium | [#101](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/101) |
 | feat: add elegant loading skeleton states for improved UX   [GSSoC 2025] | Medium | [#100](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/100) |
 | fix: rename chunkMessgae.js to chunkMessage.js to correct typo [GSSoC 2025] | Medium | [#99](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/99) |
@@ -1606,9 +1608,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add dynamic tab title and Social media handles in navbar & footer | Medium | [#51](https://github.com/prasoonk1204/BreatheEasy/issues/51) |
-| #48 resolved✨ Enhanced UI with floating particles, green backgrounds, and theme | Medium | [#50](https://github.com/prasoonk1204/BreatheEasy/pull/50) |
-| #48 issue has been resolved✨ by adding  new modern UI  and landing page | Medium | [#49](https://github.com/prasoonk1204/BreatheEasy/pull/49) |
-| Maintainer Needed to Update Contributors (README & Landing Page) | Medium | [#43](https://github.com/prasoonk1204/BreatheEasy/issues/43) |
 
 ---
 
@@ -1626,6 +1625,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #888 Logo overlaps with "Home" link in the navbar | Medium | [#889](https://github.com/Premkolte/AnimateHub/pull/889) |
+| Logo overlaps with "Home" link in the navbar | Medium | [#888](https://github.com/Premkolte/AnimateHub/issues/888) |
+| #886 Feature card content not vertically centered when title wraps | Medium | [#887](https://github.com/Premkolte/AnimateHub/pull/887) |
+| Feature card content not vertically centered when title wraps | Medium | [#886](https://github.com/Premkolte/AnimateHub/issues/886) |
+| #858 About Page Layout & Dark Mode Inconsistencies | Medium | [#885](https://github.com/Premkolte/AnimateHub/pull/885) |
 | Fix the Blog Post issue of short length | Medium | [#884](https://github.com/Premkolte/AnimateHub/pull/884) |
 | Level 3: Full CSS Enhancements for UI/UX, Accessibility & Dark/Light Mode | Medium | [#883](https://github.com/Premkolte/AnimateHub/issues/883) |
 | Level 3: Advanced UI/UX, Accessibility & Performance Enhancements | Medium | [#881](https://github.com/Premkolte/AnimateHub/issues/881) |
@@ -1649,7 +1653,6 @@ Fast Workflow Tools
 | Remove gradient | Medium | [#817](https://github.com/Premkolte/AnimateHub/issues/817) |
 | Use icons instead of emojis | Medium | [#816](https://github.com/Premkolte/AnimateHub/issues/816) |
 | Leaderboard contributor names not visible in dark mode | Medium | [#805](https://github.com/Premkolte/AnimateHub/issues/805) |
-| Flexbox Playground input text not visible in dark mode | Medium | [#804](https://github.com/Premkolte/AnimateHub/issues/804) |
 
 ---
 
@@ -2005,7 +2008,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Dark mode support for core components | Medium | [#42](https://github.com/x0lg0n/Boutique-To-Box/issues/42) |
 | Add Playwright E2E job to GitHub Actions for core flows | Medium | [#38](https://github.com/x0lg0n/Boutique-To-Box/issues/38) |
 | Add Storybook stories for Newsletter and Pricing components | Medium | [#36](https://github.com/x0lg0n/Boutique-To-Box/issues/36) |
-| Google authentication in sign-up and sign in page and customer profile dashboard | Medium | [#25](https://github.com/x0lg0n/Boutique-To-Box/issues/25) |
 
 ---
 
