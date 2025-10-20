@@ -118,8 +118,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Web-Specific Optimizations and PWA Features | Easy | [#118](https://github.com/may-tas/TextEditingApp/issues/118) |
-| Implement Comprehensive Testing Suite (Unit, Widget) | Easy | [#114](https://github.com/may-tas/TextEditingApp/issues/114) |
+| Web-Specifc Optimization with PWA Features #118 Level 3 | Medium | [#126](https://github.com/may-tas/TextEditingApp/pull/126) |
 
 ---
 
