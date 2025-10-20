@@ -118,8 +118,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
-| Add GSSoC'25 Banner. | Medium | [#1308](https://github.com/Code-A2Z/code-a2z/issues/1308) |
-| feat: add feedback form | Medium | [#1306](https://github.com/Code-A2Z/code-a2z/pull/1306) |
+| Feat: dockerize the backend and also add docker compose file | Medium | [#1309](https://github.com/Code-A2Z/code-a2z/pull/1309) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -174,8 +173,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
-| Add GSSoC'25 Banner | Medium | [#296](https://github.com/BhaktiMore18/Pouranik/issues/296) |
-| Add hover effect on certain cards | Medium | [#295](https://github.com/BhaktiMore18/Pouranik/issues/295) |
+| Added GSSoC'25 Announcement | Medium | [#298](https://github.com/BhaktiMore18/Pouranik/pull/298) |
+| fixed issue:Add hover effect on certain cards | Medium | [#297](https://github.com/BhaktiMore18/Pouranik/pull/297) |
 | Fix: Improve Explore/Search area visibility and spacing for light & dark themes | Medium | [#294](https://github.com/BhaktiMore18/Pouranik/pull/294) |
 | feat: add bookmark / favorites feature | Medium | [#291](https://github.com/BhaktiMore18/Pouranik/pull/291) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
@@ -289,6 +288,8 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/terms | Medium | [#122](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/122) |
+| Added Privacy Policy component and updated Footer and App | Medium | [#121](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/121) |
 | Improve Footer UI and Add Missing Links | Medium | [#120](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/120) |
 | Added dark mode button and logic, along with the ui changes | Medium | [#119](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/119) |
 | Bug : No Teacher found error on sudstitution page in admin account | Medium | [#118](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/118) |
@@ -335,18 +336,15 @@ Schools, offices, and wellness centers looking to green their spaces
 | Add basic user profile management to the Admin Dashboard. | Easy | [#355](https://github.com/GauravKarakoti/Weather-API/issues/355) |
 | Add pagination or infinite scrolling to the Admin Log Viewer. | Easy | [#354](https://github.com/GauravKarakoti/Weather-API/issues/354) |
 | Implement support for additional weather data sources. | Easy | [#353](https://github.com/GauravKarakoti/Weather-API/issues/353) |
-| Add unit conversion (Celsius/Fahrenheit) option to frontend. | Easy | [#352](https://github.com/GauravKarakoti/Weather-API/issues/352) |
 | Fallback weather source selectors might be outdated. | Easy | [#351](https://github.com/GauravKarakoti/Weather-API/issues/351) |
 | Admin dashboard log viewer fails on large log files. | Easy | [#350](https://github.com/GauravKarakoti/Weather-API/issues/350) |
 | Potential stale cache if Redis connection drops temporarily. | Easy | [#349](https://github.com/GauravKarakoti/Weather-API/issues/349) |
-| Voice input parsing fails for city names with special characters. | Easy | [#348](https://github.com/GauravKarakoti/Weather-API/issues/348) |
 | Replace disruptive window.alert() with non-blocking UI notifications | Easy | [#295](https://github.com/GauravKarakoti/Weather-API/issues/295) |
 | Utility functions are duplicated in server.js and /src/utils/ | Easy | [#290](https://github.com/GauravKarakoti/Weather-API/issues/290) |
-| Feature_Request:Fix alignment for list in README.md | Medium | [#367](https://github.com/GauravKarakoti/Weather-API/issues/367) |
-| feat(sw): navigation-based fallback for periodic sync (fixes #194) | Medium | [#366](https://github.com/GauravKarakoti/Weather-API/pull/366) |
-| fix: improve keyboard accessibility for Recent Searches (#217) | Medium | [#365](https://github.com/GauravKarakoti/Weather-API/pull/365) |
+| feat: Extend theme system with multiple predefined themes and customization | Medium | [#370](https://github.com/GauravKarakoti/Weather-API/pull/370) |
+| Fix formatting and alignment in README.md | Medium | [#368](https://github.com/GauravKarakoti/Weather-API/pull/368) |
 | Add more weather details: wind speed/direction, UV index, pollen count | Medium | [#343](https://github.com/GauravKarakoti/Weather-API/pull/343) |
-| Image/optimization | Medium | [#341](https://github.com/GauravKarakoti/Weather-API/pull/341) |
+| connect Weather route with OpenWeatherMap API | Medium | [#288](https://github.com/GauravKarakoti/Weather-API/pull/288) |
 | showTab function relies on deprecated global event object | Hard | [#294](https://github.com/GauravKarakoti/Weather-API/issues/294) |
 
 ---
@@ -428,6 +426,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Remove unnecessary email and password validations from Sign-In page | Medium | [#757](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/757) |
+| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#756](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/756) |
 | Add GSSoC'25 Banner. | Medium | [#755](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/755) |
 | Student Controller Optimization | Medium | [#732](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/732) |
 
@@ -447,9 +447,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Repository Structure in Readme | Medium | [#69](https://github.com/Naveenkumar30838/Housify/issues/69) |
-| Add GSSoC'25 Banner in Readme | Medium | [#68](https://github.com/Naveenkumar30838/Housify/issues/68) |
-| Update Readme. Your Readme is Blank | Medium | [#67](https://github.com/Naveenkumar30838/Housify/issues/67) |
 | Feature Suggestion :Advanced Filters for Property Search | Medium | [#38](https://github.com/Naveenkumar30838/Housify/issues/38) |
 | Feature Suggestion :Save to Wishlist / Bookmark Properties | Medium | [#37](https://github.com/Naveenkumar30838/Housify/issues/37) |
 | Enhancing by adding comma separator to amount displayed | Medium | [#33](https://github.com/Naveenkumar30838/Housify/issues/33) |
@@ -751,7 +748,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| enhance: fix question modal layout and scrollbar, minor fixes | Medium | [#229](https://github.com/SurajSG23/PrepBuddy/pull/229) |
+| added theme toggle button correctly | Medium | [#230](https://github.com/SurajSG23/PrepBuddy/pull/230) |
 
 ---
 
@@ -829,6 +826,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Profile Dropdown Layout & Visual Hierarchy | Medium | [#330](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/330) |
 | 🌗 Feature Request: Add Light and Dark Mode Toggle | Medium | [#329](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/329) |
 | UI Enhancement: Improve Navbar Design & Overall Background Aesthetic | Medium | [#328](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/328) |
 | Enhancement: Add AOS (Animate On Scroll) Animations to Home Page | Medium | [#327](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/327) |
@@ -900,7 +898,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Security Issue Fixed: Strong Password Validation | Medium | [#256](https://github.com/openml-stack/SentiLog-AI/pull/256) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
 | Feature Request: Add Emoji Mood Selector in Journal Section | Medium | [#195](https://github.com/openml-stack/SentiLog-AI/issues/195) |
@@ -1131,9 +1128,11 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Index heroAdd responsive styling for hero section and visual card | Medium | [#295](https://github.com/dipexplorer/LegalHuB/pull/295) |
+| Redesign Security Page (security.ejs) UI #287 | Medium | [#294](https://github.com/dipexplorer/LegalHuB/pull/294) |
+| 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
 | fix: Dictionary Share Popover Placement, Functionality and Styling | Medium | [#281](https://github.com/dipexplorer/LegalHuB/pull/281) |
 | feat: implement 3D flip contributor cards with animated glow (#260) | Medium | [#271](https://github.com/dipexplorer/LegalHuB/pull/271) |
-| Add Welcoming Contributions Banner | Medium | [#256](https://github.com/dipexplorer/LegalHuB/pull/256) |
 
 ---
 
@@ -1171,7 +1170,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated Twitter Icon | Medium | [#87](https://github.com/KrishChothani/CKsEdu/pull/87) |
 | Add a Gamified Leaderboard with XP System for Student Engagement | Medium | [#86](https://github.com/KrishChothani/CKsEdu/issues/86) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
@@ -1284,9 +1282,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add dynamic tab title and Social media handles in navbar & footer | Medium | [#51](https://github.com/prasoonk1204/BreatheEasy/issues/51) |
-| #48 resolved✨ Enhanced UI with floating particles, green backgrounds, and theme | Medium | [#50](https://github.com/prasoonk1204/BreatheEasy/pull/50) |
-| #48 issue has been resolved✨ by adding  new modern UI  and landing page | Medium | [#49](https://github.com/prasoonk1204/BreatheEasy/pull/49) |
-| Maintainer Needed to Update Contributors (README & Landing Page) | Medium | [#43](https://github.com/prasoonk1204/BreatheEasy/issues/43) |
 
 ---
 
@@ -1304,6 +1299,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #888 Logo overlaps with "Home" link in the navbar | Medium | [#889](https://github.com/Premkolte/AnimateHub/pull/889) |
+| Logo overlaps with "Home" link in the navbar | Medium | [#888](https://github.com/Premkolte/AnimateHub/issues/888) |
+| #886 Feature card content not vertically centered when title wraps | Medium | [#887](https://github.com/Premkolte/AnimateHub/pull/887) |
+| Feature card content not vertically centered when title wraps | Medium | [#886](https://github.com/Premkolte/AnimateHub/issues/886) |
+| #858 About Page Layout & Dark Mode Inconsistencies | Medium | [#885](https://github.com/Premkolte/AnimateHub/pull/885) |
 | Fix the Blog Post issue of short length | Medium | [#884](https://github.com/Premkolte/AnimateHub/pull/884) |
 | Level 3: Full CSS Enhancements for UI/UX, Accessibility & Dark/Light Mode | Medium | [#883](https://github.com/Premkolte/AnimateHub/issues/883) |
 | Level 3: Advanced UI/UX, Accessibility & Performance Enhancements | Medium | [#881](https://github.com/Premkolte/AnimateHub/issues/881) |
@@ -1327,7 +1327,6 @@ Fast Workflow Tools
 | Remove gradient | Medium | [#817](https://github.com/Premkolte/AnimateHub/issues/817) |
 | Use icons instead of emojis | Medium | [#816](https://github.com/Premkolte/AnimateHub/issues/816) |
 | Leaderboard contributor names not visible in dark mode | Medium | [#805](https://github.com/Premkolte/AnimateHub/issues/805) |
-| Flexbox Playground input text not visible in dark mode | Medium | [#804](https://github.com/Premkolte/AnimateHub/issues/804) |
 
 ---
 
@@ -1644,7 +1643,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Dark mode support for core components | Medium | [#42](https://github.com/x0lg0n/Boutique-To-Box/issues/42) |
 | Add Playwright E2E job to GitHub Actions for core flows | Medium | [#38](https://github.com/x0lg0n/Boutique-To-Box/issues/38) |
 | Add Storybook stories for Newsletter and Pricing components | Medium | [#36](https://github.com/x0lg0n/Boutique-To-Box/issues/36) |
-| Google authentication in sign-up and sign in page and customer profile dashboard | Medium | [#25](https://github.com/x0lg0n/Boutique-To-Box/issues/25) |
 
 ---
 
