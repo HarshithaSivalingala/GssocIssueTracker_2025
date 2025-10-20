@@ -140,9 +140,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Automatically focus the search field on page load | Easy | [#2450](https://github.com/OWASP/Nest/issues/2450) |
+| Improve layout of Leaders card on `Project` page | Easy | [#2449](https://github.com/OWASP/Nest/issues/2449) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
 | Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
-| Refactor: Replace ArchivedBadge with Flexible StatusBadge Component | Medium | [#2444](https://github.com/OWASP/Nest/pull/2444) |
 | question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
@@ -179,10 +180,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC'25 Banner. | Easy | [#489](https://github.com/Ayushjhawar8/Flavor-ai/issues/489) |
-| Feature: Integrate Gemini API to diet-planner-ai | Easy | [#486](https://github.com/Ayushjhawar8/Flavor-ai/pull/486) |
-| fix(ui): replaced 🍴 emoji with SVG icon for better dark mode visibility | Easy | [#482](https://github.com/Ayushjhawar8/Flavor-ai/pull/482) |
-| bug-fix-translate-language | Easy | [#481](https://github.com/Ayushjhawar8/Flavor-ai/pull/481) |
+| Add “More Recipes You’ll Love” section on Recipe Details page | Easy | [#511](https://github.com/Ayushjhawar8/Flavor-ai/issues/511) |
+| UI of About page | Medium | [#510](https://github.com/Ayushjhawar8/Flavor-ai/pull/510) |
+| Fix FavoritesPage: safe localStorage, category fetch, filter, and UI stability | Medium | [#509](https://github.com/Ayushjhawar8/Flavor-ai/pull/509) |
+| Fixed Logo | Medium | [#508](https://github.com/Ayushjhawar8/Flavor-ai/pull/508) |
+| Fix/feedback spacing alignment | Medium | [#507](https://github.com/Ayushjhawar8/Flavor-ai/pull/507) |
+| fix(ui): Footer design and style consistency maintained | Medium | [#506](https://github.com/Ayushjhawar8/Flavor-ai/pull/506) |
+| Fix Placeholder Color Inconsistency on Nutrition-AI Page | Medium | [#505](https://github.com/Ayushjhawar8/Flavor-ai/pull/505) |
+| Made the card consistent with the background in the dark mode | Medium | [#503](https://github.com/Ayushjhawar8/Flavor-ai/pull/503) |
+| UI Fix: Aligned icons uniformly at the top center of all cards | Medium | [#498](https://github.com/Ayushjhawar8/Flavor-ai/pull/498) |
+| Added top margin to Contact and FAQ page main containers to separate from navbar | Medium | [#497](https://github.com/Ayushjhawar8/Flavor-ai/pull/497) |
+| fix: tooltip error on hover in navigation | Medium | [#496](https://github.com/Ayushjhawar8/Flavor-ai/pull/496) |
+| back to dashboard button working | Medium | [#493](https://github.com/Ayushjhawar8/Flavor-ai/pull/493) |
 
 ---
 
@@ -200,10 +209,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Google Authentication (OAuth 2.0) Integration | Medium | [#129](https://github.com/AyushSharma72/Skill_Trade/issues/129) |
 | `feat: implement comprehensive code quality improvements` | Medium | [#128](https://github.com/AyushSharma72/Skill_Trade/pull/128) |
 | Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
 | Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
-| Add “About” section link to the Navbar for better navigation | Medium | [#124](https://github.com/AyushSharma72/Skill_Trade/issues/124) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
 
 ---
@@ -243,9 +252,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Flight Alerts  Temporary Local Storage Support for store that in local browser | Easy | [#26](https://github.com/Dnyaneshpise/skywatch_alerts/issues/26) |
-| Update README with GSSoC'25 announcement | Medium | [#84](https://github.com/Dnyaneshpise/skywatch_alerts/pull/84) |
+| Adding a stars rating option on feedback form | Medium | [#95](https://github.com/Dnyaneshpise/skywatch_alerts/issues/95) |
+| Added Profile page with edit name feature | Medium | [#92](https://github.com/Dnyaneshpise/skywatch_alerts/pull/92) |
+| Initialize Community Chat feature: UI setup and Firebase config | Medium | [#90](https://github.com/Dnyaneshpise/skywatch_alerts/pull/90) |
+| Enhancement: Set Up Database to Store Alerts Data | Medium | [#87](https://github.com/Dnyaneshpise/skywatch_alerts/issues/87) |
 | Adding a chatbot on landing page | Medium | [#78](https://github.com/Dnyaneshpise/skywatch_alerts/issues/78) |
-| Adding 3d background for alerts page and contact us page | Medium | [#72](https://github.com/Dnyaneshpise/skywatch_alerts/issues/72) |
 | Alert History Module | Medium | [#49](https://github.com/Dnyaneshpise/skywatch_alerts/pull/49) |
 | Dashboard route leads to 404 | Medium | [#47](https://github.com/Dnyaneshpise/skywatch_alerts/issues/47) |
 | Issue: UI Enhancement – About Page
@@ -449,9 +460,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance "Genres" Page UI/UX | Easy | [#87](https://github.com/rahulkhandait-sde/cineverse/issues/87) |
-| Removed duplicate © 2025 CineVerse. All rights reserved. Made with ❤️… | Medium | [#88](https://github.com/rahulkhandait-sde/cineverse/pull/88) |
-| Fix: Integrated Gemini API key for chatbot functionality | Medium | [#86](https://github.com/rahulkhandait-sde/cineverse/pull/86) |
+| Enhanced Readability and Search Experience on "Genres" Page | Medium | [#89](https://github.com/rahulkhandait-sde/cineverse/pull/89) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 
 ---
@@ -508,7 +517,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
+| fix(leaderboard, navbar): position rank badges & fix dashboard hamburger overlay | Easy | [#966](https://github.com/recodehive/recode-website/pull/966) |
+| Fix formatting in CROSS JOIN documentation | Easy | [#965](https://github.com/recodehive/recode-website/pull/965) |
+| Fix badge colors in light/dark mode. | Easy | [#961](https://github.com/recodehive/recode-website/pull/961) |
+| fix: lint warnings and update ESLint config | Easy | [#959](https://github.com/recodehive/recode-website/pull/959) |
+| correctly for Back Button and removing the delay | Easy | [#957](https://github.com/recodehive/recode-website/pull/957) |
 
 ---
 
@@ -527,10 +540,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
+| Unify Streak Source of Truth Across Client & Backend (Fixes #448) | Medium | [#453](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/453) |
+| OAuth Sign-In Fails with Firebase | Medium | [#452](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/452) |
 | Add PasswordGenerator component for password management | Medium | [#451](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/451) |
 | Add PasswordGenerator component for password management | Medium | [#450](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/450) |
 | feat: implement issue #15 - add code editor and enhance progress trac… | Medium | [#449](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/449) |
-| Streak feature not resetting or updating correctly | Medium | [#448](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/448) |
 | Fixed "Why DSAMate" section UI | Medium | [#447](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/447) |
 | feat: add password generator and strength indicator | Medium | [#446](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/446) |
 | Added DSA Practice Performance Predictor (ML Feature) | Medium | [#445](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/445) |
@@ -799,9 +813,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix task input text visibility (GSSoC Level 1) - Issue #287 | Medium | [#289](https://github.com/AditiGupta-tech/neonest/pull/289) |
 | Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
-| Fix/issue 171 | Medium | [#286](https://github.com/AditiGupta-tech/neonest/pull/286) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -1130,8 +1142,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: Add Hover Effects and Tooltips to  “Export Chat” and “Clear Chat” Buttons | Medium | [#130](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/130) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
-| Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 
@@ -1329,6 +1341,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Contributing Guidelines & Add Interactivity | Medium | [#99](https://github.com/subhadeeproy3902/mvpblocks/issues/99) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
