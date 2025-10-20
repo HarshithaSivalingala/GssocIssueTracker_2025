@@ -18,19 +18,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesign the about us page | Medium | [#1238](https://github.com/gyanshankar1708/GrowCraft/pull/1238) |
+| UI Change | Medium | [#1233](https://github.com/gyanshankar1708/GrowCraft/issues/1233) |
+| Navbar styled properly for our work page. | Medium | [#1230](https://github.com/gyanshankar1708/GrowCraft/pull/1230) |
 | Fix UI sections -> those have incosistent UI | Medium | [#1226](https://github.com/gyanshankar1708/GrowCraft/issues/1226) |
-| Fix : css code visible in work.html (closes #1218) | Medium | [#1225](https://github.com/gyanshankar1708/GrowCraft/pull/1225) |
 | We can add hover effect on certain cards | Medium | [#1224](https://github.com/gyanshankar1708/GrowCraft/issues/1224) |
 | The Contact Us page doesn't match with the theme of the website | Medium | [#1223](https://github.com/gyanshankar1708/GrowCraft/issues/1223) |
 | Cards are of different sizes in the About Us section | Medium | [#1222](https://github.com/gyanshankar1708/GrowCraft/issues/1222) |
-| Login page is properly working in contact us page in navbar. | Medium | [#1221](https://github.com/gyanshankar1708/GrowCraft/pull/1221) |
 | unclear  code setting | Medium | [#1220](https://github.com/gyanshankar1708/GrowCraft/issues/1220) |
 | Intrens setting | Medium | [#1219](https://github.com/gyanshankar1708/GrowCraft/issues/1219) |
 | UI Fix | Medium | [#1217](https://github.com/gyanshankar1708/GrowCraft/issues/1217) |
 | Fix BackToTop Button | Medium | [#1216](https://github.com/gyanshankar1708/GrowCraft/issues/1216) |
-| Added sticky navbar to Content Writing, Web Development, and Digital Marketing pages | Medium | [#1208](https://github.com/gyanshankar1708/GrowCraft/pull/1208) |
-| Added Sticky navbar for graphic designing,socialmedia management and … | Medium | [#1207](https://github.com/gyanshankar1708/GrowCraft/pull/1207) |
-| Styled navbar properly for our work page. | Medium | [#1196](https://github.com/gyanshankar1708/GrowCraft/pull/1196) |
 | Services Section Misalignment on Home Page | Medium | [#1195](https://github.com/gyanshankar1708/GrowCraft/issues/1195) |
 | footer section inconvinient | Medium | [#1191](https://github.com/gyanshankar1708/GrowCraft/issues/1191) |
 | Services section is not looking good | Medium | [#1189](https://github.com/gyanshankar1708/GrowCraft/issues/1189) |
@@ -40,6 +38,11 @@
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
 | missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
 | Missing back to home button in login page | Medium | [#1182](https://github.com/gyanshankar1708/GrowCraft/issues/1182) |
+| Footer missing in blogs page | Medium | [#1180](https://github.com/gyanshankar1708/GrowCraft/issues/1180) |
+| Dark/light mode button is not working | Medium | [#1179](https://github.com/gyanshankar1708/GrowCraft/issues/1179) |
+| Our work | Medium | [#1173](https://github.com/gyanshankar1708/GrowCraft/issues/1173) |
+| Navbar and footer inconsistency in services page. | Medium | [#1172](https://github.com/gyanshankar1708/GrowCraft/issues/1172) |
+| Navbar Styling Inconsistency on Contact Page | Medium | [#1171](https://github.com/gyanshankar1708/GrowCraft/issues/1171) |
 
 ---
 
