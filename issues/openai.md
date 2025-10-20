@@ -14,14 +14,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Registration.jsx | Medium | [#343](https://github.com/Amarjha01/InfantCareCompass/pull/343) |
+| Bugfix 337/UI language dropdown overlap | Medium | [#342](https://github.com/Amarjha01/InfantCareCompass/pull/342) |
+| Fix/336 navbar elements overlap | Medium | [#341](https://github.com/Amarjha01/InfantCareCompass/pull/341) |
 | Add GSSoC 2025 announcement to README | Medium | [#339](https://github.com/Amarjha01/InfantCareCompass/pull/339) |
 | Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
 | News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
-| Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
-| Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 
 ---
 
@@ -39,10 +40,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC'25 Banner. | Easy | [#489](https://github.com/Ayushjhawar8/Flavor-ai/issues/489) |
-| Feature: Integrate Gemini API to diet-planner-ai | Easy | [#486](https://github.com/Ayushjhawar8/Flavor-ai/pull/486) |
-| fix(ui): replaced 🍴 emoji with SVG icon for better dark mode visibility | Easy | [#482](https://github.com/Ayushjhawar8/Flavor-ai/pull/482) |
-| bug-fix-translate-language | Easy | [#481](https://github.com/Ayushjhawar8/Flavor-ai/pull/481) |
+| Add “More Recipes You’ll Love” section on Recipe Details page | Easy | [#511](https://github.com/Ayushjhawar8/Flavor-ai/issues/511) |
+| UI of About page | Medium | [#510](https://github.com/Ayushjhawar8/Flavor-ai/pull/510) |
+| Fix FavoritesPage: safe localStorage, category fetch, filter, and UI stability | Medium | [#509](https://github.com/Ayushjhawar8/Flavor-ai/pull/509) |
+| Fixed Logo | Medium | [#508](https://github.com/Ayushjhawar8/Flavor-ai/pull/508) |
+| Fix/feedback spacing alignment | Medium | [#507](https://github.com/Ayushjhawar8/Flavor-ai/pull/507) |
+| fix(ui): Footer design and style consistency maintained | Medium | [#506](https://github.com/Ayushjhawar8/Flavor-ai/pull/506) |
+| Fix Placeholder Color Inconsistency on Nutrition-AI Page | Medium | [#505](https://github.com/Ayushjhawar8/Flavor-ai/pull/505) |
+| Made the card consistent with the background in the dark mode | Medium | [#503](https://github.com/Ayushjhawar8/Flavor-ai/pull/503) |
+| UI Fix: Aligned icons uniformly at the top center of all cards | Medium | [#498](https://github.com/Ayushjhawar8/Flavor-ai/pull/498) |
+| Added top margin to Contact and FAQ page main containers to separate from navbar | Medium | [#497](https://github.com/Ayushjhawar8/Flavor-ai/pull/497) |
+| fix: tooltip error on hover in navigation | Medium | [#496](https://github.com/Ayushjhawar8/Flavor-ai/pull/496) |
+| back to dashboard button working | Medium | [#493](https://github.com/Ayushjhawar8/Flavor-ai/pull/493) |
 
 ---
 
@@ -100,6 +109,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Remove unnecessary email and password validations from Sign-In page | Medium | [#757](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/757) |
+| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#756](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/756) |
 | Add GSSoC'25 Banner. | Medium | [#755](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/755) |
 | Student Controller Optimization | Medium | [#732](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/732) |
 
