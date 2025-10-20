@@ -167,15 +167,10 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Add Dashboard Page to Display User Activity | Medium | [#186](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/186) |
 | Add Login and Signup Pages with Authentication | Medium | [#185](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/185) |
 | Update Readme | Medium | [#184](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/184) |
-| Fix implement comprehensive error handling | Medium | [#177](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/177) |
 | 🛡️ REFACTOR: Implement Comprehensive Error Handling and User Feedback System | Medium | [#176](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/176) |
-| Comprehensive Navigation Accessibility, Focus Management, and Mobile Consistency | Medium | [#175](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/175) |
 | Improve Navigation Accessibility, Focus Management, and Mobile Responsiveness | Medium | [#174](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/174) |
-| ♿️ Fix improve mobile navigation accessibility | Medium | [#173](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/173) |
 | ♿️ BUG: Improve Mobile Navigation Menu Accessibility and Usability | Medium | [#172](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/172) |
-| ENHANCEMENT: Footer Newsletter Integration, Accessibility, and Responsiveness | Medium | [#171](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/171) |
 | 🐛 BUG:  Integrate Newsletter Subscription and Improve Footer Accessibility | Medium | [#170](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/170) |
-| Fix: Enhance Footer with Additional Features and Improved Responsiveness | Medium | [#169](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/169) |
 | Enhance Footer with New Features, Responsiveness, and Accessibility | Medium | [#168](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/168) |
 | Add Pull Request (PR) Template | Medium | [#66](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/66) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#65](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/65) |
@@ -199,6 +194,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Remove unnecessary email and password validations from Sign-In page | Medium | [#757](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/757) |
+| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#756](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/756) |
 | Add GSSoC'25 Banner. | Medium | [#755](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/755) |
 | Student Controller Optimization | Medium | [#732](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/732) |
 
@@ -218,6 +215,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Social Meadia in Footer | Medium | [#436](https://github.com/omroy07/AgriTech/issues/436) |
+| Integrate Google In Sign-Up/Login Page | Medium | [#434](https://github.com/omroy07/AgriTech/issues/434) |
 | Add GSSoC Banner in Readme. | Medium | [#433](https://github.com/omroy07/AgriTech/issues/433) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
@@ -280,7 +279,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Security Issue Fixed: Strong Password Validation | Medium | [#256](https://github.com/openml-stack/SentiLog-AI/pull/256) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
 | Feature Request: Add Emoji Mood Selector in Journal Section | Medium | [#195](https://github.com/openml-stack/SentiLog-AI/issues/195) |
@@ -311,7 +309,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added issue templates | Medium | [#210](https://github.com/aayushraj1010/med-genie/pull/210) |
+| Added Back To Top Button Across All Pages | Medium | [#218](https://github.com/aayushraj1010/med-genie/pull/218) |
+| enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
+| Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
 | Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
@@ -370,7 +370,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated Twitter Icon | Medium | [#87](https://github.com/KrishChothani/CKsEdu/pull/87) |
 | Add a Gamified Leaderboard with XP System for Student Engagement | Medium | [#86](https://github.com/KrishChothani/CKsEdu/issues/86) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
@@ -416,8 +415,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: Add Hover Effects and Tooltips to  “Export Chat” and “Clear Chat” Buttons | Medium | [#130](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/130) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
-| Fixed Limit Reached Badge Positioning,FEdit and Copy Icons Overlapping with Message Text Visibility | Medium | [#116](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/116) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 
