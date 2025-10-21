@@ -40,18 +40,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add “More Recipes You’ll Love” section on Recipe Details page | Easy | [#511](https://github.com/Ayushjhawar8/Flavor-ai/issues/511) |
-| UI of About page | Medium | [#510](https://github.com/Ayushjhawar8/Flavor-ai/pull/510) |
-| Fix FavoritesPage: safe localStorage, category fetch, filter, and UI stability | Medium | [#509](https://github.com/Ayushjhawar8/Flavor-ai/pull/509) |
-| Fixed Logo | Medium | [#508](https://github.com/Ayushjhawar8/Flavor-ai/pull/508) |
-| Fix/feedback spacing alignment | Medium | [#507](https://github.com/Ayushjhawar8/Flavor-ai/pull/507) |
-| fix(ui): Footer design and style consistency maintained | Medium | [#506](https://github.com/Ayushjhawar8/Flavor-ai/pull/506) |
-| Fix Placeholder Color Inconsistency on Nutrition-AI Page | Medium | [#505](https://github.com/Ayushjhawar8/Flavor-ai/pull/505) |
-| Made the card consistent with the background in the dark mode | Medium | [#503](https://github.com/Ayushjhawar8/Flavor-ai/pull/503) |
-| UI Fix: Aligned icons uniformly at the top center of all cards | Medium | [#498](https://github.com/Ayushjhawar8/Flavor-ai/pull/498) |
-| Added top margin to Contact and FAQ page main containers to separate from navbar | Medium | [#497](https://github.com/Ayushjhawar8/Flavor-ai/pull/497) |
-| fix: tooltip error on hover in navigation | Medium | [#496](https://github.com/Ayushjhawar8/Flavor-ai/pull/496) |
-| back to dashboard button working | Medium | [#493](https://github.com/Ayushjhawar8/Flavor-ai/pull/493) |
+| Added "More Recipes You’ll Love" section #511 | Medium | [#515](https://github.com/Ayushjhawar8/Flavor-ai/pull/515) |
+| Added dynamic tab title/logo & social media on sidebar | Medium | [#514](https://github.com/Ayushjhawar8/Flavor-ai/pull/514) |
+| UI faq page | Medium | [#513](https://github.com/Ayushjhawar8/Flavor-ai/pull/513) |
 
 ---
 
@@ -109,10 +100,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Remove unnecessary email and password validations from Sign-In page | Medium | [#757](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/757) |
-| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#756](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/756) |
-| Add GSSoC'25 Banner. | Medium | [#755](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/755) |
-| Student Controller Optimization | Medium | [#732](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/732) |
+| Fix: Improve Sign In button visibility on Register page (Light Theme) | Medium | [#761](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/761) |
+| Fix: Resolve overlapping issue between back button and Placify logo on Sign-Up page (mobile view) | Medium | [#760](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/760) |
+| Complete UI Refactor of Student Registration Page for Improved Design Consistency and Responsiveness | Medium | [#759](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/759) |
+| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
 
