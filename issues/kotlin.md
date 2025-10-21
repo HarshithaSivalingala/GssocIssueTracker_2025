@@ -142,11 +142,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix/Edit profile Screen | Medium | [#498](https://github.com/yuvrajsinghgmx/ShopSmart/pull/498) |
-| removed default email | Medium | [#497](https://github.com/yuvrajsinghgmx/ShopSmart/pull/497) |
-| After Editing a User Profile and then logout and login the old firebase email can be seen | Medium | [#493](https://github.com/yuvrajsinghgmx/ShopSmart/issues/493) |
 | Update User Location after each /load | Medium | [#492](https://github.com/yuvrajsinghgmx/ShopSmart/issues/492) |
-| Edit Profile | Medium | [#491](https://github.com/yuvrajsinghgmx/ShopSmart/issues/491) |
 | Screen for "See All" for Nearby Produts" | Medium | [#489](https://github.com/yuvrajsinghgmx/ShopSmart/issues/489) |
 | Screen for "See All" for Nearby Shops | Medium | [#488](https://github.com/yuvrajsinghgmx/ShopSmart/issues/488) |
 | Implement Cart Section | Medium | [#485](https://github.com/yuvrajsinghgmx/ShopSmart/issues/485) |
