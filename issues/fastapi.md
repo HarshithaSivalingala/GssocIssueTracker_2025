@@ -99,10 +99,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Remove unnecessary email and password validations from Sign-In page | Medium | [#757](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/757) |
-| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#756](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/756) |
-| Add GSSoC'25 Banner. | Medium | [#755](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/755) |
-| Student Controller Optimization | Medium | [#732](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/732) |
+| Fix: Improve Sign In button visibility on Register page (Light Theme) | Medium | [#761](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/761) |
+| Fix: Resolve overlapping issue between back button and Placify logo on Sign-Up page (mobile view) | Medium | [#760](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/760) |
+| Complete UI Refactor of Student Registration Page for Improved Design Consistency and Responsiveness | Medium | [#759](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/759) |
+| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
 
@@ -150,24 +150,24 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.8.0 | Medium | [#131](https://github.com/solve-ease/OptiBlogAi/pull/131) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#130](https://github.com/solve-ease/OptiBlogAi/pull/130) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.8.1 in /optiblogai-site | Medium | [#129](https://github.com/solve-ease/OptiBlogAi/pull/129) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.546.0 in /optiblogai-site | Medium | [#128](https://github.com/solve-ease/OptiBlogAi/pull/128) |
+| ci(deps): bump actions/setup-node from 4 to 6 | Medium | [#127](https://github.com/solve-ease/OptiBlogAi/pull/127) |
+| deps(deps): bump next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#126](https://github.com/solve-ease/OptiBlogAi/pull/126) |
+| deps(deps-dev): bump eslint from 9.31.0 to 9.38.0 in /optiblogai-site | Medium | [#125](https://github.com/solve-ease/OptiBlogAi/pull/125) |
 | deps(deps): bump cachetools from 5.5.2 to 6.2.1 | Medium | [#124](https://github.com/solve-ease/OptiBlogAi/pull/124) |
 | docker(deps): bump python from 3.12-slim to 3.14-slim | Medium | [#123](https://github.com/solve-ease/OptiBlogAi/pull/123) |
-| deps(deps): bump lucide-react from 0.525.0 to 0.545.0 in /optiblogai-site | Medium | [#122](https://github.com/solve-ease/OptiBlogAi/pull/122) |
 | ci(deps): bump github/codeql-action from 3 to 4 | Medium | [#121](https://github.com/solve-ease/OptiBlogAi/pull/121) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.7.2 in /optiblogai-site | Medium | [#120](https://github.com/solve-ease/OptiBlogAi/pull/120) |
 | deps(deps): bump framer-motion from 12.23.6 to 12.23.24 in /optiblogai-site | Medium | [#119](https://github.com/solve-ease/OptiBlogAi/pull/119) |
 | deps(deps): bump certifi from 2025.1.31 to 2025.10.5 | Medium | [#118](https://github.com/solve-ease/OptiBlogAi/pull/118) |
 | deps(deps-dev): bump typescript from 5.8.3 to 5.9.3 in /optiblogai-site | Medium | [#117](https://github.com/solve-ease/OptiBlogAi/pull/117) |
-| deps(deps-dev): bump eslint from 9.31.0 to 9.37.0 in /optiblogai-site | Medium | [#116](https://github.com/solve-ease/OptiBlogAi/pull/116) |
 | deps(deps): bump beautifulsoup4 from 4.13.3 to 4.14.2 | Medium | [#114](https://github.com/solve-ease/OptiBlogAi/pull/114) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#113](https://github.com/solve-ease/OptiBlogAi/pull/113) |
-| deps(deps): bump next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#111](https://github.com/solve-ease/OptiBlogAi/pull/111) |
 | deps(deps): bump lxml from 5.3.2 to 6.0.2 | Medium | [#106](https://github.com/solve-ease/OptiBlogAi/pull/106) |
 | deps(deps): bump soupsieve from 2.6 to 2.8 | Medium | [#99](https://github.com/solve-ease/OptiBlogAi/pull/99) |
-| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.7.0 | Medium | [#97](https://github.com/solve-ease/OptiBlogAi/pull/97) |
 | deps(deps): bump playwright from 1.53.0 to 1.55.0 | Medium | [#95](https://github.com/solve-ease/OptiBlogAi/pull/95) |
 | ci(deps): bump actions/setup-python from 5 to 6 | Medium | [#93](https://github.com/solve-ease/OptiBlogAi/pull/93) |
-| ci(deps): bump actions/setup-node from 4 to 5 | Medium | [#92](https://github.com/solve-ease/OptiBlogAi/pull/92) |
 | deps(deps): bump typing-extensions from 4.13.2 to 4.15.0 | Medium | [#90](https://github.com/solve-ease/OptiBlogAi/pull/90) |
 | SITE ENHANCEMENT | Medium | [#89](https://github.com/solve-ease/OptiBlogAi/issues/89) |
 | ⬇️ Feature Request: Scroll to Bottom Button | Medium | [#88](https://github.com/solve-ease/OptiBlogAi/issues/88) |
