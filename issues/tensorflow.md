@@ -42,13 +42,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Navigation menu for smaller screens | Medium | [#125](https://github.com/Bavanetha27/Refixly/issues/125) |
-| Clickables not working | Medium | [#124](https://github.com/Bavanetha27/Refixly/issues/124) |
-| Terms of Service | Medium | [#123](https://github.com/Bavanetha27/Refixly/issues/123) |
-| Login UI | Medium | [#122](https://github.com/Bavanetha27/Refixly/issues/122) |
-| add performance and documentation in issue folder | Medium | [#120](https://github.com/Bavanetha27/Refixly/issues/120) |
-| Added 404 and global error handling | Medium | [#119](https://github.com/Bavanetha27/Refixly/pull/119) |
-| unwanted scroll bar appers | Medium | [#118](https://github.com/Bavanetha27/Refixly/issues/118) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
@@ -111,6 +104,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve README Setup Instructions for Local Project Run | Medium | [#58](https://github.com/AditixAnand/Garbage_Classification/issues/58) |
 | Add a Footer to the Webpage | Medium | [#57](https://github.com/AditixAnand/Garbage_Classification/issues/57) |
 | Missing model_efficientnet.h5 file needed to run the project | Medium | [#38](https://github.com/AditixAnand/Garbage_Classification/issues/38) |
 
