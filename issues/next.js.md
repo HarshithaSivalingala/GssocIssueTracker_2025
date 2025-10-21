@@ -140,9 +140,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Automatically focus the search field on page load | Easy | [#2450](https://github.com/OWASP/Nest/issues/2450) |
-| Improve layout of Leaders card on `Project` page | Easy | [#2449](https://github.com/OWASP/Nest/issues/2449) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
+| Bump langchain from 0.3.27 to 1.0.0 in /backend | Medium | [#2455](https://github.com/OWASP/Nest/pull/2455) |
 | Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
 | question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
@@ -161,7 +161,6 @@
 | Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
-| Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -180,18 +179,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add “More Recipes You’ll Love” section on Recipe Details page | Easy | [#511](https://github.com/Ayushjhawar8/Flavor-ai/issues/511) |
-| UI of About page | Medium | [#510](https://github.com/Ayushjhawar8/Flavor-ai/pull/510) |
-| Fix FavoritesPage: safe localStorage, category fetch, filter, and UI stability | Medium | [#509](https://github.com/Ayushjhawar8/Flavor-ai/pull/509) |
-| Fixed Logo | Medium | [#508](https://github.com/Ayushjhawar8/Flavor-ai/pull/508) |
-| Fix/feedback spacing alignment | Medium | [#507](https://github.com/Ayushjhawar8/Flavor-ai/pull/507) |
-| fix(ui): Footer design and style consistency maintained | Medium | [#506](https://github.com/Ayushjhawar8/Flavor-ai/pull/506) |
-| Fix Placeholder Color Inconsistency on Nutrition-AI Page | Medium | [#505](https://github.com/Ayushjhawar8/Flavor-ai/pull/505) |
-| Made the card consistent with the background in the dark mode | Medium | [#503](https://github.com/Ayushjhawar8/Flavor-ai/pull/503) |
-| UI Fix: Aligned icons uniformly at the top center of all cards | Medium | [#498](https://github.com/Ayushjhawar8/Flavor-ai/pull/498) |
-| Added top margin to Contact and FAQ page main containers to separate from navbar | Medium | [#497](https://github.com/Ayushjhawar8/Flavor-ai/pull/497) |
-| fix: tooltip error on hover in navigation | Medium | [#496](https://github.com/Ayushjhawar8/Flavor-ai/pull/496) |
-| back to dashboard button working | Medium | [#493](https://github.com/Ayushjhawar8/Flavor-ai/pull/493) |
+| Added "More Recipes You’ll Love" section #511 | Medium | [#515](https://github.com/Ayushjhawar8/Flavor-ai/pull/515) |
+| Added dynamic tab title/logo & social media on sidebar | Medium | [#514](https://github.com/Ayushjhawar8/Flavor-ai/pull/514) |
+| UI faq page | Medium | [#513](https://github.com/Ayushjhawar8/Flavor-ai/pull/513) |
 
 ---
 
@@ -460,6 +450,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GSSoC'25 Announcement in Readme. | Medium | [#90](https://github.com/rahulkhandait-sde/cineverse/issues/90) |
 | Enhanced Readability and Search Experience on "Genres" Page | Medium | [#89](https://github.com/rahulkhandait-sde/cineverse/pull/89) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 
@@ -517,11 +508,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(leaderboard, navbar): position rank badges & fix dashboard hamburger overlay | Easy | [#966](https://github.com/recodehive/recode-website/pull/966) |
-| Fix formatting in CROSS JOIN documentation | Easy | [#965](https://github.com/recodehive/recode-website/pull/965) |
-| Fix badge colors in light/dark mode. | Easy | [#961](https://github.com/recodehive/recode-website/pull/961) |
-| fix: lint warnings and update ESLint config | Easy | [#959](https://github.com/recodehive/recode-website/pull/959) |
-| correctly for Back Button and removing the delay | Easy | [#957](https://github.com/recodehive/recode-website/pull/957) |
+| test workflow metadata pr | Easy | [#986](https://github.com/recodehive/recode-website/issues/986) |
+| test pr sync | Easy | [#984](https://github.com/recodehive/recode-website/pull/984) |
+| 📝[Docs]: Add a section highlighting GitHub profile customization & community engagement ideas | Easy | [#982](https://github.com/recodehive/recode-website/issues/982) |
+| Fixed typos, grammatical errors and phrasing of some sentences | Easy | [#981](https://github.com/recodehive/recode-website/pull/981) |
+| Mobile view shows 404 page with loading animation instead of homepage | Easy | [#978](https://github.com/recodehive/recode-website/issues/978) |
 
 ---
 
@@ -544,8 +535,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | OAuth Sign-In Fails with Firebase | Medium | [#452](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/452) |
 | Add PasswordGenerator component for password management | Medium | [#451](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/451) |
 | Add PasswordGenerator component for password management | Medium | [#450](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/450) |
-| feat: implement issue #15 - add code editor and enhance progress trac… | Medium | [#449](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/449) |
-| Fixed "Why DSAMate" section UI | Medium | [#447](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/447) |
 | feat: add password generator and strength indicator | Medium | [#446](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/446) |
 | Added DSA Practice Performance Predictor (ML Feature) | Medium | [#445](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/445) |
 | cards for s[Feature]: Add the Working Inverting Flashcards and CheatSheets | Medium | [#444](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/444) |
@@ -913,7 +902,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | feat: add Java program to check perfect number [GSSoC 2025] | Medium | [#761](https://github.com/javaistic/javaistic/pull/761) |
 | feat: add Java program to reverse a number | Medium | [#760](https://github.com/javaistic/javaistic/pull/760) |
 | feat: add Java program to check Armstrong number [GSSoC 2025] | Medium | [#759](https://github.com/javaistic/javaistic/pull/759) |
-| feat(programs): add palindrome number check (math and string methods) [GSSoC 2025] | Medium | [#758](https://github.com/javaistic/javaistic/pull/758) |
 | Adding a new feature in the website | Medium | [#750](https://github.com/javaistic/javaistic/issues/750) |
 
 ---
