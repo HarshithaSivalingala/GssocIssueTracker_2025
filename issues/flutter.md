@@ -118,6 +118,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implemented Comprehensive Testing Suite #114 Level 3 | Medium | [#127](https://github.com/may-tas/TextEditingApp/pull/127) |
 | Web-Specifc Optimization with PWA Features #118 Level 3 | Medium | [#126](https://github.com/may-tas/TextEditingApp/pull/126) |
 
 ---
