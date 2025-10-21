@@ -226,9 +226,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Automatically focus the search field on page load | Easy | [#2450](https://github.com/OWASP/Nest/issues/2450) |
-| Improve layout of Leaders card on `Project` page | Easy | [#2449](https://github.com/OWASP/Nest/issues/2449) |
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
+| Bump langchain from 0.3.27 to 1.0.0 in /backend | Medium | [#2455](https://github.com/OWASP/Nest/pull/2455) |
 | Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
 | question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
@@ -247,7 +247,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
-| Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -574,10 +573,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Remove unnecessary email and password validations from Sign-In page | Medium | [#757](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/757) |
-| Implement Predictive Career Path & Skill Gap Analysis Engine | Medium | [#756](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/756) |
-| Add GSSoC'25 Banner. | Medium | [#755](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/755) |
-| Student Controller Optimization | Medium | [#732](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/732) |
+| Fix: Improve Sign In button visibility on Register page (Light Theme) | Medium | [#761](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/761) |
+| Fix: Resolve overlapping issue between back button and Placify logo on Sign-Up page (mobile view) | Medium | [#760](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/760) |
+| Complete UI Refactor of Student Registration Page for Improved Design Consistency and Responsiveness | Medium | [#759](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/759) |
+| bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
 
@@ -597,7 +596,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | Add Social Meadia in Footer | Medium | [#436](https://github.com/omroy07/AgriTech/issues/436) |
 | Integrate Google In Sign-Up/Login Page | Medium | [#434](https://github.com/omroy07/AgriTech/issues/434) |
-| Add GSSoC Banner in Readme. | Medium | [#433](https://github.com/omroy07/AgriTech/issues/433) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
@@ -746,23 +744,16 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Pull Request : Energy Consumption Forecasting using Polynomial Regres… | Medium | [#851](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/851) |
-| Add Project - Energy Consumption Forecasting using Polynomial Regression and Regularization | Medium | [#850](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/850) |
-| Pull Request : Predictive Maintenance for Financial Services Infrastr… | Medium | [#849](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/849) |
-| Add Project - Predictive Maintenance for Financial Services Infrastructure with Deep Learning | Medium | [#848](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/848) |
-| Pull Request :  Energy Consumption Forecasting using Polynomial Regre… | Medium | [#847](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/847) |
+| Add Project — Stock Market Bubble Detection | Medium | [#860](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/860) |
+| Add Project — Smart Financial Advisory | Medium | [#858](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/858) |
+| Add Project — Regime Detection using K-Means | Medium | [#856](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/856) |
+| Add Project - Quantitative Finance Strategy Development | Medium | [#854](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/854) |
+| Twitter Sentiment Analysis Project using NLP and ML | Medium | [#852](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/852) |
 | Add Project - Energy Consumption Forecasting using Polynomial Regression | Medium | [#846](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/846) |
-| Pull Request : Predicting Stock Splits and Dividends Using Deep Learning | Medium | [#845](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/845) |
 | Add Project — Predicting Stock Splits and Dividends Using Deep Learning | Medium | [#844](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/844) |
-| Pull Request : Predicting Interest Rate Movements Using Deep Learning | Medium | [#843](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/843) |
 | Add Project — Predicting Interest Rate Movements Using Deep Learning | Medium | [#842](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/842) |
-| Pull Request : Insider Trading Detection using Machine Learning | Medium | [#841](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/841) |
 | Add Project — Insider Trading Detection using Machine Learning | Medium | [#840](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/840) |
-| Pull request : #358- Email Classifier with streamlit Interface | Medium | [#839](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/839) |
-| feat: #831 Seaborn Visualization | Medium | [#835](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/835) |
 | GSSOC'25 : Add Seaborn Visualisations | Medium | [#831](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/831) |
-| feat: #809 Stock Turnover ratio dataset Analysis | Medium | [#830](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/830) |
-| feat: #356 - Fake_news_detection | Medium | [#829](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/829) |
 | Add Project — Predicting Commodity Prices Using Deep Learning | Medium | [#827](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/827) |
 | Add Project — Portfolio Optimization Using Genetic Algorithms | Medium | [#825](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/825) |
 | Add Project — Portfolio Hedging using Generative Adversarial Networks (GANs) | Medium | [#823](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/823) |
@@ -775,7 +766,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add New Project — Stock Market Turnover Ratio Analysis (GSSoC'25) | Medium | [#807](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/807) |
 | Add Big Tech Giant Stocks Visualization App Project | Medium | [#799](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/799) |
 | vidya | Medium | [#798](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/798) |
-| Add AI Text Summarizer | Medium | [#797](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/797) |
+| Add Interactive Chatbot for DataSentience-AIML Project Info | Medium | [#796](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/796) |
+| Add ITC Stocks Visualization App Project | Medium | [#792](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/792) |
+| EDA Notebook Submission for Review | Medium | [#786](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/786) |
+| Smart Fertilizer Recommendation System using LLM | Medium | [#783](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/783) |
+| Reinforcement Learning for Stock Trading | Medium | [#762](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/762) |
 
 ---
 
@@ -904,11 +899,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Sleep Hygiene Toolkit - Implementation Complete | Medium | [#581](https://github.com/eccentriccoder01/TalkHeal/issues/581) |
-| Feature: Thought Reframing Assistant (CBT Tool) - Implementation Complete | Medium | [#580](https://github.com/eccentriccoder01/TalkHeal/issues/580) |
-| Enhancement: Revamp Careers Page with Improved UI and Dynamic Background Support | Medium | [#579](https://github.com/eccentriccoder01/TalkHeal/issues/579) |
-| feat: enhance water_tracker.py with statistics, analytics, and data management | Medium | [#576](https://github.com/eccentriccoder01/TalkHeal/issues/576) |
-| Create a separate page for every game | Medium | [#570](https://github.com/eccentriccoder01/TalkHeal/issues/570) |
+| Enhancement: Reset Password Page - Comprehensive Update | Medium | [#614](https://github.com/eccentriccoder01/TalkHeal/issues/614) |
+| Transform QnA into comprehensive expert session platform with voting and registration | Medium | [#612](https://github.com/eccentriccoder01/TalkHeal/issues/612) |
 | UI/UX Enhancement: Improve Login Form Design and Responsiveness and validation | Medium | [#512](https://github.com/eccentriccoder01/TalkHeal/issues/512) |
 | Making sidebar organized. | Medium | [#500](https://github.com/eccentriccoder01/TalkHeal/issues/500) |
 | Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
@@ -1257,6 +1249,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Service Section Symbol Overlaps with Navbar | Medium | [#219](https://github.com/aayushraj1010/med-genie/issues/219) |
 | Added Back To Top Button Across All Pages | Medium | [#218](https://github.com/aayushraj1010/med-genie/pull/218) |
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
@@ -1282,24 +1275,24 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.8.0 | Medium | [#131](https://github.com/solve-ease/OptiBlogAi/pull/131) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#130](https://github.com/solve-ease/OptiBlogAi/pull/130) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.8.1 in /optiblogai-site | Medium | [#129](https://github.com/solve-ease/OptiBlogAi/pull/129) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.546.0 in /optiblogai-site | Medium | [#128](https://github.com/solve-ease/OptiBlogAi/pull/128) |
+| ci(deps): bump actions/setup-node from 4 to 6 | Medium | [#127](https://github.com/solve-ease/OptiBlogAi/pull/127) |
+| deps(deps): bump next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#126](https://github.com/solve-ease/OptiBlogAi/pull/126) |
+| deps(deps-dev): bump eslint from 9.31.0 to 9.38.0 in /optiblogai-site | Medium | [#125](https://github.com/solve-ease/OptiBlogAi/pull/125) |
 | deps(deps): bump cachetools from 5.5.2 to 6.2.1 | Medium | [#124](https://github.com/solve-ease/OptiBlogAi/pull/124) |
 | docker(deps): bump python from 3.12-slim to 3.14-slim | Medium | [#123](https://github.com/solve-ease/OptiBlogAi/pull/123) |
-| deps(deps): bump lucide-react from 0.525.0 to 0.545.0 in /optiblogai-site | Medium | [#122](https://github.com/solve-ease/OptiBlogAi/pull/122) |
 | ci(deps): bump github/codeql-action from 3 to 4 | Medium | [#121](https://github.com/solve-ease/OptiBlogAi/pull/121) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.7.2 in /optiblogai-site | Medium | [#120](https://github.com/solve-ease/OptiBlogAi/pull/120) |
 | deps(deps): bump framer-motion from 12.23.6 to 12.23.24 in /optiblogai-site | Medium | [#119](https://github.com/solve-ease/OptiBlogAi/pull/119) |
 | deps(deps): bump certifi from 2025.1.31 to 2025.10.5 | Medium | [#118](https://github.com/solve-ease/OptiBlogAi/pull/118) |
 | deps(deps-dev): bump typescript from 5.8.3 to 5.9.3 in /optiblogai-site | Medium | [#117](https://github.com/solve-ease/OptiBlogAi/pull/117) |
-| deps(deps-dev): bump eslint from 9.31.0 to 9.37.0 in /optiblogai-site | Medium | [#116](https://github.com/solve-ease/OptiBlogAi/pull/116) |
 | deps(deps): bump beautifulsoup4 from 4.13.3 to 4.14.2 | Medium | [#114](https://github.com/solve-ease/OptiBlogAi/pull/114) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#113](https://github.com/solve-ease/OptiBlogAi/pull/113) |
-| deps(deps): bump next from 15.4.1 to 15.5.4 in /optiblogai-site | Medium | [#111](https://github.com/solve-ease/OptiBlogAi/pull/111) |
 | deps(deps): bump lxml from 5.3.2 to 6.0.2 | Medium | [#106](https://github.com/solve-ease/OptiBlogAi/pull/106) |
 | deps(deps): bump soupsieve from 2.6 to 2.8 | Medium | [#99](https://github.com/solve-ease/OptiBlogAi/pull/99) |
-| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.7.0 | Medium | [#97](https://github.com/solve-ease/OptiBlogAi/pull/97) |
 | deps(deps): bump playwright from 1.53.0 to 1.55.0 | Medium | [#95](https://github.com/solve-ease/OptiBlogAi/pull/95) |
 | ci(deps): bump actions/setup-python from 5 to 6 | Medium | [#93](https://github.com/solve-ease/OptiBlogAi/pull/93) |
-| ci(deps): bump actions/setup-node from 4 to 5 | Medium | [#92](https://github.com/solve-ease/OptiBlogAi/pull/92) |
 | deps(deps): bump typing-extensions from 4.13.2 to 4.15.0 | Medium | [#90](https://github.com/solve-ease/OptiBlogAi/pull/90) |
 | SITE ENHANCEMENT | Medium | [#89](https://github.com/solve-ease/OptiBlogAi/issues/89) |
 | ⬇️ Feature Request: Scroll to Bottom Button | Medium | [#88](https://github.com/solve-ease/OptiBlogAi/issues/88) |
@@ -1327,6 +1320,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve README Setup Instructions for Local Project Run | Medium | [#58](https://github.com/AditixAnand/Garbage_Classification/issues/58) |
 | Add a Footer to the Webpage | Medium | [#57](https://github.com/AditixAnand/Garbage_Classification/issues/57) |
 | Missing model_efficientnet.h5 file needed to run the project | Medium | [#38](https://github.com/AditixAnand/Garbage_Classification/issues/38) |
 
@@ -1782,7 +1776,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Sidebar Text Visibility Bug + Dashboard Styling Improvements | Easy | [#37](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/37) |
-| Add PowerBi dashboard | Medium | [#56](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/56) |
 | Update Project Structure in README.md | Medium | [#53](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/53) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#51](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/51) |
 | Dynamic Crop-Based Yield Map on Streamlit | Medium | [#50](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/50) |
