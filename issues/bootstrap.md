@@ -18,6 +18,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| BUG: service section footer background issue | Medium | [#1239](https://github.com/gyanshankar1708/GrowCraft/issues/1239) |
 | Redesign the about us page | Medium | [#1238](https://github.com/gyanshankar1708/GrowCraft/pull/1238) |
 | UI Change | Medium | [#1233](https://github.com/gyanshankar1708/GrowCraft/issues/1233) |
 | Navbar styled properly for our work page. | Medium | [#1230](https://github.com/gyanshankar1708/GrowCraft/pull/1230) |
@@ -42,7 +43,6 @@
 | Dark/light mode button is not working | Medium | [#1179](https://github.com/gyanshankar1708/GrowCraft/issues/1179) |
 | Our work | Medium | [#1173](https://github.com/gyanshankar1708/GrowCraft/issues/1173) |
 | Navbar and footer inconsistency in services page. | Medium | [#1172](https://github.com/gyanshankar1708/GrowCraft/issues/1172) |
-| Navbar Styling Inconsistency on Contact Page | Medium | [#1171](https://github.com/gyanshankar1708/GrowCraft/issues/1171) |
 
 ---
 
@@ -99,6 +99,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesign of the Community forum page | Medium | [#291](https://github.com/sachiva1/sachiva/pull/291) |
 | Added AI-powered FAQ Chatbot | Medium | [#290](https://github.com/sachiva1/sachiva/pull/290) |
 | Add Login/Signup UI with enhanced styles and functionality | Medium | [#289](https://github.com/sachiva1/sachiva/pull/289) |
 | Updated footer | Medium | [#288](https://github.com/sachiva1/sachiva/pull/288) |
