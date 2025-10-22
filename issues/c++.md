@@ -61,7 +61,7 @@
 |----------|----------------|---------|
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
-| feat(tests): Add tests for Ignore and ConsoleAndFile policy | Medium | [#145](https://github.com/SharonIV0x86/CinderPeak/issues/145) |
+| refactor: dependency injection for PolicyHandler in Adjacency Storage | Medium | [#147](https://github.com/SharonIV0x86/CinderPeak/pull/147) |
 | feat(policies): Added tests for Ignore and LogFileAndConsole policy | Medium | [#143](https://github.com/SharonIV0x86/CinderPeak/pull/143) |
 | feat(policies): Added tests for Throw and LogFileAndConsole policy | Medium | [#141](https://github.com/SharonIV0x86/CinderPeak/pull/141) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#128](https://github.com/SharonIV0x86/CinderPeak/issues/128) |
