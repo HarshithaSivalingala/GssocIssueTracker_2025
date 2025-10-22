@@ -48,9 +48,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| init: logging | Medium | [#499](https://github.com/yuvrajsinghgmx/ShopSmart/pull/499) |
 | Update User Location after each /load | Medium | [#492](https://github.com/yuvrajsinghgmx/ShopSmart/issues/492) |
 | Screen for "See All" for Nearby Produts" | Medium | [#489](https://github.com/yuvrajsinghgmx/ShopSmart/issues/489) |
 | Screen for "See All" for Nearby Shops | Medium | [#488](https://github.com/yuvrajsinghgmx/ShopSmart/issues/488) |
+| Structure ShopOwner Profile | Medium | [#487](https://github.com/yuvrajsinghgmx/ShopSmart/issues/487) |
+| Implement Orders Section | Medium | [#486](https://github.com/yuvrajsinghgmx/ShopSmart/issues/486) |
 | Implement Cart Section | Medium | [#485](https://github.com/yuvrajsinghgmx/ShopSmart/issues/485) |
 | Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
 | Master Issue for tracking Compose Dev. | Medium | [#454](https://github.com/yuvrajsinghgmx/ShopSmart/issues/454) |
