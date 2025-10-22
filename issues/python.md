@@ -79,10 +79,10 @@
 | Fix/336 navbar elements overlap | Medium | [#341](https://github.com/Amarjha01/InfantCareCompass/pull/341) |
 | Add GSSoC 2025 announcement to README | Medium | [#339](https://github.com/Amarjha01/InfantCareCompass/pull/339) |
 | Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
-| News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
+| Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 
 ---
 
@@ -227,18 +227,16 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| Automatically focus the search field on page load | Medium | [#2465](https://github.com/OWASP/Nest/pull/2465) |
+| Bump @types/node from 22.18.11 to 22.18.12 in /frontend | Medium | [#2462](https://github.com/OWASP/Nest/pull/2462) |
+| Bump langchain from 0.3.27 to 1.0.1 in /backend | Medium | [#2459](https://github.com/OWASP/Nest/pull/2459) |
 | Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
-| Bump langchain from 0.3.27 to 1.0.0 in /backend | Medium | [#2455](https://github.com/OWASP/Nest/pull/2455) |
-| Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
-| question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
-| Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
-| fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
@@ -837,7 +835,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Enhance Streamlit UI with Custom Theme and Visual Elements | Medium | [#26](https://github.com/ritikka06/Tariff-Fashion/issues/26) |
 | Add Input Validation in app.py to Prevent Invalid Predictions | Medium | [#25](https://github.com/ritikka06/Tariff-Fashion/issues/25) |
 | Missing Columns in Dataset Summary and Mismatched price chart | Medium | [#24](https://github.com/ritikka06/Tariff-Fashion/issues/24) |
-| Unused variables in the code | Medium | [#20](https://github.com/ritikka06/Tariff-Fashion/issues/20) |
 | Add POWERBI Dashboard | Medium | [#16](https://github.com/ritikka06/Tariff-Fashion/pull/16) |
 | Complete Fashion Tariff Predictor with Enhanced UI/UX | Medium | [#15](https://github.com/ritikka06/Tariff-Fashion/pull/15) |
 | Complete Initial Project Setup with README, Model, and Web Interface | Medium | [#14](https://github.com/ritikka06/Tariff-Fashion/issues/14) |
@@ -1147,6 +1144,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🔊 Issue: Add a Voice Assistant to Navigate PyVerse | Medium | [#1813](https://github.com/UTSAVS26/PyVerse/issues/1813) |
 | 🧑‍💻: Advanced Genetic Algorithm for Knapsack Problem | Medium | [#1812](https://github.com/UTSAVS26/PyVerse/issues/1812) |
 | 🧑‍💻: Improve AI Study Assistant with Context-Aware Quiz and Adaptive Flashcards | Medium | [#1811](https://github.com/UTSAVS26/PyVerse/issues/1811) |
 | 🧑‍💻: Modularize Code, Add CSV Export & Outlier Visualization for Environmental Data Analysis | Medium | [#1810](https://github.com/UTSAVS26/PyVerse/issues/1810) |
