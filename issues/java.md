@@ -56,6 +56,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(faq): add accessible Support/ FAQ page with voice assistance | Medium | [#355](https://github.com/adityagarwal15/JobSync/pull/355) |
 | Fix : Close dropdown menu when clicking outside for improved UX | Medium | [#354](https://github.com/adityagarwal15/JobSync/pull/354) |
 | fix: dashboard tile highlight overlaps (#334) | Medium | [#349](https://github.com/adityagarwal15/JobSync/pull/349) |
 | 🐛 : OTP Login Functionality is not working | Medium | [#347](https://github.com/adityagarwal15/JobSync/issues/347) |
@@ -477,24 +478,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: Firebase Chat App
-
-📝 **Description:** A real-time chat application built using Firebase and React. It allows users to sign in with Google authentication, exchange messages instantly, and manage user sessions securely. The app showcases the power of serverless technologies with a sleek and responsive UI. Ideal for contributors interested in React, Firebase, and modern frontend/backend integration.
-
-🔗 [View Project](https://github.com/Dhruvi-tech/firebase-chat-app)
-
-💻 **Tech Stack:** React.js, Firebase Authentication, Firestore Database, HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| feat: add message deletion with confirmation dialog (#64) | Medium | [#74](https://github.com/Dhruvi-tech/firebase-chat-app/pull/74) |
-
----
-
 ## 📌 Project: Healconnect 
 
 📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
@@ -741,6 +724,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Document repository structure in README | Medium | [#199](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/199) |
 | Add Pull Request (PR) Template | Medium | [#66](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/66) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#65](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/65) |
 | #42 Content Disappears After Reload on All Pages | Medium | [#44](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/44) |
@@ -1183,11 +1167,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| test workflow metadata pr | Easy | [#986](https://github.com/recodehive/recode-website/issues/986) |
-| test pr sync | Easy | [#984](https://github.com/recodehive/recode-website/pull/984) |
-| 📝[Docs]: Add a section highlighting GitHub profile customization & community engagement ideas | Easy | [#982](https://github.com/recodehive/recode-website/issues/982) |
-| Fixed typos, grammatical errors and phrasing of some sentences | Easy | [#981](https://github.com/recodehive/recode-website/pull/981) |
-| Mobile view shows 404 page with loading animation instead of homepage | Easy | [#978](https://github.com/recodehive/recode-website/issues/978) |
+| [Feature]: New badge designs | Easy | [#1002](https://github.com/recodehive/recode-website/issues/1002) |
+| 🐞[Bug]: Error in job pipeline | Easy | [#1001](https://github.com/recodehive/recode-website/issues/1001) |
 
 ---
 
@@ -1789,6 +1770,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue: Navbar Inconsistency on Service Page | Medium | [#1242](https://github.com/gyanshankar1708/GrowCraft/issues/1242) |
+| Carousel section not responsive on smaller screen sizes | Medium | [#1241](https://github.com/gyanshankar1708/GrowCraft/issues/1241) |
+| Add boxes for Services, Quick Links, and Get In Touch in the footer | Medium | [#1240](https://github.com/gyanshankar1708/GrowCraft/issues/1240) |
 | BUG: service section footer background issue | Medium | [#1239](https://github.com/gyanshankar1708/GrowCraft/issues/1239) |
 | Redesign the about us page | Medium | [#1238](https://github.com/gyanshankar1708/GrowCraft/pull/1238) |
 | UI Change | Medium | [#1233](https://github.com/gyanshankar1708/GrowCraft/issues/1233) |
@@ -1812,8 +1796,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Missing back to home button in login page | Medium | [#1182](https://github.com/gyanshankar1708/GrowCraft/issues/1182) |
 | Footer missing in blogs page | Medium | [#1180](https://github.com/gyanshankar1708/GrowCraft/issues/1180) |
 | Dark/light mode button is not working | Medium | [#1179](https://github.com/gyanshankar1708/GrowCraft/issues/1179) |
-| Our work | Medium | [#1173](https://github.com/gyanshankar1708/GrowCraft/issues/1173) |
-| Navbar and footer inconsistency in services page. | Medium | [#1172](https://github.com/gyanshankar1708/GrowCraft/issues/1172) |
 
 ---
 
@@ -2171,7 +2153,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump @supabase/supabase-js from 2.50.2 to 2.76.0 | Medium | [#152](https://github.com/Ojas-Arora/SapneSeSafar/pull/152) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.76.1 | Medium | [#153](https://github.com/Ojas-Arora/SapneSeSafar/pull/153) |
 | Bump vite from 5.4.17 to 7.1.11 | Medium | [#151](https://github.com/Ojas-Arora/SapneSeSafar/pull/151) |
 | Bump tailwindcss from 3.4.17 to 4.1.15 | Medium | [#150](https://github.com/Ojas-Arora/SapneSeSafar/pull/150) |
 | Bump recharts from 2.15.0 to 3.3.0 | Medium | [#148](https://github.com/Ojas-Arora/SapneSeSafar/pull/148) |
@@ -2609,6 +2591,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Currency Dropdowns and Full Currency List | Medium | [#389](https://github.com/code-well0/trip-planner/pull/389) |
 | Issue 284 : Solved | Medium | [#361](https://github.com/code-well0/trip-planner/pull/361) |
 | feat: Add hover effects and UI enhancements for buttons, cards, and navbar | Medium | [#326](https://github.com/code-well0/trip-planner/pull/326) |
 | Fixes toast notification and readmore | Medium | [#323](https://github.com/code-well0/trip-planner/pull/323) |
@@ -2657,7 +2640,6 @@ Fast Workflow Tools
 | Mood-based Suggestions | Medium | [#35](https://github.com/SivaDurshika-G/MoodSphere-/issues/35) |
 | Feature Request: Add Mood Analytics Graph | Medium | [#31](https://github.com/SivaDurshika-G/MoodSphere-/issues/31) |
 | Add self-care tip widget | Medium | [#30](https://github.com/SivaDurshika-G/MoodSphere-/issues/30) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#21](https://github.com/SivaDurshika-G/MoodSphere-/issues/21) |
 | Separate Journal Section or page. | Medium | [#18](https://github.com/SivaDurshika-G/MoodSphere-/issues/18) |
 | Add Daily Reminder To Log Mood | Medium | [#16](https://github.com/SivaDurshika-G/MoodSphere-/issues/16) |
 | dark/light mode toggle bar | Medium | [#14](https://github.com/SivaDurshika-G/MoodSphere-/issues/14) |
@@ -2784,6 +2766,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced Contact page UI using Tailwind CSS with better form interact… | Medium | [#746](https://github.com/SurajSG23/Job-Portal/pull/746) |
 | dark mode in the companies page | Medium | [#745](https://github.com/SurajSG23/Job-Portal/pull/745) |
 | "Apply Now" Marks Job as Applied Without Authentication | Medium | [#744](https://github.com/SurajSG23/Job-Portal/issues/744) |
 | Login and Sign-Up button still visible after logging in | Medium | [#743](https://github.com/SurajSG23/Job-Portal/issues/743) |
@@ -2798,7 +2781,6 @@ Fast Workflow Tools
 | feat(role-page): redesigned role selection page with flip cards and header styling | Medium | [#734](https://github.com/SurajSG23/Job-Portal/pull/734) |
 | Improve Seeker page header, footer, and card layout | Medium | [#733](https://github.com/SurajSG23/Job-Portal/pull/733) |
 | fixed issue:Add Glassmorphic Effect to Navbar | Medium | [#732](https://github.com/SurajSG23/Job-Portal/pull/732) |
-| implemented search for saved-jobs | Medium | [#700](https://github.com/SurajSG23/Job-Portal/pull/700) |
 
 ---
 
