@@ -97,8 +97,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Frontend changes-add carousel for techstack | Medium | [#601](https://github.com/abhisek2004/Dev-Elevate/pull/601) |
-| 📊 Weekly Project Summary - 10/20/2025 | Medium | [#600](https://github.com/abhisek2004/Dev-Elevate/issues/600) |
+| Frontend changes-add carousel for techstack | Easy | [#601](https://github.com/abhisek2004/Dev-Elevate/pull/601) |
 
 ---
 
@@ -163,10 +162,10 @@ Accessibility features like dark mode,white.
 | Fix/336 navbar elements overlap | Medium | [#341](https://github.com/Amarjha01/InfantCareCompass/pull/341) |
 | Add GSSoC 2025 announcement to README | Medium | [#339](https://github.com/Amarjha01/InfantCareCompass/pull/339) |
 | Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
-| News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
+| Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 
 ---
 
@@ -224,18 +223,16 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| Automatically focus the search field on page load | Medium | [#2465](https://github.com/OWASP/Nest/pull/2465) |
+| Bump @types/node from 22.18.11 to 22.18.12 in /frontend | Medium | [#2462](https://github.com/OWASP/Nest/pull/2462) |
+| Bump langchain from 0.3.27 to 1.0.1 in /backend | Medium | [#2459](https://github.com/OWASP/Nest/pull/2459) |
 | Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
-| Bump langchain from 0.3.27 to 1.0.0 in /backend | Medium | [#2455](https://github.com/OWASP/Nest/pull/2455) |
-| Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
-| question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
-| Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
-| fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
@@ -263,13 +260,15 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
-| System and dark theme are same | Medium | [#1311](https://github.com/Code-A2Z/code-a2z/issues/1311) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
+| 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
+| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
+| 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
 
 ---
 
@@ -287,9 +286,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added "More Recipes You’ll Love" section #511 | Medium | [#515](https://github.com/Ayushjhawar8/Flavor-ai/pull/515) |
-| Added dynamic tab title/logo & social media on sidebar | Medium | [#514](https://github.com/Ayushjhawar8/Flavor-ai/pull/514) |
-| UI faq page | Medium | [#513](https://github.com/Ayushjhawar8/Flavor-ai/pull/513) |
+| Feat/enhance the recipe card's visual elements | Medium | [#519](https://github.com/Ayushjhawar8/Flavor-ai/pull/519) |
+| corrected responsiveness in mobile devices and the back button acress… | Medium | [#518](https://github.com/Ayushjhawar8/Flavor-ai/pull/518) |
+| feat: add login and signup pages with form validation and theme support | Medium | [#517](https://github.com/Ayushjhawar8/Flavor-ai/pull/517) |
 
 ---
 
@@ -337,6 +336,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| "Powerful Features" Section Not Adopting Light Mode Theme | Medium | [#126](https://github.com/Bavanetha27/Refixly/issues/126) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
@@ -1096,7 +1096,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Add PasswordGenerator component for password management | Medium | [#451](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/451) |
 | Add PasswordGenerator component for password management | Medium | [#450](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/450) |
 | feat: add password generator and strength indicator | Medium | [#446](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/446) |
-| Added DSA Practice Performance Predictor (ML Feature) | Medium | [#445](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/445) |
 | cards for s[Feature]: Add the Working Inverting Flashcards and CheatSheets | Medium | [#444](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/444) |
 | Table of Contents Missing in README.md | Medium | [#428](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/428) |
 | fix: improve testimonial prompt visibility in light mode | Medium | [#425](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/425) |
@@ -2339,7 +2338,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Contributing Guidelines & Add Interactivity | Medium | [#99](https://github.com/subhadeeproy3902/mvpblocks/issues/99) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
@@ -2498,8 +2496,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Browser Extension Integration | Medium | [#106](https://github.com/Coden-inja/alchEmaiLyst/issues/106) |
-| Improve Spam Detector UX with Framer Motion, Accessibility, and Real-Time Stats | Medium | [#105](https://github.com/Coden-inja/alchEmaiLyst/issues/105) |
 | Add Email Format Validation | Medium | [#96](https://github.com/Coden-inja/alchEmaiLyst/pull/96) |
 | Google g-mail OAuth not working/responding | Medium | [#48](https://github.com/Coden-inja/alchEmaiLyst/issues/48) |
 
