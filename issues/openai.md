@@ -19,10 +19,10 @@
 | Fix/336 navbar elements overlap | Medium | [#341](https://github.com/Amarjha01/InfantCareCompass/pull/341) |
 | Add GSSoC 2025 announcement to README | Medium | [#339](https://github.com/Amarjha01/InfantCareCompass/pull/339) |
 | Fixed the bug in About section | Medium | [#334](https://github.com/Amarjha01/InfantCareCompass/pull/334) |
-| News Page BgColor issue Solved | Medium | [#333](https://github.com/Amarjha01/InfantCareCompass/pull/333) |
 | Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
+| Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 
 ---
 
@@ -40,9 +40,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added "More Recipes You’ll Love" section #511 | Medium | [#515](https://github.com/Ayushjhawar8/Flavor-ai/pull/515) |
-| Added dynamic tab title/logo & social media on sidebar | Medium | [#514](https://github.com/Ayushjhawar8/Flavor-ai/pull/514) |
-| UI faq page | Medium | [#513](https://github.com/Ayushjhawar8/Flavor-ai/pull/513) |
+| Feat/enhance the recipe card's visual elements | Medium | [#519](https://github.com/Ayushjhawar8/Flavor-ai/pull/519) |
+| corrected responsiveness in mobile devices and the back button acress… | Medium | [#518](https://github.com/Ayushjhawar8/Flavor-ai/pull/518) |
+| feat: add login and signup pages with form validation and theme support | Medium | [#517](https://github.com/Ayushjhawar8/Flavor-ai/pull/517) |
 
 ---
 
