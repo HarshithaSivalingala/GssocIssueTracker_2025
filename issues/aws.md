@@ -150,9 +150,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Externalize strings for Blog and Careers pages | Easy | [#44](https://github.com/x0lg0n/Boutique-To-Box/issues/44) |
-| Remove deprecated packages and add Dependabot ignore list | Easy | [#43](https://github.com/x0lg0n/Boutique-To-Box/issues/43) |
-| Add Content Security Policy (CSP) meta and docs | Easy | [#41](https://github.com/x0lg0n/Boutique-To-Box/issues/41) |
 | Prevent double-submit on Contact form and validate server errors | Easy | [#40](https://github.com/x0lg0n/Boutique-To-Box/issues/40) |
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
 | Add high-contrast theme toggle and test | Easy | [#37](https://github.com/x0lg0n/Boutique-To-Box/issues/37) |
@@ -160,7 +157,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Integrate 32 DaisyUI Themes for Enhanced UI/UX | Medium | [#48](https://github.com/x0lg0n/Boutique-To-Box/issues/48) |
 | "Sign in with Google" button not working | Medium | [#47](https://github.com/x0lg0n/Boutique-To-Box/issues/47) |
 | 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
-| Active navigation step highlight overflows container | Medium | [#45](https://github.com/x0lg0n/Boutique-To-Box/issues/45) |
 | Dark mode support for core components | Medium | [#42](https://github.com/x0lg0n/Boutique-To-Box/issues/42) |
 | Add Playwright E2E job to GitHub Actions for core flows | Medium | [#38](https://github.com/x0lg0n/Boutique-To-Box/issues/38) |
 | Add Storybook stories for Newsletter and Pricing components | Medium | [#36](https://github.com/x0lg0n/Boutique-To-Box/issues/36) |
