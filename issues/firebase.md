@@ -72,6 +72,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed double scrollbar issue and improved AOS animations | Medium | [#128](https://github.com/Bavanetha27/Refixly/pull/128) |
+| added responsive-dropdown menu when user not loged in | Medium | [#127](https://github.com/Bavanetha27/Refixly/pull/127) |
 | "Powerful Features" Section Not Adopting Light Mode Theme | Medium | [#126](https://github.com/Bavanetha27/Refixly/issues/126) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
@@ -94,22 +96,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#278](https://github.com/mansiruhil/fail-u-forward/pull/278) |
+|  | Medium | [#277](https://github.com/mansiruhil/fail-u-forward/issues/277) |
+| updated readme | Medium | [#276](https://github.com/mansiruhil/fail-u-forward/pull/276) |
 |  | Medium | [#275](https://github.com/mansiruhil/fail-u-forward/issues/275) |
-| fix Sign Up Button Redirecting | Medium | [#274](https://github.com/mansiruhil/fail-u-forward/pull/274) |
-| Add “Back to Top” Button in README.md | Medium | [#273](https://github.com/mansiruhil/fail-u-forward/issues/273) |
-| Add Contributors Section in README | Medium | [#272](https://github.com/mansiruhil/fail-u-forward/issues/272) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#271](https://github.com/mansiruhil/fail-u-forward/issues/271) |
-|  | Medium | [#270](https://github.com/mansiruhil/fail-u-forward/issues/270) |
-| The icon + text overlap (⟳ Refresh) looks broken | Medium | [#269](https://github.com/mansiruhil/fail-u-forward/issues/269) |
 | 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/mansiruhil/fail-u-forward/issues/268) |
 | Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/mansiruhil/fail-u-forward/issues/264) |
 | Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/mansiruhil/fail-u-forward/issues/263) |
 | Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/mansiruhil/fail-u-forward/issues/260) |
-| A clean and responsive Footer ⚠️ | Medium | [#258](https://github.com/mansiruhil/fail-u-forward/issues/258) |
 | Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/mansiruhil/fail-u-forward/issues/257) |
 | Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/mansiruhil/fail-u-forward/issues/256) |
 |  | Medium | [#255](https://github.com/mansiruhil/fail-u-forward/issues/255) |
-|  | Medium | [#254](https://github.com/mansiruhil/fail-u-forward/issues/254) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
 
@@ -293,6 +290,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve README.md Structure and Visual Appeal | Medium | [#234](https://github.com/SurajSG23/PrepBuddy/issues/234) |
+| Enhance: Improve Visual Hierarchy and Content Detail in About Section | Medium | [#233](https://github.com/SurajSG23/PrepBuddy/issues/233) |
+| Fixed : Improve 'How It Works' Section UI/UX | Medium | [#232](https://github.com/SurajSG23/PrepBuddy/pull/232) |
 | added theme toggle button correctly | Medium | [#230](https://github.com/SurajSG23/PrepBuddy/pull/230) |
 
 ---
