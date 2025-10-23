@@ -18,6 +18,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement modern CSS variables and enhance styles | Medium | [#1247](https://github.com/gyanshankar1708/GrowCraft/pull/1247) |
+| Title: Fix Typos and Naming Inconsistencies Across Repository | Medium | [#1246](https://github.com/gyanshankar1708/GrowCraft/issues/1246) |
+| Fix Navbar Inconsistency on Services Page | Medium | [#1245](https://github.com/gyanshankar1708/GrowCraft/pull/1245) |
 | Issue: Navbar Inconsistency on Service Page | Medium | [#1242](https://github.com/gyanshankar1708/GrowCraft/issues/1242) |
 | Carousel section not responsive on smaller screen sizes | Medium | [#1241](https://github.com/gyanshankar1708/GrowCraft/issues/1241) |
 | Add boxes for Services, Quick Links, and Get In Touch in the footer | Medium | [#1240](https://github.com/gyanshankar1708/GrowCraft/issues/1240) |
@@ -42,8 +45,6 @@
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
 | missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
 | Missing back to home button in login page | Medium | [#1182](https://github.com/gyanshankar1708/GrowCraft/issues/1182) |
-| Footer missing in blogs page | Medium | [#1180](https://github.com/gyanshankar1708/GrowCraft/issues/1180) |
-| Dark/light mode button is not working | Medium | [#1179](https://github.com/gyanshankar1708/GrowCraft/issues/1179) |
 
 ---
 
@@ -63,10 +64,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
-| Solved issue #68  -added real time interactive map | Medium | [#155](https://github.com/Pujan-sarkar/FARMLOC/pull/155) |
 | The image in about us section is overlapping the text right beside it | Medium | [#154](https://github.com/Pujan-sarkar/FARMLOC/issues/154) |
-| Fix issue #85 | Medium | [#152](https://github.com/Pujan-sarkar/FARMLOC/pull/152) |
-| Enhanced Contact Form and Added the SMTP Server service to send email to user and owner. | Medium | [#151](https://github.com/Pujan-sarkar/FARMLOC/pull/151) |
 | Find Cold Storage section is not working | Medium | [#145](https://github.com/Pujan-sarkar/FARMLOC/issues/145) |
 | Low text contrast on login page (labels and headings are barely visible) | Medium | [#141](https://github.com/Pujan-sarkar/FARMLOC/issues/141) |
 | Add "Continue with Google" option to FARMLOC login page | Medium | [#140](https://github.com/Pujan-sarkar/FARMLOC/issues/140) |
