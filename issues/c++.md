@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
-| Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
 
 ---
@@ -35,7 +34,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added ``updateSms`` method to update an existing sms message | Medium | [#142](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/142) |
-| Added ``createEmail`` method to create new email message | Medium | [#141](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/141) |
 | feat: get_queue_deletes [health] | Medium | [#140](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/140) |
 | feat: get_queue_databases [health] | Medium | [#139](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/139) |
 | issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
