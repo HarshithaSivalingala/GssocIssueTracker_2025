@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fixes #59: add somthing | Medium | [#132](https://github.com/abhirajadhikary06/eventstack/pull/132) |
-| navbar addition needed | Medium | [#131](https://github.com/abhirajadhikary06/eventstack/issues/131) |
 | Add GSSoC'25  Banner | Medium | [#129](https://github.com/abhirajadhikary06/eventstack/issues/129) |
 | Add Pull Request (PR) Template | Medium | [#124](https://github.com/abhirajadhikary06/eventstack/issues/124) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#123](https://github.com/abhirajadhikary06/eventstack/issues/123) |
@@ -737,30 +736,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: DreamJobs-Job Portal 
-
-📝 **Description:** this project aims to bridge the gap between job seekers and employers 
-
-🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improving UI on Services for consistency | Medium | [#275](https://github.com/Khushi-Nigam/jobportal/issues/275) |
-| Cleanup Duplicate Auth & Search Logic in index.html | Medium | [#266](https://github.com/Khushi-Nigam/jobportal/pull/266) |
-| Add a search icon in the "Search Jobs Here" search bar for better UI consistency | Medium | [#265](https://github.com/Khushi-Nigam/jobportal/issues/265) |
-| Added file structure page | Medium | [#264](https://github.com/Khushi-Nigam/jobportal/pull/264) |
-| FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
-| Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
-| Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
-
----
-
 ## 📌 Project: Amour Editorial Website
 
 📝 **Description:** A website for amour editorial which focuses on helping students go abroad with their documentations such as personalized SOP, LOR and scholarship essays to get their admission. As well as one on one counselling to help them achieve their study abroad dreams!
@@ -874,8 +849,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Social Meadia in Footer | Medium | [#436](https://github.com/omroy07/AgriTech/issues/436) |
-| Integrate Google In Sign-Up/Login Page | Medium | [#434](https://github.com/omroy07/AgriTech/issues/434) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
@@ -1164,9 +1137,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Typing Speed Checker | Medium | [#830](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/830) |
+| Added typing speed checker game | Medium | [#831](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/831) |
 | #759 -Day62 Expense splitter - Added Frontend Project | Medium | [#829](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/829) |
-| Enhance Smart Calculator 2.0 with Animations, Responsive Layout, and Improved UI (Fixes #821) | Medium | [#828](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/828) |
 | added mood based music player | Medium | [#824](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/824) |
 | Add a email masker project | Medium | [#822](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/822) |
 | feat(tasks): prevent XSS, fix task id handling, add duplicate checks and overdue sort | Medium | [#819](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/819) |
@@ -1186,6 +1158,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Fix: Resolve inconsistent footer behavior in Light Mode | Medium | [#792](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/792) |
 | Added appropriate font color to PROJECT SHOWCASE | Medium | [#791](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/791) |
 | fix: Day 59 - Introducing CLICKBAIT (The memory game) | Medium | [#790](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/790) |
+| DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 
 ---
 
@@ -1208,8 +1181,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Reset Password Page - Comprehensive Update | Medium | [#614](https://github.com/eccentriccoder01/TalkHeal/issues/614) |
-| Transform QnA into comprehensive expert session platform with voting and registration | Medium | [#612](https://github.com/eccentriccoder01/TalkHeal/issues/612) |
 | UI/UX Enhancement: Improve Login Form Design and Responsiveness and validation | Medium | [#512](https://github.com/eccentriccoder01/TalkHeal/issues/512) |
 | Making sidebar organized. | Medium | [#500](https://github.com/eccentriccoder01/TalkHeal/issues/500) |
 | Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
@@ -1282,11 +1253,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/sync metadata pr | Easy | [#1030](https://github.com/recodehive/recode-website/pull/1030) |
-| Create difference bet having and groupby | Easy | [#1029](https://github.com/recodehive/recode-website/issues/1029) |
-| Type of schema | Easy | [#1028](https://github.com/recodehive/recode-website/issues/1028) |
-| Need setup by step instrunction with screenshot | Easy | [#1027](https://github.com/recodehive/recode-website/issues/1027) |
-| Need details about dimentional modelling here. | Easy | [#1026](https://github.com/recodehive/recode-website/issues/1026) |
+| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
 
@@ -2979,7 +2946,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Redesign of the Music Player like Parallel Window design | Medium | [#118](https://github.com/vaibhavrajharsh/Music-Player/issues/118) |
 | Adding a FAQ section | Medium | [#116](https://github.com/vaibhavrajharsh/Music-Player/issues/116) |
 | Button | Medium | [#115](https://github.com/vaibhavrajharsh/Music-Player/issues/115) |
-| #108 : Improve Player Section, Add Recently Played, Library, and Spotify-like VisualizerMy branch | Medium | [#109](https://github.com/vaibhavrajharsh/Music-Player/pull/109) |
 
 ---
 
