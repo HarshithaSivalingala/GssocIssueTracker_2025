@@ -227,14 +227,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
-| fix: Prevent publishing blog posts that have future publish date | Medium | [#2474](https://github.com/OWASP/Nest/pull/2474) |
+| feature: extend markdown features to improve content display and interactivity | Medium | [#2477](https://github.com/OWASP/Nest/pull/2477) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
-| feat: Add milestone endpoints to v0 API | Medium | [#2472](https://github.com/OWASP/Nest/pull/2472) |
-| Bump @next/third-parties from 15.5.6 to 16.0.0 in /frontend | Medium | [#2470](https://github.com/OWASP/Nest/pull/2470) |
-| Bump eslint-config-next from 15.5.6 to 16.0.0 in /frontend | Medium | [#2469](https://github.com/OWASP/Nest/pull/2469) |
 | Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
-| Automatically focus the search field on page load | Medium | [#2465](https://github.com/OWASP/Nest/pull/2465) |
-| Bump @types/node from 22.18.11 to 22.18.12 in /frontend | Medium | [#2462](https://github.com/OWASP/Nest/pull/2462) |
 | Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
@@ -247,6 +242,11 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /backend/docker | Medium | [#2395](https://github.com/OWASP/Nest/pull/2395) |
+| Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
+| Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
+| Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
+| Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
+| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -502,30 +502,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 ---
 
-## 📌 Project: DreamJobs-Job Portal 
-
-📝 **Description:** this project aims to bridge the gap between job seekers and employers 
-
-🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improving UI on Services for consistency | Medium | [#275](https://github.com/Khushi-Nigam/jobportal/issues/275) |
-| Cleanup Duplicate Auth & Search Logic in index.html | Medium | [#266](https://github.com/Khushi-Nigam/jobportal/pull/266) |
-| Add a search icon in the "Search Jobs Here" search bar for better UI consistency | Medium | [#265](https://github.com/Khushi-Nigam/jobportal/issues/265) |
-| Added file structure page | Medium | [#264](https://github.com/Khushi-Nigam/jobportal/pull/264) |
-| FAQ section content not displaying inside Contact page | Medium | [#229](https://github.com/Khushi-Nigam/jobportal/issues/229) |
-| Implement “Back to Top” Button for home page | Medium | [#228](https://github.com/Khushi-Nigam/jobportal/issues/228) |
-| Enhance Job Application Form with Resume Upload | Medium | [#226](https://github.com/Khushi-Nigam/jobportal/issues/226) |
-
----
-
 ## 📌 Project: AlgoLab-Learn Ml algos Visually 
 
 📝 **Description:** AlgoLab is an open-source project built to help students, developers, and enthusiasts understand Machine Learning algorithms through visual and interactive demonstrations.  Whether you're a beginner curious about how KNN or Decision Trees work, or someone who learns better by seeing algorithms in action, AlgoLab is for you.
@@ -568,9 +544,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Improve Sign In button visibility on Register page (Light Theme) | Medium | [#761](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/761) |
-| Fix: Resolve overlapping issue between back button and Placify logo on Sign-Up page (mobile view) | Medium | [#760](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/760) |
-| Complete UI Refactor of Student Registration Page for Improved Design Consistency and Responsiveness | Medium | [#759](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/759) |
+| Refactor: Improved Register Page UI and Responsiveness | Medium | [#762](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/762) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -589,8 +563,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Social Meadia in Footer | Medium | [#436](https://github.com/omroy07/AgriTech/issues/436) |
-| Integrate Google In Sign-Up/Login Page | Medium | [#434](https://github.com/omroy07/AgriTech/issues/434) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
@@ -654,6 +626,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Readme_Modification | Medium | [#53](https://github.com/18Prachi/airplane-boarding-simulation/pull/53) |
 | Added strategy simulation and comparison feature (GSSoC) | Medium | [#52](https://github.com/18Prachi/airplane-boarding-simulation/pull/52) |
 | Add Support for Multiple Boarding Strategies and Comparison Visualization | Medium | [#51](https://github.com/18Prachi/airplane-boarding-simulation/issues/51) |
 | new features | Medium | [#49](https://github.com/18Prachi/airplane-boarding-simulation/issues/49) |
@@ -893,8 +866,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Reset Password Page - Comprehensive Update | Medium | [#614](https://github.com/eccentriccoder01/TalkHeal/issues/614) |
-| Transform QnA into comprehensive expert session platform with voting and registration | Medium | [#612](https://github.com/eccentriccoder01/TalkHeal/issues/612) |
 | UI/UX Enhancement: Improve Login Form Design and Responsiveness and validation | Medium | [#512](https://github.com/eccentriccoder01/TalkHeal/issues/512) |
 | Making sidebar organized. | Medium | [#500](https://github.com/eccentriccoder01/TalkHeal/issues/500) |
 | Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
@@ -1051,6 +1022,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Added ONNX-based Emotion Detector in new_models (Python 3.13 compatible) | Medium | [#55](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/55) |
 | Refactored app structure, added helpers and model training script | Medium | [#54](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/54) |
 | feat(ui): Add Gradio Frontend for Emotion-Based Music Recommendation | Medium | [#48](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/48) |
+| Fixes:#2 Add DeepFace-based emotion detection with YouTube music recommendation | Medium | [#39](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/39) |
 | feat(playlists): add emotion-based playlist creation functionality | Hard | [#60](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/60) |
 | Added print statement to log when video streaming starts | Hard | [#50](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) |
 
@@ -1770,7 +1742,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 |----------|----------------|---------|
 | Sidebar Text Visibility Bug + Dashboard Styling Improvements | Easy | [#37](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/37) |
 | Update Project Structure in README.md | Medium | [#53](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/53) |
-| Add CI for autocomment on PR / ISSUES | Medium | [#51](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/51) |
 | Dynamic Crop-Based Yield Map on Streamlit | Medium | [#50](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/50) |
 
 ---
