@@ -85,8 +85,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#361](https://github.com/Muneerali199/DocMagic/pull/361) |
-| Add "Back to Top" Button Across All Pages | Medium | [#353](https://github.com/Muneerali199/DocMagic/issues/353) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
 | Add structure.txt file | Medium | [#348](https://github.com/Muneerali199/DocMagic/pull/348) |
@@ -217,9 +217,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump tailwindcss from 3.4.17 to 4.1.16 | Medium | [#155](https://github.com/Ojas-Arora/SapneSeSafar/pull/155) |
+| Bump vite from 5.4.17 to 7.1.12 | Medium | [#154](https://github.com/Ojas-Arora/SapneSeSafar/pull/154) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.76.1 | Medium | [#153](https://github.com/Ojas-Arora/SapneSeSafar/pull/153) |
-| Bump vite from 5.4.17 to 7.1.11 | Medium | [#151](https://github.com/Ojas-Arora/SapneSeSafar/pull/151) |
-| Bump tailwindcss from 3.4.17 to 4.1.15 | Medium | [#150](https://github.com/Ojas-Arora/SapneSeSafar/pull/150) |
 | Bump recharts from 2.15.0 to 3.3.0 | Medium | [#148](https://github.com/Ojas-Arora/SapneSeSafar/pull/148) |
 | Bump eslint from 9.12.0 to 9.38.0 | Medium | [#147](https://github.com/Ojas-Arora/SapneSeSafar/pull/147) |
 | Bump lucide-react from 0.344.0 to 0.546.0 | Medium | [#146](https://github.com/Ojas-Arora/SapneSeSafar/pull/146) |
