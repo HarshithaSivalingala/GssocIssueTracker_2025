@@ -1,31 +1,5 @@
 # 🚀 Projects using Mongodb
 
-## 📌 Project: DevElevate
-
-📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
-Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
-An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
-Personalized dashboards for learners, including progress tracking, daily planners, and goals.
-A tech feed offering real-time internship updates, hackathon events, and developer news.
-Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
-Role-based authentication for users and admins, with profile management and admin dashboard.
-Integrated coding practice links (GFG, LeetCode, HackerRank).
-Accessibility features like dark mode,white.
-
-🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
-
-💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Frontend changes-add carousel for techstack and UI enhancement in VideoPage and Backend | Easy | [#601](https://github.com/abhisek2004/Dev-Elevate/pull/601) |
-
----
-
 ## 📌 Project: people hub
 
 📝 **Description:** This project is a comprehensive Employee Management Portal with secure login authentication. It empowers users to efficiently create, update, and delete employee details, along with managing leave requests. Future enhancements include a modernized user interface, notification management, and the integration of other advanced features for a complete people management solution.
@@ -141,6 +115,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
+| 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
@@ -414,9 +389,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Improve Sign In button visibility on Register page (Light Theme) | Medium | [#761](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/761) |
-| Fix: Resolve overlapping issue between back button and Placify logo on Sign-Up page (mobile view) | Medium | [#760](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/760) |
-| Complete UI Refactor of Student Registration Page for Improved Design Consistency and Responsiveness | Medium | [#759](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/759) |
+| Refactor: Improved Register Page UI and Responsiveness | Medium | [#762](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/762) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 
 ---
@@ -488,12 +461,12 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🌓 Feature Request: Add Dark Mode & Accessibility Settings | Easy | [#640](https://github.com/NishantRana07/HrRoadways/issues/640) |
-| Feature Request: AI Trip Planner (Multi-Route Optimization) | Easy | [#632](https://github.com/NishantRana07/HrRoadways/issues/632) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Easy | [#630](https://github.com/NishantRana07/HrRoadways/issues/630) |
-| Add dedicated license page | Easy | [#628](https://github.com/NishantRana07/HrRoadways/issues/628) |
+| Add Example Curl URL in README and curl_example file | Easy | [#649](https://github.com/NishantRana07/HrRoadways/issues/649) |
 | Improve buttons of the webite | Easy | [#619](https://github.com/NishantRana07/HrRoadways/issues/619) |
-| Feature Request: Push Notifications / Alerts | Easy | [#617](https://github.com/NishantRana07/HrRoadways/issues/617) |
+| Issue in Donate Now Section | Medium | [#653](https://github.com/NishantRana07/HrRoadways/issues/653) |
+| AI Trip Planner (Multi-Route Optimization) Feature | Medium | [#652](https://github.com/NishantRana07/HrRoadways/pull/652) |
+| Update: README.md | Medium | [#651](https://github.com/NishantRana07/HrRoadways/pull/651) |
+| Add Example Curl URL in README and curl_example file | Medium | [#650](https://github.com/NishantRana07/HrRoadways/pull/650) |
 | Fixed Issue #533: User Friendly Dashboard | Medium | [#570](https://github.com/NishantRana07/HrRoadways/pull/570) |
 | Feature/ Chatbot Assistant Integration | Medium | [#552](https://github.com/NishantRana07/HrRoadways/pull/552) |
 
@@ -671,7 +644,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Contact Page with EmailJS integration | Medium | [#42](https://github.com/singodiyashubham87/bodhika/pull/42) |
 | Add Computer Networks to Learning Roadmaps | Medium | [#41](https://github.com/singodiyashubham87/bodhika/issues/41) |
 | modified workflows from workflow | Medium | [#39](https://github.com/singodiyashubham87/bodhika/pull/39) |
 | Implement Dark/Light Mode Toggle | Medium | [#37](https://github.com/singodiyashubham87/bodhika/issues/37) |
@@ -902,6 +874,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: remove unused import, fix HTML entities, improve dark mode & accessibility in Homepage.js | Medium | [#293](https://github.com/AditiGupta-tech/neonest/pull/293) |
+| Create dynamic authentication setup with supabase and with additional providers like Google or GitHub | Medium | [#292](https://github.com/AditiGupta-tech/neonest/issues/292) |
 | Updated chatbot feature | Medium | [#291](https://github.com/AditiGupta-tech/neonest/pull/291) |
 | Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
@@ -977,6 +951,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Feedback page | Medium | [#105](https://github.com/DevSyncx/DevSync/issues/105) |
 | Added AI powered chatbot integration in DevSync | Medium | [#103](https://github.com/DevSyncx/DevSync/pull/103) |
 | Backbutton | Medium | [#102](https://github.com/DevSyncx/DevSync/pull/102) |
+| Enhance Hero Section with Interactive Carousel | Medium | [#44](https://github.com/DevSyncx/DevSync/pull/44) |
 
 ---
 
@@ -997,11 +972,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Java OOPS Concepts | Easy | [#712](https://github.com/javaistic/javaistic/issues/712) |
 | Java Array Docs | Easy | [#582](https://github.com/javaistic/javaistic/issues/582) |
 | Java Basic Programs | Easy | [#201](https://github.com/javaistic/javaistic/issues/201) |
-| feat: add comprehensive Java pattern printing programs [GSSoC 2025] | Medium | [#763](https://github.com/javaistic/javaistic/pull/763) |
-| feat: add Java program to find GCD and LCM  [GSSoC 2025] | Medium | [#762](https://github.com/javaistic/javaistic/pull/762) |
-| feat: add Java program to check perfect number [GSSoC 2025] | Medium | [#761](https://github.com/javaistic/javaistic/pull/761) |
-| feat: add Java program to reverse a number | Medium | [#760](https://github.com/javaistic/javaistic/pull/760) |
-| feat: add Java program to check Armstrong number [GSSoC 2025] | Medium | [#759](https://github.com/javaistic/javaistic/pull/759) |
 | Adding a new feature in the website | Medium | [#750](https://github.com/javaistic/javaistic/issues/750) |
 
 ---
@@ -1057,8 +1027,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | changes in the ui for the contributors section | Easy | [#303](https://github.com/dipexplorer/LegalHuB/pull/303) |
-| Feat: Improve reset password page UI/UX (Issue #211) | Medium | [#302](https://github.com/dipexplorer/LegalHuB/pull/302) |
-| Fix: Add print styles for appointment card (Issue #172) | Medium | [#300](https://github.com/dipexplorer/LegalHuB/pull/300) |
 | 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
 
 ---
