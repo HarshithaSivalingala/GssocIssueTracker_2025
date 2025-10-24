@@ -45,32 +45,6 @@
 
 ---
 
-## 📌 Project: DevElevate
-
-📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
-Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
-An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
-Personalized dashboards for learners, including progress tracking, daily planners, and goals.
-A tech feed offering real-time internship updates, hackathon events, and developer news.
-Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
-Role-based authentication for users and admins, with profile management and admin dashboard.
-Integrated coding practice links (GFG, LeetCode, HackerRank).
-Accessibility features like dark mode,white.
-
-🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
-
-💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Frontend changes-add carousel for techstack and UI enhancement in VideoPage and Backend | Easy | [#601](https://github.com/abhisek2004/Dev-Elevate/pull/601) |
-
----
-
 ## 📌 Project: OWASP Nest
 
 📝 **Description:** Your gateway to OWASP
@@ -86,14 +60,9 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
-| fix: Prevent publishing blog posts that have future publish date | Medium | [#2474](https://github.com/OWASP/Nest/pull/2474) |
+| feature: extend markdown features to improve content display and interactivity | Medium | [#2477](https://github.com/OWASP/Nest/pull/2477) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
-| feat: Add milestone endpoints to v0 API | Medium | [#2472](https://github.com/OWASP/Nest/pull/2472) |
-| Bump @next/third-parties from 15.5.6 to 16.0.0 in /frontend | Medium | [#2470](https://github.com/OWASP/Nest/pull/2470) |
-| Bump eslint-config-next from 15.5.6 to 16.0.0 in /frontend | Medium | [#2469](https://github.com/OWASP/Nest/pull/2469) |
 | Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
-| Automatically focus the search field on page load | Medium | [#2465](https://github.com/OWASP/Nest/pull/2465) |
-| Bump @types/node from 22.18.11 to 22.18.12 in /frontend | Medium | [#2462](https://github.com/OWASP/Nest/pull/2462) |
 | Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
@@ -106,6 +75,11 @@ Accessibility features like dark mode,white.
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /backend/docker | Medium | [#2395](https://github.com/OWASP/Nest/pull/2395) |
+| Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
+| Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
+| Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
+| Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
+| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -220,9 +194,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#278](https://github.com/mansiruhil/fail-u-forward/pull/278) |
-|  | Medium | [#277](https://github.com/mansiruhil/fail-u-forward/issues/277) |
-| updated readme | Medium | [#276](https://github.com/mansiruhil/fail-u-forward/pull/276) |
 |  | Medium | [#275](https://github.com/mansiruhil/fail-u-forward/issues/275) |
 | 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/mansiruhil/fail-u-forward/issues/268) |
 | Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/mansiruhil/fail-u-forward/issues/264) |
@@ -586,7 +557,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix 404 page visibility in light theme (#85) | Medium | [#124](https://github.com/yashvikram30/legalease/pull/124) |
 | AI Chatbot Not Responding to User Queries and Document Upload Feature Failing in LegalEase App | Medium | [#123](https://github.com/yashvikram30/legalease/issues/123) |
 | UI Issue: Footer Margin Problem | Medium | [#122](https://github.com/yashvikram30/legalease/issues/122) |
 | AI-Powered Legal Template Generator | Medium | [#121](https://github.com/yashvikram30/legalease/issues/121) |
@@ -607,6 +577,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | To add good Background | Medium | [#70](https://github.com/yashvikram30/legalease/issues/70) |
 | Bug: Dark Theme Not Working | Medium | [#69](https://github.com/yashvikram30/legalease/issues/69) |
 | Addition of a Appointment Booking System | Medium | [#68](https://github.com/yashvikram30/legalease/issues/68) |
+| refactor: improve Terms & Privacy line styling on signup page | Medium | [#66](https://github.com/yashvikram30/legalease/pull/66) |
 
 ---
 
@@ -1045,9 +1016,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump tailwindcss from 3.4.17 to 4.1.16 | Medium | [#155](https://github.com/Ojas-Arora/SapneSeSafar/pull/155) |
+| Bump vite from 5.4.17 to 7.1.12 | Medium | [#154](https://github.com/Ojas-Arora/SapneSeSafar/pull/154) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.76.1 | Medium | [#153](https://github.com/Ojas-Arora/SapneSeSafar/pull/153) |
-| Bump vite from 5.4.17 to 7.1.11 | Medium | [#151](https://github.com/Ojas-Arora/SapneSeSafar/pull/151) |
-| Bump tailwindcss from 3.4.17 to 4.1.15 | Medium | [#150](https://github.com/Ojas-Arora/SapneSeSafar/pull/150) |
 | Bump recharts from 2.15.0 to 3.3.0 | Medium | [#148](https://github.com/Ojas-Arora/SapneSeSafar/pull/148) |
 | Bump eslint from 9.12.0 to 9.38.0 | Medium | [#147](https://github.com/Ojas-Arora/SapneSeSafar/pull/147) |
 | Bump lucide-react from 0.344.0 to 0.546.0 | Medium | [#146](https://github.com/Ojas-Arora/SapneSeSafar/pull/146) |
