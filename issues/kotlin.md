@@ -142,6 +142,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improved Product Details screen UI and fixed layout consistency | Medium | [#501](https://github.com/yuvrajsinghgmx/ShopSmart/pull/501) |
 | Create dedicated READMEs for app, backend, and admin projects Body | Medium | [#500](https://github.com/yuvrajsinghgmx/ShopSmart/issues/500) |
 | Update User Location after each /load | Medium | [#492](https://github.com/yuvrajsinghgmx/ShopSmart/issues/492) |
 | Screen for "See All" for Nearby Produts" | Medium | [#489](https://github.com/yuvrajsinghgmx/ShopSmart/issues/489) |
