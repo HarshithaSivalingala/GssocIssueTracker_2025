@@ -89,6 +89,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixes #710, fix(logo): make GSSoC logo responsive and prevent navbar overlap | Medium | [#717](https://github.com/opensource-society/CodeClip/pull/717) |
 | UI Enhancement: Improve About & Contact Section Layout | Medium | [#715](https://github.com/opensource-society/CodeClip/issues/715) |
 | <Short feature description> | Medium | [#714](https://github.com/opensource-society/CodeClip/issues/714) |
 | Footer Elements Not Alligned | Medium | [#713](https://github.com/opensource-society/CodeClip/issues/713) |
@@ -118,7 +119,6 @@
 | feat(ui): added Explore more modals | Medium | [#688](https://github.com/opensource-society/CodeClip/pull/688) |
 | Linked pages with explore button for Info | Medium | [#687](https://github.com/opensource-society/CodeClip/pull/687) |
 | Adding info in the explore pages given in challenges | Medium | [#686](https://github.com/opensource-society/CodeClip/issues/686) |
-| Closes #473 fix: Mobile navbar and layout responsiveness improvements | Medium | [#685](https://github.com/opensource-society/CodeClip/pull/685) |
 
 ---
 
@@ -400,10 +400,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhaced Sign Up Page | Medium | [#1700](https://github.com/itsAnimation/AnimateItNow/pull/1700) |
-| Fix: Fixed FAQ accordion and testimonial carousel | Medium | [#1698](https://github.com/itsAnimation/AnimateItNow/pull/1698) |
 | “Run” Button Overflows on Mobile in Editor Section | Medium | [#1696](https://github.com/itsAnimation/AnimateItNow/issues/1696) |
-| Redesign of Contact Us Page | Medium | [#1693](https://github.com/itsAnimation/AnimateItNow/pull/1693) |
 | dark/light theme for signup implemented | Medium | [#1692](https://github.com/itsAnimation/AnimateItNow/pull/1692) |
 | Improved UI/UX by updating colors and removing 'Get Started' button | Medium | [#1691](https://github.com/itsAnimation/AnimateItNow/pull/1691) |
 | updated show/hide toggle in signup | Medium | [#1690](https://github.com/itsAnimation/AnimateItNow/pull/1690) |
@@ -849,6 +846,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(#340): prevent non-plant images from being analyzed by adding MobileNet-based plant validation before disease prediction | Medium | [#439](https://github.com/omroy07/AgriTech/pull/439) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
@@ -1181,6 +1179,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make Category Cards Clickable for Direct Navigation | Medium | [#617](https://github.com/eccentriccoder01/TalkHeal/issues/617) |
 | UI/UX Enhancement: Improve Login Form Design and Responsiveness and validation | Medium | [#512](https://github.com/eccentriccoder01/TalkHeal/issues/512) |
 | Making sidebar organized. | Medium | [#500](https://github.com/eccentriccoder01/TalkHeal/issues/500) |
 | Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
@@ -1253,7 +1252,18 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
+| chore: bump @docusaurus/core from 3.9.1 to 3.9.2 | Easy | [#1065](https://github.com/recodehive/recode-website/pull/1065) |
+| chore: bump tailwindcss from 4.1.14 to 4.1.16 | Easy | [#1064](https://github.com/recodehive/recode-website/pull/1064) |
+| chore: bump @docusaurus/module-type-aliases from 3.9.1 to 3.9.2 | Easy | [#1063](https://github.com/recodehive/recode-website/pull/1063) |
+| chore: bump lint-staged from 16.2.4 to 16.2.6 | Easy | [#1062](https://github.com/recodehive/recode-website/pull/1062) |
+| chore: bump @docusaurus/theme-mermaid from 3.9.1 to 3.9.2 | Easy | [#1061](https://github.com/recodehive/recode-website/pull/1061) |
+| #1017 Hamburger Menu Appears but Doesn't Display Content Between 1300px and 996px Screen Width | Easy | [#1060](https://github.com/recodehive/recode-website/pull/1060) |
+| feat: Add SQL Transactions & Concurrency documentation | Easy | [#1058](https://github.com/recodehive/recode-website/pull/1058) |
+| Updated logos of companies in Courses page | Easy | [#1057](https://github.com/recodehive/recode-website/pull/1057) |
+| fix(ui): Resolve author profile overlap and remove redundant bio block | Easy | [#1056](https://github.com/recodehive/recode-website/pull/1056) |
+| feat(python): Added Data Structures in Python #1038 | Easy | [#1055](https://github.com/recodehive/recode-website/pull/1055) |
+| 🐞[Bug]: Author Profile UI Overlap and Messed-Up Structure on Blog/Author Page | Easy | [#1054](https://github.com/recodehive/recode-website/issues/1054) |
+| fix image visibility in docs ->next.js | Easy | [#1051](https://github.com/recodehive/recode-website/pull/1051) |
 
 ---
 
