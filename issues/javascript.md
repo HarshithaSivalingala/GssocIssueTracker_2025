@@ -89,6 +89,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixes #710, fix(logo): make GSSoC logo responsive and prevent navbar overlap | Medium | [#717](https://github.com/opensource-society/CodeClip/pull/717) |
 | UI Enhancement: Improve About & Contact Section Layout | Medium | [#715](https://github.com/opensource-society/CodeClip/issues/715) |
 | <Short feature description> | Medium | [#714](https://github.com/opensource-society/CodeClip/issues/714) |
 | Footer Elements Not Alligned | Medium | [#713](https://github.com/opensource-society/CodeClip/issues/713) |
@@ -118,7 +119,6 @@
 | feat(ui): added Explore more modals | Medium | [#688](https://github.com/opensource-society/CodeClip/pull/688) |
 | Linked pages with explore button for Info | Medium | [#687](https://github.com/opensource-society/CodeClip/pull/687) |
 | Adding info in the explore pages given in challenges | Medium | [#686](https://github.com/opensource-society/CodeClip/issues/686) |
-| Closes #473 fix: Mobile navbar and layout responsiveness improvements | Medium | [#685](https://github.com/opensource-society/CodeClip/pull/685) |
 
 ---
 
@@ -304,10 +304,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhaced Sign Up Page | Medium | [#1700](https://github.com/itsAnimation/AnimateItNow/pull/1700) |
-| Fix: Fixed FAQ accordion and testimonial carousel | Medium | [#1698](https://github.com/itsAnimation/AnimateItNow/pull/1698) |
 | “Run” Button Overflows on Mobile in Editor Section | Medium | [#1696](https://github.com/itsAnimation/AnimateItNow/issues/1696) |
-| Redesign of Contact Us Page | Medium | [#1693](https://github.com/itsAnimation/AnimateItNow/pull/1693) |
 | dark/light theme for signup implemented | Medium | [#1692](https://github.com/itsAnimation/AnimateItNow/pull/1692) |
 | Improved UI/UX by updating colors and removing 'Get Started' button | Medium | [#1691](https://github.com/itsAnimation/AnimateItNow/pull/1691) |
 | updated show/hide toggle in signup | Medium | [#1690](https://github.com/itsAnimation/AnimateItNow/pull/1690) |
@@ -788,6 +785,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(#340): prevent non-plant images from being analyzed by adding MobileNet-based plant validation before disease prediction | Medium | [#439](https://github.com/omroy07/AgriTech/pull/439) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
@@ -1135,7 +1133,18 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
+| chore: bump @docusaurus/core from 3.9.1 to 3.9.2 | Easy | [#1065](https://github.com/recodehive/recode-website/pull/1065) |
+| chore: bump tailwindcss from 4.1.14 to 4.1.16 | Easy | [#1064](https://github.com/recodehive/recode-website/pull/1064) |
+| chore: bump @docusaurus/module-type-aliases from 3.9.1 to 3.9.2 | Easy | [#1063](https://github.com/recodehive/recode-website/pull/1063) |
+| chore: bump lint-staged from 16.2.4 to 16.2.6 | Easy | [#1062](https://github.com/recodehive/recode-website/pull/1062) |
+| chore: bump @docusaurus/theme-mermaid from 3.9.1 to 3.9.2 | Easy | [#1061](https://github.com/recodehive/recode-website/pull/1061) |
+| #1017 Hamburger Menu Appears but Doesn't Display Content Between 1300px and 996px Screen Width | Easy | [#1060](https://github.com/recodehive/recode-website/pull/1060) |
+| feat: Add SQL Transactions & Concurrency documentation | Easy | [#1058](https://github.com/recodehive/recode-website/pull/1058) |
+| Updated logos of companies in Courses page | Easy | [#1057](https://github.com/recodehive/recode-website/pull/1057) |
+| fix(ui): Resolve author profile overlap and remove redundant bio block | Easy | [#1056](https://github.com/recodehive/recode-website/pull/1056) |
+| feat(python): Added Data Structures in Python #1038 | Easy | [#1055](https://github.com/recodehive/recode-website/pull/1055) |
+| 🐞[Bug]: Author Profile UI Overlap and Messed-Up Structure on Blog/Author Page | Easy | [#1054](https://github.com/recodehive/recode-website/issues/1054) |
+| fix image visibility in docs ->next.js | Easy | [#1051](https://github.com/recodehive/recode-website/pull/1051) |
 
 ---
 
@@ -1232,7 +1241,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Added Profile Page to manage user profile | Medium | [#103](https://github.com/sristy17/next-payroll/pull/103) |
 | fix css | Medium | [#102](https://github.com/sristy17/next-payroll/issues/102) |
 | Fix/add payment page validation | Medium | [#101](https://github.com/sristy17/next-payroll/pull/101) |
-| Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
 
@@ -1472,6 +1480,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Personalization and Analytics Widgets | Medium | [#294](https://github.com/AditiGupta-tech/neonest/pull/294) |
 | fix: remove unused import, fix HTML entities, improve dark mode & accessibility in Homepage.js | Medium | [#293](https://github.com/AditiGupta-tech/neonest/pull/293) |
 | Create dynamic authentication setup with supabase and with additional providers like Google or GitHub | Medium | [#292](https://github.com/AditiGupta-tech/neonest/issues/292) |
 | Updated chatbot feature | Medium | [#291](https://github.com/AditiGupta-tech/neonest/pull/291) |
@@ -2050,20 +2059,20 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.548.0 | Medium | [#158](https://github.com/Ojas-Arora/SapneSeSafar/pull/158) |
+| Bump @vitejs/plugin-react from 4.3.2 to 5.1.0 | Medium | [#157](https://github.com/Ojas-Arora/SapneSeSafar/pull/157) |
+| Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump tailwindcss from 3.4.17 to 4.1.16 | Medium | [#155](https://github.com/Ojas-Arora/SapneSeSafar/pull/155) |
 | Bump vite from 5.4.17 to 7.1.12 | Medium | [#154](https://github.com/Ojas-Arora/SapneSeSafar/pull/154) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.76.1 | Medium | [#153](https://github.com/Ojas-Arora/SapneSeSafar/pull/153) |
 | Bump recharts from 2.15.0 to 3.3.0 | Medium | [#148](https://github.com/Ojas-Arora/SapneSeSafar/pull/148) |
 | Bump eslint from 9.12.0 to 9.38.0 | Medium | [#147](https://github.com/Ojas-Arora/SapneSeSafar/pull/147) |
-| Bump lucide-react from 0.344.0 to 0.546.0 | Medium | [#146](https://github.com/Ojas-Arora/SapneSeSafar/pull/146) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.24 | Medium | [#145](https://github.com/Ojas-Arora/SapneSeSafar/pull/145) |
 | Bump framer-motion from 11.18.2 to 12.23.24 | Medium | [#143](https://github.com/Ojas-Arora/SapneSeSafar/pull/143) |
-| Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.0 | Medium | [#142](https://github.com/Ojas-Arora/SapneSeSafar/pull/142) |
 | Bump react-router-dom from 6.28.2 to 7.9.4 | Medium | [#140](https://github.com/Ojas-Arora/SapneSeSafar/pull/140) |
 | Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
-| Bump @vitejs/plugin-react from 4.3.2 to 5.0.4 | Medium | [#127](https://github.com/Ojas-Arora/SapneSeSafar/pull/127) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
