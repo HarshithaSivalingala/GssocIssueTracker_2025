@@ -141,6 +141,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| fix: Fix error 500 for OWASP Virtual Chapter | Medium | [#2481](https://github.com/OWASP/Nest/pull/2481) |
 | feature: extend markdown features to improve content display and interactivity | Medium | [#2477](https://github.com/OWASP/Nest/pull/2477) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
 | Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
@@ -149,7 +150,6 @@
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
-| Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
@@ -160,7 +160,6 @@
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
-| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -179,7 +178,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix sequential checkbox logic and persist state | Medium | [#521](https://github.com/Ayushjhawar8/Flavor-ai/pull/521) |
+| UI: Missing border on 'Show Categories' button and unwanted GitHub logo on star button. | Medium | [#522](https://github.com/Ayushjhawar8/Flavor-ai/issues/522) |
 
 ---
 
@@ -381,10 +380,11 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Real-Time Strong Password Validation to Registration Page | Easy | [#359](https://github.com/Muneerali199/DocMagic/issues/359) |
+| Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
 | Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#361](https://github.com/Muneerali199/DocMagic/pull/361) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
-| Several component of the home page isn't responsive. [OSCI] | Medium | [#349](https://github.com/Muneerali199/DocMagic/issues/349) |
 | Add structure.txt file | Medium | [#348](https://github.com/Muneerali199/DocMagic/pull/348) |
 | Add project structure documentation | Medium | [#347](https://github.com/Muneerali199/DocMagic/issues/347) |
 | fix bug and profile page [OSCI] | Medium | [#346](https://github.com/Muneerali199/DocMagic/pull/346) |
@@ -440,6 +440,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesign & Enhancement of CONTRIBUTING.md for CineVerse | Easy | [#91](https://github.com/rahulkhandait-sde/cineverse/issues/91) |
+| Fixed header alignment issue | Medium | [#92](https://github.com/rahulkhandait-sde/cineverse/pull/92) |
 | Add GSSoC'25 Announcement in Readme. | Medium | [#90](https://github.com/rahulkhandait-sde/cineverse/issues/90) |
 | Enhanced Readability and Search Experience on "Genres" Page | Medium | [#89](https://github.com/rahulkhandait-sde/cineverse/pull/89) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
@@ -498,7 +499,18 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
+| chore: bump @docusaurus/core from 3.9.1 to 3.9.2 | Easy | [#1065](https://github.com/recodehive/recode-website/pull/1065) |
+| chore: bump tailwindcss from 4.1.14 to 4.1.16 | Easy | [#1064](https://github.com/recodehive/recode-website/pull/1064) |
+| chore: bump @docusaurus/module-type-aliases from 3.9.1 to 3.9.2 | Easy | [#1063](https://github.com/recodehive/recode-website/pull/1063) |
+| chore: bump lint-staged from 16.2.4 to 16.2.6 | Easy | [#1062](https://github.com/recodehive/recode-website/pull/1062) |
+| chore: bump @docusaurus/theme-mermaid from 3.9.1 to 3.9.2 | Easy | [#1061](https://github.com/recodehive/recode-website/pull/1061) |
+| #1017 Hamburger Menu Appears but Doesn't Display Content Between 1300px and 996px Screen Width | Easy | [#1060](https://github.com/recodehive/recode-website/pull/1060) |
+| feat: Add SQL Transactions & Concurrency documentation | Easy | [#1058](https://github.com/recodehive/recode-website/pull/1058) |
+| Updated logos of companies in Courses page | Easy | [#1057](https://github.com/recodehive/recode-website/pull/1057) |
+| fix(ui): Resolve author profile overlap and remove redundant bio block | Easy | [#1056](https://github.com/recodehive/recode-website/pull/1056) |
+| feat(python): Added Data Structures in Python #1038 | Easy | [#1055](https://github.com/recodehive/recode-website/pull/1055) |
+| 🐞[Bug]: Author Profile UI Overlap and Messed-Up Structure on Blog/Author Page | Easy | [#1054](https://github.com/recodehive/recode-website/issues/1054) |
+| fix image visibility in docs ->next.js | Easy | [#1051](https://github.com/recodehive/recode-website/pull/1051) |
 
 ---
 
@@ -634,7 +646,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Added Profile Page to manage user profile | Medium | [#103](https://github.com/sristy17/next-payroll/pull/103) |
 | fix css | Medium | [#102](https://github.com/sristy17/next-payroll/issues/102) |
 | Fix/add payment page validation | Medium | [#101](https://github.com/sristy17/next-payroll/pull/101) |
-| Fix: Sidebar visible in Help and Contact Us modal | Medium | [#92](https://github.com/sristy17/next-payroll/pull/92) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
 | feat: fetch_business_type | Hard | [#89](https://github.com/sristy17/next-payroll/issues/89) |
 
@@ -786,6 +797,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Personalization and Analytics Widgets | Medium | [#294](https://github.com/AditiGupta-tech/neonest/pull/294) |
 | fix: remove unused import, fix HTML entities, improve dark mode & accessibility in Homepage.js | Medium | [#293](https://github.com/AditiGupta-tech/neonest/pull/293) |
 | Create dynamic authentication setup with supabase and with additional providers like Google or GitHub | Medium | [#292](https://github.com/AditiGupta-tech/neonest/issues/292) |
 | Updated chatbot feature | Medium | [#291](https://github.com/AditiGupta-tech/neonest/pull/291) |
@@ -1112,7 +1124,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add Hover Effects and Tooltips to  “Export Chat” and “Clear Chat” Buttons | Medium | [#130](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/130) |
+| Feature: Added Buttons Hover Style | Medium | [#131](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/131) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
