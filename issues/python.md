@@ -227,6 +227,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| fix: Fix error 500 for OWASP Virtual Chapter | Medium | [#2481](https://github.com/OWASP/Nest/pull/2481) |
 | feature: extend markdown features to improve content display and interactivity | Medium | [#2477](https://github.com/OWASP/Nest/pull/2477) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
 | Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
@@ -235,7 +236,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
-| Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
@@ -246,7 +246,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
 | Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
-| Privacy Policy Page Implementation | Medium | [#2325](https://github.com/OWASP/Nest/issues/2325) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -563,6 +562,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(#340): prevent non-plant images from being analyzed by adding MobileNet-based plant validation before disease prediction | Medium | [#439](https://github.com/omroy07/AgriTech/pull/439) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
@@ -866,6 +866,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make Category Cards Clickable for Direct Navigation | Medium | [#617](https://github.com/eccentriccoder01/TalkHeal/issues/617) |
 | UI/UX Enhancement: Improve Login Form Design and Responsiveness and validation | Medium | [#512](https://github.com/eccentriccoder01/TalkHeal/issues/512) |
 | Making sidebar organized. | Medium | [#500](https://github.com/eccentriccoder01/TalkHeal/issues/500) |
 | Hardcoded File Paths Cause Cross-Platform Compatibility Issues | Medium | [#499](https://github.com/eccentriccoder01/TalkHeal/issues/499) |
@@ -1306,7 +1307,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create extension support for different IDEs | Medium | [#71](https://github.com/Xenonesis/code-guardian-report/pull/71) |
-| feat: Implement GitHub Repository Analysis feature | Medium | [#69](https://github.com/Xenonesis/code-guardian-report/pull/69) |
 | Add "Back to Top" button in README | Medium | [#61](https://github.com/Xenonesis/code-guardian-report/issues/61) |
 | Feature Request: Add search bar | Medium | [#60](https://github.com/Xenonesis/code-guardian-report/issues/60) |
 | Creation of Contact Us Section | Medium | [#56](https://github.com/Xenonesis/code-guardian-report/issues/56) |
@@ -1317,6 +1317,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Feat: #14 Implement live code diff viewer with local data source | Medium | [#33](https://github.com/Xenonesis/code-guardian-report/pull/33) |
 | Add more info support | Medium | [#25](https://github.com/Xenonesis/code-guardian-report/issues/25) |
 | add special support of C/C++/C# projects | Hard | [#7](https://github.com/Xenonesis/code-guardian-report/issues/7) |
+| Add more open source Dependencies | Hard | [#5](https://github.com/Xenonesis/code-guardian-report/issues/5) |
 
 ---
 
@@ -1741,6 +1742,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Sidebar Text Visibility Bug + Dashboard Styling Improvements | Easy | [#37](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/37) |
+| Ci for autocomment | Medium | [#58](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/58) |
 | Update Project Structure in README.md | Medium | [#53](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/53) |
 | Dynamic Crop-Based Yield Map on Streamlit | Medium | [#50](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/50) |
 
@@ -1841,7 +1843,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add Hover Effects and Tooltips to  “Export Chat” and “Clear Chat” Buttons | Medium | [#130](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/130) |
+| Feature: Added Buttons Hover Style | Medium | [#131](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/131) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
