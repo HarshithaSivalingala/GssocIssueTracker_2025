@@ -40,7 +40,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix sequential checkbox logic and persist state | Medium | [#521](https://github.com/Ayushjhawar8/Flavor-ai/pull/521) |
+| UI: Missing border on 'Show Categories' button and unwanted GitHub logo on star button. | Medium | [#522](https://github.com/Ayushjhawar8/Flavor-ai/issues/522) |
 
 ---
 
