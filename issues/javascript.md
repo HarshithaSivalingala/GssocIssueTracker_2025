@@ -272,7 +272,6 @@
 | Footer background color inconsistent with overall website theme | Easy | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
 | 🚨 [BUG] Firebase Authentication Error: “auth/unauthorized-domain” on Login and Signup Pages | Medium | [#227](https://github.com/SrigadaAkshayKumar/stock/issues/227) |
 | Add GSSoC'25 Banner | Medium | [#226](https://github.com/SrigadaAkshayKumar/stock/issues/226) |
-| Fix #62: Reduce YFinance API limit errors with batching, caching, ret… | Medium | [#225](https://github.com/SrigadaAkshayKumar/stock/pull/225) |
 | UI enhancement | Medium | [#224](https://github.com/SrigadaAkshayKumar/stock/issues/224) |
 | Updated Twitter icon | Medium | [#223](https://github.com/SrigadaAkshayKumar/stock/pull/223) |
 | Title Color | Medium | [#222](https://github.com/SrigadaAkshayKumar/stock/issues/222) |
@@ -304,6 +303,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancing feedback page | Medium | [#1701](https://github.com/itsAnimation/AnimateItNow/issues/1701) |
 | “Run” Button Overflows on Mobile in Editor Section | Medium | [#1696](https://github.com/itsAnimation/AnimateItNow/issues/1696) |
 | dark/light theme for signup implemented | Medium | [#1692](https://github.com/itsAnimation/AnimateItNow/pull/1692) |
 | Improved UI/UX by updating colors and removing 'Get Started' button | Medium | [#1691](https://github.com/itsAnimation/AnimateItNow/pull/1691) |
@@ -715,6 +715,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Update Chatbot.jsx | Medium | [#583](https://github.com/Mujtabaa07/coffeeShop/pull/583) |
 | Enhance the customer say page | Medium | [#582](https://github.com/Mujtabaa07/coffeeShop/issues/582) |
 | Add Light/Dark Theme Toggle Feature to the Website | Medium | [#581](https://github.com/Mujtabaa07/coffeeShop/issues/581) |
 | Search Functionality Fails to Display Results or No-Result Popup; AI Chatbot Gives Irrelevant Responses to Product Queries | Medium | [#580](https://github.com/Mujtabaa07/coffeeShop/issues/580) |
@@ -741,7 +742,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add live password strength checklist on Signup page | Medium | [#559](https://github.com/Mujtabaa07/coffeeShop/issues/559) |
 | Feat/razorpay integration | Medium | [#558](https://github.com/Mujtabaa07/coffeeShop/pull/558) |
 | Fix #500 :Added scroll and page loading progress bars for better UX | Medium | [#557](https://github.com/Mujtabaa07/coffeeShop/pull/557) |
-| <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
 
 ---
 
@@ -1074,7 +1074,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added typing speed checker game | Medium | [#831](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/831) |
 | #759 -Day62 Expense splitter - Added Frontend Project | Medium | [#829](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/829) |
 | added mood based music player | Medium | [#824](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/824) |
 | Add a email masker project | Medium | [#822](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/822) |
@@ -1096,6 +1095,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Added appropriate font color to PROJECT SHOWCASE | Medium | [#791](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/791) |
 | fix: Day 59 - Introducing CLICKBAIT (The memory game) | Medium | [#790](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/790) |
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
+| Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
 
 ---
 
@@ -1133,18 +1133,13 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump @docusaurus/core from 3.9.1 to 3.9.2 | Easy | [#1065](https://github.com/recodehive/recode-website/pull/1065) |
-| chore: bump tailwindcss from 4.1.14 to 4.1.16 | Easy | [#1064](https://github.com/recodehive/recode-website/pull/1064) |
-| chore: bump @docusaurus/module-type-aliases from 3.9.1 to 3.9.2 | Easy | [#1063](https://github.com/recodehive/recode-website/pull/1063) |
-| chore: bump lint-staged from 16.2.4 to 16.2.6 | Easy | [#1062](https://github.com/recodehive/recode-website/pull/1062) |
-| chore: bump @docusaurus/theme-mermaid from 3.9.1 to 3.9.2 | Easy | [#1061](https://github.com/recodehive/recode-website/pull/1061) |
-| #1017 Hamburger Menu Appears but Doesn't Display Content Between 1300px and 996px Screen Width | Easy | [#1060](https://github.com/recodehive/recode-website/pull/1060) |
-| feat: Add SQL Transactions & Concurrency documentation | Easy | [#1058](https://github.com/recodehive/recode-website/pull/1058) |
-| Updated logos of companies in Courses page | Easy | [#1057](https://github.com/recodehive/recode-website/pull/1057) |
-| fix(ui): Resolve author profile overlap and remove redundant bio block | Easy | [#1056](https://github.com/recodehive/recode-website/pull/1056) |
-| feat(python): Added Data Structures in Python #1038 | Easy | [#1055](https://github.com/recodehive/recode-website/pull/1055) |
-| 🐞[Bug]: Author Profile UI Overlap and Messed-Up Structure on Blog/Author Page | Easy | [#1054](https://github.com/recodehive/recode-website/issues/1054) |
-| fix image visibility in docs ->next.js | Easy | [#1051](https://github.com/recodehive/recode-website/pull/1051) |
+| technical page visible upon clicking explore | Easy | [#1076](https://github.com/recodehive/recode-website/pull/1076) |
+| Fix/ebooks searchbar theme dark mode | Easy | [#1075](https://github.com/recodehive/recode-website/pull/1075) |
+| fix(TOS): improve grammar, clarity, and UI for Terms of Service page | Easy | [#1074](https://github.com/recodehive/recode-website/pull/1074) |
+| #975 Navigation Dots Not Visible When Active | Easy | [#1071](https://github.com/recodehive/recode-website/pull/1071) |
+| Enhance GitHub Introduction with Troubleshooting and Practical Examples | Easy | [#1069](https://github.com/recodehive/recode-website/pull/1069) |
+| Fix: Standardize UI/UX for GitHub Badges | Easy | [#1068](https://github.com/recodehive/recode-website/pull/1068) |
+| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
 
@@ -1480,11 +1475,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Personalization and Analytics Widgets | Medium | [#294](https://github.com/AditiGupta-tech/neonest/pull/294) |
-| fix: remove unused import, fix HTML entities, improve dark mode & accessibility in Homepage.js | Medium | [#293](https://github.com/AditiGupta-tech/neonest/pull/293) |
-| Create dynamic authentication setup with supabase and with additional providers like Google or GitHub | Medium | [#292](https://github.com/AditiGupta-tech/neonest/issues/292) |
-| Updated chatbot feature | Medium | [#291](https://github.com/AditiGupta-tech/neonest/pull/291) |
-| Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
+| Enhancement: Add Resources in Resource Page #13 | Medium | [#301](https://github.com/AditiGupta-tech/neonest/pull/301) |
+| Refactor Chatbot Page Layout & Add Past Chats Panel with PDF Export | Medium | [#299](https://github.com/AditiGupta-tech/neonest/pull/299) |
+| Added Personalization & Analytics Widgets Feature | Medium | [#298](https://github.com/AditiGupta-tech/neonest/pull/298) |
+| Janhvigupta/addreview | Medium | [#297](https://github.com/AditiGupta-tech/neonest/pull/297) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -2137,8 +2131,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhanced login & Sign-in UI/UX Sheet | Medium | [#56](https://github.com/AKing-283/Rewear/pull/56) |
-| Made the form titles visible in dark mode | Medium | [#54](https://github.com/AKing-283/Rewear/pull/54) |
 | Add Contact Section | Medium | [#51](https://github.com/AKing-283/Rewear/issues/51) |
 | Add Shipping Section | Medium | [#50](https://github.com/AKing-283/Rewear/issues/50) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
@@ -2642,7 +2634,6 @@ Fast Workflow Tools
 | Code Structure Fix - Separate JavaScript into an External File | Medium | [#10](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/10) |
 | Missing Error Handling: File Read | Medium | [#9](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/9) |
 | Code Structure Issue: HTML and CSS combined in a single file | Medium | [#8](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/8) |
-| Fix Responsivness | Medium | [#7](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/7) |
 | Add Flask Backend to Implement Core Functionality | Medium | [#6](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/6) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#5](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/5) |
 | Add a Comprehensive `README.md` File for Better Project Documentation | Medium | [#4](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/4) |
