@@ -52,7 +52,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Video Page changes-Backend and Frontend | Medium | [#608](https://github.com/abhisek2004/Dev-Elevate/pull/608) |
+| Quiz Page | Medium | [#610](https://github.com/abhisek2004/Dev-Elevate/pull/610) |
 
 ---
 
@@ -154,6 +154,8 @@ Accessibility features like dark mode,white.
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
+| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
+| 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
 
 ---
 
@@ -391,6 +393,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed : Improve CONTRIBUTING.md UI & Formatting | Medium | [#883](https://github.com/HarshS16/Civix/pull/883) |
 | Add project structure section to README | Medium | [#882](https://github.com/HarshS16/Civix/pull/882) |
 | Adding stunning landing page | Medium | [#878](https://github.com/HarshS16/Civix/issues/878) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
@@ -694,9 +697,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
-| Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
-| Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
@@ -849,6 +849,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Frontend Development | Medium | [#331](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/331) |
 | Improve Profile Dropdown Layout & Visual Hierarchy | Medium | [#330](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/330) |
 | 🌗 Feature Request: Add Light and Dark Mode Toggle | Medium | [#329](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/329) |
 | UI Enhancement: Improve Navbar Design & Overall Background Aesthetic | Medium | [#328](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/328) |
@@ -862,7 +863,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | No Search Icon in Blog section while searching for blogs | Medium | [#304](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/304) |
 | Fix: Login, Signup, Forgot Password UI fixed | Medium | [#303](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/303) |
 | Secure Google Sign-In Integration | Medium | [#267](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/267) |
-| 🔐 Add Google OAuth for Easy Signup and Signin | Medium | [#263](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/263) |
 
 ---
 
@@ -951,9 +951,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
-| Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
-| Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
@@ -1154,6 +1151,7 @@ Why Jeanne?
 |----------|----------------|---------|
 | changes in the ui for the contributors section | Easy | [#303](https://github.com/dipexplorer/LegalHuB/pull/303) |
 | 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
+| Implement Search, Sort, and Filter Controls for contributor page | Hard | [#226](https://github.com/dipexplorer/LegalHuB/issues/226) |
 
 ---
 
