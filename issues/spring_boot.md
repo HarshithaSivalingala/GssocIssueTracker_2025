@@ -51,17 +51,7 @@
 | Improved Product Details screen UI and fixed layout consistency | Medium | [#501](https://github.com/yuvrajsinghgmx/ShopSmart/pull/501) |
 | Create dedicated READMEs for app, backend, and admin projects Body | Medium | [#500](https://github.com/yuvrajsinghgmx/ShopSmart/issues/500) |
 | Update User Location after each /load | Medium | [#492](https://github.com/yuvrajsinghgmx/ShopSmart/issues/492) |
-| Screen for "See All" for Nearby Produts" | Medium | [#489](https://github.com/yuvrajsinghgmx/ShopSmart/issues/489) |
-| Screen for "See All" for Nearby Shops | Medium | [#488](https://github.com/yuvrajsinghgmx/ShopSmart/issues/488) |
-| Structure ShopOwner Profile | Medium | [#487](https://github.com/yuvrajsinghgmx/ShopSmart/issues/487) |
-| Implement Orders Section | Medium | [#486](https://github.com/yuvrajsinghgmx/ShopSmart/issues/486) |
-| Implement Cart Section | Medium | [#485](https://github.com/yuvrajsinghgmx/ShopSmart/issues/485) |
-| Master Issue for Backend  and Admin Panel | Medium | [#461](https://github.com/yuvrajsinghgmx/ShopSmart/issues/461) |
-| Master Issue for tracking Compose Dev. | Medium | [#454](https://github.com/yuvrajsinghgmx/ShopSmart/issues/454) |
-| Remove uri to file  for the image upload in onboarding screen. | Medium | [#416](https://github.com/yuvrajsinghgmx/ShopSmart/issues/416) |
 | Proguard Rules | Medium | [#388](https://github.com/yuvrajsinghgmx/ShopSmart/issues/388) |
-| Make User Profile Screen Functional show the details from the SharedPrefs | Medium | [#369](https://github.com/yuvrajsinghgmx/ShopSmart/issues/369) |
-| See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
 
