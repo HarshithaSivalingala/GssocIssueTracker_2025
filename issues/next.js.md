@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: corrected category selection indicator alignment (UI Bug #248) | Medium | [#280](https://github.com/iaadillatif/techxninjas-client/pull/280) |
 | Add GSSoC'25 Banner. | Medium | [#279](https://github.com/iaadillatif/techxninjas-client/issues/279) |
 | Hover effect missing on feature buttons in hero section (UX improvement) | Medium | [#278](https://github.com/iaadillatif/techxninjas-client/issues/278) |
 | Feedback page | Medium | [#277](https://github.com/iaadillatif/techxninjas-client/pull/277) |
@@ -41,7 +42,6 @@
 | Added documentation | Medium | [#251](https://github.com/iaadillatif/techxninjas-client/pull/251) |
 | Add Documentation & Performance Issue Templates + PR Template | Medium | [#250](https://github.com/iaadillatif/techxninjas-client/issues/250) |
 | Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
-| fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 
 ---
 
@@ -140,7 +140,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
 | fix: Fix error 500 for OWASP Virtual Chapter | Medium | [#2481](https://github.com/OWASP/Nest/pull/2481) |
 | feature: extend markdown features to improve content display and interactivity | Medium | [#2477](https://github.com/OWASP/Nest/pull/2477) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
@@ -156,29 +155,7 @@
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /backend/docker | Medium | [#2395](https://github.com/OWASP/Nest/pull/2395) |
-| Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
-| Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
-| Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
-| Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
-
----
-
-## 📌 Project: Flavor Ai
-
-📝 **Description:** This project is designed to make meal planning and recipe exploration effortless and fun. Whether you're looking for AI-curated recipes, diverse food categories, or exciting culinary surprises, FlavorAI has it all.
-
-🔗 [View Project](https://github.com/Ayushjhawar8/Flavor-ai)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, DaisyUI, OpenAI API, Groq API, Vercel
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| UI: Missing border on 'Show Categories' button and unwanted GitHub logo on star button. | Medium | [#522](https://github.com/Ayushjhawar8/Flavor-ai/issues/522) |
 
 ---
 
@@ -381,6 +358,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Real-Time Strong Password Validation to Registration Page | Easy | [#359](https://github.com/Muneerali199/DocMagic/issues/359) |
+| Fixed (testimonials): No duplicate testimonials and smooth animation (fixes #364) | Medium | [#365](https://github.com/Muneerali199/DocMagic/pull/365) |
 | Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
 | Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#361](https://github.com/Muneerali199/DocMagic/pull/361) |
@@ -396,7 +374,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/DocMagic/pull/323) |
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
-| Want to improve the section | Medium | [#308](https://github.com/Muneerali199/DocMagic/issues/308) |
 
 ---
 
@@ -499,18 +476,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump @docusaurus/core from 3.9.1 to 3.9.2 | Easy | [#1065](https://github.com/recodehive/recode-website/pull/1065) |
-| chore: bump tailwindcss from 4.1.14 to 4.1.16 | Easy | [#1064](https://github.com/recodehive/recode-website/pull/1064) |
-| chore: bump @docusaurus/module-type-aliases from 3.9.1 to 3.9.2 | Easy | [#1063](https://github.com/recodehive/recode-website/pull/1063) |
-| chore: bump lint-staged from 16.2.4 to 16.2.6 | Easy | [#1062](https://github.com/recodehive/recode-website/pull/1062) |
-| chore: bump @docusaurus/theme-mermaid from 3.9.1 to 3.9.2 | Easy | [#1061](https://github.com/recodehive/recode-website/pull/1061) |
-| #1017 Hamburger Menu Appears but Doesn't Display Content Between 1300px and 996px Screen Width | Easy | [#1060](https://github.com/recodehive/recode-website/pull/1060) |
-| feat: Add SQL Transactions & Concurrency documentation | Easy | [#1058](https://github.com/recodehive/recode-website/pull/1058) |
-| Updated logos of companies in Courses page | Easy | [#1057](https://github.com/recodehive/recode-website/pull/1057) |
-| fix(ui): Resolve author profile overlap and remove redundant bio block | Easy | [#1056](https://github.com/recodehive/recode-website/pull/1056) |
-| feat(python): Added Data Structures in Python #1038 | Easy | [#1055](https://github.com/recodehive/recode-website/pull/1055) |
-| 🐞[Bug]: Author Profile UI Overlap and Messed-Up Structure on Blog/Author Page | Easy | [#1054](https://github.com/recodehive/recode-website/issues/1054) |
-| fix image visibility in docs ->next.js | Easy | [#1051](https://github.com/recodehive/recode-website/pull/1051) |
+| technical page visible upon clicking explore | Easy | [#1076](https://github.com/recodehive/recode-website/pull/1076) |
+| Fix/ebooks searchbar theme dark mode | Easy | [#1075](https://github.com/recodehive/recode-website/pull/1075) |
+| fix(TOS): improve grammar, clarity, and UI for Terms of Service page | Easy | [#1074](https://github.com/recodehive/recode-website/pull/1074) |
+| #975 Navigation Dots Not Visible When Active | Easy | [#1071](https://github.com/recodehive/recode-website/pull/1071) |
+| Enhance GitHub Introduction with Troubleshooting and Practical Examples | Easy | [#1069](https://github.com/recodehive/recode-website/pull/1069) |
+| Fix: Standardize UI/UX for GitHub Badges | Easy | [#1068](https://github.com/recodehive/recode-website/pull/1068) |
+| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
 
@@ -797,11 +769,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Personalization and Analytics Widgets | Medium | [#294](https://github.com/AditiGupta-tech/neonest/pull/294) |
-| fix: remove unused import, fix HTML entities, improve dark mode & accessibility in Homepage.js | Medium | [#293](https://github.com/AditiGupta-tech/neonest/pull/293) |
-| Create dynamic authentication setup with supabase and with additional providers like Google or GitHub | Medium | [#292](https://github.com/AditiGupta-tech/neonest/issues/292) |
-| Updated chatbot feature | Medium | [#291](https://github.com/AditiGupta-tech/neonest/pull/291) |
-| Add delete all option | Medium | [#288](https://github.com/AditiGupta-tech/neonest/pull/288) |
+| Enhancement: Add Resources in Resource Page #13 | Medium | [#301](https://github.com/AditiGupta-tech/neonest/pull/301) |
+| Refactor Chatbot Page Layout & Add Past Chats Panel with PDF Export | Medium | [#299](https://github.com/AditiGupta-tech/neonest/pull/299) |
+| Added Personalization & Analytics Widgets Feature | Medium | [#298](https://github.com/AditiGupta-tech/neonest/pull/298) |
+| Janhvigupta/addreview | Medium | [#297](https://github.com/AditiGupta-tech/neonest/pull/297) |
 | Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
@@ -1124,7 +1095,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Added Buttons Hover Style | Medium | [#131](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/131) |
+| OTHER: Update Testimonials | Medium | [#132](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/132) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
