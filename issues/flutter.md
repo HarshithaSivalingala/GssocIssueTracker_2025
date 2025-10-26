@@ -94,9 +94,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
-| Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
-| Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
@@ -118,7 +115,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implemented Comprehensive Testing Suite #114 Level 3 | Medium | [#127](https://github.com/may-tas/TextEditingApp/pull/127) |
+| Optimize Performance for Large Canvases with Many Elements | Easy | [#115](https://github.com/may-tas/TextEditingApp/issues/115) |
 | Web-Specifc Optimization with PWA Features #118 Level 3 | Medium | [#126](https://github.com/may-tas/TextEditingApp/pull/126) |
 
 ---
@@ -162,9 +159,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Logging in Inner Screens (Part 7) | Easy | [#310](https://github.com/Yash159357/BlyFt/issues/310) |
-| Logging in Inner Screens (Part 6) | Easy | [#309](https://github.com/Yash159357/BlyFt/issues/309) |
-| Logging in Inner Screens (Part 5) | Easy | [#308](https://github.com/Yash159357/BlyFt/issues/308) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
