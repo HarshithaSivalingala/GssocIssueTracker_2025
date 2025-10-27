@@ -57,12 +57,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(docs): Add Local Build & Test Guide using build.py | Easy | [#151](https://github.com/SharonIV0x86/CinderPeak/issues/151) |
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(adjlist): Implement impl_hasVertex(const VertexType &v) in AdjacencyList.hpp | Easy | [#116](https://github.com/SharonIV0x86/CinderPeak/issues/116) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
+| refactor(tests): Split AdjacencyList unit tests per #113 | Medium | [#153](https://github.com/SharonIV0x86/CinderPeak/pull/153) |
 | feat(policies): Improved tests for Throw And LogConsole policy | Medium | [#150](https://github.com/SharonIV0x86/CinderPeak/pull/150) |
-| feat(policies): Added tests for Ignore And LogConsole policy | Medium | [#149](https://github.com/SharonIV0x86/CinderPeak/pull/149) |
 | feat(tests): Add tests for Ignore and ConsoleAndFile policy | Medium | [#145](https://github.com/SharonIV0x86/CinderPeak/issues/145) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#128](https://github.com/SharonIV0x86/CinderPeak/issues/128) |
 
