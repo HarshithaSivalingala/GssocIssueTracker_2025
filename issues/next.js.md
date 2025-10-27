@@ -14,12 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Secure Notifications Center with RLS and Theming (Closes Issue #31) | Medium | [#281](https://github.com/iaadillatif/techxninjas-client/pull/281) |
 | fix: corrected category selection indicator alignment (UI Bug #248) | Medium | [#280](https://github.com/iaadillatif/techxninjas-client/pull/280) |
 | Add GSSoC'25 Banner. | Medium | [#279](https://github.com/iaadillatif/techxninjas-client/issues/279) |
 | Hover effect missing on feature buttons in hero section (UX improvement) | Medium | [#278](https://github.com/iaadillatif/techxninjas-client/issues/278) |
 | Feedback page | Medium | [#277](https://github.com/iaadillatif/techxninjas-client/pull/277) |
 | Add feature | Medium | [#276](https://github.com/iaadillatif/techxninjas-client/pull/276) |
-| Telegram QR Code Added when channel link is not accessible | Medium | [#275](https://github.com/iaadillatif/techxninjas-client/pull/275) |
+| Telegram QR Code Added when channel link is not accessible (#33) | Medium | [#275](https://github.com/iaadillatif/techxninjas-client/pull/275) |
 | docs: Add contributors section to README | Medium | [#273](https://github.com/iaadillatif/techxninjas-client/pull/273) |
 | feat: Replace animated background with a performance-friendly CSS gradient | Medium | [#272](https://github.com/iaadillatif/techxninjas-client/pull/272) |
 | Edit light/dark mode issue to home page | Medium | [#271](https://github.com/iaadillatif/techxninjas-client/pull/271) |
@@ -101,6 +102,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ui enhancement | Medium | [#135](https://github.com/amitkumardemo/EdgeCareer/issues/135) |
 | Implement PDF export for generated resumes (#111) | Medium | [#134](https://github.com/amitkumardemo/EdgeCareer/pull/134) |
 | fix: improved the file's structure, user engagement, and maintainability | Medium | [#133](https://github.com/amitkumardemo/EdgeCareer/pull/133) |
 | Make Header fully responsive across all devices | Medium | [#132](https://github.com/amitkumardemo/EdgeCareer/pull/132) |
@@ -122,7 +124,6 @@
 | feat: add AI-powered career guidance feature with new page and lib module | Medium | [#109](https://github.com/amitkumardemo/EdgeCareer/pull/109) |
 | Fix: Improve icon visibility for theme toggle (issue #63) | Medium | [#108](https://github.com/amitkumardemo/EdgeCareer/pull/108) |
 | HeroSection hydration mismatch and deterministic floating elements | Medium | [#105](https://github.com/amitkumardemo/EdgeCareer/pull/105) |
-| PDF download fails with "Unknown source type" error | Medium | [#104](https://github.com/amitkumardemo/EdgeCareer/issues/104) |
 
 ---
 
@@ -140,12 +141,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| refactor: frontend functions to reduce deep nesting violations | Medium | [#2491](https://github.com/OWASP/Nest/pull/2491) |
+| feat: rename RepositoriesCard to RepositoryCard and add cursor pointe… | Medium | [#2490](https://github.com/OWASP/Nest/pull/2490) |
+| Refactor: replaced all forEach with for...of loop | Medium | [#2489](https://github.com/OWASP/Nest/pull/2489) |
 | fix: Fix error 500 for OWASP Virtual Chapter | Medium | [#2481](https://github.com/OWASP/Nest/pull/2481) |
 | feature: extend markdown features to improve content display and interactivity | Medium | [#2477](https://github.com/OWASP/Nest/pull/2477) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
 | Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
 | Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
-| Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
@@ -154,7 +157,6 @@
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
-| Bump python from 3.13.7-alpine to 3.14.0-alpine in /backend/docker | Medium | [#2395](https://github.com/OWASP/Nest/pull/2395) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -293,7 +295,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-|  | Medium | [#275](https://github.com/mansiruhil/fail-u-forward/issues/275) |
 | 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/mansiruhil/fail-u-forward/issues/268) |
 | Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/mansiruhil/fail-u-forward/issues/264) |
 | Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/mansiruhil/fail-u-forward/issues/263) |
@@ -358,7 +359,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Real-Time Strong Password Validation to Registration Page | Easy | [#359](https://github.com/Muneerali199/DocMagic/issues/359) |
-| Fixed (testimonials): No duplicate testimonials and smooth animation (fixes #364) | Medium | [#365](https://github.com/Muneerali199/DocMagic/pull/365) |
 | Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
 | Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#361](https://github.com/Muneerali199/DocMagic/pull/361) |
@@ -476,12 +476,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| technical page visible upon clicking explore | Easy | [#1076](https://github.com/recodehive/recode-website/pull/1076) |
-| Fix/ebooks searchbar theme dark mode | Easy | [#1075](https://github.com/recodehive/recode-website/pull/1075) |
-| fix(TOS): improve grammar, clarity, and UI for Terms of Service page | Easy | [#1074](https://github.com/recodehive/recode-website/pull/1074) |
-| #975 Navigation Dots Not Visible When Active | Easy | [#1071](https://github.com/recodehive/recode-website/pull/1071) |
-| Enhance GitHub Introduction with Troubleshooting and Practical Examples | Easy | [#1069](https://github.com/recodehive/recode-website/pull/1069) |
-| Fix: Standardize UI/UX for GitHub Badges | Easy | [#1068](https://github.com/recodehive/recode-website/pull/1068) |
+| docs: add comprehensive introduction to Pandas library for Python | Easy | [#1084](https://github.com/recodehive/recode-website/pull/1084) |
+| fix: tab navigation from practice tab to other tabs in interview prep page | Easy | [#1083](https://github.com/recodehive/recode-website/pull/1083) |
+| #1070 Terms of Service Documentation Update | Easy | [#1081](https://github.com/recodehive/recode-website/pull/1081) |
+| #1073 Podcast Page “No Podcasts Found” and Suggestion Text Displayed on Single Line | Easy | [#1080](https://github.com/recodehive/recode-website/pull/1080) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -501,7 +499,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
-| Unify Streak Source of Truth Across Client & Backend (Fixes #448) | Medium | [#453](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/453) |
 | OAuth Sign-In Fails with Firebase | Medium | [#452](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/452) |
 | Add PasswordGenerator component for password management | Medium | [#451](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/451) |
 | Add PasswordGenerator component for password management | Medium | [#450](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/450) |
@@ -769,6 +766,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
 | Enhancement: Add Resources in Resource Page #13 | Medium | [#301](https://github.com/AditiGupta-tech/neonest/pull/301) |
 | Refactor Chatbot Page Layout & Add Past Chats Panel with PDF Export | Medium | [#299](https://github.com/AditiGupta-tech/neonest/pull/299) |
 | Added Personalization & Analytics Widgets Feature | Medium | [#298](https://github.com/AditiGupta-tech/neonest/pull/298) |
@@ -1095,7 +1093,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| OTHER: Update Testimonials | Medium | [#132](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/132) |
+| Add voice input feature to chat interface | Medium | [#133](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/133) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
