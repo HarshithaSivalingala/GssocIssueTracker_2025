@@ -97,7 +97,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-|  | Medium | [#275](https://github.com/mansiruhil/fail-u-forward/issues/275) |
 | 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/mansiruhil/fail-u-forward/issues/268) |
 | Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/mansiruhil/fail-u-forward/issues/264) |
 | Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/mansiruhil/fail-u-forward/issues/263) |
@@ -513,6 +512,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improved footer section | Medium | [#166](https://github.com/Varshitha713/CodeCanvas/pull/166) |
 | Improve footer | Medium | [#165](https://github.com/Varshitha713/CodeCanvas/issues/165) |
 | Update index.html | Medium | [#163](https://github.com/Varshitha713/CodeCanvas/pull/163) |
 | Feature Request: Personal Notepad / Diary for Users | Medium | [#162](https://github.com/Varshitha713/CodeCanvas/issues/162) |
@@ -534,7 +534,6 @@
 | Feature Request: Add Profile Page with Google Sign-In (Firebase Auth) | Medium | [#96](https://github.com/Varshitha713/CodeCanvas/issues/96) |
 | ## 🚨 Feature Request: Add Login/Signup Functionality | Medium | [#87](https://github.com/Varshitha713/CodeCanvas/issues/87) |
 | Add login and logout page | Medium | [#60](https://github.com/Varshitha713/CodeCanvas/issues/60) |
-| Add Hamburger Menu for Navbar on Small Screens | Medium | [#37](https://github.com/Varshitha713/CodeCanvas/issues/37) |
 
 ---
 
