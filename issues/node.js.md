@@ -52,7 +52,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Quiz Page | Medium | [#610](https://github.com/abhisek2004/Dev-Elevate/pull/610) |
+| Admin dashboard - Add courses | Medium | [#614](https://github.com/abhisek2004/Dev-Elevate/pull/614) |
 
 ---
 
@@ -297,6 +297,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Remove console.log statements from production code | Medium | [#178](https://github.com/chandannekya/Clean-Breath/issues/178) |
 | Add Dynamic tab title/ Add Favicon / make plants page responsive / show active header item | Medium | [#177](https://github.com/chandannekya/Clean-Breath/issues/177) |
 | Add GSSoC'25 Banner. | Medium | [#176](https://github.com/chandannekya/Clean-Breath/issues/176) |
 | Enhanced landing page UI design for issue #214 | Medium | [#175](https://github.com/chandannekya/Clean-Breath/pull/175) |
@@ -325,7 +326,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Animating the sidebar(mobile view) | Medium | [#151](https://github.com/chandannekya/Clean-Breath/issues/151) |
 | Need to improve backend | Medium | [#150](https://github.com/chandannekya/Clean-Breath/issues/150) |
 | Blog text not visible in dark mode | Medium | [#149](https://github.com/chandannekya/Clean-Breath/issues/149) |
-| /store and /plant routes doesn't exist | Medium | [#148](https://github.com/chandannekya/Clean-Breath/issues/148) |
 
 ---
 
@@ -384,8 +384,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Broken Footer Navigation Links | Medium | [#94](https://github.com/Gnanaashritha/Blogging-Platform-/issues/94) |
 | Bug Fix:remove duplicate Write page while scrolling | Medium | [#93](https://github.com/Gnanaashritha/Blogging-Platform-/issues/93) |
 | Fix duplicate Write page rendering on scroll in App.tsx | Medium | [#92](https://github.com/Gnanaashritha/Blogging-Platform-/pull/92) |
-| 🐞 Bug: Users Have to Log In Repeatedly | Medium | [#91](https://github.com/Gnanaashritha/Blogging-Platform-/issues/91) |
-| 🐞 Bug: Upper Navigation Bar Hidden by Second Nav Bar | Medium | [#90](https://github.com/Gnanaashritha/Blogging-Platform-/issues/90) |
 | Designing the About and Explorer Page | Medium | [#89](https://github.com/Gnanaashritha/Blogging-Platform-/issues/89) |
 | "Explore Posts" link redirects to 404 page | Medium | [#88](https://github.com/Gnanaashritha/Blogging-Platform-/issues/88) |
 | #Bug: Repeated Content on Main Page | Medium | [#87](https://github.com/Gnanaashritha/Blogging-Platform-/pull/87) |
@@ -410,6 +408,8 @@ Schools, offices, and wellness centers looking to green their spaces
 | Trending Topics links lead to 404 pages | Medium | [#68](https://github.com/Gnanaashritha/Blogging-Platform-/issues/68) |
 | solved issue #66 Created MIT license | Medium | [#67](https://github.com/Gnanaashritha/Blogging-Platform-/pull/67) |
 | Add mit license file to the project | Medium | [#66](https://github.com/Gnanaashritha/Blogging-Platform-/issues/66) |
+| feat:redesign_responsive_navbar | Medium | [#65](https://github.com/Gnanaashritha/Blogging-Platform-/pull/65) |
+| Implement Proper Authentication Flow Connecting Backend and Frontend | Medium | [#64](https://github.com/Gnanaashritha/Blogging-Platform-/issues/64) |
 
 ---
 
@@ -838,7 +838,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve website layout and css for better user experience. | Easy | [#188](https://github.com/samarsajad/Hospital_Management_Website/issues/188) |
-| Frontend Development | Medium | [#192](https://github.com/samarsajad/Hospital_Management_Website/issues/192) |
 | Add DoctorProfilePage with doctor details and booking option | Medium | [#189](https://github.com/samarsajad/Hospital_Management_Website/pull/189) |
 | Fixing css | Medium | [#187](https://github.com/samarsajad/Hospital_Management_Website/issues/187) |
 | UI/UX Improvement: Footer Redesign | Medium | [#186](https://github.com/samarsajad/Hospital_Management_Website/issues/186) |
@@ -1019,7 +1018,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Frontend Development | Medium | [#331](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/331) |
 | Improve Profile Dropdown Layout & Visual Hierarchy | Medium | [#330](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/330) |
 | 🌗 Feature Request: Add Light and Dark Mode Toggle | Medium | [#329](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/329) |
 | UI Enhancement: Improve Navbar Design & Overall Background Aesthetic | Medium | [#328](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/328) |
@@ -1259,6 +1257,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create dev | Medium | [#195](https://github.com/DevSyncx/DevSync/pull/195) |
 | Added DevSync logo in Navbar, Footer, and favicon | Medium | [#189](https://github.com/DevSyncx/DevSync/pull/189) |
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
 | Suggestions regarding DevSync | Medium | [#176](https://github.com/DevSyncx/DevSync/issues/176) |
@@ -1281,7 +1280,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Feedback page | Medium | [#105](https://github.com/DevSyncx/DevSync/issues/105) |
 | Added AI powered chatbot integration in DevSync | Medium | [#103](https://github.com/DevSyncx/DevSync/pull/103) |
 | Backbutton | Medium | [#102](https://github.com/DevSyncx/DevSync/pull/102) |
-| Enhance Hero Section with Interactive Carousel | Medium | [#44](https://github.com/DevSyncx/DevSync/pull/44) |
 
 ---
 
@@ -2015,6 +2013,8 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
 | Add high-contrast theme toggle and test | Easy | [#37](https://github.com/x0lg0n/Boutique-To-Box/issues/37) |
 | Add ISSUE_CATALOG and Onboarding issues doc | Easy | [#35](https://github.com/x0lg0n/Boutique-To-Box/issues/35) |
+| security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
+| Blackboxai/fix virtual try on image | Medium | [#51](https://github.com/x0lg0n/Boutique-To-Box/pull/51) |
 | Integrate 32 DaisyUI Themes for Enhanced UI/UX | Medium | [#48](https://github.com/x0lg0n/Boutique-To-Box/issues/48) |
 | "Sign in with Google" button not working | Medium | [#47](https://github.com/x0lg0n/Boutique-To-Box/issues/47) |
 | 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
