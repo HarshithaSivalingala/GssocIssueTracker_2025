@@ -116,7 +116,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Optimize Performance for Large Canvases with Many Elements | Easy | [#115](https://github.com/may-tas/TextEditingApp/issues/115) |
-| Web-Specifc Optimization with PWA Features #118 Level 3 | Medium | [#126](https://github.com/may-tas/TextEditingApp/pull/126) |
 
 ---
 
