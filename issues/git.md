@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: improved UI and added Privacy Policy page (issue #201) | Medium | [#347](https://github.com/Amarjha01/InfantCareCompass/pull/347) |
 | Fixed : Enhance CONTRIBUTING.md Guidelines | Medium | [#345](https://github.com/Amarjha01/InfantCareCompass/pull/345) |
 | Update Registration.jsx | Medium | [#343](https://github.com/Amarjha01/InfantCareCompass/pull/343) |
 | Add GSSoC 2025 announcement to README | Medium | [#339](https://github.com/Amarjha01/InfantCareCompass/pull/339) |
@@ -22,7 +23,6 @@
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
-| Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
 
 ---
 
@@ -229,7 +229,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Database initialization causing errors across Login, StudentRegistration, and StudentList pages | Medium | [#80](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/80) |
 | Add Charging Cost Prediction REST API | Medium | [#49](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/49) |
 | Missing Code of Conduct File in Repository | Medium | [#39](https://github.com/reshamsai150/7.Analysis-and-Prediction-of-Electric-Vehicle-Costs-A-Machine-Learning-Based-Approach/issues/39) |
 
@@ -271,6 +270,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
 | Enhancement: Add Resources in Resource Page #13 | Medium | [#301](https://github.com/AditiGupta-tech/neonest/pull/301) |
 | Refactor Chatbot Page Layout & Add Past Chats Panel with PDF Export | Medium | [#299](https://github.com/AditiGupta-tech/neonest/pull/299) |
 | Added Personalization & Analytics Widgets Feature | Medium | [#298](https://github.com/AditiGupta-tech/neonest/pull/298) |
