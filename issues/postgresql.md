@@ -116,7 +116,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Real-Time Strong Password Validation to Registration Page | Easy | [#359](https://github.com/Muneerali199/DocMagic/issues/359) |
-| Fixed (testimonials): No duplicate testimonials and smooth animation (fixes #364) | Medium | [#365](https://github.com/Muneerali199/DocMagic/pull/365) |
 | Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
 | Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 47 updates | Medium | [#361](https://github.com/Muneerali199/DocMagic/pull/361) |
