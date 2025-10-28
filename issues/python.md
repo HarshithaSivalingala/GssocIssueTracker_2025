@@ -41,12 +41,10 @@
 |----------|----------------|---------|
 | ui fix | Medium | [#228](https://github.com/SrigadaAkshayKumar/stock/issues/228) |
 | 🚨 [BUG] Firebase Authentication Error: “auth/unauthorized-domain” on Login and Signup Pages | Medium | [#227](https://github.com/SrigadaAkshayKumar/stock/issues/227) |
-| UI enhancement | Medium | [#224](https://github.com/SrigadaAkshayKumar/stock/issues/224) |
 | Title Color | Medium | [#222](https://github.com/SrigadaAkshayKumar/stock/issues/222) |
 | Background image doesn't cover the full div at the homepage | Medium | [#217](https://github.com/SrigadaAkshayKumar/stock/issues/217) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
 | Replaced alert with toast notifications in StockList | Medium | [#213](https://github.com/SrigadaAkshayKumar/stock/pull/213) |
-| Add Forgot Password component | Medium | [#212](https://github.com/SrigadaAkshayKumar/stock/pull/212) |
 | Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
 | Redesign the About Page for Better Visual Appeal and Clarity | Medium | [#207](https://github.com/SrigadaAkshayKumar/stock/issues/207) |
 | Footer background color inconsistent with overall website theme | Medium | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
@@ -221,22 +219,25 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Establish an e2e backend instance locally and in CI/CD | Easy | [#2429](https://github.com/OWASP/Nest/pull/2429) |
+| Refactor layout and styling of Leaders and UserCard components for im… | Medium | [#2501](https://github.com/OWASP/Nest/pull/2501) |
+| Extend Board Candidates Transparency Dashboard | Medium | [#2500](https://github.com/OWASP/Nest/issues/2500) |
+| Extend Project Health Dashboard to chapters | Medium | [#2499](https://github.com/OWASP/Nest/issues/2499) |
+| Roll out a Board Transparency Dashboard | Medium | [#2498](https://github.com/OWASP/Nest/issues/2498) |
+| Remove array indexes as keys in JSX | Medium | [#2497](https://github.com/OWASP/Nest/pull/2497) |
+| Feature: Terms of Service Page Implementation | Medium | [#2496](https://github.com/OWASP/Nest/issues/2496) |
+| Feature: Privacy Policy Page Implementation | Medium | [#2495](https://github.com/OWASP/Nest/issues/2495) |
 | refactor: frontend functions to reduce deep nesting violations | Medium | [#2491](https://github.com/OWASP/Nest/pull/2491) |
-| feat: rename RepositoriesCard to RepositoryCard and add cursor pointe… | Medium | [#2490](https://github.com/OWASP/Nest/pull/2490) |
 | Refactor: replaced all forEach with for...of loop | Medium | [#2489](https://github.com/OWASP/Nest/pull/2489) |
 | fix: Fix error 500 for OWASP Virtual Chapter | Medium | [#2481](https://github.com/OWASP/Nest/pull/2481) |
-| feature: extend markdown features to improve content display and interactivity | Medium | [#2477](https://github.com/OWASP/Nest/pull/2477) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
 | Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
 | Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
-| Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
-| Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
-| Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -301,7 +302,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
 | Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 | Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
-| Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
 
 ---
 
@@ -1205,12 +1205,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.8.0 | Medium | [#131](https://github.com/solve-ease/OptiBlogAi/pull/131) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#130](https://github.com/solve-ease/OptiBlogAi/pull/130) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.8.1 in /optiblogai-site | Medium | [#129](https://github.com/solve-ease/OptiBlogAi/pull/129) |
-| deps(deps): bump lucide-react from 0.525.0 to 0.546.0 in /optiblogai-site | Medium | [#128](https://github.com/solve-ease/OptiBlogAi/pull/128) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 16.0.0 in /optiblogai-site | Medium | [#136](https://github.com/solve-ease/OptiBlogAi/pull/136) |
+| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.9.0 | Medium | [#135](https://github.com/solve-ease/OptiBlogAi/pull/135) |
+| deps(deps): bump next from 15.4.1 to 16.0.0 in /optiblogai-site | Medium | [#134](https://github.com/solve-ease/OptiBlogAi/pull/134) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.9.1 in /optiblogai-site | Medium | [#133](https://github.com/solve-ease/OptiBlogAi/pull/133) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.548.0 in /optiblogai-site | Medium | [#132](https://github.com/solve-ease/OptiBlogAi/pull/132) |
 | ci(deps): bump actions/setup-node from 4 to 6 | Medium | [#127](https://github.com/solve-ease/OptiBlogAi/pull/127) |
-| deps(deps): bump next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#126](https://github.com/solve-ease/OptiBlogAi/pull/126) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.38.0 in /optiblogai-site | Medium | [#125](https://github.com/solve-ease/OptiBlogAi/pull/125) |
 | deps(deps): bump cachetools from 5.5.2 to 6.2.1 | Medium | [#124](https://github.com/solve-ease/OptiBlogAi/pull/124) |
 | docker(deps): bump python from 3.12-slim to 3.14-slim | Medium | [#123](https://github.com/solve-ease/OptiBlogAi/pull/123) |
@@ -1804,10 +1804,16 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add voice input feature to chat interface | Medium | [#133](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/133) |
+| FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
+| Added Text-to-Speech with real-time word highlighting | Medium | [#138](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/138) |
+| feat: Add frontend authentication UI | Medium | [#135](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/135) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
+| FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
+| FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| FEATURE: Add copy and edit functionality to chats | Hard | [#93](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/93) |
+| FEATURE: Create Page for Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
 ---
 
