@@ -270,14 +270,20 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| No Session Timeout or Auto Logout – Sensitive Data at Risk | Easy | [#160](https://github.com/AditiGupta-tech/neonest/issues/160) |
+| User Dashboard Layout (Frontend Only) | Medium | [#307](https://github.com/AditiGupta-tech/neonest/pull/307) |
+| Feature/dashboard analytics widgets fixed issues #6 | Medium | [#306](https://github.com/AditiGupta-tech/neonest/pull/306) |
 | feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
-| Enhancement: Add Resources in Resource Page #13 | Medium | [#301](https://github.com/AditiGupta-tech/neonest/pull/301) |
-| Refactor Chatbot Page Layout & Add Past Chats Panel with PDF Export | Medium | [#299](https://github.com/AditiGupta-tech/neonest/pull/299) |
-| Added Personalization & Analytics Widgets Feature | Medium | [#298](https://github.com/AditiGupta-tech/neonest/pull/298) |
-| Janhvigupta/addreview | Medium | [#297](https://github.com/AditiGupta-tech/neonest/pull/297) |
-| Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
+| Integrate the NeoNest Lullaby feature with a music streaming API | Medium | [#187](https://github.com/AditiGupta-tech/neonest/issues/187) |
+| Restrict "Add Review" to Logged-in Users & Save Reviews | Medium | [#179](https://github.com/AditiGupta-tech/neonest/issues/179) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
+| Content: Add lullabies from diverse languages and update filter accordingly | Medium | [#134](https://github.com/AditiGupta-tech/neonest/issues/134) |
+| Feat: Add Internationalization (i18n) Support for NeoNest | Medium | [#50](https://github.com/AditiGupta-tech/neonest/issues/50) |
+| Feature Request: Baby Cry Detector | Hard | [#122](https://github.com/AditiGupta-tech/neonest/issues/122) |
+| Feature request: “Smart Care” Tab with Real-Time AI Baby Care Suggestions | Hard | [#64](https://github.com/AditiGupta-tech/neonest/issues/64) |
+| Feature Request: Add Baby Health Analytics Dashboard | Hard | [#15](https://github.com/AditiGupta-tech/neonest/issues/15) |
+| Add PWA Support to Enable Installable Web App | Hard | [#9](https://github.com/AditiGupta-tech/neonest/issues/9) |
 
 ---
 
@@ -430,8 +436,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| changes in the ui for the contributors section | Easy | [#303](https://github.com/dipexplorer/LegalHuB/pull/303) |
+| 🚀 Let’s Build Something Real — A Developer Community Beyond Certificates | Medium | [#305](https://github.com/dipexplorer/LegalHuB/issues/305) |
 | 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
+| Dictionary Share Popover Placement, Functionality, and Styling Fixes | Medium | [#258](https://github.com/dipexplorer/LegalHuB/issues/258) |
+| Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Medium | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
+| Add “Fun Facts” / Closing Section for contributor page | Medium | [#228](https://github.com/dipexplorer/LegalHuB/issues/228) |
+| Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Medium | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
 | Implement Search, Sort, and Filter Controls for contributor page | Hard | [#226](https://github.com/dipexplorer/LegalHuB/issues/226) |
 
 ---
@@ -546,6 +556,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature Enhancement: Add Chatbot to Eventra Platform | Easy | [#702](https://github.com/SandeepVashishtha/Eventra/issues/702) |
+| Improved Contributing.md | Medium | [#795](https://github.com/SandeepVashishtha/Eventra/issues/795) |
 | emoji not aligned | Medium | [#542](https://github.com/SandeepVashishtha/Eventra/issues/542) |
 
 ---
