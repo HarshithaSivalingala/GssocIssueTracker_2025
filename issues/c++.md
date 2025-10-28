@@ -33,9 +33,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added ``updateSms`` method to update an existing sms message | Medium | [#142](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/142) |
-| feat: get_queue_deletes [health] | Medium | [#140](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/140) |
-| feat: get_queue_databases [health] | Medium | [#139](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/139) |
 | issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
@@ -57,12 +54,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(hybridCSR_COO): Fix segfault in ``impl_removeEdge`` of HybridCSR_COO storage format. | Easy | [#154](https://github.com/SharonIV0x86/CinderPeak/issues/154) |
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(adjlist): Implement impl_hasVertex(const VertexType &v) in AdjacencyList.hpp | Easy | [#116](https://github.com/SharonIV0x86/CinderPeak/issues/116) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
-| refactor(tests): Split AdjacencyList unit tests per #113 | Medium | [#153](https://github.com/SharonIV0x86/CinderPeak/pull/153) |
-| feat(policies): Improved tests for Throw And LogConsole policy | Medium | [#150](https://github.com/SharonIV0x86/CinderPeak/pull/150) |
-| feat(tests): Add tests for Ignore and ConsoleAndFile policy | Medium | [#145](https://github.com/SharonIV0x86/CinderPeak/issues/145) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#128](https://github.com/SharonIV0x86/CinderPeak/issues/128) |
 
 ---
