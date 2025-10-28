@@ -402,10 +402,16 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add voice input feature to chat interface | Medium | [#133](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/133) |
+| FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
+| Added Text-to-Speech with real-time word highlighting | Medium | [#138](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/138) |
+| feat: Add frontend authentication UI | Medium | [#135](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/135) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
+| FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
+| FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| FEATURE: Add copy and edit functionality to chats | Hard | [#93](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/93) |
+| FEATURE: Create Page for Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
 ---
 
