@@ -147,7 +147,6 @@
 | Enhance UI by Hiding or Customizing Webkit Scrollbar for Cleaner Layout | Medium | [#1010](https://github.com/opensource-society/notesvault/issues/1010) |
 | Interactive Star-Based Feedback System | Medium | [#1009](https://github.com/opensource-society/notesvault/issues/1009) |
 | Footer | Medium | [#1007](https://github.com/opensource-society/notesvault/issues/1007) |
-| 🪲 Bug Title: Unauthorized Access to Student Profile and Note Upload Without Login | Medium | [#1004](https://github.com/opensource-society/notesvault/issues/1004) |
 | 🪲 Bug Report: Unable to Login After Account Creation | Medium | [#1003](https://github.com/opensource-society/notesvault/issues/1003) |
 | <Short bug description> Double Privacy policy and TOS in footer section | Medium | [#999](https://github.com/opensource-society/notesvault/issues/999) |
 | fix: added smooth fade transition between pages to reduce white flash | Medium | [#998](https://github.com/opensource-society/notesvault/pull/998) |
@@ -805,9 +804,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Chatbot.jsx | Medium | [#583](https://github.com/Mujtabaa07/coffeeShop/pull/583) |
 | Enhance the customer say page | Medium | [#582](https://github.com/Mujtabaa07/coffeeShop/issues/582) |
-| Add Light/Dark Theme Toggle Feature to the Website | Medium | [#581](https://github.com/Mujtabaa07/coffeeShop/issues/581) |
 | Search Functionality Fails to Display Results or No-Result Popup; AI Chatbot Gives Irrelevant Responses to Product Queries | Medium | [#580](https://github.com/Mujtabaa07/coffeeShop/issues/580) |
 | Tea images (Green Tea, Lemon Tea, Black Tea) appear identical | Medium | [#579](https://github.com/Mujtabaa07/coffeeShop/issues/579) |
 | Issue: "Back to Top" Button Overlaps Chatbot | Medium | [#577](https://github.com/Mujtabaa07/coffeeShop/issues/577) |
@@ -821,17 +818,16 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Review need for "Learn More" button in About section | Medium | [#569](https://github.com/Mujtabaa07/coffeeShop/issues/569) |
 | "Menu" link has different color from other navbar links | Medium | [#568](https://github.com/Mujtabaa07/coffeeShop/issues/568) |
 | Remove reviews section from Login page | Medium | [#567](https://github.com/Mujtabaa07/coffeeShop/issues/567) |
-| Add EmailJS Integration to Contact Form for Seamless Email Sending ✉️🚀 | Medium | [#566](https://github.com/Mujtabaa07/coffeeShop/pull/566) |
 | Bug: Password field on registration page needs show/hide toggle and regex fix | Medium | [#565](https://github.com/Mujtabaa07/coffeeShop/issues/565) |
-| #fixes 549 Feature/social icons to bootom | Medium | [#564](https://github.com/Mujtabaa07/coffeeShop/pull/564) |
-| Fixes Menu element to look like all other nav elements | Medium | [#563](https://github.com/Mujtabaa07/coffeeShop/pull/563) |
 | Inconsistent image styles in feature cards - Mix of photos and illustrations | Medium | [#562](https://github.com/Mujtabaa07/coffeeShop/issues/562) |
 | Fixed the Menu button UI display issue as reported in #547. | Medium | [#561](https://github.com/Mujtabaa07/coffeeShop/pull/561) |
-| fix #559: add live password strength checklist on signup page | Medium | [#560](https://github.com/Mujtabaa07/coffeeShop/pull/560) |
-| Add live password strength checklist on Signup page | Medium | [#559](https://github.com/Mujtabaa07/coffeeShop/issues/559) |
 | Feat/razorpay integration | Medium | [#558](https://github.com/Mujtabaa07/coffeeShop/pull/558) |
 | Fix #500 :Added scroll and page loading progress bars for better UX | Medium | [#557](https://github.com/Mujtabaa07/coffeeShop/pull/557) |
 | <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
+| Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
+| (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
+| ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
+| animation color | Medium | [#534](https://github.com/Mujtabaa07/coffeeShop/pull/534) |
 
 ---
 
@@ -1226,10 +1222,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add comprehensive introduction to Pandas library for Python | Easy | [#1084](https://github.com/recodehive/recode-website/pull/1084) |
-| fix: tab navigation from practice tab to other tabs in interview prep page | Easy | [#1083](https://github.com/recodehive/recode-website/pull/1083) |
-| #1070 Terms of Service Documentation Update | Easy | [#1081](https://github.com/recodehive/recode-website/pull/1081) |
-| #1073 Podcast Page “No Podcasts Found” and Suggestion Text Displayed on Single Line | Easy | [#1080](https://github.com/recodehive/recode-website/pull/1080) |
+| chore: bump canvas-confetti from 1.9.3 to 1.9.4 | Easy | [#1092](https://github.com/recodehive/recode-website/pull/1092) |
+| chore: bump lucide-react from 0.503.0 to 0.548.0 | Easy | [#1091](https://github.com/recodehive/recode-website/pull/1091) |
+| chore: bump @tailwindcss/postcss from 4.1.14 to 4.1.16 | Easy | [#1090](https://github.com/recodehive/recode-website/pull/1090) |
+| chore: bump @docusaurus/plugin-ideal-image from 3.9.1 to 3.9.2 | Easy | [#1089](https://github.com/recodehive/recode-website/pull/1089) |
+| 🐞[Bug]: Swapping 1st and 2nd top performers | Easy | [#1087](https://github.com/recodehive/recode-website/issues/1087) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -1775,6 +1772,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement of Contributing.md | Medium | [#1250](https://github.com/gyanshankar1708/GrowCraft/pull/1250) |
 | Implement modern CSS variables and enhance styles | Medium | [#1247](https://github.com/gyanshankar1708/GrowCraft/pull/1247) |
 | Title: Fix Typos and Naming Inconsistencies Across Repository | Medium | [#1246](https://github.com/gyanshankar1708/GrowCraft/issues/1246) |
 | Fix Navbar Inconsistency on Services Page | Medium | [#1245](https://github.com/gyanshankar1708/GrowCraft/pull/1245) |
@@ -1801,7 +1799,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | unwanted login signup options | Medium | [#1186](https://github.com/gyanshankar1708/GrowCraft/issues/1186) |
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
 | missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
-| Missing back to home button in login page | Medium | [#1182](https://github.com/gyanshankar1708/GrowCraft/issues/1182) |
 
 ---
 
