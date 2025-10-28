@@ -53,7 +53,6 @@
 | Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
 | Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 | Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
-| Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
 
 ---
 
@@ -148,12 +147,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.8.0 | Medium | [#131](https://github.com/solve-ease/OptiBlogAi/pull/131) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#130](https://github.com/solve-ease/OptiBlogAi/pull/130) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.8.1 in /optiblogai-site | Medium | [#129](https://github.com/solve-ease/OptiBlogAi/pull/129) |
-| deps(deps): bump lucide-react from 0.525.0 to 0.546.0 in /optiblogai-site | Medium | [#128](https://github.com/solve-ease/OptiBlogAi/pull/128) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 16.0.0 in /optiblogai-site | Medium | [#136](https://github.com/solve-ease/OptiBlogAi/pull/136) |
+| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.9.0 | Medium | [#135](https://github.com/solve-ease/OptiBlogAi/pull/135) |
+| deps(deps): bump next from 15.4.1 to 16.0.0 in /optiblogai-site | Medium | [#134](https://github.com/solve-ease/OptiBlogAi/pull/134) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.9.1 in /optiblogai-site | Medium | [#133](https://github.com/solve-ease/OptiBlogAi/pull/133) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.548.0 in /optiblogai-site | Medium | [#132](https://github.com/solve-ease/OptiBlogAi/pull/132) |
 | ci(deps): bump actions/setup-node from 4 to 6 | Medium | [#127](https://github.com/solve-ease/OptiBlogAi/pull/127) |
-| deps(deps): bump next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#126](https://github.com/solve-ease/OptiBlogAi/pull/126) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.38.0 in /optiblogai-site | Medium | [#125](https://github.com/solve-ease/OptiBlogAi/pull/125) |
 | deps(deps): bump cachetools from 5.5.2 to 6.2.1 | Medium | [#124](https://github.com/solve-ease/OptiBlogAi/pull/124) |
 | docker(deps): bump python from 3.12-slim to 3.14-slim | Medium | [#123](https://github.com/solve-ease/OptiBlogAi/pull/123) |
