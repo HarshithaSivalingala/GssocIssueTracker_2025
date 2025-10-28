@@ -68,7 +68,16 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Admin dashboard - Add courses | Medium | [#614](https://github.com/abhisek2004/Dev-Elevate/pull/614) |
+| 🗣️ Share Your Interview Experience — Backend + Display | Easy | [#625](https://github.com/abhisek2004/Dev-Elevate/issues/625) |
+| 🤖 AI Interview System — Complete AI Functionality | Easy | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
+| 📅 Calendar — Google Calendar Style + Persistent Data | Easy | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
+| 📚 Notes & Resources – Fix Broken Notes | Easy | [#622](https://github.com/abhisek2004/Dev-Elevate/issues/622) |
+| 💻 Code Compiler Integration | Easy | [#621](https://github.com/abhisek2004/Dev-Elevate/issues/621) |
+| Feature: Learning Hub – Learning Tracks | Easy | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
+| 🎯 Learning Progress & Completed Goals — Backend Integration | Easy | [#619](https://github.com/abhisek2004/Dev-Elevate/issues/619) |
+| 💬 Share Your Experience — Landing Page Integration | Easy | [#618](https://github.com/abhisek2004/Dev-Elevate/issues/618) |
+| 🧭 Admin Dashboard — Backend Integration | Easy | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
+| 🧩 Forgot Password — Functional Implementation | Easy | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
 
 ---
 
@@ -86,22 +95,25 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Establish an e2e backend instance locally and in CI/CD | Easy | [#2429](https://github.com/OWASP/Nest/pull/2429) |
+| Refactor layout and styling of Leaders and UserCard components for im… | Medium | [#2501](https://github.com/OWASP/Nest/pull/2501) |
+| Extend Board Candidates Transparency Dashboard | Medium | [#2500](https://github.com/OWASP/Nest/issues/2500) |
+| Extend Project Health Dashboard to chapters | Medium | [#2499](https://github.com/OWASP/Nest/issues/2499) |
+| Roll out a Board Transparency Dashboard | Medium | [#2498](https://github.com/OWASP/Nest/issues/2498) |
+| Remove array indexes as keys in JSX | Medium | [#2497](https://github.com/OWASP/Nest/pull/2497) |
+| Feature: Terms of Service Page Implementation | Medium | [#2496](https://github.com/OWASP/Nest/issues/2496) |
+| Feature: Privacy Policy Page Implementation | Medium | [#2495](https://github.com/OWASP/Nest/issues/2495) |
 | refactor: frontend functions to reduce deep nesting violations | Medium | [#2491](https://github.com/OWASP/Nest/pull/2491) |
-| feat: rename RepositoriesCard to RepositoryCard and add cursor pointe… | Medium | [#2490](https://github.com/OWASP/Nest/pull/2490) |
 | Refactor: replaced all forEach with for...of loop | Medium | [#2489](https://github.com/OWASP/Nest/pull/2489) |
 | fix: Fix error 500 for OWASP Virtual Chapter | Medium | [#2481](https://github.com/OWASP/Nest/pull/2481) |
-| feature: extend markdown features to improve content display and interactivity | Medium | [#2477](https://github.com/OWASP/Nest/pull/2477) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
 | Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
 | Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
-| Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
-| Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
-| Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -1037,6 +1049,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump axios from 1.7.9 to 1.13.0 | Medium | [#159](https://github.com/Ojas-Arora/SapneSeSafar/pull/159) |
 | Bump lucide-react from 0.344.0 to 0.548.0 | Medium | [#158](https://github.com/Ojas-Arora/SapneSeSafar/pull/158) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.0 | Medium | [#157](https://github.com/Ojas-Arora/SapneSeSafar/pull/157) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
@@ -1051,7 +1064,6 @@ Fast Workflow Tools
 | Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
-| Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
 | Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
