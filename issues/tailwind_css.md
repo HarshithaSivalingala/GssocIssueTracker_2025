@@ -98,7 +98,16 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Admin dashboard - Add courses | Medium | [#614](https://github.com/abhisek2004/Dev-Elevate/pull/614) |
+| 🗣️ Share Your Interview Experience — Backend + Display | Easy | [#625](https://github.com/abhisek2004/Dev-Elevate/issues/625) |
+| 🤖 AI Interview System — Complete AI Functionality | Easy | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
+| 📅 Calendar — Google Calendar Style + Persistent Data | Easy | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
+| 📚 Notes & Resources – Fix Broken Notes | Easy | [#622](https://github.com/abhisek2004/Dev-Elevate/issues/622) |
+| 💻 Code Compiler Integration | Easy | [#621](https://github.com/abhisek2004/Dev-Elevate/issues/621) |
+| Feature: Learning Hub – Learning Tracks | Easy | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
+| 🎯 Learning Progress & Completed Goals — Backend Integration | Easy | [#619](https://github.com/abhisek2004/Dev-Elevate/issues/619) |
+| 💬 Share Your Experience — Landing Page Integration | Easy | [#618](https://github.com/abhisek2004/Dev-Elevate/issues/618) |
+| 🧭 Admin Dashboard — Backend Integration | Easy | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
+| 🧩 Forgot Password — Functional Implementation | Easy | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
 
 ---
 
@@ -223,22 +232,25 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Establish an e2e backend instance locally and in CI/CD | Easy | [#2429](https://github.com/OWASP/Nest/pull/2429) |
+| Refactor layout and styling of Leaders and UserCard components for im… | Medium | [#2501](https://github.com/OWASP/Nest/pull/2501) |
+| Extend Board Candidates Transparency Dashboard | Medium | [#2500](https://github.com/OWASP/Nest/issues/2500) |
+| Extend Project Health Dashboard to chapters | Medium | [#2499](https://github.com/OWASP/Nest/issues/2499) |
+| Roll out a Board Transparency Dashboard | Medium | [#2498](https://github.com/OWASP/Nest/issues/2498) |
+| Remove array indexes as keys in JSX | Medium | [#2497](https://github.com/OWASP/Nest/pull/2497) |
+| Feature: Terms of Service Page Implementation | Medium | [#2496](https://github.com/OWASP/Nest/issues/2496) |
+| Feature: Privacy Policy Page Implementation | Medium | [#2495](https://github.com/OWASP/Nest/issues/2495) |
 | refactor: frontend functions to reduce deep nesting violations | Medium | [#2491](https://github.com/OWASP/Nest/pull/2491) |
-| feat: rename RepositoriesCard to RepositoryCard and add cursor pointe… | Medium | [#2490](https://github.com/OWASP/Nest/pull/2490) |
 | Refactor: replaced all forEach with for...of loop | Medium | [#2489](https://github.com/OWASP/Nest/pull/2489) |
 | fix: Fix error 500 for OWASP Virtual Chapter | Medium | [#2481](https://github.com/OWASP/Nest/pull/2481) |
-| feature: extend markdown features to improve content display and interactivity | Medium | [#2477](https://github.com/OWASP/Nest/pull/2477) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
 | Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
 | Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
-| Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
-| Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
-| Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -267,7 +279,6 @@ Accessibility features like dark mode,white.
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
-| 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
 
 ---
 
@@ -734,9 +745,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Chatbot.jsx | Medium | [#583](https://github.com/Mujtabaa07/coffeeShop/pull/583) |
 | Enhance the customer say page | Medium | [#582](https://github.com/Mujtabaa07/coffeeShop/issues/582) |
-| Add Light/Dark Theme Toggle Feature to the Website | Medium | [#581](https://github.com/Mujtabaa07/coffeeShop/issues/581) |
 | Search Functionality Fails to Display Results or No-Result Popup; AI Chatbot Gives Irrelevant Responses to Product Queries | Medium | [#580](https://github.com/Mujtabaa07/coffeeShop/issues/580) |
 | Tea images (Green Tea, Lemon Tea, Black Tea) appear identical | Medium | [#579](https://github.com/Mujtabaa07/coffeeShop/issues/579) |
 | Issue: "Back to Top" Button Overlaps Chatbot | Medium | [#577](https://github.com/Mujtabaa07/coffeeShop/issues/577) |
@@ -750,17 +759,16 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | Review need for "Learn More" button in About section | Medium | [#569](https://github.com/Mujtabaa07/coffeeShop/issues/569) |
 | "Menu" link has different color from other navbar links | Medium | [#568](https://github.com/Mujtabaa07/coffeeShop/issues/568) |
 | Remove reviews section from Login page | Medium | [#567](https://github.com/Mujtabaa07/coffeeShop/issues/567) |
-| Add EmailJS Integration to Contact Form for Seamless Email Sending ✉️🚀 | Medium | [#566](https://github.com/Mujtabaa07/coffeeShop/pull/566) |
 | Bug: Password field on registration page needs show/hide toggle and regex fix | Medium | [#565](https://github.com/Mujtabaa07/coffeeShop/issues/565) |
-| #fixes 549 Feature/social icons to bootom | Medium | [#564](https://github.com/Mujtabaa07/coffeeShop/pull/564) |
-| Fixes Menu element to look like all other nav elements | Medium | [#563](https://github.com/Mujtabaa07/coffeeShop/pull/563) |
 | Inconsistent image styles in feature cards - Mix of photos and illustrations | Medium | [#562](https://github.com/Mujtabaa07/coffeeShop/issues/562) |
 | Fixed the Menu button UI display issue as reported in #547. | Medium | [#561](https://github.com/Mujtabaa07/coffeeShop/pull/561) |
-| fix #559: add live password strength checklist on signup page | Medium | [#560](https://github.com/Mujtabaa07/coffeeShop/pull/560) |
-| Add live password strength checklist on Signup page | Medium | [#559](https://github.com/Mujtabaa07/coffeeShop/issues/559) |
 | Feat/razorpay integration | Medium | [#558](https://github.com/Mujtabaa07/coffeeShop/pull/558) |
 | Fix #500 :Added scroll and page loading progress bars for better UX | Medium | [#557](https://github.com/Mujtabaa07/coffeeShop/pull/557) |
 | <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
+| Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
+| (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
+| ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
+| animation color | Medium | [#534](https://github.com/Mujtabaa07/coffeeShop/pull/534) |
 
 ---
 
@@ -1069,6 +1077,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
+| Add logo for DSAMate. | Medium | [#457](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/457) |
 | OAuth Sign-In Fails with Firebase | Medium | [#452](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/452) |
 | Add PasswordGenerator component for password management | Medium | [#451](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/451) |
 | Add PasswordGenerator component for password management | Medium | [#450](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/450) |
@@ -1485,14 +1494,20 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| No Session Timeout or Auto Logout – Sensitive Data at Risk | Easy | [#160](https://github.com/AditiGupta-tech/neonest/issues/160) |
+| User Dashboard Layout (Frontend Only) | Medium | [#307](https://github.com/AditiGupta-tech/neonest/pull/307) |
+| Feature/dashboard analytics widgets fixed issues #6 | Medium | [#306](https://github.com/AditiGupta-tech/neonest/pull/306) |
 | feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
-| Enhancement: Add Resources in Resource Page #13 | Medium | [#301](https://github.com/AditiGupta-tech/neonest/pull/301) |
-| Refactor Chatbot Page Layout & Add Past Chats Panel with PDF Export | Medium | [#299](https://github.com/AditiGupta-tech/neonest/pull/299) |
-| Added Personalization & Analytics Widgets Feature | Medium | [#298](https://github.com/AditiGupta-tech/neonest/pull/298) |
-| Janhvigupta/addreview | Medium | [#297](https://github.com/AditiGupta-tech/neonest/pull/297) |
-| Fix: Reworked UI for Profile page and added PDF export feature for user data | Medium | [#279](https://github.com/AditiGupta-tech/neonest/pull/279) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
+| Integrate the NeoNest Lullaby feature with a music streaming API | Medium | [#187](https://github.com/AditiGupta-tech/neonest/issues/187) |
+| Restrict "Add Review" to Logged-in Users & Save Reviews | Medium | [#179](https://github.com/AditiGupta-tech/neonest/issues/179) |
 | User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
+| Content: Add lullabies from diverse languages and update filter accordingly | Medium | [#134](https://github.com/AditiGupta-tech/neonest/issues/134) |
+| Feat: Add Internationalization (i18n) Support for NeoNest | Medium | [#50](https://github.com/AditiGupta-tech/neonest/issues/50) |
+| Feature Request: Baby Cry Detector | Hard | [#122](https://github.com/AditiGupta-tech/neonest/issues/122) |
+| Feature request: “Smart Care” Tab with Real-Time AI Baby Care Suggestions | Hard | [#64](https://github.com/AditiGupta-tech/neonest/issues/64) |
+| Feature Request: Add Baby Health Analytics Dashboard | Hard | [#15](https://github.com/AditiGupta-tech/neonest/issues/15) |
+| Add PWA Support to Enable Installable Web App | Hard | [#9](https://github.com/AditiGupta-tech/neonest/issues/9) |
 
 ---
 
@@ -1560,6 +1575,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| contact-us component corrected and main navbar and floating navbar ui… | Medium | [#199](https://github.com/DevSyncx/DevSync/pull/199) |
 | Create dev | Medium | [#195](https://github.com/DevSyncx/DevSync/pull/195) |
 | Added DevSync logo in Navbar, Footer, and favicon | Medium | [#189](https://github.com/DevSyncx/DevSync/pull/189) |
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
@@ -2082,10 +2098,16 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add voice input feature to chat interface | Medium | [#133](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/133) |
+| FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
+| Added Text-to-Speech with real-time word highlighting | Medium | [#138](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/138) |
+| feat: Add frontend authentication UI | Medium | [#135](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/135) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
+| FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
+| FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| FEATURE: Add copy and edit functionality to chats | Hard | [#93](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/93) |
+| FEATURE: Create Page for Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
 ---
 
@@ -2130,6 +2152,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature Enhancement: Add Chatbot to Eventra Platform | Easy | [#702](https://github.com/SandeepVashishtha/Eventra/issues/702) |
+| Improved Contributing.md | Medium | [#795](https://github.com/SandeepVashishtha/Eventra/issues/795) |
 | emoji not aligned | Medium | [#542](https://github.com/SandeepVashishtha/Eventra/issues/542) |
 
 ---
@@ -2370,17 +2393,17 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Documentation : Add Code Of Conduct File to project | Easy | [#30](https://github.com/Swastik007sharma/CampusTrack/issues/30) |
-| build(deps-dev): bump @tailwindcss/vite from 4.1.11 to 4.1.15 in /frontend | Medium | [#116](https://github.com/Swastik007sharma/CampusTrack/pull/116) |
-| build(deps-dev): bump vite from 7.1.1 to 7.1.11 in /frontend | Medium | [#115](https://github.com/Swastik007sharma/CampusTrack/pull/115) |
-| build(deps-dev): bump tailwindcss from 4.1.11 to 4.1.15 in /frontend | Medium | [#114](https://github.com/Swastik007sharma/CampusTrack/pull/114) |
+| build(deps-dev): bump tailwindcss from 4.1.11 to 4.1.16 in /frontend | Medium | [#121](https://github.com/Swastik007sharma/CampusTrack/pull/121) |
+| build(deps-dev): bump @tailwindcss/vite from 4.1.11 to 4.1.16 in /frontend | Medium | [#120](https://github.com/Swastik007sharma/CampusTrack/pull/120) |
+| build(deps-dev): bump vite from 7.1.1 to 7.1.12 in /frontend | Medium | [#119](https://github.com/Swastik007sharma/CampusTrack/pull/119) |
+| build(deps): bump axios from 1.8.3 to 1.13.0 in /backend | Medium | [#118](https://github.com/Swastik007sharma/CampusTrack/pull/118) |
+| build(deps): bump nodemailer from 7.0.5 to 7.0.10 in /backend | Medium | [#117](https://github.com/Swastik007sharma/CampusTrack/pull/117) |
 | build(deps-dev): bump @eslint/js from 9.32.0 to 9.38.0 in /frontend | Medium | [#113](https://github.com/Swastik007sharma/CampusTrack/pull/113) |
 | build(deps): bump mongoose from 8.17.1 to 8.19.2 in /backend | Medium | [#112](https://github.com/Swastik007sharma/CampusTrack/pull/112) |
 | build(deps): bump react-router-dom from 7.8.0 to 7.9.4 in /frontend | Medium | [#111](https://github.com/Swastik007sharma/CampusTrack/pull/111) |
-| build(deps): bump nodemailer from 7.0.5 to 7.0.9 in /backend | Medium | [#110](https://github.com/Swastik007sharma/CampusTrack/pull/110) |
 | build(deps): bump zod from 4.0.17 to 4.1.12 in /backend | Medium | [#104](https://github.com/Swastik007sharma/CampusTrack/pull/104) |
 | Bug : Fixing the Issue when the user is registering | Medium | [#101](https://github.com/Swastik007sharma/CampusTrack/issues/101) |
 | Added project files with MIT License | Medium | [#98](https://github.com/Swastik007sharma/CampusTrack/pull/98) |
-| build(deps): bump axios from 1.8.3 to 1.12.2 in /backend | Medium | [#92](https://github.com/Swastik007sharma/CampusTrack/pull/92) |
 | build(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#90](https://github.com/Swastik007sharma/CampusTrack/pull/90) |
 | build(deps): bump axios from 1.8.3 to 1.12.0 in /backend in the npm_and_yarn group across 1 directory | Medium | [#89](https://github.com/Swastik007sharma/CampusTrack/pull/89) |
 | build(deps): bump express-rate-limit from 8.0.1 to 8.1.0 in /backend | Medium | [#84](https://github.com/Swastik007sharma/CampusTrack/pull/84) |
