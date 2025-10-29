@@ -217,7 +217,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump axios from 1.7.9 to 1.13.0 | Medium | [#159](https://github.com/Ojas-Arora/SapneSeSafar/pull/159) |
+| Bump axios from 1.7.9 to 1.13.1 | Medium | [#160](https://github.com/Ojas-Arora/SapneSeSafar/pull/160) |
 | Bump lucide-react from 0.344.0 to 0.548.0 | Medium | [#158](https://github.com/Ojas-Arora/SapneSeSafar/pull/158) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.0 | Medium | [#157](https://github.com/Ojas-Arora/SapneSeSafar/pull/157) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
@@ -262,6 +262,7 @@
 | ♿ Accessibility Improvements | Easy | [#100](https://github.com/Rohit-Dnath/LOL-URL/issues/100) |
 | 🧪 Add More Unit & Integration Tests | Easy | [#99](https://github.com/Rohit-Dnath/LOL-URL/issues/99) |
 | 📦 Export Analytics Data as CSV | Easy | [#98](https://github.com/Rohit-Dnath/LOL-URL/issues/98) |
+| Unable to Singup & Why CHOOSE file | Medium | [#129](https://github.com/Rohit-Dnath/LOL-URL/issues/129) |
 | Add theme toggle | Medium | [#127](https://github.com/Rohit-Dnath/LOL-URL/pull/127) |
 | improve overall UI, implement dark mode light mode toggle support | Medium | [#126](https://github.com/Rohit-Dnath/LOL-URL/pull/126) |
 | Redesign Footer | Medium | [#125](https://github.com/Rohit-Dnath/LOL-URL/issues/125) |
@@ -284,7 +285,6 @@
 | 🔔 Add Push Notifications for Important Events | Medium | [#94](https://github.com/Rohit-Dnath/LOL-URL/issues/94) |
 | 🧑‍💼 Add Admin Panel for User & Link Moderation | Hard | [#96](https://github.com/Rohit-Dnath/LOL-URL/issues/96) |
 | 🛡️ Add Rate Limiting to Public APIs | Hard | [#95](https://github.com/Rohit-Dnath/LOL-URL/issues/95) |
-| 🔒 Add Two-Factor Authentication (2FA) | Hard | [#92](https://github.com/Rohit-Dnath/LOL-URL/issues/92) |
 
 ---
 
