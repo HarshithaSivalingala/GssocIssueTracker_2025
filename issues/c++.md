@@ -54,7 +54,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(hybridCSR_COO): Fix segfault in ``impl_removeEdge`` of HybridCSR_COO storage format. | Easy | [#154](https://github.com/SharonIV0x86/CinderPeak/issues/154) |
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(adjlist): Implement impl_hasVertex(const VertexType &v) in AdjacencyList.hpp | Easy | [#116](https://github.com/SharonIV0x86/CinderPeak/issues/116) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
