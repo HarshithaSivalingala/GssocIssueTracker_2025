@@ -399,6 +399,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/itsAnimation/AnimateItNow/issues/1704) |
 | contributor page enhancement | Medium | [#1703](https://github.com/itsAnimation/AnimateItNow/issues/1703) |
 | Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/itsAnimation/AnimateItNow/issues/1702) |
 | Enhancing feedback page | Medium | [#1701](https://github.com/itsAnimation/AnimateItNow/issues/1701) |
@@ -587,6 +588,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incorrect dark mode implementation | Medium | [#467](https://github.com/Bhavya1352/eventmappr/issues/467) |
 | User logs out and gets 404 when visiting Profile page after sign in | Medium | [#466](https://github.com/Bhavya1352/eventmappr/issues/466) |
 | Bug: Currency Exchange Page Ignores Dark Mode Settings | Medium | [#465](https://github.com/Bhavya1352/eventmappr/issues/465) |
 | .Improve Dark Mode UI and Consistency | Medium | [#464](https://github.com/Bhavya1352/eventmappr/issues/464) |
@@ -845,6 +847,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: mobile responsive layout for homepage | Medium | [#441](https://github.com/omroy07/AgriTech/pull/441) |
 | <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
@@ -1098,6 +1101,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| New Prject Quick Image finder | Medium | [#1040](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1040) |
+| New Portfolio Generating Website | Medium | [#1039](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1039) |
+| image finder | Medium | [#1038](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1038) |
+| BMI Calculator | Medium | [#1037](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1037) |
+| Portfolio Generator | Medium | [#1036](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1036) |
 | Debatable — The AI-Powered Argument Arena | Medium | [#1035](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1035) |
 | Add SkillSprint Website | Medium | [#1032](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1032) |
 | Add Reality Splitter – A Web-Based Multiverse Simulator | Medium | [#1026](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1026) |
@@ -1113,8 +1121,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Hangman Challenge 🎯 | Medium | [#1000](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1000) |
 | Pull Request : AI Startup Landing Page | Medium | [#995](https://github.com/ruchikakengal/WebDevIn100_Days/pull/995) |
 | Day 151 — Jewellery Website: Project page shows 404 error message | Medium | [#992](https://github.com/ruchikakengal/WebDevIn100_Days/issues/992) |
-| Day 108 — Christmas Lights: Project page shows 404 error message | Medium | [#991](https://github.com/ruchikakengal/WebDevIn100_Days/issues/991) |
-| Add Pull Request (PR) Template | Medium | [#987](https://github.com/ruchikakengal/WebDevIn100_Days/issues/987) |
 | Add the Correct Route | Hard | [#1027](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1027) |
 
 ---
@@ -1155,6 +1161,29 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: Day 59 - Introducing CLICKBAIT (The memory game) | Medium | [#790](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/790) |
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
+
+---
+
+## 📌 Project: TalkHeal
+
+📝 **Description:** • A compassionate AI-based mental health assistant
+• 24/7 support with smart chat history
+• Mood slider and AI-based coping tips
+• Mental health resources and helplines
+• Location-based center search (Google Maps)
+• Clean 3D-inspired pink/magenta UI and mobile-ready responsive design
+
+🔗 [View Project](https://github.com/eccentriccoder01/TalkHeal)
+
+💻 **Tech Stack:** Python, Streamlit, Gemini API, CSS3
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Feedback, Contact Us, and UI Enhancements | Medium | [#620](https://github.com/eccentriccoder01/TalkHeal/issues/620) |
 
 ---
 
@@ -1222,11 +1251,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump canvas-confetti from 1.9.3 to 1.9.4 | Easy | [#1092](https://github.com/recodehive/recode-website/pull/1092) |
-| chore: bump lucide-react from 0.503.0 to 0.548.0 | Easy | [#1091](https://github.com/recodehive/recode-website/pull/1091) |
-| chore: bump @tailwindcss/postcss from 4.1.14 to 4.1.16 | Easy | [#1090](https://github.com/recodehive/recode-website/pull/1090) |
-| chore: bump @docusaurus/plugin-ideal-image from 3.9.1 to 3.9.2 | Easy | [#1089](https://github.com/recodehive/recode-website/pull/1089) |
-| 🐞[Bug]: Swapping 1st and 2nd top performers | Easy | [#1087](https://github.com/recodehive/recode-website/issues/1087) |
+| All the blogs are not appearing in the side bar | Easy | [#1101](https://github.com/recodehive/recode-website/issues/1101) |
+| Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
+| Remove the highlighted on community page | Easy | [#1099](https://github.com/recodehive/recode-website/issues/1099) |
+| remove the highlighted area on broadcast page | Easy | [#1098](https://github.com/recodehive/recode-website/issues/1098) |
+| Fix the black hover on the podcast page | Easy | [#1097](https://github.com/recodehive/recode-website/issues/1097) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -1478,6 +1507,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Newsletter  Functionality in footer | Medium | [#220](https://github.com/aayushraj1010/med-genie/issues/220) |
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
@@ -1772,6 +1802,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Hackathon and Contribution Section Please Review | Medium | [#1251](https://github.com/gyanshankar1708/GrowCraft/pull/1251) |
 | Enhancement of Contributing.md | Medium | [#1250](https://github.com/gyanshankar1708/GrowCraft/pull/1250) |
 | Implement modern CSS variables and enhance styles | Medium | [#1247](https://github.com/gyanshankar1708/GrowCraft/pull/1247) |
 | Title: Fix Typos and Naming Inconsistencies Across Repository | Medium | [#1246](https://github.com/gyanshankar1708/GrowCraft/issues/1246) |
@@ -1798,7 +1829,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | to improve the overall syling of the service section in the home page and make the dark mode button functional | Medium | [#1187](https://github.com/gyanshankar1708/GrowCraft/issues/1187) |
 | unwanted login signup options | Medium | [#1186](https://github.com/gyanshankar1708/GrowCraft/issues/1186) |
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
-| missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
 
 ---
 
