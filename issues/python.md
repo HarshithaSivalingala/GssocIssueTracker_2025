@@ -42,12 +42,9 @@
 | ui fix | Medium | [#228](https://github.com/SrigadaAkshayKumar/stock/issues/228) |
 | 🚨 [BUG] Firebase Authentication Error: “auth/unauthorized-domain” on Login and Signup Pages | Medium | [#227](https://github.com/SrigadaAkshayKumar/stock/issues/227) |
 | Title Color | Medium | [#222](https://github.com/SrigadaAkshayKumar/stock/issues/222) |
-| Background image doesn't cover the full div at the homepage | Medium | [#217](https://github.com/SrigadaAkshayKumar/stock/issues/217) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
 | Replaced alert with toast notifications in StockList | Medium | [#213](https://github.com/SrigadaAkshayKumar/stock/pull/213) |
 | Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
-| Redesign the About Page for Better Visual Appeal and Clarity | Medium | [#207](https://github.com/SrigadaAkshayKumar/stock/issues/207) |
-| Footer background color inconsistent with overall website theme | Medium | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
 | Redesign Login Page Background for Consistency & Improved UX | Medium | [#199](https://github.com/SrigadaAkshayKumar/stock/issues/199) |
 | Updated Stockdata.jsx and Predict.jsx with backend API URL | Medium | [#151](https://github.com/SrigadaAkshayKumar/stock/pull/151) |
 
@@ -220,6 +217,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Establish an e2e backend instance locally and in CI/CD | Easy | [#2429](https://github.com/OWASP/Nest/pull/2429) |
+| Fix: Prevent Accidental Map Zooming While Scrolling on Landing Page | Medium | [#2508](https://github.com/OWASP/Nest/pull/2508) |
+| refactor: replace window with globalThis | Medium | [#2507](https://github.com/OWASP/Nest/pull/2507) |
 | Refactor layout and styling of Leaders and UserCard components for im… | Medium | [#2501](https://github.com/OWASP/Nest/pull/2501) |
 | Extend Board Candidates Transparency Dashboard | Medium | [#2500](https://github.com/OWASP/Nest/issues/2500) |
 | Extend Project Health Dashboard to chapters | Medium | [#2499](https://github.com/OWASP/Nest/issues/2499) |
@@ -227,8 +226,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Remove array indexes as keys in JSX | Medium | [#2497](https://github.com/OWASP/Nest/pull/2497) |
 | Feature: Terms of Service Page Implementation | Medium | [#2496](https://github.com/OWASP/Nest/issues/2496) |
 | Feature: Privacy Policy Page Implementation | Medium | [#2495](https://github.com/OWASP/Nest/issues/2495) |
+| feat: implement multi-column sorting for project health metrics | Medium | [#2493](https://github.com/OWASP/Nest/pull/2493) |
 | refactor: frontend functions to reduce deep nesting violations | Medium | [#2491](https://github.com/OWASP/Nest/pull/2491) |
-| Refactor: replaced all forEach with for...of loop | Medium | [#2489](https://github.com/OWASP/Nest/pull/2489) |
 | fix: Fix error 500 for OWASP Virtual Chapter | Medium | [#2481](https://github.com/OWASP/Nest/pull/2481) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
 | Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
@@ -237,7 +236,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
-| Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -553,6 +551,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: mobile responsive layout for homepage | Medium | [#441](https://github.com/omroy07/AgriTech/pull/441) |
 | <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
@@ -617,6 +616,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Stochastic Passenger Behavior & Color Coded Visualization | Medium | [#55](https://github.com/18Prachi/airplane-boarding-simulation/issues/55) |
 | Improved model performance by adding new functionalities | Medium | [#54](https://github.com/18Prachi/airplane-boarding-simulation/pull/54) |
 | Readme_Modification | Medium | [#53](https://github.com/18Prachi/airplane-boarding-simulation/pull/53) |
 | Added strategy simulation and comparison feature (GSSoC) | Medium | [#52](https://github.com/18Prachi/airplane-boarding-simulation/pull/52) |
@@ -836,6 +836,29 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add HTML report generation with charts and cluster stats to failprint.analyze() | Medium | [#15](https://github.com/etsi-ai/etsi-failprint/pull/15) |
 | Added Streamlit dashboard and updated report | Medium | [#5](https://github.com/etsi-ai/etsi-failprint/pull/5) |
 | Added interactive Streamlit dashboard for FailPrint UI analysis [GSSoC'25] | Medium | [#3](https://github.com/etsi-ai/etsi-failprint/pull/3) |
+
+---
+
+## 📌 Project: TalkHeal
+
+📝 **Description:** • A compassionate AI-based mental health assistant
+• 24/7 support with smart chat history
+• Mood slider and AI-based coping tips
+• Mental health resources and helplines
+• Location-based center search (Google Maps)
+• Clean 3D-inspired pink/magenta UI and mobile-ready responsive design
+
+🔗 [View Project](https://github.com/eccentriccoder01/TalkHeal)
+
+💻 **Tech Stack:** Python, Streamlit, Gemini API, CSS3
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Feedback, Contact Us, and UI Enhancements | Medium | [#620](https://github.com/eccentriccoder01/TalkHeal/issues/620) |
 
 ---
 
@@ -1085,7 +1108,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Request to Add Mood Support App under Web_Development | Medium | [#1809](https://github.com/UTSAVS26/PyVerse/issues/1809) |
 | Project Proposal: Streamlytics | Medium | [#1807](https://github.com/UTSAVS26/PyVerse/issues/1807) |
 | Adding  Image Resizer Project | Medium | [#1804](https://github.com/UTSAVS26/PyVerse/pull/1804) |
-| New  Advanced Project Proposal: "Image Resizer (GUI)" | Medium | [#1802](https://github.com/UTSAVS26/PyVerse/issues/1802) |
 | ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
 | NLP Project autocorrect algorithm | Medium | [#1506](https://github.com/UTSAVS26/PyVerse/issues/1506) |
 | Added pyverse_tip CLI command to show random Python tips | Medium | [#1480](https://github.com/UTSAVS26/PyVerse/pull/1480) |
@@ -1181,6 +1203,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Newsletter  Functionality in footer | Medium | [#220](https://github.com/aayushraj1010/med-genie/issues/220) |
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
@@ -1632,7 +1655,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| pre-commit autoupdate | Medium | [#107](https://github.com/Drago-03/GroqTales/pull/107) |
 | added a copy to clipboard button | Medium | [#81](https://github.com/Drago-03/GroqTales/pull/81) |
 | Feat/#18 adding images for nft gallery | Medium | [#80](https://github.com/Drago-03/GroqTales/pull/80) |
 
@@ -1805,8 +1827,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| Added Text-to-Speech with real-time word highlighting | Medium | [#138](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/138) |
-| feat: Add frontend authentication UI | Medium | [#135](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/135) |
+| Add configurable Inference Parameters and System Prompt | Medium | [#139](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/139) |
 | Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
