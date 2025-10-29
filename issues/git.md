@@ -45,6 +45,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incorrect dark mode implementation | Medium | [#467](https://github.com/Bhavya1352/eventmappr/issues/467) |
 | User logs out and gets 404 when visiting Profile page after sign in | Medium | [#466](https://github.com/Bhavya1352/eventmappr/issues/466) |
 | Bug: Currency Exchange Page Ignores Dark Mode Settings | Medium | [#465](https://github.com/Bhavya1352/eventmappr/issues/465) |
 | .Improve Dark Mode UI and Consistency | Medium | [#464](https://github.com/Bhavya1352/eventmappr/issues/464) |
@@ -248,6 +249,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Newsletter  Functionality in footer | Medium | [#220](https://github.com/aayushraj1010/med-genie/issues/220) |
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
@@ -271,15 +273,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | No Session Timeout or Auto Logout – Sensitive Data at Risk | Easy | [#160](https://github.com/AditiGupta-tech/neonest/issues/160) |
-| User Dashboard Layout (Frontend Only) | Medium | [#307](https://github.com/AditiGupta-tech/neonest/pull/307) |
 | Feature/dashboard analytics widgets fixed issues #6 | Medium | [#306](https://github.com/AditiGupta-tech/neonest/pull/306) |
 | feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | Integrate the NeoNest Lullaby feature with a music streaming API | Medium | [#187](https://github.com/AditiGupta-tech/neonest/issues/187) |
 | Restrict "Add Review" to Logged-in Users & Save Reviews | Medium | [#179](https://github.com/AditiGupta-tech/neonest/issues/179) |
-| User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 | Content: Add lullabies from diverse languages and update filter accordingly | Medium | [#134](https://github.com/AditiGupta-tech/neonest/issues/134) |
 | Feat: Add Internationalization (i18n) Support for NeoNest | Medium | [#50](https://github.com/AditiGupta-tech/neonest/issues/50) |
+| Backend API for User Dashboard (Data fetch & auth) | Medium | [#5](https://github.com/AditiGupta-tech/neonest/issues/5) |
 | Feature Request: Baby Cry Detector | Hard | [#122](https://github.com/AditiGupta-tech/neonest/issues/122) |
 | Feature request: “Smart Care” Tab with Real-Time AI Baby Care Suggestions | Hard | [#64](https://github.com/AditiGupta-tech/neonest/issues/64) |
 | Feature Request: Add Baby Health Analytics Dashboard | Hard | [#15](https://github.com/AditiGupta-tech/neonest/issues/15) |
@@ -556,7 +557,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature Enhancement: Add Chatbot to Eventra Platform | Easy | [#702](https://github.com/SandeepVashishtha/Eventra/issues/702) |
-| Improved Contributing.md | Medium | [#795](https://github.com/SandeepVashishtha/Eventra/issues/795) |
+| Contact Form Validation: Name, Message and Subject Fields Accept Insufficient (Single-Character) and Non-Descriptive Inputs | Easy | [#681](https://github.com/SandeepVashishtha/Eventra/issues/681) |
 | emoji not aligned | Medium | [#542](https://github.com/SandeepVashishtha/Eventra/issues/542) |
 
 ---
