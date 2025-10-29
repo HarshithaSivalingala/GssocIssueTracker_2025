@@ -271,12 +271,9 @@
 | ui fix | Medium | [#228](https://github.com/SrigadaAkshayKumar/stock/issues/228) |
 | 🚨 [BUG] Firebase Authentication Error: “auth/unauthorized-domain” on Login and Signup Pages | Medium | [#227](https://github.com/SrigadaAkshayKumar/stock/issues/227) |
 | Title Color | Medium | [#222](https://github.com/SrigadaAkshayKumar/stock/issues/222) |
-| Background image doesn't cover the full div at the homepage | Medium | [#217](https://github.com/SrigadaAkshayKumar/stock/issues/217) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
 | Replaced alert with toast notifications in StockList | Medium | [#213](https://github.com/SrigadaAkshayKumar/stock/pull/213) |
 | Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
-| Redesign the About Page for Better Visual Appeal and Clarity | Medium | [#207](https://github.com/SrigadaAkshayKumar/stock/issues/207) |
-| Footer background color inconsistent with overall website theme | Medium | [#200](https://github.com/SrigadaAkshayKumar/stock/issues/200) |
 | Redesign Login Page Background for Consistency & Improved UX | Medium | [#199](https://github.com/SrigadaAkshayKumar/stock/issues/199) |
 | Updated Stockdata.jsx and Predict.jsx with backend API URL | Medium | [#151](https://github.com/SrigadaAkshayKumar/stock/pull/151) |
 
@@ -296,6 +293,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/itsAnimation/AnimateItNow/issues/1704) |
 | contributor page enhancement | Medium | [#1703](https://github.com/itsAnimation/AnimateItNow/issues/1703) |
 | Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/itsAnimation/AnimateItNow/issues/1702) |
 | Enhancing feedback page | Medium | [#1701](https://github.com/itsAnimation/AnimateItNow/issues/1701) |
@@ -451,6 +449,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incorrect dark mode implementation | Medium | [#467](https://github.com/Bhavya1352/eventmappr/issues/467) |
 | User logs out and gets 404 when visiting Profile page after sign in | Medium | [#466](https://github.com/Bhavya1352/eventmappr/issues/466) |
 | Bug: Currency Exchange Page Ignores Dark Mode Settings | Medium | [#465](https://github.com/Bhavya1352/eventmappr/issues/465) |
 | .Improve Dark Mode UI and Consistency | Medium | [#464](https://github.com/Bhavya1352/eventmappr/issues/464) |
@@ -777,6 +776,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: mobile responsive layout for homepage | Medium | [#441](https://github.com/omroy07/AgriTech/pull/441) |
 | <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
@@ -1030,6 +1030,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| New Prject Quick Image finder | Medium | [#1040](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1040) |
+| New Portfolio Generating Website | Medium | [#1039](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1039) |
+| image finder | Medium | [#1038](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1038) |
+| BMI Calculator | Medium | [#1037](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1037) |
+| Portfolio Generator | Medium | [#1036](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1036) |
 | Debatable — The AI-Powered Argument Arena | Medium | [#1035](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1035) |
 | Add SkillSprint Website | Medium | [#1032](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1032) |
 | Add Reality Splitter – A Web-Based Multiverse Simulator | Medium | [#1026](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1026) |
@@ -1045,8 +1050,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Hangman Challenge 🎯 | Medium | [#1000](https://github.com/ruchikakengal/WebDevIn100_Days/pull/1000) |
 | Pull Request : AI Startup Landing Page | Medium | [#995](https://github.com/ruchikakengal/WebDevIn100_Days/pull/995) |
 | Day 151 — Jewellery Website: Project page shows 404 error message | Medium | [#992](https://github.com/ruchikakengal/WebDevIn100_Days/issues/992) |
-| Day 108 — Christmas Lights: Project page shows 404 error message | Medium | [#991](https://github.com/ruchikakengal/WebDevIn100_Days/issues/991) |
-| Add Pull Request (PR) Template | Medium | [#987](https://github.com/ruchikakengal/WebDevIn100_Days/issues/987) |
 | Add the Correct Route | Hard | [#1027](https://github.com/ruchikakengal/WebDevIn100_Days/issues/1027) |
 
 ---
@@ -1124,11 +1127,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump canvas-confetti from 1.9.3 to 1.9.4 | Easy | [#1092](https://github.com/recodehive/recode-website/pull/1092) |
-| chore: bump lucide-react from 0.503.0 to 0.548.0 | Easy | [#1091](https://github.com/recodehive/recode-website/pull/1091) |
-| chore: bump @tailwindcss/postcss from 4.1.14 to 4.1.16 | Easy | [#1090](https://github.com/recodehive/recode-website/pull/1090) |
-| chore: bump @docusaurus/plugin-ideal-image from 3.9.1 to 3.9.2 | Easy | [#1089](https://github.com/recodehive/recode-website/pull/1089) |
-| 🐞[Bug]: Swapping 1st and 2nd top performers | Easy | [#1087](https://github.com/recodehive/recode-website/issues/1087) |
+| All the blogs are not appearing in the side bar | Easy | [#1101](https://github.com/recodehive/recode-website/issues/1101) |
+| Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
+| Remove the highlighted on community page | Easy | [#1099](https://github.com/recodehive/recode-website/issues/1099) |
+| remove the highlighted area on broadcast page | Easy | [#1098](https://github.com/recodehive/recode-website/issues/1098) |
+| Fix the black hover on the podcast page | Easy | [#1097](https://github.com/recodehive/recode-website/issues/1097) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
@@ -1490,15 +1493,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | No Session Timeout or Auto Logout – Sensitive Data at Risk | Easy | [#160](https://github.com/AditiGupta-tech/neonest/issues/160) |
-| User Dashboard Layout (Frontend Only) | Medium | [#307](https://github.com/AditiGupta-tech/neonest/pull/307) |
 | Feature/dashboard analytics widgets fixed issues #6 | Medium | [#306](https://github.com/AditiGupta-tech/neonest/pull/306) |
 | feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
 | Integrate the NeoNest Lullaby feature with a music streaming API | Medium | [#187](https://github.com/AditiGupta-tech/neonest/issues/187) |
 | Restrict "Add Review" to Logged-in Users & Save Reviews | Medium | [#179](https://github.com/AditiGupta-tech/neonest/issues/179) |
-| User Dashboard Backend API added | Medium | [#177](https://github.com/AditiGupta-tech/neonest/pull/177) |
 | Content: Add lullabies from diverse languages and update filter accordingly | Medium | [#134](https://github.com/AditiGupta-tech/neonest/issues/134) |
 | Feat: Add Internationalization (i18n) Support for NeoNest | Medium | [#50](https://github.com/AditiGupta-tech/neonest/issues/50) |
+| Backend API for User Dashboard (Data fetch & auth) | Medium | [#5](https://github.com/AditiGupta-tech/neonest/issues/5) |
 | Feature Request: Baby Cry Detector | Hard | [#122](https://github.com/AditiGupta-tech/neonest/issues/122) |
 | Feature request: “Smart Care” Tab with Real-Time AI Baby Care Suggestions | Hard | [#64](https://github.com/AditiGupta-tech/neonest/issues/64) |
 | Feature Request: Add Baby Health Analytics Dashboard | Hard | [#15](https://github.com/AditiGupta-tech/neonest/issues/15) |
@@ -1741,6 +1743,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Hackathon and Contribution Section Please Review | Medium | [#1251](https://github.com/gyanshankar1708/GrowCraft/pull/1251) |
 | Enhancement of Contributing.md | Medium | [#1250](https://github.com/gyanshankar1708/GrowCraft/pull/1250) |
 | Implement modern CSS variables and enhance styles | Medium | [#1247](https://github.com/gyanshankar1708/GrowCraft/pull/1247) |
 | Title: Fix Typos and Naming Inconsistencies Across Repository | Medium | [#1246](https://github.com/gyanshankar1708/GrowCraft/issues/1246) |
@@ -1767,7 +1770,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | to improve the overall syling of the service section in the home page and make the dark mode button functional | Medium | [#1187](https://github.com/gyanshankar1708/GrowCraft/issues/1187) |
 | unwanted login signup options | Medium | [#1186](https://github.com/gyanshankar1708/GrowCraft/issues/1186) |
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
-| missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
 
 ---
 
@@ -2046,7 +2048,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| pre-commit autoupdate | Medium | [#107](https://github.com/Drago-03/GroqTales/pull/107) |
 | added a copy to clipboard button | Medium | [#81](https://github.com/Drago-03/GroqTales/pull/81) |
 | Feat/#18 adding images for nft gallery | Medium | [#80](https://github.com/Drago-03/GroqTales/pull/80) |
 
@@ -2126,7 +2127,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump axios from 1.7.9 to 1.13.0 | Medium | [#159](https://github.com/Ojas-Arora/SapneSeSafar/pull/159) |
+| Bump axios from 1.7.9 to 1.13.1 | Medium | [#160](https://github.com/Ojas-Arora/SapneSeSafar/pull/160) |
 | Bump lucide-react from 0.344.0 to 0.548.0 | Medium | [#158](https://github.com/Ojas-Arora/SapneSeSafar/pull/158) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.0 | Medium | [#157](https://github.com/Ojas-Arora/SapneSeSafar/pull/157) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
