@@ -153,17 +153,15 @@
 | Logo Hover Effect Issue on GitHub and Discord Icons | Medium | [#993](https://github.com/opensource-society/notesvault/issues/993) |
 | Discord and GitHub logos not visible on hover | Medium | [#992](https://github.com/opensource-society/notesvault/issues/992) |
 | Ambient Gradient Wave Background | Medium | [#991](https://github.com/opensource-society/notesvault/issues/991) |
-| Fix: Added forgot-password.html placeholder page and updated login flow | Medium | [#990](https://github.com/opensource-society/notesvault/pull/990) |
 | Add Pull Request (PR) Template | Medium | [#987](https://github.com/opensource-society/notesvault/pull/987) |
 | Filtering, sorting and search functionality added in PYQ section Dashboard | Medium | [#986](https://github.com/opensource-society/notesvault/pull/986) |
 | feat: add dynamic current year in footer using inline JavaScript | Medium | [#985](https://github.com/opensource-society/notesvault/pull/985) |
-| Unauthorized Access to Core Features (Authorization Bypass) | Medium | [#983](https://github.com/opensource-society/notesvault/issues/983) |
-| Add a 'Semester' field in Feedback form to collect more user insights | Medium | [#981](https://github.com/opensource-society/notesvault/issues/981) |
-| Name field accepts single-character input in Feedback form | Medium | [#980](https://github.com/opensource-society/notesvault/issues/980) |
 | Add Favorites / Bookmark Feature for Notes | Medium | [#979](https://github.com/opensource-society/notesvault/issues/979) |
 | Theme toggle clarity and persistence | Medium | [#977](https://github.com/opensource-society/notesvault/issues/977) |
 | Inline Add New Notes Form (Uninteractive File Upload) | Medium | [#973](https://github.com/opensource-society/notesvault/issues/973) |
 | Quick Upload Notes from Dashboard | Medium | [#971](https://github.com/opensource-society/notesvault/issues/971) |
+| UI Enhancement: Improve Light Mode Theme on Home Page | Medium | [#970](https://github.com/opensource-society/notesvault/issues/970) |
+| Improve Task/To-Do List Functionality | Medium | [#967](https://github.com/opensource-society/notesvault/issues/967) |
 
 ---
 
@@ -440,6 +438,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
@@ -472,6 +471,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed UI issues (#1776, #1759, #1783, #1696) - improved navigation, f… | Medium | [#1883](https://github.com/apu52/Travel_Website/pull/1883) |
 | feat: Implement modern CSS styling for all authentication and contact… | Medium | [#1882](https://github.com/apu52/Travel_Website/pull/1882) |
 | Added elegent hover effect to navbar buttons | Medium | [#1881](https://github.com/apu52/Travel_Website/pull/1881) |
 | Add smooth transition effect to images in card section | Medium | [#1880](https://github.com/apu52/Travel_Website/issues/1880) |
@@ -501,7 +501,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Image not visible | Medium | [#1856](https://github.com/apu52/Travel_Website/issues/1856) |
 | feat: Travel Chat | Medium | [#1855](https://github.com/apu52/Travel_Website/pull/1855) |
 | fix: update topdeals layout for responsive cards and footer#1838 | Medium | [#1854](https://github.com/apu52/Travel_Website/pull/1854) |
-| Added hover grow effect for navbar links | Medium | [#1853](https://github.com/apu52/Travel_Website/pull/1853) |
 
 ---
 
@@ -588,6 +587,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Navbar background color inconsistency on Contact page in light mode | Medium | [#468](https://github.com/Bhavya1352/eventmappr/issues/468) |
 | Incorrect dark mode implementation | Medium | [#467](https://github.com/Bhavya1352/eventmappr/issues/467) |
 | User logs out and gets 404 when visiting Profile page after sign in | Medium | [#466](https://github.com/Bhavya1352/eventmappr/issues/466) |
 | Bug: Currency Exchange Page Ignores Dark Mode Settings | Medium | [#465](https://github.com/Bhavya1352/eventmappr/issues/465) |
@@ -734,6 +734,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Contribution.md file(Level 2) | Medium | [#21](https://github.com/Jotthecode/CITY-PULSE/issues/21) |
 | 🚫 License Missing from Repository | Medium | [#20](https://github.com/Jotthecode/CITY-PULSE/issues/20) |
 | Add License and Update README | Medium | [#16](https://github.com/Jotthecode/CITY-PULSE/pull/16) |
+
+---
+
+## 📌 Project: DreamJobs-Job Portal 
+
+📝 **Description:** this project aims to bridge the gap between job seekers and employers 
+
+🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix: Remove Duplicate Login Function in views.py | Medium | [#281](https://github.com/Khushi-Nigam/jobportal/issues/281) |
 
 ---
 
@@ -1164,29 +1182,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: TalkHeal
-
-📝 **Description:** • A compassionate AI-based mental health assistant
-• 24/7 support with smart chat history
-• Mood slider and AI-based coping tips
-• Mental health resources and helplines
-• Location-based center search (Google Maps)
-• Clean 3D-inspired pink/magenta UI and mobile-ready responsive design
-
-🔗 [View Project](https://github.com/eccentriccoder01/TalkHeal)
-
-💻 **Tech Stack:** Python, Streamlit, Gemini API, CSS3
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Feedback, Contact Us, and UI Enhancements | Medium | [#620](https://github.com/eccentriccoder01/TalkHeal/issues/620) |
-
----
-
 ## 📌 Project: Sneaker Price Prediction using Machine Learning
 
 📝 **Description:** A Django-based web application that predicts sneaker prices using machine learning. It leverages historical sneaker data, performs preprocessing, model training, and allows users to input features like brand, color, and release year to get an estimated price.
@@ -1251,12 +1246,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refix: Home icon alignment in Docs breadcrumbs | Easy | [#1110](https://github.com/recodehive/recode-website/pull/1110) |
+| feat(UI): Add hover state effects for badges in Achievement Skin Tone table | Easy | [#1109](https://github.com/recodehive/recode-website/pull/1109) |
+| #1095 Apply the same background on terms and cond.... | Easy | [#1108](https://github.com/recodehive/recode-website/pull/1108) |
 | All the blogs are not appearing in the side bar | Easy | [#1101](https://github.com/recodehive/recode-website/issues/1101) |
 | Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
 | Remove the highlighted on community page | Easy | [#1099](https://github.com/recodehive/recode-website/issues/1099) |
 | remove the highlighted area on broadcast page | Easy | [#1098](https://github.com/recodehive/recode-website/issues/1098) |
 | Fix the black hover on the podcast page | Easy | [#1097](https://github.com/recodehive/recode-website/issues/1097) |
-| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
 
