@@ -153,17 +153,15 @@
 | Logo Hover Effect Issue on GitHub and Discord Icons | Medium | [#993](https://github.com/opensource-society/notesvault/issues/993) |
 | Discord and GitHub logos not visible on hover | Medium | [#992](https://github.com/opensource-society/notesvault/issues/992) |
 | Ambient Gradient Wave Background | Medium | [#991](https://github.com/opensource-society/notesvault/issues/991) |
-| Fix: Added forgot-password.html placeholder page and updated login flow | Medium | [#990](https://github.com/opensource-society/notesvault/pull/990) |
 | Add Pull Request (PR) Template | Medium | [#987](https://github.com/opensource-society/notesvault/pull/987) |
 | Filtering, sorting and search functionality added in PYQ section Dashboard | Medium | [#986](https://github.com/opensource-society/notesvault/pull/986) |
 | feat: add dynamic current year in footer using inline JavaScript | Medium | [#985](https://github.com/opensource-society/notesvault/pull/985) |
-| Unauthorized Access to Core Features (Authorization Bypass) | Medium | [#983](https://github.com/opensource-society/notesvault/issues/983) |
-| Add a 'Semester' field in Feedback form to collect more user insights | Medium | [#981](https://github.com/opensource-society/notesvault/issues/981) |
-| Name field accepts single-character input in Feedback form | Medium | [#980](https://github.com/opensource-society/notesvault/issues/980) |
 | Add Favorites / Bookmark Feature for Notes | Medium | [#979](https://github.com/opensource-society/notesvault/issues/979) |
 | Theme toggle clarity and persistence | Medium | [#977](https://github.com/opensource-society/notesvault/issues/977) |
 | Inline Add New Notes Form (Uninteractive File Upload) | Medium | [#973](https://github.com/opensource-society/notesvault/issues/973) |
 | Quick Upload Notes from Dashboard | Medium | [#971](https://github.com/opensource-society/notesvault/issues/971) |
+| UI Enhancement: Improve Light Mode Theme on Home Page | Medium | [#970](https://github.com/opensource-society/notesvault/issues/970) |
+| Improve Task/To-Do List Functionality | Medium | [#967](https://github.com/opensource-society/notesvault/issues/967) |
 
 ---
 
@@ -334,6 +332,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
@@ -366,6 +365,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed UI issues (#1776, #1759, #1783, #1696) - improved navigation, f… | Medium | [#1883](https://github.com/apu52/Travel_Website/pull/1883) |
 | feat: Implement modern CSS styling for all authentication and contact… | Medium | [#1882](https://github.com/apu52/Travel_Website/pull/1882) |
 | Added elegent hover effect to navbar buttons | Medium | [#1881](https://github.com/apu52/Travel_Website/pull/1881) |
 | Add smooth transition effect to images in card section | Medium | [#1880](https://github.com/apu52/Travel_Website/issues/1880) |
@@ -395,7 +395,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Image not visible | Medium | [#1856](https://github.com/apu52/Travel_Website/issues/1856) |
 | feat: Travel Chat | Medium | [#1855](https://github.com/apu52/Travel_Website/pull/1855) |
 | fix: update topdeals layout for responsive cards and footer#1838 | Medium | [#1854](https://github.com/apu52/Travel_Website/pull/1854) |
-| Added hover grow effect for navbar links | Medium | [#1853](https://github.com/apu52/Travel_Website/pull/1853) |
 
 ---
 
@@ -449,6 +448,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Navbar background color inconsistency on Contact page in light mode | Medium | [#468](https://github.com/Bhavya1352/eventmappr/issues/468) |
 | Incorrect dark mode implementation | Medium | [#467](https://github.com/Bhavya1352/eventmappr/issues/467) |
 | User logs out and gets 404 when visiting Profile page after sign in | Medium | [#466](https://github.com/Bhavya1352/eventmappr/issues/466) |
 | Bug: Currency Exchange Page Ignores Dark Mode Settings | Medium | [#465](https://github.com/Bhavya1352/eventmappr/issues/465) |
@@ -552,7 +552,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add /config ai command for AI assistant configuration- Implemen… | Medium | [#81](https://github.com/harshendram/Advanced-Discord-Bot/pull/81) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
 | Overhauling AI section | Hard | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
@@ -637,6 +636,24 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | plz change the google client id in env present in the client folder . | Medium | [#25](https://github.com/kanikaa-3018/contest_onlinejudge/pull/25) |
 | 🔔 Feature: Automatically Send Welcome Email Upon User Signup | Medium | [#23](https://github.com/kanikaa-3018/contest_onlinejudge/pull/23) |
 | Fix: Improve theme toggle consistency and persistence | Medium | [#6](https://github.com/kanikaa-3018/contest_onlinejudge/pull/6) |
+
+---
+
+## 📌 Project: DreamJobs-Job Portal 
+
+📝 **Description:** this project aims to bridge the gap between job seekers and employers 
+
+🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix: Remove Duplicate Login Function in views.py | Medium | [#281](https://github.com/Khushi-Nigam/jobportal/issues/281) |
 
 ---
 
@@ -1127,12 +1144,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refix: Home icon alignment in Docs breadcrumbs | Easy | [#1110](https://github.com/recodehive/recode-website/pull/1110) |
+| feat(UI): Add hover state effects for badges in Achievement Skin Tone table | Easy | [#1109](https://github.com/recodehive/recode-website/pull/1109) |
+| #1095 Apply the same background on terms and cond.... | Easy | [#1108](https://github.com/recodehive/recode-website/pull/1108) |
 | All the blogs are not appearing in the side bar | Easy | [#1101](https://github.com/recodehive/recode-website/issues/1101) |
 | Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
 | Remove the highlighted on community page | Easy | [#1099](https://github.com/recodehive/recode-website/issues/1099) |
 | remove the highlighted area on broadcast page | Easy | [#1098](https://github.com/recodehive/recode-website/issues/1098) |
 | Fix the black hover on the podcast page | Easy | [#1097](https://github.com/recodehive/recode-website/issues/1097) |
-| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
 
@@ -2127,18 +2146,18 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump react-router-dom from 6.28.2 to 7.9.5 | Medium | [#162](https://github.com/Ojas-Arora/SapneSeSafar/pull/162) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.77.0 | Medium | [#161](https://github.com/Ojas-Arora/SapneSeSafar/pull/161) |
 | Bump axios from 1.7.9 to 1.13.1 | Medium | [#160](https://github.com/Ojas-Arora/SapneSeSafar/pull/160) |
 | Bump lucide-react from 0.344.0 to 0.548.0 | Medium | [#158](https://github.com/Ojas-Arora/SapneSeSafar/pull/158) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.0 | Medium | [#157](https://github.com/Ojas-Arora/SapneSeSafar/pull/157) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump tailwindcss from 3.4.17 to 4.1.16 | Medium | [#155](https://github.com/Ojas-Arora/SapneSeSafar/pull/155) |
 | Bump vite from 5.4.17 to 7.1.12 | Medium | [#154](https://github.com/Ojas-Arora/SapneSeSafar/pull/154) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.76.1 | Medium | [#153](https://github.com/Ojas-Arora/SapneSeSafar/pull/153) |
 | Bump recharts from 2.15.0 to 3.3.0 | Medium | [#148](https://github.com/Ojas-Arora/SapneSeSafar/pull/148) |
 | Bump eslint from 9.12.0 to 9.38.0 | Medium | [#147](https://github.com/Ojas-Arora/SapneSeSafar/pull/147) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.24 | Medium | [#145](https://github.com/Ojas-Arora/SapneSeSafar/pull/145) |
 | Bump framer-motion from 11.18.2 to 12.23.24 | Medium | [#143](https://github.com/Ojas-Arora/SapneSeSafar/pull/143) |
-| Bump react-router-dom from 6.28.2 to 7.9.4 | Medium | [#140](https://github.com/Ojas-Arora/SapneSeSafar/pull/140) |
 | Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
