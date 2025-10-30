@@ -40,7 +40,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed missing border on buttons and unwanted GitHub logo on star button | Medium | [#524](https://github.com/Ayushjhawar8/Flavor-ai/pull/524) |
+| Hero Section of recipe Not Responsive on Mobile – Misaligned & Cut Off | Easy | [#527](https://github.com/Ayushjhawar8/Flavor-ai/issues/527) |
+| Fixed missing border on buttons and unwanted GitHub logo on star button | Easy | [#524](https://github.com/Ayushjhawar8/Flavor-ai/pull/524) |
+| Hero Section of recipe Not Responsive on Mobile – Misaligned & Cut Off | Medium | [#528](https://github.com/Ayushjhawar8/Flavor-ai/pull/528) |
 
 ---
 
