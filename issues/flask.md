@@ -22,6 +22,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
@@ -405,8 +406,8 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| Add configurable Inference Parameters and System Prompt | Medium | [#139](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/139) |
-| Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
+| Auth backend | Medium | [#141](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/141) |
+| feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
