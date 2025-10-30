@@ -52,6 +52,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
@@ -335,6 +336,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add download button UI for PDF resources | Medium | [#132](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/132) |
 | Add Dark Mode Toggle with Initial Page Theme Support | Medium | [#131](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/131) |
 | made some changes | Medium | [#128](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/128) |
 | refactor/modified-footer | Medium | [#127](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/127) |
