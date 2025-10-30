@@ -62,6 +62,7 @@ Accessibility features like dark mode,white.
 | 💬 Share Your Experience — Landing Page Integration | Easy | [#618](https://github.com/abhisek2004/Dev-Elevate/issues/618) |
 | 🧭 Admin Dashboard — Backend Integration | Easy | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 | 🧩 Forgot Password — Functional Implementation | Easy | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
+| 📊 Weekly Project Summary - 10/29/2025 | Medium | [#628](https://github.com/abhisek2004/Dev-Elevate/issues/628) |
 | 📊 Weekly Project Summary - 10/28/2025 | Medium | [#626](https://github.com/abhisek2004/Dev-Elevate/issues/626) |
 
 ---
@@ -209,15 +210,10 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
-| Added GSSoC'25 Announcement | Medium | [#298](https://github.com/BhaktiMore18/Pouranik/pull/298) |
-| fixed issue:Add hover effect on certain cards | Medium | [#297](https://github.com/BhaktiMore18/Pouranik/pull/297) |
-| Fix: Improve Explore/Search area visibility and spacing for light & dark themes | Medium | [#294](https://github.com/BhaktiMore18/Pouranik/pull/294) |
-| feat: add bookmark / favorites feature | Medium | [#291](https://github.com/BhaktiMore18/Pouranik/pull/291) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#268](https://github.com/BhaktiMore18/Pouranik/issues/268) |
 | Fixes #247: Added Blog Section | Hard | [#251](https://github.com/BhaktiMore18/Pouranik/pull/251) |
-| Replace Chatbase with fully integrated in-house GenAI chatbot (#214) | Hard | [#223](https://github.com/BhaktiMore18/Pouranik/pull/223) |
 
 ---
 
@@ -1631,6 +1627,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add download button UI for PDF resources | Medium | [#132](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/132) |
 | Add Dark Mode Toggle with Initial Page Theme Support | Medium | [#131](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/131) |
 | made some changes | Medium | [#128](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/128) |
 | refactor/modified-footer | Medium | [#127](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/127) |
