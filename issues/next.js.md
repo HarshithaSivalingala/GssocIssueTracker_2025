@@ -102,7 +102,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/mock interview report overflow | Medium | [#120](https://github.com/huamanraj/aitoolbox.software/pull/120) |
 | Footer Not Responsive on Mobile Devices | Medium | [#119](https://github.com/huamanraj/aitoolbox.software/issues/119) |
 | Add AI Research Paper Summarizer Tool | Medium | [#116](https://github.com/huamanraj/aitoolbox.software/issues/116) |
 | Add social links in footer | Medium | [#112](https://github.com/huamanraj/aitoolbox.software/issues/112) |
@@ -167,8 +166,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Establish an e2e backend instance locally and in CI/CD | Easy | [#2429](https://github.com/OWASP/Nest/pull/2429) |
+| Bump langchain from 0.3.27 to 1.0.3 in /backend | Medium | [#2512](https://github.com/OWASP/Nest/pull/2512) |
 | Fix: Prevent Accidental Map Zooming While Scrolling on Landing Page | Medium | [#2508](https://github.com/OWASP/Nest/pull/2508) |
-| refactor: replace window with globalThis | Medium | [#2507](https://github.com/OWASP/Nest/pull/2507) |
 | Refactor layout and styling of Leaders and UserCard components for im… | Medium | [#2501](https://github.com/OWASP/Nest/pull/2501) |
 | Extend Board Candidates Transparency Dashboard | Medium | [#2500](https://github.com/OWASP/Nest/issues/2500) |
 | Extend Project Health Dashboard to chapters | Medium | [#2499](https://github.com/OWASP/Nest/issues/2499) |
@@ -176,37 +175,16 @@
 | Remove array indexes as keys in JSX | Medium | [#2497](https://github.com/OWASP/Nest/pull/2497) |
 | Feature: Terms of Service Page Implementation | Medium | [#2496](https://github.com/OWASP/Nest/issues/2496) |
 | Feature: Privacy Policy Page Implementation | Medium | [#2495](https://github.com/OWASP/Nest/issues/2495) |
-| feat: implement multi-column sorting for project health metrics | Medium | [#2493](https://github.com/OWASP/Nest/pull/2493) |
 | refactor: frontend functions to reduce deep nesting violations | Medium | [#2491](https://github.com/OWASP/Nest/pull/2491) |
-| fix: Fix error 500 for OWASP Virtual Chapter | Medium | [#2481](https://github.com/OWASP/Nest/pull/2481) |
 | Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
-| Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
 | Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
+| Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
+| Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
-
----
-
-## 📌 Project: Flavor Ai
-
-📝 **Description:** This project is designed to make meal planning and recipe exploration effortless and fun. Whether you're looking for AI-curated recipes, diverse food categories, or exciting culinary surprises, FlavorAI has it all.
-
-🔗 [View Project](https://github.com/Ayushjhawar8/Flavor-ai)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, DaisyUI, OpenAI API, Groq API, Vercel
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Hero Section of recipe Not Responsive on Mobile – Misaligned & Cut Off | Easy | [#527](https://github.com/Ayushjhawar8/Flavor-ai/issues/527) |
-| Fixed missing border on buttons and unwanted GitHub logo on star button | Easy | [#524](https://github.com/Ayushjhawar8/Flavor-ai/pull/524) |
-| Hero Section of recipe Not Responsive on Mobile – Misaligned & Cut Off | Medium | [#528](https://github.com/Ayushjhawar8/Flavor-ai/pull/528) |
 
 ---
 
@@ -526,14 +504,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refix: Home icon alignment in Docs breadcrumbs | Easy | [#1110](https://github.com/recodehive/recode-website/pull/1110) |
-| feat(UI): Add hover state effects for badges in Achievement Skin Tone table | Easy | [#1109](https://github.com/recodehive/recode-website/pull/1109) |
-| #1095 Apply the same background on terms and cond.... | Easy | [#1108](https://github.com/recodehive/recode-website/pull/1108) |
-| All the blogs are not appearing in the side bar | Easy | [#1101](https://github.com/recodehive/recode-website/issues/1101) |
 | Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
-| Remove the highlighted on community page | Easy | [#1099](https://github.com/recodehive/recode-website/issues/1099) |
-| remove the highlighted area on broadcast page | Easy | [#1098](https://github.com/recodehive/recode-website/issues/1098) |
-| Fix the black hover on the podcast page | Easy | [#1097](https://github.com/recodehive/recode-website/issues/1097) |
+| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
 
@@ -820,6 +792,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | No Session Timeout or Auto Logout – Sensitive Data at Risk | Easy | [#160](https://github.com/AditiGupta-tech/neonest/issues/160) |
+| view all reviews | Medium | [#309](https://github.com/AditiGupta-tech/neonest/issues/309) |
+| ENHANCEMENT: Add 3D visual effect to homepage flexbox section | Medium | [#308](https://github.com/AditiGupta-tech/neonest/issues/308) |
 | Feature/dashboard analytics widgets fixed issues #6 | Medium | [#306](https://github.com/AditiGupta-tech/neonest/pull/306) |
 | feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
@@ -1151,6 +1125,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
+| Added response regeneration with multi-model support and version control | Medium | [#143](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/143) |
 | Auth backend | Medium | [#141](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/141) |
 | feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
@@ -1280,13 +1255,8 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add download button UI for PDF resources | Medium | [#132](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/132) |
+| chore(root): remove accidental node dependency from root package.json | Medium | [#133](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/133) |
 | Add Dark Mode Toggle with Initial Page Theme Support | Medium | [#131](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/131) |
-| made some changes | Medium | [#128](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/128) |
-| refactor/modified-footer | Medium | [#127](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/127) |
-| Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
-| feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
-| Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
 | Feature Request: Mentor Connect – Connect Students with Toppers, Seniors, and Faculty | Hard | [#25](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/25) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
@@ -1357,6 +1327,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Modern Footer component | Medium | [#102](https://github.com/subhadeeproy3902/mvpblocks/pull/102) |
 | Adding the Personal Finance Dashboard component to mvpblocks | Medium | [#101](https://github.com/subhadeeproy3902/mvpblocks/pull/101) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
