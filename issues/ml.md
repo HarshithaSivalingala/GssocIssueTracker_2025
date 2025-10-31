@@ -136,32 +136,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <Short feature description> <need to add more subjects> | Medium | [#1025](https://github.com/opensource-society/notesvault/issues/1025) |
-| ui enhancement | Medium | [#1024](https://github.com/opensource-society/notesvault/issues/1024) |
-| Add GSSoC'25 Banner. | Medium | [#1016](https://github.com/opensource-society/notesvault/issues/1016) |
-| CSS a11y: focus-visible, skip link, reduced-motion; notes grid auto-fit + hover contrast; modal helpers | Medium | [#1015](https://github.com/opensource-society/notesvault/pull/1015) |
-| HTML-only: header/footer fragments + a11y improvements (Home & Notes) | Medium | [#1014](https://github.com/opensource-society/notesvault/pull/1014) |
-| Add “Study Path / Curriculum Tracker” | Medium | [#1013](https://github.com/opensource-society/notesvault/issues/1013) |
-| footer settings | Medium | [#1012](https://github.com/opensource-society/notesvault/pull/1012) |
-| Added  Favorites/Bookmark Feature for Notes Page | Medium | [#1011](https://github.com/opensource-society/notesvault/pull/1011) |
-| Enhance UI by Hiding or Customizing Webkit Scrollbar for Cleaner Layout | Medium | [#1010](https://github.com/opensource-society/notesvault/issues/1010) |
-| Interactive Star-Based Feedback System | Medium | [#1009](https://github.com/opensource-society/notesvault/issues/1009) |
-| Footer | Medium | [#1007](https://github.com/opensource-society/notesvault/issues/1007) |
-| 🪲 Bug Report: Unable to Login After Account Creation | Medium | [#1003](https://github.com/opensource-society/notesvault/issues/1003) |
-| <Short bug description> Double Privacy policy and TOS in footer section | Medium | [#999](https://github.com/opensource-society/notesvault/issues/999) |
-| fix: added smooth fade transition between pages to reduce white flash | Medium | [#998](https://github.com/opensource-society/notesvault/pull/998) |
-| Logo Hover Effect Issue on GitHub and Discord Icons | Medium | [#993](https://github.com/opensource-society/notesvault/issues/993) |
-| Discord and GitHub logos not visible on hover | Medium | [#992](https://github.com/opensource-society/notesvault/issues/992) |
-| Ambient Gradient Wave Background | Medium | [#991](https://github.com/opensource-society/notesvault/issues/991) |
-| Add Pull Request (PR) Template | Medium | [#987](https://github.com/opensource-society/notesvault/pull/987) |
-| Filtering, sorting and search functionality added in PYQ section Dashboard | Medium | [#986](https://github.com/opensource-society/notesvault/pull/986) |
-| feat: add dynamic current year in footer using inline JavaScript | Medium | [#985](https://github.com/opensource-society/notesvault/pull/985) |
-| Add Favorites / Bookmark Feature for Notes | Medium | [#979](https://github.com/opensource-society/notesvault/issues/979) |
-| Theme toggle clarity and persistence | Medium | [#977](https://github.com/opensource-society/notesvault/issues/977) |
-| Inline Add New Notes Form (Uninteractive File Upload) | Medium | [#973](https://github.com/opensource-society/notesvault/issues/973) |
-| Quick Upload Notes from Dashboard | Medium | [#971](https://github.com/opensource-society/notesvault/issues/971) |
-| UI Enhancement: Improve Light Mode Theme on Home Page | Medium | [#970](https://github.com/opensource-society/notesvault/issues/970) |
-| Improve Task/To-Do List Functionality | Medium | [#967](https://github.com/opensource-society/notesvault/issues/967) |
+| Fix: "Upload Notes" button not redirecting from Dashboard page | Medium | [#1031](https://github.com/opensource-society/notesvault/pull/1031) |
+| fix: correct Welcome Back button redirection logic | Medium | [#1030](https://github.com/opensource-society/notesvault/pull/1030) |
 
 ---
 
@@ -737,24 +713,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: DreamJobs-Job Portal 
-
-📝 **Description:** this project aims to bridge the gap between job seekers and employers 
-
-🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Fix: Remove Duplicate Login Function in views.py | Medium | [#281](https://github.com/Khushi-Nigam/jobportal/issues/281) |
-
----
-
 ## 📌 Project: Amour Editorial Website
 
 📝 **Description:** A website for amour editorial which focuses on helping students go abroad with their documentations such as personalized SOP, LOR and scholarship essays to get their admission. As well as one on one counselling to help them achieve their study abroad dreams!
@@ -1246,14 +1204,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refix: Home icon alignment in Docs breadcrumbs | Easy | [#1110](https://github.com/recodehive/recode-website/pull/1110) |
-| feat(UI): Add hover state effects for badges in Achievement Skin Tone table | Easy | [#1109](https://github.com/recodehive/recode-website/pull/1109) |
-| #1095 Apply the same background on terms and cond.... | Easy | [#1108](https://github.com/recodehive/recode-website/pull/1108) |
-| All the blogs are not appearing in the side bar | Easy | [#1101](https://github.com/recodehive/recode-website/issues/1101) |
 | Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
-| Remove the highlighted on community page | Easy | [#1099](https://github.com/recodehive/recode-website/issues/1099) |
-| remove the highlighted area on broadcast page | Easy | [#1098](https://github.com/recodehive/recode-website/issues/1098) |
-| Fix the black hover on the podcast page | Easy | [#1097](https://github.com/recodehive/recode-website/issues/1097) |
+| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
 
@@ -1504,7 +1456,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Newsletter  Functionality in footer | Medium | [#220](https://github.com/aayushraj1010/med-genie/issues/220) |
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
@@ -2684,7 +2635,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Add high-contrast theme toggle and test | Easy | [#37](https://github.com/x0lg0n/Boutique-To-Box/issues/37) |
 | Add ISSUE_CATALOG and Onboarding issues doc | Easy | [#35](https://github.com/x0lg0n/Boutique-To-Box/issues/35) |
 | security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
-| Blackboxai/fix virtual try on image | Medium | [#51](https://github.com/x0lg0n/Boutique-To-Box/pull/51) |
 | Integrate 32 DaisyUI Themes for Enhanced UI/UX | Medium | [#48](https://github.com/x0lg0n/Boutique-To-Box/issues/48) |
 | "Sign in with Google" button not working | Medium | [#47](https://github.com/x0lg0n/Boutique-To-Box/issues/47) |
 | 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
