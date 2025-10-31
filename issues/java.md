@@ -136,32 +136,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <Short feature description> <need to add more subjects> | Medium | [#1025](https://github.com/opensource-society/notesvault/issues/1025) |
-| ui enhancement | Medium | [#1024](https://github.com/opensource-society/notesvault/issues/1024) |
-| Add GSSoC'25 Banner. | Medium | [#1016](https://github.com/opensource-society/notesvault/issues/1016) |
-| CSS a11y: focus-visible, skip link, reduced-motion; notes grid auto-fit + hover contrast; modal helpers | Medium | [#1015](https://github.com/opensource-society/notesvault/pull/1015) |
-| HTML-only: header/footer fragments + a11y improvements (Home & Notes) | Medium | [#1014](https://github.com/opensource-society/notesvault/pull/1014) |
-| Add “Study Path / Curriculum Tracker” | Medium | [#1013](https://github.com/opensource-society/notesvault/issues/1013) |
-| footer settings | Medium | [#1012](https://github.com/opensource-society/notesvault/pull/1012) |
-| Added  Favorites/Bookmark Feature for Notes Page | Medium | [#1011](https://github.com/opensource-society/notesvault/pull/1011) |
-| Enhance UI by Hiding or Customizing Webkit Scrollbar for Cleaner Layout | Medium | [#1010](https://github.com/opensource-society/notesvault/issues/1010) |
-| Interactive Star-Based Feedback System | Medium | [#1009](https://github.com/opensource-society/notesvault/issues/1009) |
-| Footer | Medium | [#1007](https://github.com/opensource-society/notesvault/issues/1007) |
-| 🪲 Bug Report: Unable to Login After Account Creation | Medium | [#1003](https://github.com/opensource-society/notesvault/issues/1003) |
-| <Short bug description> Double Privacy policy and TOS in footer section | Medium | [#999](https://github.com/opensource-society/notesvault/issues/999) |
-| fix: added smooth fade transition between pages to reduce white flash | Medium | [#998](https://github.com/opensource-society/notesvault/pull/998) |
-| Logo Hover Effect Issue on GitHub and Discord Icons | Medium | [#993](https://github.com/opensource-society/notesvault/issues/993) |
-| Discord and GitHub logos not visible on hover | Medium | [#992](https://github.com/opensource-society/notesvault/issues/992) |
-| Ambient Gradient Wave Background | Medium | [#991](https://github.com/opensource-society/notesvault/issues/991) |
-| Add Pull Request (PR) Template | Medium | [#987](https://github.com/opensource-society/notesvault/pull/987) |
-| Filtering, sorting and search functionality added in PYQ section Dashboard | Medium | [#986](https://github.com/opensource-society/notesvault/pull/986) |
-| feat: add dynamic current year in footer using inline JavaScript | Medium | [#985](https://github.com/opensource-society/notesvault/pull/985) |
-| Add Favorites / Bookmark Feature for Notes | Medium | [#979](https://github.com/opensource-society/notesvault/issues/979) |
-| Theme toggle clarity and persistence | Medium | [#977](https://github.com/opensource-society/notesvault/issues/977) |
-| Inline Add New Notes Form (Uninteractive File Upload) | Medium | [#973](https://github.com/opensource-society/notesvault/issues/973) |
-| Quick Upload Notes from Dashboard | Medium | [#971](https://github.com/opensource-society/notesvault/issues/971) |
-| UI Enhancement: Improve Light Mode Theme on Home Page | Medium | [#970](https://github.com/opensource-society/notesvault/issues/970) |
-| Improve Task/To-Do List Functionality | Medium | [#967](https://github.com/opensource-society/notesvault/issues/967) |
+| Fix: "Upload Notes" button not redirecting from Dashboard page | Medium | [#1031](https://github.com/opensource-society/notesvault/pull/1031) |
+| fix: correct Welcome Back button redirection logic | Medium | [#1030](https://github.com/opensource-society/notesvault/pull/1030) |
 
 ---
 
@@ -636,24 +612,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | plz change the google client id in env present in the client folder . | Medium | [#25](https://github.com/kanikaa-3018/contest_onlinejudge/pull/25) |
 | 🔔 Feature: Automatically Send Welcome Email Upon User Signup | Medium | [#23](https://github.com/kanikaa-3018/contest_onlinejudge/pull/23) |
 | Fix: Improve theme toggle consistency and persistence | Medium | [#6](https://github.com/kanikaa-3018/contest_onlinejudge/pull/6) |
-
----
-
-## 📌 Project: DreamJobs-Job Portal 
-
-📝 **Description:** this project aims to bridge the gap between job seekers and employers 
-
-🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Fix: Remove Duplicate Login Function in views.py | Medium | [#281](https://github.com/Khushi-Nigam/jobportal/issues/281) |
 
 ---
 
@@ -1144,14 +1102,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refix: Home icon alignment in Docs breadcrumbs | Easy | [#1110](https://github.com/recodehive/recode-website/pull/1110) |
-| feat(UI): Add hover state effects for badges in Achievement Skin Tone table | Easy | [#1109](https://github.com/recodehive/recode-website/pull/1109) |
-| #1095 Apply the same background on terms and cond.... | Easy | [#1108](https://github.com/recodehive/recode-website/pull/1108) |
-| All the blogs are not appearing in the side bar | Easy | [#1101](https://github.com/recodehive/recode-website/issues/1101) |
 | Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
-| Remove the highlighted on community page | Easy | [#1099](https://github.com/recodehive/recode-website/issues/1099) |
-| remove the highlighted area on broadcast page | Easy | [#1098](https://github.com/recodehive/recode-website/issues/1098) |
-| Fix the black hover on the podcast page | Easy | [#1097](https://github.com/recodehive/recode-website/issues/1097) |
+| Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
 ---
 
@@ -1512,6 +1464,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | No Session Timeout or Auto Logout – Sensitive Data at Risk | Easy | [#160](https://github.com/AditiGupta-tech/neonest/issues/160) |
+| view all reviews | Medium | [#309](https://github.com/AditiGupta-tech/neonest/issues/309) |
+| ENHANCEMENT: Add 3D visual effect to homepage flexbox section | Medium | [#308](https://github.com/AditiGupta-tech/neonest/issues/308) |
 | Feature/dashboard analytics widgets fixed issues #6 | Medium | [#306](https://github.com/AditiGupta-tech/neonest/pull/306) |
 | feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
@@ -2146,8 +2100,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @supabase/supabase-js from 2.50.2 to 2.78.0 | Medium | [#163](https://github.com/Ojas-Arora/SapneSeSafar/pull/163) |
 | Bump react-router-dom from 6.28.2 to 7.9.5 | Medium | [#162](https://github.com/Ojas-Arora/SapneSeSafar/pull/162) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.77.0 | Medium | [#161](https://github.com/Ojas-Arora/SapneSeSafar/pull/161) |
 | Bump axios from 1.7.9 to 1.13.1 | Medium | [#160](https://github.com/Ojas-Arora/SapneSeSafar/pull/160) |
 | Bump lucide-react from 0.344.0 to 0.548.0 | Medium | [#158](https://github.com/Ojas-Arora/SapneSeSafar/pull/158) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.0 | Medium | [#157](https://github.com/Ojas-Arora/SapneSeSafar/pull/157) |
