@@ -62,6 +62,8 @@ Accessibility features like dark mode,white.
 | 💬 Share Your Experience — Landing Page Integration | Easy | [#618](https://github.com/abhisek2004/Dev-Elevate/issues/618) |
 | 🧭 Admin Dashboard — Backend Integration | Easy | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 | 🧩 Forgot Password — Functional Implementation | Easy | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
+| AI GENERATED NOTES-FRONTEND AND BACKEND | Medium | [#632](https://github.com/abhisek2004/Dev-Elevate/pull/632) |
+| 📊 Weekly Project Summary - 10/30/2025 | Medium | [#631](https://github.com/abhisek2004/Dev-Elevate/issues/631) |
 | 📊 Weekly Project Summary - 10/29/2025 | Medium | [#628](https://github.com/abhisek2004/Dev-Elevate/issues/628) |
 | 📊 Weekly Project Summary - 10/28/2025 | Medium | [#626](https://github.com/abhisek2004/Dev-Elevate/issues/626) |
 
@@ -331,7 +333,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#114](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/114) |
 | Footer with social links is not properly designed | Medium | [#113](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/113) |
 | Feature Request: Add Password Visibility Toggle (Eye Icon) to Password Fields | Medium | [#112](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/112) |
-| Added pagination | Medium | [#111](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/111) |
 | UI improvements for Teacher Leave Requests page | Medium | [#109](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/109) |
 | Add Home Button on Login Page for Easy Navigation | Medium | [#108](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/108) |
 | ADD a navbar +scroll up top feature | Medium | [#106](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/106) |
@@ -340,44 +341,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Homepage enhancements | Medium | [#97](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/97) |
 | UI Enhancements: Interactive Landing Page, Footer Redesign & GitHub Popup | Medium | [#92](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/92) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
-
----
-
-## 📌 Project: Weather-API
-
-📝 **Description:** A simple yet powerful weather scraper built with Node.js, Express and Cheerio. This project dynamically fetches real-time weather data for any city, scrapes the necessary details, and presents them on an intuitive user interfaec.
-
-🔗 [View Project](https://github.com/GauravKarakoti/Weather-API)
-
-💻 **Tech Stack:** Express, Axios, Cheerio, Cors, Dotenv
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Evaluate bundle size impact of frontend dependencies. | Easy | [#363](https://github.com/GauravKarakoti/Weather-API/issues/363) |
-| Optimize Cheerio parsing in `weather.controller.js`. | Easy | [#362](https://github.com/GauravKarakoti/Weather-API/issues/362) |
-| Implement integration tests for the cache warming service. | Easy | [#361](https://github.com/GauravKarakoti/Weather-API/issues/361) |
-| Add frontend tests for voice input functionality. | Easy | [#360](https://github.com/GauravKarakoti/Weather-API/issues/360) |
-| Increase test coverage for OAuth token rotation logic. | Easy | [#359](https://github.com/GauravKarakoti/Weather-API/issues/359) |
-| Document environment variables for monitoring and alerting. | Easy | [#358](https://github.com/GauravKarakoti/Weather-API/issues/358) |
-| Create comprehensive API documentation (Swagger/OpenAPI). | Easy | [#357](https://github.com/GauravKarakoti/Weather-API/issues/357) |
-| Update README with detailed PostgreSQL/Neon setup instructions. | Easy | [#356](https://github.com/GauravKarakoti/Weather-API/issues/356) |
-| Add basic user profile management to the Admin Dashboard. | Easy | [#355](https://github.com/GauravKarakoti/Weather-API/issues/355) |
-| Add pagination or infinite scrolling to the Admin Log Viewer. | Easy | [#354](https://github.com/GauravKarakoti/Weather-API/issues/354) |
-| Implement support for additional weather data sources. | Easy | [#353](https://github.com/GauravKarakoti/Weather-API/issues/353) |
-| Fallback weather source selectors might be outdated. | Easy | [#351](https://github.com/GauravKarakoti/Weather-API/issues/351) |
-| Admin dashboard log viewer fails on large log files. | Easy | [#350](https://github.com/GauravKarakoti/Weather-API/issues/350) |
-| Potential stale cache if Redis connection drops temporarily. | Easy | [#349](https://github.com/GauravKarakoti/Weather-API/issues/349) |
-| Replace disruptive window.alert() with non-blocking UI notifications | Easy | [#295](https://github.com/GauravKarakoti/Weather-API/issues/295) |
-| Utility functions are duplicated in server.js and /src/utils/ | Easy | [#290](https://github.com/GauravKarakoti/Weather-API/issues/290) |
-| Improve API Error Handling for Missing or Invalid API Key | Easy | [#280](https://github.com/GauravKarakoti/Weather-API/issues/280) |
-| added unit conversion f/c | Medium | [#371](https://github.com/GauravKarakoti/Weather-API/pull/371) |
-| Add more weather details: wind speed/direction, UV index, pollen count | Medium | [#343](https://github.com/GauravKarakoti/Weather-API/pull/343) |
-| connect Weather route with OpenWeatherMap API | Medium | [#288](https://github.com/GauravKarakoti/Weather-API/pull/288) |
-| showTab function relies on deprecated global event object | Hard | [#294](https://github.com/GauravKarakoti/Weather-API/issues/294) |
 
 ---
 
@@ -1627,13 +1590,8 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add download button UI for PDF resources | Medium | [#132](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/132) |
+| chore(root): remove accidental node dependency from root package.json | Medium | [#133](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/133) |
 | Add Dark Mode Toggle with Initial Page Theme Support | Medium | [#131](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/131) |
-| made some changes | Medium | [#128](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/128) |
-| refactor/modified-footer | Medium | [#127](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/127) |
-| Added Dark mode on Home, About, Contact, Contributor Pages | Medium | [#120](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/120) |
-| feat: add recent resources endpoint and component for displaying rently added resources (ISSUE 45) | Medium | [#119](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/119) |
-| Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
 | Feature Request: Mentor Connect – Connect Students with Toppers, Seniors, and Faculty | Hard | [#25](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/25) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
@@ -1662,7 +1620,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Add high-contrast theme toggle and test | Easy | [#37](https://github.com/x0lg0n/Boutique-To-Box/issues/37) |
 | Add ISSUE_CATALOG and Onboarding issues doc | Easy | [#35](https://github.com/x0lg0n/Boutique-To-Box/issues/35) |
 | security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
-| Blackboxai/fix virtual try on image | Medium | [#51](https://github.com/x0lg0n/Boutique-To-Box/pull/51) |
 | Integrate 32 DaisyUI Themes for Enhanced UI/UX | Medium | [#48](https://github.com/x0lg0n/Boutique-To-Box/issues/48) |
 | "Sign in with Google" button not working | Medium | [#47](https://github.com/x0lg0n/Boutique-To-Box/issues/47) |
 | 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
