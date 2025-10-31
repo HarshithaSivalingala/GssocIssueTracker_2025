@@ -26,26 +26,6 @@
 
 ---
 
-## 📌 Project: Flavor Ai
-
-📝 **Description:** This project is designed to make meal planning and recipe exploration effortless and fun. Whether you're looking for AI-curated recipes, diverse food categories, or exciting culinary surprises, FlavorAI has it all.
-
-🔗 [View Project](https://github.com/Ayushjhawar8/Flavor-ai)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, DaisyUI, OpenAI API, Groq API, Vercel
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Hero Section of recipe Not Responsive on Mobile – Misaligned & Cut Off | Easy | [#527](https://github.com/Ayushjhawar8/Flavor-ai/issues/527) |
-| Fixed missing border on buttons and unwanted GitHub logo on star button | Easy | [#524](https://github.com/Ayushjhawar8/Flavor-ai/pull/524) |
-| Hero Section of recipe Not Responsive on Mobile – Misaligned & Cut Off | Medium | [#528](https://github.com/Ayushjhawar8/Flavor-ai/pull/528) |
-
----
-
 ## 📌 Project: CodeArena
 
 📝 **Description:** CodeArena is a cutting-edge, AI-powered ecosystem architected with a microservices-based MERN stack, combining Dockerized online judging, AI-integrated collaboration tools, and smart career utilities. With intelligent workflows powered by n8n and Relevance AI, CodeArena is more than a platform- it's your real-time coding and career companion.
