@@ -136,6 +136,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Implement Forgot Password Page with OTP-Based Password Reset Flow | Medium | [#1033](https://github.com/opensource-society/notesvault/pull/1033) |
 | Fix: "Upload Notes" button not redirecting from Dashboard page | Medium | [#1031](https://github.com/opensource-society/notesvault/pull/1031) |
 | fix: correct Welcome Back button redirection logic | Medium | [#1030](https://github.com/opensource-society/notesvault/pull/1030) |
 
@@ -373,6 +374,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/itsAnimation/AnimateItNow/pull/1705) |
 | Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/itsAnimation/AnimateItNow/issues/1704) |
 | contributor page enhancement | Medium | [#1703](https://github.com/itsAnimation/AnimateItNow/issues/1703) |
 | Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/itsAnimation/AnimateItNow/issues/1702) |
@@ -1116,7 +1118,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | #759 -Day63 Expense splitter - Added Frontend Project | Medium | [#829](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/829) |
-| added mood based music player | Medium | [#824](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/824) |
 | Add a email masker project | Medium | [#822](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/822) |
 | feat(tasks): prevent XSS, fix task id handling, add duplicate checks and overdue sort | Medium | [#819](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/819) |
 | Add Word Chain Challenge Game | Medium | [#818](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/818) |
@@ -1137,6 +1138,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: Day 59 - Introducing CLICKBAIT (The memory game) | Medium | [#790](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/790) |
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
+| Add Expense Tracker Project | Medium | [#785](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/785) |
 
 ---
 
@@ -1204,6 +1206,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump eslint from 9.38.0 to 9.39.0 | Easy | [#1114](https://github.com/recodehive/recode-website/pull/1114) |
+| chore: bump firebase from 9.23.0 to 12.5.0 | Easy | [#1113](https://github.com/recodehive/recode-website/pull/1113) |
+| chore: bump lucide-react from 0.503.0 to 0.552.0 | Easy | [#1112](https://github.com/recodehive/recode-website/pull/1112) |
 | Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
@@ -1621,11 +1626,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Dark mode for login page for UI consistency. | Medium | [#560](https://github.com/Creators-Space/Creators-Space/issues/560) |
 | Styling hero section in campus ambassador page. | Medium | [#559](https://github.com/Creators-Space/Creators-Space/issues/559) |
 | Missing Scroll-to-Top Button on Several Pages | Medium | [#558](https://github.com/Creators-Space/Creators-Space/issues/558) |
-| dark mode for the quiz page | Medium | [#557](https://github.com/Creators-Space/Creators-Space/pull/557) |
 | Dark mode for FAQ section | Medium | [#556](https://github.com/Creators-Space/Creators-Space/issues/556) |
 | Search functionality implemented for faq | Medium | [#554](https://github.com/Creators-Space/Creators-Space/pull/554) |
 | social media app links working in projects page | Medium | [#553](https://github.com/Creators-Space/Creators-Space/pull/553) |
 | sign in button not visible | Medium | [#552](https://github.com/Creators-Space/Creators-Space/issues/552) |
+| Fix issue: Poor visibility of text in the About Us Page | Medium | [#551](https://github.com/Creators-Space/Creators-Space/pull/551) |
 
 ---
 
@@ -1715,10 +1720,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Enhance Button Styling with Hover and Click Effects | Medium | [#112](https://github.com/BDutta18/BodyCraft-Gym/issues/112) |
 | Bug : missing footer in pricing plan.html | Medium | [#111](https://github.com/BDutta18/BodyCraft-Gym/issues/111) |
 | Adding Theme Toggle | Medium | [#110](https://github.com/BDutta18/BodyCraft-Gym/issues/110) |
-| Home Route error Fixxed | Medium | [#109](https://github.com/BDutta18/BodyCraft-Gym/pull/109) |
-| Home option in navbar is not linked | Medium | [#108](https://github.com/BDutta18/BodyCraft-Gym/issues/108) |
-| Footer CSS is not proper responsive for smaller devices | Medium | [#107](https://github.com/BDutta18/BodyCraft-Gym/issues/107) |
-| CSS of MEMBER REVIEW img is not proper | Medium | [#106](https://github.com/BDutta18/BodyCraft-Gym/issues/106) |
 | feat: Interactive BMI Calculator + Persistent Dark Mode + Responsive Navbar | Medium | [#105](https://github.com/BDutta18/BodyCraft-Gym/pull/105) |
 | Fixed Member Review Image | Medium | [#104](https://github.com/BDutta18/BodyCraft-Gym/pull/104) |
 | Add Terms and Conditions, and BMI Calculator page | Medium | [#103](https://github.com/BDutta18/BodyCraft-Gym/issues/103) |
@@ -1729,6 +1730,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | There must be a link for license | Medium | [#98](https://github.com/BDutta18/BodyCraft-Gym/issues/98) |
 | Live Link Missing | Medium | [#97](https://github.com/BDutta18/BodyCraft-Gym/issues/97) |
 | Feat/user profile | Medium | [#96](https://github.com/BDutta18/BodyCraft-Gym/pull/96) |
+| Feat: Add simple localStorage login and signup page | Medium | [#95](https://github.com/BDutta18/BodyCraft-Gym/pull/95) |
+| bug in navbar | Medium | [#92](https://github.com/BDutta18/BodyCraft-Gym/issues/92) |
+| added favicon #51 | Medium | [#91](https://github.com/BDutta18/BodyCraft-Gym/pull/91) |
+| Image issue | Medium | [#90](https://github.com/BDutta18/BodyCraft-Gym/issues/90) |
 
 ---
 
@@ -2811,7 +2816,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhanced Contact page UI using Tailwind CSS with better form interact… | Medium | [#746](https://github.com/SurajSG23/Job-Portal/pull/746) |
-| dark mode in the companies page | Medium | [#745](https://github.com/SurajSG23/Job-Portal/pull/745) |
 | "Apply Now" Marks Job as Applied Without Authentication | Medium | [#744](https://github.com/SurajSG23/Job-Portal/issues/744) |
 | Login and Sign-Up button still visible after logging in | Medium | [#743](https://github.com/SurajSG23/Job-Portal/issues/743) |
 | "Sign in with google" not working | Medium | [#742](https://github.com/SurajSG23/Job-Portal/issues/742) |
@@ -2825,6 +2829,7 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | feat(role-page): redesigned role selection page with flip cards and header styling | Medium | [#734](https://github.com/SurajSG23/Job-Portal/pull/734) |
 | Improve Seeker page header, footer, and card layout | Medium | [#733](https://github.com/SurajSG23/Job-Portal/pull/733) |
 | fixed issue:Add Glassmorphic Effect to Navbar | Medium | [#732](https://github.com/SurajSG23/Job-Portal/pull/732) |
+| implemented search for saved-jobs | Medium | [#700](https://github.com/SurajSG23/Job-Portal/pull/700) |
 
 ---
 
