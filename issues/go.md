@@ -32,7 +32,7 @@ Accessibility features like dark mode,white.
 | 💬 Share Your Experience — Landing Page Integration | Easy | [#618](https://github.com/abhisek2004/Dev-Elevate/issues/618) |
 | 🧭 Admin Dashboard — Backend Integration | Easy | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 | 🧩 Forgot Password — Functional Implementation | Easy | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
-| AI GENERATED NOTES-FRONTEND AND BACKEND | Medium | [#632](https://github.com/abhisek2004/Dev-Elevate/pull/632) |
+| 📊 Weekly Project Summary - 10/31/2025 | Medium | [#633](https://github.com/abhisek2004/Dev-Elevate/issues/633) |
 | 📊 Weekly Project Summary - 10/30/2025 | Medium | [#631](https://github.com/abhisek2004/Dev-Elevate/issues/631) |
 | 📊 Weekly Project Summary - 10/29/2025 | Medium | [#628](https://github.com/abhisek2004/Dev-Elevate/issues/628) |
 | 📊 Weekly Project Summary - 10/28/2025 | Medium | [#626](https://github.com/abhisek2004/Dev-Elevate/issues/626) |
@@ -158,6 +158,7 @@ Accessibility features like dark mode,white.
 | Added Scroll To Bottom Buttom feature | Medium | [#317](https://github.com/agamjotsingh18/trendhora/pull/317) |
 | Add Notifications / Alerts Feature for User Updates | Medium | [#313](https://github.com/agamjotsingh18/trendhora/issues/313) |
 | Faq not visible properly in dark theme | Medium | [#253](https://github.com/agamjotsingh18/trendhora/issues/253) |
+| Redesign the footer | Medium | [#227](https://github.com/agamjotsingh18/trendhora/pull/227) |
 
 ---
 
@@ -203,7 +204,6 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Establish an e2e backend instance locally and in CI/CD | Easy | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Bump langchain from 0.3.27 to 1.0.3 in /backend | Medium | [#2512](https://github.com/OWASP/Nest/pull/2512) |
-| Fix: Prevent Accidental Map Zooming While Scrolling on Landing Page | Medium | [#2508](https://github.com/OWASP/Nest/pull/2508) |
 | Refactor layout and styling of Leaders and UserCard components for im… | Medium | [#2501](https://github.com/OWASP/Nest/pull/2501) |
 | Extend Board Candidates Transparency Dashboard | Medium | [#2500](https://github.com/OWASP/Nest/issues/2500) |
 | Extend Project Health Dashboard to chapters | Medium | [#2499](https://github.com/OWASP/Nest/issues/2499) |
@@ -325,6 +325,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
+| Fix: Resolved new user login issue in Pouranik | Medium | [#299](https://github.com/BhaktiMore18/Pouranik/pull/299) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#268](https://github.com/BhaktiMore18/Pouranik/issues/268) |
@@ -713,8 +714,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor: Improved Register Page UI and Responsiveness | Medium | [#762](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/762) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -969,6 +970,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added logs in settings.dart | Easy | [#328](https://github.com/Yash159357/BlyFt/pull/328) |
+| Added logs in search_result.dart | Easy | [#327](https://github.com/Yash159357/BlyFt/pull/327) |
+| Added logs in profile.dart | Easy | [#326](https://github.com/Yash159357/BlyFt/pull/326) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
@@ -1184,6 +1188,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added logs in settings.dart | Easy | [#328](https://github.com/Yash159357/BlyFt/pull/328) |
+| Added logs in search_result.dart | Easy | [#327](https://github.com/Yash159357/BlyFt/pull/327) |
+| Added logs in profile.dart | Easy | [#326](https://github.com/Yash159357/BlyFt/pull/326) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
@@ -1289,9 +1296,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| No Session Timeout or Auto Logout – Sensitive Data at Risk | Easy | [#160](https://github.com/AditiGupta-tech/neonest/issues/160) |
-| view all reviews | Medium | [#309](https://github.com/AditiGupta-tech/neonest/issues/309) |
-| ENHANCEMENT: Add 3D visual effect to homepage flexbox section | Medium | [#308](https://github.com/AditiGupta-tech/neonest/issues/308) |
+| Fixed ui layout of chat page | Medium | [#310](https://github.com/AditiGupta-tech/neonest/pull/310) |
 | Feature/dashboard analytics widgets fixed issues #6 | Medium | [#306](https://github.com/AditiGupta-tech/neonest/pull/306) |
 | feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
@@ -1304,6 +1309,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Feature request: “Smart Care” Tab with Real-Time AI Baby Care Suggestions | Hard | [#64](https://github.com/AditiGupta-tech/neonest/issues/64) |
 | Feature Request: Add Baby Health Analytics Dashboard | Hard | [#15](https://github.com/AditiGupta-tech/neonest/issues/15) |
 | Add PWA Support to Enable Installable Web App | Hard | [#9](https://github.com/AditiGupta-tech/neonest/issues/9) |
+| Add Personalization & Analytics Widgets | Hard | [#6](https://github.com/AditiGupta-tech/neonest/issues/6) |
 
 ---
 
@@ -1431,6 +1437,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added a Section to DevSync About Page | Medium | [#208](https://github.com/DevSyncx/DevSync/pull/208) |
 | Create dev | Medium | [#195](https://github.com/DevSyncx/DevSync/pull/195) |
 | Added DevSync logo in Navbar, Footer, and favicon | Medium | [#189](https://github.com/DevSyncx/DevSync/pull/189) |
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
@@ -1780,10 +1787,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.552.0 | Medium | [#165](https://github.com/Ojas-Arora/SapneSeSafar/pull/165) |
+| Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.78.0 | Medium | [#163](https://github.com/Ojas-Arora/SapneSeSafar/pull/163) |
 | Bump react-router-dom from 6.28.2 to 7.9.5 | Medium | [#162](https://github.com/Ojas-Arora/SapneSeSafar/pull/162) |
 | Bump axios from 1.7.9 to 1.13.1 | Medium | [#160](https://github.com/Ojas-Arora/SapneSeSafar/pull/160) |
-| Bump lucide-react from 0.344.0 to 0.548.0 | Medium | [#158](https://github.com/Ojas-Arora/SapneSeSafar/pull/158) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.0 | Medium | [#157](https://github.com/Ojas-Arora/SapneSeSafar/pull/157) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump tailwindcss from 3.4.17 to 4.1.16 | Medium | [#155](https://github.com/Ojas-Arora/SapneSeSafar/pull/155) |
@@ -1796,7 +1804,6 @@ Fast Workflow Tools
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
-| Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
@@ -1972,7 +1979,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| Added response regeneration with multi-model support and version control | Medium | [#143](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/143) |
 | Auth backend | Medium | [#141](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/141) |
 | feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
