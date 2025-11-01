@@ -136,6 +136,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Implement Forgot Password Page with OTP-Based Password Reset Flow | Medium | [#1033](https://github.com/opensource-society/notesvault/pull/1033) |
 | Fix: "Upload Notes" button not redirecting from Dashboard page | Medium | [#1031](https://github.com/opensource-society/notesvault/pull/1031) |
 | fix: correct Welcome Back button redirection logic | Medium | [#1030](https://github.com/opensource-society/notesvault/pull/1030) |
 
@@ -267,6 +268,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/itsAnimation/AnimateItNow/pull/1705) |
 | Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/itsAnimation/AnimateItNow/issues/1704) |
 | contributor page enhancement | Medium | [#1703](https://github.com/itsAnimation/AnimateItNow/issues/1703) |
 | Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/itsAnimation/AnimateItNow/issues/1702) |
@@ -1044,7 +1046,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | #759 -Day63 Expense splitter - Added Frontend Project | Medium | [#829](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/829) |
-| added mood based music player | Medium | [#824](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/824) |
 | Add a email masker project | Medium | [#822](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/822) |
 | feat(tasks): prevent XSS, fix task id handling, add duplicate checks and overdue sort | Medium | [#819](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/819) |
 | Add Word Chain Challenge Game | Medium | [#818](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/818) |
@@ -1065,6 +1066,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | fix: Day 59 - Introducing CLICKBAIT (The memory game) | Medium | [#790](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/790) |
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
+| Add Expense Tracker Project | Medium | [#785](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/785) |
 
 ---
 
@@ -1102,6 +1104,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump eslint from 9.38.0 to 9.39.0 | Easy | [#1114](https://github.com/recodehive/recode-website/pull/1114) |
+| chore: bump firebase from 9.23.0 to 12.5.0 | Easy | [#1113](https://github.com/recodehive/recode-website/pull/1113) |
+| chore: bump lucide-react from 0.503.0 to 0.552.0 | Easy | [#1112](https://github.com/recodehive/recode-website/pull/1112) |
 | Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
@@ -1463,9 +1468,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| No Session Timeout or Auto Logout – Sensitive Data at Risk | Easy | [#160](https://github.com/AditiGupta-tech/neonest/issues/160) |
-| view all reviews | Medium | [#309](https://github.com/AditiGupta-tech/neonest/issues/309) |
-| ENHANCEMENT: Add 3D visual effect to homepage flexbox section | Medium | [#308](https://github.com/AditiGupta-tech/neonest/issues/308) |
+| Fixed ui layout of chat page | Medium | [#310](https://github.com/AditiGupta-tech/neonest/pull/310) |
 | Feature/dashboard analytics widgets fixed issues #6 | Medium | [#306](https://github.com/AditiGupta-tech/neonest/pull/306) |
 | feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
@@ -1478,6 +1481,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Feature request: “Smart Care” Tab with Real-Time AI Baby Care Suggestions | Hard | [#64](https://github.com/AditiGupta-tech/neonest/issues/64) |
 | Feature Request: Add Baby Health Analytics Dashboard | Hard | [#15](https://github.com/AditiGupta-tech/neonest/issues/15) |
 | Add PWA Support to Enable Installable Web App | Hard | [#9](https://github.com/AditiGupta-tech/neonest/issues/9) |
+| Add Personalization & Analytics Widgets | Hard | [#6](https://github.com/AditiGupta-tech/neonest/issues/6) |
 
 ---
 
@@ -1613,11 +1617,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Dark mode for login page for UI consistency. | Medium | [#560](https://github.com/Creators-Space/Creators-Space/issues/560) |
 | Styling hero section in campus ambassador page. | Medium | [#559](https://github.com/Creators-Space/Creators-Space/issues/559) |
 | Missing Scroll-to-Top Button on Several Pages | Medium | [#558](https://github.com/Creators-Space/Creators-Space/issues/558) |
-| dark mode for the quiz page | Medium | [#557](https://github.com/Creators-Space/Creators-Space/pull/557) |
 | Dark mode for FAQ section | Medium | [#556](https://github.com/Creators-Space/Creators-Space/issues/556) |
 | Search functionality implemented for faq | Medium | [#554](https://github.com/Creators-Space/Creators-Space/pull/554) |
 | social media app links working in projects page | Medium | [#553](https://github.com/Creators-Space/Creators-Space/pull/553) |
 | sign in button not visible | Medium | [#552](https://github.com/Creators-Space/Creators-Space/issues/552) |
+| Fix issue: Poor visibility of text in the About Us Page | Medium | [#551](https://github.com/Creators-Space/Creators-Space/pull/551) |
 
 ---
 
@@ -2100,10 +2104,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.552.0 | Medium | [#165](https://github.com/Ojas-Arora/SapneSeSafar/pull/165) |
+| Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.78.0 | Medium | [#163](https://github.com/Ojas-Arora/SapneSeSafar/pull/163) |
 | Bump react-router-dom from 6.28.2 to 7.9.5 | Medium | [#162](https://github.com/Ojas-Arora/SapneSeSafar/pull/162) |
 | Bump axios from 1.7.9 to 1.13.1 | Medium | [#160](https://github.com/Ojas-Arora/SapneSeSafar/pull/160) |
-| Bump lucide-react from 0.344.0 to 0.548.0 | Medium | [#158](https://github.com/Ojas-Arora/SapneSeSafar/pull/158) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.0 | Medium | [#157](https://github.com/Ojas-Arora/SapneSeSafar/pull/157) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump tailwindcss from 3.4.17 to 4.1.16 | Medium | [#155](https://github.com/Ojas-Arora/SapneSeSafar/pull/155) |
@@ -2116,7 +2121,6 @@ Fast Workflow Tools
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
-| Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
@@ -2709,7 +2713,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhanced Contact page UI using Tailwind CSS with better form interact… | Medium | [#746](https://github.com/SurajSG23/Job-Portal/pull/746) |
-| dark mode in the companies page | Medium | [#745](https://github.com/SurajSG23/Job-Portal/pull/745) |
 | "Apply Now" Marks Job as Applied Without Authentication | Medium | [#744](https://github.com/SurajSG23/Job-Portal/issues/744) |
 | Login and Sign-Up button still visible after logging in | Medium | [#743](https://github.com/SurajSG23/Job-Portal/issues/743) |
 | "Sign in with google" not working | Medium | [#742](https://github.com/SurajSG23/Job-Portal/issues/742) |
@@ -2723,6 +2726,7 @@ Fast Workflow Tools
 | feat(role-page): redesigned role selection page with flip cards and header styling | Medium | [#734](https://github.com/SurajSG23/Job-Portal/pull/734) |
 | Improve Seeker page header, footer, and card layout | Medium | [#733](https://github.com/SurajSG23/Job-Portal/pull/733) |
 | fixed issue:Add Glassmorphic Effect to Navbar | Medium | [#732](https://github.com/SurajSG23/Job-Portal/pull/732) |
+| implemented search for saved-jobs | Medium | [#700](https://github.com/SurajSG23/Job-Portal/pull/700) |
 
 ---
 
