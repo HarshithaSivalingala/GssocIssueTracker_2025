@@ -167,7 +167,6 @@
 |----------|----------------|---------|
 | Establish an e2e backend instance locally and in CI/CD | Easy | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Bump langchain from 0.3.27 to 1.0.3 in /backend | Medium | [#2512](https://github.com/OWASP/Nest/pull/2512) |
-| Fix: Prevent Accidental Map Zooming While Scrolling on Landing Page | Medium | [#2508](https://github.com/OWASP/Nest/pull/2508) |
 | Refactor layout and styling of Leaders and UserCard components for im… | Medium | [#2501](https://github.com/OWASP/Nest/pull/2501) |
 | Extend Board Candidates Transparency Dashboard | Medium | [#2500](https://github.com/OWASP/Nest/issues/2500) |
 | Extend Project Health Dashboard to chapters | Medium | [#2499](https://github.com/OWASP/Nest/issues/2499) |
@@ -385,8 +384,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Real-Time Strong Password Validation to Registration Page | Easy | [#359](https://github.com/Muneerali199/DocMagic/issues/359) |
-| adding a dark mode toggle | Medium | [#367](https://github.com/Muneerali199/DocMagic/issues/367) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 48 updates | Medium | [#366](https://github.com/Muneerali199/DocMagic/pull/366) |
 | Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
 | Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
@@ -504,6 +501,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump eslint from 9.38.0 to 9.39.0 | Easy | [#1114](https://github.com/recodehive/recode-website/pull/1114) |
+| chore: bump firebase from 9.23.0 to 12.5.0 | Easy | [#1113](https://github.com/recodehive/recode-website/pull/1113) |
+| chore: bump lucide-react from 0.503.0 to 0.552.0 | Easy | [#1112](https://github.com/recodehive/recode-website/pull/1112) |
 | Use the similar template for ebook like podcast page | Easy | [#1100](https://github.com/recodehive/recode-website/issues/1100) |
 | Blog Page change: need help in brain storm before doing PR | Medium | [#568](https://github.com/recodehive/recode-website/issues/568) |
 
@@ -791,9 +791,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| No Session Timeout or Auto Logout – Sensitive Data at Risk | Easy | [#160](https://github.com/AditiGupta-tech/neonest/issues/160) |
-| view all reviews | Medium | [#309](https://github.com/AditiGupta-tech/neonest/issues/309) |
-| ENHANCEMENT: Add 3D visual effect to homepage flexbox section | Medium | [#308](https://github.com/AditiGupta-tech/neonest/issues/308) |
+| Fixed ui layout of chat page | Medium | [#310](https://github.com/AditiGupta-tech/neonest/pull/310) |
 | Feature/dashboard analytics widgets fixed issues #6 | Medium | [#306](https://github.com/AditiGupta-tech/neonest/pull/306) |
 | feat: Implement complete Supabase authentication system with profile management (Fixes #300) | Medium | [#302](https://github.com/AditiGupta-tech/neonest/pull/302) |
 | feat: add Google and Microsoft OAuth authentication for login and signup | Medium | [#265](https://github.com/AditiGupta-tech/neonest/pull/265) |
@@ -806,6 +804,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Feature request: “Smart Care” Tab with Real-Time AI Baby Care Suggestions | Hard | [#64](https://github.com/AditiGupta-tech/neonest/issues/64) |
 | Feature Request: Add Baby Health Analytics Dashboard | Hard | [#15](https://github.com/AditiGupta-tech/neonest/issues/15) |
 | Add PWA Support to Enable Installable Web App | Hard | [#9](https://github.com/AditiGupta-tech/neonest/issues/9) |
+| Add Personalization & Analytics Widgets | Hard | [#6](https://github.com/AditiGupta-tech/neonest/issues/6) |
 
 ---
 
@@ -1125,7 +1124,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| Added response regeneration with multi-model support and version control | Medium | [#143](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/143) |
 | Auth backend | Medium | [#141](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/141) |
 | feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
@@ -1260,7 +1258,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | Feature Request: Mentor Connect – Connect Students with Toppers, Seniors, and Faculty | Hard | [#25](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/25) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
-| feat: IMPLEMENT DARK MODE | Hard | [#6](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/6) |
 
 ---
 
@@ -1328,7 +1325,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Modern Footer component | Medium | [#102](https://github.com/subhadeeproy3902/mvpblocks/pull/102) |
-| Adding the Personal Finance Dashboard component to mvpblocks | Medium | [#101](https://github.com/subhadeeproy3902/mvpblocks/pull/101) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
