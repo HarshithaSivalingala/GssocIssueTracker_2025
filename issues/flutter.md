@@ -93,6 +93,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added logs in settings.dart | Easy | [#328](https://github.com/Yash159357/BlyFt/pull/328) |
+| Added logs in search_result.dart | Easy | [#327](https://github.com/Yash159357/BlyFt/pull/327) |
+| Added logs in profile.dart | Easy | [#326](https://github.com/Yash159357/BlyFt/pull/326) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
@@ -158,6 +161,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added logs in settings.dart | Easy | [#328](https://github.com/Yash159357/BlyFt/pull/328) |
+| Added logs in search_result.dart | Easy | [#327](https://github.com/Yash159357/BlyFt/pull/327) |
+| Added logs in profile.dart | Easy | [#326](https://github.com/Yash159357/BlyFt/pull/326) |
 | Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
 | Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
 | Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
