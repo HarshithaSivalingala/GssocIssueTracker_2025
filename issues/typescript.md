@@ -78,7 +78,7 @@ Accessibility features like dark mode,white.
 | 💬 Share Your Experience — Landing Page Integration | Easy | [#618](https://github.com/abhisek2004/Dev-Elevate/issues/618) |
 | 🧭 Admin Dashboard — Backend Integration | Easy | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 | 🧩 Forgot Password — Functional Implementation | Easy | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
-| AI GENERATED NOTES-FRONTEND AND BACKEND | Medium | [#632](https://github.com/abhisek2004/Dev-Elevate/pull/632) |
+| 📊 Weekly Project Summary - 10/31/2025 | Medium | [#633](https://github.com/abhisek2004/Dev-Elevate/issues/633) |
 | 📊 Weekly Project Summary - 10/30/2025 | Medium | [#631](https://github.com/abhisek2004/Dev-Elevate/issues/631) |
 | 📊 Weekly Project Summary - 10/29/2025 | Medium | [#628](https://github.com/abhisek2004/Dev-Elevate/issues/628) |
 | 📊 Weekly Project Summary - 10/28/2025 | Medium | [#626](https://github.com/abhisek2004/Dev-Elevate/issues/626) |
@@ -101,7 +101,6 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Establish an e2e backend instance locally and in CI/CD | Easy | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Bump langchain from 0.3.27 to 1.0.3 in /backend | Medium | [#2512](https://github.com/OWASP/Nest/pull/2512) |
-| Fix: Prevent Accidental Map Zooming While Scrolling on Landing Page | Medium | [#2508](https://github.com/OWASP/Nest/pull/2508) |
 | Refactor layout and styling of Leaders and UserCard components for im… | Medium | [#2501](https://github.com/OWASP/Nest/pull/2501) |
 | Extend Board Candidates Transparency Dashboard | Medium | [#2500](https://github.com/OWASP/Nest/issues/2500) |
 | Extend Project Health Dashboard to chapters | Medium | [#2499](https://github.com/OWASP/Nest/issues/2499) |
@@ -1051,10 +1050,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.552.0 | Medium | [#165](https://github.com/Ojas-Arora/SapneSeSafar/pull/165) |
+| Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.78.0 | Medium | [#163](https://github.com/Ojas-Arora/SapneSeSafar/pull/163) |
 | Bump react-router-dom from 6.28.2 to 7.9.5 | Medium | [#162](https://github.com/Ojas-Arora/SapneSeSafar/pull/162) |
 | Bump axios from 1.7.9 to 1.13.1 | Medium | [#160](https://github.com/Ojas-Arora/SapneSeSafar/pull/160) |
-| Bump lucide-react from 0.344.0 to 0.548.0 | Medium | [#158](https://github.com/Ojas-Arora/SapneSeSafar/pull/158) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.0 | Medium | [#157](https://github.com/Ojas-Arora/SapneSeSafar/pull/157) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump tailwindcss from 3.4.17 to 4.1.16 | Medium | [#155](https://github.com/Ojas-Arora/SapneSeSafar/pull/155) |
@@ -1067,7 +1067,6 @@ Fast Workflow Tools
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
-| Bump three and @types/three | Medium | [#93](https://github.com/Ojas-Arora/SapneSeSafar/pull/93) |
 | Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
 | Added Code of Conduct file | Medium | [#62](https://github.com/Ojas-Arora/SapneSeSafar/pull/62) |
 | Added Code of Conduct file | Medium | [#61](https://github.com/Ojas-Arora/SapneSeSafar/pull/61) |
@@ -1179,7 +1178,6 @@ Fast Workflow Tools
 | Feature Request: Mentor Connect – Connect Students with Toppers, Seniors, and Faculty | Hard | [#25](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/25) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
 | Implement Twitter/X OAuth2 Authentication | Hard | [#10](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/10) |
-| feat: IMPLEMENT DARK MODE | Hard | [#6](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/6) |
 
 ---
 
@@ -1248,7 +1246,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Modern Footer component | Medium | [#102](https://github.com/subhadeeproy3902/mvpblocks/pull/102) |
-| Adding the Personal Finance Dashboard component to mvpblocks | Medium | [#101](https://github.com/subhadeeproy3902/mvpblocks/pull/101) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
