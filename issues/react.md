@@ -284,7 +284,6 @@
 |----------|----------------|---------|
 | Establish an e2e backend instance locally and in CI/CD | Easy | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Bump langchain from 0.3.27 to 1.0.3 in /backend | Medium | [#2512](https://github.com/OWASP/Nest/pull/2512) |
-| Fix: Prevent Accidental Map Zooming While Scrolling on Landing Page | Medium | [#2508](https://github.com/OWASP/Nest/pull/2508) |
 | Refactor layout and styling of Leaders and UserCard components for im… | Medium | [#2501](https://github.com/OWASP/Nest/pull/2501) |
 | Extend Board Candidates Transparency Dashboard | Medium | [#2500](https://github.com/OWASP/Nest/issues/2500) |
 | Extend Project Health Dashboard to chapters | Medium | [#2499](https://github.com/OWASP/Nest/issues/2499) |
@@ -457,6 +456,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
+| Fix: Resolved new user login issue in Pouranik | Medium | [#299](https://github.com/BhaktiMore18/Pouranik/pull/299) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#268](https://github.com/BhaktiMore18/Pouranik/issues/268) |
@@ -1102,8 +1102,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor: Improved Register Page UI and Responsiveness | Medium | [#762](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/762) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -2052,6 +2052,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added a Section to DevSync About Page | Medium | [#208](https://github.com/DevSyncx/DevSync/pull/208) |
 | Create dev | Medium | [#195](https://github.com/DevSyncx/DevSync/pull/195) |
 | Added DevSync logo in Navbar, Footer, and favicon | Medium | [#189](https://github.com/DevSyncx/DevSync/pull/189) |
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
@@ -2738,7 +2739,6 @@ Fast Workflow Tools
 | ♿ Accessibility Improvements | Easy | [#100](https://github.com/Rohit-Dnath/LOL-URL/issues/100) |
 | 🧪 Add More Unit & Integration Tests | Easy | [#99](https://github.com/Rohit-Dnath/LOL-URL/issues/99) |
 | 📦 Export Analytics Data as CSV | Easy | [#98](https://github.com/Rohit-Dnath/LOL-URL/issues/98) |
-| Unable to Singup & Why CHOOSE file | Medium | [#129](https://github.com/Rohit-Dnath/LOL-URL/issues/129) |
 | Add theme toggle | Medium | [#127](https://github.com/Rohit-Dnath/LOL-URL/pull/127) |
 | improve overall UI, implement dark mode light mode toggle support | Medium | [#126](https://github.com/Rohit-Dnath/LOL-URL/pull/126) |
 | Redesign Footer | Medium | [#125](https://github.com/Rohit-Dnath/LOL-URL/issues/125) |
@@ -2761,6 +2761,7 @@ Fast Workflow Tools
 | 🔔 Add Push Notifications for Important Events | Medium | [#94](https://github.com/Rohit-Dnath/LOL-URL/issues/94) |
 | 🧑‍💼 Add Admin Panel for User & Link Moderation | Hard | [#96](https://github.com/Rohit-Dnath/LOL-URL/issues/96) |
 | 🛡️ Add Rate Limiting to Public APIs | Hard | [#95](https://github.com/Rohit-Dnath/LOL-URL/issues/95) |
+| 🔒 Add Two-Factor Authentication (2FA) | Hard | [#92](https://github.com/Rohit-Dnath/LOL-URL/issues/92) |
 
 ---
 
@@ -2779,7 +2780,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| Added response regeneration with multi-model support and version control | Medium | [#143](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/143) |
 | Auth backend | Medium | [#141](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/141) |
 | feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
